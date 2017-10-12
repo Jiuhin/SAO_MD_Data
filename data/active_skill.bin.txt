@@ -1,0 +1,2799 @@
+skill_icon_lance_3_
+Dives into the enemy with a thrust and continues the attack with Libra magic. Likely to stun an enemy.
+Libra Spark
+Libra Spark
+skill_icon_lance_3_
+Showers lances and splits the enemy apart with the power of the Leo. Likely to stun an enemy.
+Leo Shower
+Leo Shower
+skill_icon_rod_3_
+Enemies get burned down with the flame of love. Activates an attack-invalidating barrier. Increase your own attack.
+Lovely Flame
+Lovely Flame
+skill_icon_rod_3_
+Summoned Pina divides, and delivers large amount of Dark Breath to an enemy. Your attack, speed and critical increases.
+Kagebunshin Ryusei
+Kagebunshin Ryusei
+skill_icon_rod_3_
+A high-level spell. Attack with a violent tsunami and increase your critical rate and speed.
+Blue Overdrive
+Blue Overdrive
+skill_icon_rod_3_
+Increase your own attack. Concentrate cold air into an ice force field from the ground swiftly.
+Absolute Zero
+Absolute Zero
+skill_icon_rod_3_
+A high-level dark spell. Send a magic bat flying, causing an explosion of darkness. Increase own speed.
+Bad Bats
+Bad Bats
+skill_icon_bow_3_
+Appears behind the enemy and attacks using her equipment as a whip. Activates an attack-invalidating barrier. Increases own attack and speed.
+Shining on Stage
+Shining on Stage
+skill_icon_bow_3_
+Attacks by shower of holy pompons, increasing attack of all party members by cheering.
+Cheers Fall
+Cheers Fall
+skill_icon_bow_3_
+Increase your own attack and teleport, then fire special arrows from behind the enemy while replenishing your HP.
+Devil's Sting
+Devil's Sting
+skill_icon_bow_3_
+Fire ice arrows in mid-air that sprout icebergs on impact. The ice sparkles like diamonds.
+Diamond Dust
+Diamond Dust
+skill_icon_gun_3_
+Scamper through enemies rapidly, lob apple shaped grenades. Decrease attack and defense of enemies. Increase own attack.
+Dangerous Apple
+Dangerous Apple
+skill_icon_gun_3_
+Put a electromagnetic bullet in the gun and shoot. Increase your attack and auto heals HP.
+Extended spark
+Extended Spark
+skill_icon_gun_3_
+Increase your attack power and fire a phantasmal gunshot at an enemy.
+Phantom Bullet
+Phantom Bullet
+skill_icon_mace_3_
+A sword skill that delivers combo like baton twirling, increasing attack of all party members and your own speed by cheering.
+Cheerful Upper
+Cheerful Upper
+skill_icon_mace_3_
+A sword skill that hammers the enemy with a club, as well as replenishing your HP and increasing your movement speed.
+Stun Concussion
+Stun Concussion
+skill_icon_mace_3_
+Increase your attack and quickly swing your club with a powerful burst of explosive energy.
+Asteroid Belt
+Asteroid Belt
+skill_icon_dagger_3_
+Slam down carrier bag and decreases attack and defense of enemies. Aircrafts do consecutive attacks.
+Traveling Smash
+Traveling Smash
+skill_icon_dagger_3_
+A sword skill that uses a curtain to attack after moving quickly. Activates an attack-invalidating barrier. Increases your attack.
+Raise the Curtain
+Raise the Curtain
+skill_icon_dagger_3_
+Shoots a flower like shock wave after continuous attacks. Also enhances your movement speed and attack.
+Elegant Blooming
+Elegant Blooming
+skill_icon_dagger_3_
+A sword skill that delivers combo and swings a dagger as a finishing stroke, increasing attack of all party members by cheering.
+Cheery Stars
+Cheery Stars
+skill_icon_dagger_3_
+Perform successive attack while the small dragon Pina's AI is breathing. Increase your attack and auto heals HP.
+Draconic Stream
+Draconic Stream
+skill_icon_dagger_3_
+Sneak behind an enemy as Pina douses them in a defense-lowering breath attack.
+Sweet Breath
+Sweet Breath
+skill_icon_dagger_3_
+Increase your attack and speed,  unleash an anti-air combo in mid-air with this sword skill.
+Innocent Blossom
+Innocent Blossom
+skill_icon_dagger_3_
+While receiving benefits from Pina's breath, perform a magic-imbued strike using this sword skill.
+Sirius's Spark
+Sirius's Spark
+skill_icon_dagger_3_
+A sword skill that thrashes at the ground in front of you. Also slightly increases both your attack and defense.
+Grey's Palette
+Grey's Palette
+skill_effect_83105
+skill_effect_83105
+skill_icon_dagger_3_
+A sword skill. Use magic to deal a devastating blow to your opponent while stealing their HP.
+Witch's Strike
+Witch's Strike
+skill_icon_dagger_3_
+Increase your own attack. Strike twice with a dagger, then get Pina to perform Bubble Breath on you.
+Bubble Cleaver
+Bubble Cleaver
+skill_effect_83102
+skill_effect_83102
+skill_icon_dagger_3_
+A sword skill. Use your dagger to block an attack, counter, and lower their defense.
+Sword Breaker
+Sword Breaker
+skill_icon_dagger_3_
+Summon Pina, whose breath replenishes your HP and temporarily boosts your attack and reduces damage.
+Healing Breath
+Healing Breath
+skill_icon_dagger_3_
+Summon Pina, whose breath replenishes your HP and temporarily boosts your attack. Reduced MP.
+Healing Breath
+Healing Breath
+skill_icon_finesword_3_
+After throwing a syringe, attack and fire a fatal shot. Decreases defense and attack of enemies.
+Love Injection
+Love Injection
+skill_icon_finesword_3_
+Casts a shining spell and attack enemies with a swift thrust and multiple magic arts. Likely to stun an enemy.
+Shining Gemini
+Shining Gemini
+skill_icon_finesword_3_
+A sword skill that leads into a Shooting Star through use of Skill Connect.
+Flashing Lance
+Flashing Lance
+skill_icon_finesword_3_
+Slashes on enemies overhead with teleportation Nin-jutsu. Enhances your speed and critical rate.
+Shadowflash Slash
+Shadowflash Slash
+skill_effect_63113
+skill_effect_63113
+skill_icon_finesword_3_
+Increase your attack and auto heals HP and deal ten hits in the shape of a cross, followed by a central attack.
+Mother's Rosario
+Mother's Rosario
+skill_icon_finesword_3_
+Performs a spinning slash which spills her hidden desserts. Enhances movement speed by eating the desserts.
+Unintended Rolling
+Unintended Rolling
+skill_icon_finesword_3_
+Unleash a barrage of thrusts in the shape of a heart, then finish off the enemy with a single hit, lowering their defense.
+Warm Splash
+Warm Splash
+skill_icon_finesword_3_
+Increase your critical rate 
+attack and unleash a flurry of watery rapiers in this combo-hitting sword skill.
+Valiant Neptune
+Valiant Neptune
+skill_icon_finesword_3_
+A sword skill. Increase your attack and unleash an anti-air four-hit combo from all directions.
+Flaming Bloom
+Flaming Bloom
+skill_icon_finesword_3_
+Unleash a chain of attacks behind the enemy. Also recovers HP and increase Atk and movement speed.
+Twinkling Comet
+Twinkling Comet
+skill_icon_finesword_3_
+Increases Atk. Unleash a flurry of thrusts, then a final brutal one, which drains HP.
+Trick or Treat
+Trick or Treat
+skill_icon_finesword_3_
+A sword skill. Enhance your speed and unleash a four-hit rapier wind combo.
+Gale Dance
+Gale Dance
+skill_icon_finesword_3_
+Enhance your speed and unleash a blinding eight-hit combo.
+Star Splash
+Star Splash
+skill_effect_33103
+skill_effect_33103
+skill_icon_dualblade_3_
+A sword skill which increases Atk. Thrust two swords into the enemy and absorb their HP.
+Bloody Fang
+Bloody Fang
+skill_effect_33102
+skill_effect_33102
+skill_icon_dualblade_3_
+A sword skill. Alternate between both hands to score a 15-hit combo with a one-handed sword.
+Skill Connect
+Skill Connect
+skill_icon_dualblade_3_
+Increase your attack power and quickly swing both swords in a 16-hit combo.
+Starburst Stream
+Starburst Stream
+skill_icon_dualblade_3_
+Increase your attack power and quickly swing both swords in a 16-hit combo.
+Starburst Stream
+Starburst Stream
+skill_icon_sword_3_
+It activates a barrier and when the sword on fire hits an enemy, a fiery ball appears.
+Object Eraser
+Object Eraser
+skill_icon_sword_3_
+Restores your party's HP, making yourself unbeatable. Attack enemies with tropical fruits.
+Tropical Rocket
+Tropical Rocket
+skill_icon_sword_3_
+Casts a fountain from the ground. Heals your HP and is likely to stun an enemy.
+Aqua fountain
+Aqua fountain
+skill_icon_sword_3_
+Releases the memory of 
+Fragrant Olive Sword
+to slash apart captured enemies. Raises ATK, Crit and Speed.
+Release Recollection
+Fragrant Olive Flash
+skill_icon_sword_3_
+Discharge an infinite number of swords from her skirt. Increase your attack. It activates the effect of automatic recovery.
+Assassination Sword
+Assassination Sword
+skill_icon_sword_3_
+A sparkling spell creates a prism clock shooting 12 swords as the time ticks. Decreases enemy defence and attack.
+Midnight Prism
+Midnight Prism
+skill_icon_sword_3_
+Enhance movement speed and blows a strong wind by the flute.
+Stormy Bloom
+Stormy Bloom
+skill_icon_sword_3_
+A sword skill that delivers powerful combo taught by her daddy, increasing attack of all party members by cheering.
+Bravery Slash
+Bravery Slash
+skill_icon_sword_3_
+Emit a heart-shaped shock wave from your blade and lower the enemy's defense with this sword skill.
+Radiant Heart
+Radiant Heart
+skill_icon_sword_3_
+A sword skill. Increase your critical rate 
+attack and strike with a torrent of water.
+Raging Torrent
+Raging Torrent
+skill_icon_sword_3_
+Enhance your movement speed and unleash an anti-air sword skill that floats like a dancing butterfly.
+Boisterous Butterfly
+Boisterous Butterfly
+skill_effect_23113
+skill_effect_23113
+skill_icon_sword_3_
+Enhance your attack and movement speed and unleash a dancing 8-chain attack with this sword skill.
+Spinning Force
+Spinning Force
+skill_icon_sword_3_
+A sword skill. Enhance attack and movement speed. Imbue sword strikes with wind magic.
+Sylphish Thrust
+Sylphish Thrust
+skill_icon_sword_3_
+Increases Atk and Speed.Strikes the enemy from all directions. Restores damage dealt as health.
+Starry Sky
+Starry Sky
+skill_icon_sword_3_
+A sword skill. Harness the wind to perform a spinning slash combo at an enhanced speed.
+Gusty Raid
+Gusty Raid
+skill_icon_sword_3_
+Rain's OSS. Summon an endless hail of swords from a rift in spacetime to launch at your enemies.
+Thousand Rain
+Thousand Rain
+skill_effect_23104
+skill_effect_23104
+skill_icon_sword_3_
+A sword skill. Increase your attack power and unleash an upward and then downward strike.
+Calamity Drive
+Calamity Drive
+skill_effect_23102
+skill_effect_23102
+skill_icon_sword_3_
+Increase your attack and deal ten hits in the shape of a cross, followed by a central attack.
+Mother's Rosario
+Mother's Rosario
+skill_icon_sword_3_
+Increase your speed, whip up a ferocious gale, and fire a wind-element magical sword.
+Fenrir Cyclone
+Fenrir Cyclone
+skill_icon_sword_3_
+Increase your speed, whip up a ferocious gale, and fire a wind-element magical sword.
+Fenrir Cyclone
+Fenrir Cyclone
+skill_icon_rod_3_
+Launch a mass of rocks that tear into the earth which decreases defence.
+Deathrock Cluster
+Deathrock Cluster
+skill_icon_rod_3_
+Increase your attack and draw a devastating pillar of light onto a target. Reduced cast time.
+Divine Ray
+Divine Ray
+skill_icon_rod_3_
+Increase your attack Bring forth slicing winds that unleash combo hits across a wide area.
+Tyrant Hurricane
+Tyrant Hurricane
+skill_icon_sword_3_
+Rising once again in augmented reality, increases your attack and auto heals HP and a hero accelerates further to unleash this 16-hit move.
+AugKinetic Accel
+AugKinetic Accel
+skill_icon_sword_3_
+Increase your attack power and deliver a quick and devastating slash.
+Zessen
+Zessen
+skill_icon_gun_3_
+Increase your attack power and fire a phantasmal gunshot at an enemy.
+Phantom Bullet
+Phantom Bullet
+skill_icon_mace_3_
+A sword skill. Increase your attack. Chant, causing lightning to strike together with your club.
+Lightning Comet
+Lightning Comet
+skill_icon_mace_3_
+Increase your both your attack and defense and swing your club violently, delivering a blow with meteoric power.
+Meteor Impact
+Meteor Impact
+skill_icon_mace_3_
+Increase your attack and swing your club violently, delivering a blow with meteoric power.
+Meteor Impact
+Meteor Impact
+skill_icon_shield_3_
+A sword skill. Call the judgement thunder and strike an enemy with lightning.
+Judgement Slash
+Judgement Slash
+skill_icon_shield_2_
+Slash diagonally with the sharpened mind. A powerful, quick sword skill.
+Punishment Slant
+Punishment Slant (Earth)
+skill_icon_shield_2_
+Slash diagonally with the sharpened mind. A powerful, quick sword skill.
+Punishment Slant
+Punishment Slant (Dark)
+skill_icon_shield_2_
+Slash diagonally with the sharpened mind. A powerful, quick sword skill.
+Punishment Slant
+Punishment Slant (Holy)
+skill_icon_shield_2_
+Slash diagonally with the sharpened mind. A powerful, quick sword skill.
+Punishment Slant
+Punishment Slant (Wind)
+skill_icon_shield_2_
+Slash diagonally with the sharpened mind. A powerful, quick sword skill.
+Punishment Slant
+Punishment Slant (Water)
+skill_icon_shield_2_
+Slash diagonally with the sharpened mind. A powerful, quick sword skill.
+Punishment Slant
+Punishment Slant (Fire)
+skill_icon_shield_2_
+Slash diagonally with the sharpened mind. A powerful, quick sword skill.
+Punishment Slant
+Punishment Slant
+skill_icon_shield_1_
+Deal a fierce thurst with a sheild. Reaches far ahead.
+Rigid Strike
+Rigid Strike (Earth)
+skill_icon_shield_1_
+Deal a fierce thurst with a sheild. Reaches far ahead.
+Rigid Strike
+Rigid Strike (Dark)
+skill_icon_shield_1_
+Deal a fierce thurst with a sheild. Reaches far ahead.
+Rigid Strike
+Rigid Strike (Holy)
+skill_icon_shield_1_
+Deal a fierce thurst with a sheild. Reaches far ahead.
+Rigid Strike
+Rigid Strike (Wind)
+skill_icon_shield_1_
+Deal a fierce thurst with a sheild. Reaches far ahead.
+Rigid Strike
+Rigid Strike (Water)
+skill_icon_shield_1_
+Deal a fierce thurst with a sheild. Reaches far ahead.
+Rigid Strike
+Rigid Strike (Fire)
+skill_icon_shield_1_
+Deal a fierce thurst with a sheild. Reaches far ahead.
+Rigid Strike
+Rigid Strike
+skill_icon_lance_3_
+Jump up high as swinging up a spear and unleash the dark force of the spear toward the ground.
+Demons Spear
+Demons Spear
+skill_icon_lance_3_
+A combination skill. Lance an enemy with all the strength. Reduces an enemy's defense.
+Throw the Javelin
+Throw the Javelin
+skill_icon_lance_3_
+Swings a spear around and produces a wind to blow up. It restores your HP and reduces damage received for a while.
+Cotton Candy
+Cotton Candy
+skill_icon_lance_3_
+Rushes forward as scraping the ground while it also restores HP. Throws a bunch of ice cream at enemies.
+Scrape Ice
+Scrape Ice
+skill_icon_lance_3_
+Summon a fox statue and explode it as enhancing your attack. Likely to stun an enemy.
+Basalt Collapse
+Basalt Collapse
+skill_icon_lance_3_
+Sets up the lance and performs a brave charge. After charging, strongly swings the lance and slides behind the enemy.
+Fearless Blitz
+Fearless Blitz
+skill_icon_lance_3_
+Textbooks fall down on the enemy's head as the pointer moves. Decreases enemy defence and attack.
+Daemon Teacher
+Daemon Teacher
+skill_icon_lance_3_
+Dives into the enemy with a thrust and continues the attack with Libra magic. Likely to stun an enemy.
+Libra Spark
+Libra Spark
+skill_icon_lance_3_
+Showers lances and splits the enemy apart with the power of the Leo. Likely to stun an enemy.
+Leo Shower
+Leo Shower
+skill_icon_lance_2_
+Swing a lance twice with might and main to attack wide range of surrounding enemies.
+Helical Twice
+Helical Twice (Earth)
+skill_icon_lance_2_
+Swing a lance twice with might and main to attack wide range of surrounding enemies.
+Helical Twice
+Helical Twice (Dark)
+skill_icon_lance_2_
+Swing a lance twice with might and main to attack wide range of surrounding enemies.
+Helical Twice
+Helical Twice (Holy)
+skill_icon_lance_2_
+Swing a lance twice with might and main to attack wide range of surrounding enemies.
+Helical Twice
+Helical Twice (Wind)
+skill_icon_lance_2_
+Swing a lance twice with might and main to attack wide range of surrounding enemies.
+Helical Twice
+Helical Twice (Water)
+skill_icon_lance_2_
+Swing a lance twice with might and main to attack wide range of surrounding enemies.
+Helical Twice
+Helical Twice (Fire)
+skill_icon_lance_2_
+Swing a lance twice with might and main to attack wide range of surrounding enemies.
+Helical Twice
+Helical Twice
+skill_icon_lance_1_
+Thrust to stop the enemy's movement and rush rapidly.
+Sonic Charge
+Sonic Charge (Earth)
+skill_icon_lance_1_
+Thrust to stop the enemy's movement and rush rapidly.
+Sonic Charge
+Sonic Charge (Dark)
+skill_icon_lance_1_
+Thrust to stop the enemy's movement and rush rapidly.
+Sonic Charge
+Sonic Charge (Holy)
+skill_icon_lance_1_
+Thrust to stop the enemy's movement and rush rapidly.
+Sonic Charge
+Sonic Charge (Wind)
+skill_icon_lance_1_
+Thrust to stop the enemy's movement and rush rapidly.
+Sonic Charge
+Sonic Charge (Water)
+skill_icon_lance_1_
+Thrust to stop the enemy's movement and rush rapidly.
+Sonic Charge
+Sonic Charge (Fire)
+skill_icon_lance_1_
+Thrust to stop the enemy's movement and rush rapidly.
+Sonic Charge
+Sonic Charge
+skill_icon_rod_3_
+Move instantly to the back of an enemy high up in the air. Produce a tornado and restore own HP. A combination skill.
+Cute Devil Tempest
+Cute Devil Tempest
+skill_icon_rod_3_
+Thrusts through enemies with magic forks and triggers an explosion. Increases your attack.
+Fork Cluster
+Fork Cluster
+skill_icon_rod_3_
+Spell fire wolves to attack enemies. Decrease attack and defense.
+Wolf Grenade
+Wolf Grenade
+skill_icon_rod_3_
+Enemies get burned down with the flame of love. Activates an attack-invalidating barrier.
+Lovely Flame
+Lovely Flame
+skill_icon_rod_3_
+Appears behind the enemy and slashes using her hidden sword.
+Rapid Storm
+Rapid Storm
+skill_icon_rod_3_
+Summoned Pina divides, and delivers large amount of Dark Breath to an enemy. Your speed and critical increases.
+Kagebunshin Ryusei
+Kagebunshin Ryusei
+skill_icon_rod_3_
+A high-level spell. Attack with a violent tsunami and increase your critical rate.
+Blue Overdrive
+Blue Overdrive
+skill_icon_rod_3_
+Increase your attack and hammer a set of magical wings into the enemy with this anti-air sword skill.
+Fortune Strike
+Fortune Strike
+skill_icon_rod_3_
+A high-level fire spell. Increase your attack power and critical rate and unleash fireballs at your foe.
+Vulcan Spread
+Vulcan Spread
+skill_icon_rod_3_
+A high-level earth spell. Launch a mass of rocks that tear into the earth.
+Deathrock Cluster
+Deathrock Cluster
+skill_icon_rod_3_
+A high-level holy spell. Rain down heavenly light, replenishing your HP and increasing your movement speed.
+Angelic Halo
+Angelic Halo
+skill_icon_rod_3_
+A high-level wind spell. Bring forth slicing winds that unleash combo hits across a wide area.
+Tyrant Hurricane
+Tyrant Hurricane
+skill_icon_rod_3_
+A high-level dark spell. Produce a huge dome made from darkness that destroys all it covers.
+Dimensional Abyss
+Dimensional Abyss
+skill_icon_rod_3_
+A high-level holy spell. Draw a devastating pillar of light from the heavens onto a target.
+Divine Ray
+Divine Ray
+skill_icon_rod_3_
+A high-level wind spell. Summon a barrier that defends against up to five attacks.
+Butterfly Barrier
+Butterfly Barrier
+skill_icon_rod_3_
+A high-level water spell. Concentrate cold air into an ice force field from the ground.
+Absolute Zero
+Absolute Zero
+skill_icon_rod_3_
+A high-level fire spell. Unleash a fearsome, fiery wind that sets enemies in range on fire.
+Meteor Explosion
+Meteor Explosion
+skill_icon_rod_1_
+A high-level dark spell. Send a magic bat flying, causing an explosion of darkness.
+Bad Bats
+Bad Bats
+skill_icon_rod_1_
+A mid-level earth spell. Drop a large boulder on the head of a target.
+Rock Drop
+Rock Fall
+skill_icon_rod_1_
+A mid-level dark spell. Cause a dark, spacetime-bending whirlpool to swirl down from the sky.
+Void Distortion
+Void Distortion
+skill_icon_rod_1_
+A mid-level holy spell. Holy lightning strikes from the heavens.
+Holy Spark
+Holy Spark
+skill_icon_rod_1_
+A mid-level wind spell. Unleash a wind beast that tears the target to shreds.
+Tornado Fang
+Tornado Fang
+skill_icon_rod_1_
+A mid-level water spell. High-speed, spinning ice spears rain down from the sky.
+Freezing Lancer
+Freezing Lancer
+skill_icon_rod_1_
+A mid-level fire spell. Large fireballs rain down from the sky.
+Flame Blast
+Flame Blast
+skill_icon_rod_2_
+Largely recover your entire party's HP with a healing light.
+Refresh
+Refresh
+skill_icon_rod_2_
+Push your body to its limits and temporarily increase your attack speed.
+Quick Strike
+Quick Strike
+skill_icon_rod_2_
+Push your body to its limits and temporarily increase your movement speed.
+Accelerator
+Accelerator
+skill_icon_rod_2_
+Replenish your party's HP and temporarily increase both your defense and that of nearby allies.
+Protection
+Protection
+skill_icon_rod_2_
+Temporarily increase the attack strength of yourself and the allies around you.
+Sharpness
+Sharpness
+skill_icon_rod_2_
+Partially recover your entire party's HP with a healing light.
+Heal
+Heal
+skill_icon_rod_1_
+A low-level earth spell. Fire a boulder at a target.
+Stone Slinger
+Sling Stone
+skill_icon_rod_1_
+A low-level dark spell. Fire dark energy at a target.
+Dark Sphere
+Dark Sphere
+skill_icon_rod_1_
+A low-level holy spell. Send a glimmering ball of light flying at a target.
+Light Drop
+Light Drop
+skill_icon_rod_1_
+A low-level wind spell. Draw a wind blade and lunge at the target.
+Wind Cutter
+Wind Cutter
+skill_icon_rod_1_
+A low-level water spell. Draw an ice blade and lunge at the target.
+Ice Bullet
+Ice Bullet
+skill_icon_rod_1_
+A low-level fire spell. Fire a small fireball at a target.
+Fireball
+Fireball
+skill_icon_rod_3_
+A high-level fire spell. Unleash a fearsome, fiery wind that sets enemies in range on fire.
+Meteor Explosion
+Meteor Explosion
+skill_icon_rod_1_
+A mid-level fire spell. Large fireballs rain down from the sky.
+Flame Blast
+Flame Blast
+skill_icon_rod_2_
+Largely recover your entire party's HP with a healing light.
+Refresh
+Refresh
+skill_icon_rod_2_
+Partially recover your entire party's HP with a healing light.
+Heal
+Heal
+skill_icon_rod_1_
+A low-level fire spell. Fire a small fireball at a target.
+Fireball
+Fireball
+skill_icon_bow_3_
+After shooting a Retrieve Arrow, teleport and give a kick, then pull a silvery thread to slash with the Excalibur.
+Retrieve Excalibur
+Retrieve Excalibur
+skill_icon_bow_3_
+Restores HP and reduces damage received temporarily. It dumps umbrellas with magical power.
+Rain of Umbrella
+Rain of Umbrella
+skill_icon_bow_3_
+Sit on materialized chair, healing yourself. And then release lucky birds to attack. Likely to stun an enemy.
+Dove Splash
+Dove Splash
+skill_icon_bow_3_
+Shoots a storm arrow and includes enemies into a whirlwind. Increases your attack.
+Stormy Service
+Stormy Service
+skill_icon_bow_3_
+Shoots arrows and make them appear below. Replenishes HP and reduces damage received temporarily.
+Rising Sakura Shower
+Rising Sakura Shower
+skill_icon_bow_3_
+Appears behind the enemy and attacks using her equipment as a whip. Activates an attack-invalidating barrier.
+Shining on Stage
+Shining on Stage
+skill_icon_bow_3_
+Attacks by shower of holy pompons, increasing attack of all party members by cheering.
+Cheers Fall
+Cheers Fall
+skill_icon_bow_3_
+Fly towards the targeted enemy and lower their defense with this arrow-based sword skill.
+Cupid's Rain
+Cupid's Rain
+skill_icon_bow_3_
+Increase your attack and fire off a flurry of anti-air magical arrows from a magical square with this sword skill.
+Quasar Drop
+Quasar Drop
+skill_icon_bow_3_
+Teleport and fire special arrows from behind the enemy while replenishing your HP.
+Devil's Sting
+Devil's Sting
+skill_icon_bow_3_
+Fire ice arrows in mid-air that sprout icebergs on impact. The ice sparkles like diamonds.
+Diamond Dust
+Diamond Dust
+skill_icon_bow_3_
+Ensnare the enemy in briars, and while they are unable to move, fire a thorny arrow at them.
+Devil's Cradle
+Devil's Cradle
+skill_icon_bow_1_
+One of the best sword skills for the bow. Unleash an arrow brimming with powerful magic.
+Strike Nova
+Strike Nova (Earth)
+skill_icon_bow_1_
+One of the best sword skills for the bow. Unleash an arrow brimming with powerful magic.
+Strike Nova
+Strike Nova (Dark)
+skill_icon_bow_1_
+One of the best sword skills for the bow. Unleash an arrow brimming with powerful magic.
+Strike Nova
+Strike Nova (Holy)
+skill_icon_bow_1_
+One of the best sword skills for the bow. Unleash an arrow brimming with powerful magic.
+Strike Nova
+Strike Nova (Wind)
+skill_icon_bow_1_
+One of the best sword skills for the bow. Unleash an arrow brimming with powerful magic.
+Strike Nova
+Strike Nova (Water)
+skill_icon_bow_1_
+One of the best sword skills for the bow. Unleash an arrow brimming with powerful magic.
+Strike Nova
+Strike Nova (Fire)
+skill_icon_bow_1_
+One of the best sword skills for the bow. Unleash an arrow brimming with powerful magic.
+Strike Nova
+Strike Nova
+skill_icon_bow_1_
+A wide-ranging sword skill for the long bow. Call down arrows to rain around you.
+Hail Bullet
+Hail Bullet (Earth)
+skill_icon_bow_1_
+A wide-ranging sword skill for the long bow. Call down arrows to rain around you.
+Hail Bullet
+Hail Bullet (Dark)
+skill_icon_bow_1_
+A wide-ranging sword skill for the long bow. Call down arrows to rain around you.
+Hail Bullet
+Hail Bullet (Holy)
+skill_icon_bow_1_
+A wide-ranging sword skill for the long bow. Call down arrows to rain around you.
+Hail Bullet
+Hail Bullet (Wind)
+skill_icon_bow_1_
+A wide-ranging sword skill for the long bow. Call down arrows to rain around you.
+Hail Bullet
+Hail Bullet (Water)
+skill_icon_bow_1_
+A wide-ranging sword skill for the long bow. Call down arrows to rain around you.
+Hail Bullet
+Hail Bullet (Fire)
+skill_icon_bow_1_
+A wide-ranging sword skill for the long bow. Call down arrows to rain around you.
+Hail Bullet
+Hail Bullet
+skill_icon_bow_1_
+A special sword skill for the long bow. Fire a magic arrow that chases down its target.
+Multiple Chaser
+Multiple Chaser (Earth)
+skill_icon_bow_1_
+A special sword skill for the long bow. Fire a magic arrow that chases down its target.
+Multiple Chaser
+Multiple Chaser (Dark)
+skill_icon_bow_1_
+A special sword skill for the long bow. Fire a magic arrow that chases down its target.
+Multiple Chaser
+Multiple Chaser (Holy)
+skill_icon_bow_1_
+A special sword skill for the long bow. Fire a magic arrow that chases down its target.
+Multiple Chaser
+Multiple Chaser (Wind)
+skill_icon_bow_1_
+A special sword skill for the long bow. Fire a magic arrow that chases down its target.
+Multiple Chaser
+Multiple Chaser (Water)
+skill_icon_bow_1_
+A special sword skill for the long bow. Fire a magic arrow that chases down its target.
+Multiple Chaser
+Multiple Chaser (Fire)
+skill_icon_bow_1_
+A special sword skill for the long bow. Fire a magic arrow that chases down its target.
+Multiple Chaser
+Multiple Chaser
+skill_icon_bow_1_
+A sword skill for the long bow. Fire an arrow that brings forth boulders from wherever it lands.
+Petra Shot
+Petra Shot
+skill_icon_bow_1_
+A sword skill for the long bow. Fire an arrow imbued with dark energy.
+Demento Arrow
+Demento Arrow
+skill_icon_bow_1_
+A sword skill for the long bow. Fire a powerful arrow that leaves a trail of light.
+Photon Shot
+Photon Shot
+skill_icon_bow_1_
+A sword skill for the long bow. Fire an arrow imbued with the wind.
+Windshear Shot
+Windshear Shot
+skill_icon_bow_1_
+A sword skill for the long bow. Fire a frozen arrow.
+Glacial Shot
+Glacial Shot
+skill_icon_bow_1_
+A sword skill for the long bow. Fire a flaming arrow that explodes on impact.
+Explode Arrow
+Explode Arrow
+skill_icon_gun_3_
+A combination skill. It weaves a sticky spider web to catch an enemy and shoot it with a gun. It restores your own HP.
+Scary Magic
+Scary Magic
+skill_icon_gun_3_
+Attack an enemy with a cannon. It enhances all the players' attack and reduces enemies' defense a little bit.
+Hydro Cannon
+Hydro Cannon
+skill_icon_gun_3_
+Come around behind an enemy by jumping and attack with water pressure from a hose. It restores HP.
+Acrobat Splash
+Acrobat Splash
+skill_icon_gun_3_
+Shoot a bullet as enhancing your attack and produce a large flower. Likely to stun an enemy.
+Early Call
+Early Call
+skill_icon_gun_3_
+Jump up backward and throw the handcuffs and then shoot a gun. Decrease enemies' attack and defense.
+Shockwave Handcuffs
+Shockwave Handcuffs
+skill_icon_gun_3_
+Scamper through enemies rapidly, lob apple shaped grenades. Decrease attack and defense of enemies.
+Dangerous Apple
+Dangerous Apple
+skill_icon_gun_3_
+Put a electromagnetic bullet in the gun and shoot. Increase your attack and auto heals HP.
+Extended spark
+Extended spark
+skill_icon_gun_3_
+Raise one knee and aim at the target and shoot twice in a row.
+Dual Puncture
+Dual Puncture
+skill_icon_gun_3_
+Gun-skill which throws and activates grenade in the air, and raise his/her own speed.
+Grenade Shot
+Grenade Shot
+skill_icon_gun_3_
+Take aim then hurl a grenade at the enemy. The grenade is packaged in a lovely present box.
+Burst Gift
+Burst Gift
+skill_icon_gun_3_
+After increasing your attack and critical rate, launch a sliding tackle under the enemy and fire a blazing bullet at them.
+Blazing Slider
+Blazing Slider
+skill_icon_gun_3_
+Jump high into the air and fire a powerful, phantasmal gunshot.
+Phantom Bullet
+Phantom Bullet
+skill_gun_alo_01
+gun_skill_weapon
+skill_icon_gun_1_
+Take an optical gun from your inventory and fire a large laser beam.
+Laser Rifle
+Laser Rifle (Water)
+skill_icon_gun_1_
+Take an optical gun from your inventory and fire a large laser beam.
+Laser Rifle
+Laser Rifle (Earth)
+skill_icon_gun_1_
+Take an optical gun from your inventory and fire a large laser beam.
+Laser Rifle
+Laser Rifle (Dark)
+skill_icon_gun_1_
+Take an optical gun from your inventory and fire a large laser beam.
+Laser Rifle
+Laser Rifle (Holy)
+skill_icon_gun_1_
+Take an optical gun from your inventory and fire a large laser beam.
+Laser Rifle
+Laser Rifle (Wind)
+skill_icon_gun_1_
+Take an optical gun from your inventory and fire a large laser beam.
+Laser Rifle
+Laser Rifle (Water)
+skill_icon_gun_1_
+Take an optical gun from your inventory and fire a large laser beam.
+Laser Rifle
+Laser Rifle (Fire)
+skill_icon_gun_1_
+Take an optical gun from your inventory and fire a large laser beam.
+Laser Rifle
+Laser Rifle
+skill_icon_gun_1_
+Lob a smoke grenade that releases a toxic gas.
+Smoke Grenade
+Smoke Grenade
+skill_icon_gun_1_
+Lob a grenade that creates a huge explosion.
+Grenade Explosion
+Grenade Explosion
+skill_icon_gun_1_
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw (Earth)
+skill_icon_gun_1_
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw (Dark)
+skill_icon_gun_1_
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw (Holy)
+skill_icon_gun_1_
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw (Wind)
+skill_icon_gun_1_
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw (Water)
+skill_icon_gun_1_
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw (Fire)
+skill_icon_gun_1_
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw
+skill_icon_gun_1_
+Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
+Prone Shot
+Prone Shot (Earth)
+skill_icon_gun_1_
+Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
+Prone Shot
+Prone Shot (Dark)
+skill_icon_gun_1_
+Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
+Prone Shot
+Prone Shot (Holy)
+skill_icon_gun_1_
+Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
+Prone Shot
+Prone Shot (Wind)
+skill_icon_gun_1_
+Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
+Prone Shot
+Prone Shot (Water)
+skill_icon_gun_1_
+Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
+Prone Shot
+Prone Shot (Fire)
+skill_icon_gun_1_
+Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
+Prone Shot
+Prone Shot
+skill_icon_gun_1_
+Take an optical gun from your inventory and fire a large laser beam.
+Laser Rifle
+Laser Rifle
+skill_icon_gun_1_
+Lob a grenade that creates a huge explosion.
+Grenade Explosion
+Grenade Explosion
+skill_icon_gun_1_
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw
+skill_icon_gun_1_
+Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
+Prone Shot
+Prone Shot
+skill_icon_mace_3_
+A combination skill. It puts an enemy under a dark spell as moving instantly to the back of the enemy. It also sucks up the enemy's HP to restores your own HP.
+Ritual Trick
+Ritual Trick
+skill_icon_mace_3_
+A combination Skill. Make Weapons appear up in the air and drop them to enemies. The dropped weapons might be...
+M. Smith Abandon
+Master Smith Abandon
+skill_icon_mace_3_
+Takes out a beach ball and hits by a club as restoring HP.
+Raging Beach
+Raging Beach
+skill_icon_mace_3_
+Draws birds with a big brush. Birds fly to the sky. increases your movement speed. 
+Vivid Art
+Vivid Art
+skill_icon_mace_3_
+Flutter ruffles as swinging a mace around the enemy. Decreases defense and attack of enemies.
+Swift Waitress
+Swift Waitress
+skill_icon_mace_3_
+Increases speed and toss a huge bouquet with an exuberance. Heals yourself. Likely to stun an enemy.
+Bouquet of Happiness
+Bouquet of Happiness
+skill_icon_mace_3_
+Busts a dome of water and smashes the enemy. Heals your HP and is likely to stun an enemy.
+Splash Impact
+Splash Impact
+skill_icon_mace_3_
+Clean the enemy up by a mop. Increase your attack and speed.
+Quick Cleaner
+Quick Cleaner
+skill_icon_mace_3_
+Summon Pina and attack by soaring up petals from below. Decrease attack and defense of enemies.
+Shade Flower
+Shade Flower
+skill_icon_mace_3_
+Hits mace, being surrounded petals of Sakura. Replenishes HP and reduces damage received temporarily.
+blossom Impact
+Blossom Impact
+skill_icon_mace_3_
+Smashes the ground and explodes balloon to give multiple hits. Activates an attack-invalidating barrier.
+Balloon Surprise
+Balloon Surprise
+skill_icon_mace_3_
+A sword skill that delivers combo like baton twirling, increasing attack of all party members by cheering.
+Cheerful Upper
+Cheerful Upper
+skill_icon_mace_3_
+Strike the ground and make an explosion giving successive hits. Increase your attack and auto heals HP.
+Augmented Smash
+Augmented Smash
+skill_icon_mace_3_
+Slice enemy by summoning avatars, and give one large blow to finish off. Enhances your speed and critical rate.
+Quadstar Blades
+Quadstar Blades
+skill_icon_mace_3_
+A Sword Skill that wraps enemies in electricity.
+Rage Vortex
+Rage Vortex
+skill_icon_mace_3_
+Attacks with boiling soup, and replenishes HP.
+Chef's Special
+Chef's Special
+skill_icon_mace_3_
+Drastically reduce distance and slash. Increasing your speed.
+Grinding Strike
+Grinding Strike
+skill_icon_mace_3_
+A sword skill. Increase your movement speed and unleash a 3-hit combo starting with a swift back-handed smack.
+Almighty Roar
+Almighty Roar
+skill_icon_mace_3_
+A sword skill. While increasing your critical rate, cause waves to crash and unleash a flurry of hits with your club.
+Spiral Stream
+Spiral Stream
+skill_icon_mace_3_
+Wrapping your club in water, swing and slam it into the ground to cause a massive tidal wave.
+Surging Tide
+Surging Tide
+skill_icon_mace_3_
+A sword skill that hammers the enemy with a club, as well as replenishing your HP and increasing your movement speed.
+Dazed and Confused
+Dazed and Confused
+skill_icon_mace_3_
+Swing around a club cloaked in flame, increasing your strength and critical rate, and unleash an explosive burst.
+Volcanic Eruption
+Volcanic Eruption
+skill_icon_mace_3_
+Slightly increase both your attack and defense. Make the earth shake with a strike to the ground with your club.
+Earth Shaker
+Earth Shaker
+skill_icon_mace_3_
+A sword skill. Strike upward with your club from a low stance while stealing your enemy's HP.
+Carmilla Nail
+Carmilla Nail
+skill_effect_103105
+skill_effect_103105
+skill_icon_mace_3_
+Strike the ground with your club to create a pumpkin shaped explosion as your HP replenishes.
+Pumpkin Bomb
+Pumpkin Bomb
+skill_effect_103104
+skill_effect_103104
+skill_icon_mace_3_
+Create a whirlwind with your club, temporarily lowering the enemy's defense.
+Tornado Buster
+Tornado Buster
+skill_icon_mace_3_
+A sword skill. Chant, causing lightning to strike together with your club.
+Lightning Comet
+Lightning Comet
+skill_icon_mace_3_
+Swing your club violently downward, delivering a blow with meteoric power.
+Meteor Impact
+Meteor Impact
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Earth)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Dark)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Holy)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Wind)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Water)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Fire)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Earth)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Dark)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Holy)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Wind)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Water)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Fire)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Earth)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Dark)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Holy)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Wind)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Water)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Fire)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation
+skill_icon_mace_1_
+Brave Oscillation
+Brave Oscillation (Earth)
+skill_icon_mace_1_
+Brave Oscillation
+Brave Oscillation (Dark)
+skill_icon_mace_1_
+Brave Oscillation
+Brave Oscillation (Holy)
+skill_icon_mace_1_
+Brave Oscillation
+Brave Oscillation (Wind)
+skill_icon_mace_1_
+Brave Oscillation
+Brave Oscillation (Water)
+skill_icon_mace_1_
+Brave Oscillation
+Brave Oscillation (Fire)
+skill_icon_mace_1_
+Brave Oscillation
+Brave Oscillation
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Earth)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Dark)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Holy)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Wind)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Water)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Fire)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Earth)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Dark)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Holy)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Wind)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Water)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Fire)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision
+skill_icon_mace_3_
+After a high jump, create impulse waves to attack by slamming down the mace to the ground. A combination skill.
+Destructive Blow
+Destructive Blow
+skill_icon_mace_3_
+Swing the club, accumulate power of earth into the fist, and strikes the field.  Energy sprays out from the struck field.
+Earth Crasher
+Earth Crasher
+skill_icon_mace_3_
+A high-level club skill. Focus your power and swing your club with an explosive burst of energy.
+Asteroid Belt
+Asteroid Belt
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Earth)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Dark)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Holy)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Wind)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Water)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing (Fire)
+skill_icon_mace_2_
+Swing your club as you spin around, sending enemies around you flying.
+Blast Swing
+Blast Swing
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Earth)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Dark)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Holy)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Wind)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Water)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash (Fire)
+skill_icon_mace_2_
+A sword skill. Focus your power, then unleash it, dealing a four-hit combo with your club.
+Riot Smash
+Riot Smash
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Earth)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Dark)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Holy)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Wind)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Water)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation (Fire)
+skill_icon_mace_2_
+Swing a one-handed club with all your might and send your opponents flying into the air.
+Elevation
+Elevation
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Earth)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Dark)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Holy)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Wind)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Water)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact (Fire)
+skill_icon_mace_1_
+Perform a giant swing into the ground with a club, affecting a wide area.
+Numbing Impact
+Numbing Impact
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Earth)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Dark)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Holy)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Wind)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Water)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision (Fire)
+skill_icon_mace_1_
+Swing your club with all your might and deal a heavy blow.
+Collision
+Collision
+skill_icon_dagger_3_
+A combination skill. Jump on an enemy and scratch all over with nails with a cat coming out of nowhere. It restores your own HP.
+Cat Parade
+Cat Parade
+skill_icon_dagger_3_
+A combination skill. Move instantly to the back of an enemy and do combos with Pina's breath. Unleash brutal thrusts.
+Be With You
+Be With You
+skill_icon_dagger_3_
+Set a treasure box shaped trap. It enhances all the players' attack and reduces enemies' defense a little bit.
+Desire Treasure
+Desire Treasure
+skill_icon_dagger_3_
+Spin attack with sunflowers as it restores HP.
+Sunny Day's Step
+Sunny Day's Step
+skill_icon_dagger_3_
+Increase your attack. Unleash a chain of attacks keeping the chocolate bananas. Likely to stun an enemy.
+Sweet Temptation
+Sweet Temptation
+skill_icon_dagger_3_
+Enhance all the party members' Attack. Attack 
+steal enemies' HP to restore your HP with sparkles.
+Promised Night
+Promised Night
+skill_icon_dagger_3_
+A skill that activates attack-invalidating barrier and performs consecutive hits raising a cloud of sand.
+Sandy Venus
+Sandy Venus
+skill_icon_dagger_3_
+Slam down carrier bag and decreases attack and defense of enemies. Aircrafts do consecutive attacks.
+Traveling Smash
+Traveling Smash
+skill_icon_dagger_3_
+Attacks enemy by splashing water. Philia becomes drenched but heals HP and is likely to stun an enemy.
+Flash Flood
+Flash Flood
+skill_icon_dagger_3_
+After healing yourself, rush by the holy brightness of the ring on her ring finger. Likely to stun an enemy.
+Glitter Ring
+Glitter Ring
+skill_icon_dagger_3_
+Attack by a tray put tea set. At the same time, increase your attack.
+Curious Tea Party
+Curious Tea Party
+skill_icon_dagger_3_
+Spell wave which decreases attack and defense of enemies, and attack by surfing on the wave
+Longing for Surfing
+Longing for Surfing
+skill_icon_dagger_3_
+A sword skill that uses a curtain to attack after moving quickly. Activates an attack-invalidating barrier.
+Raise the Curtain
+Raise the Curtain
+skill_icon_dagger_3_
+After a combo, jump up high to stick a dugger on ground and blow up explosive flame.
+Deus Ignis
+Deus Ignis
+skill_icon_dagger_3_
+Shoots a flower like shock wave after continuous attacks. Also enhances your movement speed.
+Elegant Blooming
+Elegant Blooming
+skill_icon_dagger_3_
+A sword skill that delivers combo and swings a dagger as a finishing stroke, increasing attack of all party members by cheering.
+Cheery Stars
+Cheery Stars
+skill_icon_dagger_3_
+Shoots out Shurikens, and rushes to slice enemies by the power of darkness. Enhances your speed and critical rate.
+Shadow Bird Dance
+Shadow Bird Dance
+skill_icon_dagger_3_
+Perform successive attack while the small dragon Pina's AI is breathing. Increase your attack and auto heals HP.
+Draconic Stream
+Draconic Stream
+skill_icon_dagger_3_
+Rushes by utilizing rotative force, and then blow out right above by the last attack.
+Tetra Brandish
+Tetra Brandish
+skill_icon_dagger_3_
+Sneak behind an enemy as Pina douses them in a defense-lowering breath attack.
+Sweet Breath
+Sweet Breath
+skill_icon_dagger_3_
+Increase your own movement speed and unleash an anti-air combo in mid-air with this sword skill.
+Piercing Blink
+Piercing Blink
+skill_icon_dagger_3_
+Increase your attack and unleash an anti-air combo in mid-air with this sword skill.
+Innocent Blossom
+Innocent Blossom
+skill_icon_dagger_3_
+While powering up using magic, fly up close to the enemy and strike them multiple times.
+Flip Strike
+Flip Strike
+skill_icon_dagger_3_
+While receiving benefits from Pina's breath, perform a magic-imbued strike using this sword skill.
+Sirius's Spark
+Sirius's Spark
+skill_effect_83107
+skill_effect_83107
+skill_icon_dagger_3_
+A sword skill combining fishing rod and dagger. Use the rod to pull a pillar of water into the enemy.
+Mighty Cast
+Mighty Cast
+skill_icon_dagger_3_
+A sword skill that thrashes at the ground in front of you. Also slightly increases both your attack and defense.
+Grey's Palette
+Grey's Palette
+skill_effect_83105
+skill_effect_83105
+skill_icon_dagger_3_
+A sword skill. Use magic to deal a devastating blow to your opponent while stealing their HP.
+Witch's Strike
+Witch's Strike
+skill_icon_dagger_3_
+A sword skill. Unleash slashing and wind magic attacks while lowering the enemy's defense.
+Storm Rider
+Storm Rider
+skill_icon_dagger_3_
+Strike twice with a dagger, then get Pina to perform Bubble Breath on you.
+Bubble Cleaver
+Bubble Cleaver
+skill_effect_83102
+skill_effect_83102
+skill_icon_dagger_3_
+A sword skill. Use your dagger to repel an enemy's attack, then stab them as they flail.
+Sword Breaker
+Sword Breaker
+skill_icon_dagger_3_
+Summon Pina, whose breath replenishes your HP and temporarily boosts your attack power.
+Healing Breath
+Healing Breath
+skill_icon_dagger_2_
+Brandish a dagger, then put all your weight behind it and bring it down hard on your opponent.
+Thrust Fall
+Thrust Fall (Earth)
+skill_icon_dagger_2_
+Brandish a dagger, then put all your weight behind it and bring it down hard on your opponent.
+Thrust Fall
+Thrust Fall (Dark)
+skill_icon_dagger_2_
+Brandish a dagger, then put all your weight behind it and bring it down hard on your opponent.
+Thrust Fall
+Thrust Fall (Holy)
+skill_icon_dagger_2_
+Brandish a dagger, then put all your weight behind it and bring it down hard on your opponent.
+Thrust Fall
+Thrust Fall (Wind)
+skill_icon_dagger_2_
+Brandish a dagger, then put all your weight behind it and bring it down hard on your opponent.
+Thrust Fall
+Thrust Fall (Water)
+skill_icon_dagger_2_
+Brandish a dagger, then put all your weight behind it and bring it down hard on your opponent.
+Thrust Fall
+Thrust Fall (Fire)
+skill_icon_dagger_2_
+Brandish a dagger, then put all your weight behind it and bring it down hard on your opponent.
+Thrust Fall
+Thrust Fall
+skill_effect_82102_7
+skill_effect_82102
+skill_icon_dagger_2_
+Spin through the air, striking the enemy with a four-hit combo.
+Rapid Spin
+Rapid Spin (Earth)
+skill_effect_82102_6
+skill_effect_82102
+skill_icon_dagger_2_
+Spin through the air, striking the enemy with a four-hit combo.
+Rapid Spin
+Rapid Spin (Dark)
+skill_effect_82102_5
+skill_effect_82102
+skill_icon_dagger_2_
+Spin through the air, striking the enemy with a four-hit combo.
+Rapid Spin
+Rapid Spin (Holy)
+skill_effect_82102_4
+skill_effect_82102
+skill_icon_dagger_2_
+Spin through the air, striking the enemy with a four-hit combo.
+Rapid Spin
+Rapid Spin (Wind)
+skill_effect_82102_3
+skill_effect_82102
+skill_icon_dagger_2_
+Spin through the air, striking the enemy with a four-hit combo.
+Rapid Spin
+Rapid Spin (Water)
+skill_effect_82102_2
+skill_effect_82102
+skill_icon_dagger_2_
+Spin through the air, striking the enemy with a four-hit combo.
+Rapid Spin
+Rapid Spin (Fire)
+skill_effect_82102_1
+skill_effect_82102
+skill_icon_dagger_2_
+Spin through the air, striking the enemy with a four-hit combo.
+Rapid Spin
+Rapid Spin
+skill_icon_dagger_2_
+Slash the enemy quickly four times.
+Fading Edge
+Fading Edge (Earth)
+skill_icon_dagger_2_
+Slash the enemy quickly four times.
+Fading Edge
+Fading Edge (Dark)
+skill_icon_dagger_2_
+Slash the enemy quickly four times.
+Fading Edge
+Fading Edge (Holy)
+skill_icon_dagger_2_
+Slash the enemy quickly four times.
+Fading Edge
+Fading Edge (Wind)
+skill_icon_dagger_2_
+Slash the enemy quickly four times.
+Fading Edge
+Fading Edge (Water)
+skill_icon_dagger_2_
+Slash the enemy quickly four times.
+Fading Edge
+Fading Edge (Fire)
+skill_icon_dagger_2_
+Slash the enemy quickly four times.
+Fading Edge
+Fading Edge
+skill_icon_dagger_1_
+A sword skill. Rush back and forth, slashing with a dagger quicker than the eye can see.
+Swift Trick
+Swift Trick (Earth)
+skill_icon_dagger_1_
+A sword skill. Rush back and forth, slashing with a dagger quicker than the eye can see.
+Swift Trick
+Swift Trick (Dark)
+skill_icon_dagger_1_
+A sword skill. Rush back and forth, slashing with a dagger quicker than the eye can see.
+Swift Trick
+Swift Trick (Holy)
+skill_icon_dagger_1_
+A sword skill. Rush back and forth, slashing with a dagger quicker than the eye can see.
+Swift Trick
+Swift Trick (Wind)
+skill_icon_dagger_1_
+A sword skill. Rush back and forth, slashing with a dagger quicker than the eye can see.
+Swift Trick
+Swift Trick (Water)
+skill_icon_dagger_1_
+A sword skill. Rush back and forth, slashing with a dagger quicker than the eye can see.
+Swift Trick
+Swift Trick (Fire)
+skill_icon_dagger_1_
+A sword skill. Rush back and forth, slashing with a dagger quicker than the eye can see.
+Swift Trick
+Swift Trick
+skill_icon_dagger_1_
+Rush forward with a dagger, then slash upwards in a gouging motion.
+Rapid Bite
+Rapid Bite (Earth)
+skill_icon_dagger_1_
+Rush forward with a dagger, then slash upwards in a gouging motion.
+Rapid Bite
+Rapid Bite (Dark)
+skill_icon_dagger_1_
+Rush forward with a dagger, then slash upwards in a gouging motion.
+Rapid Bite
+Rapid Bite (Holy)
+skill_icon_dagger_1_
+Rush forward with a dagger, then slash upwards in a gouging motion.
+Rapid Bite
+Rapid Bite (Wind)
+skill_icon_dagger_1_
+Rush forward with a dagger, then slash upwards in a gouging motion.
+Rapid Bite
+Rapid Bite (Water)
+skill_icon_dagger_1_
+Rush forward with a dagger, then slash upwards in a gouging motion.
+Rapid Bite
+Rapid Bite (Fire)
+skill_icon_dagger_1_
+Rush forward with a dagger, then slash upwards in a gouging motion.
+Rapid Bite
+Rapid Bite
+skill_icon_finesword_3_
+A combination skill. After wrapping up an enemy in a bandage, move to the back of the enemy and unleash lightning. It restores your own HP.
+Replicant Spark
+Replicant Spark
+skill_icon_finesword_3_
+A combination skill. After a 6-hit move, move to the back of an enemy. After punching, stab with a sword.
+Flashing Pain
+Flashing Pain
+skill_icon_finesword_3_
+A combination skill. Come rushing around behind an enemy and perform a spinning slash.
+Starry Flash
+Starry Flash
+skill_icon_finesword_3_
+While moving around an enemy quickly, perform combo attacks. It enhances all the players' attack and reduces enemies' defense a little bit.
+Aqua Slash
+Aqua Slash
+skill_icon_finesword_3_
+Blow up with a large fan. It restores your HP and reduces damage received for a while.
+Amatsukaze
+Amatsukaze
+skill_icon_finesword_3_
+It throws a swim high up in the air and attack enemies. It restores HP.
+Catch the Sun
+Catch the Sun
+skill_icon_finesword_3_
+Increase your attack and unleash a chain of attacks in a flurry of sparks. Likely to stun an enemy.
+Last Sparkler
+Last Sparkler
+skill_icon_finesword_3_
+Enhance all the party members' Attack and restore your HP. Attack enemies.
+Wishing Star
+Wishing Star
+skill_icon_finesword_3_
+A skill that activates attack-invalidating barrier, and performs a spinning slash, then smashes a beach ball onto enemies.
+Sonic Spike
+Sonic Spike
+skill_icon_finesword_3_
+After throwing a syringe, attack and fire a fatal shot. Decreases defense and attack of enemies.
+Love Injection
+Love Injection
+skill_icon_finesword_3_
+After healing yourself, attack rapidly and pack enemies in holy light. Likely to stun an enemy.
+Blessing Light
+Blessing Light
+skill_icon_finesword_3_
+Casts a shining spell and attack enemies with a swift thrust and some magic. Likely to stun an enemy.
+Shining Gemini
+Shining Gemini
+skill_icon_finesword_3_
+Increase your attack, critical and speed by spinning yourself and fire a fatal shot. 
+Material Dance
+Material Dance
+skill_icon_finesword_3_
+A sword skill. Slash the enemy at the back.
+Hide Behind
+Hide Behind
+skill_icon_finesword_3_
+A sword skill. Activate the attack-invalidating barrier, stopping the enemy and attacking .
+Charming Baby
+Charming Baby
+skill_icon_finesword_3_
+During destroy milk pots, increase your attack. Attack wide range by muddy stream.
+Milky Wave
+Milky Wave
+skill_icon_finesword_3_
+Innocent Fairy
+Innocent Fairy
+skill_icon_finesword_3_
+A sword skill that attacks with a quick combo. Activates an attack-invalidating barrier.
+Supernal Smile
+Supernal Smile
+skill_icon_finesword_3_
+A sword skill that leads into a Quadruple Pain through use of Skill Connect.
+Delta Attack
+Delta Attack
+skill_icon_finesword_3_
+A sword skill that leads into a Shooting Star through use of Skill Connect.
+Flashing Lance
+Flashing Lance
+skill_icon_finesword_3_
+Slashes on enemies overhead with teleportation Nin-jutsu. Enhances your speed and critical rate.
+Shadowflash Slash
+Shadowflash Slash
+skill_icon_finesword_3_
+Create a small garden which recovers HP, and poke and spell butterflies which decrease attack and defense of enemies.
+Petit Jardin
+Petit Jardin
+skill_effect_63113
+skill_effect_63113
+skill_icon_finesword_3_
+Increase your attack and auto heals HP and deal ten hits in the shape of a cross, followed by a central attack.
+Mother's Rosario
+Mother's Rosario
+skill_icon_finesword_3_
+Performs a spinning slash which spills her hidden desserts. Enhances movement speed by eating the desserts.
+Unintended Rolling
+Unintended Rolling
+skill_icon_finesword_3_
+A sword skill that delivers combo by a rapier and pompoms.
+Cheerful Dance
+Cheerful Dance
+skill_icon_finesword_3_
+It's sword skill that gives long range sword slash after giving rapid stabs
+Slashing Chaser
+Slashing Chaser
+skill_icon_finesword_3_
+Unleash a barrage of thrusts in the shape of a heart, then finish off the enemy with a single hit, lowering their defense.
+Warm Splash
+Warm Splash
+skill_icon_finesword_3_
+Restore your allies' HP and give your movement speed a boost by cooking up a special dish.
+Cozy Kitchen
+Cozy Kitchen
+skill_icon_finesword_3_
+Increase your critical rate and unleash a flurry of watery rapiers in this combo-hitting sword skill.
+Valiant Neptune
+Valiant Neptune
+skill_icon_finesword_3_
+A sword skill. Increase your attack and unleash an anti-air four-hit combo from all directions.
+Flaming Bloom
+Flaming Bloom
+skill_icon_finesword_3_
+A sword skill. Unleash a chain of attacks behind the enemy and also recover your HP and increase movement speed.
+Twinkling Comet
+Twinkling Comet
+skill_icon_finesword_3_
+A combo skill. Unleash a flurry of thrusts, then a final brutal one, while replenishing your HP.
+Trick or Treat
+Trick or Treat
+skill_icon_finesword_3_
+A sword skill. Enhance your speed and unleash a four-hit rapier wind combo.
+Gale Dance
+Gale Dance
+skill_icon_finesword_3_
+An 8-hit combo: 3 mid thrusts, 2 low jabs, 2 upper thrusts, and 1 huge final strike.
+Star Splash
+Star Splash
+skill_icon_finesword_2_
+A high-level skill. Perform five quick strikes with a rapier.
+Neutron
+Neutron (Earth)
+skill_icon_finesword_2_
+A high-level skill. Perform five quick strikes with a rapier.
+Neutron
+Neutron (Dark)
+skill_icon_finesword_2_
+A high-level skill. Perform five quick strikes with a rapier.
+Neutron
+Neutron (Holy)
+skill_icon_finesword_2_
+A high-level skill. Perform five quick strikes with a rapier.
+Neutron
+Neutron (Wind)
+skill_icon_finesword_2_
+A high-level skill. Perform five quick strikes with a rapier.
+Neutron
+Neutron (Water)
+skill_icon_finesword_2_
+A high-level skill. Perform five quick strikes with a rapier.
+Neutron
+Neutron (Fire)
+skill_icon_finesword_2_
+A high-level skill. Perform five quick strikes with a rapier.
+Neutron
+Neutron
+skill_icon_finesword_2_
+A sword skill. Deliver an upward thrust into the air followed by a sudden downward strike.
+Aero Penetrator
+Aero Penetrator (Earth)
+skill_icon_finesword_2_
+A sword skill. Deliver an upward thrust into the air followed by a sudden downward strike.
+Aero Penetrator
+Aero Penetrator (Dark)
+skill_icon_finesword_2_
+A sword skill. Deliver an upward thrust into the air followed by a sudden downward strike.
+Aero Penetrator
+Aero Penetrator (Holy)
+skill_icon_finesword_2_
+A sword skill. Deliver an upward thrust into the air followed by a sudden downward strike.
+Aero Penetrator
+Aero Penetrator (Wind)
+skill_icon_finesword_2_
+A sword skill. Deliver an upward thrust into the air followed by a sudden downward strike.
+Aero Penetrator
+Aero Penetrator (Water)
+skill_icon_finesword_2_
+A sword skill. Deliver an upward thrust into the air followed by a sudden downward strike.
+Aero Penetrator
+Aero Penetrator (Fire)
+skill_icon_finesword_2_
+A sword skill. Deliver an upward thrust into the air followed by a sudden downward strike.
+Aero Penetrator
+Aero Penetrator
+skill_icon_finesword_2_
+Perform a lightning-quick four-hit combo.
+Quadruple Pain
+Quadruple Pain (Earth)
+skill_icon_finesword_2_
+Perform a lightning-quick four-hit combo.
+Quadruple Pain
+Quadruple Pain (Dark)
+skill_icon_finesword_2_
+Perform a lightning-quick four-hit combo.
+Quadruple Pain
+Quadruple Pain (Holy)
+skill_icon_finesword_2_
+Perform a lightning-quick four-hit combo.
+Quadruple Pain
+Quadruple Pain (Wind)
+skill_icon_finesword_2_
+Perform a lightning-quick four-hit combo.
+Quadruple Pain
+Quadruple Pain (Water)
+skill_icon_finesword_2_
+Perform a lightning-quick four-hit combo.
+Quadruple Pain
+Quadruple Pain (Fire)
+skill_icon_finesword_2_
+Perform a lightning-quick four-hit combo.
+Quadruple Pain
+Quadruple Pain
+skill_icon_finesword_1_
+Perform a speedy piercing attack with a rapier.
+Shooting Star
+Shooting Star (Earth)
+skill_icon_finesword_1_
+Perform a speedy piercing attack with a rapier.
+Shooting Star
+Shooting Star (Dark)
+skill_icon_finesword_1_
+Perform a speedy piercing attack with a rapier.
+Shooting Star
+Shooting Star (Holy)
+skill_icon_finesword_1_
+Perform a speedy piercing attack with a rapier.
+Shooting Star
+Shooting Star (Wind)
+skill_icon_finesword_1_
+Perform a speedy piercing attack with a rapier.
+Shooting Star
+Shooting Star (Water)
+skill_icon_finesword_1_
+Perform a speedy piercing attack with a rapier.
+Shooting Star
+Shooting Star (Fire)
+skill_icon_finesword_1_
+Perform a speedy piercing attack with a rapier.
+Shooting Star
+Shooting Star
+skill_icon_finesword_1_
+A basic rapier technique. Come around behind an enemy and perform a 3-hit combo at a blinding speed.
+Triangle Sting
+Triangle Sting (Earth)
+skill_icon_finesword_1_
+A basic rapier technique. Come around behind an enemy and perform a 3-hit combo at a blinding speed.
+Triangle Sting
+Triangle Sting (Dark)
+skill_icon_finesword_1_
+A basic rapier technique. Come around behind an enemy and perform a 3-hit combo at a blinding speed.
+Triangle Sting
+Triangle Sting (Holy)
+skill_icon_finesword_1_
+A basic rapier technique. Come around behind an enemy and perform a 3-hit combo at a blinding speed.
+Triangle Sting
+Triangle Sting (Wind)
+skill_icon_finesword_1_
+A basic rapier technique. Come around behind an enemy and perform a 3-hit combo at a blinding speed.
+Triangle Sting
+Triangle Sting (Water)
+skill_icon_finesword_1_
+A basic rapier technique. Come around behind an enemy and perform a 3-hit combo at a blinding speed.
+Triangle Sting
+Triangle Sting (Fire)
+skill_icon_finesword_1_
+A basic rapier technique. Come around behind an enemy and perform a 3-hit combo at a blinding speed.
+Triangle Sting
+Triangle Sting
+skill_icon_finesword_1_
+A basic rapier technique. Perform a fast twisting thrust.
+Linear
+Linear (Earth)
+skill_icon_finesword_1_
+A basic rapier technique. Perform a fast twisting thrust.
+Linear
+Linear (Dark)
+skill_icon_finesword_1_
+A basic rapier technique. Perform a fast twisting thrust.
+Linear
+Linear (Holy)
+skill_icon_finesword_1_
+A basic rapier technique. Perform a fast twisting thrust.
+Linear
+Linear (Wind)
+skill_icon_finesword_1_
+A basic rapier technique. Perform a fast twisting thrust.
+Linear
+Linear (Water)
+skill_icon_finesword_1_
+A basic rapier technique. Perform a fast twisting thrust.
+Linear
+Linear (Fire)
+skill_icon_finesword_1_
+A basic rapier technique. Perform a fast twisting thrust.
+Linear
+Linear
+skill_icon_dualblade_3_
+Restores HP and reduces damage received for a certain period of time. After 6 consecutive hits, the hidden sword shoots off.
+Final Rain
+Final Rain
+skill_icon_dualblade_3_
+Enhance your attack and unleash a chain of attacks with a fluid motion.  Likely to stun an enemy.
+Illusional Wreath
+Illusional Wreath
+skill_icon_dualblade_3_
+Enhance all the party members' Attack 
+restore your HP. Unleash a chain of attacks with a fluid motion.
+Dual Orbit
+Dual Orbit
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Earth)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Dark)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Holy)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Wind)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Water)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Fire)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Earth)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Dark)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Holy)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Wind)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Water)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Fire)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular
+skill_icon_dualblade_3_
+Wield two swords in both hands swiftly. After making a cross in the air and fall rapidly. Attack an enemy using the impact of the fall.
+Raging Fall
+Raging Fall
+skill_icon_dualblade_3_
+Raise an evil spirit by stabbing the ground with a sword and restore own HP. A combination skill.
+Knight Blaze Hollow
+Knight Blaze Hollow
+skill_icon_dualblade_3_
+A combination skill. With two swords in both hands, perform a 16-hit combo. In the end, come around behind an enemy and attack.
+Starburst Galaxy
+Starburst Galaxy
+skill_icon_dualblade_3_
+Attack with water blowing up. It enhances all the players' attack and reduces enemies' defense a little bit.
+Buccaneer Fountain
+Buccaneer Fountain
+skill_icon_dualblade_3_
+Activates attack-invalidating barrier. Kick up a coconut into the air and slash down an enemy with two swords before the coconut falls back.   
+Summer Moments
+Summer Moments
+skill_icon_dualblade_3_
+A sword skill that leads into a Double Circular through use of Skill Connect.
+Nightmare Rain
+Nightmare Rain
+skill_icon_dualblade_3_
+It's sword skill that wields two swords in both hands at high speed and slash the space into cross
+Raging Cross
+Raging Cross
+skill_icon_dualblade_3_
+A Dual Blades sword skill that unleashes three blades of light in front of you as well as replenishing your HP and increasing movement speed.
+Riot Light
+Riot Light
+skill_effect_33103
+skill_effect_33103
+skill_icon_dualblade_3_
+A sword skill. Thrust two swords into the enemy and absorb their HP.
+Bloody Fang
+Bloody Fang
+skill_effect_33102
+skill_effect_33102
+skill_icon_dualblade_3_
+A sword skill. Alternate between both hands to score a 15-hit combo with a one-handed sword.
+Skill Connect
+Skill Connect
+skill_icon_dualblade_3_
+A high-level Dual Blades sword skill. Quickly swing both swords in a 16-hit combo.
+Starburst Stream
+Starburst Stream
+skill_icon_dualblade_2_
+Fly at the enemy and deliver a devastating slash in a cross shape.
+Cygnus Onslaught
+Cygnus Onslaught (Earth)
+skill_icon_dualblade_2_
+Fly at the enemy and deliver a devastating slash in a cross shape.
+Cygnus Onslaught
+Cygnus Onslaught (Dark)
+skill_icon_dualblade_2_
+Fly at the enemy and deliver a devastating slash in a cross shape.
+Cygnus Onslaught
+Cygnus Onslaught (Holy)
+skill_icon_dualblade_2_
+Fly at the enemy and deliver a devastating slash in a cross shape.
+Cygnus Onslaught
+Cygnus Onslaught (Wind)
+skill_icon_dualblade_2_
+Fly at the enemy and deliver a devastating slash in a cross shape.
+Cygnus Onslaught
+Cygnus Onslaught (Water)
+skill_icon_dualblade_2_
+Fly at the enemy and deliver a devastating slash in a cross shape.
+Cygnus Onslaught
+Cygnus Onslaught (Fire)
+skill_icon_dualblade_2_
+Fly at the enemy and deliver a devastating slash in a cross shape.
+Cygnus Onslaught
+Cygnus Onslaught
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Earth)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Dark)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Holy)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Wind)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Water)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution (Fire)
+skill_icon_dualblade_2_
+A Dual Blades sword skill. Spin at high speed while holding both swords out.
+Final Revolution
+Final Revolution
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Earth)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Dark)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Holy)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Wind)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Water)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular (Fire)
+skill_icon_dualblade_1_
+A sword skill unique to Dual Blades. Thrust with one sword
+slash with the other.
+Double Circular
+Double Circular
+skill_icon_sword_3_
+A combination skill. Jump high up and create a tornado. Reduces enemies' defense.
+Tornado Skewer
+Tornado Skewer
+skill_icon_sword_3_
+Slash through an enemy's back and strike the enemy in the dark. A combination skill that restores own HP.
+Knight's Costume
+Knight's Costume
+skill_icon_sword_3_
+A combination skill. Get the back of an enemy while drawing stars of cross and doing combos. Unleash brutal thrusts with flash.
+Make a Mark
+Make a Mark
+skill_icon_sword_3_
+Slash through an enemy's back and release the memory of 
+Fragrant Olive Sword
+and tie up the enemy with golden flowers.
+Release Recollection
+Fragrant Olive Penetration
+skill_icon_sword_3_
+A combination skill. Move instantly to the back of an enemy with some magic and slash, then create a huge a tornado.
+Sylphide Sky
+Sylphide Sky
+skill_icon_sword_3_
+When the sword on fire hits an enemy, a fiery ball appears.
+Object Eraser
+Object Eraser
+skill_icon_sword_3_
+Activates attack-invalidating barrier, releases thermal elements to enemies and unleash a brutal thrust.
+Blaze Slash
+Blaze Slash
+skill_icon_sword_3_
+Attack enemies by dropping a bunch of barrels on their head. It enhances all the players' attack and reduces enemies' defense a little bit.
+Barrel Rush
+Barrel Rush
+skill_icon_sword_3_
+Harness wind to come around behind an enemy and attack from there. It restores your HP and reduces damage received for a while. 
+Windmill Thrust
+Windmill Thrust
+skill_icon_sword_3_
+It restores your party's HP and hides yourself. Attack enemies with tropical fruits.
+Tropical Rocket
+Tropical Rocket
+skill_icon_sword_3_
+Train appears from another dimension and runs through rapidly. Decreases enemy defence and attack.
+Runaway Train
+Runaway Train
+skill_icon_sword_3_
+It restores HP and reduces damage received for a certain period of time. It darts, rains and performs multistep attacks.
+Hydrangea
+Hydrangea
+skill_icon_sword_3_
+Heals yourself with the power of flower and move instantly to the back of an enemy. And then, chop down and thrust the enemy. Likely to stun an enemy.
+Unrequited Love
+Unrequited Love
+skill_icon_sword_3_
+Release the memory of 
+Fragrant Olive Sword
+, and make float golden flowers on holy carpet. Heals your HP. Likely to stun an enemy.
+Release Recollection
+Holy Carpet of Fragrant Olive
+skill_icon_sword_3_
+Calls a Meteor from the sky and performs a multi-combo attack. Likely to stun an enemy.
+Aries Barrage
+Aries Barrage
+skill_icon_sword_3_
+Use knowledge of martial arts and attack immediately. Keep your mind focused after attacking and increase your attack and critical.
+Zan-Shin
+Zan-Shin
+skill_icon_sword_3_
+Casts a fountain from the ground. Heals your HP and is likely to stun an enemy.
+Aqua fountain
+Aqua fountain
+skill_icon_sword_3_
+Releases the memory of 
+Fragrant Olive Sword
+to slash apart captured enemies. Raises ATK and Crit.
+Release Recollection
+Fragrant Olive Flash
+skill_icon_sword_3_
+Discharge an infinite number of swords from her skirt. Increase your attack.
+Assassination Sword
+Assassination Sword
+skill_icon_sword_3_
+A sparkling spell creates a prism clock shooting 12 swords as the time ticks. Decreases enemy defence and attack.
+Midnight Prism
+Midnight Prism
+skill_icon_sword_3_
+Spell Sakura storm. Replenishes HP and reduces damage received for a certain period of time.
+Spring Bloom
+Spring Bloom
+skill_icon_sword_3_
+Activates attack-invalidating barrier, and gives enemy one big swing from above.
+Adorably Amorous
+Adorably Amorous
+skill_icon_sword_3_
+Enhance movement speed and blows a strong wind by the flute.
+Stormy Bloom
+Stormy Bloom
+skill_icon_sword_3_
+After jumping high, deal a 6-hit combo rapidly.
+Air Violet
+Air Violet
+skill_icon_sword_3_
+A sword skill that delivers powerful combo taught by her daddy, increasing attack of all party members by cheering.
+Bravery Slash
+Bravery Slash
+skill_icon_sword_3_
+A sword skill that leads into a Storm Slash through use of Skill Connect.
+Deadly Sins
+Deadly Sins
+skill_icon_sword_3_
+Dance Floria
+Dance Floria
+skill_icon_sword_3_
+The sword skill combo slashing up on the enemy's back by madness shadow. Enhances your speed and critical rate.
+Void Flash
+Void Flash
+skill_icon_sword_3_
+Release the hidden memory of 
+Fragrant Olive Sword
+, and change the blade into thousands of Golden Flowers. Regenerates HP and raise ATK.
+Release Recollection
+Fragrant Olive Sword
+skill_icon_sword_3_
+Buff all allies and restore MP with a smash hit augmented reality pop song.
+Ordinal Scale
+Ordinal Scale
+skill_icon_sword_3_
+Emit a heart-shaped shock wave from your blade and lower the enemy's defense with this sword skill.
+Radiant Heart
+Radiant Heart
+skill_icon_sword_3_
+A sword skill. Increase your critical rate and strike with a torrent of water.
+Raging Torrent
+Raging Torrent
+skill_icon_sword_3_
+Enhance your movement speed and unleash an anti-air sword skill that floats like a dancing butterfly.
+Boisterous Butterfly
+Boisterous Butterfly
+skill_effect_23113
+skill_effect_23113
+skill_icon_sword_3_
+Enhance your movement speed and unleash a dancing 8-chain attack with this sword skill.
+Spinning Force
+Spinning Force
+skill_icon_sword_3_
+A sword skill. Enhance movement speed and imbue sword strikes with wind magic.
+Sylphish Thrust
+Sylphish Thrust
+skill_icon_rod_2_
+Partially recover your entire party's HP with the power of healing crystals and temporarily increase the defense of allies around you.
+Healing Wish
+Healing Wish
+skill_icon_sword_3_
+A sword skill. Set off a cracker after a chain of attacks that replenishes your HP and boosts your movement speed.
+Smashing Cracker
+Smashing Cracker
+skill_icon_sword_3_
+Dance around the enemy striking from all directions. Restore some magic damage dealt as health.
+Starry Sky
+Starry Sky
+skill_icon_sword_3_
+Knock enemies into the air. A piercing attack is dealt from above as spears erupt from below.
+Muddy Blast
+Muddy Blast
+skill_icon_sword_3_
+A sword skill. Harness the wind to perform a spinning slash combo at an enhanced speed.
+Gusty Raid
+Gusty Raid
+skill_icon_sword_3_
+Rain's OSS. Summon countless swords from a rift in spacetime to launch at your enemies.
+Thousand Rain
+Thousand Rain
+skill_effect_23104
+skill_effect_23104
+skill_icon_sword_3_
+A sword skill. Build up energy before unleashing an upward and then downward strike.
+Calamity Drive
+Calamity Drive
+skill_effect_23102
+skill_effect_23102
+skill_icon_sword_3_
+Yuuki's OSS. Deal ten hits in the shape of a cross, followed by a powerful attack to its center.
+Mother's Rosario
+Mother's Rosario
+skill_icon_sword_3_
+Chant to whip up a ferocious gale and fire a wind-element magical sword.
+Fenrir Cyclone
+Fenrir Cyclone
+skill_effect_22204_7
+skill_effect_22204
+skill_icon_sword_2_
+Perform a powerful spinning slash, followed by a damaging blast of air.
+Storm Slash
+Storm Slash (Earth)
+skill_effect_22204_6
+skill_effect_22204
+skill_icon_sword_2_
+Perform a powerful spinning slash, followed by a damaging blast of air.
+Storm Slash
+Storm Slash (Dark)
+skill_effect_22204_5
+skill_effect_22204
+skill_icon_sword_2_
+Perform a powerful spinning slash, followed by a damaging blast of air.
+Storm Slash
+Storm Slash (Holy)
+skill_effect_22204_4
+skill_effect_22204
+skill_icon_sword_2_
+Perform a powerful spinning slash, followed by a damaging blast of air.
+Storm Slash
+Storm Slash (Wind)
+skill_effect_22204_3
+skill_effect_22204
+skill_icon_sword_2_
+Perform a powerful spinning slash, followed by a damaging blast of air.
+Storm Slash
+Storm Slash (Water)
+skill_effect_22204_2
+skill_effect_22204
+skill_icon_sword_2_
+Perform a powerful spinning slash, followed by a damaging blast of air.
+Storm Slash
+Storm Slash (Fire)
+skill_effect_22204_1
+skill_effect_22204
+skill_icon_sword_2_
+Perform a powerful spinning slash, followed by a damaging blast of air.
+Storm Slash
+Storm Slash
+skill_icon_sword_2_
+A sword skill. Perform four fast vertical strikes.
+Vertical Square
+Vertical Square (Earth)
+skill_icon_sword_2_
+A sword skill. Perform four fast vertical strikes.
+Vertical Square
+Vertical Square (Dark)
+skill_icon_sword_2_
+A sword skill. Perform four fast vertical strikes.
+Vertical Square
+Vertical Square (Holy)
+skill_icon_sword_2_
+A sword skill. Perform four fast vertical strikes.
+Vertical Square
+Vertical Square (Wind)
+skill_icon_sword_2_
+A sword skill. Perform four fast vertical strikes.
+Vertical Square
+Vertical Square (Water)
+skill_icon_sword_2_
+A sword skill. Perform four fast vertical strikes.
+Vertical Square
+Vertical Square (Fire)
+skill_icon_sword_2_
+A sword skill. Perform four fast vertical strikes.
+Vertical Square
+Vertical Square
+skill_icon_sword_2_
+A sword skill. Perform a quick slash that looks like it was made by a three-clawed beast.
+Sharp Nail
+Sharp Nail (Earth)
+skill_icon_sword_2_
+A sword skill. Perform a quick slash that looks like it was made by a three-clawed beast.
+Sharp Nail
+Sharp Nail (Dark)
+skill_icon_sword_2_
+A sword skill. Perform a quick slash that looks like it was made by a three-clawed beast.
+Sharp Nail
+Sharp Nail (Holy)
+skill_icon_sword_2_
+A sword skill. Perform a quick slash that looks like it was made by a three-clawed beast.
+Sharp Nail
+Sharp Nail (Wind)
+skill_icon_sword_2_
+A sword skill. Perform a quick slash that looks like it was made by a three-clawed beast.
+Sharp Nail
+Sharp Nail (Water)
+skill_icon_sword_2_
+A sword skill. Perform a quick slash that looks like it was made by a three-clawed beast.
+Sharp Nail
+Sharp Nail (Fire)
+skill_icon_sword_2_
+A sword skill. Perform a quick slash that looks like it was made by a three-clawed beast.
+Sharp Nail
+Sharp Nail
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Earth)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Dark)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Holy)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Wind)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Water)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Fire)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Earth)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Dark)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Holy)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Wind)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Water)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Fire)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike
+skill_icon_sword_3_
+Freeze an enemy by 
+Blue Rose Sword
+and shatter the ice into pieces when you hold the sword and aim at the enemy.
+Release Recollection
+Blue Rose Bullet
+skill_icon_sword_3_
+Attack enemies by slashing into their body very hard. A combination skill.
+Dexterous Slash
+Dexterous Slash
+skill_icon_sword_3_
+A combination skill. Swing a sword as if it's a claw. It restores own HP.
+Wolfking's Claw
+Wolfking's Claw
+skill_icon_sword_3_
+Slash through an enemy's back and release the memory of 
+Blue Rose Sword
+and attack with icicles.
+Release Recollection
+Blue Rose Icicle
+skill_icon_sword_3_
+A sword skill. Attend to the spirit and unleash a brutal thrust.
+Stealth Sword Dance
+Stealth Sword Dance
+skill_icon_sword_3_
+Activates attack-invalidating barrier, and charges up with the momentum generated by aerial elements.
+Surf the Breeze
+Surf the Breeze
+skill_icon_sword_3_
+Using two swords, one in each hand, slashes in a blur of speed.
+Slash Wave
+Slash Wave
+skill_icon_sword_3_
+Increase your attack and critical by swinging a long sword in a flurry of sparks and fire three shots.
+Riot Friction
+Riot Friction
+skill_icon_sword_3_
+Release the memory of 
+Blue Rose Sword
+to multi-attack the frozen enemy. Raises ATK and Crit.
+Release Recollection
+Blue Rose Combination
+skill_icon_sword_3_
+Hack down with sword with blazing fire. Mad fire blows up, smashing the enemy. 
+Kingslayer
+Kingslayer
+skill_icon_sword_3_
+Release the hidden memory of 
+Blue Rose Sword
+, and freeze the vicinity completely. Regenerates HP and raise ATK.
+Release Recollection
+Blue Rose Sword
+skill_icon_sword_3_
+Rising once again in augmented reality, increases your attack and auto heals HP and a hero accelerates further to unleash this 16-hit move.
+AugKinetic Accel
+AugKinetic Accel
+skill_icon_sword_3_
+Increase your attack power and critical, and deliver a flame-cloaked sword-thrust.
+Vermilion Surge
+Vermilion Surge
+skill_icon_sword_3_
+Focus before delivering a devastating slash from waist height.
+Zessen
+Zessen
+skill_icon_sword_2_
+A potent three-hit move. Deal a slash horizontally, vertically upward, and finally downward.
+Savage Fulcrum
+Savage Fulcrum (Earth)
+skill_icon_sword_2_
+A potent three-hit move. Deal a slash horizontally, vertically upward, and finally downward.
+Savage Fulcrum
+Savage Fulcrum (Dark)
+skill_icon_sword_2_
+A potent three-hit move. Deal a slash horizontally, vertically upward, and finally downward.
+Savage Fulcrum
+Savage Fulcrum (Holy)
+skill_icon_sword_2_
+A potent three-hit move. Deal a slash horizontally, vertically upward, and finally downward.
+Savage Fulcrum
+Savage Fulcrum (Wind)
+skill_icon_sword_2_
+A potent three-hit move. Deal a slash horizontally, vertically upward, and finally downward.
+Savage Fulcrum
+Savage Fulcrum (Water)
+skill_icon_sword_2_
+A potent three-hit move. Deal a slash horizontally, vertically upward, and finally downward.
+Savage Fulcrum
+Savage Fulcrum (Fire)
+skill_icon_sword_2_
+A potent three-hit move. Deal a slash horizontally, vertically upward, and finally downward.
+Savage Fulcrum
+Savage Fulcrum
+skill_icon_sword_2_
+A sword skill for a one-handed sword. Deal four horizontal hits to surrounding enemies.
+Horizontal Square
+Horizontal Square (Earth)
+skill_icon_sword_2_
+A sword skill for a one-handed sword. Deal four horizontal hits to surrounding enemies.
+Horizontal Square
+Horizontal Square (Dark)
+skill_icon_sword_2_
+A sword skill for a one-handed sword. Deal four horizontal hits to surrounding enemies.
+Horizontal Square
+Horizontal Square (Holy)
+skill_icon_sword_2_
+A sword skill for a one-handed sword. Deal four horizontal hits to surrounding enemies.
+Horizontal Square
+Horizontal Square (Wind)
+skill_icon_sword_2_
+A sword skill for a one-handed sword. Deal four horizontal hits to surrounding enemies.
+Horizontal Square
+Horizontal Square (Water)
+skill_icon_sword_2_
+A sword skill for a one-handed sword. Deal four horizontal hits to surrounding enemies.
+Horizontal Square
+Horizontal Square (Fire)
+skill_icon_sword_2_
+A sword skill for a one-handed sword. Deal four horizontal hits to surrounding enemies.
+Horizontal Square
+Horizontal Square
+skill_icon_sword_2_
+A two-hit combo with a one-handed sword. Strike down and then up in a V-shape.
+Vertical Arc
+Vertical Arc (Earth)
+skill_icon_sword_2_
+A two-hit combo with a one-handed sword. Strike down and then up in a V-shape.
+Vertical Arc
+Vertical Arc (Dark)
+skill_icon_sword_2_
+A two-hit combo with a one-handed sword. Strike down and then up in a V-shape.
+Vertical Arc
+Vertical Arc (Holy)
+skill_icon_sword_2_
+A two-hit combo with a one-handed sword. Strike down and then up in a V-shape.
+Vertical Arc
+Vertical Arc (Wind)
+skill_icon_sword_2_
+A two-hit combo with a one-handed sword. Strike down and then up in a V-shape.
+Vertical Arc
+Vertical Arc (Water)
+skill_icon_sword_2_
+A two-hit combo with a one-handed sword. Strike down and then up in a V-shape.
+Vertical Arc
+Vertical Arc (Fire)
+skill_icon_sword_2_
+A two-hit combo with a one-handed sword. Strike down and then up in a V-shape.
+Vertical Arc
+Vertical Arc
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Earth)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Dark)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Holy)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Wind)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Water)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike (Fire)
+skill_icon_sword_1_
+Deal a single, fierce attack that hits hard and reaches far in front of you.
+Vorpal Strike
+Vorpal Strike
+skill_icon_sword_1_
+Jump and perform an overhead strike with a one-handed sword.
+Sonic Leap
+Sonic Leap (Earth)
+skill_icon_sword_1_
+Jump and perform an overhead strike with a one-handed sword.
+Sonic Leap
+Sonic Leap (Dark)
+skill_icon_sword_1_
+Jump and perform an overhead strike with a one-handed sword.
+Sonic Leap
+Sonic Leap (Holy)
+skill_icon_sword_1_
+Jump and perform an overhead strike with a one-handed sword.
+Sonic Leap
+Sonic Leap (Wind)
+skill_icon_sword_1_
+Jump and perform an overhead strike with a one-handed sword.
+Sonic Leap
+Sonic Leap (Water)
+skill_icon_sword_1_
+Jump and perform an overhead strike with a one-handed sword.
+Sonic Leap
+Sonic Leap (Fire)
+skill_icon_sword_1_
+Jump and perform an overhead strike with a one-handed sword.
+Sonic Leap
+Sonic Leap
+skill_icon_sword_1_
+Draw your katana from your waist and lunge at the enemy.
+Tsujikaze
+Tsujikaze (Earth)
+skill_icon_sword_1_
+Draw your katana from your waist and lunge at the enemy.
+Tsujikaze
+Tsujikaze (Dark)
+skill_icon_sword_1_
+Draw your katana from your waist and lunge at the enemy.
+Tsujikaze
+Tsujikaze (Holy)
+skill_icon_sword_1_
+Draw your katana from your waist and lunge at the enemy.
+Tsujikaze
+Tsujikaze (Wind)
+skill_icon_sword_1_
+Draw your katana from your waist and lunge at the enemy.
+Tsujikaze
+Tsujikaze (Water)
+skill_icon_sword_1_
+Draw your katana from your waist and lunge at the enemy.
+Tsujikaze
+Tsujikaze (Fire)
+skill_icon_sword_1_
+Draw your katana from your waist and lunge at the enemy.
+Tsujikaze
+Tsujikaze
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Earth)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Dark)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Holy)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Wind)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Water)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike (Fire)
+skill_icon_sword_1_
+A basic skill for a one-handed sword. Rush forward, thrusting your sword.
+Rage Spike
+Rage Spike
