@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/diamond_shop_s/image_list.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,220},{685,198}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{685,198}</string>
+			</dict>
+			<key>ui/diamond_shop_s/background_use_histry_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,464},{724,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{724,76}</string>
+			</dict>
+			<key>ui/diamond_shop_s/background_use_histry_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,540},{724,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{724,76}</string>
+			</dict>
+			<key>ui/diamond_shop_s/button_specially_m_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{815,320},{182,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{182,80}</string>
+			</dict>
+			<key>ui/diamond_shop_s/button_specially_m_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{815,400},{182,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{182,80}</string>
+			</dict>
+			<key>ui/diamond_shop_s/image_item_explanation_background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{724,480},{114,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{114,98}</string>
+			</dict>
+			<key>ui/diamond_shop_s/image_item_thumbnail_background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{685,320},{130,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,144}</string>
+			</dict>
+			<key>ui/diamond_shop_s/image_list_frame_highlight.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{706,220}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{706,220}</string>
+			</dict>
+			<key>ui/diamond_shop_s/image_name_entry_column_background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{685,224},{336,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{336,96}</string>
+			</dict>
+			<key>ui/diamond_shop_s/image_diamond_shop_sale_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{838,480},{104,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>ui/diamond_shop_s/button_specially_l_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{706,0},{255,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{255,112}</string>
+			</dict>
+			<key>ui/diamond_shop_s/button_specially_l_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{706,112},{255,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{255,112}</string>
+			</dict>
+			<key>ui/diamond_shop_s/image_duration_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,418},{118,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,34}</string>
+			</dict>
+			<key>ui/diamond_shop_s/image_plate_plane.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{995,0},{3,3}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{3,3}</string>
+			</dict>
+			<key>ui/diamond_shop_s/icon_attention_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,0},{34,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,30}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>diamond_shop_s.png</string>
+			<key>realTextureFileName</key>
+			<string>diamond_shop_s.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

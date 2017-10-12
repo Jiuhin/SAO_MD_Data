@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/story_archive_s/bg_ui_010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{750,1334}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,1334}</string>
+			</dict>
+			<key>ui/story_archive_s/image_blur.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,1},{150,168}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,168}</string>
+			</dict>
+			<key>ui/story_archive_s/image_plate.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1337},{676,211}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{676,211}</string>
+			</dict>
+			<key>ui/story_archive_s/quest_footer_bg_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1550},{750,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,176}</string>
+			</dict>
+			<key>ui/story_archive_s/title_storyarchive.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,171},{172,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,51}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>story_archive_s.png</string>
+			<key>realTextureFileName</key>
+			<string>story_archive_s.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

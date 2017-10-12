@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/confirm_popup/button_cancel_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,2},{128,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>ui/confirm_popup/button_cancel_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{888,2},{128,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>ui/confirm_popup/button_ok_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,134},{128,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>ui/confirm_popup/button_ok_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{888,134},{128,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>ui/confirm_popup/image_popup_body.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{750,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,64}</string>
+			</dict>
+			<key>ui/confirm_popup/image_popup_footer.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,70},{750,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,42}</string>
+			</dict>
+			<key>ui/confirm_popup/image_popup_header.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,116},{750,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,22}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>confirm_popup.png</string>
+			<key>realTextureFileName</key>
+			<string>confirm_popup.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

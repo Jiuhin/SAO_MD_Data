@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/friend/image_name_entry_column_background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{336,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{336,96}</string>
+			</dict>
+			<key>ui/friend/tittle_friend_party.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{342,2},{162,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,51}</string>
+			</dict>
+			<key>ui/friend/tittle_history.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{508,2},{98,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,51}</string>
+			</dict>
+			<key>ui/friend/title_friend.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{610,2},{84,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,45}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>friend.png</string>
+			<key>realTextureFileName</key>
+			<string>friend.png</string>
+			<key>size</key>
+			<string>{1024,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

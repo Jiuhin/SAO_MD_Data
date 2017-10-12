@@ -1,0 +1,8 @@
+{
+    "host": "https://assets-defrag-gl.gree.net/assets/en/preload_package/",
+    "manifestPath": "1/17/",
+    "remoteVersionUrl": "version.manifest",
+    "remoteManifestUrl": "project_preload_135126c4243bc718dab14cf9f26c938b.manifest",
+    "version": "1.17.28",
+    "engineVersion": "Cocos2d-x v3.7"
+}

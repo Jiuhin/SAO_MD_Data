@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/adventure_story/button_log_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,743},{185,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{185,116}</string>
+			</dict>
+			<key>ui/adventure_story/button_log_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,881},{185,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{185,116}</string>
+			</dict>
+			<key>ui/adventure_story/button_skip_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{188,881},{185,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{185,116}</string>
+			</dict>
+			<key>ui/adventure_story/button_skip_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{375,808},{185,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{185,116}</string>
+			</dict>
+			<key>ui/adventure_story/button_voice_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{940,743},{69,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,67}</string>
+			</dict>
+			<key>ui/adventure_story/button_voice_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{940,812},{69,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,67}</string>
+			</dict>
+			<key>ui/adventure_story/icon_next.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,808},{40,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,66}</string>
+			</dict>
+			<key>ui/adventure_story/image_ballon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{493,808},{146,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{146,93}</string>
+			</dict>
+			<key>ui/adventure_story/image_voice_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{985,59},{41,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{41,31}</string>
+			</dict>
+			<key>ui/adventure_story/image_voice_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{985,102},{41,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{41,31}</string>
+			</dict>
+			<key>ui/adventure_story/image_voice_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{985,145},{41,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{41,31}</string>
+			</dict>
+			<key>ui/adventure_story/background_talk_top.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{750,805}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,805}</string>
+			</dict>
+			<key>ui/adventure_story/image_talk_balloon_base.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,1},{740,230}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{740,230}</string>
+			</dict>
+			<key>ui/adventure_story/image_talk_balloon_name.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{985,1},{56,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,34}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>adventure_story.png</string>
+			<key>realTextureFileName</key>
+			<string>adventure_story.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

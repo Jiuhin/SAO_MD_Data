@@ -1,0 +1,803 @@
+{
+    "packageUrl": "",
+    "host": "https://assets-defrag-gl.gree.net/assets/en/preload_package/",
+    "manifestPath": "1/17/",
+    "remoteVersionUrl": "version.manifest",
+    "remoteManifestUrl": "project_preload_135126c4243bc718dab14cf9f26c938b.manifest",
+    "version": "1.17.28",
+    "engineVersion": "Cocos2d-x v3.7",
+    "assets": {
+        "7_1001.zip": {
+            "category": 7,
+            "compressed": true,
+            "md5": "9b1080de34dcedca1935255e92bbb665",
+            "path": "preload_package/1/17/1/./23c35691881e5bb22f95304150a9c2a2.zip",
+            "size": 10352405,
+            "subCategory": 1001
+        },
+        "movie/sao_op.mp4": {
+            "category": 7,
+            "md5": "f67ac5a6732d4abad02f026a80829153",
+            "path": "preload_package/1/17/1/movie/a67e659befcc962738a9e670510b1f54.mp4",
+            "size": 10672194,
+            "subCategory": 1001,
+            "downloadState": 2
+        },
+        "4_3002.zip": {
+            "category": 4,
+            "compressed": true,
+            "md5": "5c2217a113d52d51a03644b2f08034d8",
+            "path": "preload_package/1/17/1/./fa05678b3e52a5ff70447bccc3f663e0.zip",
+            "size": 1924663,
+            "subCategory": 3002
+        },
+        "sound/sao5_07_mt_04.ogg": {
+            "category": 4,
+            "md5": "6b2b80e6b7ef5505586e7bf816d9fc40",
+            "path": "preload_package/1/17/1/sound/fff671befda531e4a1fda7f6a2d44a48.ogg",
+            "size": 1933298,
+            "subCategory": 3002,
+            "downloadState": 2
+        },
+        "2_1001.zip": {
+            "category": 2,
+            "compressed": true,
+            "md5": "1e5d59fc49569e4aff45718069ad1759",
+            "path": "preload_package/1/17/1/./2feeaff4184b99445d0c36be36bd8306.zip",
+            "size": 7935,
+            "subCategory": 1001
+        },
+        "ui/name_input/name_input_s.csb": {
+            "category": 2,
+            "md5": "72aeea6b57cd9bf082961bcd519a1cd5",
+            "path": "preload_package/1/17/1/ui/name_input/0d44fe5ff0d217cbb0c2ad6a8f237176.csb",
+            "size": 2223,
+            "subCategory": 1001,
+            "downloadState": 2
+        },
+        "ui/name_input/name_input_s.plist": {
+            "category": 2,
+            "md5": "b731739b670b87cd67cce65a54d41f4f",
+            "path": "preload_package/1/17/1/ui/name_input/b275328d036083aa9e3279970f42965e.plist",
+            "size": 400,
+            "subCategory": 1001,
+            "downloadState": 2
+        },
+        "ui/name_input/name_input_s.png": {
+            "category": 2,
+            "md5": "b81e0ea993355f8c54f137b47aa14bc8",
+            "path": "preload_package/1/17/1/ui/name_input/4da05e5012ea1048c5910b17b17acbc3.png",
+            "size": 4863,
+            "subCategory": 1001,
+            "downloadState": 2
+        },
+        "1_1003.zip": {
+            "category": 1,
+            "compressed": true,
+            "md5": "ecd4f549732a5179e656758b0a30957a",
+            "path": "preload_package/1/17/1/./bfe5794504fe6304acebc884b2647e68.zip",
+            "size": 6430,
+            "subCategory": 1003
+        },
+        "1_2001.zip": {
+            "category": 1,
+            "compressed": true,
+            "md5": "68a006095a8d80e940387e80193705e9",
+            "path": "preload_package/1/17/1/./632166a1467660a4c67e221231f15c50.zip",
+            "size": 4154976,
+            "subCategory": 2001
+        },
+        "1_4001.zip": {
+            "category": 1,
+            "compressed": true,
+            "md5": "fe455c28372598eef162beab433148ea",
+            "path": "preload_package/1/17/2/./cdc3ec6547ecb65dae7f4bc15cbdc8b9.zip",
+            "size": 107782,
+            "subCategory": 4001
+        },
+        "data/preload_localization_error.bin": {
+            "category": 1,
+            "md5": "f42b9a257d78e3ce4b3bee4582b22adc",
+            "path": "preload_package/1/17/1/data/52bb5bdd49acffe5f8597b7a64ada015.bin",
+            "size": 1234,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_localization_info.bin": {
+            "category": 1,
+            "md5": "1ffd598e6b5a92388bd93a7fa60513a7",
+            "path": "preload_package/1/17/1/data/30c5b073f91e49c8326650f9de88f221.bin",
+            "size": 952,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_se.bin": {
+            "category": 1,
+            "md5": "f459decbc092e5968e1fb4f68d998ac9",
+            "path": "preload_package/1/17/1/data/4c7bb1c073e962d5fb2a1551f29d3897.bin",
+            "size": 1425,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_ui_file.bin": {
+            "category": 1,
+            "md5": "cb0ab780d95de1c62bdf0ade385b5f6d",
+            "path": "preload_package/1/17/1/data/bec476275313665dd3e55ab63c4a5eda.bin",
+            "size": 477,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_ui_text.bin": {
+            "category": 1,
+            "md5": "2c498f696e7c8893177885af8491a302",
+            "path": "preload_package/1/17/1/data/2ac34c6b9263c7226a6316b844aa1acc.bin",
+            "size": 1643,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "fonts/DFP-KaKouGothic-W5.ttf": {
+            "category": 1,
+            "md5": "5735486dd8ce7575f48509113116c500",
+            "path": "preload_package/1/17/1/fonts/5b470cdbbb2162107a7ab49161369d37.ttf",
+            "size": 1312021,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/DFT_B3.ttf": {
+            "category": 1,
+            "md5": "9c3d88b607f4b4520e996833462fb7ab",
+            "path": "preload_package/1/17/1/fonts/8fe03a05cc111203226d59cd22535264.ttf",
+            "size": 2825618,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/SAOFont-Regular_v1.ttf": {
+            "category": 1,
+            "md5": "5ae1898984e2d39015635e6b83798c45",
+            "path": "preload_package/1/17/1/fonts/d8b5aa7bca587211f3cc81a33339f481.ttf",
+            "size": 5802,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/progress_bar_number.fnt": {
+            "category": 1,
+            "md5": "1e4399a9e2555e842976d09c50ad9464",
+            "path": "preload_package/1/17/1/fonts/b219700144ec1da3e2c93f0658888f94.fnt",
+            "size": 469,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/progress_bar_number.png": {
+            "category": 1,
+            "md5": "132a2a4b6929bc8a383e40f9fef8fbc8",
+            "path": "preload_package/1/17/1/fonts/97da84521c391cea48411b7d56cf6c7c.png",
+            "size": 2979,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/rank_number.fnt": {
+            "category": 1,
+            "md5": "a61ca296c7bda4c6ebefa66acfc01f93",
+            "path": "preload_package/1/17/1/fonts/1ba1c52a52acf3bd5a9b908a6f1034ce.fnt",
+            "size": 755,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/rank_number.png": {
+            "category": 1,
+            "md5": "b02045a4b1a4c0687da1c015ca50f286",
+            "path": "preload_package/1/17/1/fonts/d1e73f5ba3fc44da9544cd9918330099.png",
+            "size": 12856,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "ui/common/common_language_setting_s.csb": {
+            "category": 1,
+            "md5": "b6cad395ee13f429609640dc13a5245e",
+            "path": "preload_package/1/17/1/ui/common/9c771e701bb36626a1d0d20d1106df2f.csb",
+            "size": 1950,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_list_small_s.csb": {
+            "category": 1,
+            "md5": "29e94afd37c2ea63886b9e27c2c06ecb",
+            "path": "preload_package/1/17/1/ui/common/882b2eba49b6ec12adedbb83bb09f4e3.csb",
+            "size": 1474,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_list_small_s.plist": {
+            "category": 1,
+            "md5": "b4cdd0dd425be5efecec6aa319a7b276",
+            "path": "preload_package/1/17/2/ui/common/8cbc5cabdf8973b90540f24f25621c51.plist",
+            "size": 718,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_list_small_s.png": {
+            "category": 1,
+            "md5": "bf8d9b9767e3d3c0904d242e2386402e",
+            "path": "preload_package/1/17/2/ui/common/107dbcd69fdc1c92fd59d60db8432424.png",
+            "size": 41589,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_maintenance_s.csb": {
+            "category": 1,
+            "md5": "543a74d597a1844bef24217f6b457721",
+            "path": "preload_package/1/17/1/ui/common/a674a6b161925c5184935c21dc24e12a.csb",
+            "size": 2158,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_message_s.csb": {
+            "category": 1,
+            "md5": "d1d42f322f0ea0368725e99b2f0aae09",
+            "path": "preload_package/1/17/1/ui/common/110133a85b6371f5fc47c221ada3ccb6.csb",
+            "size": 1375,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_s.csb": {
+            "category": 1,
+            "md5": "ace01c5d818eed12d2469456997cb21e",
+            "path": "preload_package/1/17/1/ui/common/abf97b9f10548b910859e992e9e4dcd7.csb",
+            "size": 1508,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_s.plist": {
+            "category": 1,
+            "md5": "d41bf52216d4da35605067cb4c2caa25",
+            "path": "preload_package/1/17/1/ui/common/36fa06fd2d5221cb36bd33502621858f.plist",
+            "size": 1065,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_s.png": {
+            "category": 1,
+            "md5": "8275fd8b15f5f4517f4f2837d45f2c45",
+            "path": "preload_package/1/17/1/ui/common/f8f3f03771d79c55ad123017a81c87b7.png",
+            "size": 51980,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_webview.csb": {
+            "category": 1,
+            "md5": "a01385d1512886fdd08adb13b1a45538",
+            "path": "preload_package/1/17/1/ui/common/cba69d80360d4a1bfee2dc1a5a6cf7a7.csb",
+            "size": 1152,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_select_box.csb": {
+            "category": 1,
+            "md5": "037c8dc0fcd078a0659bbc1b6bc506b8",
+            "path": "preload_package/1/17/1/ui/common/e0f34bf812b331d23376f9cb06281330.csb",
+            "size": 1168,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "0_0.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "8fbba1129316d8421d7f0230eac9ee48",
+            "path": "preload_package/1/17/1/./f90c4b39365d4d64c5865e894618a22d.zip",
+            "size": 983600,
+            "subCategory": 0
+        },
+        "0_1006.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "6238ea0c8205e86305bb74fe10bd1cd3",
+            "path": "preload_package/1/17/1/./046e9aafc5ebf67e97c3608e2d5497bf.zip",
+            "size": 1480154,
+            "subCategory": 1006
+        },
+        "0_2202.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "85b393ebb4bb238db22a65a69ec9f7d2",
+            "path": "preload_package/1/17/1/./11b42b530734c955d90f511de5cf957f.zip",
+            "size": 4382339,
+            "subCategory": 2202
+        },
+        "0_3315.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "6bafa9aff9034a973715ec536fd5c9f7",
+            "path": "preload_package/1/17/1/./99c4e5804f822e2fa04d9adbe01f6478.zip",
+            "size": 29293,
+            "subCategory": 3315
+        },
+        "0_3316.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "85c567db24941455d833116f6e9b0b93",
+            "path": "preload_package/1/17/1/./65faec949209aaa81a37d4ce90042ddc.zip",
+            "size": 286992,
+            "subCategory": 3316
+        },
+        "0_4001.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "c015340e0fcad2fe714781a5efb9c003",
+            "path": "preload_package/1/17/1/./e2b06dc8f3cb2bd0a45aa6ddb0e24cc4.zip",
+            "size": 39355,
+            "subCategory": 4001
+        },
+        "0_4002.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "a62fa0828628f4b85765177a8062203d",
+            "path": "preload_package/1/17/1/./ffd608c1309ed8d3e421368d49a3f815.zip",
+            "size": 13142,
+            "subCategory": 4002
+        },
+        "0_95001.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "0e2c0a1c5773d998f781acf003a88012",
+            "path": "preload_package/1/17/1/./9588e1d9786260eb2d1acded61116a12.zip",
+            "size": 671640,
+            "subCategory": 95001
+        },
+        "images/bne/bne_logo_l.png": {
+            "category": 0,
+            "md5": "58e2e67d6ebcd86291115d2140224fd3",
+            "path": "preload_package/1/17/1/images/bne/7d9f6ccf45602dbdb7358551d990b367.png",
+            "size": 9882,
+            "subCategory": 4002,
+            "downloadState": 2
+        },
+        "images/bne/bne_logo_s.png": {
+            "category": 0,
+            "md5": "f929dcb7fa08af841c5936402734e6de",
+            "path": "preload_package/1/17/1/images/bne/5cbdbc6604664f918652052ffdb90f4e.png",
+            "size": 2976,
+            "subCategory": 4002,
+            "downloadState": 2
+        },
+        "images/title/image_copyright.png": {
+            "category": 0,
+            "md5": "3cfde9fb2919f0e8b86f74a5362b0c06",
+            "path": "preload_package/1/17/1/images/title/75ef9742dd3b6c212d5c9f09cec8c05b.png",
+            "size": 13908,
+            "subCategory": 95001,
+            "downloadState": 2
+        },
+        "images/title/title.png": {
+            "category": 0,
+            "md5": "8beb6a3d67d8d5a03f5455b5d873bbb2",
+            "path": "preload_package/1/17/1/images/title/3b502a53ccdedafd18c17b1f652b11a1.png",
+            "size": 657417,
+            "subCategory": 95001,
+            "downloadState": 2
+        },
+        "images/wfs/wfs_logo_l.png": {
+            "category": 0,
+            "md5": "26cde61b1caee99eeea34dba7f37c95a",
+            "path": "preload_package/1/17/1/images/wfs/ad2e34d5102b25d540229e2495a3b033.png",
+            "size": 39197,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "movie/sao_link_start.mp4": {
+            "category": 0,
+            "md5": "684c967cc71149e088a0a2e23aae6813",
+            "path": "preload_package/1/17/1/movie/4a082b682ad0c76a03677bc647b47b1f.mp4",
+            "size": 985672,
+            "subCategory": 0,
+            "downloadState": 2
+        },
+        "sound/se_preload.ckb": {
+            "category": 0,
+            "md5": "ce12a559cd5488efa39ca7bfc01cbbaa",
+            "path": "preload_package/1/17/1/sound/0c2d072c55cac7cc2aff359896e76d56.ckb",
+            "size": 823896,
+            "subCategory": 2202,
+            "downloadState": 2
+        },
+        "sound/se_titlecall.ckb": {
+            "category": 0,
+            "md5": "7b163fec5f613b40765054affe63467a",
+            "path": "preload_package/1/17/1/sound/a545dd396b32bf148c3f1b1a4e4de4b6.ckb",
+            "size": 5425464,
+            "subCategory": 2202,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/chara_51_yui.png": {
+            "category": 0,
+            "md5": "5a72b2b34b1f481f912a693d8bb71f08",
+            "path": "preload_package/1/17/1/ss/others/common/connecting_yui/3e1a20846a005882452d72a45aabc65e.png",
+            "size": 77257,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/chara_51_yui_effect_s.png": {
+            "category": 0,
+            "md5": "ac351f1ec0805058092250ba5e3ca547",
+            "path": "preload_package/1/17/1/ss/others/common/connecting_yui/8f443d8bb3eae173e3c7c29824430e8a.png",
+            "size": 3531,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/connecting_yui.ssbp": {
+            "category": 0,
+            "md5": "556957797bc6db3c633b7c18a1796df2",
+            "path": "preload_package/1/17/1/ss/others/common/connecting_yui/7a5f8c88b552d43a7fab2ec31aaa5af6.ssbp",
+            "size": 44434,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/cycle.png": {
+            "category": 0,
+            "md5": "fda7f7ae62392abf237dcffcd7b253a8",
+            "path": "preload_package/1/17/1/ss/others/common/connecting_yui/9e6d1e23e2aa687978800b164ffbdea8.png",
+            "size": 2483,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/now_loading.png": {
+            "category": 0,
+            "md5": "54e510bab8310b5c401244a187db33e0",
+            "path": "preload_package/1/17/1/ss/others/common/connecting_yui/5d8364392b3722c16b2c60a80ef94b90.png",
+            "size": 10341,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/chara_51_yui.png": {
+            "category": 0,
+            "md5": "5a72b2b34b1f481f912a693d8bb71f08",
+            "path": "preload_package/1/17/1/ss/others/common/loading_yui/d2067540b797aadfafa78f0bbb6c2eb3.png",
+            "size": 77257,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/chara_51_yui_effect_s.png": {
+            "category": 0,
+            "md5": "ac351f1ec0805058092250ba5e3ca547",
+            "path": "preload_package/1/17/1/ss/others/common/loading_yui/f6add71445b6f3cda747089b0a7e808f.png",
+            "size": 3531,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/cycle.png": {
+            "category": 0,
+            "md5": "fda7f7ae62392abf237dcffcd7b253a8",
+            "path": "preload_package/1/17/1/ss/others/common/loading_yui/97c0b23ab3c265d2f85fcfe058d5e793.png",
+            "size": 2483,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/loading_yui.ssbp": {
+            "category": 0,
+            "md5": "3cd61211916797a402445c0453163732",
+            "path": "preload_package/1/17/1/ss/others/common/loading_yui/50777266b0e3c744f28cb33414f5a446.ssbp",
+            "size": 44958,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/now_connecting.png": {
+            "category": 0,
+            "md5": "54e510bab8310b5c401244a187db33e0",
+            "path": "preload_package/1/17/1/ss/others/common/loading_yui/dbbd7d9156a210388c1bd40fcadc5c75.png",
+            "size": 10341,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/now_loading.png": {
+            "category": 0,
+            "md5": "abc975f38fd481f21a6f09129369636f",
+            "path": "preload_package/1/17/1/ss/others/common/loading_yui/7ca08f75c0ffe74f13b2264bcedff0ad.png",
+            "size": 8467,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/ui/controller_tap/controller_tap.png": {
+            "category": 0,
+            "md5": "c5cfeaf9d50141049925b1384dcfcb23",
+            "path": "preload_package/1/17/1/ss/ui/controller_tap/7be34781ce5c64121ca6d01e26846566.png",
+            "size": 9638,
+            "subCategory": 3315,
+            "downloadState": 2
+        },
+        "ss/ui/controller_tap/controller_tap.ssbp": {
+            "category": 0,
+            "md5": "6646faef4dcd5743bea67510d6c51f90",
+            "path": "preload_package/1/17/1/ss/ui/controller_tap/5283e84e7775390bef01dfaa53d08436.ssbp",
+            "size": 3053,
+            "subCategory": 3315,
+            "downloadState": 2
+        },
+        "ss/ui/controller_tap/controller_tap_s.png": {
+            "category": 0,
+            "md5": "5e42c44382bf4485f2370648551512ba",
+            "path": "preload_package/1/17/1/ss/ui/controller_tap/a3009100b6d9b760ece53671e048f535.png",
+            "size": 16097,
+            "subCategory": 3315,
+            "downloadState": 2
+        },
+        "ui/confirm_popup/confirm_popup.csb": {
+            "category": 0,
+            "md5": "34ed989e5151026bda3814026b5cdfcd",
+            "path": "preload_package/1/17/1/ui/confirm_popup/cef0083702e5252643d2245002f392ad.csb",
+            "size": 1545,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/confirm_popup/confirm_popup.plist": {
+            "category": 0,
+            "md5": "e06046f4c3175c61f05db47ac3ce25aa",
+            "path": "preload_package/1/17/1/ui/confirm_popup/d5031b7305f20b06cb70ff477517a341.plist",
+            "size": 508,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/confirm_popup/confirm_popup.png": {
+            "category": 0,
+            "md5": "fa9143f79d97dbce0da2b71840a6f040",
+            "path": "preload_package/1/17/1/ui/confirm_popup/8a92727540c5c940cbeb01c8170d79f4.png",
+            "size": 14606,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/download/download_bar_s.csb": {
+            "category": 0,
+            "md5": "18a5b8eb9102faa803ff30b6bf01a60a",
+            "path": "preload_package/1/17/1/ui/download/6d475c4cba3a2ed23589ff961662eecd.csb",
+            "size": 1149,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/download/download_s.csb": {
+            "category": 0,
+            "md5": "cb5d2937af62253c99d6cba3a0dbbcdb",
+            "path": "preload_package/1/17/1/ui/download/fd1f311e0dc79e6383392b64871d163a.csb",
+            "size": 1736,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/download/download_s.plist": {
+            "category": 0,
+            "md5": "99eed6397efe6752b143863703685192",
+            "path": "preload_package/1/17/1/ui/download/95af081cf7d9b8242719fae6ac9d66e7.plist",
+            "size": 563,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/download/download_s.png": {
+            "category": 0,
+            "md5": "8663bee046bca6d3ca3e3fc7d503eaab",
+            "path": "preload_package/1/17/1/ui/download/d89dd17b2c14511606968d7f6e0a9fc1.png",
+            "size": 22002,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_confirm_s.csb": {
+            "category": 0,
+            "md5": "0c752611db4ad45c17f3d440f8d217f3",
+            "path": "preload_package/1/17/1/ui/policy/ab0b0ad9717f59a654c7128082f1c9ba.csb",
+            "size": 2540,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_confirm_s_global.csb": {
+            "category": 0,
+            "md5": "117a30d43b32320996c310a11694e2dd",
+            "path": "preload_package/1/17/1/ui/policy/0ea507373a2c85889959ee39e0ac5fdd.csb",
+            "size": 2461,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_f2p_confirm_s.csb": {
+            "category": 0,
+            "md5": "0bfeadbbec1e275d563c2b0debb631bb",
+            "path": "preload_package/1/17/1/ui/policy/90cf6baa1e666c184ee47f505a89237e.csb",
+            "size": 1729,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_f2p_confirm_s_global.csb": {
+            "category": 0,
+            "md5": "8df5cfb227d0761dedc1c5d6ff21e6b4",
+            "path": "preload_package/1/17/1/ui/policy/69c72b5cd42589d32b08f3002d7d0ad1.csb",
+            "size": 1510,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_list_s.csb": {
+            "category": 0,
+            "md5": "062fbab5ef34a165a3ef80c7facc9f98",
+            "path": "preload_package/1/17/1/ui/policy/6811d28e4be4cd84d286a95739dd6409.csb",
+            "size": 1592,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_s.plist": {
+            "category": 0,
+            "md5": "1d2fda16bba65ecc55d42427e95e99ab",
+            "path": "preload_package/1/17/1/ui/policy/b30c9ef59b875b1ecca53bafe2d20f32.plist",
+            "size": 641,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_s.png": {
+            "category": 0,
+            "md5": "93415067c9ae67a8282e8d6c9a074d66",
+            "path": "preload_package/1/17/1/ui/policy/bc25def16eaf6b00fcfe81973f3e2bdc.png",
+            "size": 40954,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_complete_s.csb": {
+            "category": 0,
+            "md5": "b55f0a284975ff4369b66e79fbaa9a2b",
+            "path": "preload_package/1/17/1/ui/support/e3433915097359ce2791345cc5afaadd.csb",
+            "size": 1660,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_confirm_s.csb": {
+            "category": 0,
+            "md5": "1ee619d0ee1d6b88789f8cf87e40e122",
+            "path": "preload_package/1/17/1/ui/support/3db9a06f9ad1a7e7e54c3ab51d498520.csb",
+            "size": 3509,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_detail_s.csb": {
+            "category": 0,
+            "md5": "bf0e03c7db9ed33f9d11202adaaedf09",
+            "path": "preload_package/1/17/1/ui/support/a6a3370d837629b85e8b290c075f1f1e.csb",
+            "size": 1937,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_input_s.csb": {
+            "category": 0,
+            "md5": "74e4c9f7b22fa49ea57c55e06b32138a",
+            "path": "preload_package/1/17/1/ui/support/3c29073e17adb69595d9947d65e096ff.csb",
+            "size": 2719,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_password_s.csb": {
+            "category": 0,
+            "md5": "1fd91caa5659085c9597dc627c8e26a6",
+            "path": "preload_package/1/17/1/ui/support/7f762d38e3b2ea8a293f690e1c831974.csb",
+            "size": 2267,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_repair_s.csb": {
+            "category": 0,
+            "md5": "095fc0c48ad51726e213b93b47de0c9c",
+            "path": "preload_package/1/17/1/ui/support/9ddf154b16bcc1b90e1ae876b8174c62.csb",
+            "size": 2085,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/support_s.plist": {
+            "category": 0,
+            "md5": "ed10c21461e3e07ed0d946131801b1a9",
+            "path": "preload_package/1/17/1/ui/support/dd978d46118fc291fcdda4df5e5b1af8.plist",
+            "size": 691,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/support_s.png": {
+            "category": 0,
+            "md5": "b17529e08199363041ed5049b5e5f71b",
+            "path": "preload_package/1/17/1/ui/support/28ad50edd9cef7fb0274fffcb3344e6f.png",
+            "size": 38741,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/support_select_s.csb": {
+            "category": 0,
+            "md5": "df52ffc24e51b79cb1e278c980930f3d",
+            "path": "preload_package/1/17/1/ui/support/200ee98c8367816a1a928a8a9d286844.csb",
+            "size": 2119,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_characters.png": {
+            "category": 0,
+            "md5": "f0d3ccb664845161876ee628bf0ef2cb",
+            "path": "preload_package/1/17/1/ui/title/a7f33bd13bd89842a094d2e978741443.png",
+            "size": 360938,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_copyright.png": {
+            "category": 0,
+            "md5": "d08a9f80e199d8b19355b96df7ee853d",
+            "path": "preload_package/1/17/1/ui/title/18c548136cc495eb291b609d230640cf.png",
+            "size": 38242,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_logotype.png": {
+            "category": 0,
+            "md5": "ced53d22201fca416260a153f3a71727",
+            "path": "preload_package/1/17/1/ui/title/39ae188cad434b3dae6efb8e8a0cd4cc.png",
+            "size": 179197,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_logotype_noize.png": {
+            "category": 0,
+            "md5": "02005977ddd0997bab2e76eff2a6064e",
+            "path": "preload_package/1/17/1/ui/title/a80f05f7ca02ccea64e89a87430b2cb2.png",
+            "size": 285165,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title.csb": {
+            "category": 0,
+            "md5": "a73e5f2743d14dc6744e2431953683e6",
+            "path": "preload_package/1/17/1/ui/title/a639ce5a0b21fa637c847392232e7c30.csb",
+            "size": 1434,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title.plist": {
+            "category": 0,
+            "md5": "567490d9271d7b3256fd16d5c917370d",
+            "path": "preload_package/1/17/1/ui/title/10a620d041d8a342a39099a2d8cb160e.plist",
+            "size": 678,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title.png": {
+            "category": 0,
+            "md5": "3e3e796d77e68658363dcfa1d72a00ef",
+            "path": "preload_package/1/17/1/ui/title/a2a88d6815d46d2688292bf7bf7ed82c.png",
+            "size": 52223,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title.ssbp": {
+            "category": 0,
+            "md5": "6a34075ec410bcc31d0f42977ca779cc",
+            "path": "preload_package/1/17/1/ui/title/99514f2f6346fb3d1c4b34a65a9d4102.ssbp",
+            "size": 19421,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas.png": {
+            "category": 0,
+            "md5": "344cb505d0b267ad8670a62b06f18e3d",
+            "path": "preload_package/1/17/1/ui/title/0282271f56ea5f1e32faadc818acfda9.png",
+            "size": 43822,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_2.png": {
+            "category": 0,
+            "md5": "0ca1ff94eca25cd13936dc1b54af713a",
+            "path": "preload_package/1/17/1/ui/title/8c5fdb0864e38c96ea0e6542b4fefd96.png",
+            "size": 16963,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_3.png": {
+            "category": 0,
+            "md5": "7d5be3e9d84737639cbedbd384143a2c",
+            "path": "preload_package/1/17/1/ui/title/4b6c69973457b491988387e3abb0c04c.png",
+            "size": 34837,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg.jpg": {
+            "category": 0,
+            "md5": "f9620d202760e4edcc820a9606594a6a",
+            "path": "preload_package/1/17/1/ui/title/8dc4db4c77d6fd013e5596691ef99adc.jpg",
+            "size": 350212,
+            "subCategory": 1006,
+            "downloadState": 2
+        }
+    }
+}

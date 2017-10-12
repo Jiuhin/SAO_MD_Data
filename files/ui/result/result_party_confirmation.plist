@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/result/result_party_confirmation/cut_in_character_dummy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,771},{205,205}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{205,205}</string>
+			</dict>
+			<key>ui/result/result_party_confirmation/cut_in_circle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{300,307}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,307}</string>
+			</dict>
+			<key>ui/result/result_party_confirmation/cut_in_circle_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,310},{300,307}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,307}</string>
+			</dict>
+			<key>ui/result/result_party_confirmation/cut_in_text.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,619},{430,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{430,150}</string>
+			</dict>
+			<key>ui/result/result_party_confirmation/cut_in_text_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{208,771},{80,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,50}</string>
+			</dict>
+			<key>ui/result/result_party_confirmation/image_warning_bg_bottom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,978},{478,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{478,22}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>result_party_confirmation.png</string>
+			<key>realTextureFileName</key>
+			<string>result_party_confirmation.png</string>
+			<key>size</key>
+			<string>{512,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

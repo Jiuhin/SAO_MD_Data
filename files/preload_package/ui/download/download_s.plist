@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/download_s/downoading.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{699,1},{260,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,80}</string>
+			</dict>
+			<key>ui/download_s/progress_bar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,103},{532,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{532,34}</string>
+			</dict>
+			<key>ui/download_s/progress_bar_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{696,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{696,100}</string>
+			</dict>
+			<key>ui/download_s/button_arrow_l_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,1},{58,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,92}</string>
+			</dict>
+			<key>ui/download_s/button_arrow_l_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{907,95},{58,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,92}</string>
+			</dict>
+			<key>ui/download_s/image_initializing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{699,83},{206,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{206,80}</string>
+			</dict>
+			<key>ui/download_s/progress_bar_initializing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,139},{532,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{532,34}</string>
+			</dict>
+			<key>ui/download_s/image_updating.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{535,165},{178,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,80}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>download_s.png</string>
+			<key>realTextureFileName</key>
+			<string>download_s.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

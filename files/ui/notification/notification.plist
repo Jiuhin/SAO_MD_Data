@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/notification/battle_cutin_sample.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{205,205}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{205,205}</string>
+			</dict>
+			<key>ui/notification/image_plate_plane.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,604},{3,3}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{3,3}</string>
+			</dict>
+			<key>ui/notification/image_new.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,497},{47,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,34}</string>
+			</dict>
+			<key>ui/notification/icon_time.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,546},{22,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,22}</string>
+			</dict>
+			<key>ui/notification/icon_arrow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,399},{58,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,96}</string>
+			</dict>
+			<key>ui/notification/image_plate_round.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,590},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>ui/notification/image_thumbnail_base.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,208},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>ui/notification/icon_lock.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,310},{72,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,87}</string>
+			</dict>
+			<key>ui/notification/image_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,609},{3,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{3,2}</string>
+			</dict>
+			<key>ui/notification/image_tab_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,570},{18,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,18}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>notification.png</string>
+			<key>realTextureFileName</key>
+			<string>notification.png</string>
+			<key>size</key>
+			<string>{256,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

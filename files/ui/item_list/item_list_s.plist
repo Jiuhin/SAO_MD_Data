@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/item_list_s/tittle_item_list.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{973,640},{118,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,45}</string>
+			</dict>
+			<key>ui/item_list_s/tittle_item_use.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{973,762},{113,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{113,45}</string>
+			</dict>
+			<key>ui/item_list_s/bg_system_background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{750,1334}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,1334}</string>
+			</dict>
+			<key>ui/item_list_s/image_popup_body_gradation.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,2},{470,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{470,100}</string>
+			</dict>
+			<key>ui/item_list_s/image_sao_man.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1340},{396,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{396,390}</string>
+			</dict>
+			<key>ui/item_list_s/image_sao_woman.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{396,1340},{396,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{396,390}</string>
+			</dict>
+			<key>ui/item_list_s/button_item_lins_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{860,2},{315,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,134}</string>
+			</dict>
+			<key>ui/item_list_s/button_item_lins_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{860,321},{315,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,134}</string>
+			</dict>
+			<key>ui/item_list_s/button_item_lins_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{835,640},{315,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,134}</string>
+			</dict>
+			<key>ui/item_list_s/icon_use_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,476},{116,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{116,75}</string>
+			</dict>
+			<key>ui/item_list_s/icon_use_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,596},{116,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{116,75}</string>
+			</dict>
+			<key>ui/item_list_s/icon_use_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,716},{116,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{116,75}</string>
+			</dict>
+			<key>ui/item_list_s/icon_sale_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,959},{76,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{76,77}</string>
+			</dict>
+			<key>ui/item_list_s/icon_sale_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{837,959},{76,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{76,77}</string>
+			</dict>
+			<key>ui/item_list_s/icon_sale_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{918,959},{76,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{76,77}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>item_list_s.png</string>
+			<key>realTextureFileName</key>
+			<string>item_list_s.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

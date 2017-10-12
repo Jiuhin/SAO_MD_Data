@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/support_s/image_name_entry_column_background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{750,0},{336,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{336,96}</string>
+			</dict>
+			<key>ui/support_s/button_generic_m_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,336},{190,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,84}</string>
+			</dict>
+			<key>ui/support_s/button_generic_m_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{190,336},{190,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,84}</string>
+			</dict>
+			<key>ui/support_s/button_generic_m_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{380,336},{190,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,84}</string>
+			</dict>
+			<key>ui/support_s/button_important_cancel_l_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{846,0},{220,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,106}</string>
+			</dict>
+			<key>ui/support_s/button_important_cancel_l_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{846,220},{220,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,106}</string>
+			</dict>
+			<key>ui/support_s/button_important_cancel_l_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{570,64},{220,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,106}</string>
+			</dict>
+			<key>ui/support_s/button_important_ok_l_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,64},{220,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,106}</string>
+			</dict>
+			<key>ui/support_s/button_important_ok_l_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,64},{220,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,106}</string>
+			</dict>
+			<key>ui/support_s/button_important_ok_l_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{212,64},{220,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,106}</string>
+			</dict>
+			<key>ui/support_s/image_popup_body.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{750,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,64}</string>
+			</dict>
+			<key>ui/support_s/image_popup_footer.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,440},{750,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,42}</string>
+			</dict>
+			<key>ui/support_s/image_popup_header.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,482},{750,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,22}</string>
+			</dict>
+			<key>ui/support_s/image_status_line_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,0},{196,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{196,14}</string>
+			</dict>
+			<key>ui/support_s/image_status_line_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,196},{196,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{196,14}</string>
+			</dict>
+			<key>ui/support_s/button_cancel_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{570,284},{128,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>ui/support_s/button_cancel_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{318,64},{128,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>support_s.png</string>
+			<key>realTextureFileName</key>
+			<string>support_s.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>
