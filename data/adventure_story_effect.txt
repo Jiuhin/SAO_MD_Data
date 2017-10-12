@@ -1,0 +1,16 @@
+effect_scene_heal_s
+ss/effect/effect_scene_heal_s/
+effect_scene_appear_s
+ss/effect/effect_scene_appear_s/
+effect_scene_thrust_multi_s
+ss/effect/effect_scene_thrust_multi_s/
+effect_scene_slash_small_s
+ss/effect/effect_scene_slash_small_s/
+effect_scene_slash_large3_s
+ss/effect/effect_scene_slash_large3_s/
+effect_scene_slash_large1_s
+ss/effect/effect_scene_slash_large1_s/
+effect_scene_lost_s
+ss/effect/effect_scene_lost_s/
+effect_switch_01
+ss/effect/effect_switch_01/

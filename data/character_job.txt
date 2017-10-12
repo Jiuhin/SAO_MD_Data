@@ -1,0 +1,17 @@
+weapon01_0001
+Shieldblade
+weapon09_0000
+lance
+weapon08_0001
+weapon07_0001
+weapon06_0001
+weapon05_0001
+mace
+weapon04_0001
+dagger
+weapon03_0001
+rapier
+weapon02_0001
+dual blades
+weapon01_0001
+sword

@@ -1,0 +1,1979 @@
+Coming Soon...
+text_comingsoon
+Guild
+text_tab_2
+Guild
+text_tab_2_active
+Individual
+text_tab_1
+Individual
+text_tab_1_active
+No Notification
+text_none
+Guild Search
+text_search
+Form a guild
+text_establish
+Join the recommended guild
+text_recommend
+You haven't joined a guild.
+text_unlock_recommend
+Coming Soon...
+text_comingsoon_page2
+No Notification
+text_offer_none
+No Notification
+text_timeline_none
+Invite, Apply
+text_offer
+Invite, Apply
+text_offer_active
+Timeline
+text_timeline
+Timeline
+text_timeline_active
+Edit
+text_edit
+You receive messages from your Commander and Vice Commander here. You will find the noticeboard in blue when it's updated. Don't miss it
+text_comment
+Last month
+text_last_month
+Total Guild Pt This Month
+text_monthlu_gpt
+text_rank
+Rewards
+text_tab_2
+Rewards
+text_tab_2_active
+It resets on the 1st day of every month.
+Text_1
+Guild Home Updated
+text_reflect
+Do you want to update the info
+text_question
+Guild Home has been updated
+text_attention
+Effect On
+text_title_buff
+Do you want to set it up
+text_attention_3
+You've purchased.
+text_attention_2
+Required Guild Col:
+text_guild_col_price
+Guild Col:
+text_guild_col
+Do you want to buy this
+text_attention
+Invited
+text_been_invited
+Invite
+text_invited
+Indiv. Score:
+text_personal_score
+Last Login:
+text_title_login_position2
+Cancel
+text_chancel
+Your Guild
+text_guild
+Deadline:
+text_timelimit
+Last Login:
+text_title_login_management
+Dismiss your
+Vice Commander
+text_dismiss
+Appoint a
+Vice Commander
+text_appointment
+Last Login:
+text_title_login_position
+Comment
+text_comment
+Guild Pt:
+text_guild_pt
+Donation Col:
+text_guild_col
+Last Login:
+text_title_login_member
+Limited Time
+text_limited
+Limited Time
+text_limited
+Only your Commander can buy.
+text_attention_member
+text_reflect
+Required Guild Col:
+text_guild_col_price
+Guild Col:
+text_guild_col
+Image View
+text_title_image
+Story
+text_title_story
+Effect
+text_title_buff
+View Change
+text_view_change
+Guild Col:
+text_guild_col
+Only your Commander and Vice Commander can edit.
+text_attention
+text_rank
+Management
+text_tab_3_sub
+Management
+text_tab_3_active_sub
+Member
+text_tab_1_sub
+Member
+text_tab_1_active_sub
+Management
+text_tab_3_master
+Management
+text_tab_3_active_master
+Change Roles
+text_tab_2_master
+Change Roles
+text_tab_2_active_master
+Member
+text_tab_1_master
+Member
+text_tab_1_active_master
+Close
+text_button_close
+Your Guild level went up by 10.
+text_levelup
+has been formed.
+text_establish
+Post
+text_post
+Please leave a comment  in 100 characters or less.
+text_comment_edit
+Close
+text_button_close
+Edit
+text_button_edit
+Only your Commander and Vice Commander can edit.
+text_member_attention
+You will find messages from your Commander and Vice Commander here. The noticeboard will shine blue when there is an update. Don't miss it
+text_comment
+Notice to Guild Members
+text_title_2
+In 42 characters or less
+text_comment_attention
+Comment
+text_title_comment
+Acceptance Setting
+text_title_setting_acceptation
+Mood
+text_title_guild_name_0_0
+Guild Symbol
+text_title_guild_name_0
+You can change it later.
+text_name_attention
+In 10 characters or less
+text_guild_name
+Guild Name
+text_title_guild_name
+Guild Shop
+text_name
+Record
+text_record
+Commander
+text_leader
+Acceptance :
+text_acceptation
+Mood :
+text_type_label
+Members :
+text_member
+Total Guild Pt
+text_total_guild_pt
+You cannot join this guild due to a limit of the number of people.
+text_attention
+Requested
+text_sent
+Join
+text_join
+Guild Member
+text_title_guild_name_member
+Last Login:
+text_last_login_member
+Guild Member
+text_title_guild_name_0_0
+Last Login:
+text_last_login
+View Change
+text_view_change
+Only your Commander and Vice Commander can edit.
+text_attention
+Leave Guild
+text_secession_member
+Effect On
+text_title_guild_buff
+Leave Guild
+text_secession
+Edit Info
+text_edit
+Guild Home
+text_tab_2_active
+Basic Information
+text_tab_1
+Basic Information
+text_tab_1_active
+Form a guild
+text_reccomend
+Characteristic
+text_title_guild_name_0_0
+Guild Symbol
+text_title_guild_name_0
+You can change it later.
+text_name_attention
+In 10 characters or less
+text_guild_name
+Guild Name
+text_title_guild_name
+Members
+text_menbers
+Joined
+text_friend_entry
+Copy
+text_copy
+Your Guild ID
+text_my_guild_id
+Enter your guild ID
+text_guild_id
+Search
+text_search
+ID Search
+text_tab_3
+ID Search
+text_tab_3_active
+Friend
+text_tab_2
+Friend
+text_tab_2_active
+Recommended
+text_tab_1
+Recommended
+text_tab_1_active
+To Guild Home
+text_home
+Guild Search
+text_serch
+Form a guild
+text_establish
+Join the recommended Guild
+text_reccomend
+Donation
+text_donate
+Donation Price
+text_donation_price
+Missions
+text_tab_2
+Missions
+text_tab_2_active
+Quest Info
+text_tab_1
+Quest Info
+text_tab_1_active
+If you return to Entrance/Teleport Gate,
+your Quest progress will be reset.
+text_message_2
+Close
+text_close
+Move to joined event.
+text_button_event
+Equipment is locked as you are joining to the event above.
+text_message_1
+How to Unlock
+text_title_unlock
+Locked status will be unlocked by returning to
+Entrance/Teleport Gate from ongoing Quest.
+text_message_2
+If you return to Entrance/Teleport Gate,
+your Quest progress will be reset.
+text_message_3
+GOAL
+text_goal_25
+Resume Quest
+text_button_continue
+Move to Teleport Gate
+text_button_clear
+Challenge a Quest
+text_button_start
+Score Rewards
+text_tab_2
+Score Rewards
+text_tab_2_active
+Floor Clearing Rewards
+text_tab_1
+Floor Clearing Rewards
+text_tab_1_active
+text_floor_prefix
+Floor
+text_floor
+Points
+text_point
+Details
+text_information
+Limited (
+text_limited
+Available (
+text_available
+All (
+text_all
+To Unlock
+text_release
+Exchange
+text_exchange
+Materials Needed
+text_need_material
+New Skill
+Learned
+text_info
+Skill Maxed
+text_max
+Learned Skill
+text_get
+Materials Needed
+text_material
+Skill
+Slot
+text_slot_skill
+Details
+text_detail
+Battle Skill
+text_passive_skill
+Lv :
+text_level_1
+Exchange
+Text_1
+Get Ingots with 
+5 Weapons
+text_info_3
+Required
+title_item
+The same weapon can only be exchanged once
+text_info_limit
+(min. Rarity)
+text_info_2
+Exchange with x4 
+4 Weapons
+text_info_1
+Sort [Skill Lv]
+Filter[on]
+text_sort
+Exchange
+text_ok
+You cannot exchange with the same weapon you request
+text_no_duplicates
+You have no exchangable weapons
+text_no_item
+Select Materials
+text_select_info_2
+Needed
+text_select_info_1
+Details
+text_exchange_help
+Exchange with x4 
+4 Weapons
+text_announce
+Sort [Skill Lv]
+Filter[on]
+text_sort
+There are no weapons available
+text_no_item
+Exchangable Weapons :
+text_weapon
+Choose your weapon
+text_note_male
+Choose your weapon
+text_note_female
+Select a character to change their equipment.
+text_choose_character
+Characters
+text_possession_character
+Materials Needed
+title_item
+Do you want to purchase Memory Diamonds
+text_title_popup
+Required
+text_total
+You can claim up to 20 items at once.
+text_receive_many_items
+received
+text_received
+You already have this character. You received an item instead
+text_replaced_item_title
+[] has been upgraded.
+text_evolution
+Guild Search
+text_serch
+Form a guild
+text_establish
+Join the recommended Guild
+text_reccomend
+You are required to join a guild 
+to play the above event.
+text_commentary
+To unlock
+text_condition
+You can't leave until the above event is over.
+text_commentary
+to unlock
+text_countdown
+You can leave from
+text_1
+3 days after an event
+text_event_date
+Score Update
+text_score_update
+text_lv_member2
+text_lv_member1
+text_lv_leader
+Guild Score
+text_guild_score
+Update
+text_update
+text_all_player_score_plus_2
+text_all_player_score_plus_1
+All Player Score
+text_all_player_score
+text_top_player_score_plus_2
+text_top_player_score_plus_1
+text_top_player_score_times
+Top Player Score
+text_top_player_score
+text_top_multi_score_times
+Multi Score
+text_top_multi_score
+Multi Score
+text_multi_score
+text_plus_2
+text_plus_1
+text_player_damage_times
+Dmg Taken -
+text_player_damage
+text_enemy_damage_times
+Dmg Dealt 
+text_enemy_damage
+Combination Skill is unlocked as you upgrade to 
+text_lock
+Partner
+text_target_title
+Cost
+text_consumption
+Do you want to use the
+Items above and exchange
+text_exchange
+Play Story
+text_play_story
+Show:
+text_info
+Battle Skill Info
+text_passive_title
+You have no Skills
+text_empty
+Sword Skill Details
+text_active_title
+< 1 min ago
+text_time_login
+Move
+text_detail
+Or leave it blank to automatically change towns
+text_info_room_2
+You can choose your destination by town number
+text_info_room_1
+Condition(s) include supporters
+text_notice
+Condition(s)
+text_condition
+Conditions
+text_condition_5
+Conditions
+text_condition_4
+Conditions
+text_condition_3
+Conditions
+text_condition_2
+Conditions
+text_condition_1
+text_stage_minus
+text_boss_minus
+Dmg Taken
+text_damaged_2
+Dmg Dealt
+text_damage_2
+Dmg Taken -
+text_damaged
+Dmg Dealt 
+text_damage
+text_ranking_title_2
+text_ranking_title
+Score
+Rewards
+text_tab_3
+Score
+Rewards
+text_tab_3_active
+Ranking
+Rewards
+text_tab_2
+Ranking
+Rewards
+text_tab_2_active
+Ranking
+(Group)
+text_tab_1
+Ranking
+(Group)
+text_tab_1_active
+Details
+text_information
+Points
+text_point
+Your Rank
+text_rank
+text_ranking_title
+Info
+text_info
+Joining
+text_event
+Departed
+text_sally
+Terms of Sale
+text_tokusyouhou
+Legal Information
+text_shikinkessaihou
+Equipment
+text_possession
+Diamond Cost:
+text_consumption_diamond
+Add slots
+text_button_close
+slots:
+text_extended
+Set to add the number of slots.
+text_set_equipment_possession_title
+Do you buy Memory Diamonds to
+increase equipment slots
+text_description_2
+You cannot receive any more equipment
+as your inventory is full. 
+text_description
+Items
+text_possession
+Items
+text_possession
+Combination Skill will be unlocked as you upgrade.
+text_information
+Upgrade to 
+text_confirm
+Not enough items.
+text
+Set Up
+text_choose_title
+Received:
+text_tile_time_get
+Sort
+text_sort
+Effect
+text_tab_normal_tilte_skill
+Effect
+text_tab_select_title_skill
+Display
+text_tab_normal_tile_display
+Display
+text_tab_select_tile_display
+Select number of items to use.
+text_description
+Set Boosts:
+title_text
+Info
+text_detail
+Show:
+text_info
+Enhancers
+button_strengthen_item_text
+Materials
+button_material_item_text
+Boost
+button_boost_item_text
+button_all_text
+Type
+title_text
+Set Boosts:
+text_boost_result
+Proceed to Next Quest
+text_confirm
+Retreat
+text_button_close
+text_departures
+Edit
+text_edit_party
+Select Party
+text_info
+Acquisition Reward
+text_popup_title
+Close
+text_button_close
+Character Bonus
+text_chara_bonus
+Rank Bonus
+text_degree_of_difficulty_bonus
+Drop
+text_drop_ep
+Received
+text_rank_ep
+Total
+text_total_ep
+Next Reward in
+text_total_eventpoint_0
+Total
+text_total_eventpoint
+Last Login:
+text_login_2
+Unlocked When Acquired
+text_mission
+No Pain, No Gain
+text_title
+Diff.:
+text_difficulty
+Boss
+text_change
+Parry Practice (Beginner)
+text_window
+Help
+text_chara_status
+Practicing
+text_testplay
+Character
+Stats
+text_chara_status
+Terms of Sale
+text_tokusyouhou
+Legal Information
+text_shikinkessaihou
+Do you want to skip this
+text_confirm
+text_cancel
+text_ok
+This cannot be changed later.
+text_attention_1
+Final Confirmation
+text_input_birthday_confirm_title
+Source
+detail_title
+Gifted
+free_title
+Purchased
+charge_title
+Date
+date_title
+See below for details.
+title
+Diamond History is available for the past 3 months
+text_history
+Memory Diamond History
+text_title
+Gifted
+text_present_number_title
+Purchased
+text_buy_number_title
+Used
+text_use_detail_title
+Date
+text_use_time_title
+Gift Balance:
+text_free_title
+Purchase Balance:
+text_charge_title
+History Buy
+text_history_buy
+Shikinkessaihou
+text_shikinkessaihou
+text_ask
+Tokusyouhou
+text_tokusyouhou
+The items in the package will be found in Gift Box.
+text_attention
+text_buy
+text_cancel
+text_accept
+permission
+text_attention_9
+Did you get 
+from a parent or guardian
+text_announcement_3
+Up to $200/mth incl. tax
+text_attention_8
+Up to $50/mth incl. tax
+text_attention_7
+16-19:
+text_attention_6
+Under 16:
+text_attention_5
+Spending Limits
+text_attention_4
+must get permission
+text_attention_3
+must get permission
+text_attention_2
+buy Memory Diamonds,
+text_attention_1
+If you want to buy Memory Diamonds, you 
+from a parent or guardian, or make the purchase together.
+text_announcement_2
+If you want to 
+you 
+from a parent or guardian. Depending on you age, there is a limit to how much you can spend.
+text_announcement_1
+Warning
+text_parental_confirm_title
+text_close
+text_ok
+Unlimited
+text_price_limitation_2_0
+Up to $200/month
+text_price_limitation_2
+text_age_limitation_3
+16-19:
+text_age_limitation_2
+Up to $50/month
+text_price_limitation_1
+Under 16:
+text_age_limitation_1
+Show this to an adult if you are not sure.
+text_explaination
+Enter your Birthday
+text_birthday_title
+A dialog box asking for parental permission will
+appear when a minor attempts to purchase virtual
+currency or additional content.
+text_input_birthday_description
+Please enter your birthday.
+text_require_input_birthday
+Age Verification
+text_input_birthday_title
+let the device sleep or close the app
+text_attention_4
+you have a good signal
+text_attention_3
+Please purchase Memory Diamonds when 
+. Don't 
+until processing is complete.
+text_parental_allow
+permission
+text_attention_2
+Get 
+from your parents
+text_parental_not_allow
+Your Transfer Code
+text_info_1
+Do not share this code with anybody.
+Please write it down, or take a screenshot.
+You may change your password later.
+text_info_3
+Your data is now ready to transfer. Please
+download the game to another device, then
+select Support > Data Transfer to enter your
+code and password.
+text_info_2
+Ready to Transfer
+tittle
+Set Up
+text_button_ok
+text_button_cancel
+Password (8 to 32 letters)
+text_password_input
+Your Transfer Code
+text_code
+Please choose a data transfer password.
+text_info
+Memory Diamonds, including those given out for free, cannot be carried over if you transfer data to a different OS.
+text_info_4
+Caution
+text_info_3
+Transfer Settings
+text_button_ok
+Data Transfer Info
+text_button_detile
+Change Device/Data Transfer
+text_info_1_0
+Read this before transferring data.
+text_info_2
+You can use the code below to transfer
+game data to a new device, or to save
+your data if you delete the app.
+text_info_1
+Close
+text_watch
+Close
+text_close
+Next
+text_exp
+Close
+text_close
+Follow a player you've met for the first time
+text_info
+Event Points
+text_rank_ep
+Rank Bonus
+text_degree_of_difficulty_bonus
+Total Event Pts.
+text_total_ep
+Next Reward in
+text_total_eventpoint_0
+Total Pts.
+text_total_eventpoint
+to open another chest.
+text_use_gem_info_2
+Spend 1 Memory Diamonds
+text_use_gem_info_1
+Select a Treasure Box
+text_select_treasure
+Choose a random reward.
+text_treasure_info
+Next Quest
+text_play_next
+Retry
+text_play_again
+Next Quest
+text_play_next
+Retry
+text_play_again
+You lie defeated
+after a fierce battle...
+text_treasure_info
+No Rewards
+text_no_reward
+Join a guild
+text_not_joined
+Complete Quest 3 - 10
+text_non_opening
+To Unlock
+text_recruiting
+Guild Party Search
+text_guildmember_search
+Recommended Match
+text_matching
+Number Search
+text_numbersearch
+Friend Search
+text_friend_search
+Party Search
+text_party_search
+Form Co-op Party
+text_party_edit
+Find Suggestions
+label_title_parameter
+Change Party
+text_button_change_party
+Ready
+text_ready
+Preparing...
+text_preparation
+Change
+text_switch
+Only friends can join
+the party.
+text_lock_info
+Players Needed
+text_recruiting
+Suggested Match
+text_matching
+Search Number
+text_numbersearch
+Find Friends
+text_friend_search
+Find Party
+text_party_search
+Form Co-op Party
+text_party_edit
+You may also type in the number.
+text_input_number_0
+Enter Party Number
+text_input_number
+Join Other Party
+text_matching
+Depart
+text_start
+Set Boosts:
+text_boost_title
+Edit
+text_change_comment
+Goal
+text_title_mission
+Let's do this
+text_comment
+Message
+text_comment_title
+Change
+text_switch_3
+Change
+text_switch_2
+Refresh
+text_ok
+Event Settings
+text_event_setting
+Candidate not found
+text_no_party
+Refresh
+text_update
+Event Settings
+text_event_setting
+No suggested parties found.
+text_no_party
+Form Co-op Party
+text_party_edit
+Find a Party
+text_party_search
+Guild Party Search
+text_guild_party_search
+Depart
+text_departures
+Confirm
+text_ok
+Go Solo
+text_not_support
+Select a
+Supporter.
+text_select_supporter
+Last Login:
+text_login_1
+Show:
+text_status
+Select a Supporter to join you.
+text_info
+To Unlock
+text_unlock_condition
+None
+text_non_level
+Enemy Lv:
+text_enemy
+Rank determines the chances of reward items.
+text_time_announcement
+Quest Rewards
+text_quest_reward
+Times 
+Ranks
+text_quest_time_title
+List of Item Drops
+text_quest_dorop
+Times/Rewards
+text_tab_button_2
+Item Drops
+text_tab_button_1
+Item Drops
+text_tab_selected_1
+Times/Rewards
+text_tab_selected_2
+Set Boosts:
+text_boost
+Skip
+text_skip
+Play
+text_play
+Story:
+text_story_title
+Depart
+text_departures
+Edit
+text_edit_party
+Select Party
+text_info
+Bonus Missions
+text_bonusmission_title
+Clear Condition:
+text_mission_title
+None
+text_non_level
+Enemy Lv:
+text_enemy
+Show:
+text_info
+Tap 
+hold for details.
+text_quest_detail
+Event Over
+text_dates_end
+Anniversary Scout
+text_event_scout_s_story_ranking
+Medal Scout
+text_medal_scount_s_story
+Point Rewards:
+text_complete_story_ranking
+Current Point
+text_current
+Next Reward:
+text_next_story_ranking
+Ranking
+Rewards
+text_button_story_ranking
+text_rank_story
+Anniversary Scout
+text_event_scout_s_story
+QT Point Clearing
+text_quarter_help
+Floor Clearing
+text_dungeon_help
+Exchange Shop
+text_exchange_shop
+Rewards
+text_dungeon_detail
+Point Rewards:
+text_dungeon_complete
+Next Reward:
+text_dungeon_next_ep
+Event Details
+text_story_detail
+Point Rewards:
+text_story_complete
+Next Reward in:
+text_story_next
+Held
+text_story_get
+Event Details
+text_detail
+Next Reward:
+text_next_reward
+Event Points
+text_event_point
+Exchange Shop
+text_guild_item_exchange
+Medal Scout
+text_guild_event_scout_s
+Rank
+text_rank_guild
+Event
+text_event
+Ranking
+Rewards
+text_button_guild_ranking
+Exchange Shop
+text_event_item_exchange
+Anniversary Scout
+text_event_scout_m
+This event has finished.
+text_end
+Posted Until:
+text_date_end
+Ranking
+Rewards
+text_button_ranking_end
+text_rank_end
+Anniversary Scout
+text_event_scout_s
+Medal Scout
+text_medal_scount
+Point Rewards:
+text_complete
+Next Reward:
+text_next
+Ranking
+Rewards
+text_button_ranking
+text_rank
+Show:
+text_info
+Tap 
+hold for details.
+text_quest_detail
+Event Over
+text_event_end
+Posted Until:
+text_remain_end
+Select an event.
+text_announce
+Held
+text_hold
+Details
+text_detail
+Departed
+text_sally
+To Unlock
+text_lock
+Get bonus CP now
+text_campaign
+Other Menus
+text_title
+Privacy Policy
+text_button_privacy_policy
+Decline
+text_button_cancel
+I have read and accepted
+BANDAI NAMCO Entertainment's
+Terms of Service and Privacy Policy
+text_description_global
+Terms of Service
+text_button_terms_of_use_gl
+Accept
+text_button_ok_gl
+before playing SAO: Memory Defrag.
+text_description_1_1
+You must agree to the Terms of Use
+text_description_1
+Agree to the terms and start the game.
+text_description_3
+Show this to an adult if you are not sure.
+text_description_2_1
+Minors must have parental permission.
+text_description_2
+Terms of Service
+text_button_terms_of_use
+Agree
+text_button_ok
+Joining
+text_arms_edit_0
+Skill
+Slot
+text_slot_skill_edit
+Unlock Attr.
+text_ability_edit
+Locked
+text_arms_no_edit
+Edit Equip.
+text_arms_edit
+None
+Selected
+text_not_character
+Edit Party
+text_button_party_edit_quest
+Enhance Char.
+text_butto_character_item
+Back to Co-op Party
+text_button_return_quest_board
+Show:
+Text_2
+Edit Party
+text_button_party_edit
+Characters
+text_butto_character_list
+Close
+text_button_close
+Done
+text_button_ok
+Select a
+character
+text_not_character_3
+Select a
+character
+text_not_character_2
+Select a
+character
+text_not_character_1
+Characters
+text_possession_character
+Close
+text_close
+Characters
+text_possession_character
+Enter your name (max 10 characters).
+text_info2
+Confirm
+text_button_decision
+Collect Record Crystals to do a 
+corresponding guaranteed Scout
+text_2
+text_get
+Ticket Cost
+text_draw_eleven_consume_1
+Ticket Cost
+text_draw_once_consume_1
+text_diamond_shop
+Diamond Cost
+text_draw_once_consume
+Diamond Cost
+text_draw_eleven_consume
+Do you want to buy another weapon
+text_retry_confirm
+Info
+text_detail
+Ticket Cost
+text_draw_eleven_consume_1
+Ticket Cost
+text_draw_once_consume_1
+Diamond Cost
+text_draw_once_consume
+Diamond Cost
+text_draw_eleven_consume
+text_diamond_shop
+Do you want to buy another weapon
+text_retry_confirm
+text_diamond_shop
+Ticket Cost
+text_draw_eleven_consume_1
+Ticket Cost
+text_draw_once_consume_1
+Medal Cost
+text_draw_once_consume_medal
+Diamond Cost
+text_draw_eleven_consume
+Diamond Cost
+text_draw_once_consume
+Record Crystal Cost :
+text_draw_once_consume_crystal
+Details
+text_detail
+Do you want to scout again
+text_retry_confirm
+text_diamond_shop
+Ticket Cost
+text_draw_eleven_consume_1
+Ticket Cost
+text_draw_once_consume_1
+Medal Cost
+text_draw_once_consume_medal
+Diamond Cost
+text_draw_eleven_consume
+Diamond Cost
+text_draw_once_consume
+Record Crystal Cost :
+text_draw_once_consume_crystal
+Do you want to scout again
+text_retry_confirm
+You got a Hacking Crystal
+text_replace_item
+text_diamond_shop
+Ticket Cost
+text_draw_eleven_consume_1
+Ticket Cost
+text_draw_once_consume_1
+Medal Cost
+text_draw_once_consume_medal
+Diamond Cost
+text_draw_eleven_consume
+Diamond Cost
+text_draw_once_consume
+Record Crystal Cost :
+text_draw_once_consume_crystal
+Do you want to scout again
+text_retry_confirm
+Total Likes :
+text_total
+text_diamond_shop
+All (
+text_event_all
+All (
+text_medal_all_4
+All (
+text_medal_all_3
+Weap. (
+text_weapon
+Char. (
+text_chara
+All (
+text_all
+Ticket Cost
+text_draw_eleven_consume_3
+Ticket Cost
+text_draw_once_consume_3
+Details
+text_testplay_2
+Characters 
+Info
+text_odd_3
+Items 
+Info
+text_odd_4
+Diamond Cost
+text_draw_eleven_consume_2
+Diamond Cost
+text_draw_once_consume_2
+Weapons 
+Info
+text_odd_2
+Record Crystal Cost :
+text_draw_once_consume_crystal
+Medal Cost
+text_draw_once_consume_medal
+Diamond Cost
+text_draw_eleven_consume_1
+Diamond Cost
+text_draw_once_consume_1
+Details
+text_testplay
+Characters 
+Info
+text_odd_1
+Do you want to sell this item
+text_info_dynamic
+Sell
+text_start
+Price:
+text_total
+Set sell amount
+text_info_1
+Sell Item
+title_setting
+You can not sell this item
+text_item_description
+You can not sell this item
+text_item_description
+Sell
+text_sell
+text_use
+Choose to use or sell Item
+text_info_stable
+Use 
+Memory Diamonds
+to unlock ability
+Buy Memory Diamonds
+text_item_description
+Do you want to use this item
+text_info_dynamic
+Do you want to use this item
+text_info_stable
+Select a character.
+text_description
+Close
+button_close_text
+button_ok_text
+Characters
+text_possession_character
+You have no items.
+text_none_item
+Items
+text_possession_item
+Help
+text_title
+You cannot claim expired rewards.
+text_warning
+Unclaimed
+text_unreceived
+Claim All
+text_receive_all
+You have no gifts.
+text_empty_gift_box
+text_item_number
+text_equipment_number
+You will lose all your rewards.
+Are you sure you want to retry
+text_announce_restart
+You will lose all your rewards.
+Are you sure you want to give up
+text_announce_give_up
+Items Acquired
+text_get_item
+Equipment Acquired
+text_get_armor
+Items Acquired
+text_item
+You have no items.
+text_not_possess_item
+You have no equipment.
+text_not_possess_equipment
+Equipment Acquired
+text_equipment
+Battle Cut in
+text_subtitle_cutin_dialogue
+Target
+text_subtitle_target
+Skill Cutscenes
+text_subtitle_cut_in
+Gameplay Settings
+text_title_cut_in
+Auto-approach enemies.
+text_auto_move_enemy
+Move Assist
+text_movement_helper
+text_far
+Near
+text_near
+Camera zooms automatically.
+text_dynamic_camera
+Lets you adjust camera zoom.
+text_free_camera
+Zoom
+text_zoom
+Free
+text_free
+Dynamic
+text_dynamic
+Camera
+text_camera
+Right
+text_right
+Left
+text_left
+Skill Button
+text_battle_controller
+Goal
+text_mission_title
+Bonus Missions
+text_bonusmission_title
+None
+text_non_level
+Enemy Lv:
+text_enemy
+Items
+text_item_title
+Back to Scout
+text_retire_trial
+Give Up
+text_retire_2
+Retry
+text_restart
+Give Up
+text_retire_1
+Options
+text_tab_option_info
+Battle Info
+text_tab_battle_info
+Options
+text_tab_title_option
+Battle Info
+text_tab_title_battle_info
+text_person_1
+text_person_2
+Following
+text_following
+Followers
+text_follower
+Refresh
+text_icon
+Find Friends
+text_select_search
+Find Friends
+text_normal_search
+History
+text_select_multi
+History
+text_normal_multi
+Followers
+text_select_follower
+Followers
+text_normal_follower
+Following
+text_select_follow
+Following
+text_normal_follow
+Find Friends
+text_search
+History
+text_multi_play_history
+Following
+text_following
+Followers
+text_follower
+Find Friends
+label_title_parameter
+Copy
+text_copy
+No suggested users found.
+text_empty_recommend
+Search
+text_search
+Search by User ID
+text_input_info
+Suggested Users
+text_users_in_town
+Your User ID:
+text_title_user_id
+No Friends Followed
+text_empty
+Close
+text_button_close
+Done
+text_button_ok
+You have nothing that can be equipped.
+text_no_equipment
+Info
+text_detail
+Show:
+text_info
+Equipment
+text_possession
+Select
+Weapon
+text_button_select_weapon
+Select
+Armor
+text_button_select_armor
+Select
+Accessory
+text_button_select_accessory
+Memory Diamond History
+text_history_buy
+Legal Information
+text_shikinkessaihou
+Support
+text_ask
+Terms of Sale
+text_tokusyouhou
+text_buy
+Gift Box
+text_button_giftbox
+Claim All
+text_button_receive
+You cannot claim expired rewards.
+text_confirm
+Not Cleared
+text_not_get_number
+Missions
+text_mission_tab_select
+Missions
+text_mission_tab_normal
+Daily
+Missions
+text_daily_tab_select
+Daily
+Missions
+text_daily_tab_normal
+No missions available.
+empty_mission_text
+Event Reward
+text_tab_2
+Event Reward
+text_tab_2_active
+Ranking (Group)
+text_tab_1
+Ranking (Group)
+text_tab_1_active
+Details
+text_information
+Indiv. High Score
+text_user_score
+Multi High Score
+text_multi_score
+Your Rank
+text_rank
+Indiv. Score
+text_flick_tab_reward_user_score
+Indiv. Score
+text_flick_tab_reward_user_score_active
+Multi Score
+text_flick_tab_reward_multi_score
+Multi Score
+text_flick_tab_reward_multi_score_active
+Ranking
+text_flick_tab_reward_ranking
+Ranking
+text_flick_tab_reward_ranking_active
+Guild Member
+text_flick_tab_ranking_member
+Guild Member
+text_flick_tab_ranking_member_active
+Guild
+text_flick_tab_ranking_guild
+Guild
+text_flick_tab_ranking_guild_active
+text_friend_details
+text_ranking_title
+score
+text_point_title
+text_ranking_title
+Commander
+text_point_1_0
+text_slash
+Member
+text_member_title
+Member
+text_member
+text_friend_details_3
+text_friend_details_2
+text_friend_details_1
+Individual Reward will be given as you meet the condition for scores.
+text_message
+Same weapons can be exchanged once
+text_announce
+Progress:
+text_level_achievement
+Claim
+text
+Until:
+text_deadline
+Comments must be 24 characters or less.
+text_comment_edit
+Comment
+text_comment
+Usernames must be 10 characters or less.
+text_name_input
+Username
+text_user_name
+Edit
+text_title_effect_edit
+Edit
+text_title_display_edit
+If no effect title is selected, display title is applied for effect.
+text_attention
+Effect
+text_effect
+Display
+text_display
+Title
+text_title
+Close
+text_button_close
+None
+text_none
+Remove Follower
+text_unfollower
+Invite to guild
+text_guild
+Info
+text_detail
+Like
+text_like
+Follow
+text_follow
+Edit
+User Info
+text_user_edit
+Select a
+character
+text_not_character_3
+Select a
+character
+text_not_character_2
+Select a
+character
+text_not_character_1
+Battle
+text_tab_select_battle
+Battle
+text_tab_normal_battle
+System
+text_tab_select_system
+System
+text_tab_normal_system
+text_guild_event_off
+text_guild_event_on
+Guild Event
+text_guild_event
+Lightweight Mode
+text_light_weight_mode
+Notices
+text_announcement
+Graphic
+text_graphic
+Push Notifications
+text_push_notification
+Sound
+text_sound
+text_cutin_dialogue_off
+Battle Cut in
+text_sub_title_cutin_dialogue
+Target
+text_sub_title_target
+Skill Cutscenes
+text_sub_title_cut_in
+Gameplay Settings
+text_cut_in
+Auto-approach enemies.
+text_auto_move_enemy
+Move Assist
+text_movement_helper
+text_far
+Near
+text_near
+Camera zooms automatically.
+text_dynamic_camera
+Lets you adjust camera zoom.
+text_free_camera
+Zoom
+text_zoom
+Free
+text_free
+Dynamic
+text_dynamic
+Camera
+text_camera
+Right
+text_right
+Left
+text_left
+Skill Button
+text_battle_controller
+Filter
+text_tab_select_battle
+Filter
+text_tab_normal_battle
+Sort
+text_tab_select_sort
+Sort
+text_tab_normal_sort
+Shieldblade
+text_shield
+Lance
+text_lance
+text_rod
+text_bow
+text_gun
+Mace
+text_mace
+Dagger
+text_dagger
+Rapier
+text_fine_sword
+Dual Blades
+text_dual_blade
+Sword
+text_sword
+Weapon Type
+label_title_weapon_type
+Earth
+text_attribute_earth
+Holy
+text_attribute_light
+Dark
+text_attribute_dark
+Wind
+text_attribute_wood
+Water
+text_attribute_water
+Fire
+text_attribute_fire
+Non-Elem.
+text_attribute_none
+Element
+label_title_attribute
+Star 5
+text_rarity_5
+Star 4
+text_rarity_4
+Star 3
+text_rarity_3
+Star 2
+text_rarity_2
+Star 1
+text_rarity_1
+Rarity
+label_title_rarity
+Character
+text_name
+Equipment
+text_job
+Element
+text_attribute
+Critical
+text_critical
+Defense
+text_defence
+Attack
+text_attack
+Descending
+text_descending
+Ascending
+text_ascending
+Parameters
+label_title_parameter
+Ascending/Descending
+label_title_sort
+Start Over
+text_retry
+Close
+text_close
+text_cancel
+text_ok
+Depart
+text_go
+Are you ready to depart
+text_info
+Title
+text_title
+Close
+text_button_close
+(Damage/heal 
+10%)
+text_value_up
+Cost
+text_consumption
+Battle Skill Info
+text_passive_title
+Close
+text_close
+Skill
+Slot
+text_slot_skill_edit
+Unlock Attr.
+text_ability_edit
+Locked
+text_arms_no_edit
+Edit Equip.
+text_arms_edit
+Play Story
+text_play_story
+Info
+text_battle_skill_detail
+Accessory Buff 1
+text_passive_skill_7
+Armor Buff 1
+text_passive_skill_6
+Weapon Buff 2
+text_passive_skill_5
+Weapon Buff 1
+text_passive_skill_4
+Battle Skill 3
+text_passive_skill_3
+Battle Skill 2
+text_passive_skill_2
+Battle Skill 1
+text_passive_skill_1
+Info
+text_sword_skill_detail
+/ Cost
+text_skill_consumption_3
+/ Cost
+text_skill_consumption_2
+/ Cost
+text_skill_consumption_1
+text_icon
+Players
+text_wanted_persons
+Beginner
+text_name
+Until:
+text
+Unfollow
+text_unfollow
+Follow
+text_follow
+Last Login:
+text_title_login
+You already have this character. You received an item instead
+text_replaced_item_title
+received
+text_receive
+Unlock Ability
+text_confirm
+Terms of Sale
+text_tokusyouhou
+Legal Information
+text_shikinkessaihou
+Use 
+Memory Diamonds
+to unlock ability
+Buy Memory Diamonds
+text_title_1
+Town Number
+text_current_room_title
+Remove
+text_info
+Lock
+text_favourite
+Max Lv.
+text_level_info
+Level will be reset after evolution.
+text_evolution_info
+Info
+text_detail
+Terms of Sale
+text_tokusyouhou
+Legal Information
+text_shikinkessaihou
+Not enough Memory Diamonds.
+Do you want to purchase more
+text_content
+Write a message
+text_input_place_holder
+The oldest messages will be deleted after 100 messages.
+text_attention
+Owned
+text_item_number
+Level already at max
+text_info_max_level
+Materials Needed
+title_item
+Col Needed:
+text_total
+Set desired upgrade level.
+text_info_1
+Set Upgrade Lv.
+title_setting
+Close
+text_close
+Equipment
+text_possession
+No equipment is available to upgrade.
+text_no_item
+Choose equipment to upgrade
+text_note_male
+Choose equipment to upgrade
+text_note_female
+Close
+text_close
+Sell
+text_ok
+You have no equipment that can be sold.
+text_no_item
+Total
+text_total
+Equipment
+text_possession
+Choose equipment to sell
+text_note_male
+Choose equipment to sell
+text_note_female
+Info
+text_detail
+Upgrade Bonus x2
+text_bonus
+Upgrade again
+text_info
+Info
+text_detail
+(Max Lv.)
+text_max_level
+Sell selected equipment
+text_info
+You have selected equipment with a rarity of 3 or
+higher. Do you want to sell anyway
+text_attention
+Total Col:
+text_total_sell
+Weapon level will be reset if the evolution
+succeeds. Do you want to continue
+text_info
+Evolve
+text_ok
+You have no evolution materials.
+text_no_item
+Evolvable
+text_possession
+Select Materials
+text_select_info_2
+Needed
+text_select_info_1
+Col Needed:
+text_total
+Materials Needed
+title_item
+Select materials for evolving.
+text_info_1
+Close
+text_close
+You have no evolvable equipment.
+text_no_item
+Evolvable
+text_possession
+Select equipment to evolve
+text_note_male
+Select equipment to evolve
+text_note_female
+Edit Equip.
+text_party
+Rate us 
+text_support
+Send Feedback
+text_opinion
+Rate Later
+text_not_support
+Details
+text_battle_skill_detail
+Details
+text_sword_skill_detail
+Show:
+text_info
+The stat can be changed using Hacking Crystals.
+text_warning
+A Limit Break is available.
+Choose a stat to upgrade.
+text
+Do you want to unlock this attribute
+text_confirm
+Not enough items.
+text

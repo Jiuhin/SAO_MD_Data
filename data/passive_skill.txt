@@ -1,0 +1,1004 @@
+Increases 100 MP in the next guild event. (
+Plan to be updated in the next event)
+MP Recovery UP in Next Guild Event
+Attack of the party increases by 5% in the next guild event. (
+Plan to be updated in the next event)
+Attack UP in Next Guild Event
+1000%
+1000%
+[D]30
+[D]30
+[D]50%
+[D]30
+[D]30
+10, 
+HP600
+[D]MP
+MP10
+MP10
+hp_up
+HP600
+Skill Damage Rate -2000 (Equipped One)
+Skill Damage Rate -2000 (Equipped One)
+Skill Damage Rate -1500 (Equipped One)
+Skill Damage Rate -1500 (Equipped One)
+Skill Damage Rate -1000 (Equipped One)
+Skill Damage Rate -1000 (Equipped One)
+Skill Damage Rate -500 (Equipped One)
+Skill Damage Rate -500 (Equipped One)
+Zero damage received when enemy attacked.
+No damage received
+Attack of party members (Wind-elem.) increase by 6% when you are a leader.
+P-Members' (Wind-elem.) Atk 
+6% (P-Leader)
+Attack of party members (Dark-elem.) increase by 6% when you are a leader.
+P-Members' (Dark-elem.) Atk 
+6% (P-Leader)
+Attack of all party members increase by 6% when you are a leader.
+P-Members' Attack 
+6% (P-Leader)
+Attack of all party members increase by 3% when you are a leader.
+P-Members' Attack 
+3% (P-Leader)
+MP of all party members increase by 1%.
+Party Members' MP 
+MP of all party members increase by 3%.
+Party Members' MP 
+Attack of all party members increase by 1%.
+Party Members' Attack 
+Attack of all party members increase by 3%.
+Party Members' Attack 
+Restores 15 MP per 5 seconds during standby.
+Auto-Recover (Standby)
+Restores 10 MP per 15 seconds during standby.
+Auto-Recover (Standby)
+Restores 5 MP per 5 seconds during standby.
+Auto-Recover (Standby)
+Increases attack by 10% to debuffed enemies.
+Attack 
+10% (vs debuffed enemies)
+Increases Col by 5% as you clear the quest.
+Col 
+5% (Quest cleared)
+Increases Col by 10% as you clear the quest.
+Col 
+10% (Quest cleared)
+Increases attack by 2% when equipped by male characters.
+Atk 
+2% (Male Character)
+Increases max HP by 6% when equipped by male characters.
+6% (Male Character)
+Increases attack by 6% when using skills.
+Skill Atk 
+Gain 5 MP on enemy kill.
+5 MP Recovery on Kill
+Increases attack and critical by 3% when equipped by OS Characters.
+Crit. 
+3% (OS Character)
+Increases HP and MP by 3% when equipped by OS Characters.
+3% (OS Character)
+Increases Crit. by 10% when equipped by Alice.
+Crit. 
+10% (Alice)
+50% chance Alice gains 5 MP on enemy kill.
+MP Recovery on Kill (Alice)
+50% chance Eugeo gains 5 MP on enemy kill.
+MP Recovery on Kill (Eugeo)
+Increases MP and Crit. by 3% when equipped by Eugeo.
+Crit. 
+3% (Eugeo)
+Increases attack by 10% when equipped by YUNA.
+Atk 
+10% (YUNA)
+50% chance Premiere gains 5 MP on enemy kill.
+MP Recovery on Kill (Premiere)
+Increases attack by 10% when equipped by Sachi.
+Atk 
+10% (Sachi)
+Increases attack by 3% when equipped by Silica.
+Attack 
+3% (Silica)
+Increases attack by 10% when equipped by Sachi.
+Attack 
+10% (Sinon)
+Increases attack by 3% when equipped by Sinon.
+Attack 
+3% (Sinon)
+Increases attack by 3% when equipped by Leafa.
+Attack 
+3% (Leafa)
+50% chance Leafa gains 5 MP on enemy kill.
+MP Recovery on Kill (Leafa)
+Increases attack by 3% when equipped by Asuna.
+Attack 
+3% (Asuna)
+Increases HP by 6% when equipped by Asuna.
+6% (Asuna)
+Increases attack by 6% when equipped by Kirito.
+Attack 
+6% (Kirito)
+Increases MP by 3% when equipped by Kirito.
+3% (Kirito)
+Increases MP gain when attacked weak points.
+MP Recovery on Attack Weak Points
+Lower MP required by 10% when HP is below 60%.
+Required MP -5% (HP Below 60%)
+Increases Attack by 6% vs Holy-elem. enemies when HP is above 80%.
+Attack 
+6% vs Holy-elem. (HP Above 80%)
+Decreases damage by 10% vs Holy-elem. enemies  when HP is above 80%
+Damage Received -10% vs Holy-elem (HP Above 80%)
+Decreases damage by 10% vs Dark-elem. enemies when HP is above 80%
+Damage Received -10% vs Dark-elem (HP Above 80%)
+Reduces damage received 30% when HP is below 50%.
+Damage Received -30% (HP Below 50%)
+Lower MP required by 5% when HP is above 50%.
+Required MP -5% (HP Above 50%)
+Attack 
+6% when HP is below 90%.
+Attack 
+6% (HP Below 90%)
+Increases Attack by 6% vs Earth-elem. enemies when HP is above 80%.
+Attack 
+6% vs Earth-elem. (HP Above 80%)
+attack and critical increase by 3% when HP is above 80%.
+Crit. 
+3% (HP Above 80%)
+Increases Non-elem. character's attack by 6% when HP is above 80%.
+Attack 
+6% (Non-elem, HP Above 80%)
+Increases Attack by 6% vs Fire-elem. enemies when HP is above 80%.
+Attack 
+6% vs Fire-elem. (HP Above 80%)
+Increases Attack by 6% and MP gain when HP is above 80%.
+Attack 
+MP Recovery Up  (HP Above 80%)
+Increases Attack by 6% when HP is above 90%.
+Attack 
+6% (HP Above 90%)
+Increases damage by 10% when HP is above 80%.
+Damage 
+10% (HP Above 80%)
+Lower MP required by 10% when HP is above 80%.
+Required MP -10% (HP Above 80%)
+Increases max MP and Crit. by 3%.
+Crit. 
+Increases max HP 
+MP by 3%.
+Increases max MP and Atk. by 6%.
+Atk. 
+Increases max HP and Atk. by 6%.
+Atk. 
+Greatly increases max HP 
+guard durability.
+Guard Durability Up
+Increases Non-elem. character's max HP and MP by 3%.
+Max HP/MP 
+3% (Non-elem.)
+Increases skill dmg. 10%. of Dark-elem.
+Skill Damage 
+10% (Dark)
+Increases max HP and Atk. by 10%.
+Atk. 
+Restores 10 MP per 5 seconds during standby.
+Auto-Recover HP (Standby)
+Reduces damage from Earth-elem. enemies. (30%)
+Earth Resistance
+Reduces damage from Earth-elem. enemies. (15%)
+Earth Resistance
+Reduces damage from Dark-elem. enemies. (30%)
+Dark Resistance
+Reduces damage from Dark-elem. enemies. (15%)
+Dark Resistance
+Reduces damage from Holy-elem. enemies. (30%)
+Holy Resistance
+Reduces damage from Holy-elem. enemies. (15%)
+Holy Resistance
+Reduces damage from Wind-elem. enemies. (30%)
+Wind Resistance
+Reduces damage from Wind-elem. enemies. (15%)
+Wind Resistance
+Reduces damage from Water-elem. enemies. (30%)
+Water Resistance
+Reduces damage from Water-elem. enemies. (15%)
+Water Resistance
+Reduces damage from Fire-elem. enemies. (30%)
+Fire Resistance
+Reduces damage from Fire-elem. enemies. (15%)
+Fire Resistance
+Reduces damage from Non-elem. enemies. (30%)
+Non-elemental Resistance
+Reduces damage from Non-elem. enemies. (15%)
+Non-elemental Resistance
+Increases max MP and Atk. by 15%.
+Atk. 
+Increases max MP and Atk. by 10%.
+Atk. 
+Increases damage 15% vs stunned enemies.
+Damage 
+15% (vs. Stunned Enemies)
+Increases damage 10% vs stunned enemies.
+Damage 
+10% (vs. Stunned Enemies)
+Restores 600 HP 
+5 MP per 5 seconds during standby.
+Auto-Recover HP 
+MP (Standby)
+Restores 600 HP 
+5 MP per 10 seconds during standby.
+Auto-Recover HP 
+MP (Standby)
+Gain 600 HP 
+5 MP on enemy kill.
+MP Recovery on Kill
+Increases damage after skill connect by 40%
+Damage Up at Skill Connect
+Increases damage after skill connect by 20%
+Damage Up at Skill Connect
+Decreases damage attained during sword skills by 50%
+Damage Received
+Decreases damage attained during sword skills by 30%
+Damage Received
+Increases skill dmg. 10%.
+Skill Damage 
+Increases skill dmg. 5%.
+Skill Damage 
+Increases skill dmg. 10% vs Non-elem. enemies.
+Skill Damage 
+10% (vs. Non-elem.)
+Increases skill dmg. 5% vs Non-elem. enemies.
+Skill Damage 
+5% (vs. Non-elem.)
+Increases skill dmg. 10% vs Water-elem. enemies.
+Skill Damage 
+10% (vs. Water)
+Increases skill dmg. 5% vs Water-elem. enemies.
+Skill Damage 
+5% (vs. Water)
+Increases skill dmg. 10% vs Holy-elem. enemies.
+Skill Damage 
+10% (vs. Holy)
+Increases skill dmg. 5% vs Holy-elem. enemies.
+Skill Damage 
+5% (vs. Holy)
+Increases skill dmg. 10% vs Fire-elem. enemies.
+Skill Damage 
+10% (vs. Fire)
+Increases skill dmg. 5% vs Fire-elem. enemies.
+Skill Damage 
+5% (vs. Fire)
+Increases skill dmg. 10% vs Earth-elem. enemies.
+Skill Damage 
+10% (vs.Earth)
+Increases skill dmg. 5% vs Earth-elem. enemies.
+Skill Damage 
+5% (vs.Earth)
+Increases skill dmg. 10% vs Dark-elem. enemies.
+Skill Damage 
+10% (vs.Dark)
+Increases skill dmg. 5% vs Dark-elem. enemies.
+Skill Damage 
+5% (vs.Dark)
+Increases dmg. 10% vs Earth-elem. enemies.
+Damage 
+10% (vs.Earth)
+Increases dmg. 9% vs Earth-elem. enemies.
+Damage 
+9% (vs.Earth)
+Increases dmg. 8% vs Earth-elem. enemies.
+Damage
+8% (vs.Earth)
+Increases dmg. 7% vs Earth-elem. enemies.
+Damage 
+7% (vs.Earth)
+Increases dmg. 6% vs Earth-elem. enemies.
+Damage 
+6% (vs.Earth)
+Increases dmg. 5% vs Earth-elem. enemies.
+Damage 
+5% (vs.Earth)
+Increases dmg. 10% vs Dark-elem. enemies.
+Damage 
+10% (vs.Dark)
+Increases dmg. 9% vs Dark-elem. enemies.
+Damage 
+9% (vs.Dark)
+Increases dmg. 8% vs Dark-elem. enemies.
+Damage 
+8% (vs.Dark)
+Increases dmg. 7% vs Dark-elem. enemies.
+Damage 
+7% (vs.Dark)
+Increases dmg. 6% vs Dark-elem. enemies.
+Damage 
+6% (vs.Dark)
+Increases dmg. 5% vs Dark-elem. enemies.
+Damage 
+5% (vs.Dark)
+Increases dmg. 10% vs Holy-elem. enemies.
+Damage 
+10% (vs.Holy)
+Increases dmg. 9% vs Holy-elem. enemies.
+Damage 
+9% (vs.Holy)
+Increases dmg. 8% vs Holy-elem. enemies.
+Damage 
+8% (vs.Holy)
+Increases dmg. 7% vs Holy-elem. enemies.
+Damage 
+7% (vs.Holy)
+Increases dmg. 6% vs Holy-elem. enemies.
+Damage 
+6% (vs.Holy)
+Increases dmg. 5% vs Holy-elem. enemies.
+Damage 
+5% (vs.Holy)
+Increases dmg. 10% vs Wind-elem. enemies.
+Damage 
+10% (vs.Wind)
+Increases dmg. 9% vs Wind-elem. enemies.
+Damage 
+9% (vs.Wind)
+Increases dmg. 8% vs Wind-elem. enemies.
+Damage 
+8% (vs.Wind)
+Increases dmg. 7% vs Wind-elem. enemies.
+Damage 
+7% (vs.Wind)
+Increases dmg. 6% vs Wind-elem. enemies.
+Damage 
+6% (vs.Wind)
+Increases dmg. 5% vs Wind-elem. enemies.
+Damage 
+5% (vs.Wind)
+Increases dmg. 10% vs Water-elem. enemies.
+Damage 
+10% (vs.Water)
+Increases dmg. 9% vs Water-elem. enemies.
+Damage 
+9% (vs.Water)
+Increases dmg. 8% vs Water-elem. enemies.
+Damage 
+8% (vs.Water)
+Increases dmg. 7% vs Water-elem. enemies.
+Damage 
+7% (vs.Water)
+Increases dmg. 6% vs Water-elem. enemies.
+Damage 
+6% (vs.Water)
+Increases dmg. 5% vs Water-elem. enemies.
+Damage 
+5% (vs.Water)
+Increases dmg. 10% vs Fire-elem. enemies.
+Damage 
+10% (vs.Fire)
+Increases dmg. 9% vs Fire-elem. enemies.
+Damage 
+9% (vs.Fire)
+Increases dmg. 8% vs Fire-elem. enemies.
+Damage 
+8% (vs.Fire)
+Increases dmg. 7% vs Fire-elem. enemies.
+Damage 
+7% (vs.Fire)
+Increases dmg. 6% vs Fire-elem. enemies.
+Damage 
+6% (vs.Fire)
+Increases dmg. 5% vs Fire-elem. enemies.
+Damage 
+5% (vs.Fire)
+Increases dmg. 10% vs Non-elem. enemies.
+Damage 
+10% (vs.Non)
+Increases dmg. 9% vs Non-elem. enemies.
+Damage 
+9% (vs.Non)
+Increases dmg. 8% vs Non-elem. enemies.
+Damage 
+8% (vs.Non)
+Increases dmg. 7% vs Non-elem. enemies.
+Damage 
+7% (vs.Non)
+Increases dmg. 6% vs Non-elem. enemies.
+Damage 
+6% (vs.Non)
+Increases dmg. 5% vs Non-elem. enemies.
+Damage 
+5% (vs.Non)
+Increases damage attained by 10%
+Damage 
+Increases damage attained by 5%
+Damage 
+Restore 5 MP each second while charging.
+MP Recovery while Charging
+Gains 5 MP on a successful parry
+MP Recovery on Parry
+50% damage when 1 of your character's remains.
+Solo Dmg. 
+40% damage when 1 of your character's remains.
+Solo Dmg. 
+30% damage when 1 of your character's remains.
+Solo Dmg. 
+20% damage when 1 of your character's remains.
+Solo Dmg. 
+15% damage when 1 of your character's remains.
+Solo Dmg. 
+Survive a fatal damage with HP1% just once
+Fatal Damage Resistance
+Increases Attack for 30-hit
+combos by 6%. (Dark-elem.)
+Combo: Attack 
+6% (Dark)
+Increases Attack for 30-hit
+combos by 6%. (Wind-elem.)
+Combo: Attack 
+6% (Wind)
+Increases Attack for 30-hit- combos by 6%.
+30- Combo: Attack 
+Increases damage for 20-hit
+combos by 5%.
+Combo: Dmg. 
+Increases damage for 30-hit
+combos by 5%.
+Combo: Dmg. 
+Increases Window to continue a combo by 8 secs.
+Combo Window Up
+Increases Window to continue a combo by 5 secs.
+Combo Window Up
+Increases Window to continue a combo by 3 secs.
+Combo Window Up
+Increases skill dmg. 10% vs Wind-elem. enemies.
+Skill Damage 
+10% (Wind)
+Increases skill dmg. 5% vs Wind-elem. enemies.
+Skill Damage 
+5% (Wind)
+Restores 10 MP per 10 seconds during standby.
+Auto-Recover 10 MP (Standby)
+Restores 600 MP every 5 seconds.
+Auto-Recover 600 HP(Every 5 sec.)
+Restores 10 MP every 10 seconds.
+Auto-Recover 10 MP
+Restores 600 HP every 10 seconds.
+Auto-Recover 600 HP
+Gains 5 MP on a successful parry against Earth-elem. enemies
+MP Recovery on Parry (vs. Earth)
+Gains 5 MP on a successful parry against Dark-elem. enemies
+MP Recovery on Parry (vs. Dark)
+Gains 5 MP on a successful parry against Holy-elem. enemies
+MP Recovery on Parry (vs. Holy)
+Gains 5 MP on a successful parry against Wind-elem. enemies
+MP Recovery on Parry (vs. Wind)
+Gains 5 MP on a successful parry against Water-elem. enemies
+MP Recovery on Parry (vs. Water)
+Gains 5 MP on a successful parry against Fire-elem. enemies
+MP Recovery on Parry (vs. Fire)
+Gains 5 MP on a successful parry against Non-elem. enemies
+MP Recovery on Parry (vs. Non-elem.)
+Increases MP gain vs Earth-elem. enemies.
+MP Recovery (vs. Earth)
+Increases MP gain vs Dark-elem. enemies.
+MP Recovery (vs. Dark)
+Increases Non-elem. character's poison resistance.
+Poison Resistance (Non-elem.)
+Increases Water-elem. character's paralysis resistance.
+Paralysis Resistance (Water)
+Increases Non-elem. character's paralysis resistance.
+Paralysis Resistance (Non-elem.)
+Increases MP gain vs Holy-elem. enemies.
+MP Recovery (vs. Holy)
+Increases Water-elem. character's stun resistance.
+Stun Resistance (Water)
+Increases MP gain vs Wind-elem. enemies.
+MP Recovery (vs. Wind)
+Increases Earth-elem. character's Attack by 3% when they attack  weak points.
+Attack 
+3% on Attack Weak Points (Earth-elem.)
+Increases Dark-elem. character's Attack by 3% when they attack  weak points.
+Attack 
+3% on Attack Weak Points (Dark-elem.)
+Increases Wind-elem. character's Attack by 3% when they attack weak points.
+Attack 
+3% on Attack Weak Points (Wind-elem.)
+Increases Water-elem. character's Attack by 3% when they attack weak points.
+Attack 
+3% on Attack Weak Points (Water-elem.)
+Increases MP gain vs Water-elem. enemies.
+MP Recovery (vs. Water-elem.)
+Increases Earth-elem. character's Attack and Critical by 3%.
+Attack/Critical 
+3% (Earth-elem.)
+Increases Earth-elem. character's HP and MP by 3%.
+HP/MP 
+3% (Earth-elem.)
+Increases Dark-elem. character's Attack and Critical by 3%.
+Attack/Critical 
+3% (Dark-elem.)
+Increases Dark-elem. character's HP and MP by 3%.
+HP/MP 
+3% (Dark-elem.)
+Increases Holy-elem. character's Attack and Critical by 3%.
+Attack/Critical 
+3% (Holy-elem.)
+Increases Holy-elem. character's HP and MP by 3%.
+HP/MP 
+3% (Holy-elem.)
+Increases Wind-elem. character's HP and MP by 3%.
+HP/MP 
+3% (Wind-elem.)
+Increases Wind-elem. character's Attack and Critical by 3%.
+Attack/Critical 
+3% (Wind-elem.)
+Increases Water-elem. character's Attack and Critical by 3%.
+Attack/Critical 
+3% (Water-elem.)
+Increases Non-elem. character's Attack and Critical by 3%.
+Attack/Critical 
+3% (Non-elem.)
+Increases MP gain vs Fire-elem. enemies.
+MP Recovery Ratio Up (vs. Fire)
+Increases MP gain vs Non-elem. enemies.
+MP Recovery Ratio Up (vs.Non-elem.)
+Increases damage vs Earth-elem. enemies when using skills at switch
+Switch Skill Damage Up (vs. Earth-elem.)
+Increases critical damage vs Earth-elem. enemies from 1.5x to 2x.
+Crit. Damage Up (vs. Earth)
+Increases critical damage vs Earth-elem. enemies by 10%
+Crit. Damage 
+10% (vs. Earth)
+Increases dmg. vs Earth-elem. enemies by 1.5x.
+Damage Up (vs. Earth)
+Increases damage vs Dark-elem. enemies when using skills at switch
+Switch Skill Damage Up (vs. Dark.)
+Increases critical damage vs Dark-elem. enemies from 1.5x to 2x.
+Crit. Damage Up (vs. Dark)
+Increases critical damage vs Dark-elem. enemies by 10%
+Crit. Damage 
+10% (vs. Dark)
+Increases dmg. vs Dark-elem. enemies by 1.5x.
+Damage Up (vs. Dark)
+Increases damage vs Holy-elem. enemies when using skills at switch
+Switch Skill Damage Up (vs. Holy.)
+Increases critical damage vs Holy-elem. enemies from 1.5x to 2x.
+Crit. Damage Up (vs. Holy)
+Increases critical damage vs Holy-elem. enemies by 10%
+Crit. Damage 
+10% (vs. Holy)
+Increases dmg. vs Holy-elem. enemies by 1.5x.
+Damage Up (vs. Holy)
+Increases damage vs Wind-elem. enemies when using skills at switch
+Switch Skill Damage Up (vs. Wind)
+Increases critical damage vs Wind-elem. enemies from 1.5x to 2x.
+Crit. Damage Up (vs. Wind)
+Increases critical damage vs Wind-elem. enemies by 10%
+Crit. Damage 
+10% (vs. Wind)
+Increases dmg. vs Wind-elem. enemies by 1.5x.
+Damage Up (vs. Wind)
+Increases Attack for 30-hit
+combos by 6%. (Water-elem.)
+Combo: Attack 
+6% (Water)
+Increases damage vs Water-elem. enemies when using skills at switch
+Switch Skill Damage Up (vs. Water-elem.)
+Increases critical damage vs Water-elem. enemies from 1.5x to 2x.
+Crit. Damage Up (vs. Water)
+Increases critical damage vs Water-elem. enemies by 10%
+Crit. Damage 
+10% (vs. Water)
+Increases dmg. vs Water-elem. enemies by 1.5x.
+Damage Up (vs. Water)
+Increases damage vs Fire-elem. enemies when using skills at switch
+Switch Skill Damage Up (vs. Fire.)
+Increases critical damage vs Fire-elem. enemies from 1.5x to 2x.
+Crit. Damage Up (vs. Fire)
+Increases critical damage vs Fire-elem. enemies by 10%
+Crit. Damage 
+10% (vs. Fire)
+Increases dmg. vs Fire-elem. enemies by 1.5x.
+Damage Up (vs. Fire)
+Increases damage vs Non-elem. enemies when using skills at switch
+Switch Skill Damage Up (vs. Non-elem.)
+Increases critical damage vs Non-elem. enemies from 1.5x to 2x.
+Crit. Damage Up (vs. Non-elem.)
+Increases critical damage vs Non-elem. enemies by 10%
+Crit. Damage 
+10% (vs. Non-elem.)
+Increases dmg. vs Non-elem. enemies by 1.5x.
+Damage Up (vs. Non-elem.)
+Increases Earth-elem. character's MP 
+def. by 3%.
+Def. 
+3% (Earth)
+Increases Earth-elem. character's defense by 6%.
+Def 
+6% (Earth)
+Increases Earth-elem. character's attack by 3%.
+Atk 
+3% (Earth)
+Increases Earth-elem. character's MP by 3%.
+3% (Earth)
+Increases Earth-elem. character's HP by 6%.
+6% (Earth)
+Increases Dark-elem. character's MP 
+Atk. by 3%.
+Atk. 
+3% (Dark)
+Increases Dark-elem. character's MP 
+def. by 3%.
+Def. 
+3% (Dark)
+Increases Dark-elem. character's attack by 3%.
+Atk 
+3% (Dark)
+Increases Dark-elem. character's MP by 3%.
+3% (Dark)
+Increases Dark-elem. character's HP by 6%.
+6% (Dark)
+Increases Dark-elem. character's HP by 3%.
+3% (Dark)
+Increases Holy-elem. character's HP 
+MP by 3%.
+3% (Holy)
+Increases Holy-elem. character's MP 
+def. by 3%.
+Def. 
+3% (Holy)
+Increases Holy-elem. character's attack by 3%.
+Atk 
+3% (Holy)
+Increases Holy-elem. character's MP by 3%.
+3% (Holy)
+Increases Holy-elem. character's HP by 6%.
+6% (Holy)
+MP-10%
+Increases Wind-elem. character's MP 
+def. by 3%.
+Def. 
+3% (Wind)
+Increases Wind-elem. character's attack by 3%.
+Atk 
+3% (Wind)
+Increases Wind-elem. character's MP by 3%.
+3% (Wind)
+Increases Wind-elem. character's HP by 6%.
+6% (Wind)
+Increases Water-elem. character's defense by 6%.
+Def. 
+6% (Water)
+Increases Water-elem. character's MP 
+def. by 3%.
+Def. 
+3% (Water)
+Increases Water-elem. character's attack by 3%.
+Atk 
+3% (Water)
+Increases Water-elem. character's MP by 3%.
+3% (Water)
+Increases Water-elem. character's HP by 6%.
+6% (Water)
+Increases Fire-elem. character's HP 
+MP by 3%.
+MP. 
+3% (Fire)
+Increases Fire-elem. character's MP 
+attack by 3%.
+Atk. 
+3% (Fire)
+Increases Fire-elem. character's MP 
+def. by 3%.
+Def. 
+3% (Fire)
+Increases Fire-elem. character's attack by 3%.
+Atk 
+3% (Fire)
+Increases Fire-elem. character's MP by 3%.
+3% (Fire)
+Increases Fire-elem. character's HP by 6%.
+6% (Fire)
+Increases Non-elem. character's MP 
+def. by 3%.
+Def. 
+3% (Non-elem.)
+Increases Non-elem. character's attack by 3%.
+Atk 
+3% (Non-elem.)
+Increases Non-elem. character's MP by 3%.
+3% (Non-elem.)
+Increases Non-elem. character's HP by 6%.
+6% (Non-elem.)
+Increases Attack 
+6% when using skills at switch
+Switch Skill Attack 
+Increases damage when using skills at switch
+Switch Skill Damage Up
+Increases Window to continue a combo by 3 secs during enhancement effects.
+Combo Window Up
+Increases the effect of status enhancement effects.
+Increases Enhancement Effects
+Increases damage for 30-hit
+combos by 10%.
+Combo: Dmg. 
+Increases critical damage from 1.5x to 2x.
+Critical Damage Up
+Auto-Guard
+Auto-Guard
+Increases crit. by 10% vs Earth-elem. enemies.
+Crit. 
+10% (vs. Earth)
+Increases crit. by 10% vs Dark-elem. enemies.
+Crit. 
+10% (vs. Dark)
+Increases crit. by 10% vs Holy-elem. enemies.
+Crit. 
+10% (vs. Holy)
+Increases crit. by 10% vs Wind-elem. enemies.
+Crit. 
+10% (vs. Wind)
+Increases crit. by 10% vs Water-elem. enemies.
+Crit. 
+10% (vs. Water)
+Increases crit. by 10% vs Fire-elem. enemies.
+Crit. 
+10% (vs. Fire)
+Increases crit. by 10% vs Non-elem. enemies.
+Crit. 
+10% (vs. Non-elem.)
+Increases HP by 6% when using a rod.
+6% (Rods)
+Increases HP by 6% when using a bow.
+6% (Bows)
+Increases HP by 6% when using a gun.
+6% (Guns)
+Increases HP by 6% when using a club.
+6% (Clubs)
+Increases HP by 6% when using a dagger.
+6% (Daggers)
+Increases HP by 6% when using a rapier.
+6% (Rapiers)
+Increases HP by 6% when using two swords.
+6% (Dual Blades)
+Increases HP by 6% when using a sword.
+6% (Swords)
+Increases damage received by 50% from Earth-elem. characters.
+[enemy] Increase damage received by 50% (Earth)
+Reduces damage from Earth-elem. enemies.
+Earth Resistance
+Reduces critical damage from Dark-elem. enemies. (10%)
+[enemy] Dark Skill Damage (-10%)
+Reduces skill damage from Dark-elem. enemies. (10%)
+[enemy] Dark Skill Damage (-10%)
+Increase damage received by 50% from Dark-elem. characters.
+[enemy] Increase damage received by 50% (Dark)
+Reduces damage from Dark-elem. enemies. (30%)
+[enemy] Dark Resistance (30%)
+Reduces damage from Dark-elem. enemies. (50%)
+[enemy] Dark Resistance (50%)
+Reduces damage from Dark-elem. enemies. (45%)
+[enemy] Dark Resistance (45%)
+Reduces damage from Dark-elem. enemies.
+Dark Resistance
+Reduces damage from Dark-elem. enemies. (45%)
+Dark Resistance (45%)
+Increase damage received by 50% from Holy-elem. characters.
+[enemy] Increase damage received by 50% (Holy)
+Increase damage received by 30% from Holy-elem. characters.
+[enemy] Increase damage received by 30% (Holy)
+Increase damage received by 45% from Holy-elem. characters.
+[enemy] Reduce damage received by 45% (Holy)
+Reduces damage from Holy-elem. enemies.
+Holy Resistance
+Increase damage received by 50% from Wind-elem. characters.
+[enemy] Increase damage received by 50% (Wind)
+Increase damage received by 40% from Wind-elem. characters.
+[enemy] Increase damage received by 40% (Wind)
+Increase damage received by 30% from Wind-elem. characters.
+[enemy] Increase damage received by 30% (Wind)
+Reduces damage from Wind-elem. enemies.
+Wind Resistance
+Increase damage received by 50% from Water-elem. characters.
+[enemy] Increase damage received by 50% (Water)
+Increase damage received by 30% from Water-elem. characters.
+[enemy] Increase damage received by 30% (Water)
+Reduces damage from Water-elem. enemies.
+Water Resistance
+Increase damage received by 50% from Fire-elem. characters.
+[enemy] Increase damage received by 50% (Fire)
+Increase damage received by 30% from Fire-elem. characters.
+[enemy] Increase damage received by 30% (Fire)
+Reduces damage from Fire-elem. enemies.
+Fire Resistance
+Increase damage received by 50% from characters.
+[enemy] Increase damage received by 50%
+Increase damage received by 20% from characters.
+[enemy] Increase damage received by 20%
+Reduce skill damage received by 10% from Non-elem. characters.
+[enemy] Reduce skill damage received by 10% (Non-elem)
+Increase damage received by 50% from Non-elem. characters.
+[enemy] Increase damage received by 50% (Non-elem)
+Reduce damage received by 40% from Non-elem. characters.
+[enemy] Reduce damage received by 40% (Non-elem)
+Reduce damage received by 30% from Non-elem. characters.
+[enemy] Reduce damage received by 30% (Non-elem)
+Reduce damage received by 55% from Non-elem. characters.
+[enemy] Reduce damage received by 55% (Non-elem)
+Reduce damage received by 50% from Non-elem. characters.
+[enemy] Reduce damage received by 50% (Non-elem)
+Reduce damage received by 45% from Non-elem. characters.
+[enemy] Reduce damage received by 45% (Non-elem)
+Reduces damage from Non-elem. enemies.
+Non-elemental Resistance
+Increases MP gain 150.
+MP Recovery Ratio 
+Increases MP gain 100.
+MP Recovery Ratio 
+Increases MP gain 50.
+MP Recovery Ratio 
+Increases max MP and Crit. by 12%.
+Crit. 
+Increases max MP and Crit. by 3%.
+Crit. 
+Increases max MP and Atk. by 15%.
+Atk. 
+Increases max MP and Atk. by 12%.
+Atk. 
+Increases max MP and Atk. by 10%.
+Atk. 
+Increases max MP and Atk. by 6%.
+Atk. 
+Increases max HP and Atk. by 10%.
+Atk. 
+Increases max HP and Atk. by 6%.
+Atk. 
+Increases max HP and MP by 15%.
+Increases max HP and MP by 12%.
+Increases max HP and MP by 10%.
+Increases max HP and MP by 3%.
+Increases HP by 6% when using a rod.
+6% (Rods)
+Increases max HP by 3000.
+3000
+Increases max HP by 2700.
+2700
+Increases max HP by 2400.
+2400
+Increases max HP by 2100.
+2100
+Increases max HP by 1800.
+1800
+Increases max HP by 1500.
+1500
+Increases max HP by 1200.
+1200
+Increases max HP by 900.
+Increases max HP by 600.
+Increases max HP by 300.
+Increase HP by 1800 
+raises Guard Durability higher than Lv9
+1800 
+Guard Durability Up
+Increase HP by 1800 
+raises Guard Durability higher than Lv8
+1800 
+Guard Durability Up
+Increase HP by 1500 
+raises Guard Durability higher than Lv7
+1500 
+Guard Durability Up
+Increase HP by 1500 
+raises Guard Durability higher than Lv6
+1500 
+Guard Durability Up
+Increase HP by 1200 
+raises Guard Durability higher than Lv5
+1200 
+Guard Durability Up
+Increase HP by 1200 
+raises Guard Durability higher than Lv4
+1200 
+Guard Durability Up
+Increase HP by 900 
+raises Guard Durability higher than Lv3
+900 
+Guard Durability Up
+Increase HP by 900 
+raises Guard Durability higher than Lv2
+900 
+Guard Durability Up
+Increase HP by 600 
+raises Guard Durability higher than Lv1
+600 
+Guard Durability Up
+Increase HP by 300 
+raises Guard Durability
+300 
+Guard Durability Up
+Increases attack and critical hit rate by 500.
+Atk. 
+Crit. 
+Increases attack and critical hit rate by 450..
+Atk. 
+Crit. 
+Increases attack and critical hit rate by 400.
+Atk. 
+Crit. 
+Increases attack and critical hit rate by 350.
+Atk. 
+Crit. 
+Increases attack and critical hit rate by 300.
+Atk. 
+Crit. 
+Increases attack and critical hit rate by 250.
+Atk. 
+Crit. 
+Increases attack and critical hit rate by 200.
+Atk. 
+Crit. 
+Increases attack and critical hit rate by 150.
+Atk. 
+Crit. 
+Increases attack and critical hit rate by 100.
+Atk. 
+Crit. 
+Increases attack and critical hit rate by 50.
+Atk. 
+Crit. 
+Increases critical hit rate by 9%.
+Crit. 
+Increases critical hit rate by 18%.
+Crit. 
+Increases critical hit rate by 15%.
+Crit. 
+Increases critical hit rate by 12%.
+Crit. 
+Increases critical hit rate by 10%.
+Crit. 
+Increases critical hit rate by 6%.
+Crit. 
+Increases critical hit rate by 3%.
+Crit. 
+Increases defense by 9%.
+Def. 
+Increases defense by 18%.
+Def. 
+Increases defense by 15%.
+Def. 
+Increases defense by 12%.
+Def. 
+Increases defense by 10%.
+Def. 
+Increases defense by 6%.
+Def. 
+Increases defense by 3%.
+Def. 
+Increases attack by 20%.
+Atk 
+Increases attack by 9%.
+Atk 
+Increases attack by 18%.
+Atk 
+Increases attack by 15%.
+Atk 
+Increases attack by 12%.
+Atk 
+Increases attack by 10%.
+Atk 
+Increases attack by 6%.
+Atk 
+Increases attack by 3%.
+Atk 
+Increases max MP by 20%.
+Increases max MP by 9%.
+Increases max MP by 18%.
+Increases max MP by 15%.
+Increases max MP by 12%.
+Increases max MP by 10%.
+Increases max MP by 6%.
+Increases max MP by 3%.
+Increases max HP by 9%.
+Increases max HP by 18%.
+Increases max HP by 15%.
+Increases max HP by 12%.
+Increases max HP by 10%.
+Increases max HP by 6%.
+Increases max HP by 3%.

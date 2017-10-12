@@ -1,0 +1,2150 @@
+1040003-1040004-1040005,3
+Mission Challenge Day7 : Defeat 3 Kobold Lords at the Event Quest.
+9007017,1,8,1
+Mission Challenge Day6 : Complete 
+The Kobold Lord Ep. (EX.)
+with a Rod user in party.
+1040003-1040004-1040005,3
+Mission Challenge Day5 : Defeat 3 Kobold Lords at the Event Quest.
+9007016,1,1,1
+Mission Challenge Day4 : Complete 
+The Kobold Lord Ep. (Exp.)
+with a Sword user in party.
+1040003-1040004-1040005,3
+Mission Challenge Day3 : Defeat 3 Kobold Lords at the Event Quest.
+9007015,1,4,1
+Mission Challenge Day2 : Complete 
+The Kobold Lord Ep. (Int.)
+with a Dagger user in party.
+1040003-1040004-1040005,3
+Mission Challenge Day1 : Defeat 3 Kobold Lords at the Event Quest
+Korean Ver is Released
+Memory Diamond Present
+Korean Ver is Released
+Special Character Present
+4027010
+Complete OS Episode 0 
+Someone's Requiem
+Skill Slot material present
+Join a Guild
+9014001
+9014002
+9014003
+9014004
+9014005
+9014006
+9014007
+9014008
+9014009
+9014010
+9014011
+9014012
+9014013
+9014014
+9014015
+9014016
+9014017
+9014018
+9014019
+9014020
+9014021
+9014022
+9014023
+9014024
+9014025
+9014026
+9014027
+9014028
+9014029
+9014030,1,1
+Complete all the 30 kinds of 
+All Star Quest
+with an S rank.
+9014001
+9014002
+9014003
+9014004
+9014005
+9014006
+9014007
+9014008
+9014009
+9014010
+9014011
+9014012
+9014013
+9014014
+9014015
+9014016
+9014017
+9014018
+9014019
+9014020
+9014021
+9014022
+9014023
+9014024
+9014025
+9014026
+9014027
+9014028
+9014029
+9014030,1,4
+Complete all the 30 kinds of 
+All Star Quest
+9013001
+Complete 
+Sinon's Birthday Quest
+9011001
+Complete 
+Yuuki's Birthday Quest
+9010001
+Complete 
+Liz's Birthday Quest
+9009001
+Complete 
+Leafa's Birthday Quest
+9007126,2,30
+Complete 
+Vanguard 
+Rearguard (Master)
+in under 30 secs.
+9007125,2,40
+Complete 
+Vanguard 
+Rearguard (Exp.)
+in under 40 secs.
+9007124,2,40
+Complete 
+Vanguard 
+Rearguard (Int.)
+in under 40 secs.
+9007126,2,2,1
+Day8: Complete 
+Vanguard 
+Rearguard (Master)
+with at least one Dual Blades character.
+9007126,2,1,1
+Day7: Complete 
+Vanguard 
+Rearguard (Master)
+with at least one Sword character.
+9007126,2,4,1
+Day6: Complete 
+Vanguard 
+Rearguard (Master)
+with at least one Dagger character.
+9007125,2,5,1
+Day5: Complete 
+Vanguard 
+Rearguard (Exp.)
+with at least one Mace character.
+9007125,2,6,1
+Day4: Complete 
+Vanguard 
+Rearguard (Exp.)
+with at least one Gun character.
+9007125,2,7,1
+Day3: Complete 
+Vanguard 
+Rearguard (Exp.)
+with at least one Bow character.
+9007124,2,3,1
+Day2: Complete 
+Vanguard 
+Rearguard (Int.)
+with at least one Rapier character.
+9007124,2,8,1
+Day1: Complete 
+Vanguard 
+Rearguard (Int.)
+with at least one Rod character.
+9007117-9007120-9007123,1,50
+Episode Gullinkambi: Clear any of Master quests under 50 secs
+9007094,2
+Complete 
+Call for Help (Master)
+without down.
+9007093,2
+Complete 
+Call for Help (Expert)
+without down.
+9007092,2
+Complete 
+Call for Help (Int.)
+without down.
+9007094,2,30
+Day 7 Mission Challenge: Clear 
+Master
+in under 30 secs
+9007094,2,50
+Day 5 Mission Challenge: Clear 
+Master
+in under 50 secs
+9007094,2,60
+Day 5 Mission Challenge: Clear 
+Master
+in under 60 secs
+9007094,2,80
+Day 4 Mission Challenge: Clear 
+Master
+in under 80 secs
+9007094,2,90
+Day 3 Mission Challenge: Clear 
+Master
+in under 90 secs
+9007092-9007093-9007094,2,40
+Day 2 Mission Challenge: Clear any quest in under 40 secs
+9007092-9007093-9007094,2,60
+Day 1 Mission Challenge: Clear any quest in under 60 secs
+1220013-1220016-1220019,15
+Defeat 15 The Gold King of Lakes at the Event Quest
+1220012-1220015-1220018,15
+Defeat 15 The Silver King of Lakes at the Event Quest
+1220011-1220014-1220017,15
+Defeat 15 The King of Lakes at the Event Quest
+1220012-1220015-1220018,2
+Day 7 Mission Challenge: Defeat 2 The Silver King of Lakes at the Event Quest
+1220013-1220016-1220019,1
+Day 6 Mission Challenge: Defeat 1 The Gold King of Lakes at the Event Quest
+1220012-1220015-1220018,2
+Day 5 Mission Challenge: Defeat 2 The Silver King of Lakes at the Event Quest
+1220013-1220016-1220019,1
+Day 4 Mission Challenge: Defeat 1 The Gold King of Lakes at the Event Quest
+1220012-1220015-1220018,2
+Day 3 Mission Challenge: Defeat 2 The Silver King of Lakes at the Event Quest
+1220013-1220016-1220019,1
+Day 2 Mission Challenge: Defeat 1 The Gold King of Lakes at the Event Quest
+1220012-1220015-1220018,2
+Day 1 Mission Challenge: Defeat 2 The Silver King of Lakes at the Event Quest
+1150091-1150093-1150095-1150097,40
+Defeat 40 Gold Rabbits at the Event Quest
+1150090-1150092-1150094-1150096,70
+Defeat 70 Silver Rabbits at the Event Quest
+1150002,500
+Defeat 500 Ragout Rabbits at the Event Quest
+1150002,60
+Day 7 Mission Challenge: Defeat 60 Ragout Rabbits at the Event Quest
+1150091-1150093-1150095-1150097,5
+Day 6 Mission Challenge: Defeat 5 Gold Rabbits at the Event Quest
+1150090-1150092-1150094-1150096,10
+Day 5 Mission Challenge: Defeat 10 Silver Rabbits at the Event Quest
+1150002,60
+Day 4 Mission Challenge: Defeat 60 Ragout Rabbits at the Event Quest
+1150091-1150093-1150095-1150097,5
+Day 3 Mission Challenge: Defeat 5 Gold Rabbits at the Event Quest
+1150090-1150092-1150094-1150096,10
+Day 2 Mission Challenge: Defeat 10 Silver Rabbits at the Event Quest
+1150002,60
+Day 1 Mission Challenge: Defeat 60 Ragout Rabbits at the Event Quest
+9005002
+Complete 
+Kirito's Birthday Quest 2017
+9004002
+Complete 
+Silica's Birthday Quest 2017
+9002002
+Complete 
+Asuna's Birthday Quest 2017
+8028008
+Complete 
+The Raging Outcasts 
+Guld the Ancient Ogre
+(Outcast Class)
+8028007
+Complete 
+The Raging Outcasts 
+Guld the Ancient Ogre
+(Master)
+8028006
+Complete 
+The Raging Outcasts 
+Guld the Ancient Ogre
+(EX)
+8028005
+Complete 
+The Raging Outcasts 
+Guld the Ancient Ogre
+(Expert)
+8028004
+Complete 
+The Raging Outcasts 
+The Mysterious Beast
+(Outcast Class)
+8028003
+Complete 
+The Raging Outcasts 
+The Mysterious Beast
+(Master)
+8028002
+Complete 
+The Raging Outcasts 
+The Mysterious Beast
+(EX)
+8028001
+Complete 
+The Raging Outcasts 
+The Mysterious Beast
+(Expert)
+8026005,3,45
+Complete 
+Zerg the Flame Caller  (Master 
+under 45 seconds.
+8026005,3
+Complete 
+Zerg the Flame Caller  (Master 
+without down.
+8026005
+Complete 
+Zerg the Flame Caller  (Master 
+3030012-3030013-3030014-3030015-3030016-3030017-3030018-3030019-3030020-3030021,50
+Defeat 50 of the Zerg the Flame Caller appeared in the current guild event. 
+8026004,3,45
+Complete 
+Zerg the Flame Caller  (Master)
+under 45 seconds.
+8026004,3
+Complete 
+Zerg the Flame Caller  (Master)
+without down.
+8026004
+Complete 
+Zerg the Flame Caller  (Master)
+8026003
+Complete 
+Zerg the Flame Caller (EX)
+8026002
+Complete 
+Zerg the Flame Caller (Expert)
+8026001
+Complete 
+Zerg the Flame Caller (Int.)
+8025004,3,45
+Complete 
+The Death in the Abyss (Master)
+with guild members in Multi under 45 seconds.
+8025003,3,45
+Complete 
+The Death in the Abyss (EX)
+with guild members in Multi under 45 seconds.
+1230007,50
+Defeat 50 of the The Fatal Scythe from 
+The Death in the Abyss (Master 
+in the guild. 
+8025004,3,80
+Complete 
+The Death in the Abyss (Master)
+with guild members in Multi, achieving a 80-hit or higher combo.
+8025003,3,80
+Complete 
+The Death in the Abyss (EX)
+with guild members in Multi, achieving a 80-hit or higher combo.
+1230003-1230004-1230005-1230006,50
+Defeat 50 of the The Fatal Scythe from 
+The Death in the Abyss
+in the guild. 
+8025004,3,45
+Complete 
+The Death in the Abyss (Master)
+under 45 seconds.
+8025003,3,45
+Complete 
+The Death in the Abyss (EX)
+under 45 seconds.
+8025002,2,45
+Complete 
+The Death in the Abyss (Expert)
+under 45 seconds.
+8025001,2,45
+Complete 
+The Death in the Abyss (Int.)
+under 45 seconds.
+8025004,3
+Complete 
+The Death in the Abyss (Master)
+without down.
+8025003,3
+Complete 
+The Death in the Abyss (EX)
+without down.
+8025002,2
+Complete 
+The Death in the Abyss (Expert)
+without down.
+8025001,2
+Complete 
+The Death in the Abyss (Int.)
+without down.
+8025004
+Complete 
+The Death in the Abyss (Master)
+8025003
+Complete 
+The Death in the Abyss (EX)
+8025002
+Complete 
+The Death in the Abyss (Expert)
+8025001
+Complete 
+The Death in the Abyss (Int.)
+8025005,3,45
+Complete 
+The Death in the Abyss (Master 
+under 45 seconds.
+8025005
+Complete 
+The Death in the Abyss (Master 
+8025004,3,45
+Complete 
+The Death in the Abyss (Master)
+under 45 seconds.
+8025004,3
+Complete 
+The Death in the Abyss (Master)
+without down.
+8025003,3
+Complete 
+The Death in the Abyss (EX)
+without down.
+8025003
+Complete 
+The Death in the Abyss (EX)
+8025002
+Complete 
+The Death in the Abyss (Expert)
+8025001
+Complete 
+The Death in the Abyss (Int.)
+8024004,3,45
+Complete 
+Ceratodustail Strikes Back (Master)
+under 45 seconds.
+8024004,3
+Complete 
+Ceratodustail Strikes Back (Master)
+without down.
+8024003,3
+Complete 
+Ceratodustail Strikes Back (EX)
+without down.
+8024003
+Complete 
+Ceratodustail Strikes Back (EX)
+8024002
+Complete 
+Ceratodustail Strikes Back (Expert)
+8024001
+Complete 
+Ceratodustail Strikes Back (Int.)
+8023004,3,45
+Complete 
+Zerg the Flame Caller (Master)
+under 45 seconds.
+8023004,3
+Complete 
+Zerg the Flame Caller (Master)
+without down.
+8023003,3
+Complete 
+Zerg the Flame Caller (EX)
+without down.
+8023003
+Complete 
+Zerg the Flame Caller (EX)
+8023002
+Complete 
+Zerg the Flame Caller (Expert)
+8023001
+Complete 
+Zerg the Flame Caller (Int.)
+8022004,3,45
+Complete 
+Goblin the Great Idol Fan (Master)
+under 45 seconds.
+8022004,3,60
+Complete 
+Goblin the Great Idol Fan (Master)
+under 1 minute.
+8022004,3
+Complete 
+Goblin the Great Idol Fan (Master)
+without down.
+8022004,3,6
+Complete 
+Goblin the Great Idol Fan (Master)
+with 6
+parries.
+8022003
+Complete 
+Goblin the Great Idol Fan (EX)
+8022002
+Complete 
+Goblin the Great Idol Fan (Expert)
+8022001
+Complete 
+Goblin the Great Idol Fan (Int.)
+8021005,2,90
+Complete 
+Minotaurs' Treasury (Master 
+in under 90 secs.
+802001,700000
+Earn a score of 700,000 in 
+Most Dangerous Pair in SAO
+802001,1300000
+Earn a score of 1,300,000 in 
+Most Dangerous Pair in SAO
+8019004,3
+Complete 
+Unseasonable Dark Saint (Master)
+without down.
+8019004,3,60
+Complete 
+Unseasonable Dark Saint (Master)
+under 1 minute.
+8019003,3,60
+Complete 
+Unseasonable Dark Saint (EX)
+under 1 minute.
+8019003,3,6
+Complete 
+Unseasonable Dark Saint (EX)
+with 6
+parries.
+8019003,3
+Complete 
+Unseasonable Dark Saint (EX)
+without down.
+8019002
+Complete 
+Unseasonable Dark Saint (Expert)
+8019001
+Complete 
+Unseasonable Dark Saint (Int.)
+8018004,3
+Complete 
+Halloween Returns (Master)
+without down.
+8018004,3,60
+Complete 
+Halloween Returns (Master)
+under 1 minute.
+8018003,3,60
+Complete 
+Halloween Returns (EX)
+under 1 minute.
+8018003,3,6
+Complete 
+Halloween Returns (EX)
+with 6
+parries.
+8018003,3
+Complete 
+Halloween Returns (EX)
+without down.
+8018002
+Complete 
+Halloween Returns (Exp.)
+8018001
+Complete 
+Halloween Returns (Int.)
+8017004,3
+Complete 
+Gluttonous Kobold Okawari (Master)
+without down.
+8017004,3,60
+Complete 
+Gluttonous Kobold Okawari (Master)
+in under 1 minute.
+8017003,3,60
+Complete 
+Gluttonous Kobold Okawari (EX)
+in under 1 minute.
+8017003,3,6
+Complete 
+Gluttonous Kobold Okawari (EX)
+with 6
+parries.
+8017003,3
+Complete 
+Gluttonous Kobold Okawari (EX)
+without down.
+8017002
+Complete 
+Gluttonous Kobold Okawari (Expert)
+8017001
+Complete 
+Gluttonous Kobold Okawari (Int.)
+8016004,3,60
+Complete 
+Gigantic Earth Dragon (Master)
+in under 1 minute.
+8016004,3
+Complete 
+Gigantic Earth Dragon (Master)
+without down.
+8016003,3
+Complete 
+Gigantic Earth Dragon (EX)
+without down.
+8016002,2
+Complete 
+Gigantic Earth Dragon (Expert)
+without down.
+8016001,2
+Complete 
+Gigantic Earth Dragon (Int.)
+without down.
+8016002
+Complete 
+Gigantic Earth Dragon (Expert)
+8016001
+Complete 
+Gigantic Earth Dragon (Int.)
+801501,1400000
+Earn a score of 1,400,000 in 
+Rage of Salamanders
+event.
+8014004,3,100
+Complete 
+Undead Dullahan (Master)
+with a 100-hit combo.
+8014004,3,60
+Complete 
+Undead Dullahan (Master)
+in under 1 minute.
+8014003,3,60
+Complete 
+Undead Dullahan (EX)
+in under 1 minute.
+8014003,3,6
+Complete 
+Undead Dullahan (EX)
+with 6
+parries.
+8014003,3,75
+Complete 
+Undead Dullahan (EX)
+with a 75-hit combo.
+8014002
+Complete 
+Undead Dullahan (Exp.)
+8014001
+Complete 
+Undead Dullahan (Int.)
+8013004,3,100
+Complete 
+Ice-Flame Dragon (Master)
+with a 100-hit combo.
+8013004,3,60
+Complete 
+Ice-Flame Dragon (Master)
+in under 1 minute.
+8013003,3,60
+Complete 
+Ice-Flame Dragon (EX)
+in under 1 minute.
+8013003,3,6
+Complete 
+Ice-Flame Dragon (EX)
+with 6
+parries.
+8013003,3,75
+Complete 
+Ice-Flame Dragon (EX)
+with a 75-hit combo.
+8013002
+Complete 
+Ice-Flame Dragon (Exp.)
+8013001
+Complete 
+Ice-Flame Dragon (Int.)
+8012004,3,100
+Complete 
+Sinon Return Match (Master)
+with a 100-hit combo.
+8012004,3,60
+Complete 
+Sinon Return Match (Master)
+in under 1 minute.
+8012003,3,60
+Complete 
+Sinon Return Match (EX)
+in under 1 minute.
+8012003,3,6
+Complete 
+Sinon Return Match (EX)
+with 6
+parries.
+8012003,3,75
+Complete 
+Sinon Return Match (EX)
+with a 75-hit combo.
+8012002
+Complete 
+Sinon Return Match (Exp.)
+8012001
+Complete 
+Sinon Return Match (Int.)
+8011003,3,100
+Complete 
+Return of the Mysterious Beast (EX)
+with a 100-hit combo.
+8011003,3,60
+Complete 
+Return of the Mysterious Beast (EX)
+in under 1 minute.
+8011002,2,60
+Complete 
+Return of the Mysterious Beast (Exp.)
+in under 1 minute.
+8011003,3,6
+Complete 
+Return of the Mysterious Beast (EX)
+with 6
+parries.
+8011003,3,75
+Complete 
+Return of the Mysterious Beast (EX)
+with a 75-hit combo.
+8011002
+Complete 
+Return of the Mysterious Beast (Exp.)
+8011001
+Complete 
+Return of the Mysterious Beast (Int.)
+8009003,3,100
+Complete 
+Return of the Minotaurus (EX)
+with a 100 hit combo.
+8009003,3,60
+Complete 
+Return of the Minotaurus (EX)
+in under 1 minute.
+8009002,2,60
+Complete 
+Return of the Minotaurus (Exp.)
+in under 1 minute.
+8009003,3,6
+Complete 
+the Minotaurus (EX)
+with 6
+parries.
+8009003,3,75
+Complete 
+Return of the Minotaurus (EX)
+with a 75-hit combo.
+8009002
+Complete 
+Return of the Minotaurus (Exp.)
+8009001
+Complete 
+Return of the Minotaurus (Int.)
+8008004,3,60
+The Storm Griffin: Complete 
+The Storm Griffin (Master)
+in under 1 minute.
+8008004
+Complete 
+The Storm Griffin (Master)
+8008003
+Complete 
+The Storm Griffin (EX)
+8008002
+Complete 
+The Storm Griffin (Exp.)
+8008001
+Complete 
+The Storm Griffin (Int.)
+8006004
+Return of the Storm Wyrm: Complete 
+Return of the Storm Wyrm (EX.)
+8006002
+Return of the Storm Wyrm: Complete 
+Return of the Storm Wyrm (Expert)
+8006001
+Return of the Storm Wyrm: Complete 
+Return of the Storm Wyrm (Int.)
+7024005
+Complete 
+CM Character Introduction (
+) (Master
+7024004
+Complete 
+CM Character Introduction (
+) (Master)
+7024003
+Complete 
+CM Character Introduction (
+) (EX)
+7021005,1,14016
+Complete 
+Blaze Slash (Master)
+keeping the supporter Eugeo alive
+7021005,1,64028
+Complete 
+Blaze Slash (Master)
+keeping the supporter Yuuki alive
+7021005,1,84031
+Complete 
+Blaze Slash (Master)
+keeping the supporter Asuna alive
+7021005,1,34008
+Complete 
+Blaze Slash (Master)
+keeping the supporter Kirito alive
+7021005
+Complete 
+Blaze Slash (Master)
+7021004
+Complete 
+Blaze Slash (EX)
+7021003
+Complete 
+Blaze Slash (Expert)
+7020005,1
+Complete 
+Traveling Smash (Master)
+without being parried except for ranged attacks.
+7020004,1
+Complete 
+Traveling Smash (EX)
+without being parried except for ranged attacks.
+7020005
+Complete 
+Traveling Smash (Master)
+7019004-7019008-7019011-7019012-7019015-7019016-7019019-7019020-7019023-7019024,1,60
+Complete one of 
+Character Intro Quests (Master or Master
+1) in under 1 minute.
+7019024
+Complete 
+Dove Splash (Master
+7019020
+Complete 
+Fragrant Olive Carpet (Master
+7019016
+Complete 
+Blessing Light (Master
+7019012
+Complete 
+Bouquet of Happiness (Master
+7018005,1,3,2
+Complete 
+Libra Spark (Master)
+with at least two rapier characters.
+7018005,1,4,2
+Complete 
+Libra Spark (Master)
+with at least two dagger characters.
+7018005,1,1,2
+Complete 
+Libra Spark (Master)
+with at least two sword characters.
+7018004,1,3,2
+Complete 
+Libra Spark (EX)
+with at least two rapier characters.
+7018004,1,5,2
+Complete 
+Libra Spark (EX)
+with at least two mace characters.
+7018004,1,1,2
+Complete 
+Libra Spark (EX)
+with at least two sword characters.
+7018005,1
+Complete 
+Libra Spark (Master)
+without being parried except for ranged attacks.
+7018004,1
+Complete 
+Libra Spark (EX)
+without being parried except for ranged attacks.
+7018005
+Complete 
+Libra Spark (Master)
+7018003
+Complete 
+Libra Spark (Expert)
+7017004-7017005,1,7,2
+Complete 
+Milky Wave (EX/Master)
+with at least two bow characters.
+7017004-7017005,1,3,2
+Complete 
+Milky Wave (EX/Master)
+with at least two rapier characters.
+7017004-7017005,1,5,2
+Complete 
+Milky Wave (EX/Master)
+with at least two mace characters.
+7017004-7017005,1,4,2
+Complete 
+Milky Wave (EX/Master)
+with at least two dagger characters.
+7017004-7017005,1,6,2
+Complete 
+Milky Wave (EX/Master)
+with at least two gun characters.
+7017004-7017005,1,8,2
+Complete 
+Milky Wave (EX/Master)
+with at least two rod characters.
+7017005
+Complete 
+Milky Wave (Master)
+7017003
+Complete 
+Milky Wave (Expert)
+7016004-7016005,1,8,2
+Complete 
+Longing for Surfing (EX/Master)
+with at least two rod characters.
+7016004-7016005,1,6,1
+Complete 
+Longing for Surfing (EX/Master)
+with at least one gun character.
+7016004-7016005,1,5,2
+Complete 
+Longing for Surfing (EX/Master)
+with at least two mace characters.
+7016004-7016005,1,4,2
+Complete 
+Longing for Surfing (EX/Master)
+with at least two dagger characters.
+7016004-7016005,1,3,2
+Complete 
+Longing for Surfing (EX/Master)
+with at least two rapier characters.
+7016004-7016005,1,1,3
+Complete 
+Longing for Surfing (EX/Master)
+with at least three sword characters.
+7016005,1,60
+Complete 
+Longing for Surfing (Master)
+in under 1 minute.
+7016005
+Complete 
+Longing for Surfing (Master)
+7016003
+Complete 
+Longing for Surfing (Expert)
+20006-20007-20008-20009,2
+Defeat Alice twice at Character Introduction Quest Special Edition.
+10004-10005-10006-10007,2
+Defeat Eugeo twice at Character Introduction Quest Special Edition.
+20006-20007-20008-20009,2
+Defeat Alice twice at Character Introduction Quest Special Edition.
+10004-10005-10006-10007,2
+Defeat Eugeo twice at Character Introduction Quest Special Edition.
+20006-20007-20008-20009,2
+Defeat Alice twice at Character Introduction Quest Special Edition.
+10004-10005-10006-10007,2
+Defeat Eugeo twice at Character Introduction Quest Special Edition.
+20006-20007-20008-20009,2
+Defeat Alice twice at Character Introduction Quest Special Edition.
+10004-10005-10006-10007,2
+Defeat Eugeo twice at Character Introduction Quest Special Edition.
+20006-20007-20008-20009,2
+Defeat Alice twice at Character Introduction Quest Special Edition.
+10004-10005-10006-10007,2
+Defeat Eugeo twice at Character Introduction Quest Special Edition.
+20006-20007-20008-20009,2
+Defeat Alice twice at Character Introduction Quest Special Edition.
+10004-10005-10006-10007,2
+Defeat Eugeo twice at Character Introduction Quest Special Edition.
+20009,1
+Defeat Alice at 
+Alicization (Master.)
+10007,1
+Defeat Eugeo at 
+Alicization (Master.)
+7014004,1,75
+Complete Character Introduction Quest Special Edition 
+Alicization (Master)
+in under 1:15.
+7014004
+Complete Character Introduction Quest Special Edition 
+Alicization (Master)
+7014003
+Complete Character Introduction Quest Special Edition 
+Alicization (EX.)
+7012005,1,3,2
+Complete 
+Supernal Smile (Master)
+with at least two rapier characters.
+7012005,1,4,2
+Complete 
+Supernal Smile (Master)
+with at least two dagger characters.
+7012005,1,1,2
+Complete 
+Supernal Smile (Master)
+with at least two sword characters.
+7012005,1,8,1
+Complete 
+Supernal Smile (Master)
+with at least one rod character.
+7012004,1,7,2
+Complete 
+Supernal Smile (EX)
+with at least two bow characters.
+7012004,1,5,2
+Complete 
+Supernal Smile (EX)
+with at least two mace characters.
+7012005
+Complete 
+Supernal Smile (Master)
+7012004
+Complete 
+Supernal Smile (EX)
+7012003
+Complete 
+Supernal Smile (Expert)
+7011005,1,1,3
+Complete 
+Shadowflash Slash (Master)
+with three sword characters.
+7011005,1,4,2
+Complete 
+Shadowflash Slash (Master)
+with at least two dagger characters.
+7011005,1,3,2
+Complete 
+Shadowflash Slash (Master)
+with at least two rapier characters.
+7011004,1,5,2
+Complete 
+Shadowflash Slash (EX)
+with at least two mace characters.
+7011004,1,8,1
+Complete 
+Shadowflash Slash (EX)
+with at least one rod character.
+7011005
+Complete 
+Shadowflash Slash (Master)
+7011004
+Complete 
+Shadowflash Slash (EX)
+7011003
+Complete 
+Shadowflash Slash (Expert)
+7010004
+Complete 
+Bravery Slash (Master)
+7010003
+Complete 
+Bravery Slash (Expert)
+7009004
+Complete 
+Aug. Kinetic Acceleration (Master)
+7009003
+Complete 
+Aug. Kinetic Acceleration (Exp.)
+7001003
+Complete 
+Starburst Stream (EX)
+7001002
+Complete 
+Starburst Stream (Expert)
+4901007,2,5000000
+Complete 
+The Beast Lords in League Master
+1(Holy)
+with a Multi Score of 5,000,000 or higher.
+4901006,2,5000000
+Complete 
+The Beast Lords in League Master
+1(Earth)
+with a Multi Score of 5,000,000 or higher.
+4901005,2,5000000
+Complete 
+The Beast Lords in League Master
+1(Fire)
+with a Multi Score of 5,000,000 or higher.
+4901004,2,5000000
+Complete 
+The Beast Lords in League Master
+1(Void)
+with a Multi Score of 5,000,000 or higher.
+4066001
+4066002
+4066003
+4066004
+4066005
+4066006
+4066007
+4066008
+4066009
+4066010
+4066011
+4066012
+4066013,1,1
+Complete all the 1-25F at the QT Point Clearing Event 
+The Two Headed Monster
+with an S rank.
+4066006
+4066007
+4066008
+4066009
+4066010
+4066011
+4066012
+4066013,1,1
+Complete all the 11-25F at the QT Point Clearing Event 
+The Two Headed Monster
+with an S rank.
+4066001
+4066002
+4066003
+4066004
+4066005,1,1
+Complete all the 1-10F at the QT Point Clearing Event 
+The Two Headed Monster
+with an S rank.
+4066013,1,45
+Complete the 25F at the QT Point Clearing Event 
+The Two Headed Monster
+under 45 sec.
+4066010,1,45
+Complete the 19F-20F at the QT Point Clearing Event 
+The Two Headed Monster
+under 45 sec.
+4066008,1,45
+Complete the 15F at the QT Point Clearing Event 
+The Two Headed Monster
+under 45 sec.
+4066005,1,45
+Complete all the 10F at the QT Point Clearing Event 
+The Two Headed Monster
+under 45 sec.
+4066002,1,45
+Complete the 4-5F at the QT Point Clearing Event 
+The Two Headed Monster
+under 45 sec.
+4066013,1
+Complete the 25F at the QT Point Clearing Event 
+The Two Headed Monster
+without down.
+4066012,1,1
+Complete the 23-24F at the QT Point Clearing Event 
+The Two Headed Monster
+with an S rank.
+4066011,1,6,1
+Complete the 21F-22F at the QT Point Clearing Event 
+The Two Headed Monster
+with  at least one gun character.
+4066010,1,1
+Complete the 19F-20F at the QT Point Clearing Event 
+The Two Headed Monster
+with an S rank.
+4066009,1,4,1
+Complete the 16-18F at the QT Point Clearing Event 
+The Two Headed Monster
+with at least one dagger character.
+4066008,1
+Complete the 15F at the QT Point Clearing Event 
+The Two Headed Monster
+without down.
+4066007,1,5,1
+Complete the 13-14F at the QT Point Clearing Event 
+The Two Headed Monster
+with at least one mace character.
+4066006,1,1
+Complete the 11-12F at the QT Point Clearing Event 
+The Two Headed Monster
+with an S rank.
+4066005,1
+Complete the 10F at the QT Point Clearing Event 
+The Two Headed Monster
+without down.
+4066004,1,3,1
+Complete the 8-9F at the QT Point Clearing Event 
+The Two Headed Monster
+with at least one rapier character.
+4066003,1,1
+Complete the 6-7F at the QT Point Clearing Event 
+The Two Headed Monster
+with an S rank.
+4066002,1
+Complete the 4-5F at the QT Point Clearing Event 
+The Two Headed Monster
+without down.
+4066001,1,1
+Complete the 1-3F at the QT Point Clearing Event 
+The Two Headed Monster
+with an S rank.
+4065025,2,90
+Complete 
+The Battle of Castle Demon Master 
+under 90 Sec.
+4065025
+Complete 
+The Battle of Castle Demon Master 
+4065024,2
+Complete 
+The Battle of Castle Demon Master
+without down.
+4065024
+Complete 
+The Battle of Castle Demon Master
+4065023
+Complete 
+The Battle of Castle Demon EX
+4065022
+Complete 
+The Battle of Castle Demon Expert
+4064015,1,60
+Complete 
+The Malefic Star of the Magic Citadel (Master
+under 1 min.
+406401,2000000
+Earn a score of 2,000,000 in The Malefic Star of the Magic Citadel
+406401,3000000
+Earn a score of 3,000,000 in The Malefic Star of the Magic Citadel
+4064014
+Complete 
+The Malefic Star of the Magic Citadel (Master
+4064009
+Complete 
+The Malefic Star of the Magic Citadel
+4062025,2
+Complete 
+Arianrhod in the Past (Master 
+without down.
+4062024,2
+Complete 
+Arianrhod in the Past (Master)
+without down.
+4062025,2,45
+Complete 
+Arianrhod in the Past (Master 
+under 45 Sec.
+4062025
+Complete 
+Arianrhod in the Past (Master
+4062024,2,45
+Complete 
+Arianrhod in the Past (Master)
+under 45 Sec.
+4062024,2,60
+Complete 
+Arianrhod in the Past (Master)
+under 1 min.
+4062024
+Complete 
+Arianrhod in the Past (Master)
+4060025,2
+Complete 
+The Star's Call Opens the Door (Master
+without down.
+4060024,2
+Complete 
+The Star's Call Opens the Door (Master)
+without down.
+3040031-3040033-3040035-3040037-3040039,200
+Defeat 200 of the Elebute The hermit from 
+The Star's Call Opens the Door
+in the guild. 
+3040031-3040033-3040035-3040037-3040039,100
+Defeat 100 of the Elebute The hermit from 
+The Star's Call Opens the Door
+in the guild. 
+3040031-3040033-3040035-3040037-3040039,50
+Defeat 50 of the Elebute The hermit from 
+The Star's Call Opens the Door
+in the guild. 
+3040031-3040033-3040035-3040037-3040039,20
+Defeat 20 of the Elebute The hermit from 
+The Star's Call Opens the Door
+in the guild. 
+4060025,2,45
+Complete 
+The Star's Call Opens the Door (Master 
+under 45 Sec.
+4060025
+Complete 
+The Star's Call Opens the Door (Master
+4060024,2,45
+Complete 
+The Star's Call Opens the Door (Master)
+under 45 Sec.
+4060024,2,60
+Complete 
+The Star's Call Opens the Door (Master)
+under 1 min.
+4060024
+Complete 
+The Star's Call Opens the Door (Master)
+4059020,1,70
+Complete 
+The Revenant (Master 
+2) part2
+in under 70 sec.
+4059019,1,70
+Complete 
+The Revenant (Master 
+2) part1
+in under 70 sec.
+405901,300000
+Earn a score of 300,000 in Assault
+The Revenant
+405901,650000
+Earn a score of 650,000 in Assault
+The Revenant
+405901,1500000
+Earn a score of 1,500,000 in Assault
+The Revenant
+405901,2500000
+Earn a score of 2,500,000 in Assault
+The Revenant
+405901,3000000
+Earn a score of 3,000,000 in Assault
+The Revenant
+405901,4000000
+Earn a score of 4,000,000 in Assault
+The Revenant
+405901,5600000
+Earn a score of 5,600,000 in Assault
+The Revenant
+4059018
+Complete 
+The Revenant (Master
+4059009
+Complete 
+The Revenant
+4058015,1,60
+Complete 
+Proof of Strong Bonds (Master 
+under 1 min.
+405801,200000
+Earn a score of 200,000 in Assault
+Proof of Strong Bonds
+405801,500000
+Earn a score of 500,000 in Assault
+Proof of Strong Bonds
+405801,1000000
+Earn a score of 1,000,000 in Assault
+Proof of Strong Bonds
+405801,1500000
+Earn a score of 1,500,000 in Assault
+Proof of Strong Bonds
+405801,2400000
+Earn a score of 2,400,000 in Assault
+Proof of Strong Bonds
+405801,3000000
+Earn a score of 3,000,000 in Assault
+Proof of Strong Bonds
+405801,3600000
+Earn a score of 3,600,000 in Assault
+Proof of Strong Bonds
+4058014
+Complete 
+Proof of Strong Bonds Master 
+4058009
+Complete 
+Proof of Strong Bonds
+4057025,2,2160010,5000
+Complete 
+PIRATES of ALO (Master 
+keeping more than 50% of HP of each Crystal
+4057024,2,2160009,5000
+Complete 
+PIRATES of ALO (Master)
+keeping more than 50% of HP of each Crystal
+4057023,2,2160008,5000
+Complete 
+PIRATES of ALO (EX)
+keeping more than 50% of HP of each Crystal
+4057024
+Complete 
+PIRATES of ALO (Master)
+4055025,2,45
+Complete 
+Premiere's Summer Festival (Master 
+under 45 Sec.
+4055025
+Complete 
+Premiere's Summer Festival (Master
+4055024,2,45
+Complete 
+Premiere's Summer Festival (Master)
+under 45 Sec.
+4055024,2,60
+Complete 
+Premiere's Summer Festival (Master)
+under 1 min.
+4055024
+Complete 
+Premiere's Summer Festival (Master)
+4054005,2,2160005,5000
+Complete 
+Magic Gems of the Forest (Master 
+keeping more than 50% of each Crystal
+4054004,2,2160004,5000
+Complete 
+Magic Gems of the Forest (Master)
+keeping more than 50% of HP of each Crystal
+4054003,2,2160003,5000
+Complete 
+Magic Gems of the Forest (EX)
+keeping more than 50% of HP of each Crystal
+405203,150000
+Earn a score of 150,000 in Flowers in the Night Sky Bonus Ranking
+405203,400000
+Earn a score of 400,000 in Flowers in the Night Sky Bonus Ranking
+405201,200000
+Earn a score of 200,000 in Flowers in the Night Sky
+405201,450000
+Earn a score of 450,000 in Flowers in the Night Sky
+405203,950000
+Earn a score of 950,000 in Flowers in the Night Sky Bonus Ranking
+405203,1500000
+Earn a score of 1,500,000 in Flowers in the Night Sky Bonus Ranking
+405203,1750000
+Earn a score of 1,750,000 in Flowers in the Night Sky Bonus Ranking
+405203,2400000
+Earn a score of 2,400,000 in Flowers in the Night Sky Bonus Ranking
+405203,4150000
+Earn a score of 4,150,000 in Flowers in the Night Sky Bonus Ranking
+405201,1000000
+Earn a score of 1,000,000 in Flowers in the Night Sky
+405201,1500000
+Earn a score of 1,500,000 in Flowers in the Night Sky
+405201,2000000
+Earn a score of 2,000,000 in Flowers in the Night Sky
+405201,2500000
+Earn a score of 2,500,000 in Flowers in the Night Sky
+405201,4350000
+Earn a score of 4,350,000 in Flowers in the Night Sky
+4052014
+Earn 
+Flowers in the Night Sky (Master
+4052009
+Complete 
+Last Battle
+4051025,2,60
+Complete 
+The Tale of Two Stars (Master
+under 1 minute.
+4051025,2,90
+Complete 
+The Tale of Two Stars (Master
+under 90 second.
+4051023,2,60
+Complete 
+The Tale of Two Stars (EX)
+under 1 minute.
+4051024,2,60
+Complete 
+The Tale of Two Stars (Master)
+under 1 minute.
+4051024
+Complete 
+The Tale of Two Stars (Master)
+4050026,1,60
+Complete 
+Idol Singer (Water, Earth, Dark) (EX)
+in under 1 min.
+4050025,1,60
+Complete 
+Idol Singer (Wind, Fire, Holy) (EX)
+in under 1 min.
+4050028,1,60
+Complete 
+Idol Singer (Water, Earth, Dark) (Master)
+in under 1 min.
+4050027,1,60
+Complete 
+Idol Singer (Wind, Fire, Holy) (Master)
+in under 1 min.
+4050030,1,60
+Complete 
+Idol Singer (Water, Earth, Dark) (Master
+in under 1 min.
+4050029,1,60
+Complete 
+Idol Singer (Wind, Fire, Holy) (Master
+in under 1 min.
+405001,200000
+Earn a score of 200,000 in Idol Singer
+405001,500000
+Earn a score of 500,000 in Idol Singer
+405001,1200000
+Earn a score of 1,200,000 in Idol Singer
+405001,2000000
+Earn a score of 2,000,000 in Idol Singer
+405001,2300000
+Earn a score of 2,300,000 in Idol Singer
+405001,3000000
+Earn a score of 3,000,000 in Idol Singer
+405001,3200000
+Earn a score of 3,200,000 in Idol Singer
+4050029
+Complete 
+Idol Singer (Wind, Fire, Holy) (Master
+4050021
+Complete 
+Idol Singer (Wind, Fire, Holy) (Int.)
+4049001
+4049002
+4049003
+4049004
+4049005
+4049006
+4049007
+4049008
+4049009
+4049010
+4049011
+4049012
+4049013
+4049014,1,1
+Complete all the 1-25F at the QT Point Clearing Event 
+PIRATES of ALO
+with an S rank.
+4049006
+4049007
+4049008
+4049009
+4049010
+4049011
+4049012
+4049013
+4049014,1,1
+Complete all the 11-25F at the QT Point Clearing Event 
+PIRATES of ALO
+with an S rank.
+4049001
+4049002
+4049003
+4049004
+4049005,1,1
+Complete all the 1-10F at the QT Point Clearing Event 
+PIRATES of ALO
+with an S rank.
+4049014,1,40
+Complete the 25F at the QT Point Clearing Event 
+PIRATES of ALO
+under 40 sec.
+4049011,1,45
+Complete the 20F at the QT Point Clearing Event 
+PIRATES of ALO
+under 45 sec.
+4049008,1,30
+Complete the 15F at the QT Point Clearing Event 
+PIRATES of ALO
+under 30 sec.
+4049005,1,45
+Complete the 10F at the QT Point Clearing Event 
+PIRATES of ALO
+under 45 sec.
+4049002,1,45
+Complete all the 4-5F at the QT Point Clearing Event 
+PIRATES of ALO
+under 45 sec.
+4049014,1
+Complete the 25F at the QT Point Clearing Event 
+PIRATES of ALO
+without down.
+4049013,1,1
+Complete the 23-24F at the QT Point Clearing Event 
+PIRATES of ALO
+with an S rank.
+4049012,1,3,1
+Complete the 21-22F at the QT Point Clearing Event 
+PIRATES of ALO
+with at least one rapier character.
+4049011,1
+Complete the 20F at the QT Point Clearing Event 
+PIRATES of ALO
+without down.
+4049010,1,1
+Complete the 19F at the QT Point Clearing Event 
+PIRATES of ALO
+with an S rank.
+4049009,1,1,1
+Complete the 16-18F at the QT Point Clearing Event 
+PIRATES of ALO
+with at least one sword character.
+4049008,1
+Complete the 15F at the QT Point Clearing Event 
+PIRATES of ALO
+without down.
+4049007,1,4,1
+Complete the 13-14F at the QT Point Clearing Event 
+PIRATES of ALO
+with at least one dagger character.
+4049006,1,1
+Complete the 11-12F at the QT Point Clearing Event 
+PIRATES of ALO
+with an S rank.
+4049005,1
+Complete the 10F at the QT Point Clearing Event 
+PIRATES of ALO
+without down.
+4049004,1,3,1
+Complete the 8-9F at the QT Point Clearing Event 
+PIRATES of ALO
+with at least one rapier character.
+4049003,1,1
+Complete the 6-7F at the QT Point Clearing Event 
+PIRATES of ALO
+with an S rank.
+4049002,1
+Complete the 4-5F at the QT Point Clearing Event 
+PIRATES of ALO
+without down.
+4049001,1,1
+Complete the 1-3F at the QT Point Clearing Event 
+PIRATES of ALO
+with an S rank.
+404803,300000
+Earn a score of 300,000 in The Sacred treasure in the Sea Bonus Ranking
+404803,500000
+Earn a score of 500,000 in The Sacred treasure in the Sea Bonus Ranking
+404803,1000000
+Earn a score of 1,000,000 in The Sacred treasure in the Sea Bonus Ranking
+404803,1500000
+Earn a score of 1,500,000 in The Sacred treasure in the Sea Bonus Ranking
+404803,2700000
+Earn a score of 2,700,000 in The Sacred treasure in the Sea Bonus Ranking
+404803,3500000
+Earn a score of 3,500,000 in The Sacred treasure in the Sea Bonus Ranking
+404803,6500000
+Earn a score of 6,500,000 in The Sacred treasure in the Sea Bonus Ranking
+404801,400000
+Earn a score of 400,000 in The Sacred treasure in the Sea
+404801,700000
+Earn a score of 700,000 in The Sacred treasure in the Sea
+404801,1000000
+Earn a score of 1,000,000 in The Sacred treasure in the Sea
+404801,1700000
+Earn a score of 1,700,000 in The Sacred treasure in the Sea
+404801,3000000
+Earn a score of 3,000,000 in The Sacred treasure in the Sea
+404801,4000000
+Earn a score of 4,000,000 in The Sacred treasure in the Sea
+404801,7000000
+Earn a score of 7,000,000 in The Sacred treasure in the Sea
+4048019
+Complete 
+The Sacred treasure in the Sea (Master
+4048010
+Complete 
+Sail Out Again
+4046024
+Complete 
+Lives drawn in the Virtual World (Master)
+4046021
+Complete 
+Lives drawn in the Virtual World (Int.)
+404501,750000
+No rule
+Battle Royal of AR Newbies
+Earn a score of 750,000
+404501,1250000
+No rule
+Battle Royal of AR Newbies
+Earn a score of 1,250,000
+4045025
+Complete 
+Battle Royal of AR Newbies (Master
+4045021
+Complete 
+Battle Royal of AR Newbies (Int.)
+4044024,2,60
+Complete 
+Rainbow after the Rain (Master)
+under 1 minute.
+4044024
+Complete 
+Rainbow after the Rain (Master)
+404301,2000000
+Earn a score of 2,000,000 in 
+Bridal Competition
+event.
+404301,5000000
+Earn a score of 5,000,000 in 
+Bridal Competition
+event.
+4043030
+Complete 
+Bridal Competition (Master
+4043022
+Complete 
+Bridal Competition (Int.)
+404201,1500000
+Earn a score of 1,500,000 in 
+Meteor showers the goddess of battle
+event.
+404201,3600000
+Earn a score of 3,600,000 in 
+Meteor showers the goddess of battle
+event.
+4042017
+Complete 
+Battle against the Goddess (Master
+4042008
+Complete 
+Battle against the Goddess
+4040024,2,60
+Complete 
+Black Flame in Backwater (Master)
+in under 1 minute.
+4040024
+Complete 
+Black Flame in Backwater (Master)
+4039012,1,30
+Complete 
+PopStarOnline part2 (Master)
+with a 30-hit combo or higher.
+4039011,1,6
+Complete 
+PopStarOnline part2 (EX)
+with 6
+parries.
+4039011,1,4,2
+Complete 
+PopStarOnline part2 (EX)
+with at least two dagger characters.
+403901,200000
+Earn a score of 200,000 in the 
+PopStarOnline part2
+event.
+403901,400000
+Earn a score of 400,000 in the 
+PopStarOnline part2
+event.
+403901,800000
+Earn a score of 800,000 in the 
+PopStarOnline part2
+event.
+403901,1300000
+Earn a score of 1,300,000 in the 
+PopStarOnline part2
+event.
+403901,1600000
+Earn a score of 1,600,000 in the 
+PopStarOnline part2
+event.
+403901,2100000
+Earn a score of 2,100,000 in the 
+PopStarOnline part2
+event.
+4039008
+Complete 
+Frustration
+4038009
+Complete 
+Get up Nerve in virtual World
+4038013
+Complete 
+A Monster Deep in the Mountains (Master)
+4038008
+Complete 
+A Monster Deep in the Mountains
+403701,1000000
+Earn a score of 1,000,000 in 
+Let's Go
+Maid to Fight
+event.
+403701,2300000
+Earn a score of 2,300,000 in 
+Let's Go
+Maid to Fight
+event.
+4037013
+Complete 
+Maid to Fight (Master
+4037008
+Complete 
+Maid to Fight
+403601,1600000
+Earn a score of 1,600,000 in 
+Invataion from Fairyland
+event.
+403601,3600000
+Earn a score of 3,600,000 in 
+Invataion from Fairyland
+event.
+4036019
+Complete 
+A witch to destroy Fairyland (Master
+4036010
+Complete 
+A witch to destroy Fairyland
+4035024,2,60
+Complete 
+Longing for Sailor Suit (Master)
+in under 1 minute.
+4035024
+Complete 
+Longing for Sailor Suit (Master)
+4034024,2,60
+Complete 
+Stars Orbit the Hopes of Another World (Master)
+in under 1 minute.
+4034024
+Complete 
+Stars Orbit the Hopes of Another World (Master)
+4032012,1,30
+Complete 
+PopStarOnline part1 (Master)
+with a 30-hit combo or higher.
+4032011,1,6
+Complete 
+PopStarOnline part1 (EX)
+with 6
+parries.
+4032011,1,1,2
+Complete 
+PopStarOnline part1 (EX)
+with at least two sword characters.
+403201,200000
+Earn a score of 200,000 in the 
+PopStarOnline part1
+event.
+403201,400000
+Earn a score of 400,000 in the 
+PopStarOnline part1
+event.
+403201,800000
+Earn a score of 800,000 in the 
+PopStarOnline part1
+event.
+403201,1200000
+Earn a score of 1,200,000 in the 
+PopStarOnline part1
+event.
+403201,1500000
+Earn a score of 1,500,000 in the 
+PopStarOnline part1
+event.
+403201,2000000
+Earn a score of 2,000,000 in the 
+PopStarOnline part1
+event.
+4032008
+Complete 
+Next city
+403101,1200000
+Earn a score of 1,200,000 in the 
+Demon conquer of Alfheim
+Raning event.
+403101,1750000
+Earn a score of 1,750,000 in the 
+Demon conquer of Alfheim
+Raning event.
+4031013
+Complete 
+Demon Conquerors (Master)
+4031009
+Complete 
+Demon Conquerors
+4030024,2,60
+Complete 
+The stage and a cat fairy. (Master)
+in under 1 minute.
+4030024
+Complete 
+The stage and a cat fairy. (Master)
+402901,1600000
+Earn a score of 1,600,000 in the 
+Backed by the Cheer of My Daughter
+Raning event.
+402901,2250000
+Earn a score of 2,250,000 in the 
+Backed by the Cheer of My Daughter
+Raning event.
+4029018
+Complete 
+13-2 Voices of Support in Despair (Master
+4029009
+Complete 
+8-2 Voices of Support in Despair
+402702,800000
+Earn a score of 800,000 in the 
+OS Episode 0
+Raning event.
+402702,1200000
+Earn a score of 1,200,000 in the 
+OS Episode 0
+Raning event.
+4027009
+Complete 
+Samurai Soul
+4022007
+Complete 
+Queen of Chef (Master)
+4020010
+Complete 
+Closing Party
+4020014
+Complete 
+Final Battle (Master)
+4020009
+Complete 
+Final Battle
+4008009
+Complete 
+Flying Broomstick
+4008012
+Complete 
+Beware the Kobold Trickster
+(EX)
+4008008
+Complete 
+Beware the Kobold Trickster
+4006010
+Complete 
+A New Me
+4006013
+Complete 
+Guardian Rush (EX)
+4006009
+Complete 
+Guardian Rush
+4004012
+Complete 
+The Blazing Werewolf (EX)
+4004008
+Complete 
+The Burning Caverns
+4003014
+Complete 
+A Daughter's Feelings (Master)
+4003010
+Complete 
+The Fairy Daughter
+4003013
+Complete 
+A Daughter's Feelings (EX)
+4003009
+Complete 
+A Daughter's Feelings
+4002012
+Complete 
+Return of the Beast Lord (EX)
+4002008
+Complete 
+Return of the Beast Lord
+4001094
+Complete 
+Equipment Creation (Mace, Rifle)
+at Equipment Creation Event
+4001093
+Complete 
+Equipment Creation (Dagger, Rod)
+at Equipment Creation Event
+4001092
+Complete 
+Equipment Creation (Rapier, Bow)
+at Equipment Creation Event
+4001091
+Complete 
+Equipment Creation (Sword, Dual Blades)
+at Equipment Creation Event
+Parry 100 times in total while on quests.
+Parry 50 times in total while on quests.
+Parry 30 times in total while on quests.
+Parry 10 times in total while on quests.
+Parry 5 times in total while on quests.
+1002008
+[Unlock Feature 
+10] Complete quest 2-8.
+1003005
+[Unlock Feature 
+9] Complete quest 3-5.
+1003010
+[Unlock Feature 
+9] Complete quest 3-10.
+1003010
+[Unlock Feature 
+8] Complete quest 3-10.
+1003003
+[Unlock Feature 
+7] Complete quest 3-3.
+1003001
+[Unlock Feature 
+6] Complete quest 3-1.
+1002005
+[Unlock Feature 
+5] Complete quest 2-5.
+1002003
+[Unlock Feature 
+4] Complete quest 2-3.
+1002002
+[Unlock Feature 
+3] Complete quest 2-2.
+1002001
+[Unlock Feature 
+2] Complete quest 2-1.
+1001001
+[Unlock Feature 
+1] Complete quest 1-1.
+Raise a 
+4 character to max level.
+Raise a 
+3 character to max level.
+Raise a 
+2 character to max level.
+Raise a 
+1 character to max level.
+Obtain 20 types of weapons.
+[Unlock Feature] Acquire 1 weapon.
+Unlock 10 Limit Break tiles on the Attribute Matrix.
+Unlock 5 Limit Break tiles on the Attribute Matrix.
+Unlock 1 Limit Break tile on the Attribute Matrix.
+Unlock 10 normal tiles on the Attribute Matrix.
+Unlock 5 normal tiles on the Attribute Matrix.
+Unlock 1 normal tile on the Attribute Matrix.
+2,100
+Complete quests 100 times on hard difficulty.
+2,50
+Complete quests 50 times on hard difficulty.
+2,30
+Complete quests 30 times on hard difficulty.
+2,10
+Complete quests 10 times on hard difficulty.
+[Unlock Feature] Complete 2 quests in single-player mode on normal.
+Use a Col Boost.
+Use an EXP Boost.
+Add slots to your equipment inventory.
+1025
+Complete chapter 25.
+1024
+Complete chapter 24.
+1023
+Complete chapter 23.
+1022
+Complete chapter 22.
+1021
+Complete chapter 21.
+1020
+Complete chapter 20.
+1019
+Complete chapter 19.
+1018
+Complete chapter 18.
+1017
+Complete chapter 17.
+1016
+Complete chapter 16.
+1015
+Complete chapter 15.
+1014
+Complete chapter 14.
+1013
+Complete chapter 13.
+1012
+Complete chapter 12.
+1011
+Complete chapter 11.
+1010
+Complete chapter 10.
+1009
+Complete chapter 9.
+1008
+Complete chapter 8.
+1007
+Complete chapter 7.
+1006
+Complete chapter 6.
+1005
+Complete chapter 5.
+1004
+Complete chapter 4.
+1003
+Complete chapter 3.
+1002
+Complete chapter 2.
+1001
+Complete chapter 1.
+Scout characters 300 times.
+Scout characters 200 times.
+Scout characters 150 times.
+Scout characters 100 times.
+Scout characters 50 times.
+Scout characters 20 times.
+Scout characters 10 times.
+Scout characters 3 times.
+Scout 1 character.
+Buy 300 weapons.
+Buy 200 weapons.
+Buy 150 weapons.
+Buy 100 weapons.
+Buy 50 weapons.
+Buy 20 weapons.
+Buy 10 weapons.
+Buy 3 weapons.
+Buy 1 weapon.
+Reach user rank 100.
+Reach user rank 90.
+Reach user rank 80.
+Reach user rank 70.
+Reach user rank 60.
+Reach user rank 50.
+Reach user rank 40.
+Reach user rank 30.
+Reach user rank 20.
+Reach user rank 15.
+Reach user rank 10.
+Reach user rank 5.
+Reach user rank 3.
+Evolve your equipment 10 times.
+Evolve your equipment 5 times.
+Evolve your equipment 1 time.
+Raise a piece of 
+5 equipment to max level.
+Raise a piece of 
+4 equipment to max level.
+Raise a piece of 
+3 equipment to max level.
+Raise a piece of 
+2 equipment to max level.
+Raise a piece of 
+1 equipment to max level.
+Upgrade your equipment 10 times.
+Upgrade your equipment 5 times.
+Upgrade your equipment 1 time.
+Follow 10 players.
+Follow 5 players.
+Follow 1 player.
+Log in for a total of 14 days.
+Log in for a total of 7 days.
+Log in for a total of 365 days.
+Log in for a total of 350 days.
+Log in for a total of 300 days.
+Log in for a total of 250 days.
+Log in for a total of 200 days.
+Log in for a total of 100 days.
+Log in for a total of 50 days.
+Log in for a total of 30 days.
+Log in for a total of 365 days.
+Log in for a total of 350 days.
+Log in for a total of 300 days.
+Log in for a total of 250 days.
+Log in for a total of 200 days.
+Log in for a total of 100 days.
+Log in for a total of 50 days.
+Log in for a total of 30 days.
+Log in for a total of 500 days.
+Log in for a total of 450 days.
+Log in for a total of 400 days.
+Log in for a total of 365 days.
+Log in for a total of 350 days.
+Log in for a total of 300 days.
+Log in for a total of 250 days.
+Log in for a total of 200 days.
+Log in for a total of 100 days.
+Log in for a total of 50 days.
+Log in for a total of 30 days.
+Log in for a total of 20 days.
+Log in for a total of 14 days.
+Log in for a total of 7 days.
+Log in for a total of 3 days.
+Log in once.

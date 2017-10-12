@@ -1,0 +1,3107 @@
+slot_skill_icon_reseve_healing_mp
+Restores 5 MP per 5 seconds during standby.
+Emergency Heal (MP) Lv.1
+slot_skill_icon_reseve_healing_mp
+Restores 5 MP per 5 seconds during standby.
+Emergency Heal (MP) Lv.1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 12%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 12%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP 
+Crit by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP 
+Crit by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 5 seconds during standby.
+Emergency Heal (HP
+MP) Lv.2
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 10 seconds during standby.
+Emergency Heal (HP
+MP) Lv.1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Holy-elem. enemies.
+Skill Damage Up (vs. Holy) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Holy-elem. enemies.
+Skill Damage Up (vs. Holy) Lv. 1
+slot_skill_icon_def_wind_1
+Reduces damage from Wind-elem. enemies by 30%
+Wind Resistance Lv2
+slot_skill_icon_def_wind_1
+Reduces damage from Wind-elem. enemies by 15%
+Wind Resistance Lv1
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 5 seconds during standby.
+Emergency Heal (HP
+MP) Lv.2
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 10 seconds during standby.
+Emergency Heal (HP
+MP) Lv.1
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 50%
+Damage Down during Skill Lv2
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 30%
+Damage Down during Skill Lv1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Water-elem. enemies.
+Skill Damage Up (vs. Water) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Water-elem. enemies.
+Skill Damage Up (vs. Water) Lv. 1
+slot_skill_icon_skill_damage
+Increases damage by 10% vs Water-elem. enemies.
+Damage Up (vs. Water-elem.) Lv. 2
+slot_skill_icon_skill_damage
+Increases damage by 5% vs Water-elem. enemies.
+Damage Up (vs. Water-elem.) Lv. 1
+slot_skill_icon_parry_healing_mp
+Gains 5 MP on a successful parry
+MP Recovery on Parry
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_reseve_healing_mp
+Restores 10 MP every 10 seconds during standby.
+Emergency Heal (MP) Lv.1
+slot_skill_icon_def_light_1
+Reduces damage from Holy-elem. enemies by 30%
+Holy Resistance Lv2
+slot_skill_icon_def_light_1
+Reduces damage from Holy-elem. enemies by 15%
+Holy Resistance Lv1
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 5 seconds during standby.
+Emergency Heal (HP
+MP) Lv.2
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 10 seconds during standby.
+Emergency Heal (HP
+MP) Lv.1
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 50%
+Damage Down during Skill Lv2
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 30%
+Damage Down during Skill Lv1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Holy-elem. enemies.
+Skill Damage Up (vs. Holy) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Holy-elem. enemies.
+Skill Damage Up (vs. Holy) Lv. 1
+slot_skill_icon_skill_damage
+Increases damage by 10% vs Holy-elem. enemies.
+Damage Up (vs. Holy-elem.) Lv. 2
+slot_skill_icon_skill_damage
+Increases damage by 5% vs Holy-elem. enemies.
+Damage Up (vs. Holy-elem.) Lv. 1
+slot_skill_icon_parry_healing_mp
+Gains 5 MP on a successful parry
+MP Recovery on Parry
+slot_skill_icon_solo_damage
+40% damage when 1 of your characters remains.
+Solo Damage Up Lv. 3
+slot_skill_icon_solo_damage
+30% damage when 1 of your characters remains.
+Solo Damage Up Lv. 2
+slot_skill_icon_solo_damage
+15% damage when 1 of your characters remains.
+Solo Damage Up Lv. 1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 8 secs.
+Combo Window Up Lv. 3
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_battle_healing_hp
+Restores 600 HP every 5 seconds.
+Battle Healing (HP) Lv. 2
+slot_skill_icon_battle_healing_hp
+Restores 600 HP every 10 seconds.
+Battle Healing (HP) Lv. 1
+slot_skill_icon_def_dark_1
+Reduces damage from Dark-elem. enemies by 30%
+Dark Resistance Lv2
+slot_skill_icon_def_dark_1
+Reduces damage from Dark-elem. enemies by 15%
+Dark Resistance Lv1
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 5 seconds during standby.
+Emergency Heal (HP
+MP) Lv.2
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 10 seconds during standby.
+Emergency Heal (HP
+MP) Lv.1
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 50%
+Damage Down during Skill Lv2
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 30%
+Damage Down during Skill Lv1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Dark-elem. enemies.
+Skill Damage Up (vs. Dark) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Dark-elem. enemies.
+Skill Damage Up (vs. Dark) Lv. 1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_battle_healing_hp
+Restores 600 HP every 5 seconds.
+Battle Healing (HP) Lv. 2
+slot_skill_icon_battle_healing_hp
+Restores 600 HP every 10 seconds.
+Battle Healing (HP) Lv. 1
+slot_skill_icon_parry_healing_mp
+Increases MP gain when attacked weak points.
+MP Recovery on Attack Weak Points Lv.1
+slot_skill_icon_def_fire_1
+Reduces damage from Fire-elem. enemies by 30%
+Fire Resistance Lv2
+slot_skill_icon_def_fire_1
+Reduces damage from Fire-elem. enemies by15%
+Fire Resistance Lv1
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 5 seconds during standby.
+Emergency Heal (HP
+MP) Lv.2
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 10 seconds during standby.
+Emergency Heal (HP
+MP) Lv.1
+slot_skill_icon_kill_enemy_recover
+Gain 600 HP 
+5 MP on enemy kill.
+MP Recovery on Enemy Kill  Lv. 1
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 50%
+Damage Down during Skill Lv2
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 30%
+Damage Down during Skill Lv1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Earth-elem. enemies.
+Skill Damage Up (vs. Earth) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Earth-elem. enemies.
+Skill Damage Up (vs. Earth) Lv. 1
+slot_skill_icon_skill_damage
+Increases damage by 10% vs Earth-elem. enemies.
+Damage Up (vs. Earth-elem.) Lv. 2
+slot_skill_icon_skill_damage
+Increases damage by 5% vs Earth-elem. enemies.
+Damage Up (vs. Earth-elem.) Lv. 1
+slot_skill_icon_reseve_healing_mp
+Restore 5 MP each 1 seconds while charging.
+MP Recovery while Charging Lv. 1
+slot_skill_icon_solo_damage
+40% damage when 1 of your characters remains.
+Solo Damage Up Lv. 3
+slot_skill_icon_solo_damage
+30% damage when 1 of your characters remains.
+Solo Damage Up Lv. 2
+slot_skill_icon_solo_damage
+15% damage when 1 of your characters remains.
+Solo Damage Up Lv. 1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_reseve_healing_mp
+Restores 10 MP every 10 seconds during standby.
+Emergency Heal (MP) Lv.1
+slot_skill_icon_def_earth_1
+Reduces damage from Earth-elem. enemies by 30%
+Earth Resistance Lv2
+slot_skill_icon_def_earth_1
+Reduces damage from Earth-elem. enemies by 15%
+Earth Resistance Lv1
+slot_skill_icon_skill_damage
+Increases damage for stunned enemies by 15%
+Damage Up Lv.2 (Stun)
+slot_skill_icon_skill_damage
+Increases damage for stunned enemies by 10%
+Damage Up Lv.1 (Stun)
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 5 seconds during standby.
+Emergency Heal (HP
+MP) Lv.2
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 10 seconds during standby.
+Emergency Heal (HP
+MP) Lv.1
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 50%
+Damage Down during Skill Lv2
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 30%
+Damage Down during Skill Lv1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Fire-elem. enemies.
+Skill Damage Up (vs. Fire) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Fire-elem. enemies.
+Skill Damage Up (vs. Fire) Lv. 1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_def_water_1
+Reduces damage from Water-elem. enemies by 30%
+Water Resistance Lv2
+slot_skill_icon_def_water_1
+Reduces damage from Water-elem. enemies by 15%
+Water Resistance Lv1
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 50%
+Damage Down during Skill Lv2
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 30%
+Damage Down during Skill Lv1
+slot_skill_icon_skill_damage
+Increases damage by 10% vs Wind-elem. enemies.
+Damage Up (vs. Wind-elem.) Lv. 2
+slot_skill_icon_skill_damage
+Increases damage by 5% vs Wind-elem. enemies.
+Damage Up (vs. Wind-elem.) Lv. 1
+slot_skill_icon_parry_healing_mp
+Gains 5 MP on a successful parry
+MP Recovery on Parry
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Wind-elem. enemies.
+Skill Damage Up (vs. Wind) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Wind-elem. enemies.
+Skill Damage Up (vs. Wind) Lv. 1
+slot_skill_icon_def_unattributed_1
+Reduces damage from Non-elem. enemies by 30%
+Non-elemental Resistance Lv2
+slot_skill_icon_def_unattributed_1
+Reduces damage from Non-elem. enemies by 15%
+Non-elemental Resistance Lv1
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 5 seconds during standby.
+Emergency Heal (HP
+MP) Lv.2
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 10 seconds during standby.
+Emergency Heal (HP
+MP) Lv.1
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 5 seconds during standby.
+Emergency Heal (HP
+MP) Lv.2
+slot_skill_icon_reseve_healing_hp_mp
+Restores 600 HP 
+5 MP per 10 seconds during standby.
+Emergency Heal (HP
+MP) Lv.1
+slot_skill_icon_connect_damage
+Increases damage after skill connect by 40%
+Damage Up at Skill Connect Lv2
+slot_skill_icon_connect_damage
+Increases damage after skill connect by 20%
+Damage Up at Skill Connect Lv1
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 50%
+Damage Down during Skill Lv2
+slot_skill_icon_skill_defense
+Decreases damage attained during sword skills by 30%
+Damage Down during Skill Lv1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Non-elem. enemies.
+Skill Damage Up (vs. Non-elem.) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Non-elem. enemies.
+Skill Damage Up (vs. Non-elem.) Lv. 1
+slot_skill_icon_skill_damage
+Increases damage by 10% vs Non-elem. enemies.
+Damage Up (vs. Non-elem.) Lv. 2
+slot_skill_icon_skill_damage
+Increases damage by 5% vs Non-elem. enemies.
+Damage Up (vs. Non-elem.) Lv. 1
+slot_skill_icon_reseve_healing_mp
+Restore 5 MP each 1 seconds while charging.
+MP Recovery while Charging Lv. 1
+slot_skill_icon_parry_healing_mp
+Gains 5 MP on a successful parry
+MP Recovery on Parry
+slot_skill_icon_solo_damage
+40% damage when 1 of your characters remains.
+Solo Damage Up Lv. 3
+slot_skill_icon_solo_damage
+30% damage when 1 of your characters remains.
+Solo Damage Up Lv. 2
+slot_skill_icon_solo_damage
+15% damage when 1 of your characters remains.
+Solo Damage Up Lv. 1
+slot_skill_icon_resist_death
+After receiving fatal damage, survive only once with 1% of HP as when you get the attack 
+Fatal damage resistance Lv1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_damage
+Increases damage for 20-hit
+combos by 5%.
+Combo Damage Up Lv. 2
+slot_skill_icon_combo_damage
+Increases damage for 30-hit
+combos by 5%.
+Combo Damage Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_reseve_healing_mp
+Restores 10 MP every 10 seconds during standby.
+Emergency Heal (MP) Lv.1
+slot_skill_icon_battle_healing_hp
+Restores 600 HP every 10 seconds.
+Battle Healing (HP) Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 1. Increases damage against non-elemental enemies.
+Battle Skill 1 Transform Lv. 1
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon2_job_8
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_8
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_8
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_8
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_8
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_1
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon2_job_9
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_9
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_9
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_9
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_9
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon2_job_6
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_6
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_6
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_6
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_6
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_5
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon2_job_4
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_4
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_4
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_4
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_4
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon2_job_3
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_3
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_3
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_3
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_3
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon2_job_2
+Raises attack and crit. rate by 500
+Attack Up Lv.5
+slot_skill_icon2_job_2
+Raises attack and crit. rate by 400
+Attack Up Lv.4
+slot_skill_icon2_job_2
+Raises attack and crit. rate by 300
+Attack Up Lv.3
+slot_skill_icon2_job_2
+Raises attack and crit. rate by 200
+Attack Up Lv.2
+slot_skill_icon2_job_2
+Raises attack and crit. rate by 100
+Attack Up Lv.1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 15%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 10%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max HP 
+MP by 12%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max HP 
+MP by 10%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 15%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP 
+attack by 10%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP 
+Crit by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP 
+MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP and MP by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP 
+Crit by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP 
+MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP and MP by 10%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP 
+Crit by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP and MP by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP and MP by 10%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP and MP by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP and MP by 10%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP 
+Crit by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_ss_enhance_3_9
+Enhances Sword Skill 3. Reduces required MP.  Becomes powerful.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_9
+Enhances Sword Skill 3. Reduces required MP.  Becomes powerful.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Decreases MP required and increases attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Reduces required MP. Enhance the effect of your increased attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Gains ability to lower the enemy's defense with this sword skill.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Increases own speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Becomes powerful. Increase your own speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Creates an additional whirlwind and increases attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Increases own attack. 
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Reduces charge time and raises attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_7
+Enhances Sword Skill 3. Reduces required MP. Increases own attack and speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_7
+Enhances Sword Skill 3. Becomes powerful. Increase your own speed. Come real close to enemies.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_6
+Enhances Sword Skill 3. Increases own attack. 
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_7
+Enhances Sword Skill 3. Waiting time gets shorten. Arrows start flying toward enemies.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_6
+Enhances Sword Skill 3. Reduces required MP. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_6
+Enhances Sword Skill 3. Becomes powerful. Increases the buff attack effect.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_6
+Enhances Sword Skill 3. Becomes powerful. Dodges enemies' attack in the air.
+Sword Skill 3 Enhance Lv. 2
+slot_skill_icon_ss_enhance_3_6
+Enhances Sword Skill 3. Increases attack and the bullet becomes a homing bullet.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_5
+Enhances Sword Skill 3. Reduces required MP. Enhance the effect of your increased speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_5
+Enhances Sword Skill 3. Becomes powerful. Increases stun.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_5
+Enhances Sword Skill 3. Decreases MP required and increases attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_5
+Enhances Sword Skill 3. Increases defense and skill damage.
+Sword Skill 3 Enhance Lv. 2
+slot_skill_icon_ss_enhance_3_5
+Enhances Sword Skill 3. Increases attack and HIT count.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_5
+Enhances Sword Skill 3. Reduces charge time and raises attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Decrease enemies' defense greatly.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Reduces required MP. Enhance the effect of your increased attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Reduces required MP. Enhance the effect of your increased attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Reduces required MP. Increases the buff attack effect.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Enhance the effect of your increased attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Reduces required MP. Enhance the effect of your increased speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Becomes powerful. Extend window of increasing the buff attack effect.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Becomes powerful. Follows enemies.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Increases own attack. 
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Reduces required MP. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Gains ability to lower the enemy's defense with this sword skill.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Reduces damage received for a certain period of time
+Sword Skill 3 Enhance Lv. 2
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Decreases MP required.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Decrease enemies' defense greatly.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Decreases MP required. Adds more hits.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Reduces required MP. Extends the effect time period of the rise speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Becomes powerful. Follows enemies.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Becomes powerful. Increases the buff attack effect. Extends the range of attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Becomes powerful. Increases buff effect time period.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Becomes powerful and increase the speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Becomes more powerful. Increases own attack and critical.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Raises your speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_2
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_2
+Enhances Sword Skill 3. Becomes more powerful. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_2
+Enhances Sword Skill 3. Accelerates during skill.
+Sword Skill 3 Enhance Lv. 2
+slot_skill_icon_ss_enhance_3_2
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Decreases MP required. Activates a barrier as SS3 initiates.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Increases own speed. 
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. SS3 becomes unbetable at the begining and Increases HP recovery amout.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Becomes powerful and extends the range of attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Reduces required MP. Extends the effect time period of the rise speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Becomes powerful and restores own HP.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Becomes powerful.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Becomes powerful. Increases buff effect.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Reduces required MP. Extends the effect time period of increasing attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Raises your speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. The additional whirlwind gains attack range and increases skill damage.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Adds Earth element to swords and increases their number.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Increases damage of skill.
+Sword Skill 3 Enhance Lv. 2
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Adds more whirlwind hits and raises speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Becomes powerful. Increases the buff attack effect. Follows enemies.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Learns new Sword Skill and transforms SS3 into Slash Wave.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Reduces charge time and raises attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 1. Increases Max MP by 15%
+Battle Skill 1 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_job_8
+Raises attack and crit. rate by 500
+Dark Magic Skill Lv. 10
+slot_skill_icon_job_8
+Raises attack and crit. rate by 450
+Dark Magic Skill Lv. 9
+slot_skill_icon_job_8
+Raises attack and crit. rate by 400
+Dark Magic Skill Lv. 8
+slot_skill_icon_job_8
+Raises attack and crit. rate by 350
+Dark Magic Skill Lv. 7
+slot_skill_icon_job_8
+Raises attack and crit. rate by 300
+Dark Magic Skill Lv. 6
+slot_skill_icon_job_8
+Raises attack and crit. rate by 250
+Dark Magic Skill Lv. 5
+slot_skill_icon_job_8
+Raises attack and crit. rate by 200
+Dark Magic Skill Lv. 4
+slot_skill_icon_job_8
+Raises attack and crit. rate by 150
+Dark Magic Skill Lv. 3
+slot_skill_icon_job_8
+Raises attack and crit. rate by 100
+Dark Magic Skill Lv. 2
+slot_skill_icon_job_8
+Raises attack and crit. rate by 50
+Dark Magic Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_job_1
+Raises attack and crit. rate by 500
+Sword Skill Lv. 10
+slot_skill_icon_job_1
+Raises attack and crit. rate by 450
+Sword Skill Lv. 9
+slot_skill_icon_job_1
+Raises attack and crit. rate by 400
+Sword Skill Lv. 8
+slot_skill_icon_job_1
+Raises attack and crit. rate by 350
+Sword Skill Lv. 7
+slot_skill_icon_job_1
+Raises attack and crit. rate by 300
+Sword Skill Lv. 6
+slot_skill_icon_job_1
+Raises attack and crit. rate by 250
+Sword Skill Lv. 5
+slot_skill_icon_job_1
+Raises attack and crit. rate by 200
+Sword Skill Lv. 4
+slot_skill_icon_job_1
+Raises attack and crit. rate by 150
+Sword Skill Lv. 3
+slot_skill_icon_job_1
+Raises attack and crit. rate by 100
+Sword Skill Lv. 2
+slot_skill_icon_job_1
+Raises attack and crit. rate by 50
+Sword Skill Lv. 1
+slot_skill_icon_attack_healing_mp
+Increases MP recovery ratio when use normal attack.
+MP Recovery Ratio Up Lv1
+slot_skill_icon_attack_healing_mp
+Increases MP recovery ratio when use normal attack.
+MP Recovery Ratio Up Lv1
+slot_skill_icon_attack_healing_mp
+Increases MP recovery ratio when use normal attack.
+MP Recovery Ratio Up Lv1
+slot_skill_icon_attack_healing_mp
+Increases MP recovery ratio when use normal attack.
+MP Recovery Ratio Up Lv1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_attack_healing_mp
+Increases MP recovery ratio when use normal attack.
+MP Recovery Ratio Up Lv1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_attack_healing_mp
+Increases MP recovery ratio when use normal attack.
+MP Recovery Ratio Up Lv1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_weapon_defense
+Raises HP by 1800 and boosts guard durability even more.
+Guard Durability Up Lv. 10
+slot_skill_icon_weapon_defense
+Raises HP by 1800 and boosts guard durability even more.
+Guard Durability Up Lv. 9
+slot_skill_icon_weapon_defense
+Raises HP by 1500 and boosts guard durability even more.
+Guard Durability Up Lv. 8
+slot_skill_icon_weapon_defense
+Raises HP by 1500 and boosts guard durability even more.
+Guard Durability Up Lv. 7
+slot_skill_icon_weapon_defense
+Raises HP by 1200 and boosts guard durability even more.
+Guard Durability Up Lv. 6
+slot_skill_icon_weapon_defense
+Raises HP by 1200 and boosts guard durability even more.
+Guard Durability Up Lv. 5
+slot_skill_icon_weapon_defense
+Raises HP by 900 and boosts guard durability even more.
+Guard Durability Up Lv. 4
+slot_skill_icon_weapon_defense
+Raises HP by 900 and boosts guard durability even more.
+Guard Durability Up Lv. 3
+slot_skill_icon_weapon_defense
+Raises HP by 600 and boosts guard durability even more.
+Guard Durability Up Lv. 2
+slot_skill_icon_weapon_defense
+Raises HP by 300 and boosts guard durability.
+Guard Durability Up Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_weapon_defense
+Raises HP by 1800 and boosts guard durability even more.
+Guard Durability Up Lv. 10
+slot_skill_icon_weapon_defense
+Raises HP by 1800 and boosts guard durability even more.
+Guard Durability Up Lv. 9
+slot_skill_icon_weapon_defense
+Raises HP by 1500 and boosts guard durability even more.
+Guard Durability Up Lv. 8
+slot_skill_icon_weapon_defense
+Raises HP by 1500 and boosts guard durability even more.
+Guard Durability Up Lv. 7
+slot_skill_icon_weapon_defense
+Raises HP by 1200 and boosts guard durability even more.
+Guard Durability Up Lv. 6
+slot_skill_icon_weapon_defense
+Raises HP by 1200 and boosts guard durability even more.
+Guard Durability Up Lv. 5
+slot_skill_icon_weapon_defense
+Raises HP by 900 and boosts guard durability even more.
+Guard Durability Up Lv. 4
+slot_skill_icon_weapon_defense
+Raises HP by 900 and boosts guard durability even more.
+Guard Durability Up Lv. 3
+slot_skill_icon_weapon_defense
+Raises HP by 600 and boosts guard durability even more.
+Guard Durability Up Lv. 2
+slot_skill_icon_weapon_defense
+Raises HP by 300 and boosts guard durability.
+Guard Durability Up Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 20%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_weapon_defense
+Raises HP by 1800 and boosts guard durability even more.
+Guard Durability Up Lv. 10
+slot_skill_icon_weapon_defense
+Raises HP by 1800 and boosts guard durability even more.
+Guard Durability Up Lv. 9
+slot_skill_icon_weapon_defense
+Raises HP by 1500 and boosts guard durability even more.
+Guard Durability Up Lv. 8
+slot_skill_icon_weapon_defense
+Raises HP by 1500 and boosts guard durability even more.
+Guard Durability Up Lv. 7
+slot_skill_icon_weapon_defense
+Raises HP by 1200 and boosts guard durability even more.
+Guard Durability Up Lv. 6
+slot_skill_icon_weapon_defense
+Raises HP by 1200 and boosts guard durability even more.
+Guard Durability Up Lv. 5
+slot_skill_icon_weapon_defense
+Raises HP by 900 and boosts guard durability even more.
+Guard Durability Up Lv. 4
+slot_skill_icon_weapon_defense
+Raises HP by 900 and boosts guard durability even more.
+Guard Durability Up Lv. 3
+slot_skill_icon_weapon_defense
+Raises HP by 600 and boosts guard durability even more.
+Guard Durability Up Lv. 2
+slot_skill_icon_weapon_defense
+Raises HP by 300 and boosts guard durability.
+Guard Durability Up Lv. 1
+slot_skill_icon_attack_healing_mp
+Increases MP recovery ratio when use normal attack.
+MP Recovery Ratio Up Lv1
+slot_skill_icon_bs_change
+Transforms Battle Skill 1. Increases Max MP by 15%
+Battle Skill 1 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 1. Increases Max MP by 10%
+Battle Skill 1 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 1. Increases attack by 20%
+Battle Skill 1 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 1. Increases attack by 15%
+Battle Skill 1 Transform Lv. 1
+slot_skill_icon_0
+During battle HP Increases by 3000
+HP Up Lv. 10
+slot_skill_icon_0
+During battle HP Increases by 2700
+HP Up Lv. 9
+slot_skill_icon_0
+During battle HP Increases by 2400
+HP Up Lv. 8
+slot_skill_icon_0
+During battle HP Increases by 2100
+HP Up Lv. 7
+slot_skill_icon_0
+During battle HP Increases by 1800
+HP Up Lv. 6
+slot_skill_icon_0
+During battle HP Increases by 1500
+HP Up Lv. 5
+slot_skill_icon_0
+During battle HP Increases by 1200
+HP Up Lv. 4
+slot_skill_icon_0
+During battle HP Increases by 900
+HP Up Lv. 3
+slot_skill_icon_0
+During battle HP Increases by 600
+HP Up Lv. 2
+slot_skill_icon_0
+During battle HP Increases by 300
+HP Up Lv. 1
+slot_skill_icon_job_10
+Raises attack and crit. rate by 500
+Shieldblade Skill Lv.10
+slot_skill_icon_job_10
+Raises attack and crit. rate by 450
+Shieldblade Skill Lv.9
+slot_skill_icon_job_10
+Raises attack and crit. rate by 400
+Shieldblade Skill Lv.8
+slot_skill_icon_job_10
+Raises attack and crit. rate by 350
+Shieldblade Skill Lv.7
+slot_skill_icon_job_10
+Raises attack and crit. rate by 300
+Shieldblade Skill Lv.6
+slot_skill_icon_job_10
+Raises attack and crit. rate by 250
+Shieldblade Skill Lv.5
+slot_skill_icon_job_10
+Raises attack and crit. rate by 200
+Shieldblade Skill Lv.4
+slot_skill_icon_job_10
+Raises attack and crit. rate by 150
+Shieldblade Skill Lv.3
+slot_skill_icon_job_10
+Raises attack and crit. rate by 100
+Shieldblade Skill Lv.2
+slot_skill_icon_job_10
+Raises attack and crit. rate by 50
+Shieldblade Skill Lv.1
+slot_skill_icon_job_9
+Raises attack and crit. rate by 500
+Lance Skill Lv.10
+slot_skill_icon_job_9
+Raises attack and crit. rate by 450
+Lance Skill Lv.9
+slot_skill_icon_job_9
+Raises attack and crit. rate by 400
+Lance Skill Lv.8
+slot_skill_icon_job_9
+Raises attack and crit. rate by 350
+Lance Skill Lv.7
+slot_skill_icon_job_9
+Raises attack and crit. rate by 300
+Lance Skill Lv.6
+slot_skill_icon_job_9
+Raises attack and crit. rate by 250
+Lance Skill Lv.5
+slot_skill_icon_job_9
+Raises attack and crit. rate by 200
+Lance Skill Lv.4
+slot_skill_icon_job_9
+Raises attack and crit. rate by 150
+Lance Skill Lv.3
+slot_skill_icon_job_9
+Raises attack and crit. rate by 100
+Lance Skill Lv.2
+slot_skill_icon_job_9
+Raises attack and crit. rate by 50
+Lance Skill Lv.1
+slot_skill_icon_job_9
+Raises attack and crit. rate by 500
+Lance Skill Lv.10
+slot_skill_icon_job_9
+Raises attack and crit. rate by 450
+Lance Skill Lv.9
+slot_skill_icon_job_9
+Raises attack and crit. rate by 400
+Lance Skill Lv.8
+slot_skill_icon_job_9
+Raises attack and crit. rate by 350
+Lance Skill Lv.7
+slot_skill_icon_job_9
+Raises attack and crit. rate by 300
+Lance Skill Lv.6
+slot_skill_icon_job_9
+Raises attack and crit. rate by 250
+Lance Skill Lv.5
+slot_skill_icon_job_9
+Raises attack and crit. rate by 200
+Lance Skill Lv.4
+slot_skill_icon_job_9
+Raises attack and crit. rate by 150
+Lance Skill Lv.3
+slot_skill_icon_job_9
+Raises attack and crit. rate by 100
+Lance Skill Lv.2
+slot_skill_icon_job_9
+Raises attack and crit. rate by 50
+Lance Skill Lv.1
+slot_skill_icon_job_9
+Raises attack and crit. rate by 500
+Lance Skill Lv.10
+slot_skill_icon_job_9
+Raises attack and crit. rate by 450
+Lance Skill Lv.9
+slot_skill_icon_job_9
+Raises attack and crit. rate by 400
+Lance Skill Lv.8
+slot_skill_icon_job_9
+Raises attack and crit. rate by 350
+Lance Skill Lv.7
+slot_skill_icon_job_9
+Raises attack and crit. rate by 300
+Lance Skill Lv.6
+slot_skill_icon_job_9
+Raises attack and crit. rate by 250
+Lance Skill Lv.5
+slot_skill_icon_job_9
+Raises attack and crit. rate by 200
+Lance Skill Lv.4
+slot_skill_icon_job_9
+Raises attack and crit. rate by 150
+Lance Skill Lv.3
+slot_skill_icon_job_9
+Raises attack and crit. rate by 100
+Lance Skill Lv.2
+slot_skill_icon_job_9
+Raises attack and crit. rate by 50
+Lance Skill Lv.1
+slot_skill_icon_job_9
+Raises attack and crit. rate by 500
+Lance Skill Lv.10
+slot_skill_icon_job_9
+Raises attack and crit. rate by 450
+Lance Skill Lv.9
+slot_skill_icon_job_9
+Raises attack and crit. rate by 400
+Lance Skill Lv.8
+slot_skill_icon_job_9
+Raises attack and crit. rate by 350
+Lance Skill Lv.7
+slot_skill_icon_job_9
+Raises attack and crit. rate by 300
+Lance Skill Lv.6
+slot_skill_icon_job_9
+Raises attack and crit. rate by 250
+Lance Skill Lv.5
+slot_skill_icon_job_9
+Raises attack and crit. rate by 200
+Lance Skill Lv.4
+slot_skill_icon_job_9
+Raises attack and crit. rate by 150
+Lance Skill Lv.3
+slot_skill_icon_job_9
+Raises attack and crit. rate by 100
+Lance Skill Lv.2
+slot_skill_icon_job_9
+Raises attack and crit. rate by 50
+Lance Skill Lv.1
+slot_skill_icon_job_9
+Raises attack and crit. rate by 500
+Lance Skill Lv.10
+slot_skill_icon_job_9
+Raises attack and crit. rate by 450
+Lance Skill Lv.9
+slot_skill_icon_job_9
+Raises attack and crit. rate by 400
+Lance Skill Lv.8
+slot_skill_icon_job_9
+Raises attack and crit. rate by 350
+Lance Skill Lv.7
+slot_skill_icon_job_9
+Raises attack and crit. rate by 300
+Lance Skill Lv.6
+slot_skill_icon_job_9
+Raises attack and crit. rate by 250
+Lance Skill Lv.5
+slot_skill_icon_job_9
+Raises attack and crit. rate by 200
+Lance Skill Lv.4
+slot_skill_icon_job_9
+Raises attack and crit. rate by 150
+Lance Skill Lv.3
+slot_skill_icon_job_9
+Raises attack and crit. rate by 100
+Lance Skill Lv.2
+slot_skill_icon_job_9
+Raises attack and crit. rate by 50
+Lance Skill Lv.1
+slot_skill_icon_job_8
+Raises attack and crit. rate by 500
+Earth Magic Skill Lv. 10
+slot_skill_icon_job_8
+Raises attack and crit. rate by 450
+Earth Magic Skill Lv. 9
+slot_skill_icon_job_8
+Raises attack and crit. rate by 400
+Earth Magic Skill Lv. 8
+slot_skill_icon_job_8
+Raises attack and crit. rate by 350
+Earth Magic Skill Lv. 7
+slot_skill_icon_job_8
+Raises attack and crit. rate by 300
+Earth Magic Skill Lv. 6
+slot_skill_icon_job_8
+Raises attack and crit. rate by 250
+Earth Magic Skill Lv. 5
+slot_skill_icon_job_8
+Raises attack and crit. rate by 200
+Earth Magic Skill Lv. 4
+slot_skill_icon_job_8
+Raises attack and crit. rate by 150
+Earth Magic Skill Lv. 3
+slot_skill_icon_job_8
+Raises attack and crit. rate by 100
+Earth Magic Skill Lv. 2
+slot_skill_icon_job_8
+Raises attack and crit. rate by 50
+Earth Magic Skill Lv. 1
+slot_skill_icon_job_8
+Raises attack and crit. rate by 500
+Dark Magic Skill Lv. 10
+slot_skill_icon_job_8
+Raises attack and crit. rate by 450
+Dark Magic Skill Lv. 9
+slot_skill_icon_job_8
+Raises attack and crit. rate by 400
+Dark Magic Skill Lv. 8
+slot_skill_icon_job_8
+Raises attack and crit. rate by 350
+Dark Magic Skill Lv. 7
+slot_skill_icon_job_8
+Raises attack and crit. rate by 300
+Dark Magic Skill Lv. 6
+slot_skill_icon_job_8
+Raises attack and crit. rate by 250
+Dark Magic Skill Lv. 5
+slot_skill_icon_job_8
+Raises attack and crit. rate by 200
+Dark Magic Skill Lv. 4
+slot_skill_icon_job_8
+Raises attack and crit. rate by 150
+Dark Magic Skill Lv. 3
+slot_skill_icon_job_8
+Raises attack and crit. rate by 100
+Dark Magic Skill Lv. 2
+slot_skill_icon_job_8
+Raises attack and crit. rate by 50
+Dark Magic Skill Lv. 1
+slot_skill_icon_job_8
+Raises attack and crit. rate by 500
+Holy Magic Skill Lv. 10
+slot_skill_icon_job_8
+Raises attack and crit. rate by 450
+Holy Magic Skill Lv. 9
+slot_skill_icon_job_8
+Raises attack and crit. rate by 400
+Holy Magic Skill Lv. 8
+slot_skill_icon_job_8
+Raises attack and crit. rate by 350
+Holy Magic Skill Lv. 7
+slot_skill_icon_job_8
+Raises attack and crit. rate by 300
+Holy Magic Skill Lv. 6
+slot_skill_icon_job_8
+Raises attack and crit. rate by 250
+Holy Magic Skill Lv. 5
+slot_skill_icon_job_8
+Raises attack and crit. rate by 200
+Holy Magic Skill Lv. 4
+slot_skill_icon_job_8
+Raises attack and crit. rate by 150
+Holy Magic Skill Lv. 3
+slot_skill_icon_job_8
+Raises attack and crit. rate by 100
+Holy Magic Skill Lv. 2
+slot_skill_icon_job_8
+Raises attack and crit. rate by 50
+Holy Magic Skill Lv. 1
+slot_skill_icon_job_8
+Raises attack and crit. rate by 500
+Wind Magic Skill Lv. 10
+slot_skill_icon_job_8
+Raises attack and crit. rate by 450
+Wind Magic Skill Lv. 9
+slot_skill_icon_job_8
+Raises attack and crit. rate by 400
+Wind Magic Skill Lv. 8
+slot_skill_icon_job_8
+Raises attack and crit. rate by 350
+Wind Magic Skill Lv. 7
+slot_skill_icon_job_8
+Raises attack and crit. rate by 300
+Wind Magic Skill Lv. 6
+slot_skill_icon_job_8
+Raises attack and crit. rate by 250
+Wind Magic Skill Lv. 5
+slot_skill_icon_job_8
+Raises attack and crit. rate by 200
+Wind Magic Skill Lv. 4
+slot_skill_icon_job_8
+Raises attack and crit. rate by 150
+Wind Magic Skill Lv. 3
+slot_skill_icon_job_8
+Raises attack and crit. rate by 100
+Wind Magic Skill Lv. 2
+slot_skill_icon_job_8
+Raises attack and crit. rate by 50
+Wind Magic Skill Lv. 1
+slot_skill_icon_job_8
+Raises attack and crit. rate by 500
+Water Magic Skill Lv. 10
+slot_skill_icon_job_8
+Raises attack and crit. rate by 450
+Water Magic Skill Lv. 9
+slot_skill_icon_job_8
+Raises attack and crit. rate by 400
+Water Magic Skill Lv. 8
+slot_skill_icon_job_8
+Raises attack and crit. rate by 350
+Water Magic Skill Lv. 7
+slot_skill_icon_job_8
+Raises attack and crit. rate by 300
+Water Magic Skill Lv. 6
+slot_skill_icon_job_8
+Raises attack and crit. rate by 250
+Water Magic Skill Lv. 5
+slot_skill_icon_job_8
+Raises attack and crit. rate by 200
+Water Magic Skill Lv. 4
+slot_skill_icon_job_8
+Raises attack and crit. rate by 150
+Water Magic Skill Lv. 3
+slot_skill_icon_job_8
+Raises attack and crit. rate by 100
+Water Magic Skill Lv. 2
+slot_skill_icon_job_8
+Raises attack and crit. rate by 50
+Water Magic Skill Lv. 1
+slot_skill_icon_job_8
+Raises attack and crit. rate by 500
+Fire Magic Skill Lv. 10
+slot_skill_icon_job_8
+Raises attack and crit. rate by 450
+Fire Magic Skill Lv. 9
+slot_skill_icon_job_8
+Raises attack and crit. rate by 400
+Fire Magic Skill Lv. 8
+slot_skill_icon_job_8
+Raises attack and crit. rate by 350
+Fire Magic Skill Lv. 7
+slot_skill_icon_job_8
+Raises attack and crit. rate by 300
+Fire Magic Skill Lv. 6
+slot_skill_icon_job_8
+Raises attack and crit. rate by 250
+Fire Magic Skill Lv. 5
+slot_skill_icon_job_8
+Raises attack and crit. rate by 200
+Fire Magic Skill Lv. 4
+slot_skill_icon_job_8
+Raises attack and crit. rate by 150
+Fire Magic Skill Lv. 3
+slot_skill_icon_job_8
+Raises attack and crit. rate by 100
+Fire Magic Skill Lv. 2
+slot_skill_icon_job_8
+Raises attack and crit. rate by 50
+Fire Magic Skill Lv. 1
+slot_skill_icon_job_7
+Raises attack and crit. rate by 500
+Bow Skill Lv. 10
+slot_skill_icon_job_7
+Raises attack and crit. rate by 450
+Bow Skill Lv. 9
+slot_skill_icon_job_7
+Raises attack and crit. rate by 400
+Bow Skill Lv. 8
+slot_skill_icon_job_7
+Raises attack and crit. rate by 350
+Bow Skill Lv. 7
+slot_skill_icon_job_7
+Raises attack and crit. rate by 300
+Bow Skill Lv. 6
+slot_skill_icon_job_7
+Raises attack and crit. rate by 250
+Bow Skill Lv. 5
+slot_skill_icon_job_7
+Raises attack and crit. rate by 200
+Bow Skill Lv. 4
+slot_skill_icon_job_7
+Raises attack and crit. rate by 150
+Bow Skill Lv. 3
+slot_skill_icon_job_7
+Raises attack and crit. rate by 100
+Bow Skill Lv. 2
+slot_skill_icon_job_7
+Raises attack and crit. rate by 50
+Bow Skill Lv. 1
+slot_skill_icon_job_7
+Raises attack and crit. rate by 500
+Bow Skill Lv. 10
+slot_skill_icon_job_7
+Raises attack and crit. rate by 450
+Bow Skill Lv. 9
+slot_skill_icon_job_7
+Raises attack and crit. rate by 400
+Bow Skill Lv. 8
+slot_skill_icon_job_7
+Raises attack and crit. rate by 350
+Bow Skill Lv. 7
+slot_skill_icon_job_7
+Raises attack and crit. rate by 300
+Bow Skill Lv. 6
+slot_skill_icon_job_7
+Raises attack and crit. rate by 250
+Bow Skill Lv. 5
+slot_skill_icon_job_7
+Raises attack and crit. rate by 200
+Bow Skill Lv. 4
+slot_skill_icon_job_7
+Raises attack and crit. rate by 150
+Bow Skill Lv. 3
+slot_skill_icon_job_7
+Raises attack and crit. rate by 100
+Bow Skill Lv. 2
+slot_skill_icon_job_7
+Raises attack and crit. rate by 50
+Bow Skill Lv. 1
+slot_skill_icon_job_7
+Raises attack and crit. rate by 500
+Bow Skill Lv. 10
+slot_skill_icon_job_7
+Raises attack and crit. rate by 450
+Bow Skill Lv. 9
+slot_skill_icon_job_7
+Raises attack and crit. rate by 400
+Bow Skill Lv. 8
+slot_skill_icon_job_7
+Raises attack and crit. rate by 350
+Bow Skill Lv. 7
+slot_skill_icon_job_7
+Raises attack and crit. rate by 300
+Bow Skill Lv. 6
+slot_skill_icon_job_7
+Raises attack and crit. rate by 250
+Bow Skill Lv. 5
+slot_skill_icon_job_7
+Raises attack and crit. rate by 200
+Bow Skill Lv. 4
+slot_skill_icon_job_7
+Raises attack and crit. rate by 150
+Bow Skill Lv. 3
+slot_skill_icon_job_7
+Raises attack and crit. rate by 100
+Bow Skill Lv. 2
+slot_skill_icon_job_7
+Raises attack and crit. rate by 50
+Bow Skill Lv. 1
+slot_skill_icon_job_7
+Raises attack and crit. rate by 500
+Bow Skill Lv. 10
+slot_skill_icon_job_7
+Raises attack and crit. rate by 450
+Bow Skill Lv. 9
+slot_skill_icon_job_7
+Raises attack and crit. rate by 400
+Bow Skill Lv. 8
+slot_skill_icon_job_7
+Raises attack and crit. rate by 350
+Bow Skill Lv. 7
+slot_skill_icon_job_7
+Raises attack and crit. rate by 300
+Bow Skill Lv. 6
+slot_skill_icon_job_7
+Raises attack and crit. rate by 250
+Bow Skill Lv. 5
+slot_skill_icon_job_7
+Raises attack and crit. rate by 200
+Bow Skill Lv. 4
+slot_skill_icon_job_7
+Raises attack and crit. rate by 150
+Bow Skill Lv. 3
+slot_skill_icon_job_7
+Raises attack and crit. rate by 100
+Bow Skill Lv. 2
+slot_skill_icon_job_7
+Raises attack and crit. rate by 50
+Bow Skill Lv. 1
+slot_skill_icon_job_7
+Raises attack and crit. rate by 500
+Bow Skill Lv. 10
+slot_skill_icon_job_7
+Raises attack and crit. rate by 450
+Bow Skill Lv. 9
+slot_skill_icon_job_7
+Raises attack and crit. rate by 400
+Bow Skill Lv. 8
+slot_skill_icon_job_7
+Raises attack and crit. rate by 350
+Bow Skill Lv. 7
+slot_skill_icon_job_7
+Raises attack and crit. rate by 300
+Bow Skill Lv. 6
+slot_skill_icon_job_7
+Raises attack and crit. rate by 250
+Bow Skill Lv. 5
+slot_skill_icon_job_7
+Raises attack and crit. rate by 200
+Bow Skill Lv. 4
+slot_skill_icon_job_7
+Raises attack and crit. rate by 150
+Bow Skill Lv. 3
+slot_skill_icon_job_7
+Raises attack and crit. rate by 100
+Bow Skill Lv. 2
+slot_skill_icon_job_7
+Raises attack and crit. rate by 50
+Bow Skill Lv. 1
+slot_skill_icon_job_7
+Raises attack and crit. rate by 500
+Bow Skill Lv. 10
+slot_skill_icon_job_7
+Raises attack and crit. rate by 450
+Bow Skill Lv. 9
+slot_skill_icon_job_7
+Raises attack and crit. rate by 400
+Bow Skill Lv. 8
+slot_skill_icon_job_7
+Raises attack and crit. rate by 350
+Bow Skill Lv. 7
+slot_skill_icon_job_7
+Raises attack and crit. rate by 300
+Bow Skill Lv. 6
+slot_skill_icon_job_7
+Raises attack and crit. rate by 250
+Bow Skill Lv. 5
+slot_skill_icon_job_7
+Raises attack and crit. rate by 200
+Bow Skill Lv. 4
+slot_skill_icon_job_7
+Raises attack and crit. rate by 150
+Bow Skill Lv. 3
+slot_skill_icon_job_7
+Raises attack and crit. rate by 100
+Bow Skill Lv. 2
+slot_skill_icon_job_7
+Raises attack and crit. rate by 50
+Bow Skill Lv. 1
+slot_skill_icon_job_7
+Raises attack and crit. rate by 500
+Bow Skill Lv. 10
+slot_skill_icon_job_7
+Raises attack and crit. rate by 450
+Bow Skill Lv. 9
+slot_skill_icon_job_7
+Raises attack and crit. rate by 400
+Bow Skill Lv. 8
+slot_skill_icon_job_7
+Raises attack and crit. rate by 350
+Bow Skill Lv. 7
+slot_skill_icon_job_7
+Raises attack and crit. rate by 300
+Bow Skill Lv. 6
+slot_skill_icon_job_7
+Raises attack and crit. rate by 250
+Bow Skill Lv. 5
+slot_skill_icon_job_7
+Raises attack and crit. rate by 200
+Bow Skill Lv. 4
+slot_skill_icon_job_7
+Raises attack and crit. rate by 150
+Bow Skill Lv. 3
+slot_skill_icon_job_7
+Raises attack and crit. rate by 100
+Bow Skill Lv. 2
+slot_skill_icon_job_7
+Raises attack and crit. rate by 50
+Bow Skill Lv. 1
+slot_skill_icon_job_6
+Raises attack and crit. rate by 500
+Gun Skill Lv. 10
+slot_skill_icon_job_6
+Raises attack and crit. rate by 450
+Gun Skill Lv. 9
+slot_skill_icon_job_6
+Raises attack and crit. rate by 400
+Gun Skill Lv. 8
+slot_skill_icon_job_6
+Raises attack and crit. rate by 350
+Gun Skill Lv. 7
+slot_skill_icon_job_6
+Raises attack and crit. rate by 300
+Gun Skill Lv. 6
+slot_skill_icon_job_6
+Raises attack and crit. rate by 250
+Gun Skill Lv. 5
+slot_skill_icon_job_6
+Raises attack and crit. rate by 200
+Gun Skill Lv. 4
+slot_skill_icon_job_6
+Raises attack and crit. rate by 150
+Gun Skill Lv. 3
+slot_skill_icon_job_6
+Raises attack and crit. rate by 100
+Gun Skill Lv. 2
+slot_skill_icon_job_6
+Raises attack and crit. rate by 50
+Gun Skill Lv. 1
+slot_skill_icon_job_6
+Raises attack and crit. rate by 500
+Gun Skill Lv. 10
+slot_skill_icon_job_6
+Raises attack and crit. rate by 450
+Gun Skill Lv. 9
+slot_skill_icon_job_6
+Raises attack and crit. rate by 400
+Gun Skill Lv. 8
+slot_skill_icon_job_6
+Raises attack and crit. rate by 350
+Gun Skill Lv. 7
+slot_skill_icon_job_6
+Raises attack and crit. rate by 300
+Gun Skill Lv. 6
+slot_skill_icon_job_6
+Raises attack and crit. rate by 250
+Gun Skill Lv. 5
+slot_skill_icon_job_6
+Raises attack and crit. rate by 200
+Gun Skill Lv. 4
+slot_skill_icon_job_6
+Raises attack and crit. rate by 150
+Gun Skill Lv. 3
+slot_skill_icon_job_6
+Raises attack and crit. rate by 100
+Gun Skill Lv. 2
+slot_skill_icon_job_6
+Raises attack and crit. rate by 50
+Gun Skill Lv. 1
+slot_skill_icon_job_6
+Raises attack and crit. rate by 500
+Gun Skill Lv. 10
+slot_skill_icon_job_6
+Raises attack and crit. rate by 450
+Gun Skill Lv. 9
+slot_skill_icon_job_6
+Raises attack and crit. rate by 400
+Gun Skill Lv. 8
+slot_skill_icon_job_6
+Raises attack and crit. rate by 350
+Gun Skill Lv. 7
+slot_skill_icon_job_6
+Raises attack and crit. rate by 300
+Gun Skill Lv. 6
+slot_skill_icon_job_6
+Raises attack and crit. rate by 250
+Gun Skill Lv. 5
+slot_skill_icon_job_6
+Raises attack and crit. rate by 200
+Gun Skill Lv. 4
+slot_skill_icon_job_6
+Raises attack and crit. rate by 150
+Gun Skill Lv. 3
+slot_skill_icon_job_6
+Raises attack and crit. rate by 100
+Gun Skill Lv. 2
+slot_skill_icon_job_6
+Raises attack and crit. rate by 50
+Gun Skill Lv. 1
+slot_skill_icon_job_6
+Raises attack and crit. rate by 500
+Gun Skill Lv. 10
+slot_skill_icon_job_6
+Raises attack and crit. rate by 450
+Gun Skill Lv. 9
+slot_skill_icon_job_6
+Raises attack and crit. rate by 400
+Gun Skill Lv. 8
+slot_skill_icon_job_6
+Raises attack and crit. rate by 350
+Gun Skill Lv. 7
+slot_skill_icon_job_6
+Raises attack and crit. rate by 300
+Gun Skill Lv. 6
+slot_skill_icon_job_6
+Raises attack and crit. rate by 250
+Gun Skill Lv. 5
+slot_skill_icon_job_6
+Raises attack and crit. rate by 200
+Gun Skill Lv. 4
+slot_skill_icon_job_6
+Raises attack and crit. rate by 150
+Gun Skill Lv. 3
+slot_skill_icon_job_6
+Raises attack and crit. rate by 100
+Gun Skill Lv. 2
+slot_skill_icon_job_6
+Raises attack and crit. rate by 50
+Gun Skill Lv. 1
+slot_skill_icon_job_6
+Raises attack and crit. rate by 500
+Gun Skill Lv. 10
+slot_skill_icon_job_6
+Raises attack and crit. rate by 450
+Gun Skill Lv. 9
+slot_skill_icon_job_6
+Raises attack and crit. rate by 400
+Gun Skill Lv. 8
+slot_skill_icon_job_6
+Raises attack and crit. rate by 350
+Gun Skill Lv. 7
+slot_skill_icon_job_6
+Raises attack and crit. rate by 300
+Gun Skill Lv. 6
+slot_skill_icon_job_6
+Raises attack and crit. rate by 250
+Gun Skill Lv. 5
+slot_skill_icon_job_6
+Raises attack and crit. rate by 200
+Gun Skill Lv. 4
+slot_skill_icon_job_6
+Raises attack and crit. rate by 150
+Gun Skill Lv. 3
+slot_skill_icon_job_6
+Raises attack and crit. rate by 100
+Gun Skill Lv. 2
+slot_skill_icon_job_6
+Raises attack and crit. rate by 50
+Gun Skill Lv. 1
+slot_skill_icon_job_5
+Raises attack and crit. rate by 500
+Mace Skill Lv. 10
+slot_skill_icon_job_5
+Raises attack and crit. rate by 450
+Mace Skill Lv. 9
+slot_skill_icon_job_5
+Raises attack and crit. rate by 400
+Mace Skill Lv. 8
+slot_skill_icon_job_5
+Raises attack and crit. rate by 350
+Mace Skill Lv. 7
+slot_skill_icon_job_5
+Raises attack and crit. rate by 300
+Mace Skill Lv. 6
+slot_skill_icon_job_5
+Raises attack and crit. rate by 250
+Mace Skill Lv. 5
+slot_skill_icon_job_5
+Raises attack and crit. rate by 200
+Mace Skill Lv. 4
+slot_skill_icon_job_5
+Raises attack and crit. rate by 150
+Mace Skill Lv. 3
+slot_skill_icon_job_5
+Raises attack and crit. rate by 100
+Mace Skill Lv. 2
+slot_skill_icon_job_5
+Raises attack and crit. rate by 50
+Mace Skill Lv. 1
+slot_skill_icon_job_5
+Raises attack and crit. rate by 500
+Mace Skill Lv. 10
+slot_skill_icon_job_5
+Raises attack and crit. rate by 450
+Mace Skill Lv. 9
+slot_skill_icon_job_5
+Raises attack and crit. rate by 400
+Mace Skill Lv. 8
+slot_skill_icon_job_5
+Raises attack and crit. rate by 350
+Mace Skill Lv. 7
+slot_skill_icon_job_5
+Raises attack and crit. rate by 300
+Mace Skill Lv. 6
+slot_skill_icon_job_5
+Raises attack and crit. rate by 250
+Mace Skill Lv. 5
+slot_skill_icon_job_5
+Raises attack and crit. rate by 200
+Mace Skill Lv. 4
+slot_skill_icon_job_5
+Raises attack and crit. rate by 150
+Mace Skill Lv. 3
+slot_skill_icon_job_5
+Raises attack and crit. rate by 100
+Mace Skill Lv. 2
+slot_skill_icon_job_5
+Raises attack and crit. rate by 50
+Mace Skill Lv. 1
+slot_skill_icon_job_5
+Raises attack and crit. rate by 500
+Mace Skill Lv. 10
+slot_skill_icon_job_5
+Raises attack and crit. rate by 450
+Mace Skill Lv. 9
+slot_skill_icon_job_5
+Raises attack and crit. rate by 400
+Mace Skill Lv. 8
+slot_skill_icon_job_5
+Raises attack and crit. rate by 350
+Mace Skill Lv. 7
+slot_skill_icon_job_5
+Raises attack and crit. rate by 300
+Mace Skill Lv. 6
+slot_skill_icon_job_5
+Raises attack and crit. rate by 250
+Mace Skill Lv. 5
+slot_skill_icon_job_5
+Raises attack and crit. rate by 200
+Mace Skill Lv. 4
+slot_skill_icon_job_5
+Raises attack and crit. rate by 150
+Mace Skill Lv. 3
+slot_skill_icon_job_5
+Raises attack and crit. rate by 100
+Mace Skill Lv. 2
+slot_skill_icon_job_5
+Raises attack and crit. rate by 50
+Mace Skill Lv. 1
+slot_skill_icon_job_5
+Raises attack and crit. rate by 500
+Mace Skill Lv. 10
+slot_skill_icon_job_5
+Raises attack and crit. rate by 450
+Mace Skill Lv. 9
+slot_skill_icon_job_5
+Raises attack and crit. rate by 400
+Mace Skill Lv. 8
+slot_skill_icon_job_5
+Raises attack and crit. rate by 350
+Mace Skill Lv. 7
+slot_skill_icon_job_5
+Raises attack and crit. rate by 300
+Mace Skill Lv. 6
+slot_skill_icon_job_5
+Raises attack and crit. rate by 250
+Mace Skill Lv. 5
+slot_skill_icon_job_5
+Raises attack and crit. rate by 200
+Mace Skill Lv. 4
+slot_skill_icon_job_5
+Raises attack and crit. rate by 150
+Mace Skill Lv. 3
+slot_skill_icon_job_5
+Raises attack and crit. rate by 100
+Mace Skill Lv. 2
+slot_skill_icon_job_5
+Raises attack and crit. rate by 50
+Mace Skill Lv. 1
+slot_skill_icon_job_5
+Raises attack and crit. rate by 500
+Mace Skill Lv. 10
+slot_skill_icon_job_5
+Raises attack and crit. rate by 450
+Mace Skill Lv. 9
+slot_skill_icon_job_5
+Raises attack and crit. rate by 400
+Mace Skill Lv. 8
+slot_skill_icon_job_5
+Raises attack and crit. rate by 350
+Mace Skill Lv. 7
+slot_skill_icon_job_5
+Raises attack and crit. rate by 300
+Mace Skill Lv. 6
+slot_skill_icon_job_5
+Raises attack and crit. rate by 250
+Mace Skill Lv. 5
+slot_skill_icon_job_5
+Raises attack and crit. rate by 200
+Mace Skill Lv. 4
+slot_skill_icon_job_5
+Raises attack and crit. rate by 150
+Mace Skill Lv. 3
+slot_skill_icon_job_5
+Raises attack and crit. rate by 100
+Mace Skill Lv. 2
+slot_skill_icon_job_5
+Raises attack and crit. rate by 50
+Mace Skill Lv. 1
+slot_skill_icon_job_5
+Raises attack and crit. rate by 500
+Mace Skill Lv. 10
+slot_skill_icon_job_5
+Raises attack and crit. rate by 450
+Mace Skill Lv. 9
+slot_skill_icon_job_5
+Raises attack and crit. rate by 400
+Mace Skill Lv. 8
+slot_skill_icon_job_5
+Raises attack and crit. rate by 350
+Mace Skill Lv. 7
+slot_skill_icon_job_5
+Raises attack and crit. rate by 300
+Mace Skill Lv. 6
+slot_skill_icon_job_5
+Raises attack and crit. rate by 250
+Mace Skill Lv. 5
+slot_skill_icon_job_5
+Raises attack and crit. rate by 200
+Mace Skill Lv. 4
+slot_skill_icon_job_5
+Raises attack and crit. rate by 150
+Mace Skill Lv. 3
+slot_skill_icon_job_5
+Raises attack and crit. rate by 100
+Mace Skill Lv. 2
+slot_skill_icon_job_5
+Raises attack and crit. rate by 50
+Mace Skill Lv. 1
+slot_skill_icon_job_5
+Raises attack and crit. rate by 500
+Mace Skill Lv. 10
+slot_skill_icon_job_5
+Raises attack and crit. rate by 450
+Mace Skill Lv. 9
+slot_skill_icon_job_5
+Raises attack and crit. rate by 400
+Mace Skill Lv. 8
+slot_skill_icon_job_5
+Raises attack and crit. rate by 350
+Mace Skill Lv. 7
+slot_skill_icon_job_5
+Raises attack and crit. rate by 300
+Mace Skill Lv. 6
+slot_skill_icon_job_5
+Raises attack and crit. rate by 250
+Mace Skill Lv. 5
+slot_skill_icon_job_5
+Raises attack and crit. rate by 200
+Mace Skill Lv. 4
+slot_skill_icon_job_5
+Raises attack and crit. rate by 150
+Mace Skill Lv. 3
+slot_skill_icon_job_5
+Raises attack and crit. rate by 100
+Mace Skill Lv. 2
+slot_skill_icon_job_5
+Raises attack and crit. rate by 50
+Mace Skill Lv. 1
+slot_skill_icon_job_4
+Raises attack and crit. rate by 500
+Dagger Skill Lv. 10
+slot_skill_icon_job_4
+Raises attack and crit. rate by 450
+Dagger Skill Lv. 9
+slot_skill_icon_job_4
+Raises attack and crit. rate by 400
+Dagger Skill Lv. 8
+slot_skill_icon_job_4
+Raises attack and crit. rate by 350
+Dagger Skill Lv. 7
+slot_skill_icon_job_4
+Raises attack and crit. rate by 300
+Dagger Skill Lv. 6
+slot_skill_icon_job_4
+Raises attack and crit. rate by 250
+Dagger Skill Lv. 5
+slot_skill_icon_job_4
+Raises attack and crit. rate by 200
+Dagger Skill Lv. 4
+slot_skill_icon_job_4
+Raises attack and crit. rate by 150
+Dagger Skill Lv. 3
+slot_skill_icon_job_4
+Raises attack and crit. rate by 100
+Dagger Skill Lv. 2
+slot_skill_icon_job_4
+Raises attack and crit. rate by 50
+Dagger Skill Lv. 1
+slot_skill_icon_job_4
+Raises attack and crit. rate by 500
+Dagger Skill Lv. 10
+slot_skill_icon_job_4
+Raises attack and crit. rate by 450
+Dagger Skill Lv. 9
+slot_skill_icon_job_4
+Raises attack and crit. rate by 400
+Dagger Skill Lv. 8
+slot_skill_icon_job_4
+Raises attack and crit. rate by 350
+Dagger Skill Lv. 7
+slot_skill_icon_job_4
+Raises attack and crit. rate by 300
+Dagger Skill Lv. 6
+slot_skill_icon_job_4
+Raises attack and crit. rate by 250
+Dagger Skill Lv. 5
+slot_skill_icon_job_4
+Raises attack and crit. rate by 200
+Dagger Skill Lv. 4
+slot_skill_icon_job_4
+Raises attack and crit. rate by 150
+Dagger Skill Lv. 3
+slot_skill_icon_job_4
+Raises attack and crit. rate by 100
+Dagger Skill Lv. 2
+slot_skill_icon_job_4
+Raises attack and crit. rate by 50
+Dagger Skill Lv. 1
+slot_skill_icon_job_4
+Raises attack and crit. rate by 500
+Dagger Skill Lv. 10
+slot_skill_icon_job_4
+Raises attack and crit. rate by 450
+Dagger Skill Lv. 9
+slot_skill_icon_job_4
+Raises attack and crit. rate by 400
+Dagger Skill Lv. 8
+slot_skill_icon_job_4
+Raises attack and crit. rate by 350
+Dagger Skill Lv. 7
+slot_skill_icon_job_4
+Raises attack and crit. rate by 300
+Dagger Skill Lv. 6
+slot_skill_icon_job_4
+Raises attack and crit. rate by 250
+Dagger Skill Lv. 5
+slot_skill_icon_job_4
+Raises attack and crit. rate by 200
+Dagger Skill Lv. 4
+slot_skill_icon_job_4
+Raises attack and crit. rate by 150
+Dagger Skill Lv. 3
+slot_skill_icon_job_4
+Raises attack and crit. rate by 100
+Dagger Skill Lv. 2
+slot_skill_icon_job_4
+Raises attack and crit. rate by 50
+Dagger Skill Lv. 1
+slot_skill_icon_job_4
+Raises attack and crit. rate by 500
+Dagger Skill Lv. 10
+slot_skill_icon_job_4
+Raises attack and crit. rate by 450
+Dagger Skill Lv. 9
+slot_skill_icon_job_4
+Raises attack and crit. rate by 400
+Dagger Skill Lv. 8
+slot_skill_icon_job_4
+Raises attack and crit. rate by 350
+Dagger Skill Lv. 7
+slot_skill_icon_job_4
+Raises attack and crit. rate by 300
+Dagger Skill Lv. 6
+slot_skill_icon_job_4
+Raises attack and crit. rate by 250
+Dagger Skill Lv. 5
+slot_skill_icon_job_4
+Raises attack and crit. rate by 200
+Dagger Skill Lv. 4
+slot_skill_icon_job_4
+Raises attack and crit. rate by 150
+Dagger Skill Lv. 3
+slot_skill_icon_job_4
+Raises attack and crit. rate by 100
+Dagger Skill Lv. 2
+slot_skill_icon_job_4
+Raises attack and crit. rate by 50
+Dagger Skill Lv. 1
+slot_skill_icon_job_4
+Raises attack and crit. rate by 500
+Dagger Skill Lv. 10
+slot_skill_icon_job_4
+Raises attack and crit. rate by 450
+Dagger Skill Lv. 9
+slot_skill_icon_job_4
+Raises attack and crit. rate by 400
+Dagger Skill Lv. 8
+slot_skill_icon_job_4
+Raises attack and crit. rate by 350
+Dagger Skill Lv. 7
+slot_skill_icon_job_4
+Raises attack and crit. rate by 300
+Dagger Skill Lv. 6
+slot_skill_icon_job_4
+Raises attack and crit. rate by 250
+Dagger Skill Lv. 5
+slot_skill_icon_job_4
+Raises attack and crit. rate by 200
+Dagger Skill Lv. 4
+slot_skill_icon_job_4
+Raises attack and crit. rate by 150
+Dagger Skill Lv. 3
+slot_skill_icon_job_4
+Raises attack and crit. rate by 100
+Dagger Skill Lv. 2
+slot_skill_icon_job_4
+Raises attack and crit. rate by 50
+Dagger Skill Lv. 1
+slot_skill_icon_job_4
+Raises attack and crit. rate by 500
+Dagger Skill Lv. 10
+slot_skill_icon_job_4
+Raises attack and crit. rate by 450
+Dagger Skill Lv. 9
+slot_skill_icon_job_4
+Raises attack and crit. rate by 400
+Dagger Skill Lv. 8
+slot_skill_icon_job_4
+Raises attack and crit. rate by 350
+Dagger Skill Lv. 7
+slot_skill_icon_job_4
+Raises attack and crit. rate by 300
+Dagger Skill Lv. 6
+slot_skill_icon_job_4
+Raises attack and crit. rate by 250
+Dagger Skill Lv. 5
+slot_skill_icon_job_4
+Raises attack and crit. rate by 200
+Dagger Skill Lv. 4
+slot_skill_icon_job_4
+Raises attack and crit. rate by 150
+Dagger Skill Lv. 3
+slot_skill_icon_job_4
+Raises attack and crit. rate by 100
+Dagger Skill Lv. 2
+slot_skill_icon_job_4
+Raises attack and crit. rate by 50
+Dagger Skill Lv. 1
+slot_skill_icon_job_4
+Raises attack and crit. rate by 500
+Dagger Skill Lv. 10
+slot_skill_icon_job_4
+Raises attack and crit. rate by 450
+Dagger Skill Lv. 9
+slot_skill_icon_job_4
+Raises attack and crit. rate by 400
+Dagger Skill Lv. 8
+slot_skill_icon_job_4
+Raises attack and crit. rate by 350
+Dagger Skill Lv. 7
+slot_skill_icon_job_4
+Raises attack and crit. rate by 300
+Dagger Skill Lv. 6
+slot_skill_icon_job_4
+Raises attack and crit. rate by 250
+Dagger Skill Lv. 5
+slot_skill_icon_job_4
+Raises attack and crit. rate by 200
+Dagger Skill Lv. 4
+slot_skill_icon_job_4
+Raises attack and crit. rate by 150
+Dagger Skill Lv. 3
+slot_skill_icon_job_4
+Raises attack and crit. rate by 100
+Dagger Skill Lv. 2
+slot_skill_icon_job_4
+Raises attack and crit. rate by 50
+Dagger Skill Lv. 1
+slot_skill_icon_job_3
+Raises attack and crit. rate by 500
+Rapier Skill Lv. 10
+slot_skill_icon_job_3
+Raises attack and crit. rate by 450
+Rapier Skill Lv. 9
+slot_skill_icon_job_3
+Raises attack and crit. rate by 400
+Rapier Skill Lv. 8
+slot_skill_icon_job_3
+Raises attack and crit. rate by 350
+Rapier Skill Lv. 7
+slot_skill_icon_job_3
+Raises attack and crit. rate by 300
+Rapier Skill Lv. 6
+slot_skill_icon_job_3
+Raises attack and crit. rate by 250
+Rapier Skill Lv. 5
+slot_skill_icon_job_3
+Raises attack and crit. rate by 200
+Rapier Skill Lv. 4
+slot_skill_icon_job_3
+Raises attack and crit. rate by 150
+Rapier Skill Lv. 3
+slot_skill_icon_job_3
+Raises attack and crit. rate by 100
+Rapier Skill Lv. 2
+slot_skill_icon_job_3
+Raises attack and crit. rate by 50
+Rapier Skill Lv. 1
+slot_skill_icon_job_3
+Raises attack and crit. rate by 500
+Rapier Skill Lv. 10
+slot_skill_icon_job_3
+Raises attack and crit. rate by 450
+Rapier Skill Lv. 9
+slot_skill_icon_job_3
+Raises attack and crit. rate by 400
+Rapier Skill Lv. 8
+slot_skill_icon_job_3
+Raises attack and crit. rate by 350
+Rapier Skill Lv. 7
+slot_skill_icon_job_3
+Raises attack and crit. rate by 300
+Rapier Skill Lv. 6
+slot_skill_icon_job_3
+Raises attack and crit. rate by 250
+Rapier Skill Lv. 5
+slot_skill_icon_job_3
+Raises attack and crit. rate by 200
+Rapier Skill Lv. 4
+slot_skill_icon_job_3
+Raises attack and crit. rate by 150
+Rapier Skill Lv. 3
+slot_skill_icon_job_3
+Raises attack and crit. rate by 100
+Rapier Skill Lv. 2
+slot_skill_icon_job_3
+Raises attack and crit. rate by 50
+Rapier Skill Lv. 1
+slot_skill_icon_job_3
+Raises attack and crit. rate by 500
+Rapier Skill Lv. 10
+slot_skill_icon_job_3
+Raises attack and crit. rate by 450
+Rapier Skill Lv. 9
+slot_skill_icon_job_3
+Raises attack and crit. rate by 400
+Rapier Skill Lv. 8
+slot_skill_icon_job_3
+Raises attack and crit. rate by 350
+Rapier Skill Lv. 7
+slot_skill_icon_job_3
+Raises attack and crit. rate by 300
+Rapier Skill Lv. 6
+slot_skill_icon_job_3
+Raises attack and crit. rate by 250
+Rapier Skill Lv. 5
+slot_skill_icon_job_3
+Raises attack and crit. rate by 200
+Rapier Skill Lv. 4
+slot_skill_icon_job_3
+Raises attack and crit. rate by 150
+Rapier Skill Lv. 3
+slot_skill_icon_job_3
+Raises attack and crit. rate by 100
+Rapier Skill Lv. 2
+slot_skill_icon_job_3
+Raises attack and crit. rate by 50
+Rapier Skill Lv. 1
+slot_skill_icon_job_3
+Raises attack and crit. rate by 500
+Rapier Skill Lv. 10
+slot_skill_icon_job_3
+Raises attack and crit. rate by 450
+Rapier Skill Lv. 9
+slot_skill_icon_job_3
+Raises attack and crit. rate by 400
+Rapier Skill Lv. 8
+slot_skill_icon_job_3
+Raises attack and crit. rate by 350
+Rapier Skill Lv. 7
+slot_skill_icon_job_3
+Raises attack and crit. rate by 300
+Rapier Skill Lv. 6
+slot_skill_icon_job_3
+Raises attack and crit. rate by 250
+Rapier Skill Lv. 5
+slot_skill_icon_job_3
+Raises attack and crit. rate by 200
+Rapier Skill Lv. 4
+slot_skill_icon_job_3
+Raises attack and crit. rate by 150
+Rapier Skill Lv. 3
+slot_skill_icon_job_3
+Raises attack and crit. rate by 100
+Rapier Skill Lv. 2
+slot_skill_icon_job_3
+Raises attack and crit. rate by 50
+Rapier Skill Lv. 1
+slot_skill_icon_job_3
+Raises attack and crit. rate by 500
+Rapier Skill Lv. 10
+slot_skill_icon_job_3
+Raises attack and crit. rate by 450
+Rapier Skill Lv. 9
+slot_skill_icon_job_3
+Raises attack and crit. rate by 400
+Rapier Skill Lv. 8
+slot_skill_icon_job_3
+Raises attack and crit. rate by 350
+Rapier Skill Lv. 7
+slot_skill_icon_job_3
+Raises attack and crit. rate by 300
+Rapier Skill Lv. 6
+slot_skill_icon_job_3
+Raises attack and crit. rate by 250
+Rapier Skill Lv. 5
+slot_skill_icon_job_3
+Raises attack and crit. rate by 200
+Rapier Skill Lv. 4
+slot_skill_icon_job_3
+Raises attack and crit. rate by 150
+Rapier Skill Lv. 3
+slot_skill_icon_job_3
+Raises attack and crit. rate by 100
+Rapier Skill Lv. 2
+slot_skill_icon_job_3
+Raises attack and crit. rate by 50
+Rapier Skill Lv. 1
+slot_skill_icon_job_3
+Raises attack and crit. rate by 500
+Rapier Skill Lv. 10
+slot_skill_icon_job_3
+Raises attack and crit. rate by 450
+Rapier Skill Lv. 9
+slot_skill_icon_job_3
+Raises attack and crit. rate by 400
+Rapier Skill Lv. 8
+slot_skill_icon_job_3
+Raises attack and crit. rate by 350
+Rapier Skill Lv. 7
+slot_skill_icon_job_3
+Raises attack and crit. rate by 300
+Rapier Skill Lv. 6
+slot_skill_icon_job_3
+Raises attack and crit. rate by 250
+Rapier Skill Lv. 5
+slot_skill_icon_job_3
+Raises attack and crit. rate by 200
+Rapier Skill Lv. 4
+slot_skill_icon_job_3
+Raises attack and crit. rate by 150
+Rapier Skill Lv. 3
+slot_skill_icon_job_3
+Raises attack and crit. rate by 100
+Rapier Skill Lv. 2
+slot_skill_icon_job_3
+Raises attack and crit. rate by 50
+Rapier Skill Lv. 1
+slot_skill_icon_job_3
+Raises attack and crit. rate by 500
+Rapier Skill Lv. 10
+slot_skill_icon_job_3
+Raises attack and crit. rate by 450
+Rapier Skill Lv. 9
+slot_skill_icon_job_3
+Raises attack and crit. rate by 400
+Rapier Skill Lv. 8
+slot_skill_icon_job_3
+Raises attack and crit. rate by 350
+Rapier Skill Lv. 7
+slot_skill_icon_job_3
+Raises attack and crit. rate by 300
+Rapier Skill Lv. 6
+slot_skill_icon_job_3
+Raises attack and crit. rate by 250
+Rapier Skill Lv. 5
+slot_skill_icon_job_3
+Raises attack and crit. rate by 200
+Rapier Skill Lv. 4
+slot_skill_icon_job_3
+Raises attack and crit. rate by 150
+Rapier Skill Lv. 3
+slot_skill_icon_job_3
+Raises attack and crit. rate by 100
+Rapier Skill Lv. 2
+slot_skill_icon_job_3
+Raises attack and crit. rate by 50
+Rapier Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_job_2
+Raises attack and crit. rate by 500
+Dual Wield Skill Lv. 10
+slot_skill_icon_job_2
+Raises attack and crit. rate by 450
+Dual Wield Skill Lv. 9
+slot_skill_icon_job_2
+Raises attack and crit. rate by 400
+Dual Wield Skill Lv. 8
+slot_skill_icon_job_2
+Raises attack and crit. rate by 350
+Dual Wield Skill Lv. 7
+slot_skill_icon_job_2
+Raises attack and crit. rate by 300
+Dual Wield Skill Lv. 6
+slot_skill_icon_job_2
+Raises attack and crit. rate by 250
+Dual Wield Skill Lv. 5
+slot_skill_icon_job_2
+Raises attack and crit. rate by 200
+Dual Wield Skill Lv. 4
+slot_skill_icon_job_2
+Raises attack and crit. rate by 150
+Dual Wield Skill Lv. 3
+slot_skill_icon_job_2
+Raises attack and crit. rate by 100
+Dual Wield Skill Lv. 2
+slot_skill_icon_job_2
+Raises attack and crit. rate by 50
+Dual Wield Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 10%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_job_2
+Raises attack and crit. rate by 500
+Dual Wield Skill Lv. 10
+slot_skill_icon_job_2
+Raises attack and crit. rate by 450
+Dual Wield Skill Lv. 9
+slot_skill_icon_job_2
+Raises attack and crit. rate by 400
+Dual Wield Skill Lv. 8
+slot_skill_icon_job_2
+Raises attack and crit. rate by 350
+Dual Wield Skill Lv. 7
+slot_skill_icon_job_2
+Raises attack and crit. rate by 300
+Dual Wield Skill Lv. 6
+slot_skill_icon_job_2
+Raises attack and crit. rate by 250
+Dual Wield Skill Lv. 5
+slot_skill_icon_job_2
+Raises attack and crit. rate by 200
+Dual Wield Skill Lv. 4
+slot_skill_icon_job_2
+Raises attack and crit. rate by 150
+Dual Wield Skill Lv. 3
+slot_skill_icon_job_2
+Raises attack and crit. rate by 100
+Dual Wield Skill Lv. 2
+slot_skill_icon_job_2
+Raises attack and crit. rate by 50
+Dual Wield Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_job_2
+Raises attack and crit. rate by 500
+Dual Wield Skill Lv. 10
+slot_skill_icon_job_2
+Raises attack and crit. rate by 450
+Dual Wield Skill Lv. 9
+slot_skill_icon_job_2
+Raises attack and crit. rate by 400
+Dual Wield Skill Lv. 8
+slot_skill_icon_job_2
+Raises attack and crit. rate by 350
+Dual Wield Skill Lv. 7
+slot_skill_icon_job_2
+Raises attack and crit. rate by 300
+Dual Wield Skill Lv. 6
+slot_skill_icon_job_2
+Raises attack and crit. rate by 250
+Dual Wield Skill Lv. 5
+slot_skill_icon_job_2
+Raises attack and crit. rate by 200
+Dual Wield Skill Lv. 4
+slot_skill_icon_job_2
+Raises attack and crit. rate by 150
+Dual Wield Skill Lv. 3
+slot_skill_icon_job_2
+Raises attack and crit. rate by 100
+Dual Wield Skill Lv. 2
+slot_skill_icon_job_2
+Raises attack and crit. rate by 50
+Dual Wield Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 1. Increases attack by 18%
+Battle Skill 1 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 1. Increases attack by 12%
+Battle Skill 1 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_job_2
+Raises attack and crit. rate by 500
+Dual Wield Skill Lv. 10
+slot_skill_icon_job_2
+Raises attack and crit. rate by 450
+Dual Wield Skill Lv. 9
+slot_skill_icon_job_2
+Raises attack and crit. rate by 400
+Dual Wield Skill Lv. 8
+slot_skill_icon_job_2
+Raises attack and crit. rate by 350
+Dual Wield Skill Lv. 7
+slot_skill_icon_job_2
+Raises attack and crit. rate by 300
+Dual Wield Skill Lv. 6
+slot_skill_icon_job_2
+Raises attack and crit. rate by 250
+Dual Wield Skill Lv. 5
+slot_skill_icon_job_2
+Raises attack and crit. rate by 200
+Dual Wield Skill Lv. 4
+slot_skill_icon_job_2
+Raises attack and crit. rate by 150
+Dual Wield Skill Lv. 3
+slot_skill_icon_job_2
+Raises attack and crit. rate by 100
+Dual Wield Skill Lv. 2
+slot_skill_icon_job_2
+Raises attack and crit. rate by 50
+Dual Wield Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 18%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 12%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_job_2
+Raises attack and crit. rate by 500
+Dual Wield Skill Lv. 10
+slot_skill_icon_job_2
+Raises attack and crit. rate by 450
+Dual Wield Skill Lv. 9
+slot_skill_icon_job_2
+Raises attack and crit. rate by 400
+Dual Wield Skill Lv. 8
+slot_skill_icon_job_2
+Raises attack and crit. rate by 350
+Dual Wield Skill Lv. 7
+slot_skill_icon_job_2
+Raises attack and crit. rate by 300
+Dual Wield Skill Lv. 6
+slot_skill_icon_job_2
+Raises attack and crit. rate by 250
+Dual Wield Skill Lv. 5
+slot_skill_icon_job_2
+Raises attack and crit. rate by 200
+Dual Wield Skill Lv. 4
+slot_skill_icon_job_2
+Raises attack and crit. rate by 150
+Dual Wield Skill Lv. 3
+slot_skill_icon_job_2
+Raises attack and crit. rate by 100
+Dual Wield Skill Lv. 2
+slot_skill_icon_job_2
+Raises attack and crit. rate by 50
+Dual Wield Skill Lv. 1
+slot_skill_icon_job_1
+Raises attack and crit. rate by 500
+Sword Skill Lv. 10
+slot_skill_icon_job_1
+Raises attack and crit. rate by 450
+Sword Skill Lv. 9
+slot_skill_icon_job_1
+Raises attack and crit. rate by 400
+Sword Skill Lv. 8
+slot_skill_icon_job_1
+Raises attack and crit. rate by 350
+Sword Skill Lv. 7
+slot_skill_icon_job_1
+Raises attack and crit. rate by 300
+Sword Skill Lv. 6
+slot_skill_icon_job_1
+Raises attack and crit. rate by 250
+Sword Skill Lv. 5
+slot_skill_icon_job_1
+Raises attack and crit. rate by 200
+Sword Skill Lv. 4
+slot_skill_icon_job_1
+Raises attack and crit. rate by 150
+Sword Skill Lv. 3
+slot_skill_icon_job_1
+Raises attack and crit. rate by 100
+Sword Skill Lv. 2
+slot_skill_icon_job_1
+Raises attack and crit. rate by 50
+Sword Skill Lv. 1
+slot_skill_icon_job_1
+Raises attack and crit. rate by 500
+Sword Skill Lv. 10
+slot_skill_icon_job_1
+Raises attack and crit. rate by 450
+Sword Skill Lv. 9
+slot_skill_icon_job_1
+Raises attack and crit. rate by 400
+Sword Skill Lv. 8
+slot_skill_icon_job_1
+Raises attack and crit. rate by 350
+Sword Skill Lv. 7
+slot_skill_icon_job_1
+Raises attack and crit. rate by 300
+Sword Skill Lv. 6
+slot_skill_icon_job_1
+Raises attack and crit. rate by 250
+Sword Skill Lv. 5
+slot_skill_icon_job_1
+Raises attack and crit. rate by 200
+Sword Skill Lv. 4
+slot_skill_icon_job_1
+Raises attack and crit. rate by 150
+Sword Skill Lv. 3
+slot_skill_icon_job_1
+Raises attack and crit. rate by 100
+Sword Skill Lv. 2
+slot_skill_icon_job_1
+Raises attack and crit. rate by 50
+Sword Skill Lv. 1
+slot_skill_icon_job_1
+Raises attack and crit. rate by 500
+Sword Skill Lv. 10
+slot_skill_icon_job_1
+Raises attack and crit. rate by 450
+Sword Skill Lv. 9
+slot_skill_icon_job_1
+Raises attack and crit. rate by 400
+Sword Skill Lv. 8
+slot_skill_icon_job_1
+Raises attack and crit. rate by 350
+Sword Skill Lv. 7
+slot_skill_icon_job_1
+Raises attack and crit. rate by 300
+Sword Skill Lv. 6
+slot_skill_icon_job_1
+Raises attack and crit. rate by 250
+Sword Skill Lv. 5
+slot_skill_icon_job_1
+Raises attack and crit. rate by 200
+Sword Skill Lv. 4
+slot_skill_icon_job_1
+Raises attack and crit. rate by 150
+Sword Skill Lv. 3
+slot_skill_icon_job_1
+Raises attack and crit. rate by 100
+Sword Skill Lv. 2
+slot_skill_icon_job_1
+Raises attack and crit. rate by 50
+Sword Skill Lv. 1
+slot_skill_icon_job_1
+Raises attack and crit. rate by 500
+Sword Skill Lv. 10
+slot_skill_icon_job_1
+Raises attack and crit. rate by 450
+Sword Skill Lv. 9
+slot_skill_icon_job_1
+Raises attack and crit. rate by 400
+Sword Skill Lv. 8
+slot_skill_icon_job_1
+Raises attack and crit. rate by 350
+Sword Skill Lv. 7
+slot_skill_icon_job_1
+Raises attack and crit. rate by 300
+Sword Skill Lv. 6
+slot_skill_icon_job_1
+Raises attack and crit. rate by 250
+Sword Skill Lv. 5
+slot_skill_icon_job_1
+Raises attack and crit. rate by 200
+Sword Skill Lv. 4
+slot_skill_icon_job_1
+Raises attack and crit. rate by 150
+Sword Skill Lv. 3
+slot_skill_icon_job_1
+Raises attack and crit. rate by 100
+Sword Skill Lv. 2
+slot_skill_icon_job_1
+Raises attack and crit. rate by 50
+Sword Skill Lv. 1
+slot_skill_icon_job_1
+Raises attack and crit. rate by 500
+Sword Skill Lv. 10
+slot_skill_icon_job_1
+Raises attack and crit. rate by 450
+Sword Skill Lv. 9
+slot_skill_icon_job_1
+Raises attack and crit. rate by 400
+Sword Skill Lv. 8
+slot_skill_icon_job_1
+Raises attack and crit. rate by 350
+Sword Skill Lv. 7
+slot_skill_icon_job_1
+Raises attack and crit. rate by 300
+Sword Skill Lv. 6
+slot_skill_icon_job_1
+Raises attack and crit. rate by 250
+Sword Skill Lv. 5
+slot_skill_icon_job_1
+Raises attack and crit. rate by 200
+Sword Skill Lv. 4
+slot_skill_icon_job_1
+Raises attack and crit. rate by 150
+Sword Skill Lv. 3
+slot_skill_icon_job_1
+Raises attack and crit. rate by 100
+Sword Skill Lv. 2
+slot_skill_icon_job_1
+Raises attack and crit. rate by 50
+Sword Skill Lv. 1
+slot_skill_icon_job_1
+Raises attack and crit. rate by 500
+Sword Skill Lv. 10
+slot_skill_icon_job_1
+Raises attack and crit. rate by 450
+Sword Skill Lv. 9
+slot_skill_icon_job_1
+Raises attack and crit. rate by 400
+Sword Skill Lv. 8
+slot_skill_icon_job_1
+Raises attack and crit. rate by 350
+Sword Skill Lv. 7
+slot_skill_icon_job_1
+Raises attack and crit. rate by 300
+Sword Skill Lv. 6
+slot_skill_icon_job_1
+Raises attack and crit. rate by 250
+Sword Skill Lv. 5
+slot_skill_icon_job_1
+Raises attack and crit. rate by 200
+Sword Skill Lv. 4
+slot_skill_icon_job_1
+Raises attack and crit. rate by 150
+Sword Skill Lv. 3
+slot_skill_icon_job_1
+Raises attack and crit. rate by 100
+Sword Skill Lv. 2
+slot_skill_icon_job_1
+Raises attack and crit. rate by 50
+Sword Skill Lv. 1
+slot_skill_icon_job_1
+Raises attack and crit. rate by 500
+Sword Skill Lv. 10
+slot_skill_icon_job_1
+Raises attack and crit. rate by 450
+Sword Skill Lv. 9
+slot_skill_icon_job_1
+Raises attack and crit. rate by 400
+Sword Skill Lv. 8
+slot_skill_icon_job_1
+Raises attack and crit. rate by 350
+Sword Skill Lv. 7
+slot_skill_icon_job_1
+Raises attack and crit. rate by 300
+Sword Skill Lv. 6
+slot_skill_icon_job_1
+Raises attack and crit. rate by 250
+Sword Skill Lv. 5
+slot_skill_icon_job_1
+Raises attack and crit. rate by 200
+Sword Skill Lv. 4
+slot_skill_icon_job_1
+Raises attack and crit. rate by 150
+Sword Skill Lv. 3
+slot_skill_icon_job_1
+Raises attack and crit. rate by 100
+Sword Skill Lv. 2
+slot_skill_icon_job_1
+Raises attack and crit. rate by 50
+Sword Skill Lv. 1

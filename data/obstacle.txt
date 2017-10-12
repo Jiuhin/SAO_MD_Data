@@ -1,0 +1,3 @@
+obstacle_gate_02
+obstacle_gate_01
+obstacle_treasurebox_01

@@ -1,0 +1,16 @@
+Enter
+Enter the Weapon Shop
+Enter
+Upgrade equipment at the blacksmith
+Enter
+Enter the Diamond Shop
+Depart
+Depart for the training grounds
+Enter
+View party members at the base
+Enter
+Obtain ally info from the info broker
+View
+View the Quest Board
+Depart
+Go on a quest

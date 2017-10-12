@@ -1,0 +1,10 @@
+quest_area_position.csb
+Event
+quest_area_position.csb
+Tutorial
+quest_area_position.csb
+Gun Gale Online
+quest_area_position.csb
+Alfheim Online
+quest_area_position.csb
+Sword Art Online
