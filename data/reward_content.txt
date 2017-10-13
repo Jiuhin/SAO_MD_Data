@@ -5515,6 +5515,16 @@ Bat Earring R3
 Bat Earring R2
 Pumpkin Dress R3
 Pumpkin Dress R2
+Halloween Upgrade Crystal x1
+Colored Leaf  Gold Medal x1
+Colored Leaf  Silver Medal x5
+Colored Leaf  Silver Medal x3
+Colored Leaf  Silver Medal x2
+Colored Leaf  Silver Medal x1
+Colored Leaf Bronze Medal x5
+Colored Leaf Bronze Medal x3
+Colored Leaf Bronze Medal x2
+Colored Leaf Bronze Medal x1
 Golden Blade R3
 Golden Blade R2
 Silvery Blue Blade R3
