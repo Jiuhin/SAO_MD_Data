@@ -169,129 +169,8 @@ bg_09_dungeon_boss
 500100301_1_a
 bg_09_dungeon_boss
 500100201_1_a
-Come on, Yui...
-Asuna
-406700301_33_a
-Ahaha, she's so adorable
-But the poor thing doesn't stand
-a chance...
-Audience
-406700301_32_a
-Hang in there, Yui
-Announcer
-406700301_31_a
-She's running like the wind, but
-even so, the other contestants
-are inching ahead
-Announcer
-406700301_30_a
-That's Yui, from the red team
-Announcer
-406700301_29_a
-You're right
-There is
-definitely a tiny little avatar
-among the contestants
-Announcer
-406700301_28_a
-406700301_27_a
-Hey, hold on
-Over there
-Is that a little kid
-Audience
-406700301_26_a
-Come on, Yui...
-Asuna
-406700301_25_a
-Aaand they're off
-Who will reach
-the bread first
-Announcer
-406700301_24_a
-On your mark, get set... Go
-Judge
-406700301_23_a
-The other half is eating it
-I can do this...
-406700301_22_a
-Alright... It's like Mommy said.
-Running to the bread is only
-half the battle
-406700301_21_a
-O-Okay
-406700301_20_a
-Participants, take your places
-Judge
-406700301_19_a
-Asuna
-406700301_18_a
-R-Right
-Thanks, Mommy
-406700301_17_a
-So even if you aren't as fast as
-the others, you can still win
-Asuna
-406700301_16_a
-Good luck, Yui
-Remember, this
-contest is all about how fast
-you can eat the bread.
-Asuna
-406700301_15_a
-Oh, that's me
-I should get going.
-406700301_14_a
-Now on to the eating contest
-participants, please assemble
-in the middle of the track
-Announcer
-406700301_13_a
-Hmm, what's this...
-Asuna
-406700301_12_a
-I know...
-406700301_11_a
-...but you're just a child.
-Asuna
-406700301_10_a
-Well, that's to be expected.
-Player avatars are all based on
-grown-up bodies...
-Asuna
-406700301_9_a
-I can participate in events like
-this. However, my physical
-abilities were set relatively low.
-406700301_8_a
-Besides, I'm the one who should
-be worried... Ever since I gained
-the ability to fight,
-406700301_7_a
-Yeah, you're right.
-Asuna
-406700301_6_a
-Besides, the sports meet just
-started
-There are plenty more
-games to win
-406700301_5_a
-Yeah, I had rotten luck having to
-race against Kirito and Yuuki.
-Asuna
-406700301_4_a
-Don't apologize
-Third place is
-amazing considering who you
-were up against
-406700301_3_a
-Yui... Sorry, I came in third...
-Asuna
-406700301_2_a
 bg_09_dungeon_boss
 500100101_1_a
-bg_event_grounds
-Good job, Mommy
-406700301_1_a
 ...will give you a chance. 
 A chance to have a one-on-one
 battle with me.
@@ -1452,6 +1331,127 @@ Yui has finally
 reached the bread... But wait
 Announcer
 406700401_1_a
+Come on, Yui...
+Asuna
+406700301_33_a
+Ahaha, she's so adorable
+But the poor thing doesn't stand
+a chance...
+Audience
+406700301_32_a
+Hang in there, Yui
+Announcer
+406700301_31_a
+She's running like the wind, but
+even so, the other contestants
+are inching ahead
+Announcer
+406700301_30_a
+That's Yui, from the red team
+Announcer
+406700301_29_a
+You're right
+There is
+definitely a tiny little avatar
+among the contestants
+Announcer
+406700301_28_a
+406700301_27_a
+Hey, hold on
+Over there
+Is that a little kid
+Audience
+406700301_26_a
+Come on, Yui...
+Asuna
+406700301_25_a
+Aaand they're off
+Who will reach
+the bread first
+Announcer
+406700301_24_a
+On your mark, get set... Go
+Judge
+406700301_23_a
+The other half is eating it
+I can do this...
+406700301_22_a
+Alright... It's like Mommy said.
+Running to the bread is only
+half the battle
+406700301_21_a
+O-Okay
+406700301_20_a
+Participants, take your places
+Judge
+406700301_19_a
+Asuna
+406700301_18_a
+R-Right
+Thanks, Mommy
+406700301_17_a
+So even if you aren't as fast as
+the others, you can still win
+Asuna
+406700301_16_a
+Good luck, Yui
+Remember, this
+contest is all about how fast
+you can eat the bread.
+Asuna
+406700301_15_a
+Oh, that's me
+I should get going.
+406700301_14_a
+Now on to the eating contest
+participants, please assemble
+in the middle of the track
+Announcer
+406700301_13_a
+Hmm, what's this...
+Asuna
+406700301_12_a
+I know...
+406700301_11_a
+...but you're just a child.
+Asuna
+406700301_10_a
+Well, that's to be expected.
+Player avatars are all based on
+grown-up bodies...
+Asuna
+406700301_9_a
+I can participate in events like
+this. However, my physical
+abilities were set relatively low.
+406700301_8_a
+Besides, I'm the one who should
+be worried... Ever since I gained
+the ability to fight,
+406700301_7_a
+Yeah, you're right.
+Asuna
+406700301_6_a
+Besides, the sports meet just
+started
+There are plenty more
+games to win
+406700301_5_a
+Yeah, I had rotten luck having to
+race against Kirito and Yuuki.
+Asuna
+406700301_4_a
+Don't apologize
+Third place is
+amazing considering who you
+were up against
+406700301_3_a
+Yui... Sorry, I came in third...
+Asuna
+406700301_2_a
+bg_event_grounds
+Good job, Mommy
+406700301_1_a
 Ugh, your optimism here is not
 helping...
 Asuna
@@ -52003,7 +52003,7 @@ enjoy it
 Y'know
 Kirito
 400801201_14_a
-N-No, I'm not scared, it's just
+N-No, I'm not scared, it's just-
 Kirito
 400801201_13_a
 Hehehe, aww, are you scared
@@ -52114,9 +52114,7 @@ Sinon
 Yeah...remember when this was just
 a candy collection quest
 400801101_9_a
-And now
-finally
-the Halloween
+And now-finally-the Halloween
 event is over.
 Leafa
 400801101_8_a
@@ -52244,7 +52242,8 @@ Kirito
 Grrr
 Kobold
 400801001_19_a
-Asuna
+Wha-
+Asuna(
 400801001_18_a
 Nah, we should wait. The more the
 merrier, right
@@ -52255,7 +52254,7 @@ Kirito
 B-But Kirito
 What happened to 
 just us
-Asuna
+Asuna(
 400801001_16_a
 There. I just sent a message to
 everyone. They'll be here any
@@ -52265,7 +52264,7 @@ Kirito
 Well, I was thinking maybe we...
 That it'd be nice to go
 together. Just the two of us.
-Asuna
+Asuna(
 400801001_14_a
 Okay. Give me a sec to tell the
 others.
@@ -52273,26 +52272,26 @@ Kirito
 400801001_13_a
 Let's get out of town and see if
 he turns up.
-Asuna
+Asuna(
 400801001_12_a
 Yeah, I'm starting to think that
 myself.
 Kirito
 400801001_11_a
 Maybe he's not in town anymore.
-Asuna
+Asuna(
 400801001_10_a
 Huh. Hey, maybe...
-Asuna
+Asuna(
 400801001_9_a
 Hey, Asuna. No, not yet.
 Kirito
 400801001_8_a
 Kirito
 Have you found him
-Asuna
+Asuna(
 400801001_7_a
-Well, uh, I
+Well, uh, I-
 Kirito
 400801001_6_a
 What do you mean, Daddy
@@ -52537,7 +52536,7 @@ That's the Kobold we're after
 Leafa
 400800701_29_a
 Wait, where'd you get that broom
-Is that
+Is that-
 Kirito
 400800701_28_a
 But now she's running toward
@@ -52552,8 +52551,7 @@ Get back here
 Leafa
 400800701_24_a
 400800701_23_a
-I don't
-I can't
+I don't-I can't-
 What just happened
 Kirito
 400800701_22_a
@@ -52563,7 +52561,7 @@ Hmph. So, then.
 She's a 
 friend
 of yours
-Leafa
+Leafa(
 400800701_20_a
 Um... Leafa
 400800701_19_a
@@ -52579,14 +52577,14 @@ Kirito
 400800701_17_a
 If you help me, I'll make it worth
 your while...
-Leafa
+Leafa(
 400800701_16_a
 What the hell...
 Kirito
 400800701_15_a
 Hey, you over there
 Please help me
-Leafa
+Leafa(
 400800701_14_a
 Kirito
 400800701_13_a
@@ -52635,6 +52633,7 @@ Don't make me.
 Now, are you gonna tell us what's
 Asuna
 400800601_31_a
+Wha-
 I mean, let's not do anything
 crazy
 Kirito
@@ -52671,15 +52670,14 @@ Not a word
 I told you
 Kirito
 400800601_23_a
-Actually, Leafa is
+Actually, Leafa is-
 400800601_22_a
 Wasn't she with you, Kirito
 400800601_21_a
 What happened to Leafa
 Silica
 400800601_20_a
-Okay, that's everyo
-wait...
+Okay, that's everyo-wait...
 Sinon
 400800601_19_a
 Sinon
@@ -52701,7 +52699,7 @@ But you should be more careful
 400800601_14_a
 Hey, hey, WHOA
 No, Yui
-Don't
+Don't-
 Kirito
 400800601_13_a
 I-I'm sorry, Daddy.
@@ -52945,7 +52943,7 @@ The culprit appears to be one of
 the witch's Kobold minions.
 Sinon
 400800301_13_a
-and there's always a but
+But-and there's always a but-the
 broom alone disappeared before
 we noticed.
 Sinon
@@ -53354,8 +53352,7 @@ have you
 What the hell is that thing
 Kirito
 400701001_14_a
-What's the matter, Yuu
-whoa
+What's the matter, Yuu-whoa
 Silica
 400701001_13_a
 Yuuki
@@ -53408,8 +53405,7 @@ Kirito
 Yeah
 Silica
 400700901_19_a
-Look at it this way
-we can see
+Look at it this way-we can see
 the light at the end of the
 tunnel
 We're so close
@@ -54434,8 +54430,7 @@ a little bit better.
 Asuna
 400601001_18_a
 Yeah, we should just be able to
-play normally this time
-no crazy
+play normally this time-no crazy
 strategies required.
 Alicia
 400601001_17_a
@@ -54495,7 +54490,7 @@ We've gotta defeat the Guardians
 inside the World Tree.
 Alicia
 400601001_4_a
-Which means the next objective is
+Which means the next objective is-
 Kirito
 400601001_3_a
 Kirito
@@ -54559,7 +54554,7 @@ for fun.
 Asuna
 400600901_11_a
 Are you sure you're okay
-We don't have to keep going if
+We don't have to keep going if-
 Kirito
 400600901_10_a
 Kirito...
@@ -55011,7 +55006,7 @@ Kirito
 I'm sorry, were we talking to
 a different Kirito
 We told you,
-there's a little wing
+there's a little wing-
 Leafa
 400600401_8_a
 Hang on a second. How do they
@@ -55559,8 +55554,7 @@ the wind kicked up is blocking out
 the sun
 Asuna
 400500801_16_a
-Er... I would, but
-are you telling
+Er... I would, but-are you telling
 me we can't fly here either
 Yuuki
 400500801_15_a
@@ -55577,7 +55571,7 @@ operate. They'd rather steal than
 fight
 Kirito
 400500801_12_a
-What the
+What the-
 They're getting away
 Silica
 400500801_11_a
@@ -55629,9 +55623,7 @@ Guys, look over there
 We found the goblins
 Yuuki
 400500701_20_a
-She didn't
-er, I didn't
-wait,
+She didn't-er, I didn't-wait,
 were you not paying attention
 just now
 Kirito
@@ -55695,6 +55687,7 @@ Leafa
 Leafa
 400500701_2_a
 bg_event_desert_sandstorm
+Wha-
 Ahhhhhhh
 Silica
 400500701_1_a
@@ -55783,8 +55776,7 @@ thieves, so it's not as simple as
 finding their settlement.
 Asuna
 400500501_15_a
-Alright then
-time to go
+Alright then-time to go
 goblin hunting
 Kirito
 400500501_14_a
@@ -55818,8 +55810,7 @@ Jewel of Serenity that got stolen
 by a gang of thieving monsters.
 Kirito
 400500501_7_a
-And get this
-the wind tribe
+And get this-the wind tribe
 helped the settlers create the
 fog-clearing Jewel of Serenity.
 Leafa
@@ -55872,7 +55863,7 @@ There's a fairy village over
 there
 Yuuki
 400500401_11_a
-Yeah, like what if
+Yeah, like what if-
 Leafa
 400500401_10_a
 You think there's more to it
@@ -55926,8 +55917,7 @@ Care to put that a little
 more delicately
 Geez.
 400500301_21_a
-I mean, let's face it
-it's not
+I mean, let's face it-it's not
 like you spent two years in SAO
 because you were addicted to it.
 Kirito
@@ -55998,7 +55988,7 @@ What's BEEN up with you, Leafa
 It feels like you've been watching
 our every move this whole time.
 400500301_5_a
-Oh, um
+Oh, um-
 Leafa
 400500301_4_a
 What's up, Leafa
@@ -56094,8 +56084,7 @@ Got it.
 Kirito
 400500101_25_a
 Hm, I see. Well, if you hear
-anything at all
-even rumors
+anything at all-even rumors-let
 me know right away.
 Sakuya
 400500101_24_a
@@ -65928,7 +65917,7 @@ bg_event_fire_cave
 1640061_2_a
 bg_18_tower_road
 1640061_1_a
-you're right
+Oh-you're right
 Hehehe.
 Leafa
 1640058_19_a
@@ -66002,7 +65991,7 @@ before Halloween
 Leafa
 1640058_3_a
 Leafa
-Don't tell me
+Don't tell me-
 Silica
 1640058_2_a
 bg_18_tower_road
@@ -66134,8 +66123,7 @@ Leafa
 1640057_2_a
 bg_17_restaurant_night
 Okay, here's your totally tailored
-eating plan, Le
-I mean, Suguha
+eating plan, Le-I mean, Suguha
 Silica
 1640057_1_a
 Sure
@@ -66386,7 +66374,7 @@ bg_18_inn_restaurant_morning
 sigh
 Leafa
 1640053_1_a
-hahahaha
+Ha-hahahaha
 Of course not...
 Hahaha...
 Suguha
@@ -66394,6 +66382,7 @@ Suguha
 You...gained weight, didn't you
 Kazuto
 1640051_20_a
+Geh-
 Suguha
 1640051_19_a
 I get it now.
@@ -66588,7 +66577,7 @@ I was some spoiled little brat
 Leafa
 1640047_18_a
 Yeah, you're right...
-wait a minute
+Hey-wait a minute
 Leafa
 1640047_17_a
 I mean, it was like this when we
@@ -66638,8 +66627,7 @@ Kirito
 1640047_6_a
 Well, yeah
 I just want to see you
-flailing
-I mean, flying around
+flailing-I mean, flying around
 a few more times
 Leafa
 1640047_5_a
@@ -66882,10 +66870,8 @@ Kirito
 bg_18_inn_restaurant_morning
 Okay, get this
 You can create
-atmospheric waves
-like, really
-strong winds
-using the Jewel,
+atmospheric waves-like, really
+strong winds-using the Jewel,
 Leafa
 1640043_1_a
 Just spit it out already
@@ -85248,8 +85234,7 @@ by spreading lies and rumors.
 Kirito
 1040053_10_a
 which would make it easy to
-price gouge
-or to buy up the
+price gouge-or to buy up the
 supply and hoard it,
 Kirito
 1040053_9_a
@@ -85977,7 +85962,7 @@ Shhh
 Kirito
 1040037_8_a
 Nah, man, we actually weren't
-thinking that at all
+thinking that at all-
 Klein
 1040037_7_a
 I imagine you must want me to
@@ -86264,6 +86249,7 @@ Sure, she snaps out of it when
 YOU call her name...
 Klein
 1040031_11_a
+Wha-
 Oh, uh, hi Kirito...
 Hi Klein. Welcome, welcome.
 1040031_10_a
@@ -98479,7 +98465,7 @@ pursue me all this way...
 Asuna
 840067_4_a
 W-Wait, don't go over there
-That's
+That's-
 Leafa
 840067_3_a
 Alright, let's go
@@ -98515,6 +98501,7 @@ stealing candy for this little girl
 Silica
 840065_12_a
 Yeah, it's a cute play on words,
+but-
 Asuna
 840065_11_a
 Asuna, Leafa...
@@ -99100,7 +99087,7 @@ Salamander
 You'll pay for that
 Salamander
 840045_20_a
-What the
+What the-
 What is this
 A bubble attack
 That little pipsqueak
@@ -99158,6 +99145,7 @@ was wait here for you
 to head back to town.
 Salamander
 840045_6_a
+Wha-
 Silica
 840045_5_a
 yawn
@@ -112511,6 +112499,7 @@ she gets when other players are
 watching her, huh
 Yuuki
 640033_19_a
+Wha-
 W-Well, I...
 Asuna
 640033_18_a
@@ -117809,7 +117798,7 @@ out the item I want as a reward.
 You in
 Klein
 340031_12_a
-That's not really part of it
+That's not really part of it-
 Kirito
 340031_11_a
 Yeah, otherwise it'd mess up your
@@ -117830,7 +117819,7 @@ your own, am I right
 Klein
 340031_7_a
 It being Halloween and all, there
-are lots of costumes
+are lots of costumes-uh,
 equipment coming out too
 Kirito
 340031_6_a
@@ -132685,8 +132674,7 @@ that allows players who aren't
 Imps to fly in the dark. A cloak.
 Yuuki
 240051_28_a
-There
-what
+There-what
 Kirito
 240051_27_a
 Oh, there is.

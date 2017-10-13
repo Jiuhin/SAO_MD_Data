@@ -20,6 +20,7 @@ bullet_900002_impact_point
 bullet_900002_impact_point
 wait
 bullet_900001_drain
+bullet_7049_bandage_2
 wait
 dead
 appear
@@ -1782,6 +1783,8 @@ dead
 bullet_1099_dummy
 wait
 bullet_1098_pushback_breath_reverse
+dead
+bullet_1092_all_ignite
 wait
 bullet_1091_mummy_hummer
 bullet_1090_hermit_change
@@ -2130,6 +2133,14 @@ dead
 bullet_1016_nicholas_shock
 wait
 bullet_1015_pick
+wait
+ground
+dead
+bullet_1014_phantom_bullet
+wait
+ground
+dead
+bullet_1014_phantom_bullet
 wait
 ground
 dead

@@ -7185,7 +7185,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8005
 Quest 14
-Kobold Trickster (EX
+Kobold Trickster (Master
 You've finally cornered this mischievous
 kobold, but now it's used the broom's
 power to transform into Leafa and attack
@@ -7195,7 +7195,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8005
 Quest 13
-Kobold Trickster (EX)
+Kobold Trickster (Master)
 You've finally cornered this mischievous
 kobold, but now it's used the broom's
 power to transform into Leafa and attack
@@ -15949,7 +15949,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8005
 Quest 14
-Kobold Trickster (EX
+Kobold Trickster (Master
 You've finally cornered this mischievous
 kobold, but now it's used the broom's
 power to transform into Leafa and attack
@@ -15959,7 +15959,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8005
 Quest 13
-Kobold Trickster (EX)
+Kobold Trickster (Master)
 You've finally cornered this mischievous
 kobold, but now it's used the broom's
 power to transform into Leafa and attack

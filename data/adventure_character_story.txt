@@ -1,3 +1,13 @@
+Character Story
+[Looking Back Beauty] Sinon Lv.80
+Character Story
+[Looking Back Beauty] Sinon Lv.70
+Character Story
+[Looking Back Beauty] Sinon Lv.50
+Character Story
+[Looking Back Beauty] Sinon Lv.30
+Character Story
+[Looking Back Beauty] Sinon Lv.10
 Lv.80
 Lv.70
 Lv.50
@@ -123,6 +133,16 @@ Character Story
 [Dragon Caster] Silica Lv.30
 Character Story
 [Dragon Caster] Silica Lv.10
+Character Story
+[Rejoicing Witch] Leafa Lv.80
+Character Story
+[Rejoicing Witch] Leafa Lv.70
+Character Story
+[Rejoicing Witch] Leafa Lv.50
+Character Story
+[Rejoicing Witch] Leafa Lv.30
+Character Story
+[Rejoicing Witch] Leafa Lv.10
 Character Story
 [Undine Healer] Asuna Lv.80
 Character Story
@@ -493,6 +513,16 @@ Character Story
 [Brawny Axeman] Agil Lv.30
 Character Story
 [Brawny Axeman] Agil Lv.10
+Character Story
+[Autumn Leaf Bath Beauty] Silica Lv.80
+Character Story
+[Autumn Leaf Bath Beauty] Silica Lv.70
+Character Story
+[Autumn Leaf Bath Beauty] Silica Lv.50
+Character Story
+[Autumn Leaf Bath Beauty] Silica Lv.30
+Character Story
+[Autumn Leaf Bath Beauty] Silica Lv.10
 Lv.80
 Lv.70
 Lv.50
@@ -708,6 +738,16 @@ Character Story
 [Dragon Tamer] Silica Lv.30
 Character Story
 [Dragon Tamer] Silica Lv.10
+Character Story
+[The Glossy Goddess] Asuna Lv.80
+Character Story
+[The Glossy Goddess] Asuna Lv.70
+Character Story
+[The Glossy Goddess] Asuna Lv.50
+Character Story
+[The Glossy Goddess] Asuna Lv.30
+Character Story
+[The Glossy Goddess] Asuna Lv.10
 Lv.80
 Lv.70
 Lv.50
@@ -1013,6 +1053,16 @@ Character Story
 [Black Swordsman] Kirito Lv.30
 Character Story
 [Black Swordsman] Kirito Lv.10
+Character Story
+[Beauty in Secluded Hot Springs] Leafa Lv.80
+Character Story
+[Beauty in Secluded Hot Springs] Leafa Lv.70
+Character Story
+[Beauty in Secluded Hot Springs] Leafa Lv.50
+Character Story
+[Beauty in Secluded Hot Springs] Leafa Lv.30
+Character Story
+[Beauty in Secluded Hot Springs] Leafa Lv.10
 Lv.80
 Lv.70
 Lv.50

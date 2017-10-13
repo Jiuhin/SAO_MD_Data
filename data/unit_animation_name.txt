@@ -656,7 +656,7 @@ walk
 wait
 parry
 damage
-gesture_3
+disappear
 gesture_2
 gesture_1
 levelup

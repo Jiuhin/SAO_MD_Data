@@ -1894,11 +1894,10 @@ Complete
 Flying Broomstick
 4008012
 Complete 
-Beware the Kobold Trickster
-(EX)
+Kobold Trickster (EX)
 4008008
 Complete 
-Beware the Kobold Trickster
+Kobold Trickster
 4006010
 Complete 
 A New Me

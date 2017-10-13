@@ -37,6 +37,18 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+Peaceful Coexistence Hot Spring
+Reconciliation with Monkeys
+Conversation with Monkeys
+Silica's Secret Plan
+Monkey Control
+Attack
+Hidden Hotsprings
+In Search of Hotsprings
+Monkey Tribe
+Planned Site 
+Lack of Charm
+City Development
 The Mother-Daughter Bond
 Reason of the Speed
 Surprise
@@ -292,7 +304,7 @@ Race Settings
 Wings
 SA:O
 White Knight Jacket R4
-Moon Blazer R4
+Silverthread Armor R4
 Col Boost (2x) x1
 EXP Boost (2x) x1
 Exchange Sword R2
@@ -444,7 +456,7 @@ A Great Fisher
 Shimmering Secret
 Golden Apple
 What the Frost Giants Seek
-Supersonic Witch
+The Witch on the Fastest Broomstick
 Beware the Kobold Trickster
 Best Trick of the Night
 Sweet-Toothed Witch
@@ -491,6 +503,13 @@ Water Medallion x15
 Fire Medallion x15
 Void Medallion x30
 Rainbow Essence x2
+Halloween Upgrade Crystal x1
+Colored Leaf  Gold Medal x2
+Colored Leaf  Gold Medal x1
+Legendary
+Secluded Hot Springs
+Peaceful Coexistence
+Hot Spring
 Halloween Silver Medal x1
 Halloween Bronze Medal x1
 Glorious Victory
@@ -563,6 +582,16 @@ Summer Ticket x20
 Summer Ticket x15
 Summer Ticket x10
 SD Gold Medal x1
+Steamy Beauty Bath Time Record Crystal x10
+Steamy Beauty Bath Time Record Crystal x9
+Steamy Beauty Bath Time Record Crystal x8
+Steamy Beauty Bath Time Record Crystal x7
+Steamy Beauty Bath Time Record Crystal x6
+Steamy Beauty Bath Time Record Crystal x5
+Steamy Beauty Bath Time Record Crystal x4
+Steamy Beauty Bath Time Record Crystal x3
+Steamy Beauty Bath Time Record Crystal x2
+Steamy Beauty Bath Time Record Crystal x1
 Baton of Friendship
 Sports Festival x10
 Baton of Friendship
@@ -1339,7 +1368,7 @@ Attack Shard x20
 MP Shard x20
 HP Shard x20
 Assault Team: Assault
-Sports Festival (Top 100)
+Sports Festival (Top 50)
 EXP Hi-Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -1348,8 +1377,7 @@ Attack Shard x20
 MP Shard x20
 HP Shard x20
 Memory Diamond x5
-Assault Team: Assault
-Sports Festival (Top 50)
+Top 50
 EXP Hi-Potion x5
 Col x30000
 Memory Diamond x5
@@ -1526,6 +1554,79 @@ Halloween Upgrade Crystal x4
 Halloween Bronze Medal x10
 Halloween Silver Medal x10
 Halloween Gold Medal x15
+EXP Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Assault Team: Rival War
+- in quest of secluded hot springs -  (Top 100)
+EXP Hi-Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Memory Diamond x5
+Assault Team: Rival War
+- in quest of secluded hot springs - (Top 50)
+EXP Hi-Potion x5
+Col x30000
+Memory Diamond x5
+Colored Leaf Bronze Medal x5
+Colored Leaf  Silver Medal x5
+Colored Leaf  Gold Medal x1
+Assault Team: Rival War
+- in quest of secluded hot springs -  (Top 20)
+EXP X-Potion x5
+Col x50000
+Memory Diamond x5
+Halloween Upgrade Crystal x1
+Colored Leaf Bronze Medal x10
+Colored Leaf  Silver Medal x5
+Colored Leaf  Gold Medal x3
+Assault Team: Rival War
+- in quest of secluded hot springs -  (Top 10)
+EXP X-Potion x5
+Col x100000
+Memory Diamond x5
+Halloween Upgrade Crystal x2
+Colored Leaf Bronze Medal x10
+Colored Leaf  Silver Medal x5
+Colored Leaf  Gold Medal x6
+Assault Team: Rival War
+- in quest of secluded hot springs -  (3rd)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Halloween Upgrade Crystal x3
+Colored Leaf Bronze Medal x10
+Colored Leaf  Silver Medal x10
+Colored Leaf  Gold Medal x10
+Assault Team: Rival War
+- in quest of secluded hot springs -  (2nd)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x300000
+Memory Diamond x5
+Halloween Upgrade Crystal x3
+Colored Leaf Bronze Medal x10
+Colored Leaf  Silver Medal x10
+Colored Leaf  Gold Medal x12
+Assault Team: Rival War
+- in quest of secluded hot springs -  (1st)
+Rainbow Essence x2
+EXP X-Potion x5
+Col x500000
+Memory Diamond x5
+Halloween Upgrade Crystal x4
+Colored Leaf Bronze Medal x10
+Colored Leaf  Silver Medal x10
+Colored Leaf  Gold Medal x15
 Assault Team: Assault
 The Revenant (Top 100)
 Skill Shard x20
@@ -3402,7 +3503,7 @@ Earth Medallion x10
 Dark Medallion x10
 Dark Medallion x5
 Dark Medallion x15
-Moon Blazer R3
+Silverthread Armor R3
 Insane Armor R3
 Bat Earring R3
 Bat Earring R2

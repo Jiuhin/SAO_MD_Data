@@ -300,6 +300,12 @@ Combo Window Up Lv. 1
 slot_skill_icon_reseve_healing_mp
 Restores 10 MP every 10 seconds during standby.
 Emergency Heal (MP) Lv.1
+slot_skill_icon_battle_healing_hp
+Restores 600 HP every 5 seconds.
+Battle Healing (HP) Lv. 2
+slot_skill_icon_battle_healing_hp
+Restores 600 HP every 10 seconds.
+Battle Healing (HP) Lv. 1
 slot_skill_icon_def_earth_1
 Reduces damage from Earth-elem. enemies by 30%
 Earth Resistance Lv2

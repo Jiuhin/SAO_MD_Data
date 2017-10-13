@@ -129,6 +129,8 @@ face_1
 weapon_axe
 enemy_210_the_skull_rhinoceros
 enemy_210_the_skull_rhinoceros
+weapon_effect
+sward_the_dark_dullahan2
 enemy_209_the_dark_dullahan
 head
 weapon

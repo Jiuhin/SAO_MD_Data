@@ -606,6 +606,7 @@ Crit. Damage
 10% (vs. Non-elem.)
 Increases dmg. vs Non-elem. enemies by 1.5x.
 Damage Up (vs. Non-elem.)
+MP-10%
 Increases Earth-elem. character's MP 
 def. by 3%.
 Def. 
@@ -624,6 +625,7 @@ Increases Dark-elem. character's MP
 Atk. by 3%.
 Atk. 
 3% (Dark)
+MP-10%
 Increases Dark-elem. character's MP 
 def. by 3%.
 Def. 
@@ -640,6 +642,7 @@ Increases Dark-elem. character's HP by 3%.
 Increases Holy-elem. character's HP 
 MP by 3%.
 3% (Holy)
+MP-10%
 Increases Holy-elem. character's MP 
 def. by 3%.
 Def. 
@@ -651,7 +654,14 @@ Increases Holy-elem. character's MP by 3%.
 3% (Holy)
 Increases Holy-elem. character's HP by 6%.
 6% (Holy)
-MP-10%
+Reduces Wind-elem. character's Required MP by -10%, increases Critical damage by 10%
+Required MP -10% / Critical damage 
+10% (Wind)
+Increases Wind-elem. character's Crit. by 10%.
+Crit. 
+10% (Wind)
+Reduces Wind-elem. character's Required MP by -10%.
+Required MP -10% (Wind)
 Increases Wind-elem. character's MP 
 def. by 3%.
 Def. 
@@ -666,6 +676,7 @@ Increases Wind-elem. character's HP by 6%.
 Increases Water-elem. character's defense by 6%.
 Def. 
 6% (Water)
+MP-10%
 Increases Water-elem. character's MP 
 def. by 3%.
 Def. 
@@ -685,6 +696,7 @@ Increases Fire-elem. character's MP
 attack by 3%.
 Atk. 
 3% (Fire)
+MP-10%
 Increases Fire-elem. character's MP 
 def. by 3%.
 Def. 
@@ -696,6 +708,7 @@ Increases Fire-elem. character's MP by 3%.
 3% (Fire)
 Increases Fire-elem. character's HP by 6%.
 6% (Fire)
+MP-10%
 Increases Non-elem. character's MP 
 def. by 3%.
 Def. 

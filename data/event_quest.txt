@@ -1,3 +1,21 @@
+images/battle/cutin/battle_cutin_65005.png
+Instead of your current team,
+Let's switch to a new party.
+images/battle/cutin/battle_cutin_65005.png
+Instead of your current team,
+Let's switch to a new party.
+images/battle/cutin/battle_cutin_65005.png
+Instead of your current team,
+Let's switch to a new party.
+images/battle/cutin/battle_cutin_65005.png
+Instead of your current team,
+Let's switch to a new party.
+images/battle/cutin/battle_cutin_65005.png
+Instead of your current team,
+Let's switch to a new party.
+images/battle/cutin/battle_cutin_65005.png
+Instead of your current team,
+Let's switch to a new party.
 images/battle/cutin/battle_cutin_65002.png
 Your current team is exhausted
 Let's switch to a new party
