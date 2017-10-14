@@ -2532,7 +2532,7 @@ Quest
 bg_thumbnail_2020
 Floor :98 
 Enemy Lv: 120
-LUCKY
+・LUCKY
 Defeat All Enemies
 Quest
 bg_thumbnail_2026
@@ -5683,8 +5683,7 @@ Quest
 bg_thumbnail_8031
 Quest 13-2
 Battle against the Goddess (Master
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -5701,8 +5700,7 @@ Quest
 bg_thumbnail_8031
 Quest 12-2
 Battle against the Goddess (Master)
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -5719,8 +5717,7 @@ Quest
 bg_thumbnail_8031
 Quest 11-2
 Battle against the Goddess (EX)
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -5737,8 +5734,7 @@ Quest
 bg_thumbnail_8031
 Quest 10-2
 Battle against the Goddess (Exp.)
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -5775,8 +5771,7 @@ Quest
 bg_thumbnail_2006
 Quest 5
 The key to victory
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -5840,9 +5835,7 @@ bg_thumbnail_8008
 Quest 1
 Onikiri (Int.)
 Among the dirty river,
-the boss 
-Filthy Flame
-lives.
+the boss 《Filthy Flame》lives.
 Attack his weak point : Back
 and stop the rampage flames
 Defeat All Enemies
@@ -5851,9 +5844,7 @@ bg_thumbnail_8030
 Quest 4
 Black Flame (Master)
 Among the dirty river,
-the boss 
-Filthy Flame
-lives.
+the boss 《Filthy Flame》lives.
 Attack his weak point : Back
 and stop the rampage flames
 Defeat All Enemies
@@ -5862,9 +5853,7 @@ bg_thumbnail_8030
 Quest 3
 Black Flame (EX)
 Among the dirty river,
-the boss 
-Filthy Flame
-lives.
+the boss 《Filthy Flame》lives.
 Attack his weak point : Back
 and stop the rampage flames
 Defeat All Enemies
@@ -5873,9 +5862,7 @@ bg_thumbnail_8030
 Quest 2
 Black Flame (Expert)
 Among the dirty river,
-the boss 
-Filthy Flame
-lives.
+the boss 《Filthy Flame》lives.
 Attack his weak point : Back
 and stop the rampage flames
 Defeat All Enemies
@@ -5972,7 +5959,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8023
 Quest 8
-Frustration
+《Frustration》
 Defeat All Enemies
 Quest
 bg_thumbnail_8024
@@ -6009,8 +5996,7 @@ bg_thumbnail_0
 Story 1
 Another problem
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -6019,8 +6005,7 @@ bg_thumbnail_8012
 quest 13
 Monster in deep mountain (Master)
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -6029,8 +6014,7 @@ bg_thumbnail_8012
 quest 12
 Monster in deep mountain (EX)
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -6039,8 +6023,7 @@ bg_thumbnail_8012
 quest 11
 Monster in deep mountain (Expert)
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -6054,8 +6037,7 @@ bg_thumbnail_0
 story 9
 Raising courage
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -6329,36 +6311,28 @@ Story
 bg_thumbnail_0
 Story 1
 Fairyland
-Huge boss 
-Ceratodontidae-Tail
-penetrates the in-session Battlefield Quest.
+Huge boss 《Ceratodontidae-Tail》 penetrates the in-session Battlefield Quest.
 Destroy its tail and prevent it from deliver Super Powerful Attack
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 4
 Through the sleeve of dream (Master)
-Huge boss 
-Ceratodontidae-Tail
-penetrates the in-session Battlefield Quest.
+Huge boss 《Ceratodontidae-Tail》 penetrates the in-session Battlefield Quest.
 Destroy its tail and prevent it from deliver Super Powerful Attack
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 3
 Through the sleeve of dream (EX)
-Huge boss 
-Ceratodontidae-Tail
-penetrates the in-session Battlefield Quest.
+Huge boss 《Ceratodontidae-Tail》 penetrates the in-session Battlefield Quest.
 Destroy its tail and prevent it from deliver Super Powerful Attack
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 2
 Through the sleeve of dream (Expert)
-Huge boss 
-Ceratodontidae-Tail
-penetrates the in-session Battlefield Quest.
+Huge boss 《Ceratodontidae-Tail》 penetrates the in-session Battlefield Quest.
 Destroy its tail and prevent it from deliver Super Powerful Attack
 Defeat All Enemies
 Quest
@@ -6426,8 +6400,7 @@ bg_thumbnail_0
 Story 1
 Reality of the dreams
 The Quest Boss of Jotunheimr,
-Twin Kobold
-appears.
+《Twin Kobold》appears.
 Did they steal the sacred treasure
 Find it out by defeating the creatures
 Defeat All Enemies
@@ -6436,8 +6409,7 @@ bg_thumbnail_8013
 Quest 4
 Stars Orbit the Hopes of Another World (Master)
 The Quest Boss of Jotunheimr,
-Twin Kobold
-appears.
+《Twin Kobold》appears.
 Did they steal the sacred treasure
 Find it out by defeating the creatures
 Defeat All Enemies
@@ -6446,8 +6418,7 @@ bg_thumbnail_8013
 Quest 3
 Stars Orbit the Hopes of Another World (EX)
 The Quest Boss of Jotunheimr,
-Twin Kobold
-appears.
+《Twin Kobold》appears.
 Did they steal the sacred treasure
 Find it out by defeating the creatures
 Defeat All Enemies
@@ -6456,8 +6427,7 @@ bg_thumbnail_8013
 Quest 2
 Stars Orbit the Hopes of Another World (Expert)
 The Quest Boss of Jotunheimr,
-Twin Kobold
-appears.
+《Twin Kobold》appears.
 Did they steal the sacred treasure
 Find it out by defeating the creatures
 Defeat All Enemies
@@ -7086,36 +7056,28 @@ Quest
 bg_thumbnail_8019
 Quest 1
 Queen of Chef (Int.)
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Quest 14
 Final Battle: (Master)
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Quest 13
 Final Battle: (EX)
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Quest 12
 Final Battle: (Expert)
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest
@@ -7127,9 +7089,7 @@ Story
 bg_thumbnail_0
 Story 10
 Closing Party
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest
@@ -11296,7 +11256,7 @@ Quest
 bg_thumbnail_2020
 Floor :98 
 Enemy Lv: 120
-LUCKY
+・LUCKY
 Defeat All Enemies
 Quest
 bg_thumbnail_2026
@@ -14447,8 +14407,7 @@ Quest
 bg_thumbnail_8031
 Quest 13-2
 Battle against the Goddess (Master
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -14465,8 +14424,7 @@ Quest
 bg_thumbnail_8031
 Quest 12-2
 Battle against the Goddess (Master)
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -14483,8 +14441,7 @@ Quest
 bg_thumbnail_8031
 Quest 11-2
 Battle against the Goddess (EX)
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -14501,8 +14458,7 @@ Quest
 bg_thumbnail_8031
 Quest 10-2
 Battle against the Goddess (Exp.)
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -14539,8 +14495,7 @@ Quest
 bg_thumbnail_2006
 Quest 5
 The key to victory
-Athena
-promises to revenge the Aesir Gods.
+《Athena》 promises to revenge the Aesir Gods.
 Now, her anger points towards the fairies as well.
 Repel her raging attacks
 Defeat All Enemies
@@ -14604,9 +14559,7 @@ bg_thumbnail_8008
 Quest 1
 Onikiri (Int.)
 Among the dirty river,
-the boss 
-Filthy Flame
-lives.
+the boss 《Filthy Flame》lives.
 Attack his weak point : Back
 and stop the rampage flames
 Defeat All Enemies
@@ -14615,9 +14568,7 @@ bg_thumbnail_8030
 Quest 4
 Black Flame (Master)
 Among the dirty river,
-the boss 
-Filthy Flame
-lives.
+the boss 《Filthy Flame》lives.
 Attack his weak point : Back
 and stop the rampage flames
 Defeat All Enemies
@@ -14626,9 +14577,7 @@ bg_thumbnail_8030
 Quest 3
 Black Flame (EX)
 Among the dirty river,
-the boss 
-Filthy Flame
-lives.
+the boss 《Filthy Flame》lives.
 Attack his weak point : Back
 and stop the rampage flames
 Defeat All Enemies
@@ -14637,9 +14586,7 @@ bg_thumbnail_8030
 Quest 2
 Black Flame (Expert)
 Among the dirty river,
-the boss 
-Filthy Flame
-lives.
+the boss 《Filthy Flame》lives.
 Attack his weak point : Back
 and stop the rampage flames
 Defeat All Enemies
@@ -14736,7 +14683,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8023
 Quest 8
-Frustration
+《Frustration》
 Defeat All Enemies
 Quest
 bg_thumbnail_8024
@@ -14773,8 +14720,7 @@ bg_thumbnail_0
 Story 1
 Another problem
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -14783,8 +14729,7 @@ bg_thumbnail_8012
 quest 13
 Monster in deep mountain (Master)
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -14793,8 +14738,7 @@ bg_thumbnail_8012
 quest 12
 Monster in deep mountain (EX)
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -14803,8 +14747,7 @@ bg_thumbnail_8012
 quest 11
 Monster in deep mountain (Expert)
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -14818,8 +14761,7 @@ bg_thumbnail_0
 story 9
 Raising courage
 Lives in the deep mountain,
-Minotaurus Horn
-stands by.
+《Minotaurus Horn》stands by.
 Jump away from its slashes
 and Defeat the Beast
 Defeat All Enemies
@@ -15093,36 +15035,28 @@ Story
 bg_thumbnail_0
 Story 1
 Fairyland
-Huge boss 
-Ceratodontidae-Tail
-penetrates the in-session Battlefield Quest.
+Huge boss 《Ceratodontidae-Tail》 penetrates the in-session Battlefield Quest.
 Destroy its tail and prevent it from deliver Super Powerful Attack
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 4
 Through the sleeve of dream (Master)
-Huge boss 
-Ceratodontidae-Tail
-penetrates the in-session Battlefield Quest.
+Huge boss 《Ceratodontidae-Tail》 penetrates the in-session Battlefield Quest.
 Destroy its tail and prevent it from deliver Super Powerful Attack
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 3
 Through the sleeve of dream (EX)
-Huge boss 
-Ceratodontidae-Tail
-penetrates the in-session Battlefield Quest.
+Huge boss 《Ceratodontidae-Tail》 penetrates the in-session Battlefield Quest.
 Destroy its tail and prevent it from deliver Super Powerful Attack
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 2
 Through the sleeve of dream (Expert)
-Huge boss 
-Ceratodontidae-Tail
-penetrates the in-session Battlefield Quest.
+Huge boss 《Ceratodontidae-Tail》 penetrates the in-session Battlefield Quest.
 Destroy its tail and prevent it from deliver Super Powerful Attack
 Defeat All Enemies
 Quest
@@ -15190,8 +15124,7 @@ bg_thumbnail_0
 Story 1
 Reality of the dreams
 The Quest Boss of Jotunheimr,
-Twin Kobold
-appears.
+《Twin Kobold》appears.
 Did they steal the sacred treasure
 Find it out by defeating the creatures
 Defeat All Enemies
@@ -15200,8 +15133,7 @@ bg_thumbnail_8013
 Quest 4
 Stars Orbit the Hopes of Another World (Master)
 The Quest Boss of Jotunheimr,
-Twin Kobold
-appears.
+《Twin Kobold》appears.
 Did they steal the sacred treasure
 Find it out by defeating the creatures
 Defeat All Enemies
@@ -15210,8 +15142,7 @@ bg_thumbnail_8013
 Quest 3
 Stars Orbit the Hopes of Another World (EX)
 The Quest Boss of Jotunheimr,
-Twin Kobold
-appears.
+《Twin Kobold》appears.
 Did they steal the sacred treasure
 Find it out by defeating the creatures
 Defeat All Enemies
@@ -15220,8 +15151,7 @@ bg_thumbnail_8013
 Quest 2
 Stars Orbit the Hopes of Another World (Expert)
 The Quest Boss of Jotunheimr,
-Twin Kobold
-appears.
+《Twin Kobold》appears.
 Did they steal the sacred treasure
 Find it out by defeating the creatures
 Defeat All Enemies
@@ -15850,36 +15780,28 @@ Quest
 bg_thumbnail_8019
 Quest 1
 Queen of Chef (Int.)
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Quest 14
 Final Battle: (Master)
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Quest 13
 Final Battle: (EX)
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Quest 12
 Final Battle: (Expert)
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest
@@ -15891,9 +15813,7 @@ Story
 bg_thumbnail_0
 Story 10
 Closing Party
-Silica has equipped her 
-Firefox's Shrine Maiden Suit
-she got from the drop from Firefox.
+Silica has equipped her 《Firefox's Shrine Maiden Suit》 she got from the drop from Firefox.
 Fight her and take the first place in Dogfight Bout
 Defeat All Enemies
 Quest

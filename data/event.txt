@@ -283,8 +283,7 @@ CM Character Introduction (
 images/event/7021/7021_top.png
 images/event/7021/7021_banner.png
 images/event/7021/7021_banner.png
-Summer Princess
-Alice
+【Summer Princess】Alice
 images/event/7020/7020_top.png
 images/event/7020/7020_banner.png
 images/event/7020/7020_banner.png

@@ -4,20 +4,74 @@ MP Recovery UP in Next Guild Event
 Attack of the party increases by 5% in the next guild event. (
 Plan to be updated in the next event)
 Attack UP in Next Guild Event
+[D]クエストクリア時、獲得コルが10%増加する
+[D]コル増加
+[D]パーティリーダーの時、パーティ内のキャラの攻撃が6%増加する
+[D]リーダー: パーティの攻撃
+[D]残りHPが50%以上の場合、残りHP以上のダメージを受けたときにHP1となる
+[D]一撃死回避
+[D]弱点属性の被ダメージ時スタン
 1000%
+[D]弱点属性の被ダメージ時スタン
 1000%
-[D]30
-[D]30
-[D]50%
-[D]30
-[D]30
-10, 
-HP600
-[D]MP
-MP10
-MP10
+[D]毒状態の敵にクリティカル
+[D]毒状態の敵にクリティカル
+[D]30秒クリティカルダメージ10%増
+[D]30秒クリティカルダメージ10%増
+[D]撃破数5以上でダメージが50%増加する
+[D]撃破数5でダメージ
+[D]装備している武器と属性が一致した場合、攻撃力が15%増加する
+[D]武器の属性一致時攻撃
+[D]パーティ内のキャラの攻撃が6%増加する
+[D]自パーティの攻撃
+[D]全てのキャラの攻撃が6%増加する
+[D]全キャラの攻撃
+[D]ソードスキルのバフ率が5%増加する
+[D]スキルバフ率
+[D]ソードスキルのダメージ率が5%増加する
+[D]スキルダメージ率
+[D]弱点部位への攻撃時ダメージが50%増加する
+[D]弱点攻撃時ダメージ
+[D]背後からの攻撃時のダメージが50%増加する
+[D]背後攻撃時ダメージ
+[D]スイッチスキル時のダメージが50%増加する
+[D]スイッチスキル時ダメージ
+[D]デバフ状態の敵に対してダメージが50%増加する
+[D]デバフ時ダメージ
+[D]50%の確率で無属性の敵からのダメージを無効化する
+[D]無属性のダメージ無効化
+[D]スキルチェイン時にダメージが50%増加する
+[D]スキルチェイン時ダメージ
+[D]コンボ持続時間が3秒増える
+[D]コンボ持続時間
+[D]30コンボ以上でダメージが50%増加する
+[D]30コンボでダメージ
+[D]消費MPが10増加し, ダメージが50%増加する
+[D]消費MP
+10, ダメージ
+[D]パーティ内で生存しているキャラが1人のときにダメージが50%増加する
+[D]ソロのときダメージ
+[D]敵を撃破するたびにHPが600回復する
+[D]敵撃破でHP600回復
+[D]攻撃ヒット時のMP回復率が50%増加する
+[D]MP回復率50%上昇
+[D]クリティカル時のダメージ量が50%増加する
+[D]クリティカルダメージ50%上昇
+[D]攻撃力/最大HPが6%増加する
+[D]攻撃/HP
+[D]被パリィ状態の敵に対して攻撃が6%増加する
+[D]パリィした敵に攻撃
+[D]ダウンしている敵に対して攻撃が6%増加する
+[D]ダウンしている敵に攻撃
+[D]控えにいる場合10秒ごとにMPが10回復する
+[D]控え時MP10自動回復
+[D]敵の攻撃をパリィするとMPが10回復する
+[D]パリィでMP10回復
 hp_up
-HP600
+[D]クリティカル時にHPが600回復する
+[D]クリティカル時HP600回復
+[D]クリティカルなし
+[D]クリティカルなし
 Skill Damage Rate -2000 (Equipped One)
 Skill Damage Rate -2000 (Equipped One)
 Skill Damage Rate -1500 (Equipped One)
@@ -606,7 +660,9 @@ Crit. Damage
 10% (vs. Non-elem.)
 Increases dmg. vs Non-elem. enemies by 1.5x.
 Damage Up (vs. Non-elem.)
-MP-10%
+土属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
+土属性の消費MP-10%
+クリティカルダメージ
 Increases Earth-elem. character's MP 
 def. by 3%.
 Def. 
@@ -625,7 +681,9 @@ Increases Dark-elem. character's MP
 Atk. by 3%.
 Atk. 
 3% (Dark)
-MP-10%
+闇属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
+闇属性の消費MP-10%
+クリティカルダメージ
 Increases Dark-elem. character's MP 
 def. by 3%.
 Def. 
@@ -642,7 +700,9 @@ Increases Dark-elem. character's HP by 3%.
 Increases Holy-elem. character's HP 
 MP by 3%.
 3% (Holy)
-MP-10%
+聖属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
+聖属性の消費MP-10%
+クリティカルダメージ
 Increases Holy-elem. character's MP 
 def. by 3%.
 Def. 
@@ -676,7 +736,9 @@ Increases Wind-elem. character's HP by 6%.
 Increases Water-elem. character's defense by 6%.
 Def. 
 6% (Water)
-MP-10%
+水属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
+水属性の消費MP-10%
+クリティカルダメージ
 Increases Water-elem. character's MP 
 def. by 3%.
 Def. 
@@ -696,7 +758,9 @@ Increases Fire-elem. character's MP
 attack by 3%.
 Atk. 
 3% (Fire)
-MP-10%
+火属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
+火属性の消費MP-10%
+クリティカルダメージ
 Increases Fire-elem. character's MP 
 def. by 3%.
 Def. 
@@ -708,7 +772,9 @@ Increases Fire-elem. character's MP by 3%.
 3% (Fire)
 Increases Fire-elem. character's HP by 6%.
 6% (Fire)
-MP-10%
+無属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
+無属性の消費MP-10%
+クリティカルダメージ
 Increases Non-elem. character's MP 
 def. by 3%.
 Def. 
@@ -1015,3 +1081,5 @@ Increases max HP by 12%.
 Increases max HP by 10%.
 Increases max HP by 6%.
 Increases max HP by 3%.
+[D]クリティカル固定
+[D]クリティカル固定

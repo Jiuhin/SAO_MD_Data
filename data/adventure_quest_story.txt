@@ -842,10 +842,10 @@ Pop Star Online part 2
 High expectation for official service
 Event Story
 Pop Star Online part 2
-Frustration
+《Frustration》
 Event Story
 Pop Star Online part 2
-Frustration
+《Frustration》
 Event Story
 Pop Star Online part 2
 You're 100 years early for this
@@ -2093,6 +2093,7 @@ Return of the Beast Lord
 A Strange Campaign Quest
 Memory Defrag
 Memory Defrag
+《メモリー・デフラグ》
 Kirito reactivates ALO using 
 The Seed
 which Kayaba hands over to him 

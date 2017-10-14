@@ -1,366 +1,345 @@
 <panel>
 <body_text font_size 
-'24'>
-You can search for other guilds.
-Join a recommended guild
-Recommendations that you can join are shown 
-Friend
-Guilds your friends belong to are shown
-ID Search
-Put a guild ID and search for the guild
-When you tap some guild, the information of the guild will be shown.
-If the setting of approvals is off, you can just join them from [Join].
-If it's ON, send a request from [Request] and once you are 
-accepted, you can join them. 
+'24'>　You can search for other guilds.
+　・Join a recommended guild
+　　Recommendations that you can join are shown 
+　・Friend
+　　Guilds your friends belong to are shown
+　・ID Search
+　　Put a guild ID and search for the guild
+　When you tap some guild, the information of the guild will be shown.
+　If the setting of approvals is off, you can just join them from [Join].
+　If it's ON, send a request from [Request] and once you are 
+　accepted, you can join them. 
 To join a new guild, you have to leave your current guild before. 
 To leave and join a guild can be done twice a day only. 
 During a guild event, you have to stay with the guild for at least 
-three days once you join one. 
+　　 three days once you join one. 
 You can send 10 requests at a maximum, however, 
-once you are accepted to one, the other requests will be canceled. </body_text>
+　　 once you are accepted to one, the other requests will be canceled. </body_text>
 </panel>
 Guild Search
 Guild Invite
 <panel>
 <body_text font_size 
-'24'>
-You can check Friend Requests and messages on Notice.
-You will get notifications for the things below
+'24'>　You can check Friend Requests and messages on Notice.
+　You will get notifications for the things below
 Individual
-Receive an invite to a guild 
-Send a request to join a guild 
-Join/leave a guild 
-Receive an invite to a guild event
-Friend Requests 
+　　・Receive an invite to a guild 
+　　・Send a request to join a guild 
+　　・Join/leave a guild 
+　　・Receive an invite to a guild event
+　　・Friend Requests 
 Guild 
-Join/leave a guild (members)
-Guild Requests 
-(only Commanders and Vice Commanders) 
-Change members' roles
-Noticeboard updates </body_text>
+　　・Join/leave a guild (members)
+　　・Guild Requests 
+　　　(only Commanders and Vice Commanders) 
+　　・Change members' roles
+　　・Noticeboard updates </body_text>
 </panel>
 Notice
 <panel>
 <body_text font_size 
-'24'>
-Players receive messages from Commanders and 
-Vice Commanders via Noticeboard. 
-Only Commanders and Vice Commanders can 
-update the Noticeboard. 
-When the Noticeboard is updated, 
-the light above the board gets on. </body_text>
+'24'>　Players receive messages from Commanders and 
+　Vice Commanders via Noticeboard. 
+　Only Commanders and Vice Commanders can 
+　update the Noticeboard. 
+　When the Noticeboard is updated, 
+　the light above the board gets on. </body_text>
 </panel>
 Noticeboard
 <panel>
 <body_text font_size 
-'24'>
-You can check about guild members.
-Commanders and Vice Commanders can do the things below
-Edit guild members' roles 
-Force guild members to leave
-Accept/reject requests to join</body_text>
+'24'>　You can check about guild members.
+　Commanders and Vice Commanders can do the things below
+　・Edit guild members' roles 
+　・Force guild members to leave
+　・Accept/reject requests to join</body_text>
 </panel>
 Member
 <panel>
 <body_text font_size 
-'24'>
-You can check Guild Information.
-Only Commanders can edit the information as below:
-Change Guild Symbol
-Change Guild Name
-Change Mood 
-Change the setting of approval 
-Edit Comments
-From [Leave Guild] , you can leave a guild. 
+'24'>　You can check Guild Information.
+　Only Commanders can edit the information as below:
+　・Change Guild Symbol
+　・Change Guild Name
+　・Change Mood 
+　・Change the setting of approval 
+　・Edit Comments
+　From [Leave Guild] , you can leave a guild. 
 You get to join a new guild twice a day only.
 During a guild event and three days after the event, 
-you are unable to leave a guild</body_text>
+　　 you are unable to leave a guild</body_text>
 </panel>
 Guild Info
 <panel>
 <body_text font_size 
-'24'>
-You can go to Guild Home from [GUILD] in Town. 
-In Guild Home, you can do:
-Edit Guild Info (Only Commander) 
-Member Check, Edit Roles, Management 
-(Only Commanders can edit roles, both Commanders and 
-Vice Commanders can do the management) 
-Read and update Noticeboard 
-(Only Commanders and Vice Commanders can update)
-Guild Notice 
-Guild Search</body_text>
+'24'>　You can go to Guild Home from [GUILD] in Town. 
+　In Guild Home, you can do:
+　・Edit Guild Info (Only Commander) 
+　・Member Check, Edit Roles, Management 
+　　(Only Commanders can edit roles, both Commanders and 
+　　  Vice Commanders can do the management) 
+　・Read and update Noticeboard 
+　　(Only Commanders and Vice Commanders can update)
+　・Guild Notice 
+　・Guild Search</body_text>
 </panel>
 Guild Home
 Guild Menu
 <panel>
 <body_text font_size 
-'24'>
-There are two roles, Commander and Vice Commander.
-Only Commanders and Vice Commanders can edit roles, 
-do forced leave and invite.
-Commanders and Vice Commanders can do management and 
-edit the noticeboard.
+'24'>　There are two roles, Commander and Vice Commander.
+　Only Commanders and Vice Commanders can edit roles, 
+　do forced leave and invite.
+　Commanders and Vice Commanders can do management and 
+　edit the noticeboard.
 In case that players don't log in for 7 days, roles will be downgraded 
-such as Commanders - Vice Commanders, 
-Vice Commanders - members.</body_text>
+　　 such as Commanders - Vice Commanders, 
+　　 Vice Commanders - members.</body_text>
 </panel>
 Roles
 <panel>
 <body_text font_size 
-'24'>
-In case that players don't log in for 7 days, 
-roles will be downgraded such as Commanders - Vice Commanders, 
-Vice Commanders - members. 
-And when members don't log in for 14 days, they will have to leave. </body_text>
+'24'>　In case that players don't log in for 7 days, 
+　roles will be downgraded such as Commanders - Vice Commanders, 
+　Vice Commanders - members. 
+　And when members don't log in for 14 days, they will have to leave. </body_text>
 </panel>
 Forced Leave
 <panel>
 <body_text font_size 
-'24'>
-When there's no member (regardless of roles) in a guild, 
-the guild will be dismissed. 
+'24'>　When there's no member (regardless of roles) in a guild, 
+　the guild will be dismissed. 
 Once a guild is dismissed, it cannot be reunited.</body_text>
 </panel>
 Dismiss Guild
 <panel>
 <body_text font_size 
-'24'>
-You will get some benefits by joining a guild.
-Communicate with guild members
-In Guild Home, you can communicate with other members 
-via Guild Chat and Noticeboard
-Earn rewards by completing guild missions 
-There are two different missions - Guild Missions to 
-complete as a team, Guild Daily Missions to play with 
-guild members daily. 
-You can earn rewards by completing a mission. 
-The amount of Rewards increase 
-There are quests that the rewards (Col, Exp, and Drop) 
-increase as you play it in Multi-play with other guild members. 
-Rewards for Guild Competitions
-You can join guild competitions and could earn some rewards 
-by achieving a high score or winning a high rank.</body_text>
+'24'>　You will get some benefits by joining a guild.
+　・Communicate with guild members
+　　In Guild Home, you can communicate with other members 
+　　via Guild Chat and Noticeboard
+　・Earn rewards by completing guild missions 
+　　There are two different missions - Guild Missions to 
+　　complete as a team, Guild Daily Missions to play with 
+　　guild members daily. 
+　　You can earn rewards by completing a mission. 
+　・The amount of Rewards increase 
+　　There are quests that the rewards (Col, Exp, and Drop) 
+　　increase as you play it in Multi-play with other guild members. 
+　・Rewards for Guild Competitions
+　　You can join guild competitions and could earn some rewards 
+　　by achieving a high score or winning a high rank.</body_text>
 </panel>
 Benefits
 <panel>
 <body_text font_size 
-'24'>
-Commanders can invite players to their guild 
-To invite them, go to their profile and tap [Invite Guild] 
-You can invite those who already belong to some other guild.
-Players who receive an invite can check [Notice] on Menu. 
+'24'>　Commanders can invite players to their guild 
+　To invite them, go to their profile and tap [Invite Guild] 
+　You can invite those who already belong to some other guild.
+　Players who receive an invite can check [Notice] on Menu. 
 The number of invites is limited to 10. </body_text>
 </panel>
 Invite Guild
 <panel>
 <body_text font_size 
-'24'>
-In Guild Home, from [MENU] - [Guild Info], you can leave a guild. 
+'24'>　In Guild Home, from [MENU] - [Guild Info], you can leave a guild. 
 You get to join a new guild twice a day only.
 During a guild event and three days after the event, 
-you are unable to leave a guild</body_text>
+　　 you are unable to leave a guild</body_text>
 </panel>
 Leave Guild
 <panel>
 <body_text font_size 
-'24'>
-If you haven't joined a guild, you can join one 
-from [Guild] - [Recommended Guild] or [Guild Search]. 
-Join a recommended guild
-Recommendations that you can join are shown 
-Friend
-Guilds your friends belong to are shown
-ID Search
-Put a guild ID and seach for the guild
-When you tap some guild, the information of the guild will be shown.
-If the setting of approvals is off, you can just join them from [Join].
-If it's ON, send a request from [Request] and once you are 
-accepted, you can join them. 
+'24'>　If you haven't joined a guild, you can join one 
+　from [Guild] - [Recommended Guild] or [Guild Search]. 
+　・Join a recommended guild
+　　Recommendations that you can join are shown 
+　・Friend
+　　Guilds your friends belong to are shown
+　・ID Search
+　　Put a guild ID and seach for the guild
+　When you tap some guild, the information of the guild will be shown.
+　If the setting of approvals is off, you can just join them from [Join].
+　If it's ON, send a request from [Request] and once you are 
+　accepted, you can join them. 
 You get to join a new guild twice a day only.
 During a guild event and three days after the event, 
-you are unable to leave a guild</body_text>
+　　 you are unable to leave a guild</body_text>
 </panel>
 Join Guild
 <panel>
 <body_text font_size 
-'24'>
-If you haven't joined a guild, you can create 
-one from [Guild] - [Create Guild]
-To create one, set the profile
-Guild Symbol
-Guild Name
-Mood
+'24'>　If you haven't joined a guild, you can create 
+　one from [Guild] - [Create Guild]
+　To create one, set the profile
+　・Guild Symbol
+　・Guild Name
+　・Mood
 You can change the profile later 
-You will be the Commander as you finalize 
-this setting by tapping  [Create Guild] and your guild is created. </body_text>
+　You will be the Commander as you finalize 
+　this setting by tapping  [Create Guild] and your guild is created. </body_text>
 </panel>
 Create Guild
 <panel>
 <body_text font_size 
-'24'>
-Guild is a group where 1-10 players can belong to.
-You get benefits by joining a guild. 
-In Guild Home, you can communicate with other guild 
-members via Noticeboard and Chat
-Rewards (Col, Exp, Drop) increase as you do Multi-play 
-with guild members
-You can earn Diamonds as you achieve 
-missions with guild members
-You get to join guild competitions and could win some 
-rewards by achieving a score or winning a high rank.
+'24'>　Guild is a group where 1-10 players can belong to.
+　You get benefits by joining a guild. 
+　・In Guild Home, you can communicate with other guild 
+　　members via Noticeboard and Chat
+　・Rewards (Col, Exp, Drop) increase as you do Multi-play 
+　　with guild members
+　・You can earn Diamonds as you achieve 
+　　missions with guild members
+　・You get to join guild competitions and could win some 
+　　rewards by achieving a score or winning a high rank.
 To join a guild, you must have completed Quest 3-10</body_text>
 </panel>
 What's Guild
 Guild
 <panel>
 <body_text font_size 
-'24'>
-The Data Transfer option allows you to
-transfer game data to a different
-device. This allows you to return to
-your current game data should you
-switch to another device or should your
-current data be formatted. Transferring
-your data ensures that it is safe, so we
-recommend this option.
-Go to 
+'24'>　The Data Transfer option allows you to
+　transfer game data to a different
+　device. This allows you to return to
+　your current game data should you
+　switch to another device or should your
+　current data be formatted. Transferring
+　your data ensures that it is safe, so we
+　recommend this option.
+　Go to 
 Other
 on the menu and select
 Data Transfer
 to view the data transfer
-settings.
-Steps for Transferring Data:
-1) Go to 
+　settings.
+　Steps for Transferring Data:
+　1) Go to 
 Other
 on the menu and
-tap 
+　tap 
 Data Transfer.
-2) Verify your data transfer ID and
-then set a password. (The password
-must be between 8 and 32 alphanumeric
-characters long.)
-3) Once you have set your password, the
-data transfer settings will conclude.
-CAUTION:
-- Please keep your password private.
-- Please make a note of your data
-transfer ID.
-- Your password can be changed later.
-- When transferring data to a different
-OS, Memory Diamonds will be lost. (This
-includes all Memory Diamonds
-distributed for free.)</body_text>
+　2) Verify your data transfer ID and
+　then set a password. (The password
+　must be between 8 and 32 alphanumeric
+　characters long.)
+　3) Once you have set your password, the
+　data transfer settings will conclude.
+　CAUTION:
+　- Please keep your password private.
+　- Please make a note of your data
+　transfer ID.
+　- Your password can be changed later.
+　- When transferring data to a different
+　OS, Memory Diamonds will be lost. (This
+　includes all Memory Diamonds
+　distributed for free.)</body_text>
 </panel>
 Data Transfer
 Other
 <panel>
 <body_text font_size 
-'24'>
+'24'>　In 
 Archive
 on the menu, you can view
-the stories from quests you've already
-completed without having to battle.</body_text>
+　the stories from quests you've already
+　completed without having to battle.</body_text>
 </panel>
 Story Archive
 Archive
 <panel>
 <body_text font_size 
-'24'>
+'24'>　In 
 Co-op History
 under 
 Friends,
-can see a list of parties you formed with
-other players in multiplayer mode. When
-the limit of displayable items has been
-reached, they will be deleted starting
-from the oldest entry.</body_text>
+　can see a list of parties you formed with
+　other players in multiplayer mode. When
+　the limit of displayable items has been
+　reached, they will be deleted starting
+　from the oldest entry.</body_text>
 </panel>
 Co-op History
 <panel>
 <body_text font_size 
-'24'>
-The term 
+'24'>　The term 
 Friend
 indicates people you
-are following and who are following
-you. Friends are more likely to appear
-in your Supporter list. The higher your
-user rank, the more friends you can add,
-the max limit being 100.
-Friend Terminology:
-Friend
+　are following and who are following
+　you. Friends are more likely to appear
+　in your Supporter list. The higher your
+　user rank, the more friends you can add,
+　the max limit being 100.
+　Friend Terminology:
+　Friend
 A person you are following and who
-is following you.
-Following
+　is following you.
+　Following
 Another player you have added as
-a friend.
-Follower
+　a friend.
+　Follower
 Another player who has added
-you as a friend.</body_text>
+　you as a friend.</body_text>
 </panel>
 Friends
 Friends
 <panel>
 <body_text font_size 
-'24'>
-Gifts in the Gift Box will automatically
-be deleted if not retrieved before their
-expiration date, rendering them
-irretrievable. Expiration dates can be
-checked in the Gift Box.</body_text>
+'24'>　Gifts in the Gift Box will automatically
+　be deleted if not retrieved before their
+　expiration date, rendering them
+　irretrievable. Expiration dates can be
+　checked in the Gift Box.</body_text>
 </panel>
 Gift Expiration
 <panel>
 <body_text font_size 
-'24'>
-When items can be retrieved from
-your Gift Box, the number of items will
-display on the 
+'24'>　When items can be retrieved from
+　your Gift Box, the number of items will
+　display on the 
 Gift Box
 button on the
-menu. Tap the Gift Box's receive button
-to retrieve an item. There is also an option
-to retrieve everything at once.</body_text>
+　menu. Tap the Gift Box's receive button
+　to retrieve an item. There is also an option
+　to retrieve everything at once.</body_text>
 </panel>
 Receiving Gifts
 Gift Box
 <panel>
 <body_text font_size 
-'24'>
-A title is a memento which can be acquired 
-when you complete something difficult 
-such as missions.
-If you set a title, you can show your title 
-to other players in Town.
-Some titles have Battle Skills.
-To get the effect, you need to set a title 
-as a title for effect.
-Titles can be set for display and effect separately.
-You can change your title by tapping 
+'24'>　A title is a memento which can be acquired 
+　when you complete something difficult 
+　such as missions.
+　If you set a title, you can show your title 
+　to other players in Town.
+　Some titles have Battle Skills.
+　To get the effect, you need to set a title 
+　as a title for effect.
+　Titles can be set for display and effect separately.
+　You can change your title by tapping 
 Edit user info
-To show the profile page, please hold down 
-your character in Town.
-Attention:
+　To show the profile page, please hold down 
+　your character in Town.
+　Attention:
 In title select page, titles which have 
-Battle Skills will be shown if you tap 
+　　Battle Skills will be shown if you tap 
 Effect
 The title selected to 
 display
 is excluded 
-from the list of titles for 
+　　from the list of titles for 
 Effect
 .</body_text>
 </panel>
 Title
 <panel>
 <body_text font_size 
-'24'>
-In towns, quests, and other such places,
-you can display a comment of up to 24
-characters for other players to see.
-You can set and change your comment by
-going to 
+'24'>　In towns, quests, and other such places,
+　you can display a comment of up to 24
+　characters for other players to see.
+　You can set and change your comment by
+　going to 
 Status
 on the menu and then
 User Info.
@@ -369,12 +348,11 @@ User Info.
 Comments
 <panel>
 <body_text font_size 
-'24'>
-Your username is the name you choose
-to be displayed in towns, quests, and
-other such places.
-The name can be up to 10 characters
-long and can be changed by going to
+'24'>　Your username is the name you choose
+　to be displayed in towns, quests, and
+　other such places.
+　The name can be up to 10 characters
+　long and can be changed by going to
 Status
 on the menu and then
 User Info.
@@ -384,85 +362,79 @@ Username
 Status
 <panel>
 <body_text font_size 
-'24'>
-You can get your hands on rewards by completing missions.
-Go to 
+'24'>　You can get your hands on rewards by completing missions.
+　Go to 
 Missions
 on the menu to check the requirements for completing a mission. There are two types of missions, detailed below.
-Mission Types:
-Mission
+　Mission Types:
+　Mission
 Appear as you progress through the game. You can only claim a missions reward once.
-Daily Mission
+　Daily Mission
 Missions in this list can be played once per day and will disappear upon completion. This list is updated daily at midnight.</body_text>
 </panel>
 Missions
 Missions
 <panel>
 <body_text font_size 
-'24'>
-In Co-op Quests and towns, you can
-chat with other players, even just by
-using simple fixed phrases if you'd like.</body_text>
+'24'>　In Co-op Quests and towns, you can
+　chat with other players, even just by
+　using simple fixed phrases if you'd like.</body_text>
 </panel>
 Chat
 Town
 <panel>
 <body_text font_size 
-'24'>
-With 
+'24'>　With 
 Weapon Purchase
 under 
 Scout,
-you can obtain new weapons using Memory
-Diamonds.</body_text>
+　you can obtain new weapons using Memory
+　Diamonds.</body_text>
 </panel>
 Weapon Purchase
 <panel>
 <body_text font_size 
-'24'>
-With 
+'24'>　With 
 Scout
 , you can obtain new
-characters using Memory Diamonds.
-If a character you already own is
-scouted, you can receive Hacking
-Crystals, which are required to perform
-Limit Breaks. The amount of crystals
-you can receive depends on the rarity
-of the character.</body_text>
+　characters using Memory Diamonds.
+　If a character you already own is
+　scouted, you can receive Hacking
+　Crystals, which are required to perform
+　Limit Breaks. The amount of crystals
+　you can receive depends on the rarity
+　of the character.</body_text>
 </panel>
 Scouting Characters
 Scouting/Buying Equipment
 <panel>
 <body_text font_size 
-'24'>
-A maximum of 999,999 of each item can
-be possessed, regardless of user rank.
-This limit cannot be increased.</body_text>
+'24'>　A maximum of 999,999 of each item can
+　be possessed, regardless of user rank.
+　This limit cannot be increased.</body_text>
 </panel>
 Inventory Item Limit
 <panel>
 <body_text font_size 
-'24'>
-You can medal-scout characters using 
+'24'>　You can medal-scout characters using 
 Scout Medals
 by tapping 
 Medal Scout
 in the Ranking Event screen.
-You can earn Medal-Scout limited 
+　You can earn Medal-Scout limited 
 4 characters in the 
 Medal Scout
 Scout-Medals
 can be earned depending on your final rank in the High Score Rankings.
-Claim them in 
+　Claim them in 
 Ranking Rewards
 and 
 Points Achievement Rewards
 which can be earned according to event points.
-Medal has 3 types, Gold > Silver > Bronze according to there rarity.
-For each medal, the Medal-Scout target differs.
-Types and features of each Medal-Scouts are as below:
-Types and features of each Medal-Scouts
+　Medal has 3 types, Gold > Silver > Bronze according to there rarity.
+　For each medal, the Medal-Scout target differs.
+　Types and features of each Medal-Scouts are as below:
+　【Types and features of each Medal-Scouts】
 Gold Medal Scout
 10 gold medals are required to scout 1 character.
 100% chance of getting Medal-Scout limited 
@@ -474,7 +446,7 @@ You can confirm the characters that can be earned from [Scouting Characters/Scou
 Bronze Medal Scout
 10 Bronze medals are required to scout 1 character.
 You can confirm the characters that can be earned from [Scouting Characters/Scout Rate] in each Medal-Scout page.
-Other Notes
+　【Other Notes】
 There can be adding/changing in scoutable Medal-Scout limited 
 4 characters in new Ranking Events.
 You can confirm characters that can be earned from [Scouting Characters/Scout Rate] by checking each Medal-Scout page.
@@ -487,78 +459,72 @@ designated to Medal-Scout limited characters.</body_text>
 Medals
 <panel>
 <body_text font_size 
-'24'>
-Decryption Keys are used to unlock
-attribute enhancements, making more
-enhancements possible.
-Decryption Keys come in different
-levels, and one can only be used when
-its level is the same as the character's
-level and the attribute's enhancement
-level.</body_text>
+'24'>　Decryption Keys are used to unlock
+　attribute enhancements, making more
+　enhancements possible.
+　Decryption Keys come in different
+　levels, and one can only be used when
+　its level is the same as the character's
+　level and the attribute's enhancement
+　level.</body_text>
 </panel>
 Decryption Keys
 <panel>
 <body_text font_size 
-'24'>
-Col Boosts allow you to double the
-amount of Col you can obtain in a
-quest. To use one, tap the Col x2 button
-in the bottom-right of the party selection
-screen before starting a quest.
-NOTE: Boost items can only be used
-once regardless of whether you clear
-the quest or give up.</body_text>
+'24'>　Col Boosts allow you to double the
+　amount of Col you can obtain in a
+　quest. To use one, tap the Col x2 button
+　in the bottom-right of the party selection
+　screen before starting a quest.
+　NOTE: Boost items can only be used
+　once regardless of whether you clear
+　the quest or give up.</body_text>
 </panel>
 Col Boosts
 <panel>
 <body_text font_size 
-'24'>
-EXP Boosts allow you to double the
-amount of EXP you can obtain in a
-quest. To use one, tap the EXP x2 button
-in the bottom-right of the party selection
-screen before starting a quest.
-NOTE: Boost items can only be used
-once regardless of whether you clear
-the quest or give up.</body_text>
+'24'>　EXP Boosts allow you to double the
+　amount of EXP you can obtain in a
+　quest. To use one, tap the EXP x2 button
+　in the bottom-right of the party selection
+　screen before starting a quest.
+　NOTE: Boost items can only be used
+　once regardless of whether you clear
+　the quest or give up.</body_text>
 </panel>
 EXP Boosts
 <panel>
 <body_text font_size 
-'24'>
-EXP Potions are items that give your
-characters experience. A single potion
-can be used on a single character. To
-use a potion, go to 
+'24'>　EXP Potions are items that give your
+　characters experience. A single potion
+　can be used on a single character. To
+　use a potion, go to 
 Items
-the menu and then tap a potion. In
-order of the amount of EXP they give,
-the three types of potion are: Potion,
-High-Potion, and X-Potion.</body_text>
+　the menu and then tap a potion. In
+　order of the amount of EXP they give,
+　the three types of potion are: Potion,
+　High-Potion, and X-Potion.</body_text>
 </panel>
 EXP Potions
 <panel>
 <body_text font_size 
-'24'>
-Hacking Crystals are required for
-Limit Breaking your characters. When
-scouting characters, if one you
-already own appears, you can receive
-Hacking Crystals instead. The number
-of crystals received depends on
-the rarity of the character.</body_text>
+'24'>　Hacking Crystals are required for
+　Limit Breaking your characters. When
+　scouting characters, if one you
+　already own appears, you can receive
+　Hacking Crystals instead. The number
+　of crystals received depends on
+　the rarity of the character.</body_text>
 </panel>
 Hacking Crystals
 <panel>
 <body_text font_size 
-'24'>
-Event Crystals are training materials for characters earned from the 
+'24'>　Event Crystals are training materials for characters earned from the 
 Character Events
-Names of Event Crystals differs in each event.
-This can be used only for Event Limited 
+　Names of Event Crystals differs in each event.
+　This can be used only for Event Limited 
 4 characters.
-Notes
+　【Notes】
 Event Limited 
 4 characters can be trained with specific 
 Event Crystals
@@ -569,235 +535,217 @@ for training Event Limited
 Event Crystals
 <panel>
 <body_text font_size 
-'24'>
-Crystals are materials that are
-required to unlock attributes.
-Ordered from least rare to rarest,
-they appear as: Shards, Crystals, and
-Holy Crystals. A list of crystal types
-and their descriptions follows below.
-Crystal Types:
-HP Crystal
+'24'>　Crystals are materials that are
+　required to unlock attributes.
+　Ordered from least rare to rarest,
+　they appear as: Shards, Crystals, and
+　Holy Crystals. A list of crystal types
+　and their descriptions follows below.
+　Crystal Types:
+　HP Crystal
 Required to enhance HP and often found
-in Thursday quests.
-MP Crystal
+　in Thursday quests.
+　MP Crystal
 Required to enhance MP and often found
-in Wednesday quests.
-Attack Crystal
+　in Wednesday quests.
+　Attack Crystal
 Required to enhance Attack and often
-found in Tuesday quests.
-Defense Crystal
+　found in Tuesday quests.
+　Defense Crystal
 Required to enhance defense and often
-found in Monday quests.
-Critical Crystal
+　found in Monday quests.
+　Critical Crystal
 Required to enhance critical hit
-rates and found often in Saturday quests.
-Skill Crystal
+　rates and found often in Saturday quests.
+　Skill Crystal
 Required to enhance skills and often
-found in Saturday quests.</body_text>
+　found in Saturday quests.</body_text>
 </panel>
 Crystal Types
 Items
 <panel>
 <body_text font_size 
-'24'>
-At the Weapon Exchange
-you can exchange using 4 of your 
+'24'>　At the Weapon Exchange
+　you can exchange using 4 of your 
 4 weapons
-for a 
+　for a 
 4 weapon which appears in the present Weapon Purchase.
 Only the weapons with minimum rarity 4 that were obtained from Weapon Purchase are accepted for exchanging.
 The same Weapon is exchangeable only once.
-When you exchange a weapon with a 
+　When you exchange a weapon with a 
 5 weapon, you will be able to get an Evolution Ingot.
 An Evolution Ingot is an item that you can use as a replacement of a material in evolving a weapon.
-Notes
-- In general 
+　【Notes】
+　- In general 
 4 weapons that are in the present Weapon Purchase list and are not the Limited Offer Weapons will appear in the blacksmith exchange list.
 4 weapons appearing in the Weapon Purchase may change without notice.
 We do not guarantee all 
 4 weapons to be exchangeable.
-- Only the weapons with minimum rarity 4 that were obtained from Purchase Weapons are accepted for exchanging.
-- Weapons from events and evolved weapons that were originally rarity 2 or 3 could not be used as materials.
+　- Only the weapons with minimum rarity 4 that were obtained from Purchase Weapons are accepted for exchanging.
+　- Weapons from events and evolved weapons that were originally rarity 2 or 3 could not be used as materials.
 The same Weapon is exchangeable only once.
-- Weapons used for exchange will remain in the list for blacksmith, but you will not be able to exchange with that weapon again.
-- Once you have confirmed exchanging the weapon, you will not be able to retrieve the weapon used for the exchange.
-- The Weapon obtained from Exchange will start from Lv 1
-- Weapons which are equipped to characters will not appear on the material list
-- You cannot use ingots to evolve equipments 
-acquired by exchanging fragments</body_text>
+　- Weapons used for exchange will remain in the list for blacksmith, but you will not be able to exchange with that weapon again.
+　- Once you have confirmed exchanging the weapon, you will not be able to retrieve the weapon used for the exchange.
+　- The Weapon obtained from Exchange will start from Lv 1
+　- Weapons which are equipped to characters will not appear on the material list
+　- You cannot use ingots to evolve equipments 
+　   acquired by exchanging fragments</body_text>
 </panel>
 Weapon Exchange
 <panel>
 <body_text font_size 
-'24'>
-Holding down on weapon icon in weapon selling page in blacksmith's place etc., and turning Bookmark ON, you can set the weapon you selected as your Favorite.
-Weapons set as your Favorite can't be sold nor be used as an evolving material.</body_text>
+'24'>　Holding down on weapon icon in weapon selling page in blacksmith's place etc., and turning Bookmark ON, you can set the weapon you selected as your Favorite.
+　Weapons set as your Favorite can't be sold nor be used as an evolving material.</body_text>
 </panel>
 Favorite Weapon
 <panel>
 <body_text font_size 
-'24'>
-Equipment that has been upgraded to
-its maximum level can be evolved at
-a smithy by using Col and either
-equipment with the same name or
-evolution ingots. Evolving equipment
-increases its rarity, stats, max level,
-and more.
-NOTE: The type of material and amount
-of Col needed to perform an evolution
-varies according to the rarity of the
-equipment. Additionally, the number
-of times it can be evolved also varies.
-You cannot use ingots to evolve equipments 
-acquired by exchanging fragments</body_text>
+'24'>　Equipment that has been upgraded to
+　its maximum level can be evolved at
+　a smithy by using Col and either
+　equipment with the same name or
+　evolution ingots. Evolving equipment
+　increases its rarity, stats, max level,
+　and more.
+　NOTE: The type of material and amount
+　of Col needed to perform an evolution
+　varies according to the rarity of the
+　equipment. Additionally, the number
+　of times it can be evolved also varies.
+　You cannot use ingots to evolve equipments 
+　acquired by exchanging fragments</body_text>
 </panel>
 Evolving Your Equipment
 <panel>
 <body_text font_size 
-'24'>
-You can use Col and materials to
-upgrade equipment and increase its
-stats.</body_text>
+'24'>　You can use Col and materials to
+　upgrade equipment and increase its
+　stats.</body_text>
 </panel>
 Upgrading Your Equipment
 <panel>
 <body_text font_size 
-'24'>
-You can increase a character's stats
-by equipping armor and weapons of the
-character's own element. The elemental
-bonus works for all equipment across
-all elements (fire, water, earth, wind,
-holy and dark) and also non-elemental
-equipment.</body_text>
+'24'>　You can increase a character's stats
+　by equipping armor and weapons of the
+　character's own element. The elemental
+　bonus works for all equipment across
+　all elements (fire, water, earth, wind,
+　holy and dark) and also non-elemental
+　equipment.</body_text>
 </panel>
 Elemental Bonuses
 <panel>
 <body_text font_size 
-'24'>
-There are three types of equipment:
-weapons, armor, and accessories.
-Equipment Types:
-Weapons
+'24'>　There are three types of equipment:
+　weapons, armor, and accessories.
+　Equipment Types:
+　Weapons
 Used to deal damage to enemies.
-The higher the Attack and Critical stats,
-the more damage they can deal.
-Armor
+　The higher the Attack and Critical stats,
+　the more damage they can deal.
+　Armor
 Used to protect a character from
-attacks. The higher the HP/Defense
-stat, the more they protect the wearer
-from attacks.
-Accessories
+　attacks. The higher the HP/Defense
+　stat, the more they protect the wearer
+　from attacks.
+　Accessories
 Raise a character's individual stats
-and strength in battle.
-NOTE: The effectiveness of equipment
-varies according to rarity, attack type,
-and such other factors.</body_text>
+　and strength in battle.
+　NOTE: The effectiveness of equipment
+　varies according to rarity, attack type,
+　and such other factors.</body_text>
 </panel>
 Equipment Types
 Equipment
 <panel>
 <body_text font_size 
-'24'>
-Event limited 
+'24'>　Event limited 
 4 characters earned in character events can be trained (Releasing Power and Breaking Limit) with specific 
 Event Crystals
 Event Crystals
 for training Event Limited 
 4 characters are only available in the event you earned the 
 4 character.
-Collect 
+　Collect 
 Event Crystals
 during the event to train the character
-Notes
+　【Notes】
 Names of Event Crystals differs in each event.
 Leveling can be done the same as normal characters.</body_text>
 </panel>
 Training characters earned in character events
 <panel>
 <body_text font_size 
-'24'>
-In the Attribute Matrix, Hacking
-Crystals can be used to perform Limit
-Breaks. Doing so will raise the upper-
-limit of a character's level, allowing
-for more ability enhancements.
-After performing a Limit Hack, you can
-choose to increase Attack, HP/Defense,
-or MP.
-Once a Limit Break has been performed,
-you can use Hacking Crystals to further
-enhance already enhanced abilities.</body_text>
+'24'>　In the Attribute Matrix, Hacking
+　Crystals can be used to perform Limit
+　Breaks. Doing so will raise the upper-
+　limit of a character's level, allowing
+　for more ability enhancements.
+　After performing a Limit Hack, you can
+　choose to increase Attack, HP/Defense,
+　or MP.
+　Once a Limit Break has been performed,
+　you can use Hacking Crystals to further
+　enhance already enhanced abilities.</body_text>
 </panel>
 Limit Breaks
 <panel>
 <body_text font_size 
-'24'>
-Attributes can be unlocked in order to
-enhance your characters' stats. Each
-attribute requires certain types of crystal
-for unlocking. (For example, Attack Crystals
-are used to increase attack power.)
-NOTE: To unlock attribute enhancements,
-your character needs to be at a certain
-level and you need to have the
-appropriate decryption key.</body_text>
+'24'>　Attributes can be unlocked in order to
+　enhance your characters' stats. Each
+　attribute requires certain types of crystal
+　for unlocking. (For example, Attack Crystals
+　are used to increase attack power.)
+　NOTE: To unlock attribute enhancements,
+　your character needs to be at a certain
+　level and you need to have the
+　appropriate decryption key.</body_text>
 </panel>
 Unlocking Attributes
 <panel>
 <body_text font_size 
-'24'>
-Each character's level can be raised
-by acquiring EXP through completing
-quests or by using EXP Potions. The
-higher a character's level, the better
-their attributes and the stronger their
-fighting ability. The amount of EXP
-required to level up varies from level
-to level.</body_text>
+'24'>　Each character's level can be raised
+　by acquiring EXP through completing
+　quests or by using EXP Potions. The
+　higher a character's level, the better
+　their attributes and the stronger their
+　fighting ability. The amount of EXP
+　required to level up varies from level
+　to level.</body_text>
 </panel>
 Character Level
 <panel>
 <body_text font_size 
-'24'>
-You can use the rank EXP acquired on
-completion of a quest to raise your
-user rank. The higher your user rank,
-the more benefits you receive, such as
-a higher party cost, a higher number of
-friends you can register, and so on.</body_text>
+'24'>　You can use the rank EXP acquired on
+　completion of a quest to raise your
+　user rank. The higher your user rank,
+　the more benefits you receive, such as
+　a higher party cost, a higher number of
+　friends you can register, and so on.</body_text>
 </panel>
 User Rank
 Leveling Up
 <panel>
 <body_text font_size 
-'24'>
-If you tap the button to play Character voice in the 
-Details
-Status
-, you can listen to the character's voice.
-Note
+'24'>　If you tap the button to play Character voice in the ［Details］of［Status］, you can listen to the character's voice.
+　【Note】
 There are characters that have special voices.</body_text>
 </panel>
 Character Voice
 <panel>
 <body_text font_size 
-'24'>
-The rarer a character is, the more they
-cost for the party. By raising your
-user rank, you can increase the limit
-on how much your party has available
-to spend.</body_text>
+'24'>　The rarer a character is, the more they
+　cost for the party. By raising your
+　user rank, you can increase the limit
+　on how much your party has available
+　to spend.</body_text>
 </panel>
 Party Cost
 <panel>
 <body_text font_size 
-'24'>
-Up to three characters can be used to
-form a party. It is possible to form up
-to five parties in advance.</body_text>
+'24'>　Up to three characters can be used to
+　form a party. It is possible to form up
+　to five parties in advance.</body_text>
 </panel>
 Party Formation
 Parties
@@ -808,49 +756,48 @@ Parties
 '733.9f'>dungeon/tips_QTP.png</image>
 <body_text y
 '80.0f'  font_size 
-'24'>
-QT Point Clearing Event (Quarter Point Clearing Event) is
-an event that you defeat enemies and clear all the 25 floors. 
-[The Rule of QT Point Clearing Event]
+'24'>　QT Point Clearing Event (Quarter Point Clearing Event) is
+　an event that you defeat enemies and clear all the 25 floors. 
+　[The Rule of QT Point Clearing Event]
 The number of departures
-From the entrance to the first teleport gate or between 
-teleport gates,  the number of departures is limited 
-for each character in the areas. 
-One cannot depart more than the number or continue 
-if they die during a battle. 
-As you get to a Break Point, the number of 
-departures and the survival status are reset to default.
+　From the entrance to the first teleport gate or between 
+　teleport gates,  the number of departures is limited 
+　for each character in the areas. 
+　One cannot depart more than the number or continue 
+　if they die during a battle. 
+　As you get to a Break Point, the number of 
+　departures and the survival status are reset to default.
 Break Points
-Every a few floors, there is a Break Point where
-you can edit your party. 
-Please note that even if you use the same members
-continuously, the number of departures will keep adding. 
+　Every a few floors, there is a Break Point where
+　you can edit your party. 
+　Please note that even if you use the same members
+　continuously, the number of departures will keep adding. 
 Equipment
-During the QT Point Clearing Event, equipment that 
-you once used for some members are unable to transfer
-to other members. When you wish to change them, 
-go back to the entrance or the previous teleport gate and
-reset the number of departures and the survival status. 
+　During the QT Point Clearing Event, equipment that 
+　you once used for some members are unable to transfer
+　to other members. When you wish to change them, 
+　go back to the entrance or the previous teleport gate and
+　reset the number of departures and the survival status. 
 You can enhance/sell/evolve them.
-[Rewards of QT Point Clearing Event]
+　[Rewards of QT Point Clearing Event]
 Floor Mission Completed Reward
-You can earn some awesome items such as 
-Rainbow Essence. As you clear a mission meeting
-certain conditions, you can receive them from Mission.
+　You can earn some awesome items such as 
+　Rainbow Essence. As you clear a mission meeting
+　certain conditions, you can receive them from Mission.
 Floor Completed Reward
-You can earn a title, Cols etc. 
-Before you try the floor missions, 
-you might want to try and achieve this first.
+　You can earn a title, Cols etc. 
+　Before you try the floor missions, 
+　you might want to try and achieve this first.
 Pt Reward
-You can earn Medallion. This is available on
-easy quests as well.
-Play what suits your level and earn the rewards
-[Tips]
+　You can earn Medallion. This is available on
+　easy quests as well.
+　Play what suits your level and earn the rewards
+　[Tips]
 Organize Party Members
-In this event, the number of departures is limited
-for each character.
-Plan ahead and select members well.
-[Attention]
+　In this event, the number of departures is limited
+　for each character.
+　Plan ahead and select members well.
+　[Attention]
 To play this event, you must have completed Quest 3-10
 Find this event from 
 Quest
@@ -865,418 +812,392 @@ QT Point Clearing Event
 '733.9f'>dungeon/tips.png</image>
 <body_text y
 '80.0f'  font_size 
-'24'>
-Floor Clearing event is an event to defeat evil enemies
-to reach 100 floors of a dungeon.
-[The Rule of Floor Clearing event]
+'24'>　Floor Clearing event is an event to defeat evil enemies
+　to reach 100 floors of a dungeon.
+　[The Rule of Floor Clearing event]
 Number of departures
-Each character has limit to number of departures between
-the Entrance gate and a Transport Gate and 
-between Transport Gates.
-If characters reach to the limit, 
-the characters cannot depart.
-Also, if characters died in Quests, 
-the characters cannot join to the rest Quest.
-When you reach the next Transport Gate, 
-the number of departures and survival status are reset.
+　  Each character has limit to number of departures between
+　  the Entrance gate and a Transport Gate and 
+　  between Transport Gates.
+　  If characters reach to the limit, 
+　  the characters cannot depart.
+　  Also, if characters died in Quests, 
+　  the characters cannot join to the rest Quest.
+　  When you reach the next Transport Gate, 
+　  the number of departures and survival status are reset.
 Break Point
-There are Break Points every several floors.
-On Break points, you can re-edit your party.
-Please note that the number of departures will be added,
-even if you use same characters continuously.
+　  There are Break Points every several floors.
+　  On Break points, you can re-edit your party.
+　  Please note that the number of departures will be added,
+　  even if you use same characters continuously.
 Edit Equipment
-Equipment of departed characters cannot use for 
-the rest characters.
-If you want to change, return to the Entrance or 
-Transport Gates to reset number of departures,
-survival status, and clearing status.
+　  Equipment of departed characters cannot use for 
+　  the rest characters.
+　  If you want to change, return to the Entrance or 
+　  Transport Gates to reset number of departures,
+　  survival status, and clearing status.
 you can upgrade, evolve, and sell equipment.
-[Rewards of Floor Clearing Event]
+　[Rewards of Floor Clearing Event]
 Floor Complete Rewards
-You can get Fragments. You can exchange Fragments for
-limited 
+　  You can get Fragments. You can exchange Fragments for
+　  limited 
 4 equipment. This 
 4 equipment can evolve to
 5 equipment. Create 
 5 equipment
 Pt Rewards
-You can get Stardust(medium).
-At Exchange market, you can exchange Stardust(medium)
-for Medallions and rare Enhancers.
-[Tips]
+　  You can get Stardust(medium).
+　  At Exchange market, you can exchange Stardust(medium)
+　  for Medallions and rare Enhancers.
+　[Tips]
 Allocation of Party Characters
-Each character has limited number to depart quests.
-Some characters have extra number of departures.
-Put a lot of thought into your parties to challenge strong
-enemies with stronger characters.
-[Attention]
+　  Each character has limited number to depart quests.
+　  Some characters have extra number of departures.
+　  Put a lot of thought into your parties to challenge strong
+　  enemies with stronger characters.
+　[Attention]
 To play Floor Clearing Event,
-you must have to complete Quest3-10.
+　　you must have to complete Quest3-10.
 You can find this event from 
 Quest
 Extra Quest
-</body_text>
+　</body_text>
 </panel>
 Floor Clearing Event
 <panel>
 <body_text font_size 
-'24'>
-After clearing quest, if you tap 
-Move to next quest
-on the selection screen of treasure box, you can move to the next quest continuously.
-Note
+'24'>　After clearing quest, if you tap ［Move to next quest］on the selection screen of treasure box, you can move to the next quest continuously.
+　【Note】
 If the next quest is Story quest, after playing the Story quest, it will move to the next quest.</body_text>
 </panel>
-Move to next quest
-function
+「Move to next quest」function
 <panel>
 <body_text font_size 
-'24'>
-You can challenge again from the beginning of the quest from the Battle Menu during a quest.
-After clearing quest, you can challenge the same quest again on the selection screen of treasure-box.
-Note
+'24'>　You can challenge again from the beginning of the quest from the Battle Menu during a quest.
+　After clearing quest, you can challenge the same quest again on the selection screen of treasure-box.
+　【Note】
 You will lose the rewards you obtained during the battle if you challenge again from Battle Menu during a quest.</body_text>
 </panel>
 Re-challenge
 <panel>
 <body_text font_size 
-'24'>
-By clearing a quest, you are presented
-with three treasure chests and the
-option to pick one. You can open more
-treasure chests at the cost of Memory
-Diamonds.</body_text>
+'24'>　By clearing a quest, you are presented
+　with three treasure chests and the
+　option to pick one. You can open more
+　treasure chests at the cost of Memory
+　Diamonds.</body_text>
 </panel>
 Treasure Chests
 <panel>
 <body_text font_size 
-'24'>
-The faster you complete a quest, the
-higher your completion rank will be,
-allowing you to get your hands on
-higher-ranked bonuses.</body_text>
+'24'>　The faster you complete a quest, the
+　higher your completion rank will be,
+　allowing you to get your hands on
+　higher-ranked bonuses.</body_text>
 </panel>
 Completion Rank
 <panel>
 <body_text font_size 
-'24'>
-When your character has been taken out
-by an enemy, you can use Memory
-Diamonds to revive them. The number of
-diamonds required differs between the
-Single-Player and Co-op Quests, along
-with how many continues are allowed.</body_text>
+'24'>　When your character has been taken out
+　by an enemy, you can use Memory
+　Diamonds to revive them. The number of
+　diamonds required differs between the
+　Single-Player and Co-op Quests, along
+　with how many continues are allowed.</body_text>
 </panel>
 Continues
 <panel>
 <body_text font_size 
-'24'>
-Depending on the quest, there is a entry requirements.
-Entry requirements contains such as type of equipment and the number of party.
-You can check the details of entry requirements by tapping
-Entry requirements
-at the top of selection screen of party before starting quest.
-Note
+'24'>　Depending on the quest, there is a entry requirements.
+　Entry requirements contains such as type of equipment and the number of party.
+　You can check the details of entry requirements by tapping［Entry requirements］at the top of selection screen of party before starting quest.
+　【Note】
 The requirements also apply to helpers.</body_text>
 </panel>
 Entry requirements
 <panel>
 <body_text font_size 
-'24'>
-Information relating to the damage
-displays is as follows.
-Damage Display Descriptions:
-Critical
+'24'>　Information relating to the damage
+　displays is as follows.
+　Damage Display Descriptions:
+　Critical
 Denotes a rare hit that deals more
-damage than normal.
-Weakness
+　damage than normal.
+　Weakness
 Displays when you strike an enemy's
-weak point, dealing more damage than
-normal.
-Resist
+　weak point, dealing more damage than
+　normal.
+　Resist
 Displays when an enemy is resilient
-to your attack and it deals less damage
-than normal.
-Great
+　to your attack and it deals less damage
+　than normal.
+　Great
 Displays when using a gun's focus
-attack and you release your finger as the
-impact zone's circle contracts,
-resulting in a critical hit that deals
-major damage.
-Miss
+　attack and you release your finger as the
+　impact zone's circle contracts,
+　resulting in a critical hit that deals
+　major damage.
+　Miss
 Displays when using a gun's focus
-attack and you release your finger as the
-impact zone's circle expands, resulting
-in the attack missing its target and
-no damage being dealt.</body_text>
+　attack and you release your finger as the
+　impact zone's circle expands, resulting
+　in the attack missing its target and
+　no damage being dealt.</body_text>
 </panel>
 Damage Display
 <panel>
 <body_text font_size 
-'24'>
-Hitting an enemy can result in them
-being staggered. In this state enemies
-cannot counterattack, leaving you free
-to deal more damage unhindered. The
-stronger the enemy, the less likely
-they will be staggered.
-NOTE: Some enemies cannot be staggered.</body_text>
+'24'>　Hitting an enemy can result in them
+　being staggered. In this state enemies
+　cannot counterattack, leaving you free
+　to deal more damage unhindered. The
+　stronger the enemy, the less likely
+　they will be staggered.
+　NOTE: Some enemies cannot be staggered.</body_text>
 </panel>
 Stagger
 <panel>
 <body_text font_size 
-'24'>
-Enemies that glow red cannot be staggered
-or knocked down. They still receive
-damage as normal, but they can counter-
-attack, so be careful.</body_text>
+'24'>　Enemies that glow red cannot be staggered
+　or knocked down. They still receive
+　damage as normal, but they can counter-
+　attack, so be careful.</body_text>
 </panel>
 When an Enemy Glows Red...
 <panel>
 <body_text font_size 
-'24'>
-The red areas displayed during boss battles
-indicate the boss's attack range. If you're
-in there, either get out fast or guard
-before you receive damage.</body_text>
+'24'>　The red areas displayed during boss battles
+　indicate the boss's attack range. If you're
+　in there, either get out fast or guard
+　before you receive damage.</body_text>
 </panel>
 Danger Warnings
 <panel>
 <body_text font_size 
-'24'>
-Landing consecutive blows to an enemy
-increases your combo count.
-For your combo to continue, you need
-to land another blow within a certain
-amount of time without getting hit.
-The higher the combo count, the more
-damage your character will deal.
-NOTE: Damage dealt increases by 5%
-for every 10 combo hits.</body_text>
+'24'>　Landing consecutive blows to an enemy
+　increases your combo count.
+　For your combo to continue, you need
+　to land another blow within a certain
+　amount of time without getting hit.
+　The higher the combo count, the more
+　damage your character will deal.
+　NOTE: Damage dealt increases by 5%
+　for every 10 combo hits.</body_text>
 </panel>
 Combos
 <panel>
 <body_text font_size 
-'24'>
-Continuously guarding an enemy's
-attack will lower your guard gauge,
-eventually resulting in a guard break,
-which will stun your character. A stunned
-character will be unable to do anything
-for three seconds, so be careful.</body_text>
+'24'>　Continuously guarding an enemy's
+　attack will lower your guard gauge,
+　eventually resulting in a guard break,
+　which will stun your character. A stunned
+　character will be unable to do anything
+　for three seconds, so be careful.</body_text>
 </panel>
 Guard Breaks
 <panel>
 <body_text font_size 
-'24'>
-In battle, your character will
-automatically target the enemy closest
-to them. A red circle will appear beneath
-the targeted enemy.
-Tapping the screen will make your
-character approach the enemy and
-unleash an attack.
-Tap a different enemy to target them
-instead. A green circle will then
-appear beneath that enemy.</body_text>
+'24'>　In battle, your character will
+　automatically target the enemy closest
+　to them. A red circle will appear beneath
+　the targeted enemy.
+　Tapping the screen will make your
+　character approach the enemy and
+　unleash an attack.
+　Tap a different enemy to target them
+　instead. A green circle will then
+　appear beneath that enemy.</body_text>
 </panel>
 Targeting
 <panel>
 <body_text font_size 
-'24'>
-There are various status ailments in battle.
-The status ailments in battle are as follows.
-[Positive Status Ailments]
-Increase Attack
+'24'>　There are various status ailments in battle.
+　The status ailments in battle are as follows.
+　[Positive Status Ailments]
+　Increase Attack
 Increase damage to opponents for a set period of time.
 When effects overlap, the stronger effect  will be given priority.
-Increase Defense
+　Increase Defense
 Reduce damage received from opponents for a set period of time.
 When effects overlap, the stronger effect  will be given priority.
-Increase Critical
+　Increase Critical
 Increase ratio of critical attack to opponents for a set period of time.
 When effects overlap, the stronger effect  will be given priority.
-Increase Attack Speed
+　Increase Attack Speed
 Increase attack speed for a set period of time.
 When effects overlap, the stronger effect  will be given priority.
-Increase Moving Speed
+　Increase Moving Speed
 Increase moving speed for a set period of time.
 When effects overlap, the stronger effect  will be given priority.
-[Negative Status Ailments]
-Poison
+　[Negative Status Ailments]
+　Poison
 Continuously take damage for a
-set period of time.
-Paralysis
+　set period of time.
+　Paralysis
 Immobile for a set period of time,
-even if damaged by an opponent.
-Burn
+　even if damaged by an opponent.
+　Burn
 Continuously take damage for a
-set period of time.
-Sleep
+　set period of time.
+　Sleep
 Immobile for a set period of time.
-An enemy attack will wake the character
-up, but also deal guaranteed critical
-damage.
-Slow
+　An enemy attack will wake the character
+　up, but also deal guaranteed critical
+　damage.
+　Slow
 Quick-step speed and jump distance and speed of moving decrease for a set period of time.
-Confusion
+　Confusion
 Directional inputs are reversed for
-a set period of time.
-Stun
+　a set period of time.
+　Stun
 Immobile for a set period of time,
-or until an enemy lands a hit on the
-character.
-Blind
+　or until an enemy lands a hit on the
+　character.
+　Blind
 Field of vision is greatly decreased
-for a set period of time.
-Gravity
+　for a set period of time.
+　Gravity
 Quick-step speed and jump distance are
-halved while inside a certain area.</body_text>
+　halved while inside a certain area.</body_text>
 </panel>
 Status Ailments
 <panel>
 <body_text font_size 
-'24'>
-Each weapon has one of four different
-characteristics: slash, strike, pierce,
-and magic.
-Weapon Characteristics:
-Slash
+'24'>　Each weapon has one of four different
+　characteristics: slash, strike, pierce,
+　and magic.
+　Weapon Characteristics:
+　Slash
 Applies to all swords, which have an
-advantage over soft-bodied enemies
-such as mantises and gerberas.
-Strike
+　advantage over soft-bodied enemies
+　such as mantises and gerberas.
+　Strike
 Applies to single-handed clubs and
-guns, which have an advantage over
-hard-bodied enemies such as elementals
-and skeletons.
-Pierce
+　guns, which have an advantage over
+　hard-bodied enemies such as elementals
+　and skeletons.
+　Pierce
 Applies to rapiers, daggers, bows, and lances which have an advantage over
-tough-skinned enemies such as
-lizardmen.
-Magic
+　tough-skinned enemies such as
+　lizardmen.
+　Magic
 Applies to rods, which deal more
-damage than elemental attacks that
-have an advantage over the enemy's
-element.</body_text>
+　damage than elemental attacks that
+　have an advantage over the enemy's
+　element.</body_text>
 </panel>
 Weapon Characteristics
 <panel>
 <body_text font_size 
-'24'>
-There are six types of elements: fire,
-wind, earth, water, holy, and dark.
-Each has its strengths and weaknesses
-against other elements. Fire is strong
-against wind
+'24'>　There are six types of elements: fire,
+　wind, earth, water, holy, and dark.
+　Each has its strengths and weaknesses
+　against other elements. Fire is strong
+　against wind
 wind against earth
-earth against water
+　earth against water
 water against
-fire. Holy and dark elements deal great
-damage to each other. Only non-
-elements remain unaffected by
-elements.
-Elements at an advantage deal large
-amounts of damage
+　fire. Holy and dark elements deal great
+　damage to each other. Only non-
+　elements remain unaffected by
+　elements.
+　Elements at an advantage deal large
+　amounts of damage
 elements at a
-disadvantage take great damage.</body_text>
+　disadvantage take great damage.</body_text>
 </panel>
 Elemental Affinities
 <panel>
 <body_text font_size 
-'24'>
-Characters and equipment each have
-their own attribute values, as shown
-below.
-Attribute Breakdown:
+'24'>　Characters and equipment each have
+　their own attribute values, as shown
+　below.
+　Attribute Breakdown:
 When a character's HP reaches
-zero, that character dies.
+　zero, that character dies.
 Required to perform sword skills.
-Attack
+　Attack
 The higher this value is, the greater
-the damage that is dealt to enemies.
-Defense
+　the damage that is dealt to enemies.
+　Defense
 The higher this value is, the lesser the
-damage is that you take from attacks.
-Critical
+　damage is that you take from attacks.
+　Critical
 The higher this value is, the more likely
-it is that you will deal a critical hit.</body_text>
+　it is that you will deal a critical hit.</body_text>
 </panel>
 Attribute Descriptions
 <panel>
 <body_text font_size 
-'24'>
-Using Col or EXP Boosts on the party
-selection screen before the beginning
-of a quest will double the amount of
-Col or EXP obtained in that quest.
-Boost items can only be used once
-regardless of whether you clear the
-quest or give up.
-It's also possible to gain an EXP or Col
-Boost by using a Memory Diamond.</body_text>
+'24'>　Using Col or EXP Boosts on the party
+　selection screen before the beginning
+　of a quest will double the amount of
+　Col or EXP obtained in that quest.
+　Boost items can only be used once
+　regardless of whether you clear the
+　quest or give up.
+　It's also possible to gain an EXP or Col
+　Boost by using a Memory Diamond.</body_text>
 </panel>
 Boosts
 <panel>
 <body_text font_size 
-'24'>
-Quests have bonus missions
+'24'>　Quests have bonus missions
 complete
-them for rewards.
-NOTE: These rewards can only be claimed
-the first time you complete the bonus
-mission.</body_text>
+　them for rewards.
+　NOTE: These rewards can only be claimed
+　the first time you complete the bonus
+　mission.</body_text>
 </panel>
 Bonus Missions
 <panel>
 <body_text font_size 
-'24'>
-A quest is completed when all its
-requirements have been met. Completion
-requirements can be viewed on the party
-selection screen before the quest begins.</body_text>
+'24'>　A quest is completed when all its
+　requirements have been met. Completion
+　requirements can be viewed on the party
+　selection screen before the quest begins.</body_text>
 </panel>
 Completion Requirements
 <panel>
 <body_text font_size 
-'24'>
-At the start of a quest, you can select
-a Supporter who will fight alongside you
-in battle. Friends are prioritized in the
-Supporter list.
-NOTE: Supporters cannot be selected in
-multiplayer modes.</body_text>
+'24'>　At the start of a quest, you can select
+　a Supporter who will fight alongside you
+　in battle. Friends are prioritized in the
+　Supporter list.
+　NOTE: Supporters cannot be selected in
+　multiplayer modes.</body_text>
 </panel>
 Supporters
 <panel>
 <body_text font_size 
-'24'>
-Equipment Creation Event is the event where you get a chance to obtain an equipment with unique abilities.
-Types of Equipment Creation Event and the rewards
+'24'>　Equipment Creation Event is the event where you get a chance to obtain an equipment with unique abilities.
+　【Types of Equipment Creation Event and the rewards】
 Equipment Forging Event for Party Multi-play
 You have the chance to receive an equipment that will give you an advantage on the next Ranking Event.
-This equipment have the standard effect, and during the next Ranking Event, it will have an extra effect.
+　　　This equipment have the standard effect, and during the next Ranking Event, it will have an extra effect.
+　　　　
 You can keep and us the equipment even after the Ranking Event as a normal equipment.
+　　　　
 The details of the extra effect will differ with each events.
+　　　　
 You can claim your equipment reward from the [Gift Box].
 Equipment Creation Event for Solo-play
 This is the event where you have the chance to get an euqipment with a new Battle Skill.
-(The details of the Battle Skills will differ with each events.)
-(You can claim your equipment reward from the [Gift Box].)
-Hints
+　　　(The details of the Battle Skills will differ with each events.)
+　　　(You can claim your equipment reward from the [Gift Box].)
+　【Hints】
 Challenge the mode with higher difficulity
 The Higher the difficulty is, the better chance the boss will drop an exclusive equipment.
-Notice
+　【Notice】
 To participate the Equipment Forging Event, you will need to have Quest3-10 cleared.
 You can join the Equipment Forging Event from the [Extra Quest of  [Quest].</body_text>
 </panel>
 Equipment Creation Event
 <panel>
 <body_text font_size 
-'24'>
-Character Introduction Quest is limited-time quest where you get to enjoy the original story and challenge a 4 stars characters that can appear from Scouting.
-Feel the strength of these Scout characters and gain Memory Diamonds from the Bonus Mission of the Quest
-Notice
+'24'>　Character Introduction Quest is limited-time quest where you get to enjoy the original story and challenge a 4 stars characters that can appear from Scouting.
+　Feel the strength of these Scout characters and gain Memory Diamonds from the Bonus Mission of the Quest
+　【Notice】
 To participate the Character Introduction Quest, you will need to have Quest3-10 cleared.
 You can join the Character Introduction Quest from the [Extra Quest of  [Quest].
 The stories you can unlock in the Character Introduction Quest will have the same story as to when you have unlocked a character when reaching Lv10. 
@@ -1286,88 +1207,61 @@ You will not be able to complete the Missions after the event duration.</body_te
 Character Introduction Quest
 <panel>
 <body_text font_size 
-'24'>
-Character event is an event that you can definitely obtain 4 stars event-exclusive character when you clear the quest until the end.
-Main rewards of Character event 
+'24'>　Character event is an event that you can definitely obtain 4 stars event-exclusive character when you clear the quest until the end.
+　【Main rewards of Character event 】
 4 stars character
-You can definitely obtain 4 stars event-exclusive character when you clear the character event until the end.
-By Unlocking Attr. of 4 stars event-exclusive character, you can read the original story.
-Please receive the character from 
-Gift Box
-after getting in 
-Missions
+　You can definitely obtain 4 stars event-exclusive character when you clear the character event until the end.
+　By Unlocking Attr. of 4 stars event-exclusive character, you can read the original story.
+Please receive the character from ［Gift Box］after getting in ［Missions］
 Event crystal
-You can power up the 4 stars event-exclusive characters by 
-Event crystal
-The name of 
-Event crystal
-depends on the event.
-Strategy
+　You can power up the 4 stars event-exclusive characters by ［Event crystal］
+　The name of ［Event crystal］depends on the event.
+　【Strategy】
 Challenge difficult quests
 The more it's difficult, the more event points and rare crystals you can get from the treasure box.
 Get better Clear-rank
 The better rank you get, the more event points and rare crystals you can get.
 Use Multi Player to play Quest efficiently
 On events you can use Multi Player.
-Play with your friends to play the Quest efficiently
-Other notes
+　Play with your friends to play the Quest efficiently
+　【Other notes】
 In order to participate in the Character event, you need to clear Quest 3-10.
-You can participate in the Character event from 
-Extra Quest
-Quest
+You can participate in the Character event from ［Extra Quest］of ［Quest］.
 Parameters in the event details and the notice are the parameters after Limit Break and Unlock Attr.
 You cannot achieve the mission if you clear the quest after the event is over.</body_text>
 </panel>
 Character event
 <panel>
 <body_text font_size 
-'24'>
-Highscore Ranking Event is an event quest held for a limited-period. You can get 
-Score
-when clearing the ranking event quest.
-Complete the highest score in a group of certain number of people and win a ranking-exclusive character
-Main rewards of Ranking event
+'24'>　Highscore Ranking Event is an event quest held for a limited-period. You can get ［Score］when clearing the ranking event quest.
+　Complete the highest score in a group of certain number of people and win a ranking-exclusive character
+　【Main rewards of Ranking event】
 Scout Medal
-In the ranking event, you can receive
-Ranking Reward
-based on the rank you have at the end of the event, and 
-Point achievement rewards
-corresponding to the points you have gained from clearning quests.
-Using the
-Scout Medal
-which you can win from the Ranking rewards and Point achievement rewards, you can do the special 
-Medal Scout
-About the score in the ranking event
-In the ranking event, you compete for the
-Highest score
-you gained from the Quests.
+In the ranking event, you can receive［Ranking Reward］based on the rank you have at the end of the event, and ［Point achievement rewards］corresponding to the points you have gained from clearning quests.
+　Using the［Scout Medal］which you can win from the Ranking rewards and Point achievement rewards, you can do the special ［Medal Scout］.　
+　【About the score in the ranking event】
+　In the ranking event, you compete for the［Highest score］you gained from the Quests.
 Gaining scores
-Given damage score
-is added by giving damage to the enemy.
-(If the given damage is higher than the enemy's HP, the Score will not go higher than the enemy's HP)
-Clear bonus
-is added on the difficulty of the quests you cleared.
-Time bonus
-is added according to the time it took for you to clear the Quest.
+［Given damage score］is added by giving damage to the enemy.
+　　　(If the given damage is higher than the enemy's HP, the Score will not go higher than the enemy's HP)
+［Clear bonus］is added on the difficulty of the quests you cleared.
+［Time bonus］is added according to the time it took for you to clear the Quest.
 Losing scores
-Received Damage Score
-Your score will be subtracted according to the damage you have received.
-(The score will never be lower than 0)
-Hints
+「Received Damage Score」Your score will be subtracted according to the damage you have received.
+　(The score will never be lower than 0)
+　【Hints】
 Obtain Equipments that have special effects
-You can obtain equipment that has special effects designed for the next limited-time ranking event.
-Get the equipment that has special effects and aim to increase your Scores
+　You can obtain equipment that has special effects designed for the next limited-time ranking event.
+　Get the equipment that has special effects and aim to increase your Scores
 Get higher rank in groups
-If your rank is high within the group, you can obtain special Scout medals that gives you a better chance of getting exclusive character.
-Try various parties and achieve a higher score
+　If your rank is high within the group, you can obtain special Scout medals that gives you a better chance of getting exclusive character.
+　Try various parties and achieve a higher score
 Carry over Scout Medal
-Scout Medal can be carried over.
-Save up medal in ranking of every month, and get exclusive characters
-Other notes
+　Scout Medal can be carried over.
+　Save up medal in ranking of every month, and get exclusive characters
+　【Other notes】
 In order to participate in the high score ranking event, you need to clear Quest 3-10.
-You can participate in the the high score ranking event from 
-Extra Quest
-Quest
+You can participate in the the high score ranking event from ［Extra Quest］of ［Quest］
 Group you're in will be chosen randomly
 If the score is 0, the reward wouldn't be sent
 Score is recorded only when you cleared
@@ -1380,184 +1274,174 @@ You cannot achieve Missions if you cleared the quest after the event is expired.
 Highscore Ranking Event
 <panel>
 <body_text font_size 
-'24'>
-Urgent Quests appear out of the blue
-and are available for only a short
-period of time.
-Ragout Rabbits appear in these quests
-and drop a lot of EXP Potions, so once
-you've found one, don't let it out of your
-sights
+'24'>　Urgent Quests appear out of the blue
+　and are available for only a short
+　period of time.
+　Ragout Rabbits appear in these quests
+　and drop a lot of EXP Potions, so once
+　you've found one, don't let it out of your
+　sights
 At higher difficulty levels, you
-can pick up high-level EXP Potions.</body_text>
+　can pick up high-level EXP Potions.</body_text>
 </panel>
 Urgent Quests
 <panel>
 <body_text font_size 
-'24'>
-Daily Quests are great for obtaining
-materials and Col that are otherwise
-difficult to get. Various materials are
-needed to level up characters and
-equipment. The higher the difficulty,
-the rarer the materials up for grabs.
-The types of materials differ each
-day.
-Material Distribution Schedule:
-Monday
+'24'>　Daily Quests are great for obtaining
+　materials and Col that are otherwise
+　difficult to get. Various materials are
+　needed to level up characters and
+　equipment. The higher the difficulty,
+　the rarer the materials up for grabs.
+　The types of materials differ each
+　day.
+　Material Distribution Schedule:
+　Monday
 Defense Crystals
-Tuesday
+　Tuesday
 Attack Crystals
-Wednesday
+　Wednesday
 MP Crystals
-Thursday
+　Thursday
 HP Crystals
-Friday
+　Friday
 Skill Crystals
-Saturday
+　Saturday
 Critical Crystals
-Sunday
+　Sunday
 Col</body_text>
 </panel>
 Daily Quests
 <panel>
 <body_text font_size 
-'24'>
-Event Quests are quests that appear
-for only a limited time and allow you
-to nab rewards that are difficult
-to obtain in Single-Player Quests.</body_text>
+'24'>　Event Quests are quests that appear
+　for only a limited time and allow you
+　to nab rewards that are difficult
+　to obtain in Single-Player Quests.</body_text>
 </panel>
 Event Quests
 <panel>
 <body_text font_size 
-'24'>
-In Co-op Quests, you and up to two other
-players go into battle together. You can
-use the chat function to communicate
-as you progress.
-In this mode, you can take a single
-character into battle.
-You can only join in quests that you
-have already unlocked.</body_text>
+'24'>　In Co-op Quests, you and up to two other
+　players go into battle together. You can
+　use the chat function to communicate
+　as you progress.
+　In this mode, you can take a single
+　character into battle.
+　You can only join in quests that you
+　have already unlocked.</body_text>
 </panel>
 Co-op Quests
 <panel>
 <body_text font_size 
-'24'>
-In Single-Player Quests, you take up
-to three of your characters into battle.
-During battle, tap a character's
-icon on the bottom of the screen
-to switch to that character.
-NOTE: This mode cannot be played
-with other players.</body_text>
+'24'>　In Single-Player Quests, you take up
+　to three of your characters into battle.
+　During battle, tap a character's
+　icon on the bottom of the screen
+　to switch to that character.
+　NOTE: This mode cannot be played
+　with other players.</body_text>
 </panel>
 Single-Player Quests
 Quests/Battle
 <panel>
 <body_text font_size 
-'24'>
-With a long-range weapon or weapons 
-(guns, bows, rods), do the below actions in time with
-the enemy's attack to parry it. 
+'24'>　With a long-range weapon or weapons 
+　(guns, bows, rods), do the below actions in time with
+　the enemy's attack to parry it. 
+　Gun
 You get to parry as you flick the screen
-while charging attacks
+　         while charging attacks
+　Bow
 You get to parry as you take steps back and dodge an
-enemy's parry attack
+　　　enemy's parry attack
+　Rod
 You get to parry as you flick the screen or 
-take away fingers while charging attacks
-(Focus Attacks won't activate by flicking
-while charging attacks.)
-When the enemy's eyes glow red, that's your
-chance
+　　　take away fingers while charging attacks
+　　　(Focus Attacks won't activate by flicking
+　　　  while charging attacks.)
+　When the enemy's eyes glow red, that's your
+　chance
 Switching characters the
-moment the parry succeeds will cause
-a sword skill to be unleashed, dealing
-major damage.</body_text>
+　moment the parry succeeds will cause
+　a sword skill to be unleashed, dealing
+　major damage.</body_text>
 </panel>
 Parrying (Long-Range Weapon)
 <panel>
 <body_text font_size 
-'24'>
-While guarding using a close-range
-weapon or weapons (swords, dual
-blades, clubs, rapiers, daggers,lances),
-flick up on the screen in time with
-the enemy's attack to parry it. When
-the enemy's eyes glow red, that's your
-chance
+'24'>　While guarding using a close-range
+　weapon or weapons (swords, dual
+　blades, clubs, rapiers, daggers,lances),
+　flick up on the screen in time with
+　the enemy's attack to parry it. When
+　the enemy's eyes glow red, that's your
+　chance
 Switching characters the
-moment the parry succeeds will cause
-a sword skill to be unleashed, dealing
-major damage.</body_text>
+　moment the parry succeeds will cause
+　a sword skill to be unleashed, dealing
+　major damage.</body_text>
 </panel>
 Parrying (Short-Range Weapon)
 <panel>
 <body_text font_size 
-'24'>
-To switch characters during a battle,
-tap a character icon on the bottom
-of the screen. Assess your enemy's
-element and weaknesses, then choose
-a character that suits the situation.
-NOTE: You need at least two party
-members to perform a switch.</body_text>
+'24'>　To switch characters during a battle,
+　tap a character icon on the bottom
+　of the screen. Assess your enemy's
+　element and weaknesses, then choose
+　a character that suits the situation.
+　NOTE: You need at least two party
+　members to perform a switch.</body_text>
 </panel>
 Switching
 <panel>
 <body_text font_size 
-'24'>
-Press and hold the screen when
-carrying a long-range weapon (guns,
-bows, rods) to charge up and deal
-a more damaging attack than normal.</body_text>
+'24'>　Press and hold the screen when
+　carrying a long-range weapon (guns,
+　bows, rods) to charge up and deal
+　a more damaging attack than normal.</body_text>
 </panel>
 Focus Attacks
 <panel>
 <body_text font_size 
-'24'>
-If you have certain weapons(swords, dual blades, 
-mace, rapiers, daggers, lances, rods), you can press
-and hold the screen to guard. Guarding reduces
-damage received from enemy attacks.</body_text>
+'24'>　If you have certain weapons(swords, dual blades, 
+　mace, rapiers, daggers, lances, rods), you can press
+　and hold the screen to guard. Guarding reduces
+　damage received from enemy attacks.</body_text>
 </panel>
 Guarding
 <panel>
 <body_text font_size 
-'24'>
-Some characters and equipment carry
-battle skills, which automatically
-activate in battle, resulting in certain
-effects, for example, an attribute boost.</body_text>
+'24'>　Some characters and equipment carry
+　battle skills, which automatically
+　activate in battle, resulting in certain
+　effects, for example, an attribute boost.</body_text>
 </panel>
 Battle Skills
 <panel>
 <body_text font_size 
-'24'>
-To unleash a sword skill, tap the skill
-button at the bottom of the screen.
-Sword skills deal more damage than
-normal attacks. However, they require
-MP, which is acquired through normal
-attacks. Sword skills vary according to
-each character's equipped weapon,
-element, and so on.</body_text>
+'24'>　To unleash a sword skill, tap the skill
+　button at the bottom of the screen.
+　Sword skills deal more damage than
+　normal attacks. However, they require
+　MP, which is acquired through normal
+　attacks. Sword skills vary according to
+　each character's equipped weapon,
+　element, and so on.</body_text>
 </panel>
 Sword Skills
 <panel>
 <body_text font_size 
-'24'>
-This game uses the following basic controls.
-Basic Controls:
-Attack
-Move
+'24'>　This game uses the following basic controls.
+　Basic Controls:
+　Attack
+　Move
 Drag in any direction
-Quick-step
+　Quick-step
 Flick left or right
-Jump
+　Jump
 Flick up
-Head Splitter
+　Head Splitter
 Flick down while jumping</body_text>
 </panel>
 Basic Controls

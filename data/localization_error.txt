@@ -29,38 +29,22 @@ now be updated.
 A new version is available. Please
 update the app.
 (P400152:
-Failed to retrieve data.
-P103101:
-Guild does not exist.
-P103018:
-You have no authority.
-P103017:
-Failed to fetch information of guild items.
-P103016:
-Failed to donate.
-P103015:
-Failed to update noticeboard.
-P103014:
-Failed to leave guild.
-P103013:
-Failed to invite.
-P103012:
-Failed to fetch timeline. 
-P103011:
-Failed to fetch invitations and requests.
-P103010:
-Failed to update guild.
-P103009:
-Failed to cancel an invitation.
-P103008:
-Failed to hundle a join request .
-P103007:
-Failed to change the position of a guild member.
-P103006:
-Faild to  strike off a guild member.
-P103005:
-Failed to fetch information of guild members.
-P103004:
+Failed to retrieve data.（P103101:
+Guild does not exist.（P103018:
+You have no authority.（P103017:
+Failed to fetch information of guild items.（P103016:
+Failed to donate.（P103015:
+Failed to update noticeboard.（P103014:
+Failed to leave guild.（P103013:
+Failed to invite.（P103012:
+Failed to fetch timeline. （P103011:
+Failed to fetch invitations and requests.（P103010:
+Failed to update guild.（P103009:
+Failed to cancel an invitation.（P103008:
+Failed to hundle a join request .（P103007:
+Failed to change the position of a guild member.（P103006:
+Faild to  strike off a guild member.（P103005:
+Failed to fetch information of guild members.（P103004:
 Failed to join a guild. (P103003:
 Failed to fetch a guild list. (P103002:
 Failed to create a guild (P103001:

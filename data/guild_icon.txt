@@ -2,11 +2,14 @@
 images/icon/guild/guild_icon_03_cat.png
 0x005baa
 images/icon/guild/guild_icon_101.png
+アイコン3
 0xffffff
 images/icon/guild/guild_icon_02_skull.png
 0x1a1a1a
 images/icon/guild/guild_icon_101.png
+アイコン2
 0xffffff
 images/icon/guild/guild_icon_01_dualblade.png
 0x8e0000
 images/icon/guild/guild_icon_101.png
+アイコン1

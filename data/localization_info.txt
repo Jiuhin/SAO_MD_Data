@@ -81,7 +81,7 @@ Kickout
 The position has been changed.
 Dismiss
 Dismiss
-The date of join
+The date of join：
 Joined this guild.
 Your request has been sent.
 Do you want to join a guild

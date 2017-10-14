@@ -8,11 +8,16 @@ Character Story
 [Looking Back Beauty] Sinon Lv.30
 Character Story
 [Looking Back Beauty] Sinon Lv.10
-Lv.80
-Lv.70
-Lv.50
-Lv.30
-Lv.10
+キャラクターストーリー
+【ネバー・ギブアップ】リズベット Lv.80
+キャラクターストーリー
+【ネバー・ギブアップ】リズベット Lv.70
+キャラクターストーリー
+【ネバー・ギブアップ】リズベット Lv.50
+キャラクターストーリー
+【ネバー・ギブアップ】リズベット Lv.30
+キャラクターストーリー
+【ネバー・ギブアップ】リズベット Lv.10
 Character Story
 [Zinnia Melody] Seven Lv.80
 Character Story
@@ -84,15 +89,15 @@ Character Story
 Character Story
 [Midnight Temptation] Asuna Lv.10
 Character Story
-Lv.80
+【女の子】レイン Lv.80
 Character Story
-Lv.70
+【女の子】レイン Lv.70
 Character Story
-Lv.50
+【女の子】レイン Lv.50
 Character Story
-Lv.30
+【女の子】レイン Lv.30
 Character Story
-Lv.10
+【女の子】レイン Lv.10
 Character Story
 [Kitchen Maid] Asuna Lv.80
 Character Story
@@ -354,15 +359,15 @@ Character Story
 Character Story
 [Summer Sunshine] Lisbeth Lv.10
 Character Story
-Lv.80
+【女の子】セブン Lv.80
 Character Story
-Lv.70
+【女の子】セブン Lv.70
 Character Story
-Lv.50
+【女の子】セブン Lv.50
 Character Story
-Lv.30
+【女の子】セブン Lv.30
 Character Story
-Lv.10
+【女の子】セブン Lv.10
 Character Story
 [Genius Creator] Yuuki Lv.80
 Character Story
@@ -523,11 +528,16 @@ Character Story
 [Autumn Leaf Bath Beauty] Silica Lv.30
 Character Story
 [Autumn Leaf Bath Beauty] Silica Lv.10
-Lv.80
-Lv.70
-Lv.50
-Lv.30
-Lv.10
+キャラクターストーリー
+【いっとうしょうを目指して】ユイ Lv.80
+キャラクターストーリー
+【いっとうしょうを目指して】ユイ Lv.70
+キャラクターストーリー
+【いっとうしょうを目指して】ユイ Lv.50
+キャラクターストーリー
+【いっとうしょうを目指して】ユイ Lv.30
+キャラクターストーリー
+【いっとうしょうを目指して】ユイ Lv.10
 Character Story
 [Witchy Kitty] Silica Lv.80
 Character Story
@@ -748,11 +758,16 @@ Character Story
 [The Glossy Goddess] Asuna Lv.30
 Character Story
 [The Glossy Goddess] Asuna Lv.10
-Lv.80
-Lv.70
-Lv.50
-Lv.30
-Lv.10
+キャラクターストーリー
+【華麗なるゴール】アスナ Lv.80
+キャラクターストーリー
+【華麗なるゴール】アスナ Lv.70
+キャラクターストーリー
+【華麗なるゴール】アスナ Lv.50
+キャラクターストーリー
+【華麗なるゴール】アスナ Lv.30
+キャラクターストーリー
+【華麗なるゴール】アスナ Lv.10
 Character Story
 [Sweet Monster] Leafa Lv.80
 Character Story
@@ -1063,11 +1078,16 @@ Character Story
 [Beauty in Secluded Hot Springs] Leafa Lv.30
 Character Story
 [Beauty in Secluded Hot Springs] Leafa Lv.10
-Lv.80
-Lv.70
-Lv.50
-Lv.30
-Lv.10
+キャラクターストーリー
+【輝く汗と青春の光】リーファ Lv.80
+キャラクターストーリー
+【輝く汗と青春の光】リーファ Lv.70
+キャラクターストーリー
+【輝く汗と青春の光】リーファ Lv.50
+キャラクターストーリー
+【輝く汗と青春の光】リーファ Lv.30
+キャラクターストーリー
+【輝く汗と青春の光】リーファ Lv.10
 Character Story
 [Pumpkin Knight] Alice Lv.80
 Character Story
@@ -1229,15 +1249,15 @@ Character Story
 Character Story
 [Early Spring Dance] Argo Lv.10
 Character Story
-Lv.80
+【女の子】ユウキ Lv.80
 Character Story
-Lv.70
+【女の子】ユウキ Lv.70
 Character Story
-Lv.50
+【女の子】ユウキ Lv.50
 Character Story
-Lv.30
+【女の子】ユウキ Lv.30
 Character Story
-Lv.10
+【女の子】ユウキ Lv.10
 Character Story
 [Parlor Maid] Rain Lv.80
 Character Story
@@ -1419,15 +1439,15 @@ Character Story
 Character Story
 [Hero's return] Kirito Lv.10
 Character Story
-Lv.80
+【神聖剣】ヒースクリフ Lv.80
 Character Story
-Lv.70
+【神聖剣】ヒースクリフ Lv.70
 Character Story
-Lv.50
+【神聖剣】ヒースクリフ Lv.50
 Character Story
-Lv.30
+【神聖剣】ヒースクリフ Lv.30
 Character Story
-Lv.10
+【神聖剣】ヒースクリフ Lv.10
 Character Story
 [Furinkazan] Klein Lv.80
 Character Story

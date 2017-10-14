@@ -233,9 +233,10 @@ attack_4
 attack_3
 attack_2
 attack_1
+デバッグボス
 thumbnail_1_illfang_the_kobold_lord_001
 Debug Enemy
-[debug]
+[debug]デバッグエネミー
 elebute_the_hermit_effect_3
 effect_enemy_304_the_strict_hermit
 2_elebute_the_hermit_002_2
@@ -61122,7 +61123,7 @@ attack_2
 attack_1
 thumbnail_1_ruin_kobold_sentinel_001
 Ruin Kobold Sentinel
-[debug]
+[debug]ルイン・コボルド・センチネル
 weapon_effect_7
 weapon_107
 1_earth_kobold_001_1
@@ -65284,7 +65285,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
-Debug
+Debug：ボア
 1_armored_boar_001_1
 walk
 wakeup
@@ -65756,6 +65757,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_猛毒
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -65798,6 +65800,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_毒（控え含む）
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -65840,6 +65843,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_会心デバフ
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -65882,6 +65886,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_防御デバフ
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -65924,6 +65929,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_攻撃デバフ
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -65966,6 +65972,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_逆ヘイト
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66008,6 +66015,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_ヘイト
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66050,6 +66058,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_スーパーアーマー
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66092,6 +66101,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_バリア
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66134,6 +66144,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_自動回復
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66176,6 +66187,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_スキル封印
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66218,6 +66230,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_精神疲労_魔法弱点
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66260,6 +66273,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_スリップ_打撃弱点
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66302,6 +66316,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_重力_刺突弱点
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66344,6 +66359,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_鈍足_斬撃弱点
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66386,6 +66402,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_眠り
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66428,6 +66445,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_麻痺
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66470,6 +66488,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_混乱_魔法耐性
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66512,6 +66531,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_火傷_打撃耐性
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66554,6 +66574,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_暗闇_刺突耐性
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66596,6 +66617,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_毒_斬撃耐性
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66638,6 +66660,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_土
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66680,6 +66703,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_闇
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66722,6 +66746,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_聖
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66764,6 +66789,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_風
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66806,6 +66832,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_水
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66848,6 +66875,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_火
 1_frenzy_boar_001_1
 walk
 wakeup
@@ -66890,6 +66918,7 @@ attack_2
 attack_1
 thumbnail_1_frenzy_boar_001
 Frenzy Boar
+ベース_無
 skill_effect_lance_2
 weapon_effect_lance_2
 4_sinon_184002

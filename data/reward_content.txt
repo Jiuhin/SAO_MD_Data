@@ -99,11 +99,15 @@ As expected
 Principles and Real Intentions
 i7l:
 Under the circumstances
+7l:鏕
 Invaders
+6l:菕
 Under the cover of darkness
+6l:珕
 If the negotiation breaks down..
+5l:揕
 The Location of the Sacred Treasures
-u5l:
+u5l:叕
 To the Leprechaun territory
 Pirate and Fairy
 Treasure Trove
@@ -303,6 +307,7 @@ Fly Through the Sky
 Race Settings
 Wings
 SA:O
+zi:爕
 White Knight Jacket R4
 Silverthread Armor R4
 Col Boost (2x) x1
@@ -1377,7 +1382,7 @@ Attack Shard x20
 MP Shard x20
 HP Shard x20
 Memory Diamond x5
-Top 50
+称号: 運動会の攻略組 Top 50
 EXP Hi-Potion x5
 Col x30000
 Memory Diamond x5
