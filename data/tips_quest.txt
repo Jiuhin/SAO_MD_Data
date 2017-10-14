@@ -33,8 +33,7 @@ Red zones indicate danger
 Guard or
 dodge well to get the upper hand.
 tips04.png
-Parrying 
-Switching
+Parrying & Switching
 Flick up while guarding to parry
 Deflect an attack, then switch out
 tips03.png

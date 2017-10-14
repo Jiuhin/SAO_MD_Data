@@ -157,8 +157,7 @@ Unleash a barrage of thrusts in the shape of a heart, then finish off the enemy 
 Warm Splash
 Warm Splash
 skill_icon_finesword_3_
-Increase your critical rate 
-attack and unleash a flurry of watery rapiers in this combo-hitting sword skill.
+Increase your critical rate & attack and unleash a flurry of watery rapiers in this combo-hitting sword skill.
 Valiant Neptune
 Valiant Neptune
 skill_icon_finesword_3_
@@ -240,8 +239,7 @@ Emit a heart-shaped shock wave from your blade and lower the enemy's defense wit
 Radiant Heart
 Radiant Heart
 skill_icon_sword_3_
-A sword skill. Increase your critical rate 
-attack and strike with a torrent of water.
+A sword skill. Increase your critical rate & attack and strike with a torrent of water.
 Raging Torrent
 Raging Torrent
 skill_icon_sword_3_
@@ -1410,8 +1408,7 @@ Increase your attack. Unleash a chain of attacks keeping the chocolate bananas. 
 Sweet Temptation
 Sweet Temptation
 skill_icon_dagger_3_
-Enhance all the party members' Attack. Attack 
-steal enemies' HP to restore your HP with sparkles.
+Enhance all the party members' Attack. Attack & steal enemies' HP to restore your HP with sparkles.
 Promised Night
 Promised Night
 skill_icon_dagger_3_
@@ -1988,8 +1985,7 @@ Enhance your attack and unleash a chain of attacks with a fluid motion.  Likely 
 Illusional Wreath
 Illusional Wreath
 skill_icon_dualblade_3_
-Enhance all the party members' Attack 
-restore your HP. Unleash a chain of attacks with a fluid motion.
+Enhance all the party members' Attack & restore your HP. Unleash a chain of attacks with a fluid motion.
 Dual Orbit
 Dual Orbit
 skill_icon_dualblade_2_

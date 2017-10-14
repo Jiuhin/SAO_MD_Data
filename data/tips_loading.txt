@@ -31,8 +31,7 @@ Scout
 If an enemy is giving you trouble, why
 not try Scouting a stronger
 character
-Urgent Quests 
-Ragout Rabbit
+Urgent Quests & Ragout Rabbit
 If you see a Ragout Rabbit on an Urgent
 Quest, don't let it escape or you'll miss
 out on EXP Potions and other goodies
@@ -40,8 +39,7 @@ The Smart Way to Get Col
 You can earn more Col than on Single-
 Player Quests by completing Sunday's
 Daily Quest.
-Daily Quests 
-Materials
+Daily Quests & Materials
 With a different type each day, Daily
 Quests are great for materials that
 rarely appear in Single-Player Quests.
@@ -89,8 +87,7 @@ Elemental Bonuses
 Match a character's element with that of
 their equipment for a stat boost. This
 bonus works for all elements.
-Rarity 
-Party Cost
+Rarity & Party Cost
 Characters with higher rarity cost more
 to put in your party, but as your rank
 goes up, so does your team cost limit
@@ -149,7 +146,7 @@ Battle Skills
 Some characters and equipment have
 battle skills that automatically boost
 attributes or grant other battle perks.
-Sword Skills 
+Sword Skills & MP
 Use MP to trigger a sword skill and deal
 more damage than a normal attack. Charge
 up MP by performing normal attacks.
@@ -157,8 +154,7 @@ Switching
 Switch during battle to change your
 character. Use this to take advantage of
 enemies' elemental and other weaknesses.
-Parrying 
-Switching (Short-Range Weapon)
+Parrying & Switching (Short-Range Weapon)
 Flick up while guarding to parry
 Deflect an attack, then switch out
 Unleash a skill to inflict mega damage
@@ -174,8 +170,7 @@ Focus Attacks
 With ranged weapons (guns, bows, and
 rods), tap and hold to charge up for a
 powerful focus attack.
-Jumping 
-Head Splitters
+Jumping & Head Splitters
 Flick up to jump, then flick down to
 perform a head splitter
 A head splitter

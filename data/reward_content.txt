@@ -295,7 +295,7 @@ Leadership
 Race Settings
 Paint Arrows
 Bean Wars
-Premiere 
+Premiere & ALO
 The Best Floating Spell Program
 No Pain, No Gain
 Personal Desires
@@ -3518,9 +3518,13 @@ Silvery Blue Blade R3
 Silvery Blue Blade R2
 Golden Blade R3
 Golden Blade R2
+T.&H
 Captain Hat R3
+S.&G
 Captain Hat R2
+YS.&F
 Captain Coat R3
+R.&E
 Captain Coat R2
 Festival Light Armor R3
 Festival Light Armor R2
@@ -3535,12 +3539,17 @@ Dual Annealed Blades R2
 Annealed Blade R3
 Annealed Blade R2
 Violet Star Earring R3
+]i-&
 Violet Star Earring R2
 Night Sky Plumage R3
 Night Sky Plumage R2
+QX,&4
 Rain One-piece R3
+W,&3
 Rain One-piece R2
+W,&2
 Hydrangea Ring R3
+%W,&1
 Hydrangea Ring R2
 Rivulet One-piece R3
 Rivulet One-piece R2
@@ -3573,23 +3582,30 @@ Fire Medallion x4
 Void Medallion x4
 Earth Medallion x3
 Dark Medallion x3
+Uz)&
 Holy Medallion x3
 Wind Medallion x3
 Water Medallion x3
+)y)&
 Fire Medallion x3
 Void Medallion x3
+5w)&
 Earth Medallion x2
 Dark Medallion x2
+mv)&
 Holy Medallion x2
 Wind Medallion x2
 Water Medallion x2
+Au)&
 Fire Medallion x2
 Void Medallion x2
+Ms)&
 Earth Medallion x1
 Dark Medallion x1
 Holy Medallion x1
 Wind Medallion x1
 Water Medallion x1
+Yq)&
 Fire Medallion x1
 Void Medallion x1
 Holy Artistic Taste Hacking Crystal x4
@@ -6631,8 +6647,7 @@ Slash Machete R2
 Silver Kukri R2
 Epee Rapier R2
 Stone Stinger R2
-Slash 
-Silver Swords R2
+Slash & Silver Swords R2
 Forest Sword R2
 Slash Sword R2
 Silver Sword R2
@@ -6704,8 +6719,7 @@ Slash Machete R2
 Silver Kukri R2
 Epee Rapier R2
 Stone Stinger R2
-Slash 
-Silver Swords R2
+Slash & Silver Swords R2
 Forest Sword R2
 Slash Sword R2
 Silver Sword R2
@@ -6777,8 +6791,7 @@ Slash Machete R2
 Silver Kukri R2
 Epee Rapier R2
 Stone Stinger R2
-Slash 
-Silver Swords R2
+Slash & Silver Swords R2
 Forest Sword R2
 Slash Sword R2
 Silver Sword R2
@@ -6952,8 +6965,7 @@ Slash Machete R2
 Silver Kukri R2
 Epee Rapier R2
 Stone Stinger R2
-Slash 
-Silver Swords R2
+Slash & Silver Swords R2
 Forest Sword R2
 Slash Sword R2
 Silver Sword R2
@@ -7015,8 +7027,7 @@ Slash Machete R2
 Silver Kukri R2
 Epee Rapier R2
 Stone Stinger R2
-Slash 
-Silver Swords R2
+Slash & Silver Swords R2
 Forest Sword R2
 Slash Sword R2
 Silver Sword R2

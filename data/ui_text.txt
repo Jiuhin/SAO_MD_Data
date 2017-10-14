@@ -958,8 +958,7 @@ Rank determines the chances of reward items.
 text_time_announcement
 Quest Rewards
 text_quest_reward
-Times 
-Ranks
+Times & Ranks
 text_quest_time_title
 List of Item Drops
 text_quest_dorop
@@ -995,8 +994,7 @@ Enemy Lv:
 text_enemy
 Show:
 text_info
-Tap 
-hold for details.
+Tap & hold for details.
 text_quest_detail
 Event Over
 text_dates_end
@@ -1079,8 +1077,7 @@ text_button_ranking
 text_rank
 Show:
 text_info
-Tap 
-hold for details.
+Tap & hold for details.
 text_quest_detail
 Event Over
 text_event_end
@@ -1273,18 +1270,15 @@ Ticket Cost
 text_draw_once_consume_3
 Details
 text_testplay_2
-Characters 
-Info
+Characters & Info
 text_odd_3
-Items 
-Info
+Items & Info
 text_odd_4
 Diamond Cost
 text_draw_eleven_consume_2
 Diamond Cost
 text_draw_once_consume_2
-Weapons 
-Info
+Weapons & Info
 text_odd_2
 Record Crystal Cost :
 text_draw_once_consume_crystal
@@ -1296,8 +1290,7 @@ Diamond Cost
 text_draw_once_consume_1
 Details
 text_testplay
-Characters 
-Info
+Characters & Info
 text_odd_1
 Do you want to sell this item
 text_info_dynamic

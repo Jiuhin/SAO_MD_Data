@@ -147,8 +147,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2023
 Quest 1
-Day 1 Black Swordsman 
-Lightning Flash (Int.)
+Day 1 Black Swordsman & Lightning Flash (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2028
@@ -613,8 +612,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 3
-Vangurard 
-Rearguard (Master)
+Vangurard & Rearguard (Master)
 With wings like fire and scales like lava,
 Lindorm the Scarlet Wyrm.
 As nearby fire elemental keeps spelling 
@@ -624,8 +622,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 2
-Vangurard 
-Rearguard (Exp.)
+Vangurard & Rearguard (Exp.)
 With wings like fire and scales like lava,
 Lindorm the Scarlet Wyrm.
 As nearby fire elemental keeps spelling 
@@ -635,8 +632,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 1
-Vangurard 
-Rearguard (Int.)
+Vangurard & Rearguard (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
@@ -2512,8 +2508,7 @@ Quest
 bg_thumbnail_2005
 Floor :1
 Enemy Lv: 120
-Better for : Wind 
-Earth
+Better for : Wind & Earth
 DANGER
 Two minotaurs wearing an armor 
 stand blocking the way. 
@@ -2579,8 +2574,7 @@ Quest
 bg_thumbnail_3001
 Floor :81 
 Enemy Lv: 110
-Better for : Wind 
-Earth
+Better for : Wind & Earth
 DANGER
 Two minotaurs wearing an armor 
 stand blocking the way. 
@@ -3141,8 +3135,7 @@ bg_thumbnail_2004
 Floor :1 
 Enemy Lv: 120
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2020
@@ -3156,56 +3149,49 @@ bg_thumbnail_2026
 Floor :96 
 Enemy Lv: 120
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :94 
 Enemy Lv: 120
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :91 
 Enemy Lv: 120
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :89 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_3004
 Floor :86 
 Enemy Lv: 110
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :84 
 Enemy Lv: 110
 Better for: Slash
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :81 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2020
@@ -3219,56 +3205,49 @@ bg_thumbnail_2026
 Floor :76 
 Enemy Lv: 110
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :74 
 Enemy Lv: 110
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :71 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :69 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_3004
 Floor :66 
 Enemy Lv: 100
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :64 
 Enemy Lv: 100
 Better for: Slash
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :61 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
@@ -3282,32 +3261,28 @@ bg_thumbnail_3004
 Floor :56 
 Enemy Lv: 100
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :54 
 Enemy Lv: 100
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :51 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2017
 Floor :49 
 Enemy Lv: 100
 Better for: Strike
-Better for: Earth 
-Holy
+Better for: Earth & Holy
 Defeat All Enemies
 Quest
 bg_thumbnail_8015
@@ -3321,8 +3296,7 @@ bg_thumbnail_8015
 Floor :44 
 Enemy Lv: 100
 Better for: Slash
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_3001
@@ -3342,32 +3316,28 @@ bg_thumbnail_3004
 Floor :36 
 Enemy Lv: 90
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :34 
 Enemy Lv: 90
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :31 
 Enemy Lv: 90
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2017
 Floor :29 
 Enemy Lv: 90
 Better for: Strike
-Better for: Earth 
-Holy
+Better for: Earth & Holy
 Defeat All Enemies
 Quest
 bg_thumbnail_8015
@@ -3380,8 +3350,7 @@ Quest
 bg_thumbnail_8015
 Floor :24 
 Enemy Lv: 90
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Better for: Slash
 Defeat All Enemies
 Quest
@@ -3395,16 +3364,14 @@ bg_thumbnail_8001
 Floor :19 
 Enemy Lv: 80
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :16 
 Enemy Lv: 80
 Better for: Slash
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
@@ -8871,8 +8838,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2023
 Quest 1
-Day 1 Black Swordsman 
-Lightning Flash (Int.)
+Day 1 Black Swordsman & Lightning Flash (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2028
@@ -9337,8 +9303,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 3
-Vangurard 
-Rearguard (Master)
+Vangurard & Rearguard (Master)
 With wings like fire and scales like lava,
 Lindorm the Scarlet Wyrm.
 As nearby fire elemental keeps spelling 
@@ -9348,8 +9313,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 2
-Vangurard 
-Rearguard (Exp.)
+Vangurard & Rearguard (Exp.)
 With wings like fire and scales like lava,
 Lindorm the Scarlet Wyrm.
 As nearby fire elemental keeps spelling 
@@ -9359,8 +9323,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 1
-Vangurard 
-Rearguard (Int.)
+Vangurard & Rearguard (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
@@ -11236,8 +11199,7 @@ Quest
 bg_thumbnail_2005
 Floor :1
 Enemy Lv: 120
-Better for : Wind 
-Earth
+Better for : Wind & Earth
 DANGER
 Two minotaurs wearing an armor 
 stand blocking the way. 
@@ -11303,8 +11265,7 @@ Quest
 bg_thumbnail_3001
 Floor :81 
 Enemy Lv: 110
-Better for : Wind 
-Earth
+Better for : Wind & Earth
 DANGER
 Two minotaurs wearing an armor 
 stand blocking the way. 
@@ -11865,8 +11826,7 @@ bg_thumbnail_2004
 Floor :1 
 Enemy Lv: 120
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2020
@@ -11880,56 +11840,49 @@ bg_thumbnail_2026
 Floor :96 
 Enemy Lv: 120
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :94 
 Enemy Lv: 120
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :91 
 Enemy Lv: 120
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :89 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_3004
 Floor :86 
 Enemy Lv: 110
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :84 
 Enemy Lv: 110
 Better for: Slash
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :81 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2020
@@ -11943,56 +11896,49 @@ bg_thumbnail_2026
 Floor :76 
 Enemy Lv: 110
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :74 
 Enemy Lv: 110
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :71 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :69 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_3004
 Floor :66 
 Enemy Lv: 100
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :64 
 Enemy Lv: 100
 Better for: Slash
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :61 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
@@ -12006,32 +11952,28 @@ bg_thumbnail_3004
 Floor :56 
 Enemy Lv: 100
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :54 
 Enemy Lv: 100
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :51 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2017
 Floor :49 
 Enemy Lv: 100
 Better for: Strike
-Better for: Earth 
-Holy
+Better for: Earth & Holy
 Defeat All Enemies
 Quest
 bg_thumbnail_8015
@@ -12045,8 +11987,7 @@ bg_thumbnail_8015
 Floor :44 
 Enemy Lv: 100
 Better for: Slash
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_3001
@@ -12066,32 +12007,28 @@ bg_thumbnail_3004
 Floor :36 
 Enemy Lv: 90
 Better for: Wind
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :34 
 Enemy Lv: 90
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_2024
 Floor :31 
 Enemy Lv: 90
 Better for: Earth
-Better for: Slash 
-Strike
+Better for: Slash & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2017
 Floor :29 
 Enemy Lv: 90
 Better for: Strike
-Better for: Earth 
-Holy
+Better for: Earth & Holy
 Defeat All Enemies
 Quest
 bg_thumbnail_8015
@@ -12104,8 +12041,7 @@ Quest
 bg_thumbnail_8015
 Floor :24 
 Enemy Lv: 90
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Better for: Slash
 Defeat All Enemies
 Quest
@@ -12119,16 +12055,14 @@ bg_thumbnail_8001
 Floor :19 
 Enemy Lv: 80
 Better for: Thrust
-Better for: Water 
-Dark
+Better for: Water & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :16 
 Enemy Lv: 80
 Better for: Slash
-Better for: Holy 
-Dark
+Better for: Holy & Dark
 Defeat All Enemies
 Quest
 bg_thumbnail_8001

@@ -327,8 +327,7 @@ images/event/7016/7016_banner.png
 images/event/7014/7014_top.png
 images/event/7014/7014_banner.png
 images/event/7014/7014_banner.png
-[Alicization] Alice 
-Eugeo
+[Alicization] Alice & Eugeo
 images/event/7012/7012_top.png
 images/event/7012/7012_banner.png
 images/event/7012/7012_banner.png

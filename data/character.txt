@@ -11363,8 +11363,7 @@ needed a second member who could fight on the front lines. It took some convinci
 serif
 3_sachi_23002
 Sachi
-[Sword 
-Shield] Sachi
+[Sword & Shield] Sachi
 walk
 wakeup
 wait

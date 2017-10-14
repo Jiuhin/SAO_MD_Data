@@ -98,8 +98,7 @@ Chara Event
 Chara Event
 [Little Mermaid] Leafa
 Chara Event
-[Alicization] Alice 
-Eugeo
+[Alicization] Alice & Eugeo
 Chara Event
 [Natural Pop Star] Yuuki
 Chara Event

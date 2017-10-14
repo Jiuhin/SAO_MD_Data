@@ -5,31 +5,23 @@ slot_skill_icon_reseve_healing_mp
 Restores 5 MP per 5 seconds during standby.
 Emergency Heal (MP) Lv.1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 12%
+Transforms Battle Skill 3. Increases Max MP & attack by 12%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 12%
+Transforms Battle Skill 3. Increases Max MP & attack by 12%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max MP 
-Crit by 12%
+Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max MP 
-Crit by 12%
+Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 5 seconds during standby.
-Emergency Heal (HP
-MP) Lv.2
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 10 seconds during standby.
-Emergency Heal (HP
-MP) Lv.1
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_skill_damage
 Increases skill damage by 10% vs Holy-elem. enemies.
 Skill Damage Up (vs. Holy) Lv. 2
@@ -43,15 +35,11 @@ slot_skill_icon_def_wind_1
 Reduces damage from Wind-elem. enemies by 15%
 Wind Resistance Lv1
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 5 seconds during standby.
-Emergency Heal (HP
-MP) Lv.2
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 10 seconds during standby.
-Emergency Heal (HP
-MP) Lv.1
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_skill_defense
 Decreases damage attained during sword skills by 50%
 Damage Down during Skill Lv2
@@ -111,15 +99,11 @@ slot_skill_icon_def_light_1
 Reduces damage from Holy-elem. enemies by 15%
 Holy Resistance Lv1
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 5 seconds during standby.
-Emergency Heal (HP
-MP) Lv.2
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 10 seconds during standby.
-Emergency Heal (HP
-MP) Lv.1
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_skill_defense
 Decreases damage attained during sword skills by 50%
 Damage Down during Skill Lv2
@@ -183,15 +167,11 @@ slot_skill_icon_def_dark_1
 Reduces damage from Dark-elem. enemies by 15%
 Dark Resistance Lv1
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 5 seconds during standby.
-Emergency Heal (HP
-MP) Lv.2
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 10 seconds during standby.
-Emergency Heal (HP
-MP) Lv.1
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_skill_defense
 Decreases damage attained during sword skills by 50%
 Damage Down during Skill Lv2
@@ -237,19 +217,14 @@ slot_skill_icon_def_fire_1
 Reduces damage from Fire-elem. enemies by15%
 Fire Resistance Lv1
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 5 seconds during standby.
-Emergency Heal (HP
-MP) Lv.2
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 10 seconds during standby.
-Emergency Heal (HP
-MP) Lv.1
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_kill_enemy_recover
-Gain 600 HP 
-5 MP on enemy kill.
-MP Recovery on Enemy Kill  Lv. 1
+Gain 600 HP & 5 MP on enemy kill.
+HP & MP Recovery on Enemy Kill  Lv. 1
 slot_skill_icon_skill_defense
 Decreases damage attained during sword skills by 50%
 Damage Down during Skill Lv2
@@ -319,15 +294,11 @@ slot_skill_icon_skill_damage
 Increases damage for stunned enemies by 10%
 Damage Up Lv.1 (Stun)
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 5 seconds during standby.
-Emergency Heal (HP
-MP) Lv.2
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 10 seconds during standby.
-Emergency Heal (HP
-MP) Lv.1
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_skill_defense
 Decreases damage attained during sword skills by 50%
 Damage Down during Skill Lv2
@@ -433,25 +404,17 @@ slot_skill_icon_def_unattributed_1
 Reduces damage from Non-elem. enemies by 15%
 Non-elemental Resistance Lv1
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 5 seconds during standby.
-Emergency Heal (HP
-MP) Lv.2
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 10 seconds during standby.
-Emergency Heal (HP
-MP) Lv.1
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 5 seconds during standby.
-Emergency Heal (HP
-MP) Lv.2
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
-Restores 600 HP 
-5 MP per 10 seconds during standby.
-Emergency Heal (HP
-MP) Lv.1
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_connect_damage
 Increases damage after skill connect by 40%
 Damage Up at Skill Connect Lv2
@@ -696,70 +659,55 @@ slot_skill_icon2_job_2
 Raises attack and crit. rate by 100
 Attack Up Lv.1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 15%
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 15%
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 15%
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 2
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 10%
+Transforms Battle Skill 3. Increases Max MP & attack by 10%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max HP 
-MP by 12%
+Transforms Battle Skill 3. Increases Max HP & MP by 12%
 Battle Skill 3 Transform Lv. 2
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max HP 
-MP by 10%
+Transforms Battle Skill 3. Increases Max HP & MP by 10%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 15%
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 15%
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 15%
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 2
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP 
-attack by 10%
+Transforms Battle Skill 3. Increases Max MP & attack by 10%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max MP 
-Crit by 12%
+Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max HP 
-MP by 15%
+Transforms Battle Skill 2. Increases Max HP & MP by 15%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max HP and MP by 12%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max MP 
-Crit by 12%
+Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max HP 
-MP by 15%
+Transforms Battle Skill 2. Increases Max HP & MP by 15%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max HP and MP by 10%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max MP 
-Crit by 12%
+Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max HP and MP by 12%
@@ -774,8 +722,7 @@ slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max HP and MP by 10%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max MP 
-Crit by 12%
+Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_ss_enhance_3_9
 Enhances Sword Skill 3. Reduces required MP.  Becomes powerful.

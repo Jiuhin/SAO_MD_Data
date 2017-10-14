@@ -127,9 +127,10 @@ Skill Atk
 Gain 5 MP on enemy kill.
 5 MP Recovery on Kill
 Increases attack and critical by 3% when equipped by OS Characters.
-Crit. 
+Atk&Crit. 
 3% (OS Character)
 Increases HP and MP by 3% when equipped by OS Characters.
+HP&MP 
 3% (OS Character)
 Increases Crit. by 10% when equipped by Alice.
 Crit. 
@@ -139,7 +140,7 @@ MP Recovery on Kill (Alice)
 50% chance Eugeo gains 5 MP on enemy kill.
 MP Recovery on Kill (Eugeo)
 Increases MP and Crit. by 3% when equipped by Eugeo.
-Crit. 
+MP&Crit. 
 3% (Eugeo)
 Increases attack by 10% when equipped by YUNA.
 Atk 
@@ -196,7 +197,7 @@ Increases Attack by 6% vs Earth-elem. enemies when HP is above 80%.
 Attack 
 6% vs Earth-elem. (HP Above 80%)
 attack and critical increase by 3% when HP is above 80%.
-Crit. 
+Atk&Crit. 
 3% (HP Above 80%)
 Increases Non-elem. character's attack by 6% when HP is above 80%.
 Attack 
@@ -206,7 +207,7 @@ Attack
 6% vs Fire-elem. (HP Above 80%)
 Increases Attack by 6% and MP gain when HP is above 80%.
 Attack 
-MP Recovery Up  (HP Above 80%)
+6% &  MP Recovery Up  (HP Above 80%)
 Increases Attack by 6% when HP is above 90%.
 Attack 
 6% (HP Above 90%)
@@ -216,16 +217,15 @@ Damage
 Lower MP required by 10% when HP is above 80%.
 Required MP -10% (HP Above 80%)
 Increases max MP and Crit. by 3%.
-Crit. 
-Increases max HP 
-MP by 3%.
+MP & Crit. 
+Increases max HP & MP by 3%.
+HP & MP
 Increases max MP and Atk. by 6%.
-Atk. 
+MP & Atk. 
 Increases max HP and Atk. by 6%.
-Atk. 
-Greatly increases max HP 
-guard durability.
-Guard Durability Up
+HP & Atk. 
+Greatly increases max HP & guard durability.
+HP & Guard Durability Up
 Increases Non-elem. character's max HP and MP by 3%.
 Max HP/MP 
 3% (Non-elem.)
@@ -233,7 +233,7 @@ Increases skill dmg. 10%. of Dark-elem.
 Skill Damage 
 10% (Dark)
 Increases max HP and Atk. by 10%.
-Atk. 
+HP & Atk. 
 Restores 10 MP per 5 seconds during standby.
 Auto-Recover HP (Standby)
 Reduces damage from Earth-elem. enemies. (30%)
@@ -265,26 +265,21 @@ Non-elemental Resistance
 Reduces damage from Non-elem. enemies. (15%)
 Non-elemental Resistance
 Increases max MP and Atk. by 15%.
-Atk. 
+MP & Atk. 
 Increases max MP and Atk. by 10%.
-Atk. 
+MP & Atk. 
 Increases damage 15% vs stunned enemies.
 Damage 
 15% (vs. Stunned Enemies)
 Increases damage 10% vs stunned enemies.
 Damage 
 10% (vs. Stunned Enemies)
-Restores 600 HP 
-5 MP per 5 seconds during standby.
-Auto-Recover HP 
-MP (Standby)
-Restores 600 HP 
-5 MP per 10 seconds during standby.
-Auto-Recover HP 
-MP (Standby)
-Gain 600 HP 
-5 MP on enemy kill.
-MP Recovery on Kill
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Auto-Recover HP & MP (Standby)
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Auto-Recover HP & MP (Standby)
+Gain 600 HP & 5 MP on enemy kill.
+HP & MP Recovery on Kill
 Increases damage after skill connect by 40%
 Damage Up at Skill Connect
 Increases damage after skill connect by 20%
@@ -661,11 +656,9 @@ Crit. Damage
 Increases dmg. vs Non-elem. enemies by 1.5x.
 Damage Up (vs. Non-elem.)
 土属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-土属性の消費MP-10%
-クリティカルダメージ
-Increases Earth-elem. character's MP 
-def. by 3%.
-Def. 
+土属性の消費MP-10%&クリティカルダメージ
+Increases Earth-elem. character's MP & def. by 3%.
+MP & Def. 
 3% (Earth)
 Increases Earth-elem. character's defense by 6%.
 Def 
@@ -677,16 +670,13 @@ Increases Earth-elem. character's MP by 3%.
 3% (Earth)
 Increases Earth-elem. character's HP by 6%.
 6% (Earth)
-Increases Dark-elem. character's MP 
-Atk. by 3%.
-Atk. 
+Increases Dark-elem. character's MP & Atk. by 3%.
+MP & Atk. 
 3% (Dark)
 闇属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-闇属性の消費MP-10%
-クリティカルダメージ
-Increases Dark-elem. character's MP 
-def. by 3%.
-Def. 
+闇属性の消費MP-10%&クリティカルダメージ
+Increases Dark-elem. character's MP & def. by 3%.
+MP & Def. 
 3% (Dark)
 Increases Dark-elem. character's attack by 3%.
 Atk 
@@ -697,15 +687,13 @@ Increases Dark-elem. character's HP by 6%.
 6% (Dark)
 Increases Dark-elem. character's HP by 3%.
 3% (Dark)
-Increases Holy-elem. character's HP 
-MP by 3%.
+Increases Holy-elem. character's HP & MP by 3%.
+HP & MP 
 3% (Holy)
 聖属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-聖属性の消費MP-10%
-クリティカルダメージ
-Increases Holy-elem. character's MP 
-def. by 3%.
-Def. 
+聖属性の消費MP-10%&クリティカルダメージ
+Increases Holy-elem. character's MP & def. by 3%.
+MP & Def. 
 3% (Holy)
 Increases Holy-elem. character's attack by 3%.
 Atk 
@@ -722,9 +710,8 @@ Crit.
 10% (Wind)
 Reduces Wind-elem. character's Required MP by -10%.
 Required MP -10% (Wind)
-Increases Wind-elem. character's MP 
-def. by 3%.
-Def. 
+Increases Wind-elem. character's MP & def. by 3%.
+MP & Def. 
 3% (Wind)
 Increases Wind-elem. character's attack by 3%.
 Atk 
@@ -737,11 +724,9 @@ Increases Water-elem. character's defense by 6%.
 Def. 
 6% (Water)
 水属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-水属性の消費MP-10%
-クリティカルダメージ
-Increases Water-elem. character's MP 
-def. by 3%.
-Def. 
+水属性の消費MP-10%&クリティカルダメージ
+Increases Water-elem. character's MP & def. by 3%.
+MP & Def. 
 3% (Water)
 Increases Water-elem. character's attack by 3%.
 Atk 
@@ -750,20 +735,16 @@ Increases Water-elem. character's MP by 3%.
 3% (Water)
 Increases Water-elem. character's HP by 6%.
 6% (Water)
-Increases Fire-elem. character's HP 
-MP by 3%.
-MP. 
+Increases Fire-elem. character's HP & MP by 3%.
+HP & MP. 
 3% (Fire)
-Increases Fire-elem. character's MP 
-attack by 3%.
-Atk. 
+Increases Fire-elem. character's MP & attack by 3%.
+MP & Atk. 
 3% (Fire)
 火属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-火属性の消費MP-10%
-クリティカルダメージ
-Increases Fire-elem. character's MP 
-def. by 3%.
-Def. 
+火属性の消費MP-10%&クリティカルダメージ
+Increases Fire-elem. character's MP & def. by 3%.
+MP & Def. 
 3% (Fire)
 Increases Fire-elem. character's attack by 3%.
 Atk 
@@ -773,11 +754,9 @@ Increases Fire-elem. character's MP by 3%.
 Increases Fire-elem. character's HP by 6%.
 6% (Fire)
 無属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-無属性の消費MP-10%
-クリティカルダメージ
-Increases Non-elem. character's MP 
-def. by 3%.
-Def. 
+無属性の消費MP-10%&クリティカルダメージ
+Increases Non-elem. character's MP & def. by 3%.
+MP & Def. 
 3% (Non-elem.)
 Increases Non-elem. character's attack by 3%.
 Atk 
@@ -914,25 +893,29 @@ MP Recovery Ratio
 Increases MP gain 50.
 MP Recovery Ratio 
 Increases max MP and Crit. by 12%.
-Crit. 
+MP & Crit. 
 Increases max MP and Crit. by 3%.
-Crit. 
+MP & Crit. 
 Increases max MP and Atk. by 15%.
-Atk. 
+MP & Atk. 
 Increases max MP and Atk. by 12%.
-Atk. 
+MP & Atk. 
 Increases max MP and Atk. by 10%.
-Atk. 
+MP & Atk. 
 Increases max MP and Atk. by 6%.
-Atk. 
+MP & Atk. 
 Increases max HP and Atk. by 10%.
-Atk. 
+HP & Atk. 
 Increases max HP and Atk. by 6%.
-Atk. 
+HP & Atk. 
 Increases max HP and MP by 15%.
+HP & MP 
 Increases max HP and MP by 12%.
+HP & MP 
 Increases max HP and MP by 10%.
+HP & MP 
 Increases max HP and MP by 3%.
+HP & MP
 Increases HP by 6% when using a rod.
 6% (Rods)
 Increases max HP by 3000.
@@ -952,76 +935,46 @@ Increases max HP by 1200.
 Increases max HP by 900.
 Increases max HP by 600.
 Increases max HP by 300.
-Increase HP by 1800 
-raises Guard Durability higher than Lv9
-1800 
-Guard Durability Up
-Increase HP by 1800 
-raises Guard Durability higher than Lv8
-1800 
-Guard Durability Up
-Increase HP by 1500 
-raises Guard Durability higher than Lv7
-1500 
-Guard Durability Up
-Increase HP by 1500 
-raises Guard Durability higher than Lv6
-1500 
-Guard Durability Up
-Increase HP by 1200 
-raises Guard Durability higher than Lv5
-1200 
-Guard Durability Up
-Increase HP by 1200 
-raises Guard Durability higher than Lv4
-1200 
-Guard Durability Up
-Increase HP by 900 
-raises Guard Durability higher than Lv3
-900 
-Guard Durability Up
-Increase HP by 900 
-raises Guard Durability higher than Lv2
-900 
-Guard Durability Up
-Increase HP by 600 
-raises Guard Durability higher than Lv1
-600 
-Guard Durability Up
-Increase HP by 300 
-raises Guard Durability
-300 
-Guard Durability Up
+Increase HP by 1800 & raises Guard Durability higher than Lv9
+1800 & Guard Durability Up
+Increase HP by 1800 & raises Guard Durability higher than Lv8
+1800 & Guard Durability Up
+Increase HP by 1500 & raises Guard Durability higher than Lv7
+1500 & Guard Durability Up
+Increase HP by 1500 & raises Guard Durability higher than Lv6
+1500 & Guard Durability Up
+Increase HP by 1200 & raises Guard Durability higher than Lv5
+1200 & Guard Durability Up
+Increase HP by 1200 & raises Guard Durability higher than Lv4
+1200 & Guard Durability Up
+Increase HP by 900 & raises Guard Durability higher than Lv3
+900 & Guard Durability Up
+Increase HP by 900 & raises Guard Durability higher than Lv2
+900 & Guard Durability Up
+Increase HP by 600 & raises Guard Durability higher than Lv1
+600 & Guard Durability Up
+Increase HP by 300 & raises Guard Durability
+300 & Guard Durability Up
 Increases attack and critical hit rate by 500.
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases attack and critical hit rate by 450..
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases attack and critical hit rate by 400.
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases attack and critical hit rate by 350.
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases attack and critical hit rate by 300.
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases attack and critical hit rate by 250.
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases attack and critical hit rate by 200.
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases attack and critical hit rate by 150.
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases attack and critical hit rate by 100.
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases attack and critical hit rate by 50.
-Atk. 
-Crit. 
+Atk. & Crit. 
 Increases critical hit rate by 9%.
 Crit. 
 Increases critical hit rate by 18%.

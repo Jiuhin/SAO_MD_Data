@@ -68,6 +68,8 @@ Ga>e3
 L>e3
 Ga>e3
 L>d3
+>ff&
+>ff&
 L>d3
 L>d3
 L>f3
@@ -75,6 +77,8 @@ L>d3
 L>d3
 L>d3
 L>d3
+>ff&
+>ff&
 L>f3
 L>f3
 L>f3
@@ -143,6 +147,8 @@ L>d3
 L>d3
 L>d3
 L>d3
+>ff&
+>ff&
 L>d3
 L>d3
 L>d3

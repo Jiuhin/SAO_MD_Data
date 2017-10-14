@@ -404,6 +404,7 @@ dead
 dash
 damage
 back_step
+D&c.
 attack_9
 attack_8
 attack_7
@@ -26294,9 +26295,9 @@ attack_4
 attack_3
 attack_2_1024
 attack_2
-HCX[
+HCX[&
 attack_1_1024
-HCp_
+HCp_&
 attack_1
 appear
 attack_2_1024
@@ -26328,11 +26329,12 @@ dash
 damage
 back_step
 attack_7
+Cvo&
 attack_6_1024
 attack_6
 attack_5
 attack_4
-HCvz
+HCvz&
 attack_3
 attack_2_1024
 attack_2
@@ -30613,6 +30615,7 @@ attack_7_4035
 attack_6
 attack_5_4035
 attack_4_4035
+zC&e8
 attack_3_4035
 attack_2
 zC0n8
@@ -31004,6 +31007,7 @@ attack_7_4035
 attack_6
 attack_5_4035
 attack_4_4035
+zC&x<
 attack_3_4035
 attack_2
 attack_1_4035
@@ -31699,6 +31703,7 @@ attack_6_4007
 attack_5
 attack_4
 attack_3_4007
+C:&B
 attack_2
 Dt)B
 attack_14
@@ -33277,6 +33282,7 @@ attack_4
 attack_3_4007
 attack_2
 attack_13
+C0&M
 4CX-M
 attack_12
 attack_11
@@ -33605,6 +33611,7 @@ attack_4
 attack_3_4007
 attack_2
 attack_12
+C&WO
 attack_11
 attack_10
 attack_1
@@ -33741,6 +33748,7 @@ attack_6_4007
 attack_5
 attack_4
 attack_3_4007
+C&4P
 attack_2
 attack_12
 DdCP
@@ -34942,6 +34950,7 @@ attack_12
 attack_11
 0AL.X
 attack_10
+C&$X
 attack_1
 appear
 attack_18
@@ -35137,6 +35146,7 @@ attack_9
 CBFY
 attack_8
 attack_7
+C&LY
 attack_6
 attack_5
 attack_4
@@ -35450,6 +35460,7 @@ BnJ[
 attack_5
 attack_4
 attack_3
+C&T[
 attack_2
 attack_13
 attack_12
@@ -37287,6 +37298,7 @@ back_step
 attack_6
 D><c
 attack_5_800702
+iC&>c
 attack_5_800701
 iCVCc
 attack_5
@@ -37501,6 +37513,7 @@ dead
 dash
 damage
 back_step
+C4&d
 attack_6
 attack_5_800702
 attack_5_800701
@@ -39503,6 +39516,7 @@ attack_6
 attack_5
 attack_4
 attack_3
+C&Yo
 attack_2
 attack_12
 attack_11
@@ -44717,10 +44731,12 @@ back_step
 attack_9
 attack_8
 attack_7
+0A&M
 attack_6
 attack_5
 HBFW
 attack_4
+HC&b
 HCNb
 HCvb
 HC>c
@@ -44820,6 +44836,8 @@ attack_7
 attack_6
 attack_5
 attack_4
+HC>&
+HCf&
 attack_3
 attack_2
 attack_12
@@ -45583,6 +45601,7 @@ back_step
 attack_9
 attack_8
 attack_7
+0A&3
 attack_6
 attack_5
 attack_4
@@ -45733,6 +45752,7 @@ attack_7
 attack_6
 attack_5
 attack_4
+HC&p
 HCNp
 HCvp
 attack_3
@@ -46357,6 +46377,7 @@ attack_6
 attack_5
 HBBe
 attack_4
+HC&p
 HCNp
 HCvp
 HC>q
@@ -46599,6 +46620,7 @@ attack_7
 attack_6
 attack_5
 attack_4
+HC&X
 HCNX
 HCvX
 attack_3
@@ -47075,6 +47097,8 @@ attack_7
 attack_6
 attack_5
 attack_4
+HC>&
+HCf&
 HC.'
 HCV'
 HCd'
@@ -47219,6 +47243,7 @@ attack_7
 attack_6
 attack_5
 attack_4
+HC&L
 HCNL
 HCvL
 HC$M
@@ -51835,6 +51860,7 @@ attack_7
 attack_6
 attack_5
 attack_4_4009
+HC&n
 attack_3
 attack_2
 attack_1_4014
@@ -52012,6 +52038,7 @@ back_step
 attack_7_4009
 attack_6_400902
 attack_6_400901
+zD&F
 attack_6_4009
 attack_5_4009
 attack_4_4009
@@ -57049,6 +57076,7 @@ damage
 back_step
 attack_9
 attack_8
+WC&&
 attack_7
 attack_6
 attack_5_4021
@@ -57683,6 +57711,7 @@ attack_3_4034
 attack_2
 attack_18_4052
 attack_15
+HD&q
 attack_14
 attack_13
 attack_10

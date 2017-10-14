@@ -106,58 +106,47 @@ Complete
 Leafa's Birthday Quest
 9007126,2,30
 Complete 
-Vanguard 
-Rearguard (Master)
+Vanguard & Rearguard (Master)
 in under 30 secs.
 9007125,2,40
 Complete 
-Vanguard 
-Rearguard (Exp.)
+Vanguard & Rearguard (Exp.)
 in under 40 secs.
 9007124,2,40
 Complete 
-Vanguard 
-Rearguard (Int.)
+Vanguard & Rearguard (Int.)
 in under 40 secs.
 9007126,2,2,1
 Day8: Complete 
-Vanguard 
-Rearguard (Master)
+Vanguard & Rearguard (Master)
 with at least one Dual Blades character.
 9007126,2,1,1
 Day7: Complete 
-Vanguard 
-Rearguard (Master)
+Vanguard & Rearguard (Master)
 with at least one Sword character.
 9007126,2,4,1
 Day6: Complete 
-Vanguard 
-Rearguard (Master)
+Vanguard & Rearguard (Master)
 with at least one Dagger character.
 9007125,2,5,1
 Day5: Complete 
-Vanguard 
-Rearguard (Exp.)
+Vanguard & Rearguard (Exp.)
 with at least one Mace character.
 9007125,2,6,1
 Day4: Complete 
-Vanguard 
-Rearguard (Exp.)
+Vanguard & Rearguard (Exp.)
 with at least one Gun character.
 9007125,2,7,1
 Day3: Complete 
-Vanguard 
-Rearguard (Exp.)
+Vanguard & Rearguard (Exp.)
 with at least one Bow character.
 9007124,2,3,1
 Day2: Complete 
-Vanguard 
-Rearguard (Int.)
+Vanguard & Rearguard (Int.)
 with at least one Rapier character.
 9007124,2,8,1
 Day1: Complete 
-Vanguard 
-Rearguard (Int.)
+Vanguard & Rearguard (Int.)
 with at least one Rod character.
 9007117-9007120-9007123,1,50
 Episode Gullinkambi: Clear any of Master quests under 50 secs

@@ -67551,8 +67551,7 @@ Aaaaagh
 Rain
 1840083_12_a
 It must be great to see all
-your R
-D work paying off with
+your R&D work paying off with
 these guys, right, Nana...
 Rain
 1840083_11_a
@@ -160248,7 +160247,7 @@ Gtacs
 Gtacs
 19005_40_a
 Eyaaagh
-Salamanders F 
+Salamanders F & G
 19005_39_a
 19005_38_a
 Leafa
@@ -160256,13 +160255,13 @@ Leafa
 Gtacs
 19005_36_a
 Gyaaaah
-Salamanders D 
+Salamanders D & E
 19005_35_a
 bg_19_legrue_lake_night
 Gtacs
 19005_34_a
 bg_black
-Salamanders D 
+Salamanders D & E
 19005_33_a
 Echo ba-
 Mage Squad
@@ -160288,7 +160287,7 @@ if you stick to the plan
 Gtacs
 19005_27_a
 Waaah
-Salamanders B 
+Salamanders B & C
 19005_26_a
 Gtacs
 19005_25_a
@@ -160545,8 +160544,7 @@ A wall
 Leafa
 19003_6_a
 bg_19_legrue_lake_night
-Kirito 
-Leafa
+Kirito & Leafa
 19003_5_a
 Watch where you're going or
 you'll fall in
@@ -161060,7 +161058,7 @@ Leafa
 Kirito
 18006_3_a
 Graaawr
-Evil Glancers A 
+Evil Glancers A & B
 18006_2_a
 bg_event_alo_sky
 Hrraaahhh
@@ -162821,8 +162819,7 @@ the one keeping Asuna alive.
 Sugo
 15001_25_a
 And I work for the company's
-FullDive technology R
-D division.
+FullDive technology R&D division.
 Sugo
 15001_24_a
 The SAO servers were given to an
@@ -163580,8 +163577,7 @@ How many did we lose
 Klein
 13008_1_a
 RRRAAAAAAAHHHHH
-Kirito 
-Asuna
+Kirito & Asuna
 13007_44_a
 Asuna and I will deal with the
 scythes
@@ -164601,8 +164597,7 @@ Kirito
 12007_1_a
 Wha-
 She said our names correctly
-Kirito 
-Asuna
+Kirito & Asuna
 12006_20_a
 Yes. I can explain everything...
 Kirito and Asuna.
@@ -164628,8 +164623,7 @@ The Fatal Scythe
 12006_13_a
 still_12_yui_generate_sword
 Whoa
-Kirito 
-Asuna
+Kirito & Asuna
 12006_12_a
 still_12_yui_generate_sword
 12006_11_a
@@ -165295,8 +165289,7 @@ bg_11_church_alley
 Leave them alone and let them go
 Sasha
 11010_8_a
-Kirito 
-Asuna
+Kirito & Asuna
 11010_7_a
 Kirito
 11010_6_a
@@ -167574,8 +167567,7 @@ The Gleam Eyes
 still_08_the_gleam_eyes
 9001_10_a
 still_09_gleam_eyes_appear
-Kirito 
-Asuna
+Kirito & Asuna
 9001_9_a
 bg_09_dungeon_boss
 Asuna
@@ -167609,8 +167601,7 @@ GRRAAAAAUUUUWWW
 The Gleam Eyes
 8011_13_a
 still_08_the_gleam_eyes
-Kirito 
-Asuna
+Kirito & Asuna
 8011_12_a
 bg_black
 Asuna
@@ -168732,7 +168723,7 @@ still_07_xrphan_dive
 GRAAAAAWWWRRR
 X'rphan the White Wyrm
 7009_33_a
-Kirito 
+Kirito & Liz
 7009_32_a
 Kirito
 7009_31_a
@@ -170127,8 +170118,7 @@ That was Griselda's ghost. She's
 come back to get revenge on us
 Schmitt
 6001_23_a
-Kirito 
-Asuna
+Kirito & Asuna
 6001_22_a
 Kirito
 6001_21_a

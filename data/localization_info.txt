@@ -634,10 +634,8 @@ Please select a quest.
 Please select an area.
 The Supporters feature has been unlocked.
 Tap char. icon: Switch
-Guard 
-flick up: Parry
-Tap 
-hold: Guard
+Guard & flick up: Parry
+Tap & hold: Guard
 Drag: Move
 Tap: Attack
 Multiple taps: Combo

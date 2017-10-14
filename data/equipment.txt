@@ -1578,55 +1578,41 @@ Dual Melodious Twins R5
 weapon02_0020
 Dual Melodious Twins R4
 weapon02_0020
-Dark Palm Sword 
-Denfare Slicer R5
+Dark Palm Sword & Denfare Slicer R5
 weapon02_0019
-Dark Palm Sword 
-Denfare Slicer R4
+Dark Palm Sword & Denfare Slicer R4
 weapon02_0019
-Elucidator 
-Dark Repulsor
+Elucidator & Dark Repulsor
 1 R5
 weapon02_0018
-Elucidator 
-Dark Repulsor
+Elucidator & Dark Repulsor
 1 R4
 weapon02_0018
-Elder Sword 
-Seeker Sword
+Elder Sword & Seeker Sword
 1 R5
 weapon02_0017
-Elder Sword 
-Seeker Sword
+Elder Sword & Seeker Sword
 1 R4
 weapon02_0017
 Dual Hydrangea Sword R5
 weapon02_0016
 Dual Hydrangea Sword R4
 weapon02_0016
-Elder Sword 
-Seeker Sword R5
+Elder Sword & Seeker Sword R5
 weapon02_0015
-Elder Sword 
-Seeker Sword R4
+Elder Sword & Seeker Sword R4
 weapon02_0015
-Holy Caliber 
-Jingle Blade R5
+Holy Caliber & Jingle Blade R5
 weapon02_0014
-Holy Caliber 
-Jingle Blade R4
+Holy Caliber & Jingle Blade R4
 weapon02_0014
-Solar Repulsor 
-Devil Silencer R5
+Solar Repulsor & Devil Silencer R5
 weapon02_0013
-Solar Repulsor 
-Devil Silencer R4
+Solar Repulsor & Devil Silencer R4
 weapon02_0013
-Unity Walks 
-Divination R5
+Unity Walks & Divination R5
 weapon02_0011
-Unity Walks 
-Divination R4
+Unity Walks & Divination R4
 weapon02_0011
 Shark's Bite R4
 weapon02_0010
@@ -1646,24 +1632,19 @@ Dual Jagged Edges R3
 weapon02_0008
 Dual Jagged Edges R2
 weapon02_0008
-Elucidator 
-Dark Repulsor R5
+Elucidator & Dark Repulsor R5
 weapon02_0007
-Elucidator 
-Dark Repulsor R4
+Elucidator & Dark Repulsor R4
 weapon02_0007
 Dual Artisan's Swords R4
 weapon02_0006
 Dual Artisan's Swords R3
 weapon02_0006
-Q. Knightsword 
-B. Gemsword R4
+Q. Knightsword & B. Gemsword R4
 weapon02_0005
-Q. Knightsword 
-B. Gemsword R3
+Q. Knightsword & B. Gemsword R3
 weapon02_0005
-Q. Knightsword 
-B. Gemsword R2
+Q. Knightsword & B. Gemsword R2
 weapon02_0005
 Dual Annealed Blades R4
 weapon02_0004
@@ -1671,11 +1652,9 @@ Dual Annealed Blades R3
 weapon02_0004
 Dual Annealed Blades R2
 weapon02_0004
-Slash 
-Silver Swords R3
+Slash & Silver Swords R3
 weapon02_0003
-Slash 
-Silver Swords R2
+Slash & Silver Swords R2
 weapon02_0003
 Dual Iron Swords 
 2 R2
