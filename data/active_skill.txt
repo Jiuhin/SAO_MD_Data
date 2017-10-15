@@ -1,329 +1,329 @@
 skill_icon_lance_3_
 Dives into the enemy with a thrust and continues the attack with Libra magic. Likely to stun an enemy.
-Libra Spark
-Libra Spark
+Libra Spark+
+Libra Spark+
 skill_icon_lance_3_
 Showers lances and splits the enemy apart with the power of the Leo. Likely to stun an enemy.
-Leo Shower
-Leo Shower
+Leo Shower+
+Leo Shower+
 skill_icon_rod_3_
 Enemies get burned down with the flame of love. Activates an attack-invalidating barrier. Increase your own attack.
-Lovely Flame
-Lovely Flame
+Lovely Flame+
+Lovely Flame+
 skill_icon_rod_3_
 Summoned Pina divides, and delivers large amount of Dark Breath to an enemy. Your attack, speed and critical increases.
-Kagebunshin Ryusei
-Kagebunshin Ryusei
+Kagebunshin Ryusei+
+Kagebunshin Ryusei+
 skill_icon_rod_3_
 A high-level spell. Attack with a violent tsunami and increase your critical rate and speed.
-Blue Overdrive
-Blue Overdrive
+Blue Overdrive+
+Blue Overdrive+
 skill_icon_rod_3_
 Increase your own attack. Concentrate cold air into an ice force field from the ground swiftly.
-Absolute Zero
-Absolute Zero
+Absolute Zero+
+Absolute Zero+
 skill_icon_rod_3_
 A high-level dark spell. Send a magic bat flying, causing an explosion of darkness. Increase own speed.
-Bad Bats
-Bad Bats
+Bad Bats+
+Bad Bats+
 skill_icon_bow_3_
 Appears behind the enemy and attacks using her equipment as a whip. Activates an attack-invalidating barrier. Increases own attack and speed.
-Shining on Stage
-Shining on Stage
+Shining on Stage+
+Shining on Stage+
 skill_icon_bow_3_
 Attacks by shower of holy pompons, increasing attack of all party members by cheering.
-Cheers Fall
-Cheers Fall
+Cheers Fall+
+Cheers Fall+
 skill_icon_bow_3_
 Increase your own attack and teleport, then fire special arrows from behind the enemy while replenishing your HP.
-Devil's Sting
-Devil's Sting
+Devil's Sting+
+Devil's Sting+
 skill_icon_bow_3_
 Fire ice arrows in mid-air that sprout icebergs on impact. The ice sparkles like diamonds.
-Diamond Dust
-Diamond Dust
+Diamond Dust+
+Diamond Dust+
 skill_icon_gun_3_
 Scamper through enemies rapidly, lob apple shaped grenades. Decrease attack and defense of enemies. Increase own attack.
-Dangerous Apple
-Dangerous Apple
+Dangerous Apple+
+Dangerous Apple+
 skill_icon_gun_3_
 Put a electromagnetic bullet in the gun and shoot. Increase your attack and auto heals HP.
-Extended spark
-Extended Spark
+Extended spark+
+Extended Spark+
 skill_icon_gun_3_
 Increase your attack power and fire a phantasmal gunshot at an enemy.
-Phantom Bullet
-Phantom Bullet
+Phantom Bullet+2
+Phantom Bullet+2
 skill_icon_mace_3_
 A sword skill that delivers combo like baton twirling, increasing attack of all party members and your own speed by cheering.
-Cheerful Upper
-Cheerful Upper
+Cheerful Upper+
+Cheerful Upper+
 skill_icon_mace_3_
 A sword skill that hammers the enemy with a club, as well as replenishing your HP and increasing your movement speed.
-Stun Concussion
-Stun Concussion
+Stun Concussion+
+Stun Concussion+
 skill_icon_mace_3_
 Increase your attack and quickly swing your club with a powerful burst of explosive energy.
-Asteroid Belt
-Asteroid Belt
+Asteroid Belt+
+Asteroid Belt+
 skill_icon_dagger_3_
 Slam down carrier bag and decreases attack and defense of enemies. Aircrafts do consecutive attacks.
-Traveling Smash
-Traveling Smash
+Traveling Smash+
+Traveling Smash+
 skill_icon_dagger_3_
 A sword skill that uses a curtain to attack after moving quickly. Activates an attack-invalidating barrier. Increases your attack.
-Raise the Curtain
-Raise the Curtain
+Raise the Curtain+
+Raise the Curtain+
 skill_icon_dagger_3_
 Shoots a flower like shock wave after continuous attacks. Also enhances your movement speed and attack.
-Elegant Blooming
-Elegant Blooming
+Elegant Blooming+
+Elegant Blooming+
 skill_icon_dagger_3_
 A sword skill that delivers combo and swings a dagger as a finishing stroke, increasing attack of all party members by cheering.
-Cheery Stars
-Cheery Stars
+Cheery Stars+
+Cheery Stars+
 skill_icon_dagger_3_
 Perform successive attack while the small dragon Pina's AI is breathing. Increase your attack and auto heals HP.
-Draconic Stream
-Draconic Stream
+Draconic Stream+
+Draconic Stream+
 skill_icon_dagger_3_
 Sneak behind an enemy as Pina douses them in a defense-lowering breath attack.
-Sweet Breath
-Sweet Breath
+Sweet Breath+
+Sweet Breath+
 skill_icon_dagger_3_
 Increase your attack and speed,  unleash an anti-air combo in mid-air with this sword skill.
-Innocent Blossom
-Innocent Blossom
+Innocent Blossom+
+Innocent Blossom+
 skill_icon_dagger_3_
 While receiving benefits from Pina's breath, perform a magic-imbued strike using this sword skill.
-Sirius's Spark
-Sirius's Spark
+Sirius's Spark+
+Sirius's Spark+
 skill_icon_dagger_3_
 A sword skill that thrashes at the ground in front of you. Also slightly increases both your attack and defense.
-Grey's Palette
-Grey's Palette
+Grey's Palette+
+Grey's Palette+
 skill_effect_83105
 skill_effect_83105
 skill_icon_dagger_3_
 A sword skill. Use magic to deal a devastating blow to your opponent while stealing their HP.
-Witch's Strike
-Witch's Strike
+Witch's Strike+
+Witch's Strike+
 skill_icon_dagger_3_
 Increase your own attack. Strike twice with a dagger, then get Pina to perform Bubble Breath on you.
-Bubble Cleaver
-Bubble Cleaver
+Bubble Cleaver+
+Bubble Cleaver+
 skill_effect_83102
 skill_effect_83102
 skill_icon_dagger_3_
 A sword skill. Use your dagger to block an attack, counter, and lower their defense.
-Sword Breaker
-Sword Breaker
+Sword Breaker+
+Sword Breaker+
 skill_icon_dagger_3_
 Summon Pina, whose breath replenishes your HP and temporarily boosts your attack and reduces damage.
-Healing Breath
-Healing Breath
+Healing Breath+2
+Healing Breath+2
 skill_icon_dagger_3_
 Summon Pina, whose breath replenishes your HP and temporarily boosts your attack. Reduced MP.
-Healing Breath
-Healing Breath
+Healing Breath+
+Healing Breath+
 skill_icon_finesword_3_
 After throwing a syringe, attack and fire a fatal shot. Decreases defense and attack of enemies.
-Love Injection
-Love Injection
+Love Injection+
+Love Injection+
 skill_icon_finesword_3_
 Casts a shining spell and attack enemies with a swift thrust and multiple magic arts. Likely to stun an enemy.
-Shining Gemini
-Shining Gemini
+Shining Gemini+
+Shining Gemini+
 skill_icon_finesword_3_
 A sword skill that leads into a Shooting Star through use of Skill Connect.
-Flashing Lance
-Flashing Lance
+Flashing Lance+
+Flashing Lance+
 skill_icon_finesword_3_
 Slashes on enemies overhead with teleportation Nin-jutsu. Enhances your speed and critical rate.
-Shadowflash Slash
-Shadowflash Slash
+Shadowflash Slash+
+Shadowflash Slash+
 skill_effect_63113
 skill_effect_63113
 skill_icon_finesword_3_
 Increase your attack and auto heals HP and deal ten hits in the shape of a cross, followed by a central attack.
-Mother's Rosario
-Mother's Rosario
+Mother's Rosario+
+Mother's Rosario+
 skill_icon_finesword_3_
 Performs a spinning slash which spills her hidden desserts. Enhances movement speed by eating the desserts.
-Unintended Rolling
-Unintended Rolling
+Unintended Rolling+
+Unintended Rolling+
 skill_icon_finesword_3_
 Unleash a barrage of thrusts in the shape of a heart, then finish off the enemy with a single hit, lowering their defense.
-Warm Splash
-Warm Splash
+Warm Splash+
+Warm Splash+
 skill_icon_finesword_3_
 Increase your critical rate & attack and unleash a flurry of watery rapiers in this combo-hitting sword skill.
-Valiant Neptune
-Valiant Neptune
+Valiant Neptune+
+Valiant Neptune+
 skill_icon_finesword_3_
 A sword skill. Increase your attack and unleash an anti-air four-hit combo from all directions.
-Flaming Bloom
-Flaming Bloom
+Flaming Bloom+
+Flaming Bloom+
 skill_icon_finesword_3_
 Unleash a chain of attacks behind the enemy. Also recovers HP and increase Atk and movement speed.
-Twinkling Comet
-Twinkling Comet
+Twinkling Comet+
+Twinkling Comet+
 skill_icon_finesword_3_
 Increases Atk. Unleash a flurry of thrusts, then a final brutal one, which drains HP.
-Trick or Treat
-Trick or Treat
+Trick or Treat+
+Trick or Treat+
 skill_icon_finesword_3_
 A sword skill. Enhance your speed and unleash a four-hit rapier wind combo.
-Gale Dance
-Gale Dance
+Gale Dance+
+Gale Dance+
 skill_icon_finesword_3_
 Enhance your speed and unleash a blinding eight-hit combo.
-Star Splash
-Star Splash
+Star Splash+
+Star Splash+
 skill_effect_33103
 skill_effect_33103
 skill_icon_dualblade_3_
 A sword skill which increases Atk. Thrust two swords into the enemy and absorb their HP.
-Bloody Fang
-Bloody Fang
+Bloody Fang+
+Bloody Fang+
 skill_effect_33102
 skill_effect_33102
 skill_icon_dualblade_3_
 A sword skill. Alternate between both hands to score a 15-hit combo with a one-handed sword.
-Skill Connect
-Skill Connect
+Skill Connect+
+Skill Connect+
 skill_icon_dualblade_3_
 Increase your attack power and quickly swing both swords in a 16-hit combo.
-Starburst Stream
-Starburst Stream
+Starburst Stream+2
+Starburst Stream+2
 skill_icon_dualblade_3_
 Increase your attack power and quickly swing both swords in a 16-hit combo.
-Starburst Stream
-Starburst Stream
+Starburst Stream+
+Starburst Stream+
 skill_icon_sword_3_
 It activates a barrier and when the sword on fire hits an enemy, a fiery ball appears.
-Object Eraser
-Object Eraser
+Object Eraser+
+Object Eraser+
 skill_icon_sword_3_
 Restores your party's HP, making yourself unbeatable. Attack enemies with tropical fruits.
-Tropical Rocket
-Tropical Rocket
+Tropical Rocket+
+Tropical Rocket+
 skill_icon_sword_3_
 Casts a fountain from the ground. Heals your HP and is likely to stun an enemy.
-Aqua fountain
-Aqua fountain
+Aqua fountain+
+Aqua fountain+
 skill_icon_sword_3_
 Releases the memory of 
 Fragrant Olive Sword
 to slash apart captured enemies. Raises ATK, Crit and Speed.
-Release Recollection
-Fragrant Olive Flash
+Release Recollection+
+Fragrant Olive Flash+
 skill_icon_sword_3_
 Discharge an infinite number of swords from her skirt. Increase your attack. It activates the effect of automatic recovery.
-Assassination Sword
-Assassination Sword
+Assassination Sword+
+Assassination Sword+
 skill_icon_sword_3_
 A sparkling spell creates a prism clock shooting 12 swords as the time ticks. Decreases enemy defence and attack.
-Midnight Prism
-Midnight Prism
+Midnight Prism+
+Midnight Prism+
 skill_icon_sword_3_
 Enhance movement speed and blows a strong wind by the flute.
-Stormy Bloom
-Stormy Bloom
+Stormy Bloom+
+Stormy Bloom+
 skill_icon_sword_3_
 A sword skill that delivers powerful combo taught by her daddy, increasing attack of all party members by cheering.
-Bravery Slash
-Bravery Slash
+Bravery Slash+
+Bravery Slash+
 skill_icon_sword_3_
 Emit a heart-shaped shock wave from your blade and lower the enemy's defense with this sword skill.
-Radiant Heart
-Radiant Heart
+Radiant Heart+
+Radiant Heart+
 skill_icon_sword_3_
 A sword skill. Increase your critical rate & attack and strike with a torrent of water.
-Raging Torrent
-Raging Torrent
+Raging Torrent+
+Raging Torrent+
 skill_icon_sword_3_
 Enhance your movement speed and unleash an anti-air sword skill that floats like a dancing butterfly.
-Boisterous Butterfly
-Boisterous Butterfly
+Boisterous Butterfly+
+Boisterous Butterfly+
 skill_effect_23113
 skill_effect_23113
 skill_icon_sword_3_
 Enhance your attack and movement speed and unleash a dancing 8-chain attack with this sword skill.
-Spinning Force
-Spinning Force
+Spinning Force+
+Spinning Force+
 skill_icon_sword_3_
 A sword skill. Enhance attack and movement speed. Imbue sword strikes with wind magic.
-Sylphish Thrust
-Sylphish Thrust
+Sylphish Thrust+
+Sylphish Thrust+
 skill_icon_sword_3_
 Increases Atk and Speed.Strikes the enemy from all directions. Restores damage dealt as health.
-Starry Sky
-Starry Sky
+Starry Sky+
+Starry Sky+
 skill_icon_sword_3_
 A sword skill. Harness the wind to perform a spinning slash combo at an enhanced speed.
-Gusty Raid
-Gusty Raid
+Gusty Raid+
+Gusty Raid+
 skill_icon_sword_3_
 Rain's OSS. Summon an endless hail of swords from a rift in spacetime to launch at your enemies.
-Thousand Rain
-Thousand Rain
+Thousand Rain+
+Thousand Rain+
 skill_effect_23104
 skill_effect_23104
 skill_icon_sword_3_
 A sword skill. Increase your attack power and unleash an upward and then downward strike.
-Calamity Drive
-Calamity Drive
+Calamity Drive+
+Calamity Drive+
 skill_effect_23102
 skill_effect_23102
 skill_icon_sword_3_
 Increase your attack and deal ten hits in the shape of a cross, followed by a central attack.
-Mother's Rosario
-Mother's Rosario
+Mother's Rosario+
+Mother's Rosario+
 skill_icon_sword_3_
 Increase your speed, whip up a ferocious gale, and fire a wind-element magical sword.
-Fenrir Cyclone
-Fenrir Cyclone
+Fenrir Cyclone+2
+Fenrir Cyclone+2
 skill_icon_sword_3_
 Increase your speed, whip up a ferocious gale, and fire a wind-element magical sword.
-Fenrir Cyclone
-Fenrir Cyclone
+Fenrir Cyclone+
+Fenrir Cyclone+
 skill_icon_rod_3_
 Launch a mass of rocks that tear into the earth which decreases defence.
-Deathrock Cluster
-Deathrock Cluster
+Deathrock Cluster+
+Deathrock Cluster+
 skill_icon_rod_3_
 Increase your attack and draw a devastating pillar of light onto a target. Reduced cast time.
-Divine Ray
-Divine Ray
+Divine Ray+
+Divine Ray+
 skill_icon_rod_3_
 Increase your attack Bring forth slicing winds that unleash combo hits across a wide area.
-Tyrant Hurricane
-Tyrant Hurricane
+Tyrant Hurricane+
+Tyrant Hurricane+
 skill_icon_sword_3_
 Rising once again in augmented reality, increases your attack and auto heals HP and a hero accelerates further to unleash this 16-hit move.
-AugKinetic Accel
-AugKinetic Accel
+AugKinetic Accel+
+AugKinetic Accel+
 skill_icon_sword_3_
 Increase your attack power and deliver a quick and devastating slash.
-Zessen
-Zessen
+Zessen+
+Zessen+
 skill_icon_gun_3_
 Increase your attack power and fire a phantasmal gunshot at an enemy.
-Phantom Bullet
-Phantom Bullet
+Phantom Bullet+
+Phantom Bullet+
 skill_icon_mace_3_
 A sword skill. Increase your attack. Chant, causing lightning to strike together with your club.
-Lightning Comet
-Lightning Comet
+Lightning Comet+
+Lightning Comet+
 skill_icon_mace_3_
 Increase your both your attack and defense and swing your club violently, delivering a blow with meteoric power.
-Meteor Impact
-Meteor Impact
+Meteor Impact+2
+Meteor Impact+2
 skill_icon_mace_3_
 Increase your attack and swing your club violently, delivering a blow with meteoric power.
-Meteor Impact
-Meteor Impact
+Meteor Impact+
+Meteor Impact+
 skill_icon_shield_3_
 A sword skill. Call the judgement thunder and strike an enemy with lightning.
 Judgement Slash

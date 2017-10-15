@@ -27,69 +27,11 @@ Complete OS Episode 0
 Someone's Requiem
 Skill Slot material present
 Join a Guild
-9014001
-9014002
-9014003
-9014004
-9014005
-9014006
-9014007
-9014008
-9014009
-9014010
-9014011
-9014012
-9014013
-9014014
-9014015
-9014016
-9014017
-9014018
-9014019
-9014020
-9014021
-9014022
-9014023
-9014024
-9014025
-9014026
-9014027
-9014028
-9014029
-9014030,1,1
+9014001+9014002+9014003+9014004+9014005+9014006+9014007+9014008+9014009+9014010+9014011+9014012+9014013+9014014+9014015+9014016+9014017+9014018+9014019+9014020+9014021+9014022+9014023+9014024+9014025+9014026+9014027+9014028+9014029+9014030,1,1
 Complete all the 30 kinds of 
 All Star Quest
 with an S rank.
-9014001
-9014002
-9014003
-9014004
-9014005
-9014006
-9014007
-9014008
-9014009
-9014010
-9014011
-9014012
-9014013
-9014014
-9014015
-9014016
-9014017
-9014018
-9014019
-9014020
-9014021
-9014022
-9014023
-9014024
-9014025
-9014026
-9014027
-9014028
-9014029
-9014030,1,4
+9014001+9014002+9014003+9014004+9014005+9014006+9014007+9014008+9014009+9014010+9014011+9014012+9014013+9014014+9014015+9014016+9014017+9014018+9014019+9014020+9014021+9014022+9014023+9014024+9014025+9014026+9014027+9014028+9014029+9014030,1,4
 Complete all the 30 kinds of 
 All Star Quest
 9013001
@@ -277,15 +219,15 @@ The Mysterious Beast
 (Expert)
 8026005,3,45
 Complete 
-Zerg the Flame Caller  (Master 
+Zerg the Flame Caller  (Master +1)
 under 45 seconds.
 8026005,3
 Complete 
-Zerg the Flame Caller  (Master 
+Zerg the Flame Caller  (Master +1)
 without down.
 8026005
 Complete 
-Zerg the Flame Caller  (Master 
+Zerg the Flame Caller  (Master +1)
 3030012-3030013-3030014-3030015-3030016-3030017-3030018-3030019-3030020-3030021,50
 Defeat 50 of the Zerg the Flame Caller appeared in the current guild event. 
 8026004,3,45
@@ -318,7 +260,7 @@ The Death in the Abyss (EX)
 with guild members in Multi under 45 seconds.
 1230007,50
 Defeat 50 of the The Fatal Scythe from 
-The Death in the Abyss (Master 
+The Death in the Abyss (Master +1)
 in the guild. 
 8025004,3,80
 Complete 
@@ -378,11 +320,11 @@ Complete
 The Death in the Abyss (Int.)
 8025005,3,45
 Complete 
-The Death in the Abyss (Master 
+The Death in the Abyss (Master +1)
 under 45 seconds.
 8025005
 Complete 
-The Death in the Abyss (Master 
+The Death in the Abyss (Master +1)
 8025004,3,45
 Complete 
 The Death in the Abyss (Master)
@@ -461,8 +403,7 @@ without down.
 8022004,3,6
 Complete 
 Goblin the Great Idol Fan (Master)
-with 6
-parries.
+with 6+ parries.
 8022003
 Complete 
 Goblin the Great Idol Fan (EX)
@@ -474,7 +415,7 @@ Complete
 Goblin the Great Idol Fan (Int.)
 8021005,2,90
 Complete 
-Minotaurs' Treasury (Master 
+Minotaurs' Treasury (Master +1)
 in under 90 secs.
 802001,700000
 Earn a score of 700,000 in 
@@ -497,8 +438,7 @@ under 1 minute.
 8019003,3,6
 Complete 
 Unseasonable Dark Saint (EX)
-with 6
-parries.
+with 6+ parries.
 8019003,3
 Complete 
 Unseasonable Dark Saint (EX)
@@ -524,8 +464,7 @@ under 1 minute.
 8018003,3,6
 Complete 
 Halloween Returns (EX)
-with 6
-parries.
+with 6+ parries.
 8018003,3
 Complete 
 Halloween Returns (EX)
@@ -551,8 +490,7 @@ in under 1 minute.
 8017003,3,6
 Complete 
 Gluttonous Kobold Okawari (EX)
-with 6
-parries.
+with 6+ parries.
 8017003,3
 Complete 
 Gluttonous Kobold Okawari (EX)
@@ -608,8 +546,7 @@ in under 1 minute.
 8014003,3,6
 Complete 
 Undead Dullahan (EX)
-with 6
-parries.
+with 6+ parries.
 8014003,3,75
 Complete 
 Undead Dullahan (EX)
@@ -635,8 +572,7 @@ in under 1 minute.
 8013003,3,6
 Complete 
 Ice-Flame Dragon (EX)
-with 6
-parries.
+with 6+ parries.
 8013003,3,75
 Complete 
 Ice-Flame Dragon (EX)
@@ -662,8 +598,7 @@ in under 1 minute.
 8012003,3,6
 Complete 
 Sinon Return Match (EX)
-with 6
-parries.
+with 6+ parries.
 8012003,3,75
 Complete 
 Sinon Return Match (EX)
@@ -689,8 +624,7 @@ in under 1 minute.
 8011003,3,6
 Complete 
 Return of the Mysterious Beast (EX)
-with 6
-parries.
+with 6+ parries.
 8011003,3,75
 Complete 
 Return of the Mysterious Beast (EX)
@@ -716,8 +650,7 @@ in under 1 minute.
 8009003,3,6
 Complete 
 the Minotaurus (EX)
-with 6
-parries.
+with 6+ parries.
 8009003,3,75
 Complete 
 Return of the Minotaurus (EX)
@@ -756,7 +689,7 @@ Return of the Storm Wyrm (Int.)
 7024005
 Complete 
 CM Character Introduction (
-) (Master
+) (Master+1)
 7024004
 Complete 
 CM Character Introduction (
@@ -803,20 +736,19 @@ Complete
 Traveling Smash (Master)
 7019004-7019008-7019011-7019012-7019015-7019016-7019019-7019020-7019023-7019024,1,60
 Complete one of 
-Character Intro Quests (Master or Master
-1) in under 1 minute.
+Character Intro Quests (Master or Master+1) in under 1 minute.
 7019024
 Complete 
-Dove Splash (Master
+Dove Splash (Master+1)
 7019020
 Complete 
-Fragrant Olive Carpet (Master
+Fragrant Olive Carpet (Master+1)
 7019016
 Complete 
-Blessing Light (Master
+Blessing Light (Master+1)
 7019012
 Complete 
-Bouquet of Happiness (Master
+Bouquet of Happiness (Master+1)
 7018005,1,3,2
 Complete 
 Libra Spark (Master)
@@ -1041,56 +973,29 @@ Complete
 Starburst Stream (Expert)
 4901007,2,5000000
 Complete 
-The Beast Lords in League Master
-1(Holy)
+The Beast Lords in League Master+1(Holy)
 with a Multi Score of 5,000,000 or higher.
 4901006,2,5000000
 Complete 
-The Beast Lords in League Master
-1(Earth)
+The Beast Lords in League Master+1(Earth)
 with a Multi Score of 5,000,000 or higher.
 4901005,2,5000000
 Complete 
-The Beast Lords in League Master
-1(Fire)
+The Beast Lords in League Master+1(Fire)
 with a Multi Score of 5,000,000 or higher.
 4901004,2,5000000
 Complete 
-The Beast Lords in League Master
-1(Void)
+The Beast Lords in League Master+1(Void)
 with a Multi Score of 5,000,000 or higher.
-4066001
-4066002
-4066003
-4066004
-4066005
-4066006
-4066007
-4066008
-4066009
-4066010
-4066011
-4066012
-4066013,1,1
+4066001+4066002+4066003+4066004+4066005+4066006+4066007+4066008+4066009+4066010+4066011+4066012+4066013,1,1
 Complete all the 1-25F at the QT Point Clearing Event 
 The Two Headed Monster
 with an S rank.
-4066006
-4066007
-4066008
-4066009
-4066010
-4066011
-4066012
-4066013,1,1
+4066006+4066007+4066008+4066009+4066010+4066011+4066012+4066013,1,1
 Complete all the 11-25F at the QT Point Clearing Event 
 The Two Headed Monster
 with an S rank.
-4066001
-4066002
-4066003
-4066004
-4066005,1,1
+4066001+4066002+4066003+4066004+4066005,1,1
 Complete all the 1-10F at the QT Point Clearing Event 
 The Two Headed Monster
 with an S rank.
@@ -1168,11 +1073,11 @@ The Two Headed Monster
 with an S rank.
 4065025,2,90
 Complete 
-The Battle of Castle Demon Master 
+The Battle of Castle Demon Master +1
 under 90 Sec.
 4065025
 Complete 
-The Battle of Castle Demon Master 
+The Battle of Castle Demon Master +1
 4065024,2
 Complete 
 The Battle of Castle Demon Master
@@ -1188,7 +1093,7 @@ Complete
 The Battle of Castle Demon Expert
 4064015,1,60
 Complete 
-The Malefic Star of the Magic Citadel (Master
+The Malefic Star of the Magic Citadel (Master+2)
 under 1 min.
 406401,2000000
 Earn a score of 2,000,000 in The Malefic Star of the Magic Citadel
@@ -1196,13 +1101,13 @@ Earn a score of 2,000,000 in The Malefic Star of the Magic Citadel
 Earn a score of 3,000,000 in The Malefic Star of the Magic Citadel
 4064014
 Complete 
-The Malefic Star of the Magic Citadel (Master
+The Malefic Star of the Magic Citadel (Master+1)
 4064009
 Complete 
 The Malefic Star of the Magic Citadel
 4062025,2
 Complete 
-Arianrhod in the Past (Master 
+Arianrhod in the Past (Master +1)
 without down.
 4062024,2
 Complete 
@@ -1210,11 +1115,11 @@ Arianrhod in the Past (Master)
 without down.
 4062025,2,45
 Complete 
-Arianrhod in the Past (Master 
+Arianrhod in the Past (Master +1)
 under 45 Sec.
 4062025
 Complete 
-Arianrhod in the Past (Master
+Arianrhod in the Past (Master+1)
 4062024,2,45
 Complete 
 Arianrhod in the Past (Master)
@@ -1228,7 +1133,7 @@ Complete
 Arianrhod in the Past (Master)
 4060025,2
 Complete 
-The Star's Call Opens the Door (Master
+The Star's Call Opens the Door (Master+1)
 without down.
 4060024,2
 Complete 
@@ -1252,11 +1157,11 @@ The Star's Call Opens the Door
 in the guild. 
 4060025,2,45
 Complete 
-The Star's Call Opens the Door (Master 
+The Star's Call Opens the Door (Master +1)
 under 45 Sec.
 4060025
 Complete 
-The Star's Call Opens the Door (Master
+The Star's Call Opens the Door (Master+1)
 4060024,2,45
 Complete 
 The Star's Call Opens the Door (Master)
@@ -1270,13 +1175,11 @@ Complete
 The Star's Call Opens the Door (Master)
 4059020,1,70
 Complete 
-The Revenant (Master 
-2) part2
+The Revenant (Master +2) part2
 in under 70 sec.
 4059019,1,70
 Complete 
-The Revenant (Master 
-2) part1
+The Revenant (Master +2) part1
 in under 70 sec.
 405901,300000
 Earn a score of 300,000 in Assault
@@ -1301,13 +1204,13 @@ Earn a score of 5,600,000 in Assault
 The Revenant
 4059018
 Complete 
-The Revenant (Master
+The Revenant (Master+1)
 4059009
 Complete 
 The Revenant
 4058015,1,60
 Complete 
-Proof of Strong Bonds (Master 
+Proof of Strong Bonds (Master +2)
 under 1 min.
 405801,200000
 Earn a score of 200,000 in Assault
@@ -1332,13 +1235,13 @@ Earn a score of 3,600,000 in Assault
 Proof of Strong Bonds
 4058014
 Complete 
-Proof of Strong Bonds Master 
+Proof of Strong Bonds Master +1
 4058009
 Complete 
 Proof of Strong Bonds
 4057025,2,2160010,5000
 Complete 
-PIRATES of ALO (Master 
+PIRATES of ALO (Master +1)
 keeping more than 50% of HP of each Crystal
 4057024,2,2160009,5000
 Complete 
@@ -1353,11 +1256,11 @@ Complete
 PIRATES of ALO (Master)
 4055025,2,45
 Complete 
-Premiere's Summer Festival (Master 
+Premiere's Summer Festival (Master +1)
 under 45 Sec.
 4055025
 Complete 
-Premiere's Summer Festival (Master
+Premiere's Summer Festival (Master+1)
 4055024,2,45
 Complete 
 Premiere's Summer Festival (Master)
@@ -1371,7 +1274,7 @@ Complete
 Premiere's Summer Festival (Master)
 4054005,2,2160005,5000
 Complete 
-Magic Gems of the Forest (Master 
+Magic Gems of the Forest (Master +1)
 keeping more than 50% of each Crystal
 4054004,2,2160004,5000
 Complete 
@@ -1411,17 +1314,17 @@ Earn a score of 2,500,000 in Flowers in the Night Sky
 Earn a score of 4,350,000 in Flowers in the Night Sky
 4052014
 Earn 
-Flowers in the Night Sky (Master
+Flowers in the Night Sky (Master+1)
 4052009
 Complete 
 Last Battle
 4051025,2,60
 Complete 
-The Tale of Two Stars (Master
+The Tale of Two Stars (Master+1)
 under 1 minute.
 4051025,2,90
 Complete 
-The Tale of Two Stars (Master
+The Tale of Two Stars (Master+1)
 under 90 second.
 4051023,2,60
 Complete 
@@ -1452,11 +1355,11 @@ Idol Singer (Wind, Fire, Holy) (Master)
 in under 1 min.
 4050030,1,60
 Complete 
-Idol Singer (Water, Earth, Dark) (Master
+Idol Singer (Water, Earth, Dark) (Master+1)
 in under 1 min.
 4050029,1,60
 Complete 
-Idol Singer (Wind, Fire, Holy) (Master
+Idol Singer (Wind, Fire, Holy) (Master+1)
 in under 1 min.
 405001,200000
 Earn a score of 200,000 in Idol Singer
@@ -1474,44 +1377,19 @@ Earn a score of 3,000,000 in Idol Singer
 Earn a score of 3,200,000 in Idol Singer
 4050029
 Complete 
-Idol Singer (Wind, Fire, Holy) (Master
+Idol Singer (Wind, Fire, Holy) (Master+1)
 4050021
 Complete 
 Idol Singer (Wind, Fire, Holy) (Int.)
-4049001
-4049002
-4049003
-4049004
-4049005
-4049006
-4049007
-4049008
-4049009
-4049010
-4049011
-4049012
-4049013
-4049014,1,1
+4049001+4049002+4049003+4049004+4049005+4049006+4049007+4049008+4049009+4049010+4049011+4049012+4049013+4049014,1,1
 Complete all the 1-25F at the QT Point Clearing Event 
 PIRATES of ALO
 with an S rank.
-4049006
-4049007
-4049008
-4049009
-4049010
-4049011
-4049012
-4049013
-4049014,1,1
+4049006+4049007+4049008+4049009+4049010+4049011+4049012+4049013+4049014,1,1
 Complete all the 11-25F at the QT Point Clearing Event 
 PIRATES of ALO
 with an S rank.
-4049001
-4049002
-4049003
-4049004
-4049005,1,1
+4049001+4049002+4049003+4049004+4049005,1,1
 Complete all the 1-10F at the QT Point Clearing Event 
 PIRATES of ALO
 with an S rank.
@@ -1621,7 +1499,7 @@ Earn a score of 4,000,000 in The Sacred treasure in the Sea
 Earn a score of 7,000,000 in The Sacred treasure in the Sea
 4048019
 Complete 
-The Sacred treasure in the Sea (Master
+The Sacred treasure in the Sea (Master+1)
 4048010
 Complete 
 Sail Out Again
@@ -1641,7 +1519,7 @@ Battle Royal of AR Newbies
 Earn a score of 1,250,000
 4045025
 Complete 
-Battle Royal of AR Newbies (Master
+Battle Royal of AR Newbies (Master+1)
 4045021
 Complete 
 Battle Royal of AR Newbies (Int.)
@@ -1662,7 +1540,7 @@ Bridal Competition
 event.
 4043030
 Complete 
-Bridal Competition (Master
+Bridal Competition (Master+1)
 4043022
 Complete 
 Bridal Competition (Int.)
@@ -1676,7 +1554,7 @@ Meteor showers the goddess of battle
 event.
 4042017
 Complete 
-Battle against the Goddess (Master
+Battle against the Goddess (Master+1)
 4042008
 Complete 
 Battle against the Goddess
@@ -1694,8 +1572,7 @@ with a 30-hit combo or higher.
 4039011,1,6
 Complete 
 PopStarOnline part2 (EX)
-with 6
-parries.
+with 6+ parries.
 4039011,1,4,2
 Complete 
 PopStarOnline part2 (EX)
@@ -1747,7 +1624,7 @@ Maid to Fight
 event.
 4037013
 Complete 
-Maid to Fight (Master
+Maid to Fight (Master+1)
 4037008
 Complete 
 Maid to Fight
@@ -1761,7 +1638,7 @@ Invataion from Fairyland
 event.
 4036019
 Complete 
-A witch to destroy Fairyland (Master
+A witch to destroy Fairyland (Master+1)
 4036010
 Complete 
 A witch to destroy Fairyland
@@ -1786,8 +1663,7 @@ with a 30-hit combo or higher.
 4032011,1,6
 Complete 
 PopStarOnline part1 (EX)
-with 6
-parries.
+with 6+ parries.
 4032011,1,1,2
 Complete 
 PopStarOnline part1 (EX)
@@ -1850,7 +1726,7 @@ Backed by the Cheer of My Daughter
 Raning event.
 4029018
 Complete 
-13-2 Voices of Support in Despair (Master
+13-2 Voices of Support in Despair (Master+1)
 4029009
 Complete 
 8-2 Voices of Support in Despair

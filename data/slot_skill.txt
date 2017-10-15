@@ -62,20 +62,16 @@ slot_skill_icon_parry_healing_mp
 Gains 5 MP on a successful parry
 MP Recovery on Parry
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
@@ -126,21 +122,19 @@ slot_skill_icon_parry_healing_mp
 Gains 5 MP on a successful parry
 MP Recovery on Parry
 slot_skill_icon_solo_damage
-40% damage when 1 of your characters remains.
++40% damage when 1 of your characters remains.
 Solo Damage Up Lv. 3
 slot_skill_icon_solo_damage
-30% damage when 1 of your characters remains.
++30% damage when 1 of your characters remains.
 Solo Damage Up Lv. 2
 slot_skill_icon_solo_damage
-15% damage when 1 of your characters remains.
++15% damage when 1 of your characters remains.
 Solo Damage Up Lv. 1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
@@ -185,12 +179,10 @@ slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Dark-elem. enemies.
 Skill Damage Up (vs. Dark) Lv. 1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
@@ -247,21 +239,19 @@ slot_skill_icon_reseve_healing_mp
 Restore 5 MP each 1 seconds while charging.
 MP Recovery while Charging Lv. 1
 slot_skill_icon_solo_damage
-40% damage when 1 of your characters remains.
++40% damage when 1 of your characters remains.
 Solo Damage Up Lv. 3
 slot_skill_icon_solo_damage
-30% damage when 1 of your characters remains.
++30% damage when 1 of your characters remains.
 Solo Damage Up Lv. 2
 slot_skill_icon_solo_damage
-15% damage when 1 of your characters remains.
++15% damage when 1 of your characters remains.
 Solo Damage Up Lv. 1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
@@ -312,28 +302,22 @@ slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Fire-elem. enemies.
 Skill Damage Up (vs. Fire) Lv. 1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
@@ -375,12 +359,10 @@ slot_skill_icon_parry_healing_mp
 Gains 5 MP on a successful parry
 MP Recovery on Parry
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
@@ -446,40 +428,34 @@ slot_skill_icon_parry_healing_mp
 Gains 5 MP on a successful parry
 MP Recovery on Parry
 slot_skill_icon_solo_damage
-40% damage when 1 of your characters remains.
++40% damage when 1 of your characters remains.
 Solo Damage Up Lv. 3
 slot_skill_icon_solo_damage
-30% damage when 1 of your characters remains.
++30% damage when 1 of your characters remains.
 Solo Damage Up Lv. 2
 slot_skill_icon_solo_damage
-15% damage when 1 of your characters remains.
++15% damage when 1 of your characters remains.
 Solo Damage Up Lv. 1
 slot_skill_icon_resist_death
 After receiving fatal damage, survive only once with 1% of HP as when you get the attack 
 Fatal damage resistance Lv1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_damage
-Increases damage for 20-hit
-combos by 5%.
+Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
 slot_skill_icon_combo_damage
-Increases damage for 30-hit
-combos by 5%.
+Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.

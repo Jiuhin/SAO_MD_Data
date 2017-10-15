@@ -1,37 +1,28 @@
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Genius Creator] Yuuki
 Lv. 90 Artistic Taste Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Genius Creator] Yuuki
 Lv. 80 Artistic Taste Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Genius Creator] Yuuki
 Lv. 70 Artistic Taste Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Genius Creator] Yuuki
 Lv. 60 Artistic Taste Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Genius Creator] Yuuki
 Lv. 50 Artistic Taste Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Genius Creator] Yuuki
 Lv. 40 Artistic Taste Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Genius Creator] Yuuki
 Lv. 30 Artistic Taste Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Genius Creator] Yuuki
 Lv. 20 Artistic Taste Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Genius Creator] Yuuki
 Lv. 10 Artistic Taste Key
 Raises a character's level cap.
@@ -52,40 +43,31 @@ Artist's Paint
 Raises stats for
 [Genius Creator] Yuuki
 Paint
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Hide-and-seek Girl] Sphica
 Lv. 90 Bravery Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Hide-and-seek Girl] Sphica
 Lv. 80 Bravery Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Hide-and-seek Girl] Sphica
 Lv. 70 Bravery Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Hide-and-seek Girl] Sphica
 Lv. 60 Bravery Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Hide-and-seek Girl] Sphica
 Lv. 50 Bravery Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Hide-and-seek Girl] Sphica
 Lv. 40 Bravery Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Hide-and-seek Girl] Sphica
 Lv. 30 Bravery Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Hide-and-seek Girl] Sphica
 Lv. 20 Bravery Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Hide-and-seek Girl] Sphica
 Lv. 10 Bravery Key
 Raises a character's level cap.
@@ -106,40 +88,31 @@ Girl's Treats (Favorite)
 Raises stats for
 [Hide-and-seek Girl] Sphica
 Girl's Treats
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Queen of chef] Rechka
 Lv. 90 Cookware Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Queen of chef] Rechka
 Lv. 80 Cookware Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Queen of chef] Rechka
 Lv. 70 Cookware Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Queen of chef] Rechka
 Lv. 60 Cookware Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Queen of chef] Rechka
 Lv. 50 Cookware Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Queen of chef] Rechka
 Lv. 40 Cookware Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Queen of chef] Rechka
 Lv. 30 Cookware Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Queen of chef] Rechka
 Lv. 20 Cookware Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Queen of chef] Rechka
 Lv. 10 Cookware Key
 Raises a character's level cap.
@@ -160,40 +133,31 @@ Cookware for chef
 Raises stats for
 [Queen of chef] Rechka
 Cookware for assistant
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Foxy Priestess] Silica
 Lv.90 Fire Fox key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Foxy Priestess] Silica
 Lv.80 Fire Fox key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Foxy Priestess] Silica
 Lv.70 Fire Fox key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Foxy Priestess] Silica
 Lv.60 Fire Fox key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Foxy Priestess] Silica
 Lv.50 Fire Fox key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Foxy Priestess] Silica
 Lv.40 Fire Fox key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Foxy Priestess] Silica
 Lv.30 Fire Fox key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Foxy Priestess] Silica
 Lv.20 Fire Fox key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Foxy Priestess] Silica
 Lv.10 Fire Fox key
 Raises a character's level cap.
@@ -214,40 +178,31 @@ White and Black Fox Mask
 Raises stats for
 [Foxy Priestess] Silica
 Half Fox Mask
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Bringer of Spring] Lisbeth
 Lv. 90 New Spring Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Bringer of Spring] Lisbeth
 Lv. 80 New Spring Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Bringer of Spring] Lisbeth
 Lv. 70 New Spring Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Bringer of Spring] Lisbeth
 Lv. 60 New Spring Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Bringer of Spring] Lisbeth
 Lv. 50 New Spring Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Bringer of Spring] Lisbeth
 Lv. 40 New Spring Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Bringer of Spring] Lisbeth
 Lv. 30 New Spring Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Bringer of Spring] Lisbeth
 Lv. 20 New Spring Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Bringer of Spring] Lisbeth
 Lv. 10 New Spring Key
 Raises a character's level cap.
@@ -268,40 +223,31 @@ New Year's Cuisine: Fine
 Raises stats for
 [Bringer of Spring] Lisbeth
 New Year's Cuisine: Standard
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Made with Love] Asuna
 Lv. 90 Chef's Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Made with Love] Asuna
 Lv. 80 Chef's Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Made with Love] Asuna
 Lv. 70 Chef's Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Made with Love] Asuna
 Lv. 60 Chef's Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Made with Love] Asuna
 Lv. 50 Chef's Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Made with Love] Asuna
 Lv. 40 Chef's Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Made with Love] Asuna
 Lv. 30 Chef's Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Made with Love] Asuna
 Lv. 20 Chef's Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Made with Love] Asuna
 Lv. 10 Chef's Key
 Raises a character's level cap.
@@ -322,40 +268,31 @@ Chef's Crystal
 Raises stats for
 [Made with Love] Asuna
 Chef's Shard
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Happy Memories] Sachi
 Lv. 90 Yuletide Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Happy Memories] Sachi
 Lv. 80 Yuletide Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Happy Memories] Sachi
 Lv. 70 Yuletide Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Happy Memories] Sachi
 Lv. 60 Yuletide Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Happy Memories] Sachi
 Lv. 50 Yuletide Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Happy Memories] Sachi
 Lv. 40 Yuletide Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Happy Memories] Sachi
 Lv. 30 Yuletide Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Happy Memories] Sachi
 Lv. 20 Yuletide Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Happy Memories] Sachi
 Lv. 10 Yuletide Key
 Raises a character's level cap.
@@ -376,40 +313,31 @@ Yuletide Gift (M)
 Raises stats for
 [Happy Memories] Sachi
 Yuletide Gift (S)
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Pure-Hearted Warrior of Flora] Sinon
 Lv. 90 Floral Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Pure-Hearted Warrior of Flora] Sinon
 Lv. 80 Floral Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Pure-Hearted Warrior of Flora] Sinon
 Lv. 70 Floral Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Pure-Hearted Warrior of Flora] Sinon
 Lv. 60 Floral Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Pure-Hearted Warrior of Flora] Sinon
 Lv. 50 Floral Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Pure-Hearted Warrior of Flora] Sinon
 Lv. 40 Floral Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Pure-Hearted Warrior of Flora] Sinon
 Lv. 30 Floral Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Pure-Hearted Warrior of Flora] Sinon
 Lv. 20 Floral Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Pure-Hearted Warrior of Flora] Sinon
 Lv. 10 Floral Key
 Raises a character's level cap.
@@ -430,40 +358,31 @@ Hard Worker's Seedling
 Raises stats for
 [Pure-Hearted Warrior of Flora] Sinon
 Hard Worker's New Bud
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [The Fisherman] Sima
 Lv. 90 Fisherman's Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [The Fisherman] Sima
 Lv. 80 Fisherman's Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [The Fisherman] Sima
 Lv. 70 Fisherman's Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [The Fisherman] Sima
 Lv. 60 Fisherman's Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [The Fisherman] Sima
 Lv. 50 Fisherman's Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [The Fisherman] Sima
 Lv. 40 Fisherman's Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [The Fisherman] Sima
 Lv. 30 Fisherman's Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [The Fisherman] Sima
 Lv. 20 Fisherman's Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [The Fisherman] Sima
 Lv. 10 Fisherman's Key
 Raises a character's level cap.
@@ -484,40 +403,31 @@ Big Fishing Rod
 Raises stats for
 [The Fisherman] Sima
 Fishing Rod
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Rejoicing Witch] Leafa
 Lv. 90 Carnival Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Rejoicing Witch] Leafa
 Lv. 80 Carnival Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Rejoicing Witch] Leafa
 Lv. 70 Carnival Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Rejoicing Witch] Leafa
 Lv. 60 Carnival Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Rejoicing Witch] Leafa
 Lv. 50 Carnival Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Rejoicing Witch] Leafa
 Lv. 40 Carnival Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Rejoicing Witch] Leafa
 Lv. 30 Carnival Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Rejoicing Witch] Leafa
 Lv. 20 Carnival Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Rejoicing Witch] Leafa
 Lv. 10 Carnival Key
 Raises a character's level cap.
@@ -538,40 +448,31 @@ Jubilee Crystal
 Raises stats for
 [Rejoicing Witch] Leafa
 Jubilee Shard
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Captive Princess] Asuna
 Lv. 90 Fairy Princess Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Captive Princess] Asuna
 Lv. 80 Fairy Princess Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Captive Princess] Asuna
 Lv. 70 Fairy Princess Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Captive Princess] Asuna
 Lv. 60 Fairy Princess Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Captive Princess] Asuna
 Lv. 50 Fairy Princess Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Captive Princess] Asuna
 Lv. 40 Fairy Princess Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Captive Princess] Asuna
 Lv. 30 Fairy Princess Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Captive Princess] Asuna
 Lv. 20 Fairy Princess Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Captive Princess] Asuna
 Lv. 10 Fairy Princess Key
 Raises a character's level cap.
@@ -592,40 +493,31 @@ Card Key (Red)
 Raises stats for
 [Captive Princess] Asuna
 Card Key (Blue)
-Unlocks lv. 90
-attributes for
+Unlocks lv. 90+ attributes for
 [Fairy Dance] Kirito
 Lv. 90 Affection Key
-Unlocks lv. 80
-attributes for
+Unlocks lv. 80+ attributes for
 [Fairy Dance] Kirito
 Lv. 80 Affection Key
-Unlocks lv. 70
-attributes for
+Unlocks lv. 70+ attributes for
 [Fairy Dance] Kirito
 Lv. 70 Affection Key
-Unlocks lv. 60
-attributes for
+Unlocks lv. 60+ attributes for
 [Fairy Dance] Kirito
 Lv. 60 Affection Key
-Unlocks lv. 50
-attributes for
+Unlocks lv. 50+ attributes for
 [Fairy Dance] Kirito
 Lv. 50 Affection Key
-Unlocks lv. 40
-attributes for
+Unlocks lv. 40+ attributes for
 [Fairy Dance] Kirito
 Lv. 40 Affection Key
-Unlocks lv. 30
-attributes for
+Unlocks lv. 30+ attributes for
 [Fairy Dance] Kirito
 Lv. 30 Affection Key
-Unlocks lv. 20
-attributes for
+Unlocks lv. 20+ attributes for
 [Fairy Dance] Kirito
 Lv. 20 Affection Key
-Unlocks lv. 10
-attributes for
+Unlocks lv. 10+ attributes for
 [Fairy Dance] Kirito
 Lv. 10 Affection Key
 Raises a character's level cap.
@@ -837,33 +729,24 @@ Gold Ingot
 Upgrades rarity level 2
 equipment.
 Iron Ingot
-Unlocks level 90
-attributes.
+Unlocks level 90+ attributes.
 Lv. 90 Decryption Key
 reward_item_decryption_key
-Unlocks level 80
-attributes.
+Unlocks level 80+ attributes.
 Lv. 80 Decryption Key
-Unlocks level 70
-attributes.
+Unlocks level 70+ attributes.
 Lv. 70 Decryption Key
-Unlocks level 60
-attributes.
+Unlocks level 60+ attributes.
 Lv. 60 Decryption Key
-Unlocks level 50
-attributes.
+Unlocks level 50+ attributes.
 Lv. 50 Decryption Key
-Unlocks level 40
-attributes.
+Unlocks level 40+ attributes.
 Lv. 40 Decryption Key
-Unlocks level 30
-attributes.
+Unlocks level 30+ attributes.
 Lv. 30 Decryption Key
-Unlocks level 20
-attributes.
+Unlocks level 20+ attributes.
 Lv. 20 Decryption Key
-Unlocks level 10
-attributes.
+Unlocks level 10+ attributes.
 Lv. 10 Decryption Key
 reward_item_col_boost
 Doubles the amount of Col

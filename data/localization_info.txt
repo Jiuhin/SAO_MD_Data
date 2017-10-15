@@ -299,12 +299,11 @@ Select
 Earth
 You can unlock all the 
 You can unlock
-Lv: 
+Lv: +
 Lv. 
 character story unlocked
 SKILL
-Skill Lv: 
-1 (Power 
+Skill Lv: +1 (Power +
 Unlock Sword Skill
 All Lv. 
 attributes unlocked
@@ -384,8 +383,8 @@ You have an exhausted character.
 Please change your party.
 Proceed to the next quest
 Replay this quest
-Max party cost: 
-Follow limit: 
+Max party cost: +
+Follow limit: +
 You got a bonus for your first
 meeting with 
 Not enough Memory Diamonds.
@@ -433,16 +432,16 @@ Do you want to give up
 Indiv. High Score 
 Achievement Reward
 is upgraded.
-Buff/Debuff
-Heal
-Damage
+Buff/Debuff+
+Heal+
+Damage+
 Failed to remove from favorites.
 Failed to register as a favorite.
 Reward for Earning 
 Points
 You cannot receive an item you already possess.
 Maximum Col reached. You cannot hold any more.
-(Damage/heal 
+(Damage/heal +
 View by unlocking
 attributes and raising
 your level.
@@ -468,7 +467,7 @@ Memory Diamonds Held
 Your birthday cannot be edited once confirmed.
 Are you sure the following date is correct
 Valid: 
-Memory Diamonds 
+Memory Diamonds + 
 View Weapons
 View Characters
 Weapon(s)
@@ -612,10 +611,12 @@ No items currently in stock.
 has been revived.
 Messages
 Notices
-Atk Spd 
-Mov Spd 
-INT 
-CRIT 
+Atk Spd +
+Mov Spd +
+INT +
+CRIT +
+MP +
+HP +
 VO: 
 Unlocked with 
 The Weapon Shop has been unlocked.
@@ -781,8 +782,8 @@ Event Points.
 Rewards
 Details
 Event Details
-DEF 
-ATK 
+DEF +
+ATK +
 acquired
 Quest Rewards
 Select a chest to open.

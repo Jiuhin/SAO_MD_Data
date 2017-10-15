@@ -458,7 +458,7 @@ text_player_damage_times
 Dmg Taken -
 text_player_damage
 text_enemy_damage_times
-Dmg Dealt 
+Dmg Dealt +
 text_enemy_damage
 Combination Skill is unlocked as you upgrade to 
 text_lock
@@ -509,7 +509,7 @@ Dmg Dealt
 text_damage_2
 Dmg Taken -
 text_damaged
-Dmg Dealt 
+Dmg Dealt +
 text_damage
 text_ranking_title_2
 text_ranking_title
@@ -739,6 +739,7 @@ Unlimited
 text_price_limitation_2_0
 Up to $200/month
 text_price_limitation_2
+20+:
 text_age_limitation_3
 16-19:
 text_age_limitation_2
@@ -1770,8 +1771,7 @@ Title
 text_title
 Close
 text_button_close
-(Damage/heal 
-10%)
+(Damage/heal + 10%)
 text_value_up
 Cost
 text_consumption

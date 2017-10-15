@@ -626,11 +626,9 @@ Steel Chest Plate R2
 armor01_0001
 Steel Chest Plate R1
 armor01_0001
-Leo Hastam 
-1 R5
+Leo Hastam +1 R5
 weapon09_0014
-Leo Hastam 
-1 R4
+Leo Hastam +1 R4
 weapon09_0014
 Island Spear R5
 weapon09_0012
@@ -926,11 +924,9 @@ Summer Bloomer R5
 weapon06_0026
 Summer Bloomer R4
 weapon06_0026
-Explosive Hecate
-1 R5
+Explosive Hecate+1 R5
 weapon06_0025
-Explosive Hecate
-1 R4
+Explosive Hecate+1 R4
 weapon06_0025
 Police Rifle R5
 weapon06_0024
@@ -1364,11 +1360,9 @@ Atlantis Sword R5
 weapon03_0053
 Atlantis Sword R4
 weapon03_0053
-Courage 
-1 R5
+Courage +1 R5
 weapon03_0052
-Courage 
-1 R4
+Courage +1 R4
 weapon03_0052
 Dazzling Blink R5
 weapon03_0051
@@ -1378,17 +1372,13 @@ Machinery Sword R5
 weapon03_0047
 Machinery Sword R4
 weapon03_0047
-Sword of Causality
-1 R5
+Sword of Causality+1 R5
 weapon03_0046
-Sword of Causality
-1 R4
+Sword of Causality+1 R4
 weapon03_0046
-Gemini Gradius
-1 R5
+Gemini Gradius+1 R5
 weapon03_0045
-Gemini Gradius
-1 R4
+Gemini Gradius+1 R4
 weapon03_0045
 Ocean Espada R5
 weapon03_0044
@@ -1550,11 +1540,9 @@ Iron Rapier R1
 weapon03_0002
 Small Rapier R1
 weapon03_0001
-Dual Hydrangea Sword
-1 R5
+Dual Hydrangea Sword+1 R5
 weapon02_0027
-Dual Hydrangea Sword
-1 R4
+Dual Hydrangea Sword+1 R4
 weapon02_0027
 Enlightenment x Shadow Eliminator R5
 weapon02_0025
@@ -1582,17 +1570,13 @@ Dark Palm Sword & Denfare Slicer R5
 weapon02_0019
 Dark Palm Sword & Denfare Slicer R4
 weapon02_0019
-Elucidator & Dark Repulsor
-1 R5
+Elucidator & Dark Repulsor+1 R5
 weapon02_0018
-Elucidator & Dark Repulsor
-1 R4
+Elucidator & Dark Repulsor+1 R4
 weapon02_0018
-Elder Sword & Seeker Sword
-1 R5
+Elder Sword & Seeker Sword+1 R5
 weapon02_0017
-Elder Sword & Seeker Sword
-1 R4
+Elder Sword & Seeker Sword+1 R4
 weapon02_0017
 Dual Hydrangea Sword R5
 weapon02_0016
@@ -1677,23 +1661,17 @@ Eternal Immortality R5
 weapon01_0091
 Eternal Immortality R4
 weapon01_0091
-Tea Time Saber 
-1 R5
+Tea Time Saber +1 R5
 weapon01_0090
-Tea Time Saber 
-1 R4
+Tea Time Saber +1 R4
 weapon01_0090
-Fragrant Olive Sword 
-1 R5
+Fragrant Olive Sword +1 R5
 weapon01_0089
-Fragrant Olive Sword 
-1 R4
+Fragrant Olive Sword +1 R4
 weapon01_0089
-Heroic Promise 
-1 R5
+Heroic Promise +1 R5
 weapon01_0088
-Heroic Promise 
-1 R4
+Heroic Promise +1 R4
 weapon01_0088
 Eradicate Saber R5
 weapon01_0087
@@ -1711,11 +1689,9 @@ Werewolf Fang R5
 weapon01_0080
 Werewolf Fang R4
 weapon01_0080
-Glass Sword
-1 R5
+Glass Sword+1 R5
 weapon01_0079
-Glass Sword
-1 R4
+Glass Sword+1 R4
 weapon01_0079
 Black Plate R4
 weapon01_0078
@@ -1757,17 +1733,13 @@ Anchor's Sword R5
 weapon01_0070
 Anchor's Sword R4
 weapon01_0070
-Storm Slicer
-1 R5
+Storm Slicer+1 R5
 weapon01_0069
-Storm Slicer
-1 R4
+Storm Slicer+1 R4
 weapon01_0069
-Obsidian Sword
-1 R5
+Obsidian Sword+1 R5
 weapon01_0068
-Obsidian Sword
-1 R4
+Obsidian Sword+1 R4
 weapon01_0068
 Fisher's Sword R5
 weapon01_0067
@@ -1809,17 +1781,13 @@ Glass Sword R5
 weapon01_0057
 Glass Sword R4
 weapon01_0057
-Angel Claymore
-1 R5
+Angel Claymore+1 R5
 weapon01_0056
-Angel Claymore
-1 R4
+Angel Claymore+1 R4
 weapon01_0056
-Fisher's Sword
-1 R5
+Fisher's Sword+1 R5
 weapon01_0055
-Fisher's Sword
-1 R4
+Fisher's Sword+1 R4
 weapon01_0055
 Sword of Diva R4
 weapon01_0053
