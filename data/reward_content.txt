@@ -164,6 +164,7 @@ Life in MMO
 Euk:
 Temptation
 New Gainings
+}tk:
 Real Fight
 Rule and Manner
 Qsk:
@@ -252,7 +253,7 @@ Ebj:9
 Door of Memories
 aj:8
 Messy Conversation
-aj:7
+}aj:7
 Girl with a Golden Armor
 aj:6
 Rumor of an awesome player
@@ -3544,6 +3545,7 @@ Earth Medallion x4
 Dark Medallion x4
 Holy Medallion x4
 Wind Medallion x4
+u})&
 Water Medallion x4
 Fire Medallion x4
 Void Medallion x4

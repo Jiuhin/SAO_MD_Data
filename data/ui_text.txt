@@ -319,11 +319,11 @@ Points
 text_point
 Details
 text_information
-Limited (
+Limited ({})
 text_limited
-Available (
+Available ({})
 text_available
-All (
+All ({})
 text_all
 To Unlock
 text_release
@@ -1253,17 +1253,17 @@ text_retry_confirm
 Total Likes :
 text_total
 text_diamond_shop
-All (
+All ({})
 text_event_all
-All (
+All ({})
 text_medal_all_4
-All (
+All ({})
 text_medal_all_3
-Weap. (
+Weap. ({})
 text_weapon
-Char. (
+Char. ({})
 text_chara
-All (
+All ({})
 text_all
 Ticket Cost
 text_draw_eleven_consume_3
@@ -1312,8 +1312,7 @@ text_sell
 text_use
 Choose to use or sell Item
 text_info_stable
-Use 
-Memory Diamonds
+Use {0} Memory Diamonds
 to unlock ability?
 Buy Memory Diamonds?
 text_item_description
@@ -1837,8 +1836,7 @@ Terms of Sale
 text_tokusyouhou
 Legal Information
 text_shikinkessaihou
-Use 
-Memory Diamonds
+Use {0} Memory Diamonds
 to unlock ability?
 Buy Memory Diamonds?
 text_title_1

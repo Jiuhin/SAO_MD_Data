@@ -2,11 +2,11 @@ due to temporary data mismatch, a maintenance will be conducted. We sincerely ap
 Minute(s)
 Hour(s)
 Day(s)
-Gender: 
-Weapon Types: 
-Character: 
-Element: 
-Guild "
+Gender: {}
+Weapon Types: {}
+Character: {}
+Element: {}
+Guild "{0}"
 You are invited to an event.
 No longer in the guild.
 Joined this guild.
@@ -54,24 +54,15 @@ Aggressive
 Member
 Vice Commander
 Commander
-Sales Period :
-2:02d
-3:02d
-The number of characters for a guild comment is limited to 
-The number of characters for a guild name is limited to 
+Sales Period :{0} {1} {2:02d}:{3:02d} 
+The number of characters for a guild comment is limited to {0}.
+The number of characters for a guild name is limited to {0}.
 Put a guild name in 10 characters or less. 
 Please avoid an inappropriate one.
 Do you want to update your guild information?
-You've donated 
-Col(s).
-0:04d
-1:02d
-2:02d
-3:02d
-4:02d
-Updated
-The number of characters is limited to 
-on the noticeboard.
+You've donated {0}Col(s).
+{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d} Updated
+The number of characters is limited to {0} on the noticeboard.
 Are you sure you want to leave the guild?
 You've left the guild.
 You've invited.
@@ -81,7 +72,7 @@ Kickout
 The position has been changed.
 Dismiss
 Dismiss
-The date of join：
+The date of join：{}
 Joined this guild.
 Your request has been sent.
 Do you want to join a guild?
@@ -98,79 +89,73 @@ Are you sure you want to expel them?
 Commander:
 Do you want to copy your Guild ID?
 You can only join a guild twice a day.
-Guild Level went up by 
+Guild Level went up by {}.
 Another event is in progress.
 Are you sure you want to give up
-and return to 
+and return to {}?
 No character can depart.
-Floor 
-Floor 
-Break Point
-Floor 
-Floor 
-: Clear Bonus
+Floor {0}
+Floor {0} Break Point
+Floor {0}
+Floor {0} : Clear Bonus
 Dead
-Currently at Floor 
+Currently at Floor {0}
 Are you sure you want to
-give up and go to 
+give up and go to {1}?
 Do you want to copy your User ID?
-Left: 
-times
+Left: {0} times
 Sent to Gift Box
 Recieved
-Use 
-Memory Diamonds to
+Use {0} Memory Diamonds to
 increase equipment slots.
 Are you sure?
-Use 
-Memory Diamonds
+Use {0} Memory Diamonds
 End Practice
-Parry Practice 
+Parry Practice {}
 Boss
 Beginner
 Enter Town Number in numbers
-Enter Party Number within 
-digits
+Enter Party Number within {} digits
 The town has 
 reached its capacity
-has to be upgraded
-Upgrade
-You need to Lv Break Up 
-time(s)
-Lv Break Up 
-time(s)
+{} has to be upgraded
+{} Upgrade
+You need to Lv Break Up {} time(s)
+Lv Break Up {} time(s)
+"{}"
 Level Up
+"{}"
 Learned
 You need to Level Up 
-Sword Skill "
+Sword Skill "{}"
 You need to unlock
-Battle Skill "
+Battle Skill "{}"
 Skill Not Learned
 Do you want to Level Up
+"{}"?
 Do you want to Learn 
+"{}"?
 Not enough Items
 Check learning conditions
 Level Up
 Learn Skill
-Original Sword Skill "
-Original Battle Skill "
+Original Sword Skill "{}"
+Original Battle Skill "{}"
 Skill not released
-Sword Skill "
-" is not at Max. Lv
-Battle Skill "
-" unlocked
+Sword Skill "{0}" is not at Max. Lv
+Battle Skill "{0}" unlocked
 Requirements Not Met
 Use of the chat feature is subject to the Terms of Services. Any offensive, inappropriate, or obscene language is prohibited. Do not share any personal information.
 Do you want to scout?
 Owned
 Skill button: Use skill
 You do not meet the participation requirements.
-Min. left: 
-Hrs. left: 
-Days left: 
+Min. left: {0}
+Hrs. left: {0}
+Days left: {0}
 Please restart the game to apply language settings.
-New rank: 
-Rank is now 
+New rank: {}!
+Rank is now {}!
 Other rewards have been sent to your gift box.
 You got a reward. You can find your
 rewards in your gift box.
@@ -194,23 +179,23 @@ Multiplayer mode is currently locked
 Use this item to double Drop Items?
 Use this item to double EXP earned?
 Use this item to double Col earned?
-Released
-Day 
-Duration: 
-Event Pts x
-Rank Pts x
+{} Released
+Day {}
+Duration: {} to {}
+{0}/{1}
+Event Pts x{0}
+Rank Pts x{0}
 Notices
 Weapons
 Scout
 Quests
-Party 
+Party {0}
 You cannot skip the stories of quests you
 have not completed.
 An event is set
 Set an event
 You've reached the limit. You will be able to invite in a minute.
-Do you want to invite 
-to a battle?
+Do you want to invite {0} to a battle?
 Only guild members can
 join the party.
 Guild Only
@@ -237,32 +222,31 @@ Cost Over
 Supporters cannot participate in this quest.
 Purchases have been disabled on your device.
 Enter your birthday in the MM/DD/YYYY format.
-Your birthday is 
+Your birthday is {}.
 A dialog box asking for parental permission will
 appear when a minor attempts to purchase virtual
 currency or additional content.
 Parental Permission
 Purchase History
 Attention
-Your birthday is 
+Your birthday is {1}/{2}/{0}.
 Is that correct?
+{0}x{1}
 obtained
-You can expand by using 
-Memory Diamonds but you do not have enough.
+You can expand by using {0} Memory Diamonds but you do not have enough.
 Do you buy Memory Diamonds?
 Do you want to try again?
-Tries left: 
+Tries left: {0}
 1 Extra Try
 Need Diamonds
 First Time Free!
 Medal Scout is currently locked.
-only!
+{0} only!
 Do you buy Memory Diamonds to
 increase equipment slots?
 Weapon purchasing is currently locked.
 Complete quest 3-1.
-Not enough Memory Diamonds. 
-Memory
+Not enough Memory Diamonds. {0} Memory
 Diamond(s) needed. Do you want to purchase more?
 Lookin' for good allies, huh?
 Hurry to the Teleport Plaza.
@@ -277,18 +261,16 @@ Head to the Teleport Plaza.
 So you wanna make friends, eh?
 Try the Teleport Plaza.
 Some items could not be received.
-replaced with 
+{0} replaced with {1}x {2}
 Back to Co-op Party
-You can use 
-to unlock this quest.
-Failed to use 
-Used 
-Use 
-to unlock this quest?
+You can use {0} to unlock this quest.
+Failed to use {0}.
+Used {0}.
+Use {0} to unlock this quest?
 This quest is no longer available./You've reached the daily limit.
-Min. left: 
-Hrs. left: 
-Days left: 
+Min. left: {0}
+Hrs. left: {0}
+Days left: {0}
 < 1 minute
 Magic
 Strike
@@ -296,30 +278,29 @@ Piercing
 Slash
 Selected
 Select
+{1}/{2}/{0}
 Earth
-You can unlock all the 
+You can unlock all the {0}
 You can unlock
-Lv: +
-Lv. 
-character story unlocked!
+{0}Lv: +{1}
+{0}: +{1}
+Lv. {0} character story unlocked!
 SKILL
-Skill Lv: +1 (Power +
+{0} Skill Lv: +1 (Power +{1}%)
 Unlock Sword Skill
-All Lv. 
-attributes unlocked!
+All Lv. {0} attributes unlocked!
 Level too low.
-Unlock Lv. 
-Unlocks Lv. 
-Use 
-Memory Diamond(s) to unlock attribute.
+Unlock Lv. {0}?
+Unlocks Lv. {0}.
+Use {0} Memory Diamond(s) to unlock attribute.
 Are you sure?
 Do you want to unlock this attribute?
 You can not select the same Weapon
-acquired
+{0}x{1} acquired
 You can not select that Weapon
 Do you want to Exchange Weapons and Ingots?
 Do you want to Exchange Weapons?
-will also be earned
+{0}x{1} will also be earned
 Level will be reset once exchanged
 The selected item has been favorited.
 Do you still want to sell it?
@@ -327,24 +308,18 @@ No equipment.
 No Col needed.
 No items needed.
 Col Required
-Use 
-x Memory Diamond(s) instead of items
+Use {0}x Memory Diamond(s) instead of items
 and Col to enhance your equipment?
-Use 
-Memory Diamond(s) instead of items
+Use {0} Memory Diamond(s) instead of items
 to enhance your equipment?
 Not enough items or Col.
-Not enough Memory Diamonds. 
-x Memory
+Not enough Memory Diamonds. {0}x Memory
 Diamond(s) needed. Do you want to purchase more?
-Not enough Memory Diamonds. 
-x Memory
+Not enough Memory Diamonds. {0}x Memory
 Diamond(s) needed. Do you want to purchase more?
-Use 
-Memory Diamond(s) instead of Col
+Use {0} Memory Diamond(s) instead of Col
 to upgrade your equipment?
-Use 
-Memory Diamond(s) instead of Col
+Use {0} Memory Diamond(s) instead of Col
 to enhance your equipment?
 Not enough Col.
 The item you selected is currently equipped.
@@ -354,11 +329,12 @@ Sort: Boost
 Sort: Material
 Sort: Potions
 Available after finishing
+{0}.
 You have no items.
 Level already at max!
 Set the number of items to use.
-Sort[
-Filter[
+Sort[{0}]
+Filter[{1}]
 Received
 Title Rank
 Type
@@ -369,79 +345,72 @@ Defense
 Attack
 Cost
 Rarity
-Sort: 
+Sort: {}
 Mace
 Dagger
 Rapier
 Dual Blades
 Sword
-acquired!
-Top 
-Players' Score
+{} acquired!
+Top {} Players' Score
 Do you want to evacuate?
 You have an exhausted character.
 Please change your party.
 Proceed to the next quest?
 Replay this quest?
-Max party cost: +
-Follow limit: +
+Max party cost: +{}
+Follow limit: +{}
 You got a bonus for your first
-meeting with 
+meeting with {0}
 Not enough Memory Diamonds.
 You got a bonus for completing the quest!
 Aincrad's currency is Col, which can be
 used at the blacksmith to enhance and
 upgrade equipment.
-Max HP: 
-Max MP: 
-Max ATK: 
-Max DEF: 
-Max CRIT:
+Max HP: {0}
+Max MP: {1}
+Max ATK: {2}
+Max DEF: {3}
+Max CRIT:{4}
 Not enough Memory Diamonds.
-eliminated combo window and buff effect.
-eliminated combo window and buff effect.
-eliminated combo window.
-eliminated buff effects altogether.
+{0} eliminated combo window and buff effect.
+{0} eliminated combo window and buff effect.
+{0} eliminated combo window.
+{0} eliminated buff effects altogether.
 Connecting...
-This quest can only be played 
-times a
+This quest can only be played {0} times a
 day. You are already at this limit.
-Can revive 
-more time(s)
-Use 
-Memory Diamond(s) to revive.
+Can revive {0} more time(s)
+Use {0} Memory Diamond(s) to revive.
 Are you sure you want to revive?
 Scores after reviving will not count.
-ran away!
+{} ran away!
 Battle Skill
 Sword Skill
 Status
 Comment
-Use 
-Memory Diamond(s) to revive.
+Use {} Memory Diamond(s) to revive.
 Are you sure?
-sec.
-sec.
-Maximum party size for this quest is 
+> {} sec.
+< {} sec.
+Maximum party size for this quest is {}.
 Please edit your party.
-sec. remaining
-min. remaining
+{} sec. remaining
+{} min. remaining
 Revive and continue fighting?
 All rewards acquired on this quest will be lost if you give up.
 Do you want to give up?
-Indiv. High Score 
-Achievement Reward
-is upgraded.
-Buff/Debuff+
-Heal+
-Damage+
+Indiv. High Score {} Achievement Reward
+{} is upgraded.
+Buff/Debuff+{0}%
+Heal+{0}%
+Damage+{0}%
 Failed to remove from favorites.
 Failed to register as a favorite.
-Reward for Earning 
-Points
+Reward for Earning {} Points
 You cannot receive an item you already possess.
 Maximum Col reached. You cannot hold any more.
-(Damage/heal +
+(Damage/heal +{0}%)
 View by unlocking
 attributes and raising
 your level.
@@ -453,37 +422,35 @@ Achieve Multi Score
 [Condition] 
 Achieve Multi Score
 You can use items to increase the amount of Drop Items.
-You can increase the amount of Drop Items by 
-using Memory Diamond 
-. Do you want to buy Memory Diamond(s)?
+You can increase the amount of Drop Items by {1} using Memory Diamond 
+{0}. Do you want to buy Memory Diamond(s)?
 Use Memory Diamond 
-to increase the amount of Drop Items by 
+{0} to increase the amount of Drop Items by {1}?
 Drop Item Boost
 Not enough Memory Diamonds.
-Memory Diamond(s) needed. Memory Diamonds
+{0} Memory Diamond(s) needed. Memory Diamonds
 cannot be purchased during multiplayer.
 Restart
 Memory Diamonds Held
 Your birthday cannot be edited once confirmed.
 Are you sure the following date is correct?
-Valid: 
-Memory Diamonds + 
+{1}/{2}/{0}
+Valid: {0}d
+{0} Memory Diamonds + {1}
 View Weapons
 View Characters
 Weapon(s)
 Character(s)
 All characters of the same rarity have an equal chance of appearing.
 Probabilities may not add up to 100% due to the rounding of decimals.
-Buy 
-Scouted 
-Times
+Buy {0}
+Scouted {0} Times
 And Over
-No. 
-time(s)
+No. {0}
+{0} time(s)
 These medals can be won in duels.
 You already own this character.
-You received 
-crest(s) instead.
+You received {0} crest(s) instead.
 Gifts:
 Purchased:
 No equipment.
@@ -504,10 +471,10 @@ Stats On
 Are you sure you want to quit?
 Enter a party number.
 Depart
-other player(s)
+{0}: {1} other player(s)
 You entered the safe zone.
-has left the co-op party. (
-has joined the co-op party. (
+has left the co-op party. ({0}/{1})
+has joined the co-op party. ({0}/{1})
 Left the co-op party.
 Joined the co-op party.
 The co-op party is complete.
@@ -523,10 +490,9 @@ A Limit Break is available.
 Choose a stat to upgrade.
 Let's do this!
 Enter your name.
-more player(s) must join.
+{0} more player(s) must join.
 You do not meet the participation requirements.
-Up to 
-people may participate. Please select from the characters that already have icons.
+Up to {0} people may participate. Please select from the characters that already have icons.
 An ineligible character is being used.
 Three characters with different jobs are required to participate in this event.
 Opponent's
@@ -538,20 +504,20 @@ Invitation sent to friend.
 Confirm
 Send
 Invite Friends
-received as a gift!
+{0} received as a gift!
+{0}/{1}
 Currency
 You cannot hold any more equipment.
 The item was sent to your gift box.
 Select one or more job types.
 Duel Points
 Buy New
-Use 
-Memory Diamond(s) to purchase the weapon?
+Use {0} Memory Diamond(s) to purchase the weapon?
 Waiting for other players...
 Usage History
-Min. left: 
-Hrs. left: 
-Days left: 
+Min. left: {0}
+Hrs. left: {0}
+Days left: {0}
 Atk Spd
 Mov Spd
 CRIT
@@ -559,11 +525,9 @@ Tower Medals
 Points
 Money
 Scout
-Use 
-Memory Diamond(s) to Scout a character?
+Use {0} Memory Diamond(s) to Scout a character?
 You have reached the purchase limit for
-players under 
-years old. You cannot
+players under {0} years old. You cannot
 make further purchases until next month.
 Continue with your purchase?
 If you make this purchase, you will exceed your monthly Memory Diamond purchase limit of $1,000. To turn off this notification, go to Other > Options > Usage Alerts.
@@ -596,38 +560,36 @@ This character is already at max level.
 Not enough usable items.
 This will reset all items in use. Are you sure?
 Up to 6 players can use items simultaneously.
-called for backup.
-is now the leader.
-has quit.
+{0} called for backup.
+{0} is now the leader.
+{0} has quit.
 Returning to single-player mode.
-has left.
+{0} has left.
 Use two of the same weapon and spend Col to evolve equipment. The higher the rarity, the more equipment you will need. You won't be charged this time.
 You can spend Col to upgrade equipment. You won't be charged this time, so upgrade it until it's maxed out!
 Return to the title screen?
-Remove 
-'s equipment and equip
-it to 
+Remove {0}'s equipment and equip
+it to {1}?
 No items currently in stock.
-has been revived.
+{0} has been revived.
 Messages
 Notices
-Atk Spd +
-Mov Spd +
-INT +
-CRIT +
-MP +
-HP +
-VO: 
+Atk Spd +{0}
+Mov Spd +{0}
+INT +{0}
+CRIT +{0}
+MP +{0}
+HP +{0}
+{0}/{1}
+VO: {0}
 ?????
-Unlocked with 
+{0} Lv.{1}
+Unlocked with {0}.
 The Weapon Shop has been unlocked.
 Data Transfer Complete
-Achieve rank 
-or higher on 
-Complete all bonus missions for 
-Complete 
-" on 
-times.
+Achieve rank {3} or higher on {0} "{1}" {2}.
+Complete all bonus missions for {0} "{1}" {2}
+Complete {0} "{1}" on {2} {3} times.
 A quest is in progress.
 Do you want to resume the quest?
 Upgrade
@@ -650,34 +612,37 @@ You have no weapons that can be equipped.
 You have no armor that can be equipped.
 You already have this equipped.
 Invite
-Remaining: 
+Remaining: {0}
 No players were found.
 Refresh
-Memory Diamond(s) needed to increase EXP earned
-x. Do you want to purchase more?
-Use 
-Memory Diamond(s) to increase EXP gained
+{0} Memory Diamond(s) needed to increase EXP earned
+by {1}x. Do you want to purchase more?
+Use {0} Memory Diamond(s) to increase EXP gained
+by {1}x?
 EXP Boost
 Expand
-Bond Point Cost: 
+Bond Point Cost: {0}
 Select Mode
 Boost
+x{0}
+x{0}.{1}
 Follow the player(s) you played with?
-You may claim up to 
-more first meeting rewards.
+You may claim up to {0} more first meeting rewards.
 Type a recruiting message.
 Equipment capacity cannot be increased
 any further.
 Unlock this attribute using the items below.
 Revive
 Cannot revive any more.
-Claimed 
-gift(s).
-Duel Points x
-Bond Points x
-Rank Points x
-Col x
-Memory Diamonds x
+Claimed {0} gift(s).
+Duel Points x{0}
+Bond Points x{0}
+Rank Points x{0}
+{0} x{1}
+Col x{0}
+Memory Diamonds x{0}
+{0} x{1}
+{0} x{1}
 Insect
 Reptile
 Sea Creature
@@ -692,45 +657,39 @@ Phantom
 Beast
 Dragon
 Human
-joined!
+{0} joined!
 Not enough Memory Diamonds to open chest.
 Go to the Memory Diamond shop?
-Use 
-Memory Diamond(s) to open another
+Use {0} Memory Diamond(s) to open another
 chest?
 Open Another Chest
-Using this item increases Col earned by 
-Using this item increases EXP earned by 
+Using this item increases Col earned by {0}x.
+Using this item increases EXP earned by {0}x.
 Are you sure you want to quit?
 Give Up
 Your equipment bag is full.
 Do you want to expand it?
 Not enough equipment slots.
-Not enough Memory Diamonds. 
-Memory Diamond(s)
+Not enough Memory Diamonds. {0} Memory Diamond(s)
 needed. Do you want to purchase more?
-Equipment capacity is now 
-Use 
-Memory Diamond(s) to increase your equipment
+Equipment capacity is now {0}.
+Use {0} Memory Diamond(s) to increase your equipment
 capacity?
-Capacity is now 
-Increases equipment capacity by 
+Capacity is now {1}.
+Increases equipment capacity by {0}.
 Increase Equipment Capacity
-Memory Diamond(s) needed to increase Col earned
+{0} Memory Diamond(s) needed to increase Col earned
+by {1}x.
 Do you want to purchase more?
-Use 
-Memory Diamond(s) to increase Col earned by 
+Use {0} Memory Diamond(s) to increase Col earned by {1}x?
 Col Boost
-Not enough Memory Diamonds. 
-Memory Diamond(s)
+Not enough Memory Diamonds. {0} Memory Diamond(s)
 needed. Do you want to purchase more?
 Scout
-Not enough Memory Diamonds. 
-Memory Diamond(s)
+Not enough Memory Diamonds. {0} Memory Diamond(s)
 needed. Do you want to purchase more?
-Revives Left: 
-Use 
-Memory Diamond(s) to revive?
+Revives Left: {0}
+Use {0} Memory Diamond(s) to revive?
 Continue
 The Duel feature has been unlocked.
 The Event Quest menu has been unlocked.
@@ -740,60 +699,51 @@ The Quest Board has been unlocked.
 The Missions menu has been unlocked.
 Tap to view character details.
 Unlock Character Attribute
-G Required
-Required
-You liked 
+{0}G Required
+{0} Required
+You liked {0}!
 No Bond Points were acquired as you have reached your limit.
 You cannot like the same user more than twice per day.
-You liked 
+You liked {0}!
 No Bond Points were acquired as you have reached your limit for today from likes.
-You liked 
-Bond Points acquired.
+You liked {0}!
+{1} Bond Points acquired.
 Cancel
 Unlock
-Not enough Memory Diamond(s). You need 
-Memory Diamond(s) to evolve this equipment.
+Not enough Memory Diamond(s). You need {0} Memory Diamond(s) to evolve this equipment.
 Do you want to purchase more?
-Use 
-Memory Diamond(s) to evolve this equipment.
+Use {0} Memory Diamond(s) to evolve this equipment.
 Are you sure?
-Not enough Memory Diamond(s). You need 
-Memory Diamond(s) to upgrade this equipment.
+Not enough Memory Diamond(s). You need {0} Memory Diamond(s) to upgrade this equipment.
 Do you want to purchase more?
-Use 
-Memory Diamond(s) to upgrade this equipment.
+Use {0} Memory Diamond(s) to upgrade this equipment.
 Are you sure?
 Not enough Col.
 Upgrade
 Evolve
-Not enough Memory Diamonds. 
-Memory Diamond(s)
+Not enough Memory Diamonds. {0} Memory Diamond(s)
 needed. Do you want to purchase more?
-Memory Diamonds held
-Use 
-Memory Diamond(s) to unlock attribute?
+{0} Memory Diamonds held
+Use {0} Memory Diamond(s) to unlock attribute?
 Not enough items.
-Comments can be 
-characters or less.
-Names can be 
-characters or less.
+Comments can be {0} characters or less.
+Names can be {0} characters or less.
 Like
 Conditions
-Earn 
-Event Points.
+Earn {0} Event Points.
 Rewards
 Details
 Event Details
-DEF +
-ATK +
-acquired!
+DEF +{0}
+ATK +{0}
+{0} acquired!
 Quest Rewards
 Select a chest to open.
-Memory Diamonds Held
-Spend 
-Memory Diamond(s) to open another chest.
+{0} Memory Diamonds Held
+Spend {0} Memory Diamond(s) to open another chest.
 Buy Memory Diamonds
-4:02d
+{0} - {1}
+{0}/{1} {3}:{4:02d}
 Legal Information
 Personal Information Protection
 Privacy Policy
@@ -804,21 +754,22 @@ Suggestions
 Friends
 No parties were found.
 Join
-Members: 
+Members: {0}/{1}
 At Max Lv.
 Upgraded
+${0}
 Attack Speed
 Attack
 Movement Speed
 Critical Hit Rate
 Intelligence
 Defense
-Memory Diamonds x
+Memory Diamonds x{0}
 Event
 Quest
 Story
 Quest
-has been killed!
+{0} has been killed!
 Claim All
 Total
 Items not claimed by the deadline will be deleted.
@@ -859,7 +810,7 @@ Followers
 Difficulty cannot be selected.
 Only hard and higher difficulties are
 available in multiplayer.
-Slot 
+Slot {0}
 Opening
 You got followed!
 "Like" successful.
@@ -868,10 +819,8 @@ Contact
 Party
 Notification
 This is a limited quest.
-Cost 
-or lower.
-Player rank 
-or higher only.
+Cost {0} or lower.
+Player rank {0} or higher only.
 Please choose a different character.
 Dark
 Holy
@@ -895,17 +844,17 @@ The currency needed to upgrade or evolve weapons at the blacksmith's. Obtained b
 Can be purchased from the Memory Diamond Shop. Used to scout, buy equipment, etc.
 Bond Points
 Memory Diamond
-Duel Pt. Cost 
+x{0}
+Duel Pt. Cost {0}
 Enter a user ID other than your own.
 No notifications.
 No multiplayer history.
 No suggested users found.
-Until 
-3:02d
-4:02d
-4:02d
+{0} - {1}
+Until {0}/{1}/{5:4} {2} {3:02d}:{4:02d}
+{0}/{1} ({2}) {3}:{4:02d}
 Not enough Duel Points.
-Memory Diamond Cost: 
+Memory Diamond Cost: {0}
 -Names must be 10 characters or less.
 -Names can be changed at any time.
 -Inappropriate language is not allowed.
@@ -920,6 +869,7 @@ No Bond Points will be used this time.
 Supporter not found.
 Do you want to go solo?
 Equipment capacity increased.
+{0} 
 Increases equipment capacity.
 Multiplayer History
 No equipment
@@ -931,9 +881,10 @@ A connection error occurred.
 Unfollow
 Follow
 < 1 min ago
-min ago
-hr ago
-d ago
+{0} min ago
+{0} hr ago
+{0} d ago
 Cannot find friend.
+{0}/{1}
 You have no followers.
 You are not following anyone.

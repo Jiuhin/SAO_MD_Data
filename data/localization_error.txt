@@ -1,425 +1,424 @@
 Failed to update data.
-(P2100101:
+(P2100101:{0})
 Failed to update user data.
-(P900108:
+(P900108:{0})
 Failed to retrieve user data.
-(P900107:
+(P900107:{0})
 Failed to retrieve user data.
-(P900106:
+(P900106:{0})
 Failed to retrieve user data.
-(P900105:
+(P900105:{0})
 Failed to retrieve user data.
-(P900104:
+(P900104:{0})
 Failed to retrieve user data.
-(P900103:
+(P900103:{0})
 Failed to retrieve user data.
-(P900102:
+(P900102:{0})
 Failed to retrieve user data.
-(P900101:
+(P900101:{0})
 Unable to connect to the server.
 Please check your internet connection
-and try restarting the quest. (P900002:
-Unable to connect to the server. (P900001:
+and try restarting the quest. (P900002:{0})
+Unable to connect to the server. (P900001:{0})
 Authentication failed. Unable to
 connect to the server. Returning to
-the title screen. (P500001:
+the title screen. (P500001:{0})
 An update is available. Game data will
 now be updated.
-(P400162:
+(P400162:{0})
 A new version is available. Please
 update the app.
-(P400152:
-Failed to retrieve data.（P103101:
-Guild does not exist.（P103018:
-You have no authority.（P103017:
-Failed to fetch information of guild items.（P103016:
-Failed to donate.（P103015:
-Failed to update noticeboard.（P103014:
-Failed to leave guild.（P103013:
-Failed to invite.（P103012:
-Failed to fetch timeline. （P103011:
-Failed to fetch invitations and requests.（P103010:
-Failed to update guild.（P103009:
-Failed to cancel an invitation.（P103008:
-Failed to hundle a join request .（P103007:
-Failed to change the position of a guild member.（P103006:
-Faild to  strike off a guild member.（P103005:
-Failed to fetch information of guild members.（P103004:
-Failed to join a guild. (P103003:
-Failed to fetch a guild list. (P103002:
-Failed to create a guild (P103001:
-Failed to exchange Item (P102902:
-Failed to fetch Item list. (P102901:
+(P400152:{0})
+Failed to retrieve data.（P103101:{0}）
+Guild does not exist.（P103018:{0}）
+You have no authority.（P103017:{0}）
+Failed to fetch information of guild items.（P103016:{0}）
+Failed to donate.（P103015:{0}）
+Failed to update noticeboard.（P103014:{0}）
+Failed to leave guild.（P103013:{0}）
+Failed to invite.（P103012:{0}）
+Failed to fetch timeline. （P103011:{0}）
+Failed to fetch invitations and requests.（P103010:{0}
+Failed to update guild.（P103009:{0}）
+Failed to cancel an invitation.（P103008:{0}）
+Failed to hundle a join request .（P103007:{0}
+Failed to change the position of a guild member.（P103006:{0}
+Faild to  strike off a guild member.（P103005:{0}）
+Failed to fetch information of guild members.（P103004:{0}
+Failed to join a guild. (P103003:{0})
+Failed to fetch a guild list. (P103002:{0})
+Failed to create a guild (P103001:{0})
+Failed to exchange Item (P102902:{0})
+Failed to fetch Item list. (P102901:{0})
 Failed to unlock skill slot.
-(P102801:
+(P102801:{0})
 You have already departed.
-(P102704:
+(P102704:{0})
 Party could not be found.
-(P102703:
+(P102703:{0})
 The current number of users has
 exceeded the allowed limit.
-(P102702:
+(P102702:{0})
 A network error has occurred.
-(P102701:
+(P102701:{0})
 Failed to send message.
-(P102603:
+(P102603:{0})
 Failed to save invite information.
-(P102602:
+(P102602:{0})
 Failed to retrieve invite information.
-(P102601:
+(P102601:{0})
 Failed to update mission data.
-(P102503:
+(P102503:{0})
 Failed to retrieve data.
-(P102502:
+(P102502:{0})
 Failed to retrieve progress data.
-(P102501:
+(P102501:{0})
 Failed to retrieve quest result data.
-(P102407:
+(P102407:{0})
 Failed to retrieve your current
 character's data.
-(P102406:
+(P102406:{0})
 Failed to update this floor's lock status.
-(P102405:
+(P102405:{0})
 Failed to retrieve battle opponent
 data.
-(P102404:
+(P102404:{0})
 Failed to retrieve data.
-(P102403:
+(P102403:{0})
 Failed to reset game progress data.
-(P102402:
+(P102402:{0})
 Failed to update game progress data.
-(P102401:
-An error has occured. (P102331:
-Please login to GooglePlayStore. (P102330:
-Purchase is restricted by device settings. (P102329:
+(P102401:{0})
+An error has occured. (P102331:{0}）
+Please login to GooglePlayStore. (P102330:{0}）
+Purchase is restricted by device settings. (P102329:{0}）
 Unable to use this device. Its data
 has been transferred to a new device.
-(P102328:
+(P102328:{0})
 Failed to retrieve product list.
 Please try again.
-(P102327:
+(P102327:{0})
 Failed to retrieve ticket information.
 Please try again.
-(P102326:
+(P102326:{0})
 Failed to register age. Please try
 again.
-(P102325:
+(P102325:{0})
 Failed to retrieve purchase history.
-(P102324:
+(P102324:{0})
 Failed to retrieve purchase
 information.
-(P102323:
+(P102323:{0})
 Failed to retrieve purchase alert
 settings.
-(P102322:
+(P102322:{0})
 Failed to retrieve age information.
-(P102321:
+(P102321:{0})
 Failed to register age.
-(P102320:
+(P102320:{0})
 Comments have been disabled.
-(P102319:
-Contains unacceptable words or characters. (P102318:
-Failed to issue transfer code. (P102317:
+(P102319:{0})
+Contains unacceptable words or characters. (P102318:{0})
+Failed to issue transfer code. (P102317:{0})
 Failed to register password. Please
 try again.
-(P102316:
+(P102316:{0})
 Your password has been registered.
-(P102315:
+(P102315:{0})
 Failed to authenticate transfer code.
-(P102314:
+(P102314:{0})
 You have been locked out for making
 too many failed attempts.
-(P102313:
-Failed to transfer data. (P102312:
+(P102313:{0})
+Failed to transfer data. (P102312:{0})
 Your data was transferred.
-(P102311:
+(P102311:{0})
 Unauthorized code or password.
-(P102310:
+(P102310:{0})
 This action has been canceled.
-(P102309:
+(P102309:{0})
 This purchase is forbidden.
-(P102308:
+(P102308:{0})
 The item does not exist.
-(P102307:
+(P102307:{0})
 Processing failed.
-(P102306:
+(P102306:{0})
 Verification failed.
-(P102305:
+(P102305:{0})
 You cannot hold any more Memory
 Diamonds.
-(P102304:
+(P102304:{0})
 You have reached your spending limit.
-(P102303:
+(P102303:{0})
 Failed to restore data.
-(P102302:
+(P102302:{0})
 Failed to update Memory Diamonds.
-(P102301:
+(P102301:{0})
 Failed to join the event.
-(P102202:
+(P102202:{0})
 Failed to retrieve event data.
-(P102201:
+(P102201:{0})
 Supporter selection failed.
-(P102104:
+(P102104:{0})
 Failed to retrieve data.
-(P102103:
+(P102103:{0})
 Failed to retrieve data.
-(P102102:
+(P102102:{0})
 Failed to retrieve data.
-(P102101:
+(P102101:{0})
 The tutorial failed to initiate
-properly. (P102004:
+properly. (P102004:{0})
 Failed to retrieve tutorial data.
-(P102003:
+(P102003:{0})
 The tutorial failed to complete
 properly.
-(P102002:
+(P102002:{0})
 Failed to retrieve data.
-(P102001:
+(P102001:{0})
 Failed to retrieve data.
-(P101904:
+(P101904:{0})
 Failed to retrieve data.
-(P101903:
+(P101903:{0})
 Failed to retrieve server data.
-(P101902:
+(P101902:{0})
 Failed to retrieve data.
-(P101901:
+(P101901:{0})
 Failed to retrieve data.
-(P101801:
+(P101801:{0})
 Failed to sell item.
-(P101705:
+(P101705:{0})
 Failed to use item.
-(P101704:
+(P101704:{0})
 Failed to use item.
-(P101703:
+(P101703:{0})
 Failed to retrieve data.
-(P101702:
+(P101702:{0})
 Failed to retrieve data.
-(P101701:
+(P101701:{0})
 Failed to acquire reward.
-(P101603:
+(P101603:{0})
 Failed to acquire reward.
-(P101602:
+(P101602:{0})
 Failed to retrieve mission data.
-(P101601:
+(P101601:{0})
 Failed to retrieve gift data.
-(P101503:
+(P101503:{0})
 Failed to retrieve gift.
-(P101502:
+(P101502:{0})
 Failed to retrieve data.
-(P101501:
+(P101501:{0})
 Failed to retrieve data.
-(P101403:
+(P101403:{0})
 Failed to retrieve notices data.
-(P101402:
+(P101402:{0})
 Failed to retrieve data.
-(P101401:
+(P101401:{0})
 Failed to remove from your followers.
-(P101315:
+(P101315:{0})
 You cannot have any more followers.
-(P101314:
+(P101314:{0})
 You cannot follow any more users.
-(P101313:
+(P101313:{0})
 Failed to retrieve data.
-(P101312:
+(P101312:{0})
 Failed to retrieve data.
-(P101311:
+(P101311:{0})
 Failed to retrieve data.
-(P101310:
+(P101310:{0})
 Failed to retrieve data.
-(P101309:
+(P101309:{0})
 Failed to retrieve user data.
-(P101308:
+(P101308:{0})
 Failed to retrieve data on users you
 are following.
-(P101307:
+(P101307:{0})
 Failed to retrieve follower data.
-(P101306:
+(P101306:{0})
 Failed to retrieve data on users you
 are following.
-(P101305:
+(P101305:{0})
 Failed to retrieve follower data.
-(P101304:
+(P101304:{0})
 Failed to retrieve data.
-(P101303:
+(P101303:{0})
 Failed to unfollow this user.
-(P101302:
+(P101302:{0})
 Failed to retrieve user data.
-(P101301:
+(P101301:{0})
 Failed to update user data.
-(P101202:
+(P101202:{0})
 Failed to update user data.
-(P101201:
+(P101201:{0})
 Failed to send message.
-(P101102:
+(P101102:{0})
 Failed to retrieve data.
-(P101101:
+(P101101:{0})
 Failed to retrieve character data.
-(P101006:
+(P101006:{0})
 Failed to unlock attribute.
-(P101005:
+(P101005:{0})
 Failed to unlock attribute.
-(P101004:
+(P101004:{0})
 Failed to unlock attribute.
-(P101003:
+(P101003:{0})
 Failed to unlock attribute.
-(P101002:
+(P101002:{0})
 Failed to retrieve data.
-(P101001:
+(P101001:{0})
 Failed to invite co-op party.
-(P100914:
+(P100914:{0}）
 Daily max attempts exceeded.
-(P100913:
+(P100913:{0})
 You cannot play this quest yet.
-(P100912:
+(P100912:{0})
 You left the co-op party.
 (P100911)
 Please select a quest.
 (P100910)
 Failed to retrieve co-op party.
-(P100909:
+(P100909:{0})
 Failed to retrieve data.
-(P100908:
+(P100908:{0})
 Failed to form co-op party.
-(P100907:
+(P100907:{0})
 Failed to join co-op party.
-(P100906:
+(P100906:{0})
 Failed to retrieve user data.
-(P100905:
+(P100905:{0})
 Failed to retrieve data.
-(P100904:
+(P100904:{0})
 Failed to "like."
-(P100903:
+(P100903:{0})
 Failed to retrieve data.
-(P100902:
+(P100902:{0})
 Failed to retrieve data.
-(P100901:
+(P100901:{0})
 Exchange failed.
 You have exceeded the exchange limit.
-(P100807:
+(P100807:{0})
 Exchange failed.
 The same weapon can be exchanged once only.
-(P100806:
-Failed to complete sale. (P100805:
+(P100806:{0})
+Failed to complete sale. (P100805:{0})
 Evolution failed.
-(P100804:
+(P100804:{0})
 Upgrade failed.
-(P100803:
+(P100803:{0})
 Failed to retrieve data.
-(P100802:
+(P100802:{0})
 Failed to retrieve data.
-(P100801:
+(P100801:{0})
 Not enough items.
-(P100708:
+(P100708:{0})
 Failed to retrieve scout/weapon
 data.
-(P100707:
+(P100707:{0})
 This scout/weapon purchase can
 only be performed once.
-(P100706:
+(P100706:{0})
 Not enough Memory Diamonds.
-(P100705:
+(P100705:{0})
 This scout/weapon is no longer available.
-(P100704:
+(P100704:{0})
 This scout/weapon purchase can
 only be performed once.
-(P100703:
+(P100703:{0})
 Failed to complete scout/weapon
 purchase.
-(P100702:
+(P100702:{0})
 Failed to retrieve scout/weapon
 purchase data.
-(P100701:
+(P100701:{0})
 Failed to retrieve data.
-(P100609:
+(P100609:{0})
 Failed to retrieve equipment data.
-(P100608:
+(P100608:{0})
 Failed to update equipment data.
-(P100607:
+(P100607:{0})
 Failed to update party data.
-(P100606:
+(P100606:{0})
 Failed to update party data.
-(P100605:
+(P100605:{0})
 Failed to update party data.
-(P100604:
+(P100604:{0})
 Failed to retrieve data.
-(P100603:
+(P100603:{0})
 Failed to retrieve party data.
-(P100602:
+(P100602:{0})
 Failed to retrieve data.
-(P100601:
+(P100601:{0})
 Failed to retrieve data.
-(P100504:
+(P100504:{0})
 Failed to retrieve data.
-(P100503:
+(P100503:{0})
 Failed to retrieve user data.
-(P100502:
+(P100502:{0})
 Failed to retrieve daily bonus.
-(P100501:
+(P100501:{0})
 Failed to retrieve rankings.
-(P100411:
+(P100411:{0})
 Failed to retrieve Supporter data.
-(P100410:
+(P100410:{0})
 Failed to retrieve data.
-(P100409:
+(P100409:{0})
 Failed to retrieve quest data.
-(P100408:
+(P100408:{0})
 Failed to save data.
-(P100407:
+(P100407:{0})
 Failed to retrieve quest data.
-(P100406:
+(P100406:{0})
 Failed to retrieve area data.
-(P100405:
+(P100405:{0})
 Failed to retrieve data.
-(P100404:
+(P100404:{0})
 Unable to connect to the server.
 Please check your internet connection
-and try restarting the quest. (P100403:
+and try restarting the quest. (P100403:{0})
 Unable to connect to the server.
-(P100402:
+(P100402:{0})
 Unable to connect to the server.
-(P100401:
+(P100401:{0})
 Failed to retrieve user data.
-(P100305:
+(P100305:{0})
 Unable to connect to the server.
-(P100304:
+(P100304:{0})
 Failed to retrieve reward data.
-(P100303:
+(P100303:{0})
 Failed to retrieve user data.
-(P100302:
+(P100302:{0})
 Failed to retrieve quest result data.
-(P100301:
-This quest can only be played 
-times a
+(P100301:{0})
+This quest can only be played {0} times a
 day. You are already at this limit.
-(P100210:
+(P100210:{1})
 Failed to retrieve data.
-(P100209:
+(P100209:{0})
 Failed to retrieve data.
-(P100208:
+(P100208:{0})
 Failed to retrieve data.
-(P100207:
+(P100207:{0})
 Failed to retrieve data.
-(P100206:
+(P100206:{0})
 Failed to start quest.
-(P100205:
+(P100205:{0})
 Failed to retrieve data.
-(P100204:
+(P100204:{0})
 Failed to retrieve data.
-(P100203:
+(P100203:{0})
 Unable to connect to the server.
 Returning to the title screen without
-saving results. (P100202:
+saving results. (P100202:{0})
 Unable to connect to the server.
 Please check your internet connection.
-(P100201:
+(P100201:{0})
 Unable to connect to the server.
 Returning to the title screen.
-(P100105:
+(P100105:{0})
 Failed to retrieve user data.
-(P100104:
+(P100104:{0})
 Failed to retrieve party information.
-(P100103:
+(P100103:{0})
 Failed to retrieve inventory data.
-(P100102:
+(P100102:{0})
 Failed to retrieve user data.
-(P100101:
+(P100101:{0})

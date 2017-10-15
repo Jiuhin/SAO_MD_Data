@@ -2657,6 +2657,7 @@ dead
 dash
 damage
 charge_old
+"Dr}
 charge
 back_step
 attack_3
