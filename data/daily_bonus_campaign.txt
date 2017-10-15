@@ -31,7 +31,7 @@ Guerrilla Bonus
 Special Login Bonus
 Special Login Bonus
 New Weapon Bonus
-YoOAY
+?YoOAY
 Special Login Bonus
 Special Login Bonus
 Special Login Bonus
@@ -52,7 +52,7 @@ Guerrilla Bonus
 Guerrilla Bonus
 Guerrilla Bonus
 Fan Event Bonus
-YoN$Y
+"YoN$Y
 Birthday Bonus
 Birthday Bonus
 Guerrilla Bonus

@@ -1,20 +1,20 @@
 Enter
-Enter the Weapon Shop
+Enter the Weapon Shop?
 Enter
-Upgrade equipment at the blacksmith
+Upgrade equipment at the blacksmith?
 Enter
-Enter the Diamond Shop
+Enter the Diamond Shop?
 ダイヤショップ
 Depart
-Depart for the training grounds
+Depart for the training grounds?
 Enter
-View party members at the base
+View party members at the base?
 Enter
-Obtain ally info from the info broker
+Obtain ally info from the info broker?
 スカウト
 View
-View the Quest Board
+View the Quest Board?
 協力クエスト
 Depart
-Go on a quest
+Go on a quest?
 クエスト

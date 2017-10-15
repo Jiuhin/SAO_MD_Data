@@ -52,7 +52,7 @@ City Development
 The Mother-Daughter Bond
 Reason of the Speed
 Surprise
-How did it happen
+How did it happen?
 Mock Cavalry Battle
 Emergency Strategy Meeting
 Cheerings
@@ -100,11 +100,11 @@ Principles and Real Intentions
 i7l:
 Under the circumstances
 7l:鏕
-Invaders
+Invaders!
 6l:菕
 Under the cover of darkness
 6l:珕
-If the negotiation breaks down..
+If the negotiation breaks down..?
 5l:揕
 The Location of the Sacred Treasures
 u5l:叕
@@ -128,10 +128,10 @@ Someone Special
 Main Event
 Premiere's Curiosity
 Hotshot Strea
-No fights
+No fights!
 Mini Quest
 Committee Activity
-Help out
+Help out!
 Festival in Arun
 Singer in Rainbow Colors
 Vocalist
@@ -142,7 +142,7 @@ Yuna's Singing
 Yuna the Rival
 Buff Effect
 Concert Lover
-Concert or Rank
+Concert or Rank?
 Poolside Event
 Pool Party
 Captive Heroine
@@ -197,7 +197,7 @@ Circular movement of lives
 Memories with Older Sister
 Full-fledged Structure
 Materialized Dream
-Complete Quests
+Complete Quests!
 Yuuki's Vision
 Unexpected Talent
 Holding a Contest
@@ -219,12 +219,12 @@ Thoughts of brother-sister
 Fear to water
 Panic
 How to call name
-Let's go to cleaning
+Let's go to cleaning!?
 Method of peacemaking 
 Fighting
 Holding a place
 Memories in early summer
-Let's go to resort
+Let's go to resort!
 Noticed Whereabouts
 Race of the game
 Surprising encounter
@@ -238,6 +238,7 @@ First-Met World
 Audiovisual two-way communication probe
 Reality of the dreams
 Alice and Eugeo
+dj:?
 Discovering the Sacred Treasure
 9dj:>
 Amnesia
@@ -276,7 +277,7 @@ Seasoning
 Result of Showdown
 Why I Came Back
 Ingredient Wars
-Cooking to Survive begins
+Cooking to Survive begins!
 Rechka
 Reunited
 Fireproof Pan
@@ -297,7 +298,7 @@ Paint Arrows
 Bean Wars
 Premiere & ALO
 The Best Floating Spell Program
-No Pain, No Gain
+No Pain, No Gain!
 Personal Desires
 Reach for the Sky
 Book of Magic
@@ -416,8 +417,7 @@ The Warrior against the Goddess
 Meteor Showers the Goddess of Battle
 Black Flame in Backwater
 Mighty Maid
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Hide-and-seek Girl
 Get up nerve in virtual world
 Challenger of the Shadowy Castle
@@ -462,7 +462,7 @@ Shimmering Secret
 Golden Apple
 What the Frost Giants Seek
 The Witch on the Fastest Broomstick
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 Best Trick of the Night
 Sweet-Toothed Witch
 The World Tree Fairy
@@ -535,8 +535,7 @@ Anniversary Ticket VIP x3
 [365 Days] Kirito
 Rainbow Essence x2
 The Brave Soul
-Assault
-The Revenant
+Assault! The Revenant
 Real Game Master
 An INCarnating RewArD
 1st Anniversary Record Crystal x4
@@ -554,8 +553,7 @@ Anniversary Ticket Plus x10
 Anniversary Ticket Plus x10
 Anniversary Ticket Plus x20
 The Beginning of a New Challenge
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Stardust (Medium) x500
 Water Medallion x3
 Countdown Ticket Plus x5
@@ -597,26 +595,16 @@ Steamy Beauty Bath Time Record Crystal x4
 Steamy Beauty Bath Time Record Crystal x3
 Steamy Beauty Bath Time Record Crystal x2
 Steamy Beauty Bath Time Record Crystal x1
-Baton of Friendship
-Sports Festival x10
-Baton of Friendship
-Sports Festival x9
-Baton of Friendship
-Sports Festival x8
-Baton of Friendship
-Sports Festival x7
-Baton of Friendship
-Sports Festival x6
-Baton of Friendship
-Sports Festival x5
-Baton of Friendship
-Sports Festival x4
-Baton of Friendship
-Sports Festival x3
-Baton of Friendship
-Sports Festival x2
-Baton of Friendship
-Sports Festival x1
+Baton of Friendship! Sports Festival x10
+Baton of Friendship! Sports Festival x9
+Baton of Friendship! Sports Festival x8
+Baton of Friendship! Sports Festival x7
+Baton of Friendship! Sports Festival x6
+Baton of Friendship! Sports Festival x5
+Baton of Friendship! Sports Festival x4
+Baton of Friendship! Sports Festival x3
+Baton of Friendship! Sports Festival x2
+Baton of Friendship! Sports Festival x1
 Happy Halloween Night Record Crystal x10
 Happy Halloween Night Record Crystal x9
 Happy Halloween Night Record Crystal x8
@@ -1372,8 +1360,7 @@ Defense Shard x20
 Attack Shard x20
 MP Shard x20
 HP Shard x20
-Assault Team: Assault
-Sports Festival (Top 50)
+Assault Team: Assault! Sports Festival (Top 50)
 EXP Hi-Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -1389,8 +1376,7 @@ Memory Diamond x5
 Halloween Bronze Medal x5
 Halloween Silver Medal x5
 Halloween Gold Medal x1
-Assault Team: Assault
-Sports Festival (Top 20)
+Assault Team: Assault! Sports Festival (Top 20)
 EXP X-Potion x5
 Col x50000
 Memory Diamond x5
@@ -1398,8 +1384,7 @@ Halloween Upgrade Crystal x1
 Halloween Bronze Medal x10
 Halloween Silver Medal x5
 Halloween Gold Medal x3
-Assault Team: Assault
-Sports Festival (Top 10)
+Assault Team: Assault! Sports Festival (Top 10)
 EXP X-Potion x5
 Col x100000
 Memory Diamond x5
@@ -1407,8 +1392,7 @@ Halloween Upgrade Crystal x2
 Halloween Bronze Medal x10
 Halloween Silver Medal x5
 Halloween Gold Medal x6
-Assault Team: Assault
-Sports Festival (3rd)
+Assault Team: Assault! Sports Festival (3rd)
 Rainbow Essence x1
 EXP X-Potion x5
 Col x200000
@@ -1417,8 +1401,7 @@ Halloween Upgrade Crystal x3
 Halloween Bronze Medal x10
 Halloween Silver Medal x10
 Halloween Gold Medal x10
-Assault Team: Assault
-Sports Festival (2nd)
+Assault Team: Assault! Sports Festival (2nd)
 Rainbow Essence x1
 EXP X-Potion x5
 Col x300000
@@ -1427,8 +1410,7 @@ Halloween Upgrade Crystal x3
 Halloween Bronze Medal x10
 Halloween Silver Medal x10
 Halloween Gold Medal x12
-Assault Team: Assault
-Sports Festival (1st)  
+Assault Team: Assault! Sports Festival (1st)  
 Rainbow Essence x2
 EXP X-Potion x5
 Col x500000
@@ -1493,8 +1475,7 @@ Defense Shard x20
 Attack Shard x20
 MP Shard x20
 HP Shard x20
-Assault Team: Assault
-The Magic Citadel (Top 100)
+Assault Team: Assault! The Magic Citadel (Top 100)
 EXP Hi-Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -1503,16 +1484,14 @@ Attack Shard x20
 MP Shard x20
 HP Shard x20
 Memory Diamond x5
-Assault Team: Assault
-The Magic Citadel (Top 50)
+Assault Team: Assault! The Magic Citadel (Top 50)
 EXP Hi-Potion x5
 Col x30000
 Memory Diamond x5
 Halloween Bronze Medal x5
 Halloween Silver Medal x5
 Halloween Gold Medal x1
-Assault Team: Assault
-The Magic Citadel (Top 20)
+Assault Team: Assault! The Magic Citadel (Top 20)
 EXP X-Potion x5
 Col x50000
 Memory Diamond x5
@@ -1520,8 +1499,7 @@ Halloween Upgrade Crystal x1
 Halloween Bronze Medal x10
 Halloween Silver Medal x5
 Halloween Gold Medal x3
-Assault Team: Assault
-The Magic Citadel (Top 10)
+Assault Team: Assault! The Magic Citadel (Top 10)
 EXP X-Potion x5
 Col x100000
 Memory Diamond x5
@@ -1529,8 +1507,7 @@ Halloween Upgrade Crystal x2
 Halloween Bronze Medal x10
 Halloween Silver Medal x5
 Halloween Gold Medal x6
-Assault Team: Assault
-The Magic Citadel (3rd)
+Assault Team: Assault! The Magic Citadel (3rd)
 Rainbow Essence x1
 EXP X-Potion x5
 Col x200000
@@ -1539,8 +1516,7 @@ Halloween Upgrade Crystal x3
 Halloween Bronze Medal x10
 Halloween Silver Medal x10
 Halloween Gold Medal x10
-Assault Team: Assault
-The Magic Citadel (2nd)
+Assault Team: Assault! The Magic Citadel (2nd)
 Rainbow Essence x1
 EXP X-Potion x5
 Col x300000
@@ -1549,8 +1525,7 @@ Halloween Upgrade Crystal x3
 Halloween Bronze Medal x10
 Halloween Silver Medal x10
 Halloween Gold Medal x12
-Assault Team: Assault
-The Magic Citadel (1st)
+Assault Team: Assault! The Magic Citadel (1st)
 Rainbow Essence x2
 EXP X-Potion x5
 Col x500000
@@ -1566,7 +1541,7 @@ Defense Shard x20
 Attack Shard x20
 MP Shard x20
 HP Shard x20
-Assault Team: Rival War
+Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 100)
 EXP Hi-Potion x5
 Skill Shard x20
@@ -1576,7 +1551,7 @@ Attack Shard x20
 MP Shard x20
 HP Shard x20
 Memory Diamond x5
-Assault Team: Rival War
+Assault Team: Rival War!
 - in quest of secluded hot springs - (Top 50)
 EXP Hi-Potion x5
 Col x30000
@@ -1584,7 +1559,7 @@ Memory Diamond x5
 Colored Leaf Bronze Medal x5
 Colored Leaf  Silver Medal x5
 Colored Leaf  Gold Medal x1
-Assault Team: Rival War
+Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 20)
 EXP X-Potion x5
 Col x50000
@@ -1593,7 +1568,7 @@ Halloween Upgrade Crystal x1
 Colored Leaf Bronze Medal x10
 Colored Leaf  Silver Medal x5
 Colored Leaf  Gold Medal x3
-Assault Team: Rival War
+Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 10)
 EXP X-Potion x5
 Col x100000
@@ -1602,7 +1577,7 @@ Halloween Upgrade Crystal x2
 Colored Leaf Bronze Medal x10
 Colored Leaf  Silver Medal x5
 Colored Leaf  Gold Medal x6
-Assault Team: Rival War
+Assault Team: Rival War!
 - in quest of secluded hot springs -  (3rd)
 Rainbow Essence x1
 EXP X-Potion x5
@@ -1612,7 +1587,7 @@ Halloween Upgrade Crystal x3
 Colored Leaf Bronze Medal x10
 Colored Leaf  Silver Medal x10
 Colored Leaf  Gold Medal x10
-Assault Team: Rival War
+Assault Team: Rival War!
 - in quest of secluded hot springs -  (2nd)
 Rainbow Essence x1
 EXP X-Potion x5
@@ -1622,7 +1597,7 @@ Halloween Upgrade Crystal x3
 Colored Leaf Bronze Medal x10
 Colored Leaf  Silver Medal x10
 Colored Leaf  Gold Medal x12
-Assault Team: Rival War
+Assault Team: Rival War!
 - in quest of secluded hot springs -  (1st)
 Rainbow Essence x2
 EXP X-Potion x5
@@ -1632,8 +1607,7 @@ Halloween Upgrade Crystal x4
 Colored Leaf Bronze Medal x10
 Colored Leaf  Silver Medal x10
 Colored Leaf  Gold Medal x15
-Assault Team: Assault
-The Revenant (Top 100)
+Assault Team: Assault! The Revenant (Top 100)
 Skill Shard x20
 Critical Shard x20
 Defense Shard x20
@@ -1645,16 +1619,14 @@ Col x20000
 Memory Diamond x5
 Anniversary Ticket x10
 Anniversary Ticket Plus x5
-Assault Team: Assault
-The Revenant (Top 50)
+Assault Team: Assault! The Revenant (Top 50)
 EXP Hi-Potion x5
 Col x30000
 Memory Diamond x5
 Anniversary Ticket x50
 Anniversary Ticket Plus x5
 Anniversary Ticket VIP x1
-Assault Team: Assault
-The Revenant (Top 30)
+Assault Team: Assault! The Revenant (Top 30)
 EXP Hi-Potion x5
 Col x30000
 Memory Diamond x5
@@ -1662,8 +1634,7 @@ Cross Swords Upgrade Crystal x2
 Anniversary Ticket x50
 Anniversary Ticket Plus x5
 Anniversary Ticket VIP x3
-Assault Team: Assault
-The Revenant (Top 20)
+Assault Team: Assault! The Revenant (Top 20)
 EXP X-Potion x5
 Col x50000
 Memory Diamond x5
@@ -1671,8 +1642,7 @@ Cross Swords Upgrade Crystal x3
 Anniversary Ticket x50
 Anniversary Ticket Plus x10
 Anniversary Ticket VIP x5
-Assault Team: Assault
-The Revenant (Top 10)
+Assault Team: Assault! The Revenant (Top 10)
 EXP X-Potion x5
 Col x100000
 Memory Diamond x5
@@ -1680,8 +1650,7 @@ Cross Swords Upgrade Crystal x5
 Anniversary Ticket x50
 Anniversary Ticket Plus x15
 Anniversary Ticket VIP x9
-Assault Team: Assault
-The Revenant (3rd)
+Assault Team: Assault! The Revenant (3rd)
 EXP X-Potion x5
 Rainbow Essence x1
 Col x200000
@@ -1690,8 +1659,7 @@ Cross Swords Upgrade Crystal x5
 Anniversary Ticket x80
 Anniversary Ticket Plus x30
 Anniversary Ticket VIP x14
-Assault Team: Assault
-The Revenant (2nd)
+Assault Team: Assault! The Revenant (2nd)
 EXP X-Potion x5
 Rainbow Essence x1
 Col x300000
@@ -1700,8 +1668,7 @@ Cross Swords Upgrade Crystal x5
 Anniversary Ticket x90
 Anniversary Ticket Plus x40
 Anniversary Ticket VIP x17
-Assault Team: Assault
-The Revenant (1st)
+Assault Team: Assault! The Revenant (1st)
 EXP X-Potion x5
 Rainbow Essence x2
 Col x500000
@@ -3518,7 +3485,7 @@ Silvery Blue Blade R3
 Silvery Blue Blade R2
 Golden Blade R3
 Golden Blade R2
-T.&H
+!T.&H
 Captain Hat R3
 S.&G
 Captain Hat R2
@@ -3603,6 +3570,7 @@ Ms)&
 Earth Medallion x1
 Dark Medallion x1
 Holy Medallion x1
+!r)&
 Wind Medallion x1
 Water Medallion x1
 Yq)&

@@ -1,17 +1,15 @@
 images/event/4001/4001_10_top_crystal.png
 images/event/4001/4001_10_banner_crystal.png
 images/event/4001/4001_10_banner_crystal.png
-Newbie Quest
-Mining For Crystals
+Newbie Quest! Mining For Crystals
 images/event/4001/4001_09_top_weapon.png
 images/event/4001/4001_09_banner_weapon.png
 images/event/4001/4001_09_banner_weapon.png
-Newbie Quest
-Equipment Creation
+Newbie Quest! Equipment Creation
 images/event/4001/4001_08_top_guerrilla.png
 images/event/4001/4001_08_banner_guerrilla.png
 images/event/4001/4001_08_banner_guerrilla.png
-Ragout Rabbit - Limited Time Event
+Ragout Rabbit - Limited Time Event!
 images/event/4001/4001_07_top_sunday.png
 images/event/4001/4001_07_banner_sunday.png
 images/event/4001/4001_07_banner_sunday.png
@@ -47,7 +45,7 @@ Memory Defrag All Star Quest
 images/event/9013/9013_top.png
 images/event/9013/9013_banner.png
 images/event/9013/9013_banner.png
-Sinon's Birthday Quest
+Sinon's Birthday Quest!
 images/event/9012/9012_top.png
 images/event/9012/9012_banner.png
 images/event/9012/9012_banner.png
@@ -71,15 +69,15 @@ Summer Campaign Present Quest
 images/event/9011/9011_top.png
 images/event/9011/9011_banner.png
 images/event/9011/9011_banner.png
-Yuuki's Birthday Quest
+Yuuki's Birthday Quest!
 images/event/9010/9010_top.png
 images/event/9010/9010_banner.png
 images/event/9010/9010_banner.png
-Liz's Birthday Quest
+Liz's Birthday Quest!
 images/event/9009/9009_top.png
 images/event/9009/9009_banner.png
 images/event/9009/9009_banner.png
-Leafa's Birthday Quest
+Leafa's Birthday Quest!
 images/event/9007/9007_3_top.png
 images/event/9007/9007_3_banner.png
 images/event/9007/9007_3_banner.png
@@ -279,7 +277,7 @@ Return of the Storm Wyrm
 images/event/7024/7024_top.png
 images/event/7024/7024_banner.png
 images/event/7024/7024_banner.png
-CM Character Introduction (
+CM Character Introduction (?)
 images/event/7021/7021_top.png
 images/event/7021/7021_banner.png
 images/event/7021/7021_banner.png
@@ -410,26 +408,22 @@ Anniversay Scout
 images/event/4059/4059_top.png
 images/event/4059/4059_banner.png
 images/event/4059/4059_banner.png
-[Ended] Assault
-The Revenant
+[Ended] Assault! The Revenant
 Anniversay Scout
 images/event/4059/4059_top.png
 images/event/4059/4059_banner.png
 images/event/4059/4059_banner.png
-Assault
-The Revenant
+Assault! The Revenant
 Anniversay Scout
 images/event/4058/4058_top.png
 images/event/4058/4058_banner.png
 images/event/4058/4058_banner.png
-[Ended] Assault
-Proof of Strong Bonds
+[Ended] Assault! Proof of Strong Bonds
 Anniversay Scout
 images/event/4058/4058_top.png
 images/event/4058/4058_banner.png
 images/event/4058/4058_banner.png
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 images/event/4057/event_item_4057.png
 images/event/4057/4057_top.png
 images/event/4057/4057_banner.png
@@ -520,8 +514,7 @@ Medal Scout
 images/event/4045/4045_top.png
 images/event/4045/4045_banner.png
 images/event/4045/4045_banner.png
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 images/event/4044/event_item_4044.png
 images/event/4044/4044_top.png
 images/event/4044/4044_banner.png
@@ -578,14 +571,12 @@ Medal Scout
 images/event/4037/4037_top.png
 images/event/4037/4037_banner.png
 images/event/4037/4037_banner.png
-[Ended] Let's Go
-Maid to Fight
+[Ended] Let's Go! Maid to Fight!
 Medal Scout
 images/event/4037/4037_top.png
 images/event/4037/4037_banner.png
 images/event/4037/4037_banner.png
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Medal Scout
 images/event/4036/4036_top.png
 images/event/4036/4036_banner.png
@@ -666,7 +657,7 @@ Survival Battle on Desert
 images/event/4008/4008_top.png
 images/event/4008/4008_banner.png
 images/event/4008/4008_banner.png
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 images/event/4006/4006_top.png
 images/event/4006/4006_banner.png
 images/event/4006/4006_banner.png

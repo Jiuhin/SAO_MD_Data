@@ -1,42 +1,35 @@
-Nngh
-Parry it, please
-Guard again
+Nngh! Parry it, please!
+Guard again!
 battle_cutin_34001
-Starburst Stream
+Starburst Stream!
 battle_cutin_34001
-Great job
-Switch
+Great job! Switch!
 battle_cutin_34001
-Hit its attack with
-your weapon
+Now! Hit its attack with
+your weapon!
 battle_cutin_34001
-Nice
-Parry its attack
-Guard again
+Nice! Parry its attack!
+Guard again!
 battle_cutin_34001
-Guard
+Guard!
 battle_cutin_34001
-Asuna
-Hold it off a moment
+Asuna! Hold it off a moment!
 battle_cutin_34001
 Phew...
 Let's hurry to the boss room.
 battle_cutin_34001
-Take it down just like that
+Take it down just like that!
 battle_cutin_34001
-Nice
-Keep it up
+Nice! Keep it up!
 battle_cutin_34001
-Quick-step to dodge it
+Quick-step to dodge it!
 battle_cutin_34001
 That's a dangerous attack.
-Jump to evade
+Jump to evade!
 battle_cutin_34001
-Asuna, take them down
+Asuna, take them down!
 battle_cutin_34001
-Enemies
-Not now
+Enemies?! Not now!
 battle_cutin_34001
-Hurry
-To the boss room
+Hurry! To the boss room!
 battle_cutin_34001

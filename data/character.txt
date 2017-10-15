@@ -500,6 +500,7 @@ dead
 dash
 damage
 charge_old
+"DZ$
 charge
 back_step
 attack_3
@@ -991,9 +992,7 @@ attack_1
 skill_cutin_10001
 battle_cutin_34001
 Despite being a member of SAO's Assault Team, Kirito is a loner
-a solo player. Clad all in black, his infamy has earned him the title 
-The Black Swordsman.
-Although he possesses the dual-wielding extra skill, he keeps it a secret.
+a solo player. Clad all in black, his infamy has earned him the title "The Black Swordsman." Although he possesses the dual-wielding extra skill, he keeps it a secret.
 serif
 4_kirito_34001
 Kirito
@@ -1203,11 +1202,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24002
-Although Yuuki is relatively new to ALO, her incredible talents have earned her the title 
-Zekken.
-She developed the OSS 
-Mother's Rosario,
-thought to be the longest OSS combo in virtual history with eleven consecutive attacks.
+Although Yuuki is relatively new to ALO, her incredible talents have earned her the title "Zekken." She developed the OSS "Mother's Rosario," thought to be the longest OSS combo in virtual history with eleven consecutive attacks.
 serif
 4_yuuki_24002
 Yuuki
@@ -1377,11 +1372,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_195001
-SAO player. The commander of 
-the Knights of the Blood
-. He uses 
-Holy Sword
-with some special skills. He also has great protection and is one of the top players.
+SAO player. The commander of "the Knights of the Blood". He uses "Holy Sword" with some special skills. He also has great protection and is one of the top players.
 serif
 4_heathcliff_194001
 Heathcliff
@@ -1422,11 +1413,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_194001
-SAO player. The commander of 
-the Knights of the Blood
-. He uses 
-Holy Sword
-with some special skills. He also has great protection and is one of the top players.
+SAO player. The commander of "the Knights of the Blood". He uses "Holy Sword" with some special skills. He also has great protection and is one of the top players.
 serif
 4_heathcliff_194001
 Heathcliff
@@ -1467,9 +1454,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184010
-Leprechaun in ALO. In her sexy Halloween costume, getting lots of sweets from 
-trick or treat
-, she's very happy. 
+Leprechaun in ALO. In her sexy Halloween costume, getting lots of sweets from "trick or treat", she's very happy. 
 serif
 4_lisbeth_184010
 Lisbeth
@@ -1510,9 +1495,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184010
-Leprechaun in ALO. In her sexy Halloween costume, getting lots of sweets from 
-trick or treat
-, she's very happy. 
+Leprechaun in ALO. In her sexy Halloween costume, getting lots of sweets from "trick or treat", she's very happy. 
 serif
 4_lisbeth_184010
 Lisbeth
@@ -1594,9 +1577,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184007
-SAO Player who belongs to a guild called 
-Moonlit Black Cats
-. She continues this game with close friends to buy a home of their guild, fighting against the fear of death.
+SAO Player who belongs to a guild called "Moonlit Black Cats". She continues this game with close friends to buy a home of their guild, fighting against the fear of death.
 serif
 2_sachi_22002
 Sachi
@@ -1803,7 +1784,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184001
-Asuna goes to Libra quest after playing Athena quest in Thule island. She was assessed whether or not there is rightness in her heart by a scale. What is Asuna's answer
+Asuna goes to Libra quest after playing Athena quest in Thule island. She was assessed whether or not there is rightness in her heart by a scale. What is Asuna's answer?
 serif
 4_asuna_184001
 Asuna
@@ -1848,7 +1829,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_164005
-Despite cutting a lithe Sylph figure as Leafa in ALO, Suguha becomes concerned about all the Halloween candy she's been gorging on in real life. She opens up to Silica, who suggests they try watching what they eat. Suguha agrees to it...but will it work
+Despite cutting a lithe Sylph figure as Leafa in ALO, Suguha becomes concerned about all the Halloween candy she's been gorging on in real life. She opens up to Silica, who suggests they try watching what they eat. Suguha agrees to it...but will it work?
 serif
 4_leafa_164005
 Leafa
@@ -1960,6 +1941,7 @@ down
 dead
 dash
 damage
+"D"-
 charge_old
 charge
 back_step
@@ -2070,9 +2052,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_164014
-ALO player. Cait Sith kitty cat. Silica gets asked for her help on the defense quest in the new area 
-Japanese Castle
-. Due to the strength of the enemies, they once fail the quest. The strategy to get through this defense quest is....
+ALO player. Cait Sith kitty cat. Silica gets asked for her help on the defense quest in the new area "Japanese Castle". Due to the strength of the enemies, they once fail the quest. The strategy to get through this defense quest is....?
 serif
 4_silica_164014
 Silica
@@ -2274,6 +2254,7 @@ down
 dead
 dash
 damage
+"D6>
 charge_old
 charge
 back_step
@@ -2339,7 +2320,7 @@ attack_1
 skill_cutin_20001
 battle_cutin_164006
 Asuna, having bolstered her Undine abilities by acquiring armor that lets her learn Salamander abilities, embarks on a Salamander-only quest
-but what does she hope to accomplish
+but what does she hope to accomplish?
 serif
 4_asuna_164006
 Asuna
@@ -2384,7 +2365,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_164005
-Despite cutting a lithe Sylph figure as Leafa in ALO, Suguha becomes concerned about all the Halloween candy she's been gorging on in real life. She opens up to Silica, who suggests they try watching what they eat. Suguha agrees to it...but will it work
+Despite cutting a lithe Sylph figure as Leafa in ALO, Suguha becomes concerned about all the Halloween candy she's been gorging on in real life. She opens up to Silica, who suggests they try watching what they eat. Suguha agrees to it...but will it work?
 serif
 4_leafa_164005
 Leafa
@@ -3817,7 +3798,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_124007
-A master GGO sniper who fights brutal battles across the badlands. Still, once she leaves the battlefield, she's just like any other girl her age. But what thoughts race through her mind as she gazes up through her window at the pale white moon...
+A master GGO sniper who fights brutal battles across the badlands. Still, once she leaves the battlefield, she's just like any other girl her age. But what thoughts race through her mind as she gazes up through her window at the pale white moon...?
 serif
 4_sinon_124007
 Sinon
@@ -3951,8 +3932,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_124002
-Sinon takes the form of a Cait Sith in ALO and manages to acquire equipment that allows her to gain Salamander abilities
-With this, Sinon feels ready to take on a quest that's rumored to reward players with a firearm.
+Sinon takes the form of a Cait Sith in ALO and manages to acquire equipment that allows her to gain Salamander abilities! With this, Sinon feels ready to take on a quest that's rumored to reward players with a firearm.
 serif
 4_sinon_124002
 Sinon
@@ -4505,7 +4485,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104022
-Silica, in her ALO Cait Sith form, her body became small after arriving Andersen island. She strayed with Kirito.  It seems like the story of Thumbelina has started. All in the sudden,Pina ......
+Silica, in her ALO Cait Sith form, her body became small after arriving Andersen island. She strayed with Kirito.  It seems like the story of Thumbelina has started. All in the sudden,Pina ......?
 serif
 4_silica_104022
 Silica
@@ -4674,7 +4654,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104018
-An Ordinal Scale fan and smart shopper, Rika Shinozaki stumbles upon an unexpected loophole while collecting points from real-world businesses promoting OS. Before long, she ropes Asuna and friends into her scheme and the game is on
+An Ordinal Scale fan and smart shopper, Rika Shinozaki stumbles upon an unexpected loophole while collecting points from real-world businesses promoting OS. Before long, she ropes Asuna and friends into her scheme and the game is on!
 serif
 4_lisbeth_104018
 Lisbeth
@@ -4758,8 +4738,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104015
-This smithing SAO maiden is daydreaming about a certain guy fighting on the front lines and the sword she works so hard to maintain for him. When will he show up next
-Liz's thoughts spin in lazy circles as her eyes slowly close...
+This smithing SAO maiden is daydreaming about a certain guy fighting on the front lines and the sword she works so hard to maintain for him. When will he show up next? Liz's thoughts spin in lazy circles as her eyes slowly close...
 serif
 4_lisbeth_104015
 Lisbeth
@@ -4887,9 +4866,7 @@ attack_1
 skill_cutin_20001
 battle_cutin_104011
 Liz manages a smithy in SAO
-a smithy that might as well close during Christmas, for all the business it generates. But what's this
-A quest just triggered
-Liz sets off with Asuna to make some building blocks for one of the NPC children.
+a smithy that might as well close during Christmas, for all the business it generates. But what's this? A quest just triggered! Liz sets off with Asuna to make some building blocks for one of the NPC children.
 serif
 4_lisbeth_104011
 Lisbeth
@@ -4973,8 +4950,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104009
-With an eye for detail that only a Leprechaun could possess, Liz notices something off in The World Tree's sapling garden. Something's preying on the pollinators
-Liz knows she has to get rid of this pest, and that means waiting for the area's resources to reset.
+With an eye for detail that only a Leprechaun could possess, Liz notices something off in The World Tree's sapling garden. Something's preying on the pollinators! Liz knows she has to get rid of this pest, and that means waiting for the area's resources to reset.
 serif
 4_lisbeth_104009
 Lisbeth
@@ -5059,7 +5035,7 @@ attack_1
 skill_cutin_20001
 battle_cutin_104006
 This ALO Imp of a gal spotted a beautiful bit of water when she was out with Siune and decided to practice her swimming. Suddenly, a scream echoes across the water's surface
-swimming here appeared to have triggered a special quest
+swimming here appeared to have triggered a special quest!
 serif
 4_yuuki_104006
 Yuuki
@@ -6470,9 +6446,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84017
-ALO player. Dark fairy, Imp. During the dual quest in the new area 
-Japanese Castle
-, Yuuki gets ran away from the opponent. As she decides to learn the complicated structure of the castle,  she starts training in the mood of as if he was a Ninja.
+ALO player. Dark fairy, Imp. During the dual quest in the new area "Japanese Castle", Yuuki gets ran away from the opponent. As she decides to learn the complicated structure of the castle,  she starts training in the mood of as if he was a Ninja.
 serif
 4_yuuki_84017
 Yuuki
@@ -6513,9 +6487,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84016
-This hardworking SAO gal still embraces the warm, fuzzy feelings that budded in her heart on that fateful day. But hard working or not, tonight it's break time
-Will she meet that special guy in her dreams
-Stay tuned...
+This hardworking SAO gal still embraces the warm, fuzzy feelings that budded in her heart on that fateful day. But hard working or not, tonight it's break time! Will she meet that special guy in her dreams? Stay tuned...
 serif
 4_silica_84016
 Silica
@@ -7221,8 +7193,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_82004
-A kind woman who spends her days running a daycare center in the Town of Beginnings. The small children she looks after adore her, and like to call her 
-Teach.
+A kind woman who spends her days running a daycare center in the Town of Beginnings. The small children she looks after adore her, and like to call her "Teach."
 serif
 2_sasha_82004
 Sasha
@@ -7300,7 +7271,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_82002
-This self-proclaimed treasure hunter first bumped into Kirito in SAO's Hollow Area. With her unique SAO experience, how did she feel on that fateful first day
+This self-proclaimed treasure hunter first bumped into Kirito in SAO's Hollow Area. With her unique SAO experience, how did she feel on that fateful first day?
 serif
 2_philia_82002
 Philia
@@ -7874,7 +7845,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64025
-Asuna was looked her wedding photo in the virtual world by her mother and she is asked an explanation. Kirito is caught in an end game... Is it time to prepare for
+Asuna was looked her wedding photo in the virtual world by her mother and she is asked an explanation. Kirito is caught in an end game... Is it time to prepare for?
 serif
 4_asuna_64025
 Asuna
@@ -8079,9 +8050,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64019
-NPC of ALO as a navigation pixie. When explored Anderson island, 
-The Last Pearl
-event of Anderson fairy story occurred. Yui was selected as one of the fairies in the story.
+NPC of ALO as a navigation pixie. When explored Anderson island, "The Last Pearl" event of Anderson fairy story occurred. Yui was selected as one of the fairies in the story.
 serif
 4_yui_64019
 [Pearl Tears] Yui
@@ -8414,7 +8383,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64008
-A kind-hearted SAO player who joins Kirito on his adventures. When they arrive in a town known for making Valentine's Day chocolates, she suddenly grows embarrassed with Kirito standing right before her. Why is that...
+A kind-hearted SAO player who joins Kirito on his adventures. When they arrive in a town known for making Valentine's Day chocolates, she suddenly grows embarrassed with Kirito standing right before her. Why is that...?
 serif
 4_asuna_64008
 Asuna
@@ -8456,7 +8425,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64007
-In the midst of an ALO quest to acquire a New Year's kimono, Asuna receives the Sweet Dreams Potion from Kirito. But who does she wish to show a sweet New Year's dream to...
+In the midst of an ALO quest to acquire a New Year's kimono, Asuna receives the Sweet Dreams Potion from Kirito. But who does she wish to show a sweet New Year's dream to...?
 serif
 4_asuna_64007
 Asuna
@@ -8947,9 +8916,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_62002
-A former member of the SAO guild 
-Golden Apple.
-She first encountered Kirito and Asuna when they were investigating a safe zone murder. She's currently trying to get to the bottom of something that happened in her old guild.
+A former member of the SAO guild "Golden Apple." She first encountered Kirito and Asuna when they were investigating a safe zone murder. She's currently trying to get to the bottom of something that happened in her old guild.
 serif
 2_yolko_62002
 Yolko
@@ -9569,9 +9536,7 @@ attack_1
 skill_cutin_10001
 battle_cutin_34001
 Despite being a member of SAO's Assault Team, Kirito is a loner
-a solo player. Clad all in black, his infamy has earned him the title 
-The Black Swordsman.
-Although he possesses the dual-wielding extra skill, he keeps it a secret.
+a solo player. Clad all in black, his infamy has earned him the title "The Black Swordsman." Although he possesses the dual-wielding extra skill, he keeps it a secret.
 serif
 4_kirito_34001
 Kirito
@@ -10187,9 +10152,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24035
-A mysterious knight from another world. Alice realizes that girls such as Asuna look restless. She does not come across clearly the word 
-june bride
-but She duels with Asuna by some freak coincidence.
+A mysterious knight from another world. Alice realizes that girls such as Asuna look restless. She does not come across clearly the word "june bride" but She duels with Asuna by some freak coincidence.
 serif
 4_alice_24035
 Alice
@@ -10809,8 +10772,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24015
-The only player with overwhelming force defeated Kirito second times, although Kirito did not use dualblades. She steps into the shoes of her older sister, and leads a guild 
-Sleeping knights
+The only player with overwhelming force defeated Kirito second times, although Kirito did not use dualblades. She steps into the shoes of her older sister, and leads a guild "Sleeping knights".
 serif
 4_yuuki_24002
 Yuuki
@@ -11059,7 +11021,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24009
-Once Yuuki's Imp ears learn that Asuna has succumbed to a noxious gas, she heads straight for The World Tree's sapling garden in search of a cure, only to be ambushed by a group of monsters
+Once Yuuki's Imp ears learn that Asuna has succumbed to a noxious gas, she heads straight for The World Tree's sapling garden in search of a cure, only to be ambushed by a group of monsters!
 serif
 4_yuuki_24009
 Yuuki
@@ -11143,7 +11105,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24005
-Yuuki is an Imp in ALO. After hearing a rumor of a special cloak that allows flight in the dark, she joined forces with Kirito to investigate. If this item existed, it would break the game's balance...but is it real
+Yuuki is an Imp in ALO. After hearing a rumor of a special cloak that allows flight in the dark, she joined forces with Kirito to investigate. If this item existed, it would break the game's balance...but is it real?
 serif
 4_yuuki_24005
 Yuuki
@@ -11269,11 +11231,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24002
-Although Yuuki is relatively new to ALO, her incredible talents have earned her the title 
-Zekken.
-She developed the OSS 
-Mother's Rosario,
-thought to be the longest OSS combo in virtual history with eleven consecutive attacks.
+Although Yuuki is relatively new to ALO, her incredible talents have earned her the title "Zekken." She developed the OSS "Mother's Rosario," thought to be the longest OSS combo in virtual history with eleven consecutive attacks.
 serif
 4_yuuki_24002
 Yuuki
@@ -11478,8 +11436,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_22001
-This beautiful young girl is shrouded in mystery. Where was she on that fateful first day of SAO
-What happened to her memory
+This beautiful young girl is shrouded in mystery. Where was she on that fateful first day of SAO? What happened to her memory?
 serif
 2_strea_22001
 Strea
@@ -11984,7 +11941,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_14004
-Klein chose a Salamander avatar for ALO and found some solid armor to boot. His pleasant disposition and eagerness to help makes him an easy mark for a conniving player, but luckily he's got friends who will bail him out...right
+Klein chose a Salamander avatar for ALO and found some solid armor to boot. His pleasant disposition and eagerness to help makes him an easy mark for a conniving player, but luckily he's got friends who will bail him out...right?
 serif
 4_klein_14004
 Klein
@@ -12196,8 +12153,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_13007
-One of the leaders of the SAO murder guild Laughing Coffin, XaXa wears a disturbing mask that resembles a skull. His eyes often gleam with a malevolent red light, earning him the nickname 
-Red-Eyed.
+One of the leaders of the SAO murder guild Laughing Coffin, XaXa wears a disturbing mask that resembles a skull. His eyes often gleam with a malevolent red light, earning him the nickname "Red-Eyed."
 serif
 3_xaxa_13007
 XaXa
@@ -12239,9 +12195,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_13006
-The leader of the SAO guild, the Knights of the Blood Oath. Possessing the powerful unique skill 
-Divine Blade,
-his impenetrable defense and tremendous skills have made him famous among the players of SAO.
+The leader of the SAO guild, the Knights of the Blood Oath. Possessing the powerful unique skill "Divine Blade," his impenetrable defense and tremendous skills have made him famous among the players of SAO.
 serif
 3_heathcliff_13006
 Heathcliff

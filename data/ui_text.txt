@@ -34,7 +34,7 @@ Timeline
 text_timeline_active
 Edit
 text_edit
-You receive messages from your Commander and Vice Commander here. You will find the noticeboard in blue when it's updated. Don't miss it
+You receive messages from your Commander and Vice Commander here. You will find the noticeboard in blue when it's updated. Don't miss it!
 text_comment
 Last month
 text_last_month
@@ -49,13 +49,13 @@ It resets on the 1st day of every month.
 Text_1
 Guild Home Updated
 text_reflect
-Do you want to update the info
+Do you want to update the info?
 text_question
 Guild Home has been updated
 text_attention
 Effect On
 text_title_buff
-Do you want to set it up
+Do you want to set it up?
 text_attention_3
 You've purchased.
 text_attention_2
@@ -63,7 +63,7 @@ Required Guild Col:
 text_guild_col_price
 Guild Col:
 text_guild_col
-Do you want to buy this
+Do you want to buy this?
 text_attention
 Invited
 text_been_invited
@@ -157,7 +157,7 @@ Edit
 text_button_edit
 Only your Commander and Vice Commander can edit.
 text_member_attention
-You will find messages from your Commander and Vice Commander here. The noticeboard will shine blue when there is an update. Don't miss it
+You will find messages from your Commander and Vice Commander here. The noticeboard will shine blue when there is an update. Don't miss it!
 text_comment
 Notice to Guild Members
 text_title_2
@@ -388,9 +388,9 @@ There are no weapons available
 text_no_item
 Exchangable Weapons :
 text_weapon
-Choose your weapon
+Choose your weapon!
 text_note_male
-Choose your weapon
+Choose your weapon!
 text_note_female
 Select a character to change their equipment.
 text_choose_character
@@ -398,15 +398,15 @@ Characters
 text_possession_character
 Materials Needed
 title_item
-Do you want to purchase Memory Diamonds
+Do you want to purchase Memory Diamonds?
 text_title_popup
 Required
 text_total
 You can claim up to 20 items at once.
 text_receive_many_items
-received
+received!
 text_received
-You already have this character. You received an item instead
+You already have this character. You received an item instead!
 text_replaced_item_title
 [] has been upgraded.
 text_evolution
@@ -429,7 +429,7 @@ You can leave from
 text_1
 3 days after an event
 text_event_date
-Score Update
+Score Update!
 text_score_update
 text_lv_member2
 text_lv_member1
@@ -467,7 +467,7 @@ text_target_title
 Cost
 text_consumption
 Do you want to use the
-Items above and exchange
+Items above and exchange?
 text_exchange
 Play Story
 text_play_story
@@ -559,7 +559,7 @@ text_extended
 Set to add the number of slots.
 text_set_equipment_possession_title
 Do you buy Memory Diamonds to
-increase equipment slots
+increase equipment slots?
 text_description_2
 You cannot receive any more equipment
 as your inventory is full. 
@@ -607,7 +607,7 @@ Type
 title_text
 Set Boosts:
 text_boost_result
-Proceed to Next Quest
+Proceed to Next Quest?
 text_confirm
 Retreat
 text_button_close
@@ -638,7 +638,7 @@ Last Login:
 text_login_2
 Unlocked When Acquired
 text_mission
-No Pain, No Gain
+No Pain, No Gain!
 text_title
 Diff.:
 text_difficulty
@@ -657,7 +657,7 @@ Terms of Sale
 text_tokusyouhou
 Legal Information
 text_shikinkessaihou
-Do you want to skip this
+Do you want to skip this?
 text_confirm
 text_cancel
 text_ok
@@ -706,7 +706,7 @@ text_accept
 permission
 text_attention_9
 Did you get 
-from a parent or guardian
+from a parent or guardian?
 text_announcement_3
 Up to $200/mth incl. tax
 text_attention_8
@@ -770,7 +770,7 @@ text_parental_allow
 permission
 text_attention_2
 Get 
-from your parents
+from your parents!
 text_parental_not_allow
 Your Transfer Code
 text_info_1
@@ -818,7 +818,7 @@ Next
 text_exp
 Close
 text_close
-Follow a player you've met for the first time
+Follow a player you've met for the first time?
 text_info
 Event Points
 text_rank_ep
@@ -873,7 +873,7 @@ Find Suggestions
 label_title_parameter
 Change Party
 text_button_change_party
-Ready
+Ready!
 text_ready
 Preparing...
 text_preparation
@@ -908,7 +908,7 @@ Edit
 text_change_comment
 Goal
 text_title_mission
-Let's do this
+Let's do this!
 text_comment
 Message
 text_comment_title
@@ -1094,7 +1094,7 @@ Departed
 text_sally
 To Unlock
 text_lock
-Get bonus CP now
+Get bonus CP now!
 text_campaign
 Other Menus
 text_title
@@ -1186,7 +1186,7 @@ Diamond Cost
 text_draw_once_consume
 Diamond Cost
 text_draw_eleven_consume
-Do you want to buy another weapon
+Do you want to buy another weapon?
 text_retry_confirm
 Info
 text_detail
@@ -1199,7 +1199,7 @@ text_draw_once_consume
 Diamond Cost
 text_draw_eleven_consume
 text_diamond_shop
-Do you want to buy another weapon
+Do you want to buy another weapon?
 text_retry_confirm
 text_diamond_shop
 Ticket Cost
@@ -1216,7 +1216,7 @@ Record Crystal Cost :
 text_draw_once_consume_crystal
 Details
 text_detail
-Do you want to scout again
+Do you want to scout again?
 text_retry_confirm
 text_diamond_shop
 Ticket Cost
@@ -1231,9 +1231,9 @@ Diamond Cost
 text_draw_once_consume
 Record Crystal Cost :
 text_draw_once_consume_crystal
-Do you want to scout again
+Do you want to scout again?
 text_retry_confirm
-You got a Hacking Crystal
+You got a Hacking Crystal!
 text_replace_item
 text_diamond_shop
 Ticket Cost
@@ -1248,7 +1248,7 @@ Diamond Cost
 text_draw_once_consume
 Record Crystal Cost :
 text_draw_once_consume_crystal
-Do you want to scout again
+Do you want to scout again?
 text_retry_confirm
 Total Likes :
 text_total
@@ -1293,7 +1293,7 @@ Details
 text_testplay
 Characters & Info
 text_odd_1
-Do you want to sell this item
+Do you want to sell this item?
 text_info_dynamic
 Sell
 text_start
@@ -1314,12 +1314,12 @@ Choose to use or sell Item
 text_info_stable
 Use 
 Memory Diamonds
-to unlock ability
-Buy Memory Diamonds
+to unlock ability?
+Buy Memory Diamonds?
 text_item_description
-Do you want to use this item
+Do you want to use this item?
 text_info_dynamic
-Do you want to use this item
+Do you want to use this item?
 text_info_stable
 Select a character.
 text_description
@@ -1345,10 +1345,10 @@ text_empty_gift_box
 text_item_number
 text_equipment_number
 You will lose all your rewards.
-Are you sure you want to retry
+Are you sure you want to retry?
 text_announce_restart
 You will lose all your rewards.
-Are you sure you want to give up
+Are you sure you want to give up?
 text_announce_give_up
 Items Acquired
 text_get_item
@@ -1765,7 +1765,7 @@ text_cancel
 text_ok
 Depart
 text_go
-Are you ready to depart
+Are you ready to depart?
 text_info
 Title
 text_title
@@ -1827,11 +1827,11 @@ Follow
 text_follow
 Last Login:
 text_title_login
-You already have this character. You received an item instead
+You already have this character. You received an item instead!
 text_replaced_item_title
-received
+received!
 text_receive
-Unlock Ability
+Unlock Ability?
 text_confirm
 Terms of Sale
 text_tokusyouhou
@@ -1839,8 +1839,8 @@ Legal Information
 text_shikinkessaihou
 Use 
 Memory Diamonds
-to unlock ability
-Buy Memory Diamonds
+to unlock ability?
+Buy Memory Diamonds?
 text_title_1
 Town Number
 text_current_room_title
@@ -1859,7 +1859,7 @@ text_tokusyouhou
 Legal Information
 text_shikinkessaihou
 Not enough Memory Diamonds.
-Do you want to purchase more
+Do you want to purchase more?
 text_content
 Write a message
 text_input_place_holder
@@ -1867,7 +1867,7 @@ The oldest messages will be deleted after 100 messages.
 text_attention
 Owned
 text_item_number
-Level already at max
+Level already at max!
 text_info_max_level
 Materials Needed
 title_item
@@ -1883,9 +1883,9 @@ Equipment
 text_possession
 No equipment is available to upgrade.
 text_no_item
-Choose equipment to upgrade
+Choose equipment to upgrade!
 text_note_male
-Choose equipment to upgrade
+Choose equipment to upgrade!
 text_note_female
 Close
 text_close
@@ -1897,29 +1897,29 @@ Total
 text_total
 Equipment
 text_possession
-Choose equipment to sell
+Choose equipment to sell!
 text_note_male
-Choose equipment to sell
+Choose equipment to sell!
 text_note_female
 Info
 text_detail
-Upgrade Bonus x2
+Upgrade Bonus x2!
 text_bonus
-Upgrade again
+Upgrade again?
 text_info
 Info
 text_detail
 (Max Lv.)
 text_max_level
-Sell selected equipment
+Sell selected equipment?
 text_info
 You have selected equipment with a rarity of 3 or
-higher. Do you want to sell anyway
+higher. Do you want to sell anyway?
 text_attention
 Total Col:
 text_total_sell
 Weapon level will be reset if the evolution
-succeeds. Do you want to continue
+succeeds. Do you want to continue?
 text_info
 Evolve
 text_ok
@@ -1943,9 +1943,9 @@ You have no evolvable equipment.
 text_no_item
 Evolvable
 text_possession
-Select equipment to evolve
+Select equipment to evolve!
 text_note_male
-Select equipment to evolve
+Select equipment to evolve!
 text_note_female
 Edit Equip.
 text_party
@@ -1966,7 +1966,7 @@ text_warning
 A Limit Break is available.
 Choose a stat to upgrade.
 text
-Do you want to unlock this attribute
+Do you want to unlock this attribute?
 text_confirm
 Not enough items.
 text

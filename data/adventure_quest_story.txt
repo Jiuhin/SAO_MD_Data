@@ -81,7 +81,7 @@ The Mother-Daughter Bond
 Surprise
 Event Story
 The Mother-Daughter Bond
-How did it happen
+How did it happen?
 Event Story
 The Mother-Daughter Bond
 Mock Cavalry Battle
@@ -179,51 +179,51 @@ Event Story
 The Malefic Star of the Magic Citadel
 Gone Aincrad 
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Peaceful Coexistence Hot Spring
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Reconciliation with Monkeys
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Conversation with Monkeys
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Silica's Secret Plan
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Monkey Control
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Attack
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Hidden Hotsprings
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 In Search of Hotsprings
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Monkey Tribe
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Planned Site 
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 Lack of Charm
 Event Story
-Rival War
+Rival War!
 - in quest of secluded hot springs 
 City Development
 Event Story
@@ -285,13 +285,13 @@ The Star's Call Opens the Door
 Under the circumstances
 Event Story
 The Star's Call Opens the Door
-Invaders
+Invaders!
 Event Story
 The Star's Call Opens the Door
 Under the cover of darkness
 Event Story
 The Star's Call Opens the Door
-If the negotiation breaks down..
+If the negotiation breaks down..?
 Event Story
 The Star's Call Opens the Door
 The Location of the Sacred Treasures
@@ -299,100 +299,76 @@ Event Story
 The Star's Call Opens the Door
 To the Leprechaun territory
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 The Brave Souls
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Trust and Betrayal
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Trust and Betrayal
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Disturbing Buzz
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Disturbing Buzz
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Assault Team Again
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Assault Aincrad again
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Arianrhod
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Commander
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Commander
 Event Story
-Assault
-The Revenant
-New KoB
+Assault! The Revenant
+New KoB?
 Event Story
-Assault
-The Revenant
+Assault! The Revenant
 Much-Talked-About Guild 
 Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Evolvable Kind
 Event Story
-Assault
-Proof of Strong Bonds
-Proof of Strong Bonds
-Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Proof of Strong Bonds
 Event Story
-Assault
+Assault! Proof of Strong Bonds
 Proof of Strong Bonds
+Event Story
+Assault! Proof of Strong Bonds
 The Strength Needed
 Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Asuna's Suggestion
 Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Resort
 Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Special Stage
 Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 The meaning of Strength
 Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Skill Connect
 Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Memories of the Past
 Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Memories of the Past
 Event Story
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Wise Man
 Event Story
 PIRATES of ALO
@@ -453,7 +429,7 @@ Premiere's Summer Festival
 Hotshot Strea
 Event Story
 Premiere's Summer Festival
-No fights
+No fights!
 Event Story
 Premiere's Summer Festival
 Mini Quest
@@ -462,7 +438,7 @@ Premiere's Summer Festival
 Committee Activity
 Event Story
 Premiere's Summer Festival
-Help out
+Help out!
 Event Story
 Premiere's Summer Festival
 Festival in Arun
@@ -567,7 +543,7 @@ Idol Singer
 Concert Lover
 Event Story
 Idol Singer
-Concert or Rank
+Concert or Rank?
 Event Story
 Idol Singer
 Poolside Event
@@ -636,7 +612,7 @@ Lives drawn in the virtual world
 Materialized Dream
 Event Story
 Lives drawn in the virtual world
-Complete Quests
+Complete Quests!
 Event Story
 Lives drawn in the virtual world
 Yuuki's Vision
@@ -647,51 +623,39 @@ Event Story
 Lives drawn in the virtual world
 Holding a Contest
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Funny Play
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Stop Mischievous Play campaign
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Life in MMO
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Temptation
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 New Gainings
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Real Fight
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Rule and Manner
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Ominous Signs
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 The OS World
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Jack Up
 Event Story
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 New Player
 Event Story
 A rainbow after the rain
@@ -773,7 +737,7 @@ Meteor showers the goddess of battle
 Battle against the Goddess
 Event Story
 Meteor showers the goddess of battle
-Hurry away
+Hurry away!
 Event Story
 Meteor showers the goddess of battle
 The best opportunity
@@ -821,7 +785,7 @@ Black flame in backwater
 How to call name
 Event Story
 Black flame in backwater
-Let's go to cleaning
+Let's go to cleaning!?
 Event Story
 Black flame in backwater
 Method of peacemaking 
@@ -836,7 +800,7 @@ Black flame in backwater
 Memories in early summer
 Event Story
 Black flame in backwater
-Let's go to resort
+Let's go to resort!
 Event Story
 Pop Star Online part 2
 High expectation for official service
@@ -848,10 +812,10 @@ Pop Star Online part 2
 《Frustration》
 Event Story
 Pop Star Online part 2
-You're 100 years early for this
+You're 100 years early for this!
 Event Story
 Pop Star Online part 2
-You're 100 years early for this
+You're 100 years early for this!
 Event Story
 Pop Star Online part 2
 Strategy
@@ -910,52 +874,40 @@ Event Story
 Get up nerve in virtual world
 11 year-old teenage girl
 Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Maid gets serious
 Event Story
-Let's Go
-Maid to Fight
-Maid to Fight
-Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Maid to Fight
 Event Story
-Let's Go
+Let's Go! Maid to Fight!
 Maid to Fight
+Event Story
+Let's Go! Maid to Fight!
 Hostage rescue mission
 Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Kidnap incident
 Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Helper's arrival
 Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Helper's arrival
 Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Failure
 Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Maid skill
 Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Good at/ Bad at 
 Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Good at/ Bad at 
 Event Story
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Mansion in the new area
 Event Story
 Invitation from Fairyland
@@ -986,12 +938,10 @@ Invitation from Fairyland
 Start Collecting
 Event Story
 Invitation from Fairyland
-Episode 
-Collect
+Episode "Collect"
 Event Story
 Invitation from Fairyland
-Episode 
-Collect
+Episode "Collect"
 Event Story
 Invitation from Fairyland
 Fairyland
@@ -1288,7 +1238,7 @@ Reach for the Sky
 The Best Floating Spell Program
 Event Story
 Reach for the Sky
-No Pain, No Gain
+No Pain, No Gain!
 Event Story
 Reach for the Sky
 Personal Desires
@@ -1336,7 +1286,7 @@ Super Chef
 Ingredient Wars
 Event Story
 Super Chef
-Cooking to Survive begins
+Cooking to Survive begins!
 Event Story
 Super Chef
 Rechka
@@ -1495,8 +1445,7 @@ The Food of Friendship
 Memories of that Day
 Event Story
 The Food of Friendship
-Obtain 
-New Year's Feast
+Obtain "New Year's Feast"
 Event Story
 The Food of Friendship
 At an Arun Street Corner
@@ -1523,19 +1472,19 @@ Daybreak on a VR New Year
 Seeking the Blue Rainbow Crystal
 Event Story
 Daybreak on a VR New Year
-More Quest Information
+More Quest Information!?
 Event Story
 Daybreak on a VR New Year
 What We Can Do for Yui
 Event Story
 Daybreak on a VR New Year
-I've Decided
+I've Decided!
 Event Story
 Daybreak on a VR New Year
-I've Decided
+I've Decided!
 Event Story
 Daybreak on a VR New Year
-Reality or VR
+Reality or VR?
 Event Story
 Made With Love
 What Cooking Means Here
@@ -1628,13 +1577,13 @@ The Dark Saint
 All the Little Children
 Event Story
 The Dark Saint
-After Evil Santa
+After Evil Santa!
 Event Story
 The Dark Saint
 A Shady Character
 Event Story
 The Dark Saint
-Catch the Culprit
+Catch the Culprit!
 Event Story
 The Dark Saint
 The Vanished Gift
@@ -1691,7 +1640,7 @@ Creature of the Labyrinth
 Looking for Clues
 Event Story
 Creature of the Labyrinth
-Quest...Complete
+Quest...Complete?
 Event Story
 Each to Their Own
 Each to Their Own
@@ -1793,7 +1742,7 @@ Shimmering Secret
 The Bottom of the Lake
 Event Story
 Shimmering Secret
-The Big One
+The Big One!
 Event Story
 Shimmering Secret
 To the Fishing Hole
@@ -1837,40 +1786,40 @@ Event Story
 What the Frost Giants Seek
 Incident in Cait Sith Territory
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 Flying Broomstick
 Event Story
-Beware the Kobold Trickster
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
+Beware the Kobold Trickster!
 Event Story
-Beware the Kobold Trickster
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
+Beware the Kobold Trickster!
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 Convergence
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 The Kobold's True Colors: 2
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 The Kobold's True Colors: 1
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 The Happening
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 Find the Witch's Familiar
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 Find the Witch's Familiar
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 Just One Little Hint
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 Just One Little Hint
 Event Story
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 The Witch's Broomstick
 Event Story
 Sweet-Toothed Witch
@@ -1898,13 +1847,13 @@ Sweet-Toothed Witch
 My Kingdom for Some Candy
 Event Story
 Sweet-Toothed Witch
-Give Me Back My Candy
+Give Me Back My Candy!
 Event Story
 Sweet-Toothed Witch
-I Want Candy
+I Want Candy!
 Event Story
 Sweet-Toothed Witch
-I Want Candy
+I Want Candy!
 Event Story
 Sweet-Toothed Witch
 Halloween in ALO
@@ -1997,7 +1946,7 @@ The Burning Caverns
 The Burning Caverns 3
 Event Story
 The Burning Caverns
-Just Your Imagination
+Hot? Just Your Imagination!
 Event Story
 The Burning Caverns
 The Burning Caverns 2
@@ -2094,17 +2043,13 @@ A Strange Campaign Quest
 Memory Defrag
 Memory Defrag
 《メモリー・デフラグ》
-Kirito reactivates ALO using 
-The Seed
-which Kayaba hands over to him 
+Kirito reactivates ALO using "The Seed" which Kayaba hands over to him 
 and goes back there with others.
 A Fledgling World
 Sugo attacks Kirito with a knife at the hospital. Kirito grabs his knife and knocks him unconscious and forces himself to head to Asuna's room.
 The Final Battle
 After Kirito finishes everything, Akihiko Kayaba appears again 
-and gives over 
-The Seed
-to Kirito and disappears. 
+and gives over "The Seed" to Kirito and disappears. 
 Kirito makes sure Yui is all right and log in himself.
 The World Seed
 Kirito defeats Oberon and sets Asuna free.  
@@ -2320,7 +2265,7 @@ In the real world, Leafa struggles to grasp
 why she feels so giddy when she goes
 adventuring with Kirito. On returning to ALO,
 Yui asks her what it means to like someone.
-is this love
+is this love?
 Having reached the most dangerous area between
 Sylph territory and Arun, Kirito and Leafa
 decide to rotate out so they both can rest.
@@ -2383,8 +2328,7 @@ Salamanders running for cover with only
 the game's starting equipment at his disposal.
 Salamander Encounter: 2
 Once inside ALO, Kirito is miraculously
-reunited with Yui
-Kirito begins telling Yui
+reunited with Yui! Kirito begins telling Yui
 about the Asuna sighting, but both kick into
 high alert upon sensing other players.
 Land of the Fairies
@@ -2401,12 +2345,12 @@ The End of the World
 Asuna sacrifices herself to save Kirito from a
 killing blow, and then dies in his arms. With
 nothing left to lose, Kirito confronts
-Heathcliff, rage coursing through his veins
+Heathcliff, rage coursing through his veins!
 Heathcliff
 Kirito knows this is no duel, it's a fight to
 the death. Kirito steels himself, prepared to
 use nothing but his own wits to kill Kayaba,
-the chief architect of the game itself
+the chief architect of the game itself!
 Heathcliff
 Kirito unmasks Heathcliff, who rewards his
 deductive reasoning by challenging him
@@ -2440,8 +2384,7 @@ Asuna hesitantly draws her sword amid the
 crowd of spectators fleeing in terror.
 The King of Lakes
 Kirito arranges to fish for the King Of
-Lakes with Nishida. He uses 
-Switch
+Lakes with Nishida. He uses "Switch" on
 the rod, only to actually land the terrifying
 King Of Lakes itself.
 The King's Lake
@@ -2546,9 +2489,9 @@ Kirito's rescue and deftly corners Kuradeel
 with her sword work.
 Kuradeel's True Intentions
 Kuradeel kills Godfrey, and shows Kirito proof
-that he's in fact a member of Laughing Coffin
+that he's in fact a member of Laughing Coffin!
 What's worse, the paralysis poison isn't
-wearing off
+wearing off!
 Crimson Killing Intent
 Kirito and Godfrey are rendered immobile after
 a drink of water. Overcome with a perverse
@@ -2567,8 +2510,8 @@ as part of his initiation into the Knights.
 Knights of the Blood Oath
 Kirito unleashes lightning-speed attacks on
 a faltering Heathcliff, only to be defeated
-in a single blow the next instant. But how
-Did Heathcliff stop time somehow
+in a single blow the next instant. But how?
+Did Heathcliff stop time somehow?
 Duel
 Spectators pack the stadium to capacity in
 anticipation of the duel between Kirito and
@@ -2616,7 +2559,7 @@ now leader of
 Furinkazan
 and introduces him to Asuna.
 Suddenly, members of the army controlling
-the first floor burst onto the scene
+the first floor burst onto the scene!
 Floor 74: Safe Area
 Kirito and Asuna determine that they will need
 an ally with a shield in order to confront the
@@ -2648,7 +2591,7 @@ Kirito ultimately agrees to duel Kuradeel.
 Duel
 Kirito waits for Asuna, who suddenly appears
 via teleport crystal, pursued by the
-relentless Kuradeel
+relentless Kuradeel!
 To Floor 74: Kamdet
 As Kirito and Asuna luxuriate in the flavors
 of S-class food, they note with unease how
@@ -2697,7 +2640,7 @@ X'rphan: The Final Battle
 Liz takes Kirito's hand, finding comfort in
 its warmth. The next morning they find the
 metal they came for, but joy is fleeting
-the nocturnal dragon has come home to roost
+the nocturnal dragon has come home to roost!
 The Hole
 Having somehow survived the fall into the
 dragon's pit, Liz thanks Kirito for saving
@@ -2745,7 +2688,7 @@ Kirito and Asuna leap into action, sending the
 Laughing Coffin members scattering. Kirito
 then explains that the ring was stolen from
 Griselda's shared inventory
-by Grimlock
+by Grimlock!
 The Truth: Pt. 2
 Yolko and the others are surrounded by the
 murderous Laughing Coffin, while its members
@@ -2760,11 +2703,10 @@ The Truth: Pt. 1
 The truth revealed thanks to Yolko's scheme,
 Schmitt hangs his head in shame. Then,
 out of nowhere, the murderous Laughing Coffin
-guild launches a surprise attack
+guild launches a surprise attack!
 The Truth: Pt. 1
 Kirito and Asuna have cracked the case at
-last
-They locate Yolko, but determine that
+last! They locate Yolko, but determine that
 they should leave the proper course of
 action to her in the end.
 To Floor 19: Griselda's Grave 2
@@ -2779,7 +2721,7 @@ Yolko reveals herself to be Griselda's ghost.
 To Floor 19: Griselda's Grave 1
 Schmitt visits Griselda's grave to apologize
 only to be confronted by Griselda's ghost
-about what happened
+about what happened!
 To Floor 19: Griselda's Grave 1
 Yolko is killed by a sneak attack, fueling
 Schmitt's panic. The investigation continues,
@@ -2789,7 +2731,7 @@ Murder in the Safe Zone: Pt. 3
 Schmitt fears retaliation for Kains's death,
 and Yolko admits her regret for letting the
 guild sell a fallen comrade's ring. Then,
-another anomaly occurs
+another anomaly occurs!
 Murder in the Safe Zone: Pt. 2
 Kirito and Asuna come up with three possible
 scenarios based on the evidence and
@@ -2849,7 +2791,7 @@ Level 78 Kirito, who says he'll have Rosalia
 sent to prison.
 Titan's Hand
 Members of Rosalia's orange guild appear
-and begin attacking Kirito
+and begin attacking Kirito!
 Titan's Hand
 Kirito senses that Rosalia is lying in wait,
 and reveals that he has actually been seeking
@@ -2903,7 +2845,7 @@ Floor 35: Forest Maze
 Kirito opens a bittersweet Christmas gift
 message from Sachi, pre-recorded and triggered
 to be sent upon her death. Her last words:
-Thank you. Goodbye.
+"Thank you. Goodbye."
 The Red-Nosed Reindeer
 Kirito defeats Nicholas on his own, and the
 revival item appears before him. Kirito is
@@ -2913,8 +2855,7 @@ Nicholas the Renegade
 Concerned about Kirito, Klein offers to help
 with the boss fight. But before Kirito can
 accept, they are beset by the Holy Dragon
-Alliance
-Klein engages as Kirito runs ahead.
+Alliance! Klein engages as Kirito runs ahead.
 Nicholas the Renegade
 Determined to hear Sachi's final words,
 Kirito takes on the Christmas boss.
@@ -2932,7 +2873,7 @@ Floor 27: Dungeon
 The curious Cats find a secret door and open
 the treasure chest within. Alarms sound,
 enemies spawn, and the guild finds itself
-unable to use its teleport crystals
+unable to use its teleport crystals!
 Floor 27: Dungeon
 Kirito and the Black Cats see Keita off to the
 Town of Beginnings. Kirito tries to dissuade
@@ -2981,7 +2922,7 @@ rise to face the boss and avenge Diavel.
 Battle with the Kobold Lord
 Illfang the Kobold Lord lands a grievous blow
 on Diavel. Its attack patterns are
-completely different from the beta test
+completely different from the beta test!
 Enter the Kobold Lord
 Kirito and Asuna are charged with fighting
 the Ruin Kobold Sentinels

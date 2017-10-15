@@ -213,9 +213,7 @@ Casts a fountain from the ground. Heals your HP and is likely to stun an enemy.
 Aqua fountain+
 Aqua fountain+
 skill_icon_sword_3_
-Releases the memory of 
-Fragrant Olive Sword
-to slash apart captured enemies. Raises ATK, Crit and Speed.
+Releases the memory of "Fragrant Olive Sword" to slash apart captured enemies. Raises ATK, Crit and Speed.
 Release Recollection+
 Fragrant Olive Flash+
 skill_icon_sword_3_
@@ -1432,7 +1430,7 @@ Attack by a tray put tea set. At the same time, increase your attack.
 Curious Tea Party
 Curious Tea Party
 skill_icon_dagger_3_
-Spell wave which decreases attack and defense of enemies, and attack by surfing on the wave
+Spell wave which decreases attack and defense of enemies, and attack by surfing on the wave!? 
 Longing for Surfing
 Longing for Surfing
 skill_icon_dagger_3_
@@ -2203,9 +2201,7 @@ A combination skill. Get the back of an enemy while drawing stars of cross and d
 Make a Mark
 Make a Mark
 skill_icon_sword_3_
-Slash through an enemy's back and release the memory of 
-Fragrant Olive Sword
-and tie up the enemy with golden flowers.
+Slash through an enemy's back and release the memory of "Fragrant Olive Sword" and tie up the enemy with golden flowers.
 Release Recollection
 Fragrant Olive Penetration
 skill_icon_sword_3_
@@ -2245,9 +2241,7 @@ Heals yourself with the power of flower and move instantly to the back of an ene
 Unrequited Love
 Unrequited Love
 skill_icon_sword_3_
-Release the memory of 
-Fragrant Olive Sword
-, and make float golden flowers on holy carpet. Heals your HP. Likely to stun an enemy.
+Release the memory of "Fragrant Olive Sword", and make float golden flowers on holy carpet. Heals your HP. Likely to stun an enemy.
 Release Recollection
 Holy Carpet of Fragrant Olive
 skill_icon_sword_3_
@@ -2263,9 +2257,7 @@ Casts a fountain from the ground. Heals your HP and is likely to stun an enemy.
 Aqua fountain
 Aqua fountain
 skill_icon_sword_3_
-Releases the memory of 
-Fragrant Olive Sword
-to slash apart captured enemies. Raises ATK and Crit.
+Releases the memory of "Fragrant Olive Sword" to slash apart captured enemies. Raises ATK and Crit.
 Release Recollection
 Fragrant Olive Flash
 skill_icon_sword_3_
@@ -2308,9 +2300,7 @@ The sword skill combo slashing up on the enemy's back by madness shadow. Enhance
 Void Flash
 Void Flash
 skill_icon_sword_3_
-Release the hidden memory of 
-Fragrant Olive Sword
-, and change the blade into thousands of Golden Flowers. Regenerates HP and raise ATK.
+Release the hidden memory of "Fragrant Olive Sword", and change the blade into thousands of Golden Flowers. Regenerates HP and raise ATK.
 Release Recollection
 Fragrant Olive Sword
 skill_icon_sword_3_
@@ -2534,9 +2524,7 @@ A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
 skill_icon_sword_3_
-Freeze an enemy by 
-Blue Rose Sword
-and shatter the ice into pieces when you hold the sword and aim at the enemy.
+Freeze an enemy by "Blue Rose Sword" and shatter the ice into pieces when you hold the sword and aim at the enemy.
 Release Recollection
 Blue Rose Bullet
 skill_icon_sword_3_
@@ -2548,9 +2536,7 @@ A combination skill. Swing a sword as if it's a claw. It restores own HP.
 Wolfking's Claw
 Wolfking's Claw
 skill_icon_sword_3_
-Slash through an enemy's back and release the memory of 
-Blue Rose Sword
-and attack with icicles.
+Slash through an enemy's back and release the memory of "Blue Rose Sword" and attack with icicles.
 Release Recollection
 Blue Rose Icicle
 skill_icon_sword_3_
@@ -2570,9 +2556,7 @@ Increase your attack and critical by swinging a long sword in a flurry of sparks
 Riot Friction
 Riot Friction
 skill_icon_sword_3_
-Release the memory of 
-Blue Rose Sword
-to multi-attack the frozen enemy. Raises ATK and Crit.
+Release the memory of "Blue Rose Sword" to multi-attack the frozen enemy. Raises ATK and Crit.
 Release Recollection
 Blue Rose Combination
 skill_icon_sword_3_
@@ -2580,9 +2564,7 @@ Hack down with sword with blazing fire. Mad fire blows up, smashing the enemy.
 Kingslayer
 Kingslayer
 skill_icon_sword_3_
-Release the hidden memory of 
-Blue Rose Sword
-, and freeze the vicinity completely. Regenerates HP and raise ATK.
+Release the hidden memory of "Blue Rose Sword", and freeze the vicinity completely. Regenerates HP and raise ATK.
 Release Recollection
 Blue Rose Sword
 skill_icon_sword_3_

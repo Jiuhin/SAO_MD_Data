@@ -6,7 +6,7 @@ Gender:
 Weapon Types: 
 Character: 
 Element: 
-Guild 
+Guild "
 You are invited to an event.
 No longer in the guild.
 Joined this guild.
@@ -23,7 +23,7 @@ You've reached the limit.
 Individual Score Reward will be given as you meet the condition.
 Multi Score Reward will be given to the guild after the event.
 You are dismissed. Will go back to Town.
-Do you want to request to join
+Do you want to request to join?
 You are unable to join during the guild event.
 Requested
 Request to join
@@ -33,8 +33,8 @@ This user has been already invited.
 This is a comment from the past guild member.
 The log shows the info for the past 3 days.
 You couldn't join because it was already full.
-To join a new guild, you have to leave the current guild. Do you want to do it and request to join the new one
-To join a new guild, you have to leave the current guild. Do you want to do it and join the new one
+To join a new guild, you have to leave the current guild. Do you want to do it and request to join the new one?
+To join a new guild, you have to leave the current guild. Do you want to do it and join the new one?
 You are unable to join this guild because it's already full.
 To join a guild, you must have completed Quest 3-10.
 Guild is dismissed
@@ -61,7 +61,7 @@ The number of characters for a guild comment is limited to
 The number of characters for a guild name is limited to 
 Put a guild name in 10 characters or less. 
 Please avoid an inappropriate one.
-Do you want to update your guild information
+Do you want to update your guild information?
 You've donated 
 Col(s).
 0:04d
@@ -72,11 +72,11 @@ Col(s).
 Updated
 The number of characters is limited to 
 on the noticeboard.
-Are you sure you want to leave the guild
+Are you sure you want to leave the guild?
 You've left the guild.
 You've invited.
-They seem to belong to another guild. Do you want to invite them
-Do you want to invite
+They seem to belong to another guild. Do you want to invite them?
+Do you want to invite?
 Kickout
 The position has been changed.
 Dismiss
@@ -84,19 +84,19 @@ Dismiss
 The date of join：
 Joined this guild.
 Your request has been sent.
-Do you want to join a guild
+Do you want to join a guild?
 The request has been rejected.
-Do you want to reject the request
+Do you want to reject the request?
 The request has been accepted.
-Do you want to accept the request
+Do you want to accept the request?
 The invite has been canceled.
-Do you want to cancel the invite
+Do you want to cancel the invite?
 The position has been changed.
-Are you sure you want to change the position
+Are you sure you want to change the position?
 Expelled.
-Are you sure you want to expel them
+Are you sure you want to expel them?
 Commander:
-Do you want to copy your Guild ID
+Do you want to copy your Guild ID?
 You can only join a guild twice a day.
 Guild Level went up by 
 Another event is in progress.
@@ -113,7 +113,7 @@ Dead
 Currently at Floor 
 Are you sure you want to
 give up and go to 
-Do you want to copy your User ID
+Do you want to copy your User ID?
 Left: 
 times
 Sent to Gift Box
@@ -121,7 +121,7 @@ Recieved
 Use 
 Memory Diamonds to
 increase equipment slots.
-Are you sure
+Are you sure?
 Use 
 Memory Diamonds
 End Practice
@@ -142,9 +142,9 @@ time(s)
 Level Up
 Learned
 You need to Level Up 
-Sword Skill 
+Sword Skill "
 You need to unlock
-Battle Skill 
+Battle Skill "
 Skill Not Learned
 Do you want to Level Up
 Do you want to Learn 
@@ -152,16 +152,16 @@ Not enough Items
 Check learning conditions
 Level Up
 Learn Skill
-Original Sword Skill 
-Original Battle Skill 
+Original Sword Skill "
+Original Battle Skill "
 Skill not released
-Sword Skill 
-is not at Max. Lv
-Battle Skill 
-unlocked
+Sword Skill "
+" is not at Max. Lv
+Battle Skill "
+" unlocked
 Requirements Not Met
 Use of the chat feature is subject to the Terms of Services. Any offensive, inappropriate, or obscene language is prohibited. Do not share any personal information.
-Do you want to scout
+Do you want to scout?
 Owned
 Skill button: Use skill
 You do not meet the participation requirements.
@@ -174,7 +174,7 @@ Rank is now
 Other rewards have been sent to your gift box.
 You got a reward. You can find your
 rewards in your gift box.
-Copy Transfer Code
+Copy Transfer Code?
 Invalid password. Passwords must be
 between 8 and 32 characters.
 Guild
@@ -191,9 +191,9 @@ Items
 Friends
 Notices
 Multiplayer mode is currently locked
-Use this item to double Drop Items
-Use this item to double EXP earned
-Use this item to double Col earned
+Use this item to double Drop Items?
+Use this item to double EXP earned?
+Use this item to double Col earned?
 Released
 Day 
 Duration: 
@@ -210,7 +210,7 @@ An event is set
 Set an event
 You've reached the limit. You will be able to invite in a minute.
 Do you want to invite 
-to a battle
+to a battle?
 Only guild members can
 join the party.
 Guild Only
@@ -226,9 +226,9 @@ Friends Only
 Number Only
 None
 No parties were found.
-Do you want to start a new party
+Do you want to start a new party?
 Leave your current party and search for
-a suggested party
+a suggested party?
 The quest has expired.
 You can only enter numbers.
 Too Few
@@ -245,36 +245,36 @@ Parental Permission
 Purchase History
 Attention
 Your birthday is 
-Is that correct
+Is that correct?
 obtained
 You can expand by using 
 Memory Diamonds but you do not have enough.
-Do you buy Memory Diamonds
-Do you want to try again
+Do you buy Memory Diamonds?
+Do you want to try again?
 Tries left: 
 1 Extra Try
 Need Diamonds
-First Time Free
+First Time Free!
 Medal Scout is currently locked.
-only
+only!
 Do you buy Memory Diamonds to
-increase equipment slots
+increase equipment slots?
 Weapon purchasing is currently locked.
 Complete quest 3-1.
 Not enough Memory Diamonds. 
 Memory
-Diamond(s) needed. Do you want to purchase more
-Lookin' for good allies, huh
+Diamond(s) needed. Do you want to purchase more?
+Lookin' for good allies, huh?
 Hurry to the Teleport Plaza.
-Lookin' for good allies, huh
+Lookin' for good allies, huh?
 Head to the Teleport Plaza.
-Lookin' for good allies, huh
+Lookin' for good allies, huh?
 Try the Teleport Plaza.
-So you wanna make friends, eh
+So you wanna make friends, eh?
 Hurry to the Teleport Plaza.
-So you wanna make friends, eh
+So you wanna make friends, eh?
 Head to the Teleport Plaza.
-So you wanna make friends, eh
+So you wanna make friends, eh?
 Try the Teleport Plaza.
 Some items could not be received.
 replaced with 
@@ -284,7 +284,7 @@ to unlock this quest.
 Failed to use 
 Used 
 Use 
-to unlock this quest
+to unlock this quest?
 This quest is no longer available./You've reached the daily limit.
 Min. left: 
 Hrs. left: 
@@ -301,61 +301,61 @@ You can unlock all the
 You can unlock
 Lv: +
 Lv. 
-character story unlocked
+character story unlocked!
 SKILL
 Skill Lv: +1 (Power +
 Unlock Sword Skill
 All Lv. 
-attributes unlocked
+attributes unlocked!
 Level too low.
 Unlock Lv. 
 Unlocks Lv. 
 Use 
 Memory Diamond(s) to unlock attribute.
-Are you sure
-Do you want to unlock this attribute
+Are you sure?
+Do you want to unlock this attribute?
 You can not select the same Weapon
 acquired
 You can not select that Weapon
-Do you want to Exchange Weapons and Ingots
-Do you want to Exchange Weapons
+Do you want to Exchange Weapons and Ingots?
+Do you want to Exchange Weapons?
 will also be earned
 Level will be reset once exchanged
 The selected item has been favorited.
-Do you still want to sell it
+Do you still want to sell it?
 No equipment.
 No Col needed.
 No items needed.
 Col Required
 Use 
 x Memory Diamond(s) instead of items
-and Col to enhance your equipment
+and Col to enhance your equipment?
 Use 
 Memory Diamond(s) instead of items
-to enhance your equipment
+to enhance your equipment?
 Not enough items or Col.
 Not enough Memory Diamonds. 
 x Memory
-Diamond(s) needed. Do you want to purchase more
+Diamond(s) needed. Do you want to purchase more?
 Not enough Memory Diamonds. 
 x Memory
-Diamond(s) needed. Do you want to purchase more
+Diamond(s) needed. Do you want to purchase more?
 Use 
 Memory Diamond(s) instead of Col
-to upgrade your equipment
+to upgrade your equipment?
 Use 
 Memory Diamond(s) instead of Col
-to enhance your equipment
+to enhance your equipment?
 Not enough Col.
 The item you selected is currently equipped.
-Unequip the item and sell it
+Unequip the item and sell it?
 Sort: All
 Sort: Boost
 Sort: Material
 Sort: Potions
 Available after finishing
 You have no items.
-Level already at max
+Level already at max!
 Set the number of items to use.
 Sort[
 Filter[
@@ -375,20 +375,20 @@ Dagger
 Rapier
 Dual Blades
 Sword
-acquired
+acquired!
 Top 
 Players' Score
-Do you want to evacuate
+Do you want to evacuate?
 You have an exhausted character.
 Please change your party.
-Proceed to the next quest
-Replay this quest
+Proceed to the next quest?
+Replay this quest?
 Max party cost: +
 Follow limit: +
 You got a bonus for your first
 meeting with 
 Not enough Memory Diamonds.
-You got a bonus for completing the quest
+You got a bonus for completing the quest!
 Aincrad's currency is Col, which can be
 used at the blacksmith to enhance and
 upgrade equipment.
@@ -410,25 +410,25 @@ Can revive
 more time(s)
 Use 
 Memory Diamond(s) to revive.
-Are you sure you want to revive
+Are you sure you want to revive?
 Scores after reviving will not count.
-ran away
+ran away!
 Battle Skill
 Sword Skill
 Status
 Comment
 Use 
 Memory Diamond(s) to revive.
-Are you sure
+Are you sure?
 sec.
 sec.
 Maximum party size for this quest is 
 Please edit your party.
 sec. remaining
 min. remaining
-Revive and continue fighting
+Revive and continue fighting?
 All rewards acquired on this quest will be lost if you give up.
-Do you want to give up
+Do you want to give up?
 Indiv. High Score 
 Achievement Reward
 is upgraded.
@@ -455,7 +455,7 @@ Achieve Multi Score
 You can use items to increase the amount of Drop Items.
 You can increase the amount of Drop Items by 
 using Memory Diamond 
-. Do you want to buy Memory Diamond(s)
+. Do you want to buy Memory Diamond(s)?
 Use Memory Diamond 
 to increase the amount of Drop Items by 
 Drop Item Boost
@@ -465,7 +465,7 @@ cannot be purchased during multiplayer.
 Restart
 Memory Diamonds Held
 Your birthday cannot be edited once confirmed.
-Are you sure the following date is correct
+Are you sure the following date is correct?
 Valid: 
 Memory Diamonds + 
 View Weapons
@@ -494,14 +494,14 @@ Character(s)
 Too few characters.
 Too many characters.
 You cannot select Supporters for quests with conditions.
-Let's do this
+Let's do this!
 You are registered as being 20 or older.
 You are registered as being age 16-19.
 You are registered as being under 15.
 Please register your age.
 Stats Off
 Stats On
-Are you sure you want to quit
+Are you sure you want to quit?
 Enter a party number.
 Depart
 other player(s)
@@ -521,7 +521,7 @@ You can change the upgraded stat.
 Choose the stat to change.
 A Limit Break is available.
 Choose a stat to upgrade.
-Let's do this
+Let's do this!
 Enter your name.
 more player(s) must join.
 You do not meet the participation requirements.
@@ -538,7 +538,7 @@ Invitation sent to friend.
 Confirm
 Send
 Invite Friends
-received as a gift
+received as a gift!
 Currency
 You cannot hold any more equipment.
 The item was sent to your gift box.
@@ -546,7 +546,7 @@ Select one or more job types.
 Duel Points
 Buy New
 Use 
-Memory Diamond(s) to purchase the weapon
+Memory Diamond(s) to purchase the weapon?
 Waiting for other players...
 Usage History
 Min. left: 
@@ -560,12 +560,12 @@ Points
 Money
 Scout
 Use 
-Memory Diamond(s) to Scout a character
+Memory Diamond(s) to Scout a character?
 You have reached the purchase limit for
 players under 
 years old. You cannot
 make further purchases until next month.
-Continue with your purchase
+Continue with your purchase?
 If you make this purchase, you will exceed your monthly Memory Diamond purchase limit of $1,000. To turn off this notification, go to Other > Options > Usage Alerts.
 Caution
 Unlock Battle Skill
@@ -573,28 +573,28 @@ Setting Forth
 Settings
 Open
 Change
-Do you want to unlock this boost
+Do you want to unlock this boost?
 Your equipment has changed.
-Do you want to keep these changes
-Do you want to kick this player
-You must get permission from a parent or guardian before buying Memory Diamonds. Do you have permission
-Are you 20 years of age or older
+Do you want to keep these changes?
+Do you want to kick this player?
+You must get permission from a parent or guardian before buying Memory Diamonds. Do you have permission?
+Are you 20 years of age or older?
 Be sure to ask permission from a parent or guardian before buying Memory Diamonds. The limits for underage purchases are as follows:
 15 and under: Up to $50/month
 16-19: Up to $100/month
 To all players under 20 years of age,
-Reset floor progress
+Reset floor progress?
 Preparing...
-Ready
+Ready!
 Not ready yet.
 You will begin the quest.
-Are you sure
+Are you sure?
 You cannot go solo on this quest.
 You will leave the party.
-Are you sure
+Are you sure?
 This character is already at max level.
 Not enough usable items.
-This will reset all items in use. Are you sure
+This will reset all items in use. Are you sure?
 Up to 6 players can use items simultaneously.
 called for backup.
 is now the leader.
@@ -602,8 +602,8 @@ has quit.
 Returning to single-player mode.
 has left.
 Use two of the same weapon and spend Col to evolve equipment. The higher the rarity, the more equipment you will need. You won't be charged this time.
-You can spend Col to upgrade equipment. You won't be charged this time, so upgrade it until it's maxed out
-Return to the title screen
+You can spend Col to upgrade equipment. You won't be charged this time, so upgrade it until it's maxed out!
+Return to the title screen?
 Remove 
 's equipment and equip
 it to 
@@ -618,6 +618,7 @@ CRIT +
 MP +
 HP +
 VO: 
+?????
 Unlocked with 
 The Weapon Shop has been unlocked.
 Data Transfer Complete
@@ -625,9 +626,10 @@ Achieve rank
 or higher on 
 Complete all bonus missions for 
 Complete 
+" on 
 times.
 A quest is in progress.
-Do you want to resume the quest
+Do you want to resume the quest?
 Upgrade
 Evolve
 Please select a difficulty.
@@ -652,7 +654,7 @@ Remaining:
 No players were found.
 Refresh
 Memory Diamond(s) needed to increase EXP earned
-x. Do you want to purchase more
+x. Do you want to purchase more?
 Use 
 Memory Diamond(s) to increase EXP gained
 EXP Boost
@@ -660,7 +662,7 @@ Expand
 Bond Point Cost: 
 Select Mode
 Boost
-Follow the player(s) you played with
+Follow the player(s) you played with?
 You may claim up to 
 more first meeting rewards.
 Type a recruiting message.
@@ -690,45 +692,45 @@ Phantom
 Beast
 Dragon
 Human
-joined
+joined!
 Not enough Memory Diamonds to open chest.
-Go to the Memory Diamond shop
+Go to the Memory Diamond shop?
 Use 
 Memory Diamond(s) to open another
-chest
+chest?
 Open Another Chest
 Using this item increases Col earned by 
 Using this item increases EXP earned by 
-Are you sure you want to quit
+Are you sure you want to quit?
 Give Up
 Your equipment bag is full.
-Do you want to expand it
+Do you want to expand it?
 Not enough equipment slots.
 Not enough Memory Diamonds. 
 Memory Diamond(s)
-needed. Do you want to purchase more
+needed. Do you want to purchase more?
 Equipment capacity is now 
 Use 
 Memory Diamond(s) to increase your equipment
-capacity
+capacity?
 Capacity is now 
 Increases equipment capacity by 
 Increase Equipment Capacity
 Memory Diamond(s) needed to increase Col earned
-Do you want to purchase more
+Do you want to purchase more?
 Use 
 Memory Diamond(s) to increase Col earned by 
 Col Boost
 Not enough Memory Diamonds. 
 Memory Diamond(s)
-needed. Do you want to purchase more
+needed. Do you want to purchase more?
 Scout
 Not enough Memory Diamonds. 
 Memory Diamond(s)
-needed. Do you want to purchase more
+needed. Do you want to purchase more?
 Revives Left: 
 Use 
-Memory Diamond(s) to revive
+Memory Diamond(s) to revive?
 Continue
 The Duel feature has been unlocked.
 The Event Quest menu has been unlocked.
@@ -751,25 +753,25 @@ Cancel
 Unlock
 Not enough Memory Diamond(s). You need 
 Memory Diamond(s) to evolve this equipment.
-Do you want to purchase more
+Do you want to purchase more?
 Use 
 Memory Diamond(s) to evolve this equipment.
-Are you sure
+Are you sure?
 Not enough Memory Diamond(s). You need 
 Memory Diamond(s) to upgrade this equipment.
-Do you want to purchase more
+Do you want to purchase more?
 Use 
 Memory Diamond(s) to upgrade this equipment.
-Are you sure
+Are you sure?
 Not enough Col.
 Upgrade
 Evolve
 Not enough Memory Diamonds. 
 Memory Diamond(s)
-needed. Do you want to purchase more
+needed. Do you want to purchase more?
 Memory Diamonds held
 Use 
-Memory Diamond(s) to unlock attribute
+Memory Diamond(s) to unlock attribute?
 Not enough items.
 Comments can be 
 characters or less.
@@ -784,7 +786,7 @@ Details
 Event Details
 DEF +
 ATK +
-acquired
+acquired!
 Quest Rewards
 Select a chest to open.
 Memory Diamonds Held
@@ -797,7 +799,7 @@ Personal Information Protection
 Privacy Policy
 Terms of Use
 This player will be invited to your
-party. Are you sure
+party. Are you sure?
 Suggestions
 Friends
 No parties were found.
@@ -816,7 +818,7 @@ Event
 Quest
 Story
 Quest
-has been killed
+has been killed!
 Claim All
 Total
 Items not claimed by the deadline will be deleted.
@@ -859,9 +861,8 @@ Only hard and higher difficulties are
 available in multiplayer.
 Slot 
 Opening
-You got followed
-Like
-successful.
+You got followed!
+"Like" successful.
 Total Bond Points
 Contact
 Party
@@ -887,11 +888,9 @@ Knight
 Fighter
 Archer
 Sale complete.
-Change character's position
+Change character's position?
 Enter a user ID using numbers.
-These points are required when you take Supporters on quests. Received when you 
-like
-someone or join a lower-level player in multiplayer.
+These points are required when you take Supporters on quests. Received when you "like" someone or join a lower-level player in multiplayer.
 The currency needed to upgrade or evolve weapons at the blacksmith's. Obtained by completing event quests.
 Can be purchased from the Memory Diamond Shop. Used to scout, buy equipment, etc.
 Bond Points
@@ -911,7 +910,7 @@ Memory Diamond Cost:
 -Names can be changed at any time.
 -Inappropriate language is not allowed.
 Your party has been edited.
-Do you want to keep these changes
+Do you want to keep these changes?
 Your party is empty. Please select a character.
 Not enough party cost.
 You can follow the player
@@ -919,7 +918,7 @@ that lent you a Supporter.
 Bond Points are required to enlist Supporters.
 No Bond Points will be used this time.
 Supporter not found.
-Do you want to go solo
+Do you want to go solo?
 Equipment capacity increased.
 Increases equipment capacity.
 Multiplayer History

@@ -196,7 +196,7 @@ Create Guild
 　　rewards by achieving a score or winning a high rank.
 To join a guild, you must have completed Quest 3-10</body_text>
 </panel>
-What's Guild
+What's Guild?
 Guild
 <panel>
 <body_text font_size 
@@ -208,18 +208,12 @@ Guild
 　current data be formatted. Transferring
 　your data ensures that it is safe, so we
 　recommend this option.
-　Go to 
-Other
-on the menu and select
-Data Transfer
-to view the data transfer
+　Go to "Other" on the menu and select
+　"Data Transfer" to view the data transfer
 　settings.
 　Steps for Transferring Data:
-　1) Go to 
-Other
-on the menu and
-　tap 
-Data Transfer.
+　1) Go to "Other" on the menu and
+　tap "Data Transfer."
 　2) Verify your data transfer ID and
 　then set a password. (The password
 　must be between 8 and 32 alphanumeric
@@ -240,9 +234,7 @@ Data Transfer
 Other
 <panel>
 <body_text font_size 
-'24'>　In 
-Archive
-on the menu, you can view
+'24'>　In "Archive" on the menu, you can view
 　the stories from quests you've already
 　completed without having to battle.</body_text>
 </panel>
@@ -250,10 +242,7 @@ Story Archive
 Archive
 <panel>
 <body_text font_size 
-'24'>　In 
-Co-op History
-under 
-Friends,
+'24'>　In "Co-op History" under "Friends," you
 　can see a list of parties you formed with
 　other players in multiplayer mode. When
 　the limit of displayable items has been
@@ -263,9 +252,7 @@ Friends,
 Co-op History
 <panel>
 <body_text font_size 
-'24'>　The term 
-Friend
-indicates people you
+'24'>　The term "Friend" indicates people you
 　are following and who are following
 　you. Friends are more likely to appear
 　in your Supporter list. The higher your
@@ -297,9 +284,7 @@ Gift Expiration
 <body_text font_size 
 '24'>　When items can be retrieved from
 　your Gift Box, the number of items will
-　display on the 
-Gift Box
-button on the
+　display on the "Gift Box" button on the
 　menu. Tap the Gift Box's receive button
 　to retrieve an item. There is also an option
 　to retrieve everything at once.</body_text>
@@ -317,20 +302,14 @@ Gift Box
 　To get the effect, you need to set a title 
 　as a title for effect.
 　Titles can be set for display and effect separately.
-　You can change your title by tapping 
-Edit user info
+　You can change your title by tapping "Edit user info". 
 　To show the profile page, please hold down 
 　your character in Town.
 　Attention:
 In title select page, titles which have 
-　　Battle Skills will be shown if you tap 
-Effect
-The title selected to 
-display
-is excluded 
-　　from the list of titles for 
-Effect
-.</body_text>
+　　Battle Skills will be shown if you tap "Effect".
+The title selected to "display" is excluded 
+　　from the list of titles for "Effect".</body_text>
 </panel>
 Title
 <panel>
@@ -339,11 +318,8 @@ Title
 　you can display a comment of up to 24
 　characters for other players to see.
 　You can set and change your comment by
-　going to 
-Status
-on the menu and then
-User Info.
-</body_text>
+　going to "Status" on the menu and then
+　"User Info."</body_text>
 </panel>
 Comments
 <panel>
@@ -353,19 +329,15 @@ Comments
 　other such places.
 　The name can be up to 10 characters
 　long and can be changed by going to
-Status
-on the menu and then
-User Info.
-</body_text>
+　"Status" on the menu and then
+　"User Info."</body_text>
 </panel>
 Username
 Status
 <panel>
 <body_text font_size 
 '24'>　You can get your hands on rewards by completing missions.
-　Go to 
-Missions
-on the menu to check the requirements for completing a mission. There are two types of missions, detailed below.
+　Go to "Missions" on the menu to check the requirements for completing a mission. There are two types of missions, detailed below.
 　Mission Types:
 　Mission
 Appear as you progress through the game. You can only claim a missions reward once.
@@ -384,19 +356,14 @@ Chat
 Town
 <panel>
 <body_text font_size 
-'24'>　With 
-Weapon Purchase
-under 
-Scout,
+'24'>　With "Weapon Purchase" under "Scout,"
 　you can obtain new weapons using Memory
 　Diamonds.</body_text>
 </panel>
 Weapon Purchase
 <panel>
 <body_text font_size 
-'24'>　With 
-Scout
-, you can obtain new
+'24'>　With "Scout", you can obtain new
 　characters using Memory Diamonds.
 　If a character you already own is
 　scouted, you can receive Hacking
@@ -416,21 +383,11 @@ Scouting/Buying Equipment
 Inventory Item Limit
 <panel>
 <body_text font_size 
-'24'>　You can medal-scout characters using 
-Scout Medals
-by tapping 
-Medal Scout
-in the Ranking Event screen.
+'24'>　You can medal-scout characters using "Scout Medals" by tapping "Medal Scout" in the Ranking Event screen.
 　You can earn Medal-Scout limited 
-4 characters in the 
-Medal Scout
-Scout-Medals
-can be earned depending on your final rank in the High Score Rankings.
-　Claim them in 
-Ranking Rewards
-and 
-Points Achievement Rewards
-which can be earned according to event points.
+4 characters in the "Medal Scout"
+　"Scout-Medals" can be earned depending on your final rank in the High Score Rankings.
+　Claim them in "Ranking Rewards" and "Points Achievement Rewards" which can be earned according to event points.
 　Medal has 3 types, Gold > Silver > Bronze according to there rarity.
 　For each medal, the Medal-Scout target differs.
 　Types and features of each Medal-Scouts are as below:
@@ -450,11 +407,8 @@ You can confirm the characters that can be earned from [Scouting Characters/Scou
 There can be adding/changing in scoutable Medal-Scout limited 
 4 characters in new Ranking Events.
 You can confirm characters that can be earned from [Scouting Characters/Scout Rate] by checking each Medal-Scout page.
-When scouted character overlaps, the scouted character will turn into 
-Release Crystal
-When scouted  Medal-Scout limited character overlaps, the scouted character will turn into 
-Release Crystal
-designated to Medal-Scout limited characters.</body_text>
+When scouted character overlaps, the scouted character will turn into "Release Crystal".　
+When scouted  Medal-Scout limited character overlaps, the scouted character will turn into "Release Crystal" designated to Medal-Scout limited characters.</body_text>
 </panel>
 Medals
 <panel>
@@ -498,8 +452,7 @@ EXP Boosts
 '24'>　EXP Potions are items that give your
 　characters experience. A single potion
 　can be used on a single character. To
-　use a potion, go to 
-Items
+　use a potion, go to "Items" on
 　the menu and then tap a potion. In
 　order of the amount of EXP they give,
 　the three types of potion are: Potion,
@@ -519,17 +472,14 @@ EXP Potions
 Hacking Crystals
 <panel>
 <body_text font_size 
-'24'>　Event Crystals are training materials for characters earned from the 
-Character Events
+'24'>　Event Crystals are training materials for characters earned from the "Character Events".
 　Names of Event Crystals differs in each event.
 　This can be used only for Event Limited 
 4 characters.
 　【Notes】
 Event Limited 
-4 characters can be trained with specific 
-Event Crystals
-Event Crystals
-for training Event Limited 
+4 characters can be trained with specific "Event Crystals".
+"Event Crystals" for training Event Limited 
 4 characters are only available in the event you earned from the event.</body_text>
 </panel>
 Event Crystals
@@ -660,15 +610,11 @@ Equipment
 <panel>
 <body_text font_size 
 '24'>　Event limited 
-4 characters earned in character events can be trained (Releasing Power and Breaking Limit) with specific 
-Event Crystals
-Event Crystals
-for training Event Limited 
+4 characters earned in character events can be trained (Releasing Power and Breaking Limit) with specific "Event Crystals".
+　"Event Crystals" for training Event Limited 
 4 characters are only available in the event you earned the 
 4 character.
-　Collect 
-Event Crystals
-during the event to train the character
+　Collect "Event Crystals" during the event to train the character!
 　【Notes】
 Names of Event Crystals differs in each event.
 Leveling can be done the same as normal characters.</body_text>
@@ -791,7 +737,7 @@ Floor Completed Reward
 Pt Reward
 　You can earn Medallion. This is available on
 　easy quests as well.
-　Play what suits your level and earn the rewards
+　Play what suits your level and earn the rewards!
 　[Tips]
 Organize Party Members
 　In this event, the number of departures is limited
@@ -799,10 +745,7 @@ Organize Party Members
 　Plan ahead and select members well.
 　[Attention]
 To play this event, you must have completed Quest 3-10
-Find this event from 
-Quest
-Extra Quest
-</body_text>
+Find this event from "Quest" > "Extra Quest"</body_text>
 </panel>
 QT Point Clearing Event
 <panel><image x
@@ -844,7 +787,7 @@ Floor Complete Rewards
 4 equipment. This 
 4 equipment can evolve to
 5 equipment. Create 
-5 equipment
+5 equipment!
 Pt Rewards
 　  You can get Stardust(medium).
 　  At Exchange market, you can exchange Stardust(medium)
@@ -858,9 +801,7 @@ Allocation of Party Characters
 　[Attention]
 To play Floor Clearing Event,
 　　you must have to complete Quest3-10.
-You can find this event from 
-Quest
-Extra Quest
+You can find this event from "Quest">"Extra Quest
 　</body_text>
 </panel>
 Floor Clearing Event
@@ -1196,7 +1137,7 @@ Equipment Creation Event
 <panel>
 <body_text font_size 
 '24'>　Character Introduction Quest is limited-time quest where you get to enjoy the original story and challenge a 4 stars characters that can appear from Scouting.
-　Feel the strength of these Scout characters and gain Memory Diamonds from the Bonus Mission of the Quest
+　Feel the strength of these Scout characters and gain Memory Diamonds from the Bonus Mission of the Quest!
 　【Notice】
 To participate the Character Introduction Quest, you will need to have Quest3-10 cleared.
 You can join the Character Introduction Quest from the [Extra Quest of  [Quest].
@@ -1223,7 +1164,7 @@ Get better Clear-rank
 The better rank you get, the more event points and rare crystals you can get.
 Use Multi Player to play Quest efficiently
 On events you can use Multi Player.
-　Play with your friends to play the Quest efficiently
+　Play with your friends to play the Quest efficiently!
 　【Other notes】
 In order to participate in the Character event, you need to clear Quest 3-10.
 You can participate in the Character event from ［Extra Quest］of ［Quest］.
@@ -1234,7 +1175,7 @@ Character event
 <panel>
 <body_text font_size 
 '24'>　Highscore Ranking Event is an event quest held for a limited-period. You can get ［Score］when clearing the ranking event quest.
-　Complete the highest score in a group of certain number of people and win a ranking-exclusive character
+　Complete the highest score in a group of certain number of people and win a ranking-exclusive character!
 　【Main rewards of Ranking event】
 Scout Medal
 In the ranking event, you can receive［Ranking Reward］based on the rank you have at the end of the event, and ［Point achievement rewards］corresponding to the points you have gained from clearning quests.
@@ -1252,13 +1193,13 @@ Losing scores
 　【Hints】
 Obtain Equipments that have special effects
 　You can obtain equipment that has special effects designed for the next limited-time ranking event.
-　Get the equipment that has special effects and aim to increase your Scores
+　Get the equipment that has special effects and aim to increase your Scores!
 Get higher rank in groups
 　If your rank is high within the group, you can obtain special Scout medals that gives you a better chance of getting exclusive character.
-　Try various parties and achieve a higher score
+　Try various parties and achieve a higher score! 
 Carry over Scout Medal
 　Scout Medal can be carried over.
-　Save up medal in ranking of every month, and get exclusive characters
+　Save up medal in ranking of every month, and get exclusive characters!
 　【Other notes】
 In order to participate in the high score ranking event, you need to clear Quest 3-10.
 You can participate in the the high score ranking event from ［Extra Quest］of ［Quest］
@@ -1280,8 +1221,7 @@ Highscore Ranking Event
 　Ragout Rabbits appear in these quests
 　and drop a lot of EXP Potions, so once
 　you've found one, don't let it out of your
-　sights
-At higher difficulty levels, you
+　sights! At higher difficulty levels, you
 　can pick up high-level EXP Potions.</body_text>
 </panel>
 Urgent Quests
@@ -1361,8 +1301,7 @@ You get to parry as you flick the screen or
 　　　(Focus Attacks won't activate by flicking
 　　　  while charging attacks.)
 　When the enemy's eyes glow red, that's your
-　chance
-Switching characters the
+　chance! Switching characters the
 　moment the parry succeeds will cause
 　a sword skill to be unleashed, dealing
 　major damage.</body_text>
@@ -1376,8 +1315,7 @@ Parrying (Long-Range Weapon)
 　flick up on the screen in time with
 　the enemy's attack to parry it. When
 　the enemy's eyes glow red, that's your
-　chance
-Switching characters the
+　chance! Switching characters the
 　moment the parry succeeds will cause
 　a sword skill to be unleashed, dealing
 　major damage.</body_text>

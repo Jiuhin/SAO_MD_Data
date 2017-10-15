@@ -4,13 +4,12 @@ you've already completed from Menu >
 Archive.
 Missions
 You'll earn rewards for completing
-missions
-You can check the rewards for
+missions! You can check the rewards for
 each mission from Menu > Missions.
 Movement Assistance
 Go to Menu > Settings > Battle Settings
 and switch movement assistance to
-to approach enemies automatically.
+"ON" to approach enemies automatically.
 The Battle Controller
 You can toggle the battle controller
 position to suit your favored hand from
@@ -30,11 +29,11 @@ weapons.
 Scout
 If an enemy is giving you trouble, why
 not try Scouting a stronger
-character
+character?
 Urgent Quests & Ragout Rabbit
 If you see a Ragout Rabbit on an Urgent
 Quest, don't let it escape or you'll miss
-out on EXP Potions and other goodies
+out on EXP Potions and other goodies!
 The Smart Way to Get Col
 You can earn more Col than on Single-
 Player Quests by completing Sunday's
@@ -48,9 +47,7 @@ When selecting a Supporter, your friends
 will be prioritized. A higher user rank
 allows you to register more friends.
 Multiplayer
-Go to 
-Co-op Quests
-to create a party
+Go to "Co-op Quests" to create a party
 and battle alongside other players.
 Supporters
 When battle starts, choose a Supporter to
@@ -67,21 +64,18 @@ open additional treasure chests.
 Completion Rank
 You can earn a higher quest completion
 rank by finishing quests faster. A higher
-rank will result in better rewards
+rank will result in better rewards!
 Decryption Keys
 Decryption Keys are used to unlock a
 character's attributes even further, and
 can be obtained on quests.
 Limit Hacking
 Use Hacking Crystals when you unlock
-attributes to 
-Limit Hack
-a character
+attributes to "Limit Hack" a character
 and raise their level cap.
 Unlocking Attributes
 Unlock new attributes to increase a
-characters' stats
-Each attribute has
+characters' stats! Each attribute has
 different requirements to unlock it.
 Elemental Bonuses
 Match a character's element with that of
@@ -90,7 +84,7 @@ bonus works for all elements.
 Rarity & Party Cost
 Characters with higher rarity cost more
 to put in your party, but as your rank
-goes up, so does your team cost limit
+goes up, so does your team cost limit!
 Chat
 You can chat with other players in towns
 or when on Co-op Quests.
@@ -122,26 +116,26 @@ to inflict greater damage.
 Piercing Attacks
 Enemies with tough skin are weak against
 piercing attacks. Use rapiers, daggers,
-bows, and lances to fill them full o' holes
+bows, and lances to fill them full o' holes!
 Strike Attacks
 Enemies with hard bodies are weak
 against high-impact strikes. Use guns
-and clubs to crack them open
+and clubs to crack them open!
 Slash Attacks
 Enemies with soft bodies, like mantises
 or gerberas, are weak against swords.
-Waste no time in slashing them apart
+Waste no time in slashing them apart!
 When an Enemy Glows Red...
 Enemies that glow red won't stagger or
 get knocked down when attacked, so watch
-out for their counterattacks
+out for their counterattacks!
 Danger Warnings
 The red zones that appear during boss
 fights indicate extreme danger, so take
-evasive action or get your guard up
+evasive action or get your guard up!
 When an Enemy Guards...
 When faced with a guarding enemy, try to
-attack from the rear
+attack from the rear!
 Battle Skills
 Some characters and equipment have
 battle skills that automatically boost
@@ -155,9 +149,9 @@ Switch during battle to change your
 character. Use this to take advantage of
 enemies' elemental and other weaknesses.
 Parrying & Switching (Short-Range Weapon)
-Flick up while guarding to parry
-Deflect an attack, then switch out
-Unleash a skill to inflict mega damage
+Flick up while guarding to parry!
+Deflect an attack, then switch out!
+Unleash a skill to inflict mega damage!
 Guard Breaks
 As you block attacks, your guard gauge
 will fall, increasing the risk of
@@ -172,9 +166,8 @@ rods), tap and hold to charge up for a
 powerful focus attack.
 Jumping & Head Splitters
 Flick up to jump, then flick down to
-perform a head splitter
-A head splitter
-can knock down enemies with ease
+perform a head splitter! A head splitter
+can knock down enemies with ease!
 Quick-steps
 Flick sideways to perform a quick-step
 and dodge enemy attacks.

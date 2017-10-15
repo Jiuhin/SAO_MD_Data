@@ -153,6 +153,7 @@ effect_hit_magical_shield_02
 effect_teleport_01
 effect_counter_02
 effect_counter_01
+?333?
 effect_boss_defeat_01
 effect_boss_finish_01
 effect_appear_01_s
@@ -162,7 +163,9 @@ effect_aura_01
 effect_heal_01_s
 effect_weapon_5
 effect_item_back_02
+333?
 effect_item_02
+333?
 effect_item_01
 effect_chargeattack_03
 effect_chargeattack_02
@@ -180,12 +183,19 @@ effect_status_05
 effect_status_04
 effect_status_02
 effect_status_01
+333?
 effect_hit_7_01
+333?
 effect_hit_6_01
+333?
 effect_hit_5_01
+333?
 effect_hit_4_01
+333?
 effect_hit_3_01
+333?
 effect_hit_2_01
+333?
 effect_hit_1_01
 effect_hit_6_02
 effect_hit_5_02

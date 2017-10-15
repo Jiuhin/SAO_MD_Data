@@ -162,11 +162,9 @@ Reverse Defensive War
 Event
 The Star's Call Opens the Door
 Event
-Assault
-The Revenant
+Assault! The Revenant
 Event
-Assault
-Proof of Strong Bonds
+Assault! Proof of Strong Bonds
 Event
 PIRATES of ALO
 Event
@@ -190,8 +188,7 @@ The devil in Shadowy castle in the night
 Event
 Lives drawn in the virtual world
 Event
-No rules
-Battle royale of AR newbies
+No rules! Battle royale of AR newbies
 Event
 Rainy day
 Event
@@ -207,8 +204,7 @@ Pop Star Online part 2
 Event
 Get up nerve in virtual world
 Event
-Let's Go
-Maid to Fight
+Let's Go! Maid to Fight!
 Event
 Invitation from Fairyland
 Event
@@ -262,7 +258,7 @@ Sima the Fisherman
 Event
 The Giants of Nibelheim
 Event
-Beware the Kobold Trickster
+Beware the Kobold Trickster!
 Event
 Sweet-Toothed Witch
 Event

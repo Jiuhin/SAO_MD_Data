@@ -287,8 +287,7 @@ Failed to retrieve user data.
 (P100905:
 Failed to retrieve data.
 (P100904:
-Failed to 
-like.
+Failed to "like."
 (P100903:
 Failed to retrieve data.
 (P100902:

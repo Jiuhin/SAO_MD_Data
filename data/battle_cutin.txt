@@ -1,92 +1,71 @@
 Looks like it's resistant.
-It's a weak point
-It's a weak point
-Be careful about the counter
-Let's switch
-You tend to get too defended
-The attack is which you cannot parry
-Warning
-Just keep defending
-Warning
-It's under 50% now
-You did it..  Their fellows are on the way
-Watch out
-Special Attack
-Watch out
-Enemy's waking up
-Stun him again
-Look carefully at the enemy's move
-Go for another one
-Crash him at once
-I will fight
-Parry
+It's a weak point!
+It's a weak point!
+Be careful about the counter!
+Let's switch!
+You tend to get too defended!
+The attack is which you cannot parry!
+Warning! Just keep defending!
+Warning! It's under 50% now!
+You did it..  Their fellows are on the way! Watch out!
+Special Attack! Watch out!
+Enemy's waking up! Stun him again!
+Look carefully at the enemy's move!
+Now! Go for another one!
+Crash him at once!
+I will fight!
+Parry!
 Debuffed...
-This will not be forgiven
+This will not be forgiven!
 Thank you
 You're good
-Attack on front gets prevented
-Wrap arround
-Don't push yourself too hard
-It doesn't seem to be effective
-Let's swap
+Attack on front gets prevented! Wrap arround!
+Don't push yourself too hard!
+It doesn't seem to be effective! Let's swap
 It seems like it's a weak point
 It seems like it's a weak point
-Be careful about the counter
-Let's switch
-You guard too much
+Be careful about the counter!
+Let's switch!
+You guard too much!
 It seems like you cannot parry the attack
-Oh gosh
-Do something
-Warning
-It's under 50% now
-Oops
-They are coming
-Special Attack coming
-Beware
-Enemy's waking up
-Stun him again
-Be careful about the timing
-Go for another one
-It's a chance
-Let's press them hard
-Let me handle this
-Parry
+Oh gosh! Do something!
+Warning! It's under 50% now!
+Oops! They are coming!
+Special Attack coming! Beware!
+Enemy's waking up! Stun him again!
+Be careful about the timing!!
+Now! Go for another one!
+It's a chance! Let's press them hard
+Let me handle this!
+Now! Parry!
 Status ailment...
-Oh no...
-Thank you
-That's great
-It's guarded
-Let's go around
+Oh no...!
+Thank you!
+That's great!
+It's guarded! Let's go around!
 Don't push yourself too hard
 It seems like they have resistance
 It seems like a weak point
 It seems like a weak point
-Be careful about the counter
-Let's switch
-Be careful about the guard value
-You cannot parry the attack
-Oh no
-The HP hit the red zone
-Be careful
-The HP got into the yellow zone
-Oops
-They are coming
-Special Attack coming
-Cautions
-Enemy's waking up
-Stun him again
-The timing is important
-Here's our chance
-Go for another one
-It's a chance
-Let me handle this
-Parry
-It's status ailment
-Oh no...
-Thank you
-Good job
-They have a strong guard
-Let's go around
+Be careful about the counter!
+Let's switch!
+Be careful about the guard value!
+You cannot parry the attack!
+Oh no! The HP hit the red zone!
+Be careful! The HP got into the yellow zone!
+Oops! They are coming!
+Special Attack coming! Cautions!
+Enemy's waking up! Stun him again!
+The timing is important!
+Here's our chance! Go for another one!
+It's a chance!
+Let me handle this!
+Now! Parry!
+It's status ailment!
+Oh no...!
+Thank you!
+Good job!
+They have a strong guard! Let's go around!
 Don't push yourself too hard
 That was not effective.
 The enemy is weak to that.
@@ -97,670 +76,521 @@ Monitor your guard gauge.
 That cannot be parried.
 The HP dropped into the red zone. Be careful. 
 The HP hit the yellow zone.
-Warning
-Their fellows will be here soon.
-Dodge that special attack
-Incoming
-Hit them again
+Warning! Their fellows will be here soon.
+Dodge that special attack!
+Incoming! Hit them again!
 Timing is everything.
-Go after the other one
-The enemy is open to attack
+Go after the other one!
+The enemy is open to attack!
 I have an edge here.
 Parry now.
 You have been debuffed.
-B-But how...
+B-But how...!
 Thank you.
 Wonderful.
 The enemy is guarding.
-Are you okay
+Are you okay?
 Looks like it's resistant.
-It's weak to that attack
-It's weak to that attack
-The enemy's going to counter
-Switch now
-You can't guard forever
-Can't parry
-Oh no... the HP is now in the red zone.. Don't give up
-The HP hit the yellow zone
-Strengthen the defense
-Warning
-Their fellows will be here soon
-It's using a special attack
-Watch out
-It's getting up
-Watch your timing
-Go after the other one
-The enemy's open
-Attack
-Leave this to me
-That's your cue
-Parry
-Oh no
-That was a debuff.
-No, this can't be...
-Thanks
-You did it
-That was great
+It's weak to that attack!
+It's weak to that attack!
+The enemy's going to counter!
+Switch now!
+You can't guard forever!
+Can't parry!
+Oh no... the HP is now in the red zone.. Don't give up!
+The HP hit the yellow zone! Strengthen the defense!
+Warning! Their fellows will be here soon!
+It's using a special attack!
+Watch out! It's getting up!
+Watch your timing!
+Now! Go after the other one!
+The enemy's open! Attack!
+Leave this to me!
+That's your cue! Parry!
+Oh no! That was a debuff.
+No, this can't be...!
+Thanks!
+You did it! That was great!
 It's guarding.
-HP is very low
-What
-It's resistant
+HP is very low!
+What?! It's resistant?!
 That's its weakness.
 That's its weakness.
 It's ready to counter.
-Switch
+Switch!
 You're guarding too much.
 Can't parry that.
-Hey, the HP hit the red zone, idiot
-What the hell are you doing
-The HP hit the yellow zone
-Hey, be careful
-Their fellows will come
-What
-A special attack
-Hmph, it's awake already
-Can you not time an attack
-Now for the other one
-Now's our chance
-Attack
-I cannot lose this
-Parry
+Hey, the HP hit the red zone, idiot!
+What the hell are you doing!? The HP hit the yellow zone!
+Hey, be careful! Their fellows will come!
+What?! A special attack?!
+Hmph, it's awake already?
+Can you not time an attack?
+Now for the other one!
+Now's our chance! Attack!
+I cannot lose this!
+Parry!
 You're debuffed.
 You're slowing me down.
-Nice. Very nice
+Nice. Very nice!
 Not bad.
 How annoying. Encircle it.
-What are you doing
-Stop
+What are you doing?! Stop!
 It seems resistant.
 It seems weak to that.
 It seems weak to that.
 Don't be foolish.
-Switch
+Switch!
 Your guard is at its limit.
 That can't be parried.
-The HP is in the red zone.. What do you do
+The HP is in the red zone.. What do you do?
 The HP got is in the yellow zone, careful now.
 Hmm.. Their fellows will be here.
 Be warned: a special attack.
-It's about to wake up
+It's about to wake up!
 Your timing is pathetic.
-Let's go for the other one
-It's open
-Everyone, attack
+Let's go for the other one!
+It's open! Everyone, attack!
 It's my turn.
-Parry
-Can you handle that debuff
+Parry!
+Can you handle that debuff?
 And that's the end.
 You did well. Thank you.
 Impressive. Very impressive.
-Guarding
-Flank its guard.
-Is that all you have
+Guarding? Flank its guard.
+Is that all you have?
 That attack is ineffective.
 That's its weakness.
 That's its weakness.
-Look
-It will counter you
-Switch
-This one's mine
-You're in danger
-Retreat
-You can't parry
-Evade
-Shoot, the HP droped into the red zone
-Be careful
-The HP got into the yellow zone
-Crap, their fellows are coming
-Special attack, watch out
-Look
-It's awake
-Watch it closely
-Now let's get the other one
-This is our chance
-Attack
-It's mine
-For victory
-Parry
+Look! It will counter you!
+Switch! This one's mine!
+You're in danger! Retreat!
+You can't parry! Evade!
+Shoot, the HP droped into the red zone!
+Be careful! The HP got into the yellow zone!
+Crap, their fellows are coming!
+Special attack, watch out!
+Look! It's awake!
+Watch it closely!
+Now let's get the other one!
+This is our chance! Attack!
+It's mine! For victory!
+Parry!
 I did not expect a debuff...
-Defeated
+Defeated?!
 I owe you my thanks.
 Impressive.
-Defending, are you
-Flank
+Defending, are you? Flank!
 Don't act the fool.
-It's resistant
-Weakness found
-Weakness found
-It's waiting to counter
-Switch
-I'll whack it good
-Don't just defend
-Gotta dodge
+It's resistant!
+Weakness found!
+Weakness found!
+It's waiting to counter!
+Switch! I'll whack it good!
+Don't just defend!
+Gotta dodge!
 Damn, the HP is in the red zone now.
 Oops, the HP is in the yellow zone.
 OMG, they are coooming.
-Special, huh
-Got it
-It's awake, isn't it
-Timing's key here
-Get the other one now
-Now's our chance
-I got just the skill for it
-Parry
+Special, huh? Got it!
+It's awake, isn't it?!
+Timing's key here!
+Get the other one now!
+Now's our chance!
+I got just the skill for it!
+Parry!
 That's definitely a debuff.
-It's in trouble now
-Thanks so much
-I'm counting on you
+It's in trouble now!
+Thanks so much!
+I'm counting on you!
 This is one tough cookie.
-Be extra cautious, 'kay
-It's got resistances
+Be extra cautious, 'kay?!
+It's got resistances!
 It is weak to that.
 It is weak to that.
-It is going to counter
-Switch
-I have your back
-You must attack to win
-Evade if you can't parry
-Hurry
-The HP hit the red zone
-Shoot, the HP got into the yellow zone
-Oh crap
-Their fellows are coming
+It is going to counter!
+Switch! I have your back!
+You must attack to win!
+Evade if you can't parry!
+Hurry! The HP hit the red zone!
+Shoot, the HP got into the yellow zone!
+Oh crap! Their fellows are coming!
 Beware the special attack.
-Dang... Looks like it's up
-Watch it closely
-Now let's get the other one
-Our time has come
+Dang... Looks like it's up!
+Watch it closely!
+Now let's get the other one!
+Our time has come!
 That one is my prey.
-Parry
+Parry!
 Curing that would be wise.
 I am ashamed of myself...
-You have my thanks
+You have my thanks!
 That was worthy of praise.
-Strong defense... Circle it
-Don't push yourself so much
-Resistant, huh
+Strong defense... Circle it!
+Don't push yourself so much!
+Resistant, huh?
 Weak spot.
 Weak spot.
 Hey. It's gonna counter.
-Switch
-I got this
-Guardin' too much
+Switch! I got this!
+Guardin' too much?
 Ya can't parry that one.
 Oh wow.. The HP is in the red zone.
 Be careful. The HP hit the yellow zone.
 Damn it. Their fellows are now on the way.
-A special attack, huh
-Cool.
-It's woken up
+A special attack, huh? Cool.
+It's woken up!!
 Timing's critical.
-Now attack the other one
-Here's our best shot
+Now attack the other one!
+Here's our best shot!
 That's my specialty.
-Parry
+Parry! Now!
 Stat attack. Ouch.
-Whaaat
-How'd this happen
+Whaaat? How'd this happen?
 Thanks.
-My info didn't cover this
+My info didn't cover this!
 This one's tough.
-Ya good
+Ya good?
 It's resistant to that...
-It's weak to that
-It's weak to that
-Watch it for counters
-Switch
-I'll do my best
-You can't guard much more
-Evade that attack
+It's weak to that!
+It's weak to that!
+Watch it for counters!
+Switch! I'll do my best!
+You can't guard much more!
+Evade that attack!
 The HP hit the red zone... no.. 
 Oh no... the HP is now in the yellow zone.. 
-Uh-oh, their fellows are on the way, aren't they
-A special attack
-Scary...
-Watch it
-It's woken up
-Time it better
-Now for the other one
-Here's our chance
-Attack
-It's scary, but I can do it
-Parry
-Debuffed... Can you heal
+Uh-oh, their fellows are on the way, aren't they?
+A special attack? Scary...
+Watch it! It's woken up!
+Time it better!
+Now for the other one!
+Here's our chance! Attack!
+It's scary, but I can do it!
+Parry!
+Debuffed... Can you heal?
 No way...
 Thank you...so much...
-You're so strong
-It's blocking
-Go around
-Are you okay
-Back up
-It's resistant
-It's weak to that
-It's weak to that
-Wait
-It might counter
-You did it
-Now switch
+You're so strong!
+It's blocking! Go around!
+Are you okay?! Back up!
+It's resistant!
+It's weak to that!
+It's weak to that!
+Wait! It might counter!
+You did it! Now switch!
 Careful. Guarding too much.
-Can't parry this one
-Oh my god
-The HP has dropped into the red zone
-Be careful
-The HP got into the yellow zone
+Can't parry this one!
+Oh my god! The HP has dropped into the red zone!
+Be careful! The HP got into the yellow zone!
 Gee, thier fellows might be coming..
-A special attack
-...Ha ha
-Stop
-It's woken up
-Whoops
-Be more careful
-Now get the other one
-Hit it hard
-This enemy... I can take it
-Parry
-A debuff
-How did this...happen...
-Alright, thanks
-Fantastic
-Its back is wide open
-You all right
+A special attack? ...Ha ha!
+Stop! It's woken up!
+Whoops! Be more careful!
+Yes! Now get the other one!
+Now! Hit it hard!
+This enemy... I can take it!
+Parry!
+A debuff?!
+How did this...happen...?
+Alright, thanks!
+Fantastic!
+Its back is wide open!
+You all right?
 It's resistant...
 A weakness.
 A weakness.
-Stop
-Don't attack
-Let's switch
-Watch your guard gauge
-You can't parry that
-Evade
-No way
-The HP is already in the red zone
-Be careful
-The HP got into the yellow zone
-Oh no
-Their fellows are coming
-Wait... A special attack
-Hold on
-It's woken up
-Your timing's off
-Careful
-Now get the other one
-An opportunity
-Hit it hard
-This one is all mine
-Parry
-Debuffed
-Can you heal
-How did that happen
+Stop! Don't attack!
+Let's switch!
+Watch your guard gauge!
+You can't parry that! Evade!
+No way! The HP is already in the red zone!
+Be careful! The HP got into the yellow zone!
+Oh no! Their fellows are coming!
+Wait... A special attack!
+Hold on! It's woken up!
+Your timing's off! Careful!
+Now get the other one!
+An opportunity! Hit it hard!
+This one is all mine!
+Parry!
+Debuffed! Can you heal?
+How did that happen?!
 I'm feeling much better.
-I'm really impressed
-Its back is wide open
-Don't try too hard, okay
-Resistant, huh
-Switch
-Weak spot
-Weak spot
-Hold up
-It's gonna counter
-Nice
-Switch with me
-What
-Too much guarding
-Aw rats
-No parrying it
-Oh no
-The HP hit the red zone
-Oops, the HP got into the yellow zone
-Oh no
-Their fellows are coming
-Special incoming
-Watch out
-Wait
-It's up now
-Watch your timing
-Get the other one now
-Now's our chance
-Let's go
-Leave that one to me
-Parry
-Debuffed
-Can you heal
-This is bad
-Thanks
-You're the best
-That was pretty great
-It's guarding
-Backstab it
-Oh no
-Watch out
-Resistant, huh
-Found its weakness
-Found its weakness
-It's going to counter
-I can switch
+I'm really impressed!
+Its back is wide open!
+Don't try too hard, okay?
+Resistant, huh? Switch?
+Weak spot!
+Weak spot!
+Hold up! It's gonna counter!
+Nice! Switch with me!
+What?! Too much guarding?!
+Aw rats! No parrying it!
+Oh no! The HP hit the red zone!
+Oops, the HP got into the yellow zone!
+Oh no! Their fellows are coming!
+Special incoming! Watch out!
+Wait! It's up now!
+Watch your timing!
+Get the other one now!
+Now's our chance! Let's go!
+Leave that one to me!
+Now! Parry!
+Debuffed! Can you heal?
+This is bad!
+Thanks! You're the best!
+That was pretty great!
+It's guarding! Backstab it!
+Oh no! Watch out!
+Resistant, huh?
+Found its weakness!
+Found its weakness!
+It's going to counter!
+I can switch!
 You're guarding too much...
-You can't parry
-Dodge
-Hurry
-The HP hit the red zone
-Be careful
-The HP got into the yellow zone
-Oh no
-Their fellows are coming
-A special attack, huh
-Watch out, it's gotten up
+You can't parry! Dodge!
+Hurry! The HP hit the red zone!
+Be careful! The HP got into the yellow zone!
+Oh no! Their fellows are coming!
+A special attack, huh?
+Watch out, it's gotten up!
 Your timing needs work.
-Alright
-Now the other one
-Alright
-Now's our chance
+Alright! Now the other one!
+Alright! Now's our chance!
 Leave this one to me.
-Parry
-I need to heal this debuff
-You won't get away with it
-I'm feeling much better
-Nice
-Slip around its guard
-Don't be reckless
-It's got resistances
-It seems to be weak to that
-It seems to be weak to that
-Stop
-Stop
-It'll counter
-Switch with me
-Danger
-Stop guarding
-That one can't be parried
-Oh no
-The HP hit the red zone
-Be careful
-The HP got into the yellow zone
-Oh my god, their fellows are coming
-Yikes
-A special attack
-Hold up
-It's awake
-Guess the timing was bad
-Get the other one now
-Here's our chance
-Chaaarge
-Excuse me
-I got this one
-Parry
-Stat affliction
-Icky
-Oh no
-I feel SO good now
-Double wow
-Not while it's guarding
-Take it easy, okay
+Parry!
+I need to heal this debuff!
+You won't get away with it!
+I'm feeling much better!
+Nice!
+Slip around its guard!
+Don't be reckless!
+It's got resistances!
+It seems to be weak to that!
+It seems to be weak to that!
+Stop! Stop! It'll counter!
+Switch with me!
+Danger! Stop guarding!
+That one can't be parried!
+Oh no! The HP hit the red zone!
+Be careful! The HP got into the yellow zone!
+Oh my god, their fellows are coming!
+Yikes! A special attack!
+Hold up! It's awake!
+Guess the timing was bad?
+Get the other one now!
+Here's our chance! Chaaarge!
+Excuse me! I got this one!
+Parry!
+Stat affliction?! Icky!
+Ah! Oh no!
+I feel SO good now!
+Wow! Double wow!
+Not while it's guarding!
+Take it easy, okay?
 It's resisting damage.
 Found its weak point.
 Found its weak point.
 Careful of counters.
-Switch
-Don't just guard, okay
+Switch!
+Don't just guard, okay?
 You can't parry that one.
-Hurry
-The HP hit the red zone
-Be careful
-The HP got into the yellow zone
-You did it..  Their fellows will be here soon
-Special attack, watch it
-It's awake
-You ready
+Hurry! The HP hit the red zone!
+Be careful! The HP got into the yellow zone!
+You did it..  Their fellows will be here soon!
+Special attack, watch it!
+It's awake! You ready?
 Keep your eye on the enemy.
-Now go for the other one
-Give it a beatdown
-I'm extra good at that
-Parry
-Debuffed
+Now go for the other one!
+Give it a beatdown!
+I'm extra good at that!
+Parry!
+Debuffed!
 No way...
 You're a lifesaver.
 Impressive.
-Hit it from behind
-You okay
-It's got resistances
-Weak spot
-Weak spot
-It's gonna counter
-Switch time
-Aw yeah
-Stop guarding so much
-Whaaat
-No parrying
-No way
-The HP is already in the red zone
-Shoot, the HP got into the yellow zone
+Hit it from behind!
+You okay?
+It's got resistances!
+Weak spot!
+Weak spot!
+It's gonna counter!
+Switch time! Aw yeah!
+Stop guarding so much!
+Whaaat?! No parrying?!
+No way! The HP is already in the red zone!
+Shoot, the HP got into the yellow zone!
 Gee, thier fellows might be coming..
-Blech, a special attack
-Careful, it can counter now
-Bad timing
-Lucky
-Now the other one
-Lucky
-Now's our chance
-Leave it to me
-Parry
+Blech, a special attack!
+Careful, it can counter now!
+Bad timing?
+Lucky! Now the other one!
+Lucky! Now's our chance!
+Leave it to me!
+Parry!
 Oof, stat affliction.
-I'll come fix you right up
-Dude
-Thanks a million
-Hey, not half bad
-It's turtling
-Circle it
-Don't try to be a hero
-It's resistant
-Switch
-It's weak to that
-It's weak to that
-Counterattack incoming
-Switch time
-Stop guarding so much
-Bleck, no parrying this
-Oh no
-The HP hit the red zone
-Be careful
-The HP got into the yellow zone
-Their fellows are coming
-Hey, stop with the specials
-Watch it
-It's woken up
-Timing
-Timing
-Get the other one
-Charge it
-This one's mine
-Parry it
-A stat affliction
-Ugh...
-Oh, you did NOT just do that
-Phew
-I feel so much better
-I won't let YOU beat ME
-It's a toughie... Circle it
-Watch your HP, alright
-It's got resistances
-I think it's weak to that
-I think it's weak to that
-Be careful of counters
-Switch, please
-Try not to guard too much
-I don't think you can parry
-Oh my god
-The HP has dropped into the red zone
-Be careful
-The HP got into the yellow zone
-Oh no, their fellows are coming
-It's using a special attack
-It's up
-It might counter
+I'll come fix you right up!
+Dude! Thanks a million!
+Hey, not half bad!
+It's turtling! Circle it!
+Don't try to be a hero!
+It's resistant?! Switch?
+It's weak to that!
+It's weak to that!
+Counterattack incoming!
+Switch time!
+Stop guarding so much!
+Bleck, no parrying this?
+Oh no! The HP hit the red zone!
+Be careful! The HP got into the yellow zone!
+Hey! Their fellows are coming!
+Hey, stop with the specials!
+Watch it! It's woken up!
+Timing! Timing!!!
+Now! Get the other one!
+Charge it!
+This one's mine!
+Now! Parry it!
+A stat affliction? Ugh...
+Oh, you did NOT just do that!
+Phew! I feel so much better!
+I won't let YOU beat ME!
+It's a toughie... Circle it!
+Watch your HP, alright?
+It's got resistances!
+I think it's weak to that!
+I think it's weak to that!
+Be careful of counters!
+Switch, please!
+Try not to guard too much!
+I don't think you can parry!
+Oh my god! The HP has dropped into the red zone!
+Be careful! The HP got into the yellow zone!
+Oh no, their fellows are coming!
+It's using a special attack!
+It's up! It might counter!
 Timing might be off...
-Let's get the other one now
-This is a great chance
-I'm very good at that
-Parry right now please
-A debuff... Heal...
-You made me mad
-You're my hero
-That was beautiful
-It's guarding
-Don't get hurt
-Not working...
-Switch
-Found its weakness
-Found its weakness
-Woohoo
-Counter
-I'm ready
-Switch
+Let's get the other one now!
+This is a great chance!
+I'm very good at that!
+Parry right now please!
+A debuff... Heal...?
+You made me mad!
+You're my hero!
+That was beautiful!
+It's guarding!
+Don't get hurt!
+Not working...? Switch?
+Found its weakness!
+Found its weakness!
+Woohoo! Counter!
+I'm ready! Switch!
 Only guard, and you'll lose.
 Yeah, no parrying that...
-Oh no
-The HP hit the red zone
-Oops, the HP got into the yellow zone
-Shoot, their fellows are coming
-Heh, here comes a special
-Whoa
-It's awake
-Timing's key
-Alright
-Get the other one
-Yeah
-Now's our chance
-Leave it to me
-Parry
-A debuff
-Really
-Oh, you're gonna get it now
-Thanks
-Yeah
-Looking good
-Attack from behind
-Don't push yourself, okay
-It's not working... Switch
-That's its weak spot
-That's its weak spot
-Watch for counters
-Leave it to me
-Switch
-Too much guarding
+Oh no! The HP hit the red zone!
+Oops, the HP got into the yellow zone!
+Shoot, their fellows are coming!
+Heh, here comes a special!
+Whoa! It's awake!
+Timing's key!
+Alright! Get the other one!
+Yeah! Now's our chance!
+Leave it to me!
+Now! Parry!
+A debuff? Really?
+Oh, you're gonna get it now!
+Thanks!
+Yeah! Looking good!
+Attack from behind!
+Don't push yourself, okay?
+It's not working... Switch!
+That's its weak spot!
+That's its weak spot!
+Watch for counters!
+Leave it to me! Switch!
+Hey! Too much guarding!
 That one can't be parried.
-Hurry
-The HP hit the red zone
-Be careful
-The HP got into the yellow zone
-Oh no
-Their fellows are coming
-Check your six
-A special
-Be careful
-It's getting up
+Hurry! The HP hit the red zone!
+Be careful! The HP got into the yellow zone!
+Oh no! Their fellows are coming!
+Check your six! A special!
+Be careful! It's getting up!
 Parrying is about timing.
-Let's get the other one
-Now's our chance
-Attack
+Let's get the other one!
+Now's our chance! Attack!
 This is my specialty.
-Parry
+Parry!
 Ick. Debuff.
 I didn't make it in time...
 You have my gratitude.
 Not bad.
 Flank it while it defends.
-Don't risk it
-Fall back
+Don't risk it! Fall back!
 It's resistant to that...
-It's weak to that
-It's weak to that
-It's ready to counterattack
-Switch with me
-Watch your guard gauge
-This one can't be parried
-Oh no
-The HP hit the red zone
-Be careful
-The HP got into the yellow zone
-Oh no
-Their fellows are coming
-Watch that special attack
-It's up
-Watch for counters
-Watch it closely
-Now let's get the other one
-Now's our chance
-Hey, I'm good at that
-Parry it
-Bad enemy
-Can you heal
-Oh, come on
-Thanks
-You saved me
-Impressive
-It's defending
-Flank it
-Don't push yourself so much
-It's ineffective
-Switch
-That's its weak spot
-That's its weak spot
-It's going to counter
-Switch
+It's weak to that!
+It's weak to that!
+It's ready to counterattack!
+Switch with me!
+Watch your guard gauge!
+This one can't be parried!
+Oh no! The HP hit the red zone!
+Be careful! The HP got into the yellow zone!
+Oh no! Their fellows are coming!
+Watch that special attack!
+It's up! Watch for counters!
+Watch it closely!
+Now let's get the other one!
+Now's our chance!
+Hey, I'm good at that!
+Now! Parry it!
+Bad enemy! Can you heal?
+Oh, come on!
+Thanks! You saved me!
+Impressive!
+It's defending! Flank it!
+Don't push yourself so much!
+It's ineffective! Switch!
+That's its weak spot!
+That's its weak spot!
+It's going to counter!
+Now! Switch!
 You're too defensive.
-I don't think you can parry
-Hurry
-The HP hit the red zone
-Be careful
-The HP got into the yellow zone
-Oh no
-Their fellows are coming
-A special attack... Careful
-Watch out
-It's getting up
+I don't think you can parry!
+Hurry! The HP hit the red zone!
+Be careful! The HP got into the yellow zone!
+Oh no! Their fellows are coming!
+A special attack... Careful!
+Watch out! It's getting up!
 Your timing needs work.
-Okay
-Get the other one
-Now's your chance
-Charge
-This one's mine
-Now's your chance
-Parry
-Status affliction...careful
-Thanks
-That helped a lot
-Very nice
-This one's tough. Flank it
-Your HP is low
-Get back
-It's not working
-Switch
-That's its weak spot
-That's its weak spot
-Watch for counters
-Switch
-Hit it with a skill
-You're guarding too much
-You can't deflect it
-Dodge
-Oh no
-The HP hit the red zone
-Be careful
-The HP got into the yellow zone
-Oh crap
-Their fellows are coming
-Special attack, watch out
-Careful
-It's getting up
-Watch your timing
-Go for the other one
-Nice
-Now's our chance
-Leave that one to me
-Parry
+Okay! Get the other one!
+Now's your chance! Charge!
+This one's mine!
+Now's your chance! Parry!
+Status affliction...careful!
+Thanks! That helped a lot!
+Very nice!
+This one's tough. Flank it!
+Your HP is low! Get back!
+It's not working! Switch!
+That's its weak spot!
+That's its weak spot!
+Watch for counters!
+Switch! Hit it with a skill!
+You're guarding too much!
+You can't deflect it! Dodge!
+Oh no! The HP hit the red zone!
+Be careful! The HP got into the yellow zone!
+Oh crap! Their fellows are coming!
+Special attack, watch out!
+Careful! It's getting up!
+Watch your timing!
+Now! Go for the other one!
+Nice! Now's our chance!
+Leave that one to me!
+Now! Parry!
 A status affliction. Ouch...
-Thanks
-Not bad
-It's defending
-Flank it
-Are you all right
+Thanks!
+Not bad!
+It's defending! Flank it!
+Are you all right?!
