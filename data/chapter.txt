@@ -124,6 +124,8 @@ Chara Event
 Chara Event
 [Black Swordsman] Kirito Ep.
 Chara Event
+ブレイクバトルテスト
+Test Event
 Challenge Bosses with Guild Members
 Test Event
 Guild Event Test
@@ -148,6 +150,8 @@ Twilight Castle in Akasha
 Event
 Shadowy castle in the night
 Event
+荒野に咲く花々
+Event
 Sport Festival
 Event
 The Two Headed Monster
@@ -155,6 +159,8 @@ Event
 Battle of Castle Demon
 Event
 The Malefic Star of the Magic Citadel
+Event
+Rival War! - in quest of secluded hot springs - 
 Event
 Arianrhod in the Past
 Event

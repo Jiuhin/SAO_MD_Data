@@ -2524,6 +2524,10 @@ A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
 skill_icon_sword_3_{}
+A combination skill. Dropping a coin is not the way to begin!? Quick draw just like a gunfighter in a Western film.
+Beater the Kid
+Beater the Kid
+skill_icon_sword_3_{}
 Freeze an enemy by "Blue Rose Sword" and shatter the ice into pieces when you hold the sword and aim at the enemy.
 Release Recollection
 Blue Rose Bullet

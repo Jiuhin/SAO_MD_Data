@@ -1,3 +1,9 @@
+Team-up Headband R4
+accessory01_0051
+Team-up Headband R3
+accessory01_0051
+Team-up Headband R2
+accessory01_0051
 Bat Earring R4
 accessory01_0050
 Bat Earring R3
@@ -238,6 +244,12 @@ Ruby Earring R3
 accessory01_0001
 Ruby Earring R2
 accessory01_0001
+Gym Clothes in Youth R4
+armor03_0066
+Gym Clothes in Youth R3
+armor03_0066
+Gym Clothes in Youth R2
+armor03_0066
 Pumpkin Dress R4
 armor03_0065
 Pumpkin Dress R3

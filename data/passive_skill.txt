@@ -533,8 +533,8 @@ Increases critical damage vs Non-elem. enemies by 10%
 Crit. Damage + 10% (vs. Non-elem.)
 Increases dmg. vs Non-elem. enemies by 1.5x.
 Damage Up (vs. Non-elem.)
-土属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-土属性の消費MP-10%&クリティカルダメージ+10%
+Reduces Earth-elem. character's Required MP by -10%, increases Critical damage by 10%
+Required MP -10% / Critical damage +10% (Earth)
 Increases Earth-elem. character's MP & def. by 3%.
 MP & Def. +3% (Earth)
 Increases Earth-elem. character's defense by 6%.
@@ -547,8 +547,8 @@ Increases Earth-elem. character's HP by 6%.
 HP +6% (Earth)
 Increases Dark-elem. character's MP & Atk. by 3%.
 MP & Atk. +3% (Dark)
-闇属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-闇属性の消費MP-10%&クリティカルダメージ+10%
+Reduces Dark-elem. character's Required MP by -10%, increases Critical damage by 10%
+Required MP -10% / Critical damage +10% (Dark)
 Increases Dark-elem. character's MP & def. by 3%.
 MP & Def. +3% (Dark)
 Increases Dark-elem. character's attack by 3%.
@@ -561,8 +561,8 @@ Increases Dark-elem. character's HP by 3%.
 HP +3% (Dark)
 Increases Holy-elem. character's HP & MP by 3%.
 HP & MP +3% (Holy)
-聖属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-聖属性の消費MP-10%&クリティカルダメージ+10%
+Reduces Holy-elem. character's Required MP by -10%, increases Critical damage by 10%
+Required MP -10% / Critical damage +10% (Holy)
 Increases Holy-elem. character's MP & def. by 3%.
 MP & Def. +3% (Holy)
 Increases Holy-elem. character's attack by 3%.
@@ -587,8 +587,8 @@ Increases Wind-elem. character's HP by 6%.
 HP +6% (Wind)
 Increases Water-elem. character's defense by 6%.
 Def. +6% (Water)
-水属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-水属性の消費MP-10%&クリティカルダメージ+10%
+Reduces Water-elem. character's Required MP by -10%, increases Critical damage by 10%
+Required MP -10% / Critical damage +10% (Water)
 Increases Water-elem. character's MP & def. by 3%.
 MP & Def. +3% (Water)
 Increases Water-elem. character's attack by 3%.
@@ -601,8 +601,8 @@ Increases Fire-elem. character's HP & MP by 3%.
 HP & MP. +3% (Fire)
 Increases Fire-elem. character's MP & attack by 3%.
 MP & Atk. +3% (Fire)
-火属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-火属性の消費MP-10%&クリティカルダメージ+10%
+Reduces Fire-elem. character's Required MP by -10%, increases Critical damage by 10%
+Required MP -10% / Critical damage +10% (Fire)
 Increases Fire-elem. character's MP & def. by 3%.
 MP & Def. +3% (Fire)
 Increases Fire-elem. character's attack by 3%.
@@ -611,8 +611,8 @@ Increases Fire-elem. character's MP by 3%.
 MP +3% (Fire)
 Increases Fire-elem. character's HP by 6%.
 HP +6% (Fire)
-無属性が装備すると消費MPが10%減少し、クリティカル時のダメージが10%増加する
-無属性の消費MP-10%&クリティカルダメージ+10%
+Reduces Non-elem. character's Required MP by -10%, increases Critical damage by 10%
+Required MP -10% / Critical damage +10% (Non-elem.)
 Increases Non-elem. character's MP & def. by 3%.
 MP & Def. +3% (Non-elem.)
 Increases Non-elem. character's attack by 3%.

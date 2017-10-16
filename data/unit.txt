@@ -117,6 +117,7 @@ enemy_212_pina
 body
 enemy_212_pina
 enemy_212_pina
+silica_firefox_effect_2
 weapon_dagger
 enemy_211_silica_firefox
 head

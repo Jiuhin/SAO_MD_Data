@@ -1,3 +1,23 @@
+Parrying & Switching (Shieldblade)
+While guarding, flick the screen or guard
+and parry! Then switch! 
+With SS, you can deliver great damage.
+Parrying & Switching (Rods)
+Flick up while charging attacks or just let your
+finger go to parry! Deflect an attack, then switch
+out! Unleash a skill to inflict mega damage!
+Parrying & Switching (Bows)
+Dodge the enemy's attack at the right moment
+and parry! Deflect an attack, then switch out!
+Unleash a skill to inflict mega damage!
+Parrying & Switching (Guns)
+Flick up while charging attacks to parry!
+Deflect an attack, then switch out!
+Unleash a skill to inflict mega damage!
+Telltale Motion Before Attack
+Every attack has a telltale motion.
+When the enemy's eyes flash,
+that's your chance to parry!
 The Archive
 You can view the stories of quests
 you've already completed from Menu >
@@ -157,9 +177,9 @@ As you block attacks, your guard gauge
 will fall, increasing the risk of
 suffering an incapacitating guard break.
 Guarding
-With certain weapons (swords, dual blades,
-rapiers, daggers, mace, lances, rods), tap
-and hold to guard and reduce damage.
+(For some weapon types) Press and
+hold the screen to guard! 
+Damage will be reduced by guarding.
 Focus Attacks
 With ranged weapons (guns, bows, and
 rods), tap and hold to charge up for a

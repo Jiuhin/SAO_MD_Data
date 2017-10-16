@@ -2,3 +2,5 @@ wing_r
 wing_l
 wing_r
 wing_l
+wing_r
+wing_l

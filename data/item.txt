@@ -608,7 +608,8 @@ item_m_record_crystal_emerald
 You can attain at the "YUKATA Night" Scout
 Yukata Night Record Crystal
 item_m_evolution_20004
-Raises Leafa's level cap. ([Festive Witch] Leafa only) 
+Raises Leafa's level cap.
+([Rejoicing Witch] Leafa only) 
 Rarity: High
 Festival Upgrade Crystal
 item_m_evolution_20003

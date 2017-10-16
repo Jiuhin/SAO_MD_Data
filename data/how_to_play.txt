@@ -1311,14 +1311,30 @@ Parrying (Long-Range Weapon)
 <body_text font_size 
 '24'>　While guarding using a close-range
 　weapon or weapons (swords, dual
-　blades, clubs, rapiers, daggers,lances),
+　blades, rapiers, daggers, maces, spears, shieldblades),
 　flick up on the screen in time with
-　the enemy's attack to parry it. When
-　the enemy's eyes glow red, that's your
-　chance! Switching characters the
-　moment the parry succeeds will cause
-　a sword skill to be unleashed, dealing
-　major damage.</body_text>
+　the enemy's attack to parry it. 
+　When the enemy's eyes glow red, that's your
+　chance! If switching characters have enough MP,
+　SS3 unleashes and deal
+　major damage.
+　How to parry:
+　Sword, Dual Blades, Rapier, Dagger, Mace
+You get to parry as you flick the screen while guarding 
+　Spear
+You get to parry as you take steps and dodge an enemy's attack or 
+　       flick the screen while guarding
+　Shieldblade
+You get to parry as you flick the screen or 
+　　　guard against an enemy's attack 
+　    
+When you get unparryable attacks, you get 0 damage as you
+　　　guard against them just at the right moment
+　NOTE: 
+　 You need at least two party members to perform a switch.
+　 If it lacks enough MP, SS1 unleashes just like usual switching or switching happens without any SS.
+　 After succeeding a parry, if your SS3 were a recovery one or support one, then other attack SS will unleash.
+　</body_text>
 </panel>
 Parrying (Short-Range Weapon)
 <panel>
@@ -1343,9 +1359,21 @@ Focus Attacks
 <panel>
 <body_text font_size 
 '24'>　If you have certain weapons(swords, dual blades, 
-　mace, rapiers, daggers, lances, rods), you can press
+　mace, rapiers, daggers, maces, spears, shieldblades, rods), you can press
 　and hold the screen to guard. Guarding reduces
-　damage received from enemy attacks.</body_text>
+　damage received from enemy attacks.
+　How to guard:
+　Sword, Dual Blades, Rapier, Dagger, Mace, Spear, Rod
+Press and hold the screen to guard against an enemy's attack
+　Shieldblade
+Press and hold the screen to guard
+　    
+Some of shieldblade characters guard automatically while a character is moving. 
+　    
+When you get unparryable attacks, you get 0 damage as you
+　　　guard against them just at the right moment
+　NOTE: 
+　While a shieldblade character is attacking, guarding might not happen automatically.</body_text>
 </panel>
 Guarding
 <panel>

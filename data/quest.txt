@@ -929,6 +929,46 @@ Quest
 bg_thumbnail_3001
 Quest 1
 The Raging Outcasts "The Mysterious Beast" (Expert)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 5
+Earth Dragon Strikes Back (Master +1)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 4
+Earth Dragon Strikes Back (Master)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 3
+Earth Dragon Strikes Back (EX)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 2
+Earth Dragon Strikes Back (Expert)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 1
+Earth Dragon Strikes Back (Int.)
 Attack "Zerg the Flame Caller" hard!
 Damage increases while parrying and stunning! 
 Play as a team and don't miss attack chances!
@@ -6114,6 +6154,15 @@ Story
 bg_thumbnail_0
 Story 1
 Reality of the dreams
+The Quest Boss of Jotunheimr,
+《Twin Kobold》appears.
+Did they steal the sacred treasure?
+Find it out by defeating the creatures!
+Defeat All Enemies
+Quest
+bg_thumbnail_8013
+Quest 5
+異界の希望に星は巡る 絶級+1
 The Quest Boss of Jotunheimr,
 《Twin Kobold》appears.
 Did they steal the sacred treasure?
@@ -9363,6 +9412,46 @@ Quest
 bg_thumbnail_3001
 Quest 1
 The Raging Outcasts "The Mysterious Beast" (Expert)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 5
+Earth Dragon Strikes Back (Master +1)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 4
+Earth Dragon Strikes Back (Master)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 3
+Earth Dragon Strikes Back (EX)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 2
+Earth Dragon Strikes Back (Expert)
+"The Earth Wyrm" the ruler of the waste. 
+Find a chance to attack its back fighting 
+through a hard-fought battle.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 1
+Earth Dragon Strikes Back (Int.)
 Attack "Zerg the Flame Caller" hard!
 Damage increases while parrying and stunning! 
 Play as a team and don't miss attack chances!
@@ -14548,6 +14637,15 @@ Story
 bg_thumbnail_0
 Story 1
 Reality of the dreams
+The Quest Boss of Jotunheimr,
+《Twin Kobold》appears.
+Did they steal the sacred treasure?
+Find it out by defeating the creatures!
+Defeat All Enemies
+Quest
+bg_thumbnail_8013
+Quest 5
+異界の希望に星は巡る 絶級+1
 The Quest Boss of Jotunheimr,
 《Twin Kobold》appears.
 Did they steal the sacred treasure?

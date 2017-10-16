@@ -294,6 +294,7 @@ wait
 dead
 appear
 bullet_6048_hand
+bullet_6047_light_flower
 wait
 ground
 dead
@@ -747,6 +748,8 @@ wait
 ground
 bullet_6005_rod_skill2_light
 wait
+bullet_5004_rod_skill1_stone
+wait
 bullet_6004_rod_skill1_light
 dead
 bullet_6003_rod_charge_light
@@ -758,6 +761,8 @@ wait
 ground
 dead
 bullet_5001_petra_shot
+dead
+bullet_4055_odama_rolling
 dead
 bullet_4054_tornado_skewer
 bullet_4053_barrel_panic

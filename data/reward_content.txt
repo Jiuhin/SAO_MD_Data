@@ -402,6 +402,7 @@ Twinkling Comet
 Pumpkin Bomb
 Trick or Treat
 Starburst Stream
+称号: 荒野に咲く花々
 Arianrhod in the Past
 The Star's Call Opens the Door
 Treasure Master
@@ -509,13 +510,15 @@ Water Medallion x15
 Fire Medallion x15
 Void Medallion x30
 Rainbow Essence x2
+紅葉の進化結晶
+Memory Diamond x25
+【荒野の一匹狼】キリト
 Halloween Upgrade Crystal x1
 Colored Leaf  Gold Medal x2
 Colored Leaf  Gold Medal x1
 Legendary
 Secluded Hot Springs
-Peaceful Coexistence
-Hot Spring
+Peaceful Coexistence Hot Spring
 Halloween Silver Medal x1
 Halloween Bronze Medal x1
 Glorious Victory
@@ -3478,6 +3481,10 @@ Dark Medallion x5
 Dark Medallion x15
 Silverthread Armor R3
 Insane Armor R3
+ハデス・バレッタR3
+ハデス・バレッタR2
+ブラック・ソア・コートR3
+ブラック・ソア・コートR2
 Bat Earring R3
 Bat Earring R2
 Pumpkin Dress R3
@@ -5492,6 +5499,10 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+ハデス・バレッタR3
+ハデス・バレッタR2
+ブラック・ソア・コートR3
+ブラック・ソア・コートR2
 Halloween Silver Medal x1
 Halloween Bronze Medal x1
 Halloween Upgrade Crystal x1

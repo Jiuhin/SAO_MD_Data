@@ -610,7 +610,7 @@ e8d35634d29b482c471876d8656509c2
 ss/unit/chara_2_sword_w/skill_effect_sword_1.png
 f9e05538f81de59175c1f4238ffadfa5
 ss/unit/chara_2_sword_w/skill_effect_24109.png
-254c3d451868d53feb8c6ab045003809
+07b486ad02ad2e7ffd6b750dd088b860
 ss/unit/chara_2_sword_w/skill_effect_24108.png
 3ab34f821294a6d2c70b2f8f3caa9590
 ss/unit/chara_2_sword_w/skill_effect_24107.png
@@ -842,6 +842,8 @@ ss/unit/chara_1_sword_m/skill_effect_14115.png
 ss/unit/chara_1_sword_m/skill_effect_14114.png
 7b806bbb7be739375da70b71fb6795e2
 ss/unit/chara_1_sword_m/skill_effect_14113.png
+f9c4885b245b5d34087ae8660bcdf0f7
+ss/unit/chara_1_sword_m/skill_effect_14112.png
 75f41449445eee434a605a347b3fd522
 ss/unit/chara_1_sword_m/skill_effect_14111.png
 ed9d500f4f9f767e9b014b1f0c2f55bf
@@ -872,6 +874,10 @@ ss/unit/chara_1_sword_m/skill_effect_13108.png
 ss/unit/chara_1_sword_m/5_nobunaga.png
 f2e1faa7a865d894208efb4d789a1105
 ss/unit/chara_1_sword_m/5_klein_15004.png
+71630cd87af6f3d599929f52b75edc02
+ss/unit/chara_1_sword_m/5_kirito_15007.png
+ac704c6091e533a9b78bc09b6ed67360
+ss/unit/chara_1_sword_m/5_kirito_15005.png
 603325149f564da6c92cff611d53e2e3
 ss/unit/chara_1_sword_m/5_eugeo_15003.png
 ffb263614a2e969545756ca7ab414213
@@ -2616,6 +2622,10 @@ b89c577c127e4177630ec143e49daba0
 images/event/8028/8028_top.png
 3f086aea0b6e7e5996d20674a155087d
 images/event/8028/8028_banner.png
+1d33db933e1117b3692bd2ad18d89433
+images/event/8027/8027_top.png
+9ef1266f4ff885346833472bc4af5197
+images/event/8027/8027_banner.png
 f3fdb3a6c5bc2fc126acb640886ba669
 images/event/8026/8026_top.png
 293a454fa28558c80c448774de1d2cd1
@@ -3632,6 +3642,8 @@ a72c95331daa493eee084dd87fdbe220
 images/character/party/party_154001.png
 4b478e06596912ec278170f0fe8f12a5
 images/character/party/party_153001.png
+f555757bf954d5db2088eb7346db38f4
+images/character/party/party_15007.png
 36100a8664258a4778cd9a30b8690c7b
 images/character/party/party_15004.png
 91229526b52b53a04abfe0c4e750df48
@@ -4262,6 +4274,8 @@ ffdb3677ec76501e0817285b4608e36a
 images/character/character_154001.png
 685e25d6611c6ace29a8998e0c3a8a6a
 images/character/character_153001.png
+0e704fb2c6b28e612fae53c422b7cb00
+images/character/character_15007.png
 de0d2b39ff8101127f268c5929f72051
 images/character/character_15004.png
 6f8dcdfa4175a8181a4d7a60d00eef5c
