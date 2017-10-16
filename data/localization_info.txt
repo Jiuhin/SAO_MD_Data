@@ -13,7 +13,7 @@ Joined this guild.
 You requested to join the guild.
 You are invited to a guild.
 You are followed.
-You took up the position.
+Took up a position.
 You've got a request to join your guild.
 Noticeboard has been updated.
 The position has been changed.

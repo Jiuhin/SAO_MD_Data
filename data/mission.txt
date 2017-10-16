@@ -12,8 +12,8 @@ Mission Challenge Day3 : Defeat 3 Kobold Lords at the Event Quest.
 Mission Challenge Day2 : Complete "The Kobold Lord Ep. (Int.)" with a Dagger user in party.
 1040003-1040004-1040005,3
 Mission Challenge Day1 : Defeat 3 Kobold Lords at the Event Quest
-NYCC Memorial Memorial Diamond Present!
-NYCC Memorial Memorial Character Present!
+NYCC Memorial! Memory Diamond Present!
+NYCC Memorial! Memorial Character Present!
 Korean Ver is Released! Memory Diamond Present!
 Korean Ver is Released! Special Character Present!
 4027010
@@ -143,7 +143,7 @@ Complete "Earth Dragon Strikes Back (Master +1)" with guild members in Multi und
 8027004,3,45
 Complete "Earth Dragon Strikes Back (Master)" with guild members in Multi under 45 seconds.
 8027003,3
-Complete "Earth Dragon Strikes Back (Master)" with guild members in Multi.
+Complete "Earth Dragon Strikes Back (EX)" with guild members in Multi.
 1140100-1140101-1140102-1140103-1140104-1140105-1140106-1140107-1140108-1140109,50
 Defeat 50 of the The Earth Wyrm in the guild. 
 8027004,3,45

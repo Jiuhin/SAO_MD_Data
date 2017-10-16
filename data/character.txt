@@ -11484,7 +11484,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_15007
-An ALO player. He's wearing a western cowboy costume. Would that be expressing his loner style?
+An SAO player. He's wearing a western cowboy costume. Would that be expressing his loner style?
 serif
 5_kirito_15007
 Kirito
