@@ -402,7 +402,7 @@ Twinkling Comet
 Pumpkin Bomb
 Trick or Treat
 Starburst Stream
-称号: 荒野に咲く花々
+Flowers in the Wilderness
 Arianrhod in the Past
 The Star's Call Opens the Door
 Treasure Master
@@ -3480,10 +3480,10 @@ Dark Medallion x5
 Dark Medallion x15
 Silverthread Armor R3
 Insane Armor R3
-ハデス・バレッタR3
-ハデス・バレッタR2
-ブラック・ソア・コートR3
-ブラック・ソア・コートR2
+Hades Hair Barrette R3
+Hades Hair Barrette R2
+Black Soaring Coat R3
+Black Soaring Coat R2
 Bat Earring R3
 Bat Earring R2
 Pumpkin Dress R3
@@ -5498,10 +5498,10 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
-ハデス・バレッタR3
-ハデス・バレッタR2
-ブラック・ソア・コートR3
-ブラック・ソア・コートR2
+Hades Hair Barrette R3
+Hades Hair Barrette R2
+Black Soaring Coat R3
+Black Soaring Coat R2
 Halloween Silver Medal x1
 Halloween Bronze Medal x1
 Halloween Upgrade Crystal x1

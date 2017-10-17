@@ -199,7 +199,7 @@ Increases skill dmg. 10%. of Dark-elem.
 Skill Damage +10% (Dark)
 Increases max HP and Atk. by 10%.
 HP & Atk. +10%
-Restores 10 MP per 5 seconds during standby.
+Restores 600 MP per 5 seconds during standby.
 Auto-Recover HP (Standby)
 Reduces damage from Earth-elem. enemies. (30%)
 Earth Resistance

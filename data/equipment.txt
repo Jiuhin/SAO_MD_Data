@@ -642,6 +642,10 @@ Leo Hastam +1 R5
 weapon09_0014
 Leo Hastam +1 R4
 weapon09_0014
+Winner's Spear R5
+weapon09_0013
+Winner's Spear R4
+weapon09_0013
 Island Spear R5
 weapon09_0012
 Island Spear R4
@@ -1202,6 +1206,10 @@ Carnwennan R5
 weapon04_0051
 Carnwennan R4
 weapon04_0051
+Champion Dagger R5
+weapon04_0049
+Champion Dagger R4
+weapon04_0049
 Chat Noir R5
 weapon04_0048
 Chat Noir R4
@@ -1380,6 +1388,10 @@ Dazzling Blink R5
 weapon03_0051
 Dazzling Blink R4
 weapon03_0051
+Victory Fleuret R5
+weapon03_0048
+Victory Fleuret R4
+weapon03_0048
 Machinery Sword R5
 weapon03_0047
 Machinery Sword R4
@@ -1693,6 +1705,10 @@ Akatsuki R5
 weapon01_0083
 Akatsuki R4
 weapon01_0083
+Glorious Blade R5
+weapon01_0082
+Glorious Blade R4
+weapon01_0082
 Pumpkin Blade R5
 weapon01_0081
 Pumpkin Blade R4

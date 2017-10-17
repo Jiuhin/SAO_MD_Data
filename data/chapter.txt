@@ -26,6 +26,10 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+Enormous Monsters
+Weekly Event
+温泉武具生成
+Equip Event
 The Raging Outcasts
 Weekly Event
 Sports Festival Equipment Creation
@@ -150,7 +154,7 @@ Twilight Castle in Akasha
 Event
 Shadowy castle in the night
 Event
-荒野に咲く花々
+Flowers in the Wilderness
 Event
 Sport Festival
 Event

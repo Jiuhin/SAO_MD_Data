@@ -3326,6 +3326,120 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 6
+The Mother-Daughter Bond Master +2
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 5
+The Mother-Daughter Bond Master +1
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 4
+The Mother-Daughter Bond Master
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 3
+The Mother-Daughter Bond EX
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 2
+The Mother-Daughter Bond Expert
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 1
+The Mother-Daughter Bond Intermediate
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+The Mother-Daughter Bond
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Reason of the Speed
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Surprise
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+How did it happen?
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Mock Cavalry Battle
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Emergency Strategy Meeting
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Cheerings
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Interim Report
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+A time like this
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Very Tiny Avatar
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Sprint in the VR World
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+The Big Fall Event : Sports Festival
 Enemy Lv: 120
 Better for: Dark
 DANGER!!
@@ -6162,7 +6276,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8013
 Quest 5
-異界の希望に星は巡る 絶級+1
+Stars Orbit the Hopes of Another World (Master +1)
 The Quest Boss of Jotunheimr,
 《Twin Kobold》appears.
 Did they steal the sacred treasure?
@@ -11809,6 +11923,120 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 6
+The Mother-Daughter Bond Master +2
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 5
+The Mother-Daughter Bond Master +1
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 4
+The Mother-Daughter Bond Master
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 3
+The Mother-Daughter Bond EX
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 2
+The Mother-Daughter Bond Expert
+Exhibition match
+Battle with [Sinon & Silica] 
+Mind the order of defeating them! 
+Beat up one first and block their tag attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 1
+The Mother-Daughter Bond Intermediate
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+The Mother-Daughter Bond
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Reason of the Speed
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Surprise
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+How did it happen?
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Mock Cavalry Battle
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Emergency Strategy Meeting
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Cheerings
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Interim Report
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+A time like this
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Very Tiny Avatar
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Sprint in the VR World
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+The Big Fall Event : Sports Festival
 Enemy Lv: 120
 Better for: Dark
 DANGER!!
@@ -14645,7 +14873,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8013
 Quest 5
-異界の希望に星は巡る 絶級+1
+Stars Orbit the Hopes of Another World (Master +1)
 The Quest Boss of Jotunheimr,
 《Twin Kobold》appears.
 Did they steal the sacred treasure?

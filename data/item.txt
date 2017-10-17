@@ -590,6 +590,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_emerald
+You can attain at the "Baton of Friendship! Sports Festival Scout"
+Baton of Friendship! Sports Festival
+item_m_record_crystal_emerald
 You can attain at the "Happy Halloween Night Scout"
 Happy Halloween Night Record Crystal
 item_m_record_crystal_emerald

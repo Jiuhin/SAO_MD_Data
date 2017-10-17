@@ -8,16 +8,16 @@ Character Story
 [Looking Back Beauty] Sinon Lv.30
 Character Story
 [Looking Back Beauty] Sinon Lv.10
-キャラクターストーリー
-【ネバー・ギブアップ】リズベット Lv.80
-キャラクターストーリー
-【ネバー・ギブアップ】リズベット Lv.70
-キャラクターストーリー
-【ネバー・ギブアップ】リズベット Lv.50
-キャラクターストーリー
-【ネバー・ギブアップ】リズベット Lv.30
-キャラクターストーリー
-【ネバー・ギブアップ】リズベット Lv.10
+Character Story
+[Never Give Up] Lisbeth Lv.80
+Character Story
+[Never Give Up] Lisbeth Lv.70
+Character Story
+[Never Give Up] Lisbeth Lv.50
+Character Story
+[Never Give Up] Lisbeth Lv.30
+Character Story
+[Never Give Up] Lisbeth Lv.10
 Character Story
 [Zinnia Melody] Seven Lv.80
 Character Story
@@ -528,16 +528,16 @@ Character Story
 [Autumn Leaf Bath Beauty] Silica Lv.30
 Character Story
 [Autumn Leaf Bath Beauty] Silica Lv.10
-キャラクターストーリー
-【いっとうしょうを目指して】ユイ Lv.80
-キャラクターストーリー
-【いっとうしょうを目指して】ユイ Lv.70
-キャラクターストーリー
-【いっとうしょうを目指して】ユイ Lv.50
-キャラクターストーリー
-【いっとうしょうを目指して】ユイ Lv.30
-キャラクターストーリー
-【いっとうしょうを目指して】ユイ Lv.10
+Character Story
+[Go for the Top] Yui Lv.80
+Character Story
+[Go for the Top] Yui Lv.70
+Character Story
+[Go for the Top] Yui Lv.50
+Character Story
+[Go for the Top] Yui Lv.30
+Character Story
+[Go for the Top] Yui Lv.10
 Character Story
 [Witchy Kitty] Silica Lv.80
 Character Story
@@ -758,16 +758,16 @@ Character Story
 [The Glossy Goddess] Asuna Lv.30
 Character Story
 [The Glossy Goddess] Asuna Lv.10
-キャラクターストーリー
-【華麗なるゴール】アスナ Lv.80
-キャラクターストーリー
-【華麗なるゴール】アスナ Lv.70
-キャラクターストーリー
-【華麗なるゴール】アスナ Lv.50
-キャラクターストーリー
-【華麗なるゴール】アスナ Lv.30
-キャラクターストーリー
-【華麗なるゴール】アスナ Lv.10
+Character Story
+[Reach the Finish Line] Asuna Lv.80
+Character Story
+[Reach the Finish Line] Asuna Lv.70
+Character Story
+[Reach the Finish Line] Asuna Lv.50
+Character Story
+[Reach the Finish Line] Asuna Lv.30
+Character Story
+[Reach the Finish Line] Asuna Lv.10
 Character Story
 [Sweet Monster] Leafa Lv.80
 Character Story
@@ -1078,16 +1078,16 @@ Character Story
 [Beauty in Secluded Hot Springs] Leafa Lv.30
 Character Story
 [Beauty in Secluded Hot Springs] Leafa Lv.10
-キャラクターストーリー
-【輝く汗と青春の光】リーファ Lv.80
-キャラクターストーリー
-【輝く汗と青春の光】リーファ Lv.70
-キャラクターストーリー
-【輝く汗と青春の光】リーファ Lv.50
-キャラクターストーリー
-【輝く汗と青春の光】リーファ Lv.30
-キャラクターストーリー
-【輝く汗と青春の光】リーファ Lv.10
+Character Story
+[Flush of Youth] Leafa Lv.80
+Character Story
+[Flush of Youth] Leafa Lv.70
+Character Story
+[Flush of Youth] Leafa Lv.50
+Character Story
+[Flush of Youth] Leafa Lv.30
+Character Story
+[Flush of Youth] Leafa Lv.10
 Character Story
 [Pumpkin Knight] Alice Lv.80
 Character Story

@@ -202,12 +202,12 @@ Battle Healing (HP) Lv. 1
 slot_skill_icon_parry_healing_mp
 Increases MP gain when attacked weak points.
 MP Recovery on Attack Weak Points Lv.1
-slot_skill_icon_reseve_healing_mp
-控えにいるとき5秒ごとにHPが1200回復する
-応急回復(HP) Lv2
-slot_skill_icon_reseve_healing_mp
-控えにいるとき5秒ごとにHPが600回復する
-応急回復(HP) Lv1
+slot_skill_icon_reseve_healing_hp
+Restores 1200 HP every 5 seconds during standby.
+Emergency Heal (HP) Lv.2
+slot_skill_icon_reseve_healing_hp
+Restores 600 HP every 5 seconds during standby.
+Emergency Heal (HP) Lv.1
 slot_skill_icon_def_fire_1
 Reduces damage from Fire-elem. enemies by 30%
 Fire Resistance Lv2
@@ -941,8 +941,8 @@ slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Reduces charge time and raises attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_bs_change
-バトルスキル3が変化して、攻撃力が20%増加する
-バトルスキル3変化 Lv1
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1

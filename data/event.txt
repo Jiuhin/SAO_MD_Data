@@ -375,6 +375,16 @@ images/event/4801/4801_banner.png
 images/event/4801/4801_banner.png
 Shadowy Castle in the Night
 Medal Scout
+images/event/4067/4067_top.png
+images/event/4067/4067_banner.png
+images/event/4067/4067_banner.png
+[Ended] The Mother-Daughter Bond
+Medal Scout
+images/event/4067/4067_top.png
+images/event/4067/4067_banner.png
+images/event/4067/4067_banner.png
+The Mother-Daughter Bond
+Medal Scout
 images/event/4066/4066_name.png
 images/event/4066/4066_banner.png
 images/event/4066/4066_banner.png
@@ -597,9 +607,9 @@ images/event/4035/4035_banner.png
 images/event/4035/4035_banner.png
 Longing for Sailor Suit
 images/event/4034/event_item_4034.png
-images/event/4034/4034_top.png
-images/event/4034/4034_banner.png
-images/event/4034/4034_banner.png
+images/event/4034_1/4034_top_1.png
+images/event/4034_1/4034_banner_1.png
+images/event/4034_1/4034_banner_1.png
 Stars Orbit the Hopes of Another World
 images/event/4032/4032_top.png
 images/event/4032/4032_banner.png

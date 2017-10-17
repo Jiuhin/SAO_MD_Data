@@ -1386,6 +1386,10 @@ Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
 skill_icon_dagger_3_{}
+A combination skill. Attack with a large rolling magic ball. Reduces enemies' defense.
+Odama Rolling
+Odama Rolling
+skill_icon_dagger_3_{}
 A combination skill. Jump on an enemy and scratch all over with nails with a cat coming out of nowhere. It restores your own HP.
 Cat Parade
 Cat Parade
@@ -1669,6 +1673,10 @@ skill_icon_dagger_1_{}
 Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
+skill_icon_finesword_3_{}
+A combination skill. Blow up by making a dash and attack. Reduces enemies' defense.
+Storm Dash Run
+Storm Dash Run
 skill_icon_finesword_3_{}
 A combination skill. After wrapping up an enemy in a bandage, move to the back of the enemy and unleash lightning. It restores your own HP.
 Replicant Spark
