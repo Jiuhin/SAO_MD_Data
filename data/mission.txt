@@ -122,6 +122,14 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+8028012
+Complete "The Raging Outcasts "Gullinkambi" (Outcast Class)"
+8028011
+Complete "The Raging Outcasts "Gullinkambi" (Master)"
+8028010
+Complete "The Raging Outcasts "Gullinkambi" (EX)"
+8028009
+Complete "The Raging Outcasts "Gullinkambi" (Expert)"
 8028008
 Complete "The Raging Outcasts "Guld the Ancient Ogre" (Outcast Class)"
 8028007
@@ -597,17 +605,17 @@ Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
 4067026,1,60
-Complete "The Mother-Daughter Bond Master +2" in under 1min.
+Complete "The Mother-Daughter Bond (Master +2)" in under 1min.
 4067025,1,60
-Complete "The Mother-Daughter Bond Master +1" in under 1min.
+Complete "The Mother-Daughter Bond (Master +1)" in under 1min.
 4067024,1,60
-Complete "The Mother-Daughter Bond Master" in under 1min.
+Complete "The Mother-Daughter Bond (Master)" in under 1min.
 406701,2000000
 Earn a score of 2,000,000 in The Mother-Daughter Bond
-406701,3250000
-Earn a score of 3,250,000 in The Mother-Daughter Bond
+406701,3000000
+Earn a score of 3,000,000 in The Mother-Daughter Bond
 4067025
-Complete "The Mother-Daughter Bond" Master+1
+Complete "The Mother-Daughter Bond (Master+1)"
 4067021
 Complete "The Mother-Daughter Bond"
 4066001+4066002+4066003+4066004+4066005+4066006+4066007+4066008+4066009+4066010+4066011+4066012+4066013,1,1
@@ -1006,12 +1014,12 @@ Complete "A witch to destroy Fairyland"
 Complete "Longing for Sailor Suit (Master)" in under 1 minute.
 4035024
 Complete "Longing for Sailor Suit (Master)" .
-4035025,2,50
-最大コンボ数50回以上で「異界の希望に星は巡る 絶級+1」をクリア
-4035025,2,45
-「異界の希望に星は巡る 絶級+1」を45秒未満でクリア
+4034025,2,50
+Complete "Stars Orbit the Hopes of Another World (Master +1)" with a 50-hit combo or higher.
+4034025,2,45
+Complete "Stars Orbit the Hopes of Another World (Master +1)" under 45 secs.
 4034025
-「異界の希望に星は巡る 絶級+1」クリア
+Complete "Stars Orbit the Hopes of Another World (Master +1)".
 4034024,2,60
 Complete "Stars Orbit the Hopes of Another World (Master)" under 1 minute.
 4034024

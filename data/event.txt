@@ -186,6 +186,10 @@ images/event/8028/8028_top.png
 images/event/8028/8028_banner.png
 images/event/8028/8028_banner.png
 The Raging Outcasts
+images/event/8028/8028_top.png
+images/event/8028/8028_banner.png
+images/event/8028/8028_banner.png
+The Raging Outcasts
 images/event/8027/8027_top.png
 images/event/8027/8027_banner.png
 images/event/8027/8027_banner.png

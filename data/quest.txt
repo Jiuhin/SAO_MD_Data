@@ -891,6 +891,26 @@ Quest 2017
 Asuna's Birthday Quest
 Defeat All Enemies
 Quest
+bg_thumbnail_8019
+Quest 12
+The Raging Outcasts "Gullinkambi" (Outcast Class)
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 11
+The Raging Outcasts "Gullinkambi" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 10
+The Raging Outcasts "Gullinkambi" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 9
+The Raging Outcasts "Gullinkambi" (Expert)
+Defeat All Enemies
+Quest
 bg_thumbnail_8030
 Quest 8
 The Raging Outcasts "Guld the Ancient Ogre" (Outcast Class)
@@ -1995,25 +2015,29 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
-Guild Event The Second Time
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 4
 The Order of the Immortal (Master +1)
-Guild Event The Second Time
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 3
 The Order of the Immortal (Master)
-Guild Event The Second Time
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 2
 The Order of the Immortal (EX)
-Guild Event The Second Time
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
@@ -3334,7 +3358,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 6
-The Mother-Daughter Bond Master +2
+The Mother-Daughter Bond (Master+2)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -3343,7 +3367,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 5
-The Mother-Daughter Bond Master +1
+The Mother-Daughter Bond (Master+1)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -3352,7 +3376,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 4
-The Mother-Daughter Bond Master
+The Mother-Daughter Bond (Master)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -3361,7 +3385,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 3
-The Mother-Daughter Bond EX
+The Mother-Daughter Bond (EX)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -3370,7 +3394,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 2
-The Mother-Daughter Bond Expert
+The Mother-Daughter Bond (Expert)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -3379,12 +3403,12 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 1
-The Mother-Daughter Bond Intermediate
+The Mother-Daughter Bond (Int.)
 Finish Story
 Story
 bg_thumbnail_0
 Story 12
-The Mother-Daughter Bond
+The Mother Daughter Bond
 Finish Story
 Story
 bg_thumbnail_0
@@ -9488,6 +9512,26 @@ Quest 2017
 Asuna's Birthday Quest
 Defeat All Enemies
 Quest
+bg_thumbnail_8019
+Quest 12
+The Raging Outcasts "Gullinkambi" (Outcast Class)
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 11
+The Raging Outcasts "Gullinkambi" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 10
+The Raging Outcasts "Gullinkambi" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 9
+The Raging Outcasts "Gullinkambi" (Expert)
+Defeat All Enemies
+Quest
 bg_thumbnail_8030
 Quest 8
 The Raging Outcasts "Guld the Ancient Ogre" (Outcast Class)
@@ -10592,25 +10636,29 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
-Guild Event The Second Time
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 4
 The Order of the Immortal (Master +1)
-Guild Event The Second Time
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 3
 The Order of the Immortal (Master)
-Guild Event The Second Time
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 2
 The Order of the Immortal (EX)
-Guild Event The Second Time
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
@@ -11931,7 +11979,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 6
-The Mother-Daughter Bond Master +2
+The Mother-Daughter Bond (Master+2)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -11940,7 +11988,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 5
-The Mother-Daughter Bond Master +1
+The Mother-Daughter Bond (Master+1)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -11949,7 +11997,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 4
-The Mother-Daughter Bond Master
+The Mother-Daughter Bond (Master)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -11958,7 +12006,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 3
-The Mother-Daughter Bond EX
+The Mother-Daughter Bond (EX)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -11967,7 +12015,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 2
-The Mother-Daughter Bond Expert
+The Mother-Daughter Bond (Expert)
 Exhibition match
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -11976,12 +12024,12 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8043
 Quest 1
-The Mother-Daughter Bond Intermediate
+The Mother-Daughter Bond (Int.)
 Finish Story
 Story
 bg_thumbnail_0
 Story 12
-The Mother-Daughter Bond
+The Mother Daughter Bond
 Finish Story
 Story
 bg_thumbnail_0

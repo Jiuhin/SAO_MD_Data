@@ -1,3 +1,5 @@
+ブレイクダメージ率が10%増加する
+ブレイクダメージ率+10%
 Increases 100 MP in the next guild event. (
 Plan to be updated in the next event)
 MP Recovery UP in Next Guild Event

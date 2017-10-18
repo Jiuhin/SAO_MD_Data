@@ -97027,7 +97027,7 @@ that lap nap, Mommy!
 850038_3_a
 Asuna
 850038_2_a
-bg_event_alo_sky
+bg_event_grounds
 I love you, Mommy!
 850038_1_a
 Mommy...
@@ -97122,7 +97122,7 @@ Asuna
 850037_3_a
 Asuna
 850037_2_a
-bg_event_alo_sky
+bg_event_grounds
 Well, we're going to head back to
 our team camps a little early.
 Kirito
@@ -97213,7 +97213,7 @@ Agil
 850035_3_a
 Leafa
 850035_2_a
-bg_event_alo_sky
+bg_event_grounds
 Try some of this too, Yui!
 Yuuki
 850035_1_a
@@ -97319,7 +97319,7 @@ Sinon
 Asuna
 850033_3_a
 850033_2_a
-bg_event_alo_sky
+bg_event_grounds
 Whoaaa, this egg is something
 else!
 Kirito
@@ -97395,7 +97395,7 @@ Announcer
 Asuna
 850031_3_a
 850031_2_a
-bg_event_alo_sky
+bg_event_grounds
 Alright, everyone. Time for a
 one hour break.
 Announcer
@@ -110487,7 +110487,7 @@ We brought everyone something
 nice and cold to drink!
 650048_3_a
 650048_2_a
-bg_event_alo_sky
+bg_event_grounds
 Sorry to keep you waiting, guys!
 Asuna
 650048_1_a
@@ -110574,7 +110574,7 @@ Asuna
 650047_3_a
 Asuna
 650047_2_a
-bg_event_alo_sky
+bg_event_grounds
 Mommy, are you sure that was the
 right thing to do?
 650047_1_a
@@ -110675,7 +110675,7 @@ Asuna
 650045_3_a
 Asuna
 650045_2_a
-bg_event_alo_sky
+bg_event_grounds
 Ahh, I see, I see...
 So that's how ya got it.
 Argo
@@ -110752,7 +110752,7 @@ Asuna
 650043_3_a
 Asuna
 650043_2_a
-bg_event_alo_sky
+bg_event_grounds
 Asu!! Nice to see ya!
 Argo
 650043_1_a
@@ -110812,7 +110812,7 @@ Red Team Player
 650041_3_a
 Asuna
 650041_2_a
-bg_event_alo_sky
+bg_event_grounds
 Your Cheer skill really helped
 us out, Asuna!
 Red Team Player

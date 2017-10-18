@@ -49,7 +49,7 @@ Monkey Tribe
 Planned Site 
 Lack of Charm
 City Development
-The Mother-Daughter Bond
+The Mother Daughter Bond
 Reason of the Speed
 Surprise
 How did it happen?
@@ -598,16 +598,16 @@ Steamy Beauty Bath Time Record Crystal x4
 Steamy Beauty Bath Time Record Crystal x3
 Steamy Beauty Bath Time Record Crystal x2
 Steamy Beauty Bath Time Record Crystal x1
-Baton of Friendship! Sports Festival x10
-Baton of Friendship! Sports Festival x9
-Baton of Friendship! Sports Festival x8
-Baton of Friendship! Sports Festival x7
-Baton of Friendship! Sports Festival x6
-Baton of Friendship! Sports Festival x5
-Baton of Friendship! Sports Festival x4
-Baton of Friendship! Sports Festival x3
-Baton of Friendship! Sports Festival x2
-Baton of Friendship! Sports Festival x1
+Sports Festival Record Crystal x10
+Sports Festival Record Crystal x9
+Sports Festival Record Crystal x8
+Sports Festival Record Crystal x7
+Sports Festival Record Crystal x6
+Sports Festival Record Crystal x5
+Sports Festival Record Crystal x4
+Sports Festival Record Crystal x3
+Sports Festival Record Crystal x2
+Sports Festival Record Crystal x1
 Happy Halloween Night Record Crystal x10
 Happy Halloween Night Record Crystal x9
 Happy Halloween Night Record Crystal x8
@@ -1363,7 +1363,7 @@ Defense Shard x20
 Attack Shard x20
 MP Shard x20
 HP Shard x20
-Assault Team: Assault! Sports Festival (Top 50)
+Assault Team: Sports Festival (Top 100)
 EXP Hi-Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -1372,14 +1372,14 @@ Attack Shard x20
 MP Shard x20
 HP Shard x20
 Memory Diamond x5
-称号: 運動会の攻略組 Top 50
+Assault Team: Sports Festival (Top 50)
 EXP Hi-Potion x5
 Col x30000
 Memory Diamond x5
 Halloween Bronze Medal x5
 Halloween Silver Medal x5
 Halloween Gold Medal x1
-Assault Team: Assault! Sports Festival (Top 20)
+Assault Team: Sports Festival (Top 20)
 EXP X-Potion x5
 Col x50000
 Memory Diamond x5
@@ -1387,7 +1387,7 @@ Halloween Upgrade Crystal x1
 Halloween Bronze Medal x10
 Halloween Silver Medal x5
 Halloween Gold Medal x3
-Assault Team: Assault! Sports Festival (Top 10)
+Assault Team: Sports Festival (Top 10)
 EXP X-Potion x5
 Col x100000
 Memory Diamond x5
@@ -1395,7 +1395,7 @@ Halloween Upgrade Crystal x2
 Halloween Bronze Medal x10
 Halloween Silver Medal x5
 Halloween Gold Medal x6
-Assault Team: Assault! Sports Festival (3rd)
+Assault Team: Sports Festival (3rd)
 Rainbow Essence x1
 EXP X-Potion x5
 Col x200000
@@ -1404,7 +1404,7 @@ Halloween Upgrade Crystal x3
 Halloween Bronze Medal x10
 Halloween Silver Medal x10
 Halloween Gold Medal x10
-Assault Team: Assault! Sports Festival (2nd)
+Assault Team: Sports Festival (2nd)
 Rainbow Essence x1
 EXP X-Potion x5
 Col x300000
@@ -1413,7 +1413,7 @@ Halloween Upgrade Crystal x3
 Halloween Bronze Medal x10
 Halloween Silver Medal x10
 Halloween Gold Medal x12
-Assault Team: Assault! Sports Festival (1st)  
+Assault Team: Sports Festival (1st)  
 Rainbow Essence x2
 EXP X-Potion x5
 Col x500000
@@ -3324,6 +3324,14 @@ Col x6120
 Col x4012
 Col x2030
 Col x301
+Hot Spring Headband R3
+Hot Spring Headband R2
+Hot Spring Bathtowel R3
+Hot Spring Bathtowel R2
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 Sundust (Small) x10
 Sundust (Small) x50
 Sundust (Small) x48
@@ -3622,6 +3630,8 @@ Girl's Treats x6
 Girl's Treats (Favorite) x1
 Girl's Treats x10
 Girl's Treats x3
+Hot Spring Headband R3
+Hot Spring Bathtowel R3
 Team-up Headband R3
 Gym Clothes in Youth R3
 Wolf Coat R3
@@ -5105,6 +5115,14 @@ Woodland Tabard R3
 Blazing Necklace R2
 Topaz Earring R2
 Hoarfrost R2
+Lv. 80 Carnival Key x1
+Lv. 70 Carnival Key x1
+Lv. 60 Carnival Key x1
+Lv. 50 Carnival Key x1
+Lv. 40 Carnival Key x1
+Lv. 30 Carnival Key x1
+Lv. 20 Carnival Key x1
+Lv. 10 Carnival Key x1
 Jubilee Hacking Shard x10
 Holy Jubilee Crystal x10
 Jubilee Crystal x20
@@ -7639,6 +7657,7 @@ Memory Diamond x2
 Memory Diamond x2
 Memory Diamond x2
 Memory Diamond x1
+Memory Diamond x25
 Memory Diamond x25
 1st Anniversary Record Crystal x10
 Holy Skill Crystal x50

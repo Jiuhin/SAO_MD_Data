@@ -1358,6 +1358,8 @@ c12d47a210791d85746b48f8dcd930bd
 ss/unit/chara_10_mace_w/skill_effect_mace_2.png
 e25a0c90abaefdace4b6cb7bfde174bf
 ss/unit/chara_10_mace_w/skill_effect_mace_1.png
+6c44c566f6c894b875bb9143d963b2dc
+ss/unit/chara_10_mace_w/skill_effect_104104.png
 5a1764903b4e3462b500da33429c3abd
 ss/unit/chara_10_mace_w/skill_effect_104102.png
 312967141540f3692b7dacf78d1916ed
@@ -1862,7 +1864,7 @@ dca7431723dd301475a11e2d504acc5f
 images/lottery/046/20461_scout_top_s.png
 c95c2dead94c7ad628e7b86274c495a1
 images/lottery/046/20461_scout_banner.png
-ca8becec626d85e5fdbc09af03dbd898
+1901a07dae62b7a671f36a8a291ce271
 images/lottery/046/10461_weapon_top_s.png
 e98dfccd65c1057c45f1f88eb9795390
 images/lottery/046/10461_weapon_banner.png

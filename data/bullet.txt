@@ -290,6 +290,8 @@ dead
 bullet_7001_dement_shot
 dead
 bullet_6053_coffin
+dead
+bullet_6051_light_fire_wall
 wait
 dead
 appear
@@ -1879,6 +1881,10 @@ dead
 bullet_1074_dragon_go_straight
 dead
 bullet_1073_final_rain
+wait
+bullet_1072_transfixion
+wait
+bullet_1072_transfixion
 wait
 bullet_1072_transfixion
 wait

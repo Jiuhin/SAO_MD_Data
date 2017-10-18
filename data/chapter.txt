@@ -28,7 +28,7 @@ Bonus Quest
 Present
 Enormous Monsters
 Weekly Event
-温泉武具生成
+Hot Spring Equipment Creation
 Equip Event
 The Raging Outcasts
 Weekly Event
@@ -128,7 +128,7 @@ Chara Event
 Chara Event
 [Black Swordsman] Kirito Ep.
 Chara Event
-ブレイクバトルテスト
+Break Battle Test
 Test Event
 Challenge Bosses with Guild Members
 Test Event

@@ -484,7 +484,7 @@ wakeup
 wait
 stun
 step
-zD2N
+zD.N
 skill_16310101
 skill_163101
 skill_161201
@@ -501,7 +501,6 @@ dead
 dash
 damage
 charge_old
-"D.e
 charge
 back_step
 attack_3
@@ -1851,8 +1850,9 @@ down
 dead
 dash
 damage
-"D>0
+"D:0
 charge_old
+"D&2
 charge
 back_step
 attack_3
@@ -2550,7 +2550,6 @@ wakeup
 wait
 stun
 step
-zD"k
 skill_16310101
 skill_163101
 skill_161201
@@ -4116,7 +4115,7 @@ wakeup
 wait
 stun
 step
-zD2D
+zD.D
 skill_104101
 skill_102201
 skill_101101
@@ -4159,7 +4158,7 @@ wakeup
 wait
 stun
 step
-zDBj
+zD>j
 skill_104102
 skill_102201
 skill_101101
@@ -4623,7 +4622,7 @@ wakeup
 wait
 stun
 step
-zCN,
+zCJ,
 skill_103115
 skill_101201
 skill_101101
@@ -7691,7 +7690,6 @@ wakeup
 wait
 stun
 step
-/D.T
 skill_63131
 skill_62101
 skill_61201
@@ -9337,6 +9335,7 @@ wakeup
 wait
 stun
 step
+HD&P
 skill_33108
 skill_32202
 skill_31201

@@ -140,7 +140,7 @@ effect_roar_01
 effect_hit_physical_shield_01
 effect_hit_magical_shield_01
 effect_target_sign_02
-effect_target_sign_01
+effect_target_sign_03
 effect_target_sign_01
 effect_windpressure_01
 effect_windpressure_01
