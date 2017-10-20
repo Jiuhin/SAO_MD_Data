@@ -130,6 +130,7 @@ face_1
 weapon_axe
 enemy_210_the_skull_rhinoceros
 enemy_210_the_skull_rhinoceros
+the_dark_dullahan_effect
 weapon_effect
 sward_the_dark_dullahan2
 enemy_209_the_dark_dullahan
@@ -175,6 +176,7 @@ head
 enemy_202_goblin_boss_weapon_club
 enemy_202_goblin_boss_body
 enemy_202_goblin_boss
+the_berserk_wolf_effect
 weapon_effect
 enemy_201_the_berserk_wolf
 head

@@ -27,6 +27,7 @@ L>e3
 L>e3
 L>e3
 L>e3
+L>e3
 L>f3
 L>f3
 L>f3
@@ -155,8 +156,6 @@ ff&?
 L?d3
 >ff&?d3
 >ff&?
-L>d3
-L>d3
 L>d3
 L>d3
 u>d3

@@ -197,10 +197,16 @@ Greatly increases max HP & guard durability.
 HP & Guard Durability Up
 Increases Non-elem. character's max HP and MP by 3%.
 Max HP/MP +3% (Non-elem.)
+次回ギルドイベントにてパーティの攻撃が5%増加する 
+次回ギルドイベントでATK UP!
+次回ギルドイベントにてパーティの攻撃が10%増加する 
+次回ギルドイベントでATK UP!
 Increases skill dmg. 10%. of Dark-elem.
 Skill Damage +10% (Dark)
 Increases max HP and Atk. by 10%.
 HP & Atk. +10%
+Restores 1200 MP per 5 seconds during standby.
+Auto-Recover HP (Standby)
 Restores 600 MP per 5 seconds during standby.
 Auto-Recover HP (Standby)
 Reduces damage from Earth-elem. enemies. (30%)

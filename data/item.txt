@@ -621,6 +621,7 @@ Upgrades characters
 Rarity: High
 Halloween Upgrade Crystal
 item_m_evolution_20002
+reward_item_evolution
 Upgrades characters
 Rarity: High
 Upgrade Crystal

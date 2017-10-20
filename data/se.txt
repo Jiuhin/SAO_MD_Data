@@ -1,3 +1,4 @@
+se_scenario_machine_start
 se_scenario_sword
 se_scenario_wave_sound
 se_scenario_river_sound
@@ -56,6 +57,7 @@ se_enemy_griffin_appear
 se_enemy_kagachi_dead
 se_enemy_kagachi_damage
 se_enemy_kagachi_appear
+se_action_queens_handling
 se_action_scary_magic_out
 se_action_shining
 se_action_fall_down

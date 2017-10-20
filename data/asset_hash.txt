@@ -846,8 +846,6 @@ dcd2c003764c6052bda2b143d15c2b64
 ss/unit/chara_1_sword_m/skill_effect_14115.png
 23c34008b9a2242d47fa9ecc15576d5b
 ss/unit/chara_1_sword_m/skill_effect_14114.png
-7b806bbb7be739375da70b71fb6795e2
-ss/unit/chara_1_sword_m/skill_effect_14113.png
 f9c4885b245b5d34087ae8660bcdf0f7
 ss/unit/chara_1_sword_m/skill_effect_14112.png
 75f41449445eee434a605a347b3fd522

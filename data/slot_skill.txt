@@ -77,6 +77,9 @@ slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
 slot_skill_icon_combo_time
+コンボが継続する時間が5秒増加する
+コンボ持続時間増加 Lv2
+slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
 slot_skill_icon_combo_time

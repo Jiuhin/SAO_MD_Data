@@ -588,6 +588,15 @@ Summer Ticket x20
 Summer Ticket x15
 Summer Ticket x10
 SD Gold Medal x1
+a1V6
+Upgrade Crystal x5
+Upgrade Crystal x5
+Upgrade Crystal x4
+50V6
+Upgrade Crystal x3
+Upgrade Crystal x2
+m/V6
+Upgrade Crystal x1
 Steamy Beauty Bath Time Record Crystal x10
 Steamy Beauty Bath Time Record Crystal x9
 Steamy Beauty Bath Time Record Crystal x8
@@ -872,6 +881,78 @@ Memory Diamond x5
 Bronze Medal x10
 Silver Medal x10
 Gold Medal x6
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+EXP Hi-Potion x5
+Col x30000
+Memory Diamond x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+EXP Hi-Potion x5
+Col x50000
+Memory Diamond x10
+The Order of the Immortal Participated Guild
+EXP X-Potion x5
+Rainbow Essence x1
+Col x100000
+Memory Diamond x15
+Memory Fragment x2
+The Order of the Immortal Participated Guild
+EXP X-Potion x5
+Rainbow Essence x1
+Col x100000
+Memory Diamond x20
+Memory Fragment x4
+The Order of the Immortal Participated Guild
+EXP X-Potion x5
+Rainbow Essence x1
+Col x100000
+Memory Diamond x25
+Memory Fragment x6
+The Order of the Immortal Assault Team
+EXP X-Potion x5
+Rainbow Essence x2
+Col x200000
+Memory Diamond x30
+Memory Fragment x8
+The Order of the Immortal Assault Team
+EXP X-Potion x5
+Rainbow Essence x2
+Col x300000
+Memory Diamond x40
+Memory Fragment x8
+The Order of the Immortal Assault Team
+EXP X-Potion x5
+Rainbow Essence x2
+Col x300000
+Memory Diamond x50
+Memory Fragment x10
+The Order of the Immortal No.3 Guild
+EXP X-Potion x5
+Rainbow Essence x2
+Col x500000
+Memory Diamond x50
+Memory Fragment x10
+The Order of the Immortal No.2 Guild
+EXP X-Potion x5
+Rainbow Essence x2
+Col x500000
+Memory Diamond x50
+Memory Fragment x10
+The Order of the Immortal No.1 Guild
+EXP X-Potion x5
+Rainbow Essence x2
+Col x500000
+Memory Diamond x50
+Memory Fragment x10
 Skill Shard x20
 Critical Shard x20
 Defense Shard x20
@@ -1561,7 +1642,7 @@ Col x30000
 Memory Diamond x5
 Colored Leaf Bronze Medal x5
 Colored Leaf  Silver Medal x5
-Colored Leaf  Gold Medal x1
+Colored Leaf  Gold Medal x2
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 20)
 EXP X-Potion x5
@@ -1570,7 +1651,7 @@ Memory Diamond x5
 Halloween Upgrade Crystal x1
 Colored Leaf Bronze Medal x10
 Colored Leaf  Silver Medal x5
-Colored Leaf  Gold Medal x3
+Colored Leaf  Gold Medal x4
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 10)
 EXP X-Potion x5
@@ -1589,7 +1670,7 @@ Memory Diamond x5
 Halloween Upgrade Crystal x3
 Colored Leaf Bronze Medal x10
 Colored Leaf  Silver Medal x10
-Colored Leaf  Gold Medal x10
+Colored Leaf  Gold Medal x11
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (2nd)
 Rainbow Essence x1
@@ -1599,7 +1680,7 @@ Memory Diamond x5
 Halloween Upgrade Crystal x3
 Colored Leaf Bronze Medal x10
 Colored Leaf  Silver Medal x10
-Colored Leaf  Gold Medal x12
+Colored Leaf  Gold Medal x13
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (1st)
 Rainbow Essence x2
@@ -1609,7 +1690,7 @@ Memory Diamond x5
 Halloween Upgrade Crystal x4
 Colored Leaf Bronze Medal x10
 Colored Leaf  Silver Medal x10
-Colored Leaf  Gold Medal x15
+Colored Leaf  Gold Medal x16
 Assault Team: Assault! The Revenant (Top 100)
 Skill Shard x20
 Critical Shard x20
