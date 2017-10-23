@@ -183,6 +183,13 @@ head
 weapon
 enemy_201_the_berserk_wolf
 enemy_201_the_berserk_wolf
+the_berserk_wolf_effect
+weapon_effect
+enemy_201_the_berserk_wolf
+head
+weapon
+enemy_201_the_berserk_wolf
+enemy_201_the_berserk_wolf
 enemy_150_oberon_sword
 head
 weapon
@@ -220,7 +227,7 @@ weapon
 enemy_144_slime
 enemy_144_slime
 enemy_133_the_toxic_rhinoceros
-head
+shoulder_l
 weapon
 enemy_133_the_toxic_rhinoceros
 enemy_133_the_toxic_rhinoceros

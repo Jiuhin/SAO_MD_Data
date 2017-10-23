@@ -43,6 +43,7 @@ images/event/9002/9002_banner_2017.png
 images/event/8028/8028_banner.png
 images/event/8028/8028_banner.png
 images/event/8028/8028_banner.png
+images/event/8028/8028_banner.png
 images/event/8027/8027_banner.png
 images/event/8026/8026_banner.png
 images/event/8025/8025_banner.png
@@ -160,6 +161,7 @@ images/lottery/602/26021_scout_banner.png
 images/lottery/601/26011_scout_banner.png
 images/lottery/501/25011_scout_banner.png
 images/lottery/500/25001_scout_banner.png
+images/lottery/050/20501_scout_banner.png
 images/lottery/048/20481_scout_banner.png
 images/lottery/046/20463_scout_banner.png
 images/lottery/046/20462_scout_banner.png

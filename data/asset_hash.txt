@@ -1838,6 +1838,10 @@ images/lottery/500/15001_weapon_banner.png
 images/lottery/200/12001_weapon_top_s.png
 34343c96e7834b5b233a580d1a280e34
 images/lottery/200/12001_scout_top_s.png
+95beed21eaf6ddf7b6d28aa24672f8a6
+images/lottery/050/20501_scout_top_s.png
+3fd6869fb74a119ea7344962ecb741b0
+images/lottery/050/20501_scout_banner.png
 95477a9f512227b5fab255320d5a06b1
 images/lottery/048/20481_scout_top_s.png
 bd54c47eef8c576ae52ec4d2353cfb7f
@@ -3688,6 +3692,8 @@ images/character/party/party_154001.png
 images/character/party/party_153001.png
 f555757bf954d5db2088eb7346db38f4
 images/character/party/party_15007.png
+e861f3d85330b2e8eb3c2641353838f8
+images/character/party/party_15005.png
 36100a8664258a4778cd9a30b8690c7b
 images/character/party/party_15004.png
 91229526b52b53a04abfe0c4e750df48
@@ -4328,6 +4334,8 @@ images/character/character_154001.png
 images/character/character_153001.png
 0e704fb2c6b28e612fae53c422b7cb00
 images/character/character_15007.png
+3598973f7fdf955254e6f13a4b1f3ce8
+images/character/character_15005.png
 de0d2b39ff8101127f268c5929f72051
 images/character/character_15004.png
 6f8dcdfa4175a8181a4d7a60d00eef5c

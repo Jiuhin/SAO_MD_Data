@@ -891,6 +891,26 @@ Quest 2017
 Asuna's Birthday Quest
 Defeat All Enemies
 Quest
+bg_thumbnail_8010
+Quest 16
+The Raging Outcasts "Watermelon Devil" (Outcast Class)
+Defeat All Enemies
+Quest
+bg_thumbnail_8010
+Quest 15
+The Raging Outcasts "Watermelon Devil" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_8010
+Quest 14
+The Raging Outcasts "Watermelon Devil" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_8010
+Quest 13
+The Raging Outcasts "Watermelon Devil" (Expert)
+Defeat All Enemies
+Quest
 bg_thumbnail_8019
 Quest 12
 The Raging Outcasts "Gullinkambi" (Outcast Class)
@@ -9510,6 +9530,26 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_8010
+Quest 16
+The Raging Outcasts "Watermelon Devil" (Outcast Class)
+Defeat All Enemies
+Quest
+bg_thumbnail_8010
+Quest 15
+The Raging Outcasts "Watermelon Devil" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_8010
+Quest 14
+The Raging Outcasts "Watermelon Devil" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_8010
+Quest 13
+The Raging Outcasts "Watermelon Devil" (Expert)
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
