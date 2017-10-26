@@ -2035,29 +2035,65 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
+不死の身体を持つドミナント・デュラハン
+一定ダメージを与え、倒れた隙に
+weak pointの背中にスキルを叩き込め!!
+タイムアップまで生存
+Quest
+bg_thumbnail_8006
+Quest 8
+結集せし不死騎士団 絶級+1 (闇)
+不死の身体を持つドミナント・デュラハン
+一定ダメージを与え、倒れた隙に
+weak pointの背中にスキルを叩き込め!!
+タイムアップまで生存
+Quest
+bg_thumbnail_8006
+Quest 7
+結集せし不死騎士団 絶級 (闇)
+不死の身体を持つドミナント・デュラハン
+一定ダメージを与え、倒れた隙に
+weak pointの背中にスキルを叩き込め!!
+タイムアップまで生存
+Quest
+bg_thumbnail_8006
+Quest 6
+結集せし不死騎士団 超級 (闇)
+不死の身体を持つドミナント・デュラハン
+一定ダメージを与え、倒れた隙に
+weak pointの背中にスキルを叩き込め!!
+タイムアップまで生存
+Quest
+bg_thumbnail_8006
+Quest 5
+結集せし不死騎士団 上級 (闇)
 Dominant Dullahan the immortal. 
-Deal a lot of damage and attack their back as they fall over! 
+Deal a lot of damage and attack
+their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 4
 The Order of the Immortal (Master +1)
 Dominant Dullahan the immortal. 
-Deal a lot of damage and attack their back as they fall over! 
+Deal a lot of damage and attack
+their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 3
 The Order of the Immortal (Master)
 Dominant Dullahan the immortal. 
-Deal a lot of damage and attack their back as they fall over! 
+Deal a lot of damage and attack
+their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 2
 The Order of the Immortal (EX)
 Dominant Dullahan the immortal. 
-Deal a lot of damage and attack their back as they fall over! 
+Deal a lot of damage and attack
+their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
@@ -7156,6 +7192,24 @@ Story
 bg_thumbnail_0
 Story 1
 The Witch's Broomstick
+At long last, you've made it inside the
+World Tree. Its countless Guardians launch
+ferocious attacks against you. Dodge them
+and continue the Grand Quest!
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Quest 15
+Guardian Rush (Expert +1)
+At long last, you've made it inside the
+World Tree. Its countless Guardians launch
+ferocious attacks against you. Dodge them
+and continue the Grand Quest!
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Quest 14
+Guardian Rush (Expert)
 At long last, you've made it inside the
 World Tree. Its countless Guardians launch
 ferocious attacks against you. Dodge them
@@ -10676,29 +10730,65 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
+不死の身体を持つドミナント・デュラハン
+一定ダメージを与え、倒れた隙に
+weak pointの背中にスキルを叩き込め!!
+タイムアップまで生存
+Quest
+bg_thumbnail_8006
+Quest 8
+結集せし不死騎士団 絶級+1 (闇)
+不死の身体を持つドミナント・デュラハン
+一定ダメージを与え、倒れた隙に
+weak pointの背中にスキルを叩き込め!!
+タイムアップまで生存
+Quest
+bg_thumbnail_8006
+Quest 7
+結集せし不死騎士団 絶級 (闇)
+不死の身体を持つドミナント・デュラハン
+一定ダメージを与え、倒れた隙に
+weak pointの背中にスキルを叩き込め!!
+タイムアップまで生存
+Quest
+bg_thumbnail_8006
+Quest 6
+結集せし不死騎士団 超級 (闇)
+不死の身体を持つドミナント・デュラハン
+一定ダメージを与え、倒れた隙に
+weak pointの背中にスキルを叩き込め!!
+タイムアップまで生存
+Quest
+bg_thumbnail_8006
+Quest 5
+結集せし不死騎士団 上級 (闇)
 Dominant Dullahan the immortal. 
-Deal a lot of damage and attack their back as they fall over! 
+Deal a lot of damage and attack
+their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 4
 The Order of the Immortal (Master +1)
 Dominant Dullahan the immortal. 
-Deal a lot of damage and attack their back as they fall over! 
+Deal a lot of damage and attack
+their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 3
 The Order of the Immortal (Master)
 Dominant Dullahan the immortal. 
-Deal a lot of damage and attack their back as they fall over! 
+Deal a lot of damage and attack
+their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 2
 The Order of the Immortal (EX)
 Dominant Dullahan the immortal. 
-Deal a lot of damage and attack their back as they fall over! 
+Deal a lot of damage and attack
+their back as they fall over! 
 Survive until the end of time
 Quest
 bg_thumbnail_8006
@@ -15797,6 +15887,24 @@ Story
 bg_thumbnail_0
 Story 1
 The Witch's Broomstick
+At long last, you've made it inside the
+World Tree. Its countless Guardians launch
+ferocious attacks against you. Dodge them
+and continue the Grand Quest!
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Quest 15
+Guardian Rush (Expert +1)
+At long last, you've made it inside the
+World Tree. Its countless Guardians launch
+ferocious attacks against you. Dodge them
+and continue the Grand Quest!
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Quest 14
+Guardian Rush (Expert)
 At long last, you've made it inside the
 World Tree. Its countless Guardians launch
 ferocious attacks against you. Dodge them

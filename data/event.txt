@@ -358,6 +358,14 @@ images/event/7001/7001_top.png
 images/event/7001/7001_banner.png
 images/event/7001/7001_banner.png
 [Black Swordsman] Kirito
+images/event/4902/4902_top.png
+images/event/4902/4902_banner.png
+images/event/4902/4902_banner.png
+[Ended] The Order of the Immortal
+images/event/4902/4902_top.png
+images/event/4902/4902_banner.png
+images/event/4902/4902_banner.png
+The Order of the Immortal
 images/event/4901/4901_top.png
 images/event/4901/4901_banner.png
 images/event/4901/4901_banner.png

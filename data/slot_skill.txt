@@ -28,6 +28,12 @@ Skill Damage Up (vs. Holy) Lv. 2
 slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Holy-elem. enemies.
 Skill Damage Up (vs. Holy) Lv. 1
+slot_skill_icon_skill_damage
+Increases critical damage by 10% vs Non-elem. enemies.
+Critical Damage Up (vs. Non-elem.) Lv. 2
+slot_skill_icon_skill_damage
+Increases critical damage by 5% vs Non-elem. enemies.
+Critical Damage Up (vs. Non-elem.) Lv. 1
 slot_skill_icon_def_wind_1
 Reduces damage from Wind-elem. enemies by 30%
 Wind Resistance Lv2
@@ -77,8 +83,8 @@ slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
 slot_skill_icon_combo_time
-コンボが継続する時間が5秒増加する
-コンボ持続時間増加 Lv2
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1

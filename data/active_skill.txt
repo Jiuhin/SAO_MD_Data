@@ -2537,8 +2537,8 @@ Beater the Kid
 Beater the Kid
 skill_icon_sword_3_{}
 A combination skill. After recovering from damage, attack an enemy with a swift thrust and radiate holy light. Likely to stun an enemy.
-Ideal Mariage
-Ideal Mariage
+Ideal Marriage
+Ideal Marriage
 skill_icon_sword_3_{}
 Freeze an enemy by "Blue Rose Sword" and shatter the ice into pieces when you hold the sword and aim at the enemy.
 Release Recollection

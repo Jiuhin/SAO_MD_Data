@@ -1,21 +1,27 @@
 images/battle/cutin/battle_cutin_65005.png
-Instead of your current team,
-Let's switch to a new party.
+Switch to a new party!
+The boss is powerful with
+Fire-Element&Wind-Element!
 images/battle/cutin/battle_cutin_65005.png
-Instead of your current team,
-Let's switch to a new party.
+Switch to a new party!
+The boss is powerful with
+Fire-Element&Wind-Element!
 images/battle/cutin/battle_cutin_65005.png
-Instead of your current team,
-Let's switch to a new party.
+Switch to a new party!
+The boss is powerful with
+Fire-Element&Wind-Element!
 images/battle/cutin/battle_cutin_65005.png
-Instead of your current team,
-Let's switch to a new party.
+Switch to a new party!
+The boss is powerful with
+Fire-Element&Wind-Element!
 images/battle/cutin/battle_cutin_65005.png
-Instead of your current team,
-Let's switch to a new party.
+Switch to a new party!
+The boss is powerful with
+Fire-Element&Wind-Element!
 images/battle/cutin/battle_cutin_65005.png
-Instead of your current team,
-Let's switch to a new party.
+Switch to a new party!
+The boss is powerful with
+Fire-Element&Wind-Element!
 images/battle/cutin/battle_cutin_65002.png
 Your current team is exhausted!
 Let's switch to a new party!

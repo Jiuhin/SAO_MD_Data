@@ -16,6 +16,7 @@ effect_eyes_flash_b_s
 effect_eyes_flash_b_s
 effect_eyes_flash_s
 effect_eyes_flash_s
+effect_gun_firing
 effect_warp_steam
 effect_warp_hole_wind
 effect_warp_jump_01

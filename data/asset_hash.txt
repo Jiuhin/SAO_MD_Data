@@ -1076,6 +1076,8 @@ ss/unit/chara_16_rod_w/weapon08_0009.png
 ss/unit/chara_16_rod_w/weapon08_0001.png
 46113d9542dc4c9a038d79d156fbdeaa
 ss/unit/chara_16_rod_w/wand_sample.png
+9a9f02e4b272455f2e48edc54d2010ba
+ss/unit/chara_16_rod_w/skill_effect_164102.png
 5e3d114b8d165cb9e5671a2e0de81936
 ss/unit/chara_16_rod_w/skill_effect_164101.png
 940f28c2013952a8faa92257e1f2a98d
@@ -2886,6 +2888,10 @@ d021f4e687b8fc37d9ecaca4b2b4e94e
 images/event/7001/7001_top.png
 cea2816fab650d7bc33e483796f3227b
 images/event/7001/7001_banner.png
+42a6392f0d67e89fa95361c116c2d653
+images/event/4902/4902_top.png
+893bcc138a02b2a286a4512c53ed82e1
+images/event/4902/4902_banner.png
 3e6a2cfeaef8ad2a5ff49205dda97af8
 images/event/4901/4901_top.png
 c5f9a6d2391f74d0f66e260adef7ae89

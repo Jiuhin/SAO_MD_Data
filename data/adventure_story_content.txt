@@ -5138,1370 +5138,1773 @@ Eugeo
 bg_event_alo_sky_night
 Alice
 406400101_1_a
-おーっ!!
+Woooooooo!!
+Yuuki
 406301201_27_a
-じゃあこれまでの疲れを
-温泉で癒しちゃおう!
+You said it! Let's hit the water
+and soak those cares away!
+Asuna
 406301201_26_a
-ようやく温泉に浸かれるんだね!
-楽しみだな～
+Sounds awesome! Woohoo!
+Finally, a relaxing hot bath!
+Yuuki
 406301201_25_a
-さあ、みんなもこれまでの
-汗を流す意味を込めて
-ひとっ風呂浴びてきなさいよ
-プレイヤーB
+So...you guys must be exhausted
+from all that hard work! Why not
+hit the hot springs?
+Player B
 406301201_24_a
-ふふっ、そうだね
-結果的にその問題も
-解決しちゃったね
+Hehe, I almost forgot about the
+safe zone problem with those apes
+running amok.
+Asuna
 406301201_23_a
+Asuna
 406301201_22_a
-圏外なのにモンスターに襲われない
-状況を作れたのって
-ある意味すごいことだよね
+I'm kinda amazed that we made a
+town safe from monster attacks,
+despite not being in a safe zone!
+Yuuki
 406301201_21_a
-リーファ
+Leafa
 406301201_20_a
-あたしたちも当初の計画どおりに
-温泉街を作って繁盛させられて
-本当に良かったです!
+And as a bonus, we get to help out
+some surprisingly reasonable ape
+monsters!
+Silica
 406301201_19_a
-リーファ
+Leafa
 406301201_18_a
+Sinon
 406301201_17_a
-そ、そんなことないですよ!
-でもお猿さんたちも満足して、
+H-Hey, I barely did anything! I'm
+just happy we were able to finish
+our hot spring town!
+Silica
 406301201_16_a
+Yuuki
 406301201_15_a
-確かにね
-それもこれもシリカちゃんの
-おかげだよね
+It is hard to believe. We really
+owe Silica for making it all
+possible.
+Asuna
 406301201_14_a
-リーファ
+Leafa
 406301201_13_a
-まさか温泉街の売りになるなんて
-思いもしなかったわ
+Those apes were giant smelly
+headaches for so long, and now
+they're selling this place.
+Sinon
 406301201_12_a
-私たちをずっと
-悩ませてたあの猿たちが、
+Hmph... Unbelievable.
+Sinon
 406301201_11_a
-癒されるって評判なんだよ
-プレイヤーC
+...just blissfully hanging out
+taking a steamy bath!
+Player C
 406301201_10_a
-はは、そうそう
-あの狂暴な猿モンスターたちが
-温泉に浸かっている姿を見て、
-プレイヤーC
+Hahaha, bingo! People love
+watching those normally terrifying
+ape monsters...
+Player C
 406301201_9_a
+Silica
 406301201_8_a
+Sinon
 406301201_7_a
-ふふっ、猿の温泉ですよね
-リーファ
+The monkey hot spring, right?
+Leafa
 406301201_6_a
-なにせ温泉街として
-自ら温泉に入れるだけじゃなく
-もう一つの売りができたからね
-プレイヤーA
+Of course it is! Not only do we
+have hot springs, but we have an
+irresistible attraction to boot!
+Player A
 406301201_5_a
-ふふっ、そうみたいですね
+Hehe, it certainly seems popular.
+Asuna
 406301201_4_a
+Yuuki
 406301201_3_a
+Asuna
 406301201_2_a
 bg_event_hot_springs
-やあ、君たち
-今日もこの街は大盛況だよ
-プレイヤーA
+Hey there, heroes! The town's
+hoppin' today, as always!
+Player A
 406301201_1_a
+Yuuki
 406301101_42_a
+Sinon
 406301101_41_a
-そうですね!
-リーファ
+Yeah!
+Leafa
 406301101_40_a
-プロジェクトメンバーのところに
-戻ってみんなに相談してみよう!
+Let's head back and see what they
+say!
+Asuna
 406301101_39_a
+Silica
 406301101_38_a
-そんな条件でいいなら、
-大丈夫だと思うよ!
+For sure! And I bet the others
+will agree to their terms too!
+Asuna
 406301101_37_a
+Sinon
 406301101_36_a
-リーファ
+Leafa
 406301101_35_a
-それって全然可能じゃない?
-温泉施設は沢山作れたわけだし、
-一つくらい譲っても平気でしょ?
+That's it? That's totally doable!
+We made like a billion hot
+springs, so we can give them one!
+Yuuki
 406301101_34_a
-それ以上は望まないって
+...they'll happily leave us alone.
+Silica
 406301101_33_a
-お猿さんたちは言ってました
-我々のためにお湯の泉を
-一つ用意してくれれば、
+They also told me that as long as
+we reserve one of our springs
+exclusively for them...
+Silica
 406301101_32_a
+Silica
 406301101_31_a
-あの狂暴なお猿さんが
-そんな癒しを求めてたなんて
-想像つかなかったね
+Ahaha... So those scary apes just
+came for a relaxing bath? I never
+would've guessed!
+Asuna
 406301101_30_a
-あたしも聞いたことあります
-スノーモンキーって
-呼ばれますよね
-リーファ
+Yeah, I've seen pictures. Those
+snow monkeys are super cute.
+Leafa
 406301101_29_a
-あの光景を見るために
-海外観光客が沢山来るって話を
-聞いたことがあるわ
+I've heard swarms of tourists
+from all over the world come
+to see it.
+Sinon
 406301101_28_a
-猿が温泉に浸かってる光景って
-世界でも日本にしかないみたいで
+There's a couple places where
+you can go see snow monkeys
+hanging out in them.
+Sinon
 406301101_27_a
-あ、ああ
-猿って確かに温泉好きよね
+Y-Yeah... Japan's kinda famous for
+that.
+Sinon
 406301101_26_a
+Yuuki
 406301101_25_a
+Sinon
 406301101_24_a
-それってあれですか?
-よく雪山の露天風呂に猿たちが
-浸かってるような感じの?
-リーファ
+Huh. I guess you do hear about
+monkeys having a thing for hot
+springs...
+Leafa
 406301101_23_a
-お湯の泉
-温泉に入りたかったの?
+Seriously?
+That's why they attacked?
+Asuna
 406301101_22_a
-それに入ってみたくて
-総攻撃をかけてきたんだそうです
+They got so excited about having a
+nice bath that they gathered all
+their friends and came for a dip!
+Silica
 406301101_21_a
-そしたら温かいお湯の泉が
-沢山作られているのを見つけたと
+But when they saw that we'd made
+a whole bunch of warm, comfy pools
+of water...
+Silica
 406301101_20_a
-ただあたしたちがなにをしようと
-してるのか気になったので、
-ずっと見張っていたと
+Originally, they were just curious
+as to what we were doing out here,
+so they kept an eye on us.
+Silica
 406301101_19_a
-特に恨みは感じていないって
-言ってました
+No hard feelings about us invading
+their land, either. Law of the
+jungle and all that.
+Silica
 406301101_18_a
+Asuna
 406301101_17_a
-元々棲み処を追われたことは
-弱肉強食という
-自然界の掟のようなものだから、
+They didn't attack us out of any
+particular grudge or anything.
+Silica
 406301101_16_a
-リーファ
+Leafa
 406301101_15_a
+Yuuki
 406301101_14_a
-さ、猿たちはなんて言ってたの?
+So...what did they say?
+Sinon
 406301101_13_a
-はい、なんとか
+Yes, I did. It went very well.
+Silica
 406301101_12_a
-シリカちゃん
-会話は終わったの?
+Silica... Did you have a nice
+chat?
+Asuna
 406301101_11_a
+Silica
 406301101_9_a
+Asuna
 406301101_10_a
-リーファ
+Leafa
 406301101_8_a
+Sinon
 406301101_7_a
-ええっ!?
-猿たちが
-引き揚げていっちゃうよ!?
+Whoa! No way!!
+They're just...leaving?!
+Yuuki
 406301101_6_a
-ギャウッ
-猿モンスター
+Ook.
 406301101_5_a
-はい、約束します
+(Yes, I promise.)
+Silica
 406301101_4_a
+Asuna
 406301101_3_a
+Silica
 406301101_2_a
 bg_event_hot_springs
-ウギャギャッ
-猿モンスター
+Oook oook. Ooo ooo oooook. Ook.
 406301101_1_a
-とりあえず会話が終わるのを
-待ちましょう
+So, uh... Guess we'll just be over
+here. Sitting on our hands while
+Silica talks to the nice monkeys.
+Asuna
 406301001_42_a
-はい、この場所に最初に棲んでいた
-のは、あなたたちですもんね
-ごめんなさい
+(I know. You were here before us.
+We sincerely apologize for what
+we did.)
+Silica
 406301001_41_a
+Asuna
 406301001_40_a
+Silica
 406301001_39_a
-ウギギッ
-猿モンスター
+Ook. Oooooooook.
 406301001_38_a
-そうみたいですね
-リーファ
+If you're going crazy, so am I...
+Leafa
 406301001_37_a
+Yuuki
 406301001_36_a
-リーファ
+Leafa
 406301001_35_a
-もしかして
-シリカには猿の声が聞こえてるの?
+Uh... Am I going crazy, or is
+Silica really speaking to a monkey?
+Sinon
 406301001_34_a
-そ、そうです!
-今のあたしたちに
-もう戦う意志はありません!
+(Y-Yes, that's right! We don't
+want to fight you!)
+Silica
 406301001_33_a
-ギャギャギャッ
-猿モンスター
+Oook ooooook. Oook?
 406301001_32_a
-あっ、はい!
+(Ah, yes! Thank you!)
+Silica
 406301001_31_a
-ギャウギャウッ
-猿モンスター
+Oook? Oook ook.
+Oook ooo ook oook...
 406301001_30_a
-止まった?
+They...stopped attacking us?
+Asuna
 406301001_29_a
+(Huh...?)
+Silica
 406301001_28_a
-ギャウッ
-猿モンスター
+Oook...?
 406301001_27_a
+Asuna
 406301001_26_a
-は、話をどうか
-聞いてくださーーーい!!!
+P-Please! Just listen to me!
+(LISTEN TO MEEEEEE!!!)
+Silica
 406301001_25_a
-リーファ
+Leafa
 406301001_24_a
-ギャギャギャアッ!!
-猿モンスター
+OOOK OOOK OOOOOOK!!
 406301001_23_a
+Sinon
 406301001_22_a
+Yuuki
 406301001_21_a
-わ、わかりました
-リーファ
+O-Okay, if you insist...!
+Leafa
 406301001_20_a
-こっちから反撃したら
-話し合える機会が失われちゃう
-そんな気がするの!
+I get the feeling that if we hit
+back, we'll lose any chance we
+have to talk to them!
+Asuna
 406301001_19_a
+Silica
 406301001_18_a
-だ、ダメだよリーファちゃん!
-堪えて!
+No, Leafa, don't draw your sword!
+Asuna
 406301001_17_a
-応戦したくなっちゃいます
-リーファ
+Uhhh... Guys? Can I fight them
+now? Kinda freakin' out here!
+Leafa
 406301001_16_a
-ガギャアッ!!
-猿モンスター
+OOK OOK!!
 406301001_15_a
-リーファ
+Leafa
 406301001_14_a
+Sinon
 406301001_13_a
-このままだと単なるバトルだよ!
-しかも防戦一方の!
+Uh oh... It looks like they're
+ready to fight, and there's WAY
+more of them than us!
+Yuuki
 406301001_12_a
+Asuna
 406301001_11_a
-だ、ダメです!
-全然聞こえません
+I d-don't know!
+Silica
 406301001_10_a
-リーファ
+Leafa
 406301001_9_a
+Yuuki
 406301001_8_a
-ど、どう?
-聞こえた?
+S-Silica? What are they saying?
+Sinon
 406301001_7_a
-ギャウウッ!!
-猿モンスター
+OOOK OOOK OOOK OOK!!
 406301001_6_a
-お猿さんたち!
-あたしたちの話を聞いてください!
+Mr. and Mrs. Monkeys!
+Please, hear me out!
+Silica
 406301001_5_a
-シ、シリカちゃん!
+S-Silica?! They've spotted us!
+Asuna
 406301001_4_a
+Silica
 406301001_3_a
+Asuna
 406301001_2_a
 bg_event_hot_springs
-ギャギャッ!!
-猿モンスター
+Oook oook!!
 406301001_1_a
+Yeah! Let's do it!
+Silica
 406300901_53_a
+Silica
 406300901_52_a
-よーし、街を絶対に取り返そう!
+This is it! Let's take back our
+town!
+Asuna
 406300901_51_a
-リーファ
+Leafa
 406300901_50_a
-街中に猿たちがウジャウジャいるわ
-完全に自分たちの棲み処って感じで
-蹂躙してるわ
+The place is crawling with apes...
+They've certainly made themselves
+at home in there.
+Sinon
 406300901_49_a
-リーファ
+Leafa
 406300901_48_a
+Sinon
 406300901_47_a
-みんな!
-そろそろ温泉街が見えてきたよ!
+Look, guys! We've almost reached
+town!
+Yuuki
 406300901_46_a
-じゃあお願いしちゃうね!
+Well, you have my full support!
+Asuna
 406300901_45_a
-は、はい!
-言い出したのはあたしなので、
-精一杯やらせてもらいます!
+Y-Yeah! I think! It was my idea
+to begin with...so I'll do my
+very best!
+Silica
 406300901_44_a
-それって
-シリカちゃんに一任する
-ことになっちゃうけどいいのかな?
+That means everything's riding on
+you, Silica. You sure you're up
+for it?
+Asuna
 406300901_43_a
+Asuna
 406300901_42_a
+Yeah! Let's do it!
+Silica
 406300901_41_a
-じゃああの猿と会話ができれば
-なにか対策が立てられるかもって
-ことなんだね、シリカちゃん
-リーファ
+Sooo... Silica's now our official
+negotiator! Let's talk to those
+apes and figure something out!
+Leafa
 406300901_40_a
-テイミングを日頃からやってる
-プレイヤーの熟練度に応じて
-聞こえる頻度が変わってくるらしいの
+I hear that for players who use their taming skills regularly, taming skill level can affect how much they understand.
+Sinon
 406300901_39_a
+Yuuki
 406300901_38_a
-リーファ
+Leafa
 406300901_37_a
-残念だけど私はないわ
+Nope. Never.
+Sinon
 406300901_36_a
-そうなんだね
-シノのんも聞いたことある?
+Wow... Sinonon, have you ever
+been able to understand monster
+talk?
+Asuna
 406300901_35_a
-ケットシーのプレイヤーには
-ランダムでモンスターの声が
-聞こえるようになってるらしいんです
+Apparently, a few Cait Sith
+players can do it. No one knows
+how or why, though.
+Silica
 406300901_34_a
-はい、これはALO攻略BBSとかでも
-都市伝説的な扱いになってるんです
+Yeah... I've seen people talking
+about it on the ALO forums.
+It's urban myth status there.
+Silica
 406300901_33_a
+Silica
 406300901_32_a
-そ、そうなの?
+R-Really?!
+Asuna
 406300901_31_a
+Sinon
 406300901_30_a
+Yuuki
 406300901_29_a
-えっ!?
-リーファ
+Whoa!! Mind...blown!
+Leafa
 406300901_28_a
-実はあたし、これまで何度か
-モンスターの声を聴いたことが
-あるんです
+Actually... I, uh...can sometimes
+kinda sorta understand what
+monsters say.
+Silica
 406300901_27_a
-ALOの設定としてはモンスターたちと
-心を通わせることが得意ってことに
-なっているんですけど
+That means that we have the
+ability to understand monsters,
+and even bond with them.
+Silica
 406300901_26_a
+Asuna
 406300901_25_a
-えへへ、はい
-あたしたちケットシーは
-テイミングが得意です
+Hehehe, okay... As you know,
+Cait Siths are ALO's resident
+monster taming specialists.
+Silica
 406300901_24_a
-リーファ
+Leafa
 406300901_23_a
+Sinon
 406300901_22_a
-勿体ぶらずに早く教えてよ～
+Come on, spill!
+I can't take the suspense!
+Yuuki
 406300901_21_a
+Asuna
 406300901_20_a
-あっ、シノンさんなら
-確かに予想できちゃいますよね
+Hehe, I should have known Sinon
+would figure it out.
+Silica
 406300901_19_a
-リーファ
+Leafa
 406300901_18_a
+Yuuki
 406300901_17_a
-ふふっ、私は大体想像がついてるわ
+Ahhh. So that's it. Interesting.
+Sinon
 406300901_16_a
-ケットシーとして
+What do you mean?
+Asuna
 406300901_15_a
-自信はないんですけど
-ケットシーとしてできることが
-あるんじゃないかって
+Umm... I don't really know if it
+will work, but I thought that this
+might be a job for a Cait Sith...
+Silica
 406300901_14_a
-それでシリカちゃんが
-考えてくれた策って
-一体どういうのものなの?
+Hehe, we're not teasing! Anyway,
+let us in on your master plan
+already! I'm dying to hear it!
+Asuna
 406300901_13_a
+Asuna
 406300901_12_a
-も、もう～
-皆さんからかわないでください!
+O-Oh, stop teasing me, you guys!
+Silica
 406300901_11_a
-うん、シリカ
-カッコ良かったよ!
+Kinda, but Silica! You were
+totally awesome back there!
+Yuuki
 406300901_9_a
-リーファ
+Leafa
 406300901_10_a
+Sinon
 406300901_8_a
+Yuuki
 406300901_7_a
-ふふっ、意外でしたよね
-リーファ
+Hehe, it was a little out of
+character for you.
+Leafa
 406300901_6_a
-あ、あはは
-そのことですか
+Aha. Ha ha... Yeah, I guess I did
+get a bit passionate...
+Silica
 406300901_5_a
-まさかあそこで
-シリカちゃんがあんなに強く
-進言してくれるとは思わなくて
+You really saved the day. I don't
+think I've ever seen you that
+forceful, either!
+Asuna
 406300901_4_a
-えっ、どうしたんですか?
+For what?
+Silica
 406300901_3_a
+Silica
 406300901_2_a
 bg_event_hot_springs
-シリカちゃん、ありがとう
+Thank you, Silica...
+Asuna
 406300901_1_a
+Yuuki
 406300801_50_a
+Asuna
 406300801_49_a
-リーファ
+Leafa
 406300801_48_a
-それでも構いません!
-ありがとうございます!
+Thank you so much!
+I guarantee you won't regret it!
+Silica
 406300801_47_a
-ただしリミットは
-こちらの方で切らせてもらう
-あまり多くの時間は与えられないよ
-プレイヤーA
+But there's a time limit, okay?
+Take too long, and we're calling
+in the brute squad.
+Player A
 406300801_46_a
-よし、わかった
-君たちの意見を尊重しよう
-プレイヤーA
+sigh
+... Okay. We'll let you try
+it your way.
+Player A
 406300801_45_a
+Silica
 406300801_44_a
-リーファ
+Leafa
 406300801_43_a
-シリカは考えも無しに
-こんなことを言う子じゃない
-決して徒労では終わらせないわ
+Silica isn't the type to bluff.
+She's got a plan, and chances
+are it'll work.
+Sinon
 406300801_42_a
+Asuna
 406300801_41_a
-ボクからも!
+Please please please?!
+With a cherry on top?!
+Yuuki
 406300801_40_a
-あたしからもお願いします!
-リーファ
+Pleaaase? We'd reaaally appreciate
+Leafa
 406300801_39_a
-アイツらをどうにかできるとは
-とても思えないな
-プレイヤーC
+But I don't think you'll be able
+to find a peaceful solution
+here...
+Player C
 406300801_38_a
-このプロジェクトに関して
-君たちの貢献度は確かに高いけど
-プレイヤーC
+Hmm... We do owe you for all your
+help...
+Player C
 406300801_37_a
+Yeah! Let's do it!
+Silica
 406300801_36_a
-モンスター討伐用の
-レイド召集をするなってこと?
-プレイヤーB
+You want us to hold off on calling
+in a raid party to kill 'em?
+Player B
 406300801_35_a
-リーファ
+Leafa
 406300801_34_a
+Sinon
 406300801_33_a
-ここはあたしたちに任せて
-少し時間をいただけないでしょうか?
+Please, leave the apes to us.
+Or at least give us a little
+time to try to fix things...
+Silica
 406300801_32_a
+Yuuki
 406300801_31_a
-シリカちゃん
+We do?!
+Asuna
 406300801_30_a
-リーファ
+Leafa
 406300801_29_a
+Sinon
 406300801_28_a
-あたしにちょっと策があります
+...We have a plan.
+Silica
 406300801_27_a
+That's true, but...
+Asuna
 406300801_26_a
-君の言いたいことはわかるが
-猿は人型Mobじゃないから、
-意思疎通なんてできないぞ
-プレイヤーA
+Riiight... It's a nice sentiment,
+but they're mobs. You can't sit
+down with them for tea and a chat.
+Player A
 406300801_25_a
-街も取り戻すことが
-最高の未来図だと思うんです
+Wouldn't that be a much nicer way
+to take back our town, rather
+than by staining it in blood?
+Asuna
 406300801_24_a
-でも可能なら
-彼らを殺すのではなく共存しつつ、
+Well... I was hoping we could live
+together in peace, instead of
+killing one another...
+Asuna
 406300801_23_a
-ただの敵Mobに配慮したって
-どうにもならないだろ?
-プレイヤーC
+Come on, they're just random NPC
+monsters. What do you think
+empathizing with them will get us?
+Player C
 406300801_22_a
-それはそうかもしれないけど
-プレイヤーB
+Uhh... I guess?
+Player B
 406300801_21_a
-その棲み処を追いやったのは
-他ならないわたしたちです
+It was us who invaded their home.
+Not the other way around.
+Asuna
 406300801_20_a
-確かに街は取り戻したいです
-でもあのモンスター
-いえ猿たちは
-元々ここに住んでいました
+I want to reclaim our town as much
+as you do, but those monsters...
+They were there first.
+Asuna
 406300801_19_a
-ん、どうしたんだ?
-プレイヤーA
+Yeah? What's up?
+Player A
 406300801_18_a
+Yuuki
 406300801_17_a
-あの、皆さん
-聞いてください
+Hey, guys?
+Can I have a minute?
+Asuna
 406300801_16_a
-リーファ
+Leafa
 406300801_15_a
+Sinon
 406300801_14_a
-ですよね
-猿たちからすれば棲み処を取り戻しに
-来ただけですし
+Yeah... Those apes probably just
+wanted to protect their home...
+Silica
 406300801_13_a
+Asuna
 406300801_12_a
-悔しさは一緒だよ
+Yeah, it's no fun...
+But still...
+Yuuki
 406300801_11_a
-そりゃあそうですよ
-せっかく完成したばかりなのに
-横取りされちゃったわけですし
-リーファ
+And they have every right to be.
+Our town's been occupied by a
+bunch of monsters.
+Leafa
 406300801_10_a
+Silica
 406300801_9_a
-リーファ
+Leafa
 406300801_8_a
-みんな、いきり立ってるわね
+Everyone's seriously pissed.
+Sinon
 406300801_7_a
+Asuna
 406300801_6_a
-でもあれだけの勢力だぜ
-相当腕の立つ奴らを集めないと
-とても倒せそうにない
-プレイヤーC
+But you saw how many there were,
+right? We'll need a whole army
+to take them on...
+Player C
 406300801_5_a
-ええ、そうね
-せっかく作った私たちの街を
-奪われてなるもんですか!
-プレイヤーB
+Agreed! We're not going to let
+those dirty monkeys steal our
+town!
+Player B
 406300801_4_a
+Yuuki
 406300801_3_a
+Asuna
 406300801_2_a
 bg_event_hot_springs
-レイドを組むんだ!
-強いプレイヤーを沢山雇って
-猿たちを全滅させるんだ!
-プレイヤーA
+We need to form a raid party! Hire
+dozens of elite players and scour
+them from the face of the earth!
+Player A
 406300801_1_a
-リーファ
+Leafa
 406300701_55_a
-もちろんだよ!
+Oh, you can bet on that!
+Asuna
 406300701_54_a
-必ずここに
-戻ってみせるから!
+But we'll be back, monkeys!
+Just you wait!
+Yuuki
 406300701_53_a
+Sinon
 406300701_52_a
-そ、そだね
-わかったよ
+Y-You're right...
+Let's go.
+Yuuki
 406300701_51_a
-リーファ
+Leafa
 406300701_50_a
-ううん、見捨てるつもりはないよ
-でも今はさすがに分が悪いから
-一度退散して作戦を立てるんだよ
+We're not abandoning it. But right
+now, we can't hold it. We will be
+back...with a plan.
+Asuna
 406300701_49_a
+Sinon
 406300701_48_a
-えっ!?
-せっかく完成したばかりなのに
-街を捨てて逃げるっていうの!?
+Aww, really?! We just finished
+building this town! I don't wanna
+give up on it!
+Yuuki
 406300701_47_a
-仕方ないね
-みんな、残念だけど、
-ここは一旦退きましょう
+You're right... I hate to say
+this, but we need to pull back.
+Asuna
 406300701_46_a
+Asuna
 406300701_45_a
-くっ、もう無理です!
-この人数では持ちこたえられ
-ませんよ!
-リーファ
+Gah, I give up! There's no way we
+can take on this many all by
+ourselves!
+Leafa
 406300701_44_a
+Yuuki
 406300701_43_a
-この遠吠え
-もしかして更に
-増援を呼ぶつもり!?
+Those howls... Are they summoning
+reinforcements?!
+Sinon
 406300701_42_a
-ウギャギャギャーーッ!
-猿モンスター
+OOK OOK OOK OOK!!
 406300701_41_a
-リーファ
+Leafa
 406300701_40_a
-街が完成したタイミングを
-見計らって総攻撃を仕掛けてきたって
-可能性はあるかもね
+They must have gathered their
+simian hosts and planned to attack
+right when we finished the town...
+Asuna
 406300701_39_a
-猿の知能はとっても高いから
-ボクら妖精たちがなにをしようと
-してるのか様子を見てたのかも
+Monkeys are crazy smart! I bet
+they were watching us the whole
+time, waiting for the right moment!
+Yuuki
 406300701_38_a
+Yuuki
 406300701_37_a
-この猿たち
-もしかして街が完成するのを
-待っていたのかしら?
+But why attack now?!
+Sinon
 406300701_36_a
-は、はい
-これまでとは比べ物に
-ならないくらいの数です
-リーファ
+Yeah, I know! We're in trouble!
+There's just too many of them!
+Leafa
 406300701_35_a
-だ、大丈夫だよ!
+I-I'm all right! But...
+Asuna
 406300701_34_a
-アスナさん!
-リーファ
+Asuna!
+Leafa
 406300701_33_a
-うぐっ!
+Ungh!
+Asuna
 406300701_32_a
+Asuna
 406300701_31_a
-リーファ
+Leafa
 406300701_30_a
-グガアアッ!!
-猿モンスター
+Oook oook OOK OOK OOK!!
 406300701_29_a
+Yuuki
 406300701_28_a
-は、はい!
-わかりました!!
+G-Got it!
+I'll do my best!
+Silica
 406300701_27_a
-あの猿たちに太刀打ちできる
-プレイヤーはそんなにいないから!
+I want you to help everyone else
+get out of there, okay?
+Asuna
 406300701_26_a
+Yuuki
 406300701_25_a
+Silica
 406300701_24_a
-シリカちゃんは
-みんなを安全なところに
-避難させて!
+Silica! Only a few of the players
+here are strong enough to take
+those apes on!
+Asuna
 406300701_23_a
-そ、そうだったわね!
-みんな応戦よ!
+O-Oh yeah, I almost forgot...
+Alright, move out, people!
+We've got a town to save.
+Sinon
 406300701_22_a
-仕様としては圏外です!
-モンスターたちも普通に
-侵入できちゃうんですよ!!
-リーファ
+That means monsters can wander
+in and smash the place up!
+Leafa
 406300701_21_a
-違いますよ、シノンさん!
-ここはプレイヤーが
-独自に作った街ってだけで、
-リーファ
+No, we're not safe, Sinon!
+This town was built by players!
+Leafa
 406300701_20_a
-リーファ
+Leafa
 406300701_19_a
-ええっ!?
-でもここは街の中だから
-モンスターは街中までは
+You've gotta be kidding. But we're
+safe here. It's a town, monsters
+can't
+Sinon
 406300701_18_a
+Yuuki
 406300701_17_a
-早く逃げてください!
-今街の入り口の所に
-あの猿の群れが押し寄せてきて
+Run for your lives! We're under
+attack by an army of crazy apes!
+Silica
 406300701_16_a
-シリカちゃん、どうしたの?
+Silica?! What's wrong?!
+Asuna
 406300701_15_a
+Yuuki
 406300701_14_a
-た、大変です!
-皆さん!
+H-Help! Fire! Flood! Calamity!
+Silica
 406300701_13_a
+Yuuki
 406300701_12_a
-そうだったね
-最近あんまり見なくなったような
-気がするけど
+Hmm... You know, I haven't seen
+them around much lately...
+Asuna
 406300701_11_a
-あと問題なのが
-例の猿の群れだけですよね
-リーファ
+Now the only problem left to deal
+with are those apes...
+Leafa
 406300701_10_a
-リーファ
+Leafa
 406300701_9_a
-ここに沢山のプレイヤーが
-訪れるといいわよね
+Let's hope our newly-built town
+gets some foot traffic.
+Sinon
 406300701_8_a
-うん! あの湧き水を使って
-温泉施設も無事に作れたし、
-ホント良かったよね～!
+Totally! I'm so glad we found that
+spring! We'd never have finished
+without it!
+Yuuki
 406300701_7_a
-みんな、嬉しそう
+Everyone seems so happy...
+Asuna
 406300701_6_a
-一時はどうなることかと思ったが
-みんなよく頑張ったな!
-プレイヤーC
+Yeah! For a while there it looked
+grim, but we pulled through and
+pulled it off!
+Player C
 406300701_5_a
-ここまで長かったような
-短かったような
-でも完成できて本当に嬉しいわ
-プレイヤーB
+It felt like it took ages, but
+also like it was over in a flash.
+I'm just glad we did it!
+Player B
 406300701_4_a
+Yuuki
 406300701_3_a
+Asuna
 406300701_2_a
 bg_event_hot_springs
-やったぞ!
-温泉街、完成だ!
-プレイヤーA
+We did it! Our hot spring resort
+town's finished!
+Player A
 406300701_1_a
-そうだね!
+You said it!
+Asuna
 406300601_37_a
+Asuna
 406300601_36_a
-リーファ
+Leafa
 406300601_35_a
-よーし、じゃあ見つかったことを
-みんなに報告しようよ
-きっとみんな喜ぶよ!
+Now that we've found a good water
+source, let's tell everyone! I bet
+they'll be ecstatic!
+Yuuki
 406300601_34_a
-ピナは美味しい水も
-鉱石もどっちも好物ですからね
+Pina does like some tasty water,
+and some tasty minerals!
+Silica
 406300601_33_a
-ふふっ、そうだよって言ってる
-みたいですね
+Hehe, looks like that's a yes!
+Silica
 406300601_32_a
+Chirp, chirp. CHIRP.
+Pina
 406300601_31_a
-水の中に鉱石の成分が
-含まれてたからなのかしら?
+Maybe Pina sensed the minerals in
+the water, and not the water
+itself?
+Sinon
 406300601_30_a
+Pina
 406300601_29_a
+Silica
 406300601_28_a
-ああ、もしかして
-ピナがこの泉に飛びついたのは
+Minerals... Hmm...
+Sinon
 406300601_27_a
-やったね!
+Yay!
+Asuna
 406300601_26_a
-水質調査完了!
-ここは温泉の基準値を満たしてる
-鉱水だったよ!
+The magical doohickey did its
+magical work! The water's got tons
+of minerals! So, hot spring it is!
+Yuuki
 406300601_25_a
-あとは人工的に温度を上げて
-お湯にしちゃえばいいんだよ
+That's right! All you have to do
+is artificially heat the water,
+and voila! Ooh, look!
+Yuuki
 406300601_24_a
-成分がちゃんと含まれていれば
-温度が低くても温泉だと認められるの
+Even pools of cold water are
+considered "hot springs" if the
+water has the right stuff in it.
+Asuna
 406300601_23_a
-リーファ
+Leafa
 406300601_22_a
+Yuuki
 406300601_21_a
-実際にそうやって温泉を作ってる
-場所って現実でも多いらしいよ
+Not always. There's actually a lot
+of places in the real world where
+they "make" hot springs.
+Asuna
 406300601_20_a
+Pina
 406300601_19_a
+Silica
 406300601_18_a
-成分があれば十分
-それって温泉って言えるの?
+Minerals? I thought hot springs
+were geothermally heated pools
+of hot water?
+Sinon
 406300601_17_a
-じゃあボクがやってみるね
-ここでこの魔法具を設置して、と
+I'll do it! I just need to set up
+this magical doohickey,
+and...activate!
+Yuuki
 406300601_16_a
-リーファ
+Leafa
 406300601_15_a
+Yuuki
 406300601_14_a
-ううん、たとえ冷たい水でも
-温泉の成分があればそれで十分だよ
-今から水質調査をしてみよう
+No, that's not true. As long as
+the water's got the right minerals
+in it... Let's take a sample.
+Asuna
 406300601_13_a
+Sinon
 406300601_12_a
+Pina
 406300601_11_a
-冷たい水だと
-温泉としては使えないですね
+We can't use cold water for a hot
+spring...
+Silica
 406300601_10_a
+Yuuki
 406300601_9_a
+Asuna
 406300601_8_a
-冷たいね
-ただの湧き水の泉って感じですね
-リーファ
+Is definitely the opposite of hot.
+I think it's just a normal spring.
+Leafa
 406300601_7_a
-あはは、単純に喉が渇いてただけの
-ような気もしますけど
-あっ、でもこれ
+Ahaha, I think Pina was just
+thirsty. But this water...
+Silica
 406300601_6_a
-さすがはピナね!
-水属性の小竜だけあって、
-水の探知能力が高いのね!
+Nice going. Figures you'd have
+the ability to detect water.
+Sinon
 406300601_5_a
-ピナ、見つけたの!?
+Did you find something, Pina?!
+Silica
 406300601_4_a
+Sinon
 406300601_3_a
+Silica
 406300601_2_a
 bg_event_hot_springs
-きゅい～!
+Chiiirp!
+Pina
 406300601_1_a
+Asuna
 406300501_58_a
-うん、それがいいと思うよ!
+Let's go get ourselves in some
+hot water!
+Yuuki
 406300501_57_a
+Sinon
 406300501_56_a
+Silica
 406300501_55_a
-リーファ
+Yeah! Let's do it!
+Leafa
 406300501_54_a
-せめて源泉探しのほうで
-なにか貢献できないか
-考えてみようよ
+Let's try to think of other ways
+we can help out. Starting with
+finding a hot spring!
+Asuna
 406300501_53_a
+Yuuki
 406300501_52_a
-でもリーファちゃんの言うとおりかも
-このままどっちつかずの気持ちで
-続けるのは落ち着かないし、
+But you have a point, Leafa.
+We're not doing any good here
+right now.
+Asuna
 406300501_51_a
+Sinon
 406300501_50_a
+Silica
 406300501_49_a
-ああ、そうですね
-リーファ
+Oh yeah...
+Leafa
 406300501_48_a
-このプレイヤー主催イベントは
-ウンディーネとインプの
-参加者が多いからね
+Most of the players here building
+the town are Imps and Undine,
+after all.
+Asuna
 406300501_47_a
-別の誰かがもう使ってみてる
-んじゃないかな?
+But even if there was, I'm sure
+someone would have already tried
+Asuna
 406300501_46_a
+Yuuki
 406300501_45_a
-どうかな
-わたしは聞いたことないけど、
-仮にあったとしても
+Maybe? I've never heard of it.
+Asuna
 406300501_44_a
-リーファ
+Leafa
 406300501_43_a
-そんな魔法あるの?
+There's magic for that?
+Sinon
 406300501_42_a
-うーん、まだ思いついてないけど、
-たとえばウンディーネの魔法で
-水源を探すとか
-リーファ
+Hmm... No idea! Use Undine magic
+to search for water, maybe?
+Leafa
 406300501_41_a
-どういうことですか?
+How do you propose we do that?
+Silica
 406300501_40_a
-じゃあモンスター退治じゃなくて
-温泉探しのほうで貢献できない
-ですかね?
-リーファ
+Hey, I have an idea! Let's put the
+monster hunting on hold and help
+find a hot spring!
+Leafa
 406300501_39_a
+Sinon
 406300501_38_a
+Silica
 406300501_37_a
-せっかく街作りの方が上手く
-進んでるなら、みんなのテンションを
-これ以上下げたくないですからね
-リーファ
+Well, we still can't let the
+building teams know we've got an
+unsolvable problem over here.
+Leafa
 406300501_36_a
+Yuuki
 406300501_35_a
-そうだね
-でも気が乗らないのも
-正直なところだから
+Yeah... It's pretty hard to put
+effort in on this when you know
+it's pointless...
+Asuna
 406300501_34_a
-リーファ
+Leafa
 406300501_33_a
-でも仕方ありませんよ
-倒しても倒してもあのお猿さんたち
-POPしてくるのは事実なんですから
+Well, there's not much we can do.
+Monsters are going to respawn.
+It's just how it is.
+Silica
 406300501_32_a
-リーファ
+Leafa
 406300501_31_a
+Silica
 406300501_30_a
-せっつかれちゃったわね
+Sounds like we brought up
+a sore subject, Yuuki.
+Sinon
 406300501_29_a
-そ、そうかぁ
+Aww...
+Yuuki
 406300501_28_a
-そっちもあんまり進展はないんだ
-残念ながらな
-プレイヤーA
+We're not making much progress,
+to be honest.
+Player A
 406300501_27_a
-あ、えと
-そういえばさ
-源泉の調査はどんな感じ?
+So, uh... Changing the subject!
+How's the search for those hot
+spring sources going?
+Yuuki
 406300501_26_a
-わ、わかりました
-善処します
+S-Sure...
+We'll do our best.
+Asuna
 406300501_25_a
-アンタたちくらいなんだからさ
-プレイヤーA
+We're counting on you.
+Player A
 406300501_24_a
-まぁできる限り頑張ってくれよ
-このプロジェクトチームで
-あいつらと対等に戦えるのは
-プレイヤーA
+Well, just keep at it, alright?
+You're the only players on this
+project who can handle 'em.
+Player A
 406300501_23_a
-そうかぁ、やっぱ現実と違って
-完全に駆除するなんて無理かもな
-プレイヤーA
+Ah, that's a shame. I guess it'll
+be impossible to wipe 'em out
+like you could in the real world.
+Player A
 406300501_22_a
-何度か戦ってはいるんですけど、
-あんまり減ってる様子はなくて
+Err...yes? Well... We've taken
+out quite a few of them,
+but there's still a lot left...
+Asuna
 406300501_21_a
-ほら、あの猿型の猛獣を
-どうにかしてくれって
-頼んでただろ?
-プレイヤーA
+You handled that pack of vicious
+apes, right? Everything's fine?
+Player A
 406300501_20_a
+Err...
+Asuna
 406300501_19_a
-ああ、任せておいてくれ
-そっちの状況はどうだ?
-プレイヤーA
+We're on the same page, then!
+So, how'd the monster hunting go?
+Player A
 406300501_18_a
-温泉街ならやっぱり和風の旅館とか
-小江戸風の街並みとかも
-欲しいよね
+but I'd love a sort of old-Edo
+Japanese vibe. Traditional inns,
+the works!
+Asuna
 406300501_17_a
-ふふっ、確かに
-ファンタジーのALOの世界観的には
-おかしいかもしれないけど、
+Hehe, for sure. You know, it may
+sound weird for the sword and
+sorcery ALO setting,
+Asuna
 406300501_16_a
+Asuna
 406300501_15_a
-温泉街ならではの
-風情が欲しいもんね
+Ooh, I can't wait to see them!
+Hot spring towns need a whole
+lot of atmosphere!
+Yuuki
 406300501_14_a
-リーファ
+Leafa
 406300501_13_a
-それは楽しそうですね～
+That sounds like so much fun!
+Silica
 406300501_12_a
-温泉街風の街並みに見えるように
-それっぽい建物もオリジナルで
-作成してもらうつもりだぜ
-プレイヤーA
+...architect skill. They're
+designing tons of templates
+from the ground up for us.
+Player A
 406300501_11_a
-それだと観光地的につまらないから
-建築スキル持ちのプレイヤーにも
-協力してもらって、
-プレイヤーA
+Nah, that'd be boring, especially
+for a tourist destination. We've
+hired some players with the
+Player A
 406300501_10_a
-既存デザインの家だけ置くの?
+You're just using basic house
+blueprints?
+Sinon
 406300501_9_a
-ああ、今から家を購入して
-どんどん配置していくつもりだ
-プレイヤーA
+Yeah. We're buying houses and
+getting ready to lay 'em out.
+Player A
 406300501_8_a
+Silica
 406300501_7_a
+Sinon
 406300501_6_a
-これだけの更地があれば
-街を作るには十分そうですね
-リーファ
+There's more than enough space
+here to build a town now!
+Leafa
 406300501_5_a
-わあ、だいぶ進んでますね
+Wow! You've made so much progress!
+Asuna
 406300501_4_a
+Yuuki
 406300501_3_a
+Asuna
 406300501_2_a
 bg_20_butterfly_valley
-どうだ、結構みんな頑張ってるだろ?
-プレイヤーA
+So, what d'ya think?
+We're awesome, right?
+Player A
 406300501_1_a
+Yuuki
 406300401_56_a
+Sounds like a plan.
+Asuna
 406300401_55_a
+Silica
 406300401_54_a
+Sinon
 406300401_53_a
-そうですね
-みんなのテンション下げたく
-ないですもんね
-リーファ
+Deal. We'll figure something out.
+No need to trouble the others.
+Leafa
 406300401_52_a
-今は他の参加者たちとも
-足並みを揃えなきゃダメだから
-この話はしないでおこうか
+And let's keep this a secret for
+now. Deal?
+Asuna
 406300401_51_a
-あのモンスターたちの対処については
-もう少しみんなで考えてみよう
+Okay, then. Let's try to think of
+a more permanent solution for
+these monsters.
+Asuna
 406300401_50_a
-プロジェクトがようやく動き出した
-っていうのに、水を差すのは
-避けたいところだよね
+Yeah. We've got momentum!
+We can't pump the brakes!
+Yuuki
 406300401_49_a
+Yuuki
 406300401_48_a
-せっかくみんな
-やる気になって一所懸命
-やってくれてるからね
+Maybe... I don't want to be a
+killjoy either, especially now
+that everyone's all fired up...
+Asuna
 406300401_47_a
-あたしたちは理解できますけど
-その理屈は他の参加者たちには
-通じそうもないです
-リーファ
+Asuna, we sympathize with you,
+but I don't think peaceful
+coexistence is possible here...
+Leafa
 406300401_46_a
+Silica
 406300401_45_a
-リーファ
+Leafa
 406300401_44_a
-そう考えられなくもないけど
-それはキリのない話よね
+Okay, I see your point...but no.
+That sort of logic doesn't apply
+here.
+Sinon
 406300401_43_a
-生息地に土足で入り込んできた
-わたしたちの方がなんだか
-悪いことをしてるみたい
+Now I'm starting to feel bad about
+attacking them in their home...
+Asuna
 406300401_42_a
+Yuuki
 406300401_41_a
-それにこれって猿の側からすれば
-わたしたちの方が侵略者だから
+If you think about it from the
+apes' perspective, we're the
+invaders here...
+Asuna
 406300401_40_a
-リーファ
+Leafa
 406300401_39_a
-無限に出てくるってことですよね?
-そんな場所に温泉街を作るなんて
-とても無理なんじゃ
+But...then we can't build a hot
+spring town here, can we...?
+Silica
 406300401_38_a
-えっ、つまり
-このエリアに設定された
-あのモンスターたちは
+So, wait... That means the
+monsters here will keep appearing
+for ever and ever?
+Silica
 406300401_37_a
+Silica
 406300401_36_a
-リーファ
+Leafa
 406300401_35_a
-そうよね
-現実みたいに害虫駆除みたいなことは
-できないかもしれないわ
+Double facepalm. Of course.
+We can't just exterminate them
+and move on, can we?
+Sinon
 406300401_34_a
+Asuna
 406300401_33_a
-確かにそうかもね
-モンスターは仮に倒しても
-時間が経過すればまたPOPするし
+Facepalm. Monsters just respawn,
+don't they?
+Yuuki
 406300401_32_a
+Silica
 406300401_31_a
+Sinon
 406300401_30_a
-リーファ
+Huh? What do you
+Ooooooh. Duh.
+Leafa
 406300401_29_a
+Yuuki
 406300401_28_a
-よく考えてみると
-今の数体を倒したところで問題は
-解決しないんじゃないかって
+Think about it. Even if we take
+out a few monsters, we won't
+solve the main problem here...
+Asuna
 406300401_27_a
+Silica
 406300401_26_a
+Sinon
 406300401_25_a
-アスナさん、どうしたんですか?
-リーファ
+What is, Asuna?
+Leafa
 406300401_24_a
+Yuuki
 406300401_23_a
-そうだね
+Yeah... But something's bothering
+me...
+Asuna
 406300401_22_a
-リーファ
+Leafa
 406300401_21_a
-噂になってただけあって、
-賢いですしなかなか強いですね
+I knew these monsters were scary,
+but I didn't know they were smart
+AND scary.
+Silica
 406300401_20_a
-リーファ
+Leafa
 406300401_19_a
+Silica
 406300401_18_a
-仲間の群れにおびき寄せるために
-わざと後退してるのかもしれないし
+Indeed. It's possible it feigned
+retreat just to lure us to the
+rest of its pack.
+Sinon
 406300401_17_a
-ユウキ、深追いは禁物だよ!
+Yuuki, don't chase it!
+It could be a trap!
+Asuna
 406300401_16_a
-あっ、逃げた!
+Hey, it's running!
+Yuuki
 406300401_15_a
-ギャウギャウッ!!
-猿モンスター
+Oook ook OOK!!
 406300401_14_a
+Asuna
 406300401_13_a
-リョーカイだよ!
-よーし、じゃあバトル開始だ!
+Ha ha, got it!
+Now let's get fighting!
+Yuuki
 406300401_12_a
-リーファ
+Leafa
 406300401_11_a
-協力攻撃?
-さすがはサル
-知能も高いってことなのかしら?
+Coordinated attacks? They must
+be clever and dangerous foes.
+No monkeying around today.
+Sinon
 406300401_10_a
-あのお猿さんたちは群れを成して
-協力攻撃をしてきますよ!
+Those monsters work in packs and
+coordinate their attacks!
+Silica
 406300401_9_a
-リーファ
+Leafa
 406300401_8_a
+Sinon
 406300401_7_a
-本当ですね
-皆さん、気をつけてください!
+You're right...
+Everyone, be careful!
+Silica
 406300401_6_a
-あのモンスター
-SAOのドランクエイプに
-似てるわ
+I've seen that monster before...
+It looks just like a Drunken Ape
+from SAO!
+Asuna
 406300401_5_a
-あっ、いたいた!
+Look! There it is!
+Hi monkey!
+Yuuki
 406300401_4_a
+Asuna
 406300401_3_a
+Yuuki
 406300401_2_a
 bg_20_butterfly_valley
-ウギャアッ!!
-ギャウギャウ!!
-猿モンスター
+Ooooook!
+Oo oo oook!
 406300401_1_a
-ありがとう
-じゃあ任せたよ
-プレイヤーC
+Thanks, we appreciate it.
+Good luck out there.
+Player C
 406300301_33_a
+Yuuki
 406300301_32_a
-ならわたしたちはそのモンスターの
-討伐に向かいますね
+Right, got it. So we'll head out
+to deal with these pesky monsters.
+Asuna
 406300301_31_a
+Sinon
 406300301_30_a
+Silica
 406300301_29_a
-そうですね
-これだけ眺めの良い場所ですし
-諦めるには早すぎます!
-リーファ
+Yeah! This place is beautiful!
+We can't just give up on it!
+Leafa
 406300301_28_a
-モンスターが沢山出るなら
-場所を変えればいい
-っていうのも
-なんか惜しいでしょ?
-プレイヤーB
+I see what you're thinking. "Let's
+not build next to death monsters."
+But that'd be a waste, right?!
+Player B
 406300301_27_a
+Yuuki
 406300301_26_a
-そうだったんですね
+Oh... I didn't know there were
+deadly monsters around here...
+Asuna
 406300301_25_a
-リーファ
+Leafa
 406300301_24_a
-仲間たちも既に何度か襲われている
-そいつらを退治してほしいんだよ
-プレイヤーC
+Our workers have already been
+attacked several times. So, I
+want you to go deal with them.
+Player C
 406300301_23_a
-実はこの辺の山々は
-凶悪なモンスターが多数出現する
-らしいんだ
-プレイヤーC
+Thing is, there's a whole lot of
+scary monsters in the mountains
+'round here.
+Player C
 406300301_22_a
-腕っぷし?
-街作りとアバターの戦闘能力に
-なんの関係が
+Umm... We're building a town,
+right? Why do our adventurer
+credentials matter?
+Silica
 406300301_21_a
-それなんだけどね
-あなたたちの腕っぷしを
-見込んでちょっと頼みたいことが
-プレイヤーB
+Glad you asked! I've got a special
+task in mind for you seasoned
+adventurers...
+Player B
 406300301_20_a
+Silica
 406300301_19_a
-リーファ
+Leafa
 406300301_18_a
-で、私たちは
-なにをすればいいの?
+So, what do you need us to do?
+Sinon
 406300301_17_a
-えへへ、ありがとう
+Hehe, thanks, Yuuki.
+Asuna
 406300301_16_a
-アスナのアイディアのおかげだね!
+Alright! It's all thanks to your
+totally killer idea, Asuna!
+Yuuki
 406300301_15_a
-そうなんですね、それは良かった!
+That's great news!
+Asuna
 406300301_14_a
-分業してスムーズに
-進められるはずだ
-プレイヤーA
+Now we just need to pick out teams
+to handle each job and get to
+working!
+Player A
 406300301_13_a
-どっと応募が増えたんだ
-人手は十分に確保できたから、
-きっとこれからは
-プレイヤーA
+tons of people flocked in to help
+us. We have more than enough
+hands for the job now.
+Player A
 406300301_12_a
-そんなことないさ
-今回、温泉ってテーマを追加して
-改めて協力者を募ったところ、
-プレイヤーA
+Nah, it'll be a breeze. The minute
+we announced we were building a
+hot spring resort,
+Player A
 406300301_11_a
-なかなか先は長そうだなぁ～
+It's gonna be a lot of work!
+Yuuki
 406300301_10_a
-木を伐って温泉を掘り当てて
-そしてようやく建物を
-建設できるんだよね
+We'll need to clear these trees,
+dig all over the place for water,
+then put up buildings...
+Yuuki
 406300301_9_a
+Yuuki
 406300301_8_a
-ふふっ、ありがとう
-でもそのためには
-まず温泉を掘り当てないとね
+Hehe, I'm glad you like it, guys.
+Now all we need is a hot spring...
+Asuna
 406300301_7_a
-リーファ
+Leafa
 406300301_6_a
-はい、空気もおいしいですし
-ここに温泉街ができたら
-きっと繁盛すると思います!
+Yeah, the air's so fresh! I just
+know lots of people will visit
+if we can find a hot spring!
+Silica
 406300301_5_a
-なんだか自然がいっぱいで
-気持ちいいですね～!
-リーファ
+Ahhh, look at all this virtual
+nature! It feels great!
+Leafa
 406300301_4_a
+Silica
 406300301_3_a
-リーファ
+Leafa
 406300301_2_a
 bg_20_butterfly_valley
-ここが街を作る予定地ね
+So this is where we're building our town.
+Sinon
 406300301_1_a
-そうだな、検討の余地は
-あるかもしれないな
-プレイヤーA
+Hmm, your plan does have merit...
+Player A
 406300201_58_a
-いいね、それ!
-やってみようよ!
+I love this idea! Come on,
+let's start digging!
+Yuuki
 406300201_57_a
-きっと観光地化させる際の
-大きなアピール材料に
-なると思うんです
+If we can dig one up, I bet our
+town will get tons of tourists!
+Asuna
 406300201_56_a
-わたしもその話を思い出したんです
-温泉を掘り当てることができれば
+That's right. I remembered that
+story too, which is why I thought
+the hot spring idea might work.
+Asuna
 406300201_55_a
-温泉の成分が見つかったって話を
-聞いたことがあるぞ
-プレイヤーC
+And I heard that someone found a
+hot spring source somewhere along
+it once.
+Player C
 406300201_54_a
-いや、待てよ
-ウンディーネにあの山脈から
-流れてくる地下水の中に
-プレイヤーC
+Wait a sec... An underground river
+that feeds the Undine lands flows
+through those mountains.
+Player C
 406300201_53_a
-でも現実と違って仮想世界は
-元々温泉の源泉が設定されてないと
-そもそも無理だし
-プレイヤーB
+Uhh, keep dreaming. I doubt the
+devs went and programmed in a
+hot spring.
+Player B
 406300201_52_a
-えっ、なんだって?
-プレイヤーA
+Eh, what was that? Did you say
+"hot spring resort"?
+Player A
 406300201_51_a
-ええと、自分の好きなものには
-違いないんだけど
-温泉とかどうかな?
+I know I'm jumping aboard the
+self-interest train here, but...
+How about a hot spring resort?
+Asuna
 406300201_50_a
-アスナ、どうしたの?
+What's it, Asuna?
+Yuuki
 406300201_49_a
+Yuuki
 406300201_48_a
-自分の欲しいもの
+Things you want...? Oh, that's it!
+Asuna
 406300201_47_a
-リーファ
+Leafa
 406300201_46_a
-そ、そんなわけないじゃないですか～
+N-No, I'm not! I think my idea's
+a really good one! D-Don't you...?
+Silica
 406300201_45_a
-リーファ
+Aha. Haha...
+Leafa
 406300201_44_a
-ちょっとあなたたち
-自分が欲しいものを言ってる
-だけじゃないの?
+Hold it right there, you two.
+You're just suggesting things
+YOU want, aren't you?
+Sinon
 406300201_43_a
-山の中なら広い野外ステージを作って
-フェスとかしてみるのは
-どうでしょう?
+No, no! A huuuge mountain stage
+where people can hold concerts
+and festivals!
+Silica
 406300201_42_a
+Sinon
 406300201_41_a
+Silica
 406300201_40_a
-あっ、じゃあ
-美味しいご当地グルメを作るとか?
-リーファ
+Wait, I've got it! How about some
+awesome local gourmet specialty!
+Leafa
 406300201_39_a
+Yuuki
 406300201_38_a
-なにか変わった建物を
-作ればいいってこと?
+So in other words, we need to
+make a weird-looking building?
+Asuna
 406300201_37_a
+Silica
 406300201_36_a
-リーファ
+Leafa
 406300201_35_a
-大阪のお城とか名古屋のお城とかも
-シンボルよね
+Like Tokyo's Skytree, Osaka's
+Tsutenkaku, or Nagoya's castle,
+right? Yeah, that could work.
+Sinon
 406300201_34_a
+Asuna
 406300201_33_a
-観光地かぁ
-観光地になってる街って
-シンボル的な建物とか多いよね
+Yeah... Hmm... Cool buildings get
+a lot of tourists, right? Maybe we
+need one as a town symbol?
+Yuuki
 406300201_32_a
-リーファ
+Leafa
 406300201_31_a
-観光地化するには集客できるだけの
-魅力的な要素が必要ってことよね
+If you're making a tourist
+destination, you need something
+unique to pull people in.
+Sinon
 406300201_30_a
-リーファ
+Leafa
 406300201_29_a
+Silica
 406300201_28_a
-なるほど
-まぁ正論よね
+Ah. Good call.
+Sinon
 406300201_27_a
-ダメなんじゃないかって
-ことになってね
+Everyone agrees we need some sort
+of zazz to sell it and get people
+coming... But what would work?
+Yuuki
 406300201_26_a
+Asuna
 406300201_25_a
-今回、山奥のへんぴな場所に作るから
-それなりに売りとなる要素を
-用意しておかないと
+Not if we want people in it.
+We're building it way up here in
+the middle of nowhere.
+Yuuki
 406300201_24_a
+Sinon
 406300201_23_a
+Silica
 406300201_22_a
-どんな街?
-普通の街じゃダメなんですか?
-リーファ
+What sort of town? Like, can't we
+just make, you know...a town?
+Leafa
 406300201_21_a
+Yuuki
 406300201_20_a
-それもあるかもしれないけど
-どんな街を作るかで
-ちょっと決めあぐねてて
+I think that's part of it, but the
+real problem is nobody can agree
+on what sort of town to build...
+Asuna
 406300201_19_a
-リーファ
+Leafa
 406300201_18_a
-やっぱりプレイヤー主催の
-イベントだと、なかなか集まりも
-悪いんでしょうか?
+I guess...not many people were
+interested in a player-run event?
+Silica
 406300201_17_a
-それに思ったよりも
-参加者が少ないですね
+And where is everyone?
+There's almost nobody here...
+Silica
 406300201_16_a
+Sinon
 406300201_15_a
+Silica
 406300201_14_a
-ってどうしたんですか?
-なんか開拓始める前から
-お通夜みたいな雰囲気ですけど
-リーファ
+Did...I miss something? We haven't
+even started yet, and everyone's
+in gloom and doom mode.
+Leafa
 406300201_13_a
+Yuuki
 406300201_12_a
-シノのん、リーファちゃん、
-シリカちゃん
-来てくれてありがとう
+Oh, hey girls...
+Thanks for coming...
+Asuna
 406300201_11_a
-リーファ
+Leafa
 406300201_9_a
-アスナ、ユウキ
-お待たせ
+Hey, you two. Sorry we're late.
+Sinon
 406300201_8_a
+Silica
 406300201_10_a
+Yuuki
 406300201_7_a
+Asuna
 406300201_6_a
-確かになぁ
-プレイヤーC
+What a world.
+A cruel, non-town building world.
+Player C
 406300201_5_a
-残念だけど、
-新しい街を作りたいってだけじゃ
-こうなるのは目に見えてたわ
-プレイヤーB
+Yeaaah. Saw this coming. This
+is what happens when you try 
+to build a town with no plan.
+Player B
 406300201_4_a
+Yuuki
 406300201_3_a
+Asuna
 406300201_2_a
 bg_21_alne
-プレイヤーA
+sigh
+Player A
 406300201_1_a
-そうだね!
+You said it!
+Asuna
 406300101_22_a
-さすがに現実世界ほどじゃないよ
-でも大勢でやったほうが
-きっと楽しいはずだよ!
+It'll be a breeze compared to
+doing this stuff in the real
+world. But the more the merrier!
+Yuuki
 406300101_21_a
-みんなにも声をかけてみるね
-街作りなんて大事業、大勢集めないと
-すごく時間がかかりそうだもんね
+I'll message everyone and see if
+they're interested too. This is
+going to be a big job!
+Asuna
 406300101_20_a
+You betcha!
+Yuuki
 406300101_19_a
-ユウキもわたしも
-参加しないわけにはいかないもんね
+you and me just have to
+participate! Isn't that right?
+Asuna
 406300101_18_a
-ウンディーネ領とインプ領の
-狭間のフィールドで行う
-プレイヤー主導のイベントなら、
+If we've got a player-run event
+going down in the land between
+our territories,
+Asuna
 406300101_17_a
-やっぱりね～
-でもわたしも協力しようかな
+I knew it! But I'm still happy to
+help, Yuuki.
+Asuna
 406300101_16_a
-えへへ、バレちゃった?
+Hahaha, you got me figured out!
+Yuuki
 406300101_15_a
-ふふっ、ユウキはそれはそれで
-スリルがあって面白そうって
-思ってるんでしょ?
+Hehe, you're even more excited
+now, aren't you? You're all about
+the thrills.
+Asuna
 406300101_14_a
-あっ、そういえばそうだね
-安心して休める街じゃなくなる
-感じかもね
+Oh, I totally didn't even think
+about that! Guess I'll sleep with
+one eye open there! Hahaha!
+Yuuki
 406300101_13_a
-それってモンスター達が
-侵入できちゃうことになるけど、
-それでもいいのかな?
+That means monsters can attack
+and hurt people. Are you still
+okay with this idea?
+Asuna
 406300101_12_a
-システムとして圏外エリアには
-変わらないよね
+it may look like a town, but the
+system won't recognize it as a
+safe zone.
+Asuna
 406300101_11_a
-森を切り拓いて
-建物を沢山建てればカタチ上の
-街には見えたとしても、
+But there's one big problem:
+even if we clear the land and
+put up buildings,
+Asuna
 406300101_10_a
-過疎化した寒村とかを観光地化しよう
-って動きは沢山あるもんね
+I have heard about small towns
+trying to rebrand themselves as
+tourist destinations...
+Asuna
 406300101_9_a
-仮想世界でもできないかって
-試す意味も込められてるらしいよ
+So I guess someone got the idea
+into their head to do that here
+in VR too!
+Yuuki
 406300101_8_a
-そうだね
-後は地方活性化とか
-現実でも今実践されてることを
+Yeah! Lots of people are trying to
+revitalize the countryside in the
+real world...
+Yuuki
 406300101_7_a
-なんだか面白そう
-開拓するってことだよね
+That sounds like a fun idea!
+It's like being a pioneer!
+Asuna
 406300101_6_a
-だからそこに新しい街を作って
-人を集めようって試みらしいんだ
+So someone thought, "Hey! Let's
+build a town up there, see what
+happens!"
+Yuuki
 406300101_5_a
-あそこってめぼしいクエスト発生や
-レア素材が採れるわけでもないから
-人があんまり訪れないって話で
+There aren't many great quests or
+rare items to find up there, so
+not many people go out that way...
+Yuuki
 406300101_4_a
-うん、そうらしいよ
-ウンディーネ領とインプ領にまたがる
-山脈があるでしょ?
+Yeah, that's what I hear. Know
+those mountains between
+Undine and Imp territory?
+Yuuki
 406300101_3_a
+Yuuki
 406300101_2_a
 bg_21_alne
-プレイヤー主導の街づくり?
+There's a player-run event to
+build a town?
+Asuna
 406300101_1_a
 Thank you both. That means a lot.
 Arianrhod
@@ -66967,351 +67370,481 @@ bg_08_calmdead
 Kii-boy. Hey, Kii-boy!
 Argo
 400200101_1_a
-ふふっ、そうだね!
+Hehe, I like the way you think!
+Asuna
 1850038_35_a
-慰労も込めてね
+I need some serious R&R.
+Sinon
 1850038_34_a
-とりあえずこれで
-覗きの心配はなくなったことだし
-みんなでお風呂に行きましょう
+So, now that we don't have to
+worry about any perverts anymore,
+let's hit the hot springs.
+Sinon
 1850038_33_a
-反省してるみたいだし
-大丈夫だと思うけどね
+He did seem sincere about turning
+a new leaf, so I think we're fine.
+Asuna
 1850038_32_a
-運営に伝えるのは止めておいたけど
-でもこの一部始終の映像は念のため
-残しておいたほうがいいわね
+In return, we don't turn him in.
+Buuut we keep the video as
+insurance.
+Sinon
 1850038_31_a
+Asuna
 1850038_30_a
-もうこれからは
-二度とこんなことはしないって
-約束してくれたから
+Well, at least we got a promise
+from him never to do it again.
+Sinon
 1850038_29_a
-リーファ
+Leafa
 1850038_28_a
-ううん、万全に準備した
-シノンたちの頑張りがあってこそだよ
+Hey, Sinon deserves the thanks
+more than any of us! She
+planned this whole thing!
+Yuuki
 1850038_27_a
+Sinon
 1850038_26_a
-うん、リーファちゃんもユウキも
-協力ありがとう
+For sure! Good teamwork, girls!
+Asuna
 1850038_25_a
+Yuuki
 1850038_24_a
 bg_event_japan_castle
-ふぅ、これで一見落着ですね
-リーファ
+Phew. That settles that.
+Leafa
 1850038_23_a
-俺の負けだ
-好きにするといい
+Fine. You win. Do whatever you
+want. I don't care.
+Peeping Tom
 1850038_22_a
+Peeping Tom
 1850038_21_a
-捕えるための事前準備も
-しっかりとさせてもらったわけ
+So we made sure our plan to catch
+you was foolproof.
+Sinon
 1850038_20_a
-あなたが用意周到なことは
-十分にわかってたからね
+We knew you were relatively
+cautious.
+Asuna
 1850038_19_a
+...!
+Peeping Tom
 1850038_18_a
-現実世界の本名まで
-ブラックリストに記載されて
-二度とALOにはダイブできなくなるよ
-リーファ
+but they blacklist you from ever
+diving into ALO again.
+Leafa
 1850038_17_a
-つまりこの映像を運営に渡せば
-あなたはアカウント名だけじゃなく
-リーファ
+So reality check. We give the devs
+this video, and not only do they
+ban your account,
+Leafa
 1850038_16_a
-今無理にログアウトしようとしても
-ダメだからね、ここまで全部
-映像として残してあるんだから
-リーファ
+Trying to log out? Too late. We've
+been recording this whooole
+conversation.
+Leafa
 1850038_15_a
+Urk...!
+Peeping Tom
 1850038_14_a
-そして敢えて泳がせておいて
-こっそり尾行する
-ここまでが作戦の一貫だよ
+Yup! And now
+oh, I always wanted
+to say this!
+you're under arrest,
+scumbag!
+Yuuki
 1850038_13_a
+Yuuki
 1850038_12_a
-あなたのことは調査済みだったんだよ
-怪しい人影が温泉街をうろつくのを
-厳しくチェックしてたんだ
-リーファ
+Nice to meet you. We're the creep
+patrol, and we've had our eye on
+you ever since you entered town.
+Leafa
 1850038_11_a
-なっ!?
+Huh?!
+Peeping Tom
 1850038_10_a
-そうはいかないんだな、これが
+Naaah, I wouldn't say that.
 1850038_9_a
-俺を捕まえることなんて
-離れているお前たちには
-できやしない
+You'll never be able to catch me
+or stop me from doing it again!
+Ha ha ha!
+Peeping Tom
 1850038_8_a
-映像越しに見つかったところで
-どうということはない!
-ここは周囲に誰もいない山の中だ!
+Doesn't matter if you got my
+mirror! I'm alone on a remote
+mountain! No one can find me here!
+Peeping Tom
 1850038_7_a
-勝手にすればいいさ!
+Bah! Whatever!
+I don't care!
+Peeping Tom
 1850038_6_a
-この三日月の手鏡は
-没収させてもらいます
+We'll just be confiscating this
+Crescent Moon Mirror.
+Asuna
 1850038_5_a
-な、ななっ
+Wh-Wh-What the hell?!
+Peeping Tom
 1850038_4_a
-ええ、現行犯よ
-あなたは私たちが仕掛けた罠に
-まんまとハマったのよ
+You fell right into our trap,
+moron.
+Sinon
 1850038_3_a
+Sinon
 1850038_2_a
 bg_11_forest_yui
-使いましたね
+Nice Moonlight Mirror.
+You've been caught red-handed.
+Asuna
 1850038_1_a
-な、なにっ!?
+Wh-What the
 1850037_19_a
 item_20_moonlight_mirror02
-ここで補正アイテムを使いつつ
-闇魔法の月光鏡を使用すれば
+I just have to use these dark
+magic buffs, link a Moonlight
+Mirror to that handy item, and...
 1850037_18_a
-へへっ、ようやく計画を
-実行に移すときが来たぜ
+Heh heh heh... Finally, my plans
+have reached fruition...
 1850037_17_a
 bg_11_forest_yui
 1850037_16_a
+Asuna
 1850037_15_a
+Race you to the water!
+Sinon
 1850037_14_a
-お願いね
-わたしたちは露天風呂に行って
-手鏡を見つけよう!
+Meanwhile, Sinon and I will check
+the hot spring for that magic
+mirror!
+Asuna
 1850037_13_a
-ええ、頼んだわ
-リーファ、ユウキ
+Get him for us, girls.
+Sinon
 1850037_12_a
+Yuuki
 1850037_11_a
-あたしたちのAGIに勝るプレイヤー
-なんて、そうそういませんよ!
-任せてください!
-リーファ
+There aren't many players whose
+agility stats can compare to
+ours! We'll catch him for sure!
+Leafa
 1850037_10_a
-リーファ
+Leafa
 1850037_9_a
-じゃあボクらは
-アイツを追いかけるね
+So, me and Leafa get to go after
+him, right?
+Yuuki
 1850037_8_a
-恐らく風呂のどこかに
-三日月の手鏡を設置したはずよ
+He must have hidden his Crescent
+Moon Mirror in there somewhere.
+Sinon
 1850037_7_a
-ええ、女性用の露天風呂に
-常時配置してる見張りを
-減らしておいたら案の定来たわね
+Removing the guards watching the
+baths was the right move. I knew
+he'd take the bait. Idiot.
+Sinon
 1850037_6_a
-行ったね
+Creep sighted.
+Asuna
 1850037_5_a
+...!
 1850037_4_a
+Sinon
 1850037_3_a
+Asuna
 1850037_2_a
 bg_event_japan_castle
 1850037_1_a
-わかった、案内するぜ
+Sure, I can take you over there
+now.
+Agil
 1850035_35_a
-そうだね
-犯人像を知っておきたいし
+Good idea. I want to know what
+this jerk looks like.
+Asuna
 1850035_34_a
-その売買をした
-アイテム屋と話がしたいわ
+Agil! I want to talk to the person
+who sold this guy those items.
+Sinon
 1850035_33_a
-それならまだ三日月の手鏡は
-設置できてない可能性の
-ほうが高いわね!
+That means that maybe he hasn't
+had time to put them in yet!
+Sinon
 1850035_32_a
-匿名性の攻略BBSに覗こうと計画して
-自慢してる人の書き込みが
-あったんだって
+Someone posted anonymously on an
+ALO forum about how they were
+planning to peep...
+Asuna
 1850035_31_a
-そもそも覗き魔の噂って
-どういうものだったの?
+Asuna... What did those rumors
+about the peeping Tom say?
+Sinon
 1850035_30_a
-もしくはまだ設置できてないか
+It might still be in there...
+Asuna
 1850035_29_a
-なるほど、読めてきたわ
-その男は露天風呂のどこかに
-盗撮カメラのようにそれを設置した!
+Ahh, I get it. He hid one of them
+somewhere to act as his personal
+peeping camera. Gross.
+Sinon
 1850035_28_a
-ソイツもかなりの高額アイテムだが
-例の闇属性増幅アイテム購入者は
-それも買ったって話だ
+These Crescent Moon Mirrors cost a
+bundle, and the guy who bought the
+dark magic buffs bought some too.
+Agil
 1850035_27_a
-そいつを持てば月光鏡を使える術者と
-フレンドじゃなかったとしても
-対話ができるらしい
+If you have one of them, you don't
+have to be friends with the caster
+for them to open up a Mirror.
+Agil
 1850035_26_a
-三日月の手鏡ってアイテムでな
+It's called the Crescent Moon
+Mirror.
+Agil
 1850035_25_a
-ああ、最近その魔法絡みで
-新たに実装されたアイテムが
-あるらしくてな
+Yeah, but there's more. Recently,
+someone came up with a handy new
+item that uses that spell.
+Agil
 1850035_24_a
-さすがにそんな万能性はないはずだよ
-フレンド登録してる人同士とか
-それくらいの制約はあるはず
+No, it isn't that overpowered of a
+spell. It only works for people
+on your friend list, I think.
+Asuna
 1850035_23_a
-月光鏡ってどこでも
-映像を映し出せるの?
+Can you even open up a Moonlight
+Mirror from anywhere, to anywhere?
+Sinon
 1850035_22_a
-女性用の露天風呂を
-覗いていたってこと?
+Just so they can cast Moonlight
+Mirror and peep on the girls'
+hot spring?
+Sinon
 1850035_21_a
-一時的に闇魔法の力を上げて
-月光鏡を使って
+Wait... You think our peeper is
+using these items to buff their
+dark magic level...
+Sinon
 1850035_20_a
-一時的に闇属性の魔法熟練度を
-上げるアイテムを大量購入した奴が
-いたそうだ
+Someone bought a boatload of items
+that supercharge your dark magic
+skill level temporarily.
+Agil
 1850035_19_a
-最近の話らしいが、
+Well, not long ago...
+Agil
 1850035_18_a
-使い手がほとんどいない
-高等な魔法って話ですよね
-それがどうかしたんですか?
+What about it? It's really
+high-level dark magic
+many people can cast it.
+Asuna
 1850035_17_a
-ああ、そうだ
+Exactly.
+Agil
 1850035_16_a
-遠く離れた相手と
-映像付きで対話できるのよね
+It opens up a sort of two-way
+mirror that lets you see and talk
+to someone, right?
+Sinon
 1850035_15_a
-アリシャから聞いたことがあるわ
+Yeah. Alicia told me about it.
+Sinon
 1850035_14_a
-お前たちは月光鏡っていう
-闇属性の上位魔法を知ってるか?
+You guys heard of the high-level
+dark spell, Moonlight Mirror?
+Agil
 1850035_13_a
-どんな話なんですか?
+What sort of story?
+Asuna
 1850035_12_a
-話はまだ終わってないぞ
-色々と情報交換をしてた際にな
-奇妙な話を聞いたんだ
+I'm not finished yet. I heard a
+strange little story from a friend
+of mine just now.
+Agil
 1850035_11_a
-覗き魔はどこから
+Then... How is that peeping Tom
+spying on us...?
+Sinon
 1850035_10_a
-確かにそうですね
+Yeah, that makes sense...
+Asuna
 1850035_9_a
-お前たちの言うように覗きみたいな
-行為を助長するようなアイテムは
-運営もさすがに実装しないだろう
+Yeah. The devs aren't going to
+add an item to the game that could
+be misused like that.
+Agil
 1850035_8_a
+You're sure?
+Sinon
 1850035_7_a
-結果的に言うと
-そんな新商品は存在しない
+In simple terms, those sorts of
+items don't even exist in ALO.
+Agil
 1850035_6_a
-ありがとう
-それで状況は
+We owe you one. So, what did
+you learn?
+Sinon
 1850035_5_a
-エギルさん、ありがとうございます!
+Agil, thank you so much!
+Asuna
 1850035_4_a
+Sinon
 1850035_3_a
+Asuna
 1850035_2_a
 bg_21_alne
-待たせたな、お前ら
-知り合いの問屋たちを集めて
-情報を集めたぜ
+Sorry for the wait. I asked some
+merchant friends of mine for the
+info you wanted.
+Agil
 1850035_1_a
-最近ここで、今から言うような
-新商品が出回ってないか
-教えてもらえる?
+Can you tell me if any of the
+following items have been made
+or sold recently?
+Sinon
 1850033_20_a
-あ、ああ
+Yeah. I think I said that.
+Agil
 1850033_19_a
-エギルはここに商品を
-仕入れに来たのよね
+You're here to do some shopping,
+right?
+Sinon
 1850033_18_a
-ん、なんかあったのか?
+Cool. What do you need?
+Agil
 1850033_17_a
-相談するのに最適なプレイヤーが
-いてくれたわね
+Perfect timing, Agil. You're just
+the person I was looking for.
+Sinon
 1850033_16_a
+Asuna
 1850033_15_a
-よう、こんな場所で会うなんてな
+Yo. You guys here to shop too?
+Agil
 1850033_14_a
-あっ、エギルさん
+Oh, hi Agil!
+Asuna
 1850033_13_a
-お前たちも買い物か?
+Well, look who it is.
 1850033_12_a
-なるほど
+Oh...kay.
+Asuna
 1850033_11_a
-例えば隣の山くらいから
-なにかしら道具を使って見ていると
-考えたほうがいいわ
+Maybe even the next mountain over.
+He'd need a tool, but it's worth
+considering.
+Sinon
 1850033_10_a
-もし覗いているのだとしたら、
-更に離れた場所
+So if this creep exists, he has
+to be peeping from far away...
+Sinon
 1850033_9_a
-ええ、あの後も何度か山の周囲を
-注視してみたけど、
-それらしき姿は見つからなかった
+Yeah. I went over every inch of
+that mountain a dozen times,
+but found no trace of him.
+Sinon
 1850033_8_a
-ってもしかして
-覗き魔が使ってるってこと?
+Hmm... You think the peeper might
+be using one?
+Asuna
 1850033_7_a
-そこに現実で言うところの
-いわゆる望遠鏡みたいなものが
-売られてないか確認したいの
+I came to see if anyone's selling
+telescopes or binoculars.
+Sinon
 1850033_6_a
-この街にはプレイヤーを手助けする
-色んな新アイテムが集まるって話を
-聞いたのよ
+I hear that people in this town
+deal in all sorts of helpful
+player items.
+Sinon
 1850033_5_a
-それなのにどうして
-温泉街を離れてこんな所に
+Then why are you way out here?
+The hot springs are nowhere near
+here.
+Asuna
 1850033_4_a
-ええ、そうよ
+That's right.
+Sinon
 1850033_3_a
+Sinon
 1850033_2_a
 bg_21_alne
-シノのん
-今は覗き魔を捕まえるために
-行動してるんだよね?
+Sinonon... You're trying to catch
+that peeping Tom, right?
+Asuna
 1850033_1_a
+Sinon
 1850031_17_a
-視力が上方補正されてるのに
-それでも見つけられないなんて
-ただの噂話だったのかな?
+If you can't see anyone, then I
+doubt there's anyone out there...
+Besides, it was just a rumor.
+Asuna
 1850031_16_a
-この露天風呂からは
-山の全景を見渡せるし
-それにシノのんはケットシーだから
+Sinonon, we've got a full view of
+the mountain, and your Cait Sith
+eyesight's the best there is.
+Asuna
 1850031_15_a
-ここから見渡した限り
-そんな人影は見当たらないわね
+Hmm... I don't see anyone...
+Sinon
 1850031_14_a
-仕方ないでしょ!
-そういうのは現行犯を捕まえないと!
+That's a secondary concern right
+now! If there's a peeper, I'm
+going to MURDER him!
+Sinon
 1850031_13_a
-シ、シノのん!
-お湯から立ち上がってもしホントに
-覗き魔がいたら、全部見えちゃうよ!
+S-Sinonon! Sit down! If someone
+is peeking, you're showing it
+all off!
+Asuna
 1850031_12_a
+Grrr, if anyone even THINKS
+about peeking, I'll
+Sinon
 1850031_11_a
-えっ!?
+WHAT?!
+Sinon
 1850031_10_a
-最近この露天風呂を覗こうとしてる
-男性プレイヤーがいるって話で
+Supposedly, someone spotted some
+guy players trying to sneak a peek
+into this hot spring...
+Asuna
 1850031_9_a
-どうかしたの?
+Right. Lay it on me.
+Sinon
 1850031_8_a
-でもちょっとさっき変な噂を
-聞いたんだ
+Ahh, good point. So, random
+change of subject, but I heard
+a weird rumor recently...
+Asuna
 1850031_7_a
-これだけ気持ちの良いものなら
-毎日来ることだって厭わないわ
+But here in VR, it's easy to just
+find a place and hop in. It's all
+about convenience.
+Sinon
 1850031_6_a
-仮想世界でなら行きたいときに
-すぐ行けるもの
+It's not easy to get out and go
+to a hot spring resort in the real
+world.
+Sinon
 1850031_5_a
-現実世界で温泉なんて
-簡単に行けるものじゃないけど、
+I wouldn't say I'm as obsessed as
+you are, but I could definitely do
+this every day.
+Sinon
 1850031_4_a
-ふふっ、シノのんも
-すっかり温泉にハマっちゃったわね
+Hehe, you've become a slave to
+the hot spring goodness too,
+huh, Sinonon?
+Asuna
 1850031_3_a
+Asuna
 1850031_2_a
 bg_event_hot_springs
-今日もいいお湯ね
+Mmm, that's some nice hot spring
+action right there.
+Sinon
 1850031_1_a
 Aw, you're just saying that.
 Leafa
@@ -98686,320 +99219,428 @@ bg_05_agil_shop
 Hey, Agil.
 Kirito
 940011_1_a
-きゅい!
+Chirp!!
+Pina
 850048_28_a
-それ以外は使っちゃダメだよ!
+So never use it unless I say so,
+got it?!
+Silica
 850048_27_a
+Pina
 850048_26_a
-ふふっ、そうですね
-ピナ、これからは使ってほしいときに
-ちゃんと言うからね!
+Hehe, good idea. Now, Pina!
+I'll tell you when to use this
+ability, okay?
+Silica
 850048_25_a
-ちゃんと退路は確認しておいた
-ほうが良さそうですけどね
-リーファ
+Maybe if you do that, figure out
+the escape plan first?
+Leafa
 850048_24_a
-そうですね
-まぁこっちも周りが全然見えなく
-なりそうですから、
-リーファ
+Yeah! That'd be awesome!
+Though, I guess you'd be totally
+blinded by bubbles too...
+Leafa
 850048_23_a
-戦闘中で逃げたいときとか
-敵への目くらましとかになりそうだよ
+Like, if you needed to run from a
+monster! It'd be like a bubble
+version of a smoke bomb!
+Asuna
 850048_22_a
-リーファ
+Leafa
 850048_21_a
-ふふっ、確かに予想外だったけど
-場合によっては
-使えるんじゃないかな?
+Hehe, yeah, that was certainly
+surprising. But I bet you can
+find a use for it!
+Asuna
 850048_20_a
-でもステータス上昇って
-こんな内容だとは思いませんでした
+sigh
+... Very well. You're off
+the hook. But I did not expect
+the hot spring buff to do that!
+Silica
 850048_19_a
+Silica
 850048_18_a
-きゅる!
+Chirp!
+Pina
 850048_17_a
-そうですね
-きっと泡が沢山出てきて
-楽しくなっちゃったんですよね
-リーファ
+Yeah, I bet making all those
+bubbles was just too much fun to
+stop. Happens to the best of us.
+Leafa
 850048_16_a
-リーファ
+Leafa
 850048_15_a
-まぁまぁシリカちゃん
-ピナも反省してるみたいだから
-もう許してあげてよ
+Now now, Silica, go easy on the
+little cutie. I think Pina's sorry.
+Asuna
 850048_14_a
-きゅううっ
+Chirp...
+Pina
 850048_13_a
+Pina
 850048_12_a
-もうやったらダメだからね!
+Pina! I'm very upset with you!
+Never do that again!
+Silica
 850048_11_a
-ようやく捕まえられたぁ
+Phew... Finally...
+Silica
 850048_10_a
-きゅい!?
+Chirp?! Chiiirp...!!
+Pina
 850048_9_a
+Pina
 850048_8_a
-ピナーッ!
-大人しくしなさい!
+Piiinaaa!!
+You get over here
+right this instant!
+Silica
 850048_7_a
-きゅるる
+Chirp?
+Pina
 850048_6_a
+Already on it!
+Silica
 850048_5_a
-シリカちゃん、今だよ!
-リーファ
+Now, Silica! Go go go!!
+Leafa
 850048_4_a
-ナイス、リーファちゃん!
-洗い場全体を覆ってた泡が
-一気に流されたよ!
+Nice one, Leafa! I think we
+cleared the whole hot spring
+of bubbles!
+Asuna
 850048_3_a
+Pina
 850048_2_a
 bg_event_hot_springs
-せやああっ!!
-リーファ
+Hiyaaah!!
+Leafa
 850048_1_a
-リーファ
+Already on it!
+Leafa
 850047_26_a
-じゃあまずはわたしの水魔法だね!
+Here we go...
+It's water time!!
+Asuna
 850047_25_a
-ぜひお願いします!
+Yeah, count me in!
+Silica
 850047_24_a
-なるほど
-うん、それなら行けそうかも!
+That's a good plan! Let's do it!
+Asuna
 850047_23_a
-シリカちゃんは
-その隙にピナを捕まえて!
-リーファ
+And while you and I keep the
+bubbles at bay, Silica swoops
+down and grabs Pina!
+Leafa
 850047_22_a
-あたしが風魔法を使って
-アスナさんの水をこのお風呂場全体に
-一気に流し込むんです
-リーファ
+I mean, I'll use my wind magic to
+blow the water from your spells
+and sweep the entire hot spring!
+Leafa
 850047_21_a
+Get...what?
+Asuna
 850047_20_a
-アスナさんの魔法で
-作り出した水をあたしの魔法で
-うまく拡散させるのはどうでしょう?
-リーファ
+Hold up... How about we combine
+our magic, Asuna? You make water,
+I spread it out.
+Leafa
 850047_19_a
-オマケにピナは上機嫌で
-ずっとあの調子で
+And Pina just keeps making more
+and more and more bubbles...
+Silica
 850047_18_a
-きゅるるるっ
+Chiiirp! Chirp chirp! Chiiirp!
+Pina
 850047_17_a
-わたしの水魔法でも
-泡の膨張を止めるには
-勢いが足りなくて
+My water magic isn't powerful
+enough to push back those
+bubbles...
+Asuna
 850047_16_a
-な、なるほど
-そういうことだったんだね
-リーファ
+I...see. Crazy.
+Leafa
 850047_15_a
-じ、実は
+A-Actually, the truth is...
+Silica
 850047_14_a
-騒ぎを聞きつけて来てみたら
-わわっ! なにこの泡まみれ!?
-リーファ
+I heard the commotion, so I came
+by to check it out. But I was NOT
+prepared for all these bubbles!
+Leafa
 850047_13_a
-リーファちゃん!
+Leafa!
+Asuna
 850047_12_a
+Asuna
 850047_11_a
-ど、どうしたの?
-リーファ
+Guys? What in the world's going
+on here?
+Leafa
 850047_10_a
-でも弱りましたね
-このままじゃ
+But what do we do now?
+At this rate...
+Silica
 850047_9_a
-い、いえ!
-そんな、謝らないでください!
+N-No, don't worry about it!
+You don't have to apologize!
+Silica
 850047_8_a
-ごめんなさい
-わたしはまだそんな水魔法は
-覚えられてなくて
+Sorry, Silica... I never learned
+any spells that could make that
+much water...
+Asuna
 850047_7_a
-ダメだね
-このお風呂場全体に一気に
-水をかけられたらいいんだろうけど
+Rats... Pina's bubbles are too
+powerful! If only I could hit the
+whole hot spring at once...
+Asuna
 850047_6_a
-アスナさんの水の威力よりも
-ピナのバブルが増殖していく
-勢いのほうが全然強い
+Pina's buffed bubble powers are
+totally overwhelming your water
+spell, Asuna...
+Silica
 850047_5_a
-そ、そんな
+N-No way...
+Asuna
 850047_4_a
-きゅいきゅ～
+Chirp, chirp! Chirp chiiirp!
+Pina
 850047_3_a
+Silica
 850047_2_a
 bg_event_alo_sky
-てええいっ!!
+Hraaagh!!
+Asuna
 850047_1_a
-なるほど!
-お願いします!
+That's a great idea!
+Go for it, Asuna!
+Silica
 850045_19_a
-うん、今こそウンディーネの
-水魔法の威力を見せつけるよ!
+You got it! This is the perfect
+chance to show off my Undine
+skills!
+Asuna
 850045_18_a
-あっ、もしかして
+Oh, of course! Water magic!
+Silica
 850045_17_a
-泡を洗い流すなら
-やっぱり水だよね
-よーし、わたしがやってみるよ
+We'll need a whole lot of water to
+wash all those bubbles away...
+So, leave it to me!
+Asuna
 850045_16_a
-でもこの状況
-一体どうしたら
+But look at all the soapsuds...
+What do we do about this?
+Silica
 850045_15_a
-なるほど
-そうかもしれないね
+Possible... Definitely possible...
+Asuna
 850045_14_a
-バブル攻撃の威力が増すとか
-そういうことだったんでしょうか?
+It could have increased the power
+of Pina's bubble attack.
+Silica
 850045_13_a
-あっ、もしかしたら
-ステータスが上昇するっていうのは
+Yeah... Oh, maybe it was the hot
+spring's buff?
+Silica
 850045_12_a
-でもそれにしては
-膨張しすぎな気がするね
+Even if that is what happened,
+that's way too many bubbles...
+Asuna
 850045_11_a
-それはピナのバブル攻撃が
-洗い場の石鹸と混ざって
-膨らんだんだと思うんですけど
+Pina must have used a bubble
+attack on the soap, and it all
+just went "fwoosh"...
+Silica
 850045_10_a
-あの子がなにをしたら
-あんな風に浴場全体が
-泡まみれになるの?
-プレイヤーB
+How did it do that? I've never
+seen anything make bubbles that
+big.
+Player B
 850045_9_a
+Yeah...
+Silica
 850045_8_a
-きゅいきゅいきゅー
+Chirp chirp chiiirp!
+Chirp chirp chiiirp!
+Pina
 850045_7_a
-うちの子ってあそこにいる
-あの小竜よね?
-プレイヤーA
+That little dragon over there is
+yours, then?
+Player A
 850045_6_a
-す、すみません
-うちの子のせいで
+S-Sorry, everybody...
+I should have been keeping a
+better eye on my tamed monster...
+Silica
 850045_5_a
-突然露天風呂が巨大な泡に覆われて
-ビックリしたわ
-プレイヤーB
+Well, that was surprising. I can't
+believe the whole hot spring got
+enveloped in a ball of bubbles.
+Player B
 850045_4_a
-え、ええ
-ALOは飛べるからこれくらい
-なんともないけど
-プレイヤーA
+Y-Yeah... It's a good thing this
+is ALO. Without wings, we would've
+been caught in it.
+Player A
 850045_3_a
+Silica
 850045_2_a
 bg_event_alo_sky
-み、皆さん大丈夫ですか?
+I-Is everyone all right?
+Asuna
 850045_1_a
-きゃ、きゃああ～～!
+Wah! Aaaaaah!!
+Silica
 850043_22_a
-きゅるる～
+Chiiiirp chirp CHIRP!
+Pina
 850043_21_a
-あ、泡が大きな塊になってる!?
-こ、これは!?
+Whoa, what is Pina doing?!
+The soapsuds are turning into
+a giant pile of bubbles!!
+Asuna
 850043_20_a
-ん、どうしたの?
-わああっ!!
+Hmm, what is it, Pina?
+WAAAH!!
+Silica
 850043_19_a
-きゅきゅい!
+Chirp! Chirp chirp!
+Pina
 850043_18_a
-そうですね
+Good idea!
+Silica
 850043_17_a
-そっかあ
-もし変化するのが
-隠しパラメーターなら
-色々と試してみないとダメだよね
+Hmm... The buff might only affect
+some hidden stat. You might want
+to experiment a bit.
+Asuna
 850043_16_a
-どこのパラメーターも
-変わってないですね
+The stats all seem to be about
+the same...
+Silica
 850043_15_a
-ええと、うーん
+Alright, let's see here...
+Silica
 850043_14_a
-そうだったんだね
-じゃあピナのステータス画面を
-確認してみたら?
+Ooh, now I'm curious too! Open up
+Pina's status window and check!
+Asuna
 850043_13_a
-テイムモンスターにも
-効果あるのかなって思って
-試してみようかなと
+Supposedly, it works on tamed
+monsters too, so I wanted to test
+it and see what happens.
+Silica
 850043_12_a
-ステータスが一時的に上昇するって
-噂があったんです
+I heard a rumor that taking a dip
+in them temporarily buffs your
+stats!
+Silica
 850043_11_a
-それもありますけど、
-この温泉に浸かると
+Well, I'm happy to do that, but
+my main goal was the hot springs
+themselves.
+Silica
 850043_10_a
-じゃあ今日は温泉街ができたし
-せっかくだから連れてきてみたって
-感じなの?
+So you came here today just to
+introduce Pina to the joys of
+cleanliness?
+Asuna
 850043_9_a
-はい、水浴びはよくしてたんですけど
-ピナはそっちのほうが
-好きそうだったので
+No. We played in the water a lot,
+though. Pina really likes that.
+Silica
 850043_8_a
-SAOにいた頃は入らなかったの?
+You never bathed with Pina in SAO?
+Asuna
 850043_7_a
-よくよく思い返せば
-ピナとこうしてお風呂に入るのって
-初めてかもしれません
+You know, now that I think of it,
+this might be the first time we've
+ever taken a bath together.
+Silica
 850043_6_a
-気に入っちゃったみたいだね
+I guess Pina has a new favorite
+toy.
+Asuna
 850043_5_a
-ピナったら
-さっきからずっと泡で
-遊んでます
+Pina's playing with your bath
+bubbles nonstop.
+Silica
 850043_4_a
+Asuna
 850043_3_a
+Silica
 850043_2_a
 bg_event_hot_springs
-きゅいきゅい～!
+Chirp! CHIRP!
+Pina
 850043_1_a
-ホントだね～
+Yeah, wow! Someone's having fun.
+Asuna
 850041_17_a
-なんだか不思議がってますね
+Ahahaha! Pina seems really
+fascinated with them!
+Silica
 850041_16_a
-きゅいきゅい～?
+Chirp chirp?
+Pina
 850041_15_a
-ほら、ピナ
-面白い?
+Here you go, Pina.
+You like this?
+Asuna
 850041_14_a
-そうなんだ
-ピナってバブル攻撃得意だもんね
+Hehe, I'm not surprised! Pina
+uses a bubble attack all the time,
+after all!
+Asuna
 850041_13_a
-あっ、ピナったら
-アスナさんの身体についてる泡に
-興味があるみたいです
+Hehe, what is it, Pina? You're
+staring at those bath bubbles
+on Asuna reaaal hard.
+Silica
 850041_12_a
-きゅい～
+Chirp!
+Pina
 850041_11_a
-そうそう!
+Exactly!
+Asuna
 850041_10_a
-ふふっ、さっぱりするのは
-事実ですもんね
+Hehe, VR or not, you do feel nice
+and refreshed after a good bath!
+Silica
 850041_9_a
-SAOにいたときの癖なのかな
-現実世界と同じように
-洗いたくなっちゃうんだ
+But I just got in the habit from
+my time in SAO. It made me feel
+more...normal there.
+Asuna
 850041_8_a
-うん、必要ないのは
-わかってるんだけどね
+Yeah, I know you don't actually
+need to clean yourself here...
+Asuna
 850041_7_a
-アスナさんって
-こっちの世界でも身体を
-洗うんですね?
+Asuna, why do you bother washing
+up here in VR?
+Silica
 850041_6_a
-ふふっ、そうかな
-こうして身体洗ってるときって
-自然に鼻歌が出ちゃうの
+Hehehe, you think so? I'm always
+in a good mood during a bath!
+Asuna
 850041_5_a
-アスナさん
-ご機嫌ですね
+You seem to be in a good mood
+today, Asuna.
+Silica
 850041_4_a
+Pina
 850041_3_a
+Silica
 850041_2_a
 bg_event_hot_springs
-フンフンー
+Dum dee dum dee dooo!
+Asuna
 850041_1_a
 Whatever it is, I'll do my best
 to give it to you!
@@ -112461,326 +113102,467 @@ bg_04_forest_sunset
 Pina?
 Silica
 840011_1_a
+Rika
 650058_35_a
-わーん!
-もうみんなしてジロジロ見ないで
+Waaah! Stop staring at meee!!
+Asuna
 650058_34_a
+Keiko
 650058_33_a
-ほら、そうやって隠さないで
-両腕でちゃんと見せなさい!
+Stop hiding, and come clean!
+Hands at your sides, show us
+what you got!
+Shino
 650058_32_a
-だ、出し抜いたなんて、
-言いがかりだよー!
+N-No, and that doesn't even make
+any sense! Come on!
+Asuna
 650058_31_a
-あんたまたあたしたちを
-出し抜いたのねぇ!
+I should have known! You just have
+to be the best at everything,
+don't you!
+Rika
 650058_30_a
+Asuna
 650058_29_a
-明日奈みたいに健康的な毎日を
-送ってる子が肩こりなんて
-変だと思ったけど
+I thought it was weird that our
+model of health and fitness here
+had stiff shoulders!
+Rika
 650058_28_a
+Keiko
 650058_27_a
-やっぱりそうだったのね!
+Grrr... So I was right!
+Shino
 650058_26_a
+Rika
 650058_25_a
-だ、だって
-そんなのわざわざ言うことじゃ
-恥ずかしいし
+G-Guys...? Can we please stop
+talking about this? And staring?
+It's embarrassing...
+Asuna
 650058_24_a
+Shino
 650058_23_a
-あ、明日奈さん
-そうなんですか?
-ず、ずるいです!
+A-Asuna?! Really? Is that true...?
+I'm... I'm so jealous!!
+Keiko
 650058_22_a
+Asuna
 650058_21_a
-な、なんですって!
-聞き捨てならないわね!
+Wh-What?! She has?! Hold on,
+let me take a closer look!
+Rika
 650058_20_a
+Keiko
 650058_19_a
-あなたの胸!
-バストサイズ!
-最近また大きくなったでしょ!
+I beg to differ! Look at those
+things! You've gotten bigger!
+Shino
 650058_18_a
+Rika
 650058_17_a
-え、ええと
-し、知らないって言ったよね?
+U-Uhh, err... I don't know what
+you're talking about...?
+Asuna
 650058_16_a
+Keiko
 650058_15_a
-あなた肩こりの理由
-本当は自分でわかってるんでしょう?
+Asuna! You lied to us! You know
+very well what caused that pain
+you complained about!
+Shino
 650058_14_a
+Rika
 650058_13_a
+Get...what?
+Asuna
 650058_12_a
+Keiko
 650058_11_a
-こうして現実世界で
-再確認してみてようやく納得いったわ
+Anyway, now that I've had a chance
+to check here in the real world,
+I finally get it.
+Shino
 650058_10_a
+Rika
 650058_9_a
+I know! Yay!
+Asuna
 650058_8_a
-ふふっ、皆さんが納得してくれて
-明日奈さん良かったですね
+Hehe... Asuna, aren't you happy?
+Everyone is sort of agreeing with
+you now!
+Keiko
 650058_7_a
-病は気からなんて言葉もあるし、
-そういった意味では効果ありって
-言えるのかもしれないわね
+But people do say sickness and
+health start with the mind.
+Maybe it's not entirely bogus.
+Shino
 650058_6_a
+Keiko
 650058_5_a
-科学的根拠がないと
-なんとも言えないけど
+We have a tiny sample size here
+and zero proof of causation...
+Shino
 650058_4_a
-ほらほら、やっぱり効果あったでしょ
+See! I told you it would work!
+Asuna
 650058_3_a
+Asuna
 650058_2_a
 bg_os_town_1
-確かに目の調子が良くなったわ!
-頭の重さも軽くなった感じがする!
+Wow! My eyes feel much better!
+And I feel, like, a thousand times
+more rested now!
+Rika
 650058_1_a
+Sinon
 650057_36_a
+Sinon
 650057_35_a
-え、ええとそれは
-た、確かにそうだね
-フ、フシギだねぇ
+E-Err, well... H-Hey, must have
+just slept on them wrong.
+Ha. Ha ha.
+Asuna
 650057_34_a
-それなのに肩こりなんて
-ちょっと意外だわ
+I find it surprising you have
+problems with stiff shoulders.
+You're not, like, eighty.
 650057_33_a
+Silica
 650057_32_a
-アスナって背筋もいいし
-普段からストレッチとか運動も
-欠かさないわよね?
+Hmm... Fishy. You always stretch
+before a workout, you've got great
+posture, and you're really fit.
 650057_31_a
-そ、それは
+Oh, uh...
+W-Well...
+Asuna
 650057_30_a
+Asuna
 650057_29_a
-ねえ、アスナ
-アスナってどうしてそもそも
-現実世界で肩が凝ってたの?
+Hey, Asuna? Mind telling me how
+exactly your shoulders ended up
+stiff?
+Sinon
 650057_28_a
 650057_27_a
-シノンさん、どうしましたか?
-突然黙って
+Sinon... What's wrong?
+You look...thoughtful.
+Silica
 650057_26_a
+Sinon
 650057_25_a
+Sinon
 650057_24_a
-うん、きっと治るはずだよ!
+Great! I'm sure you'll feel way
+better soon!
+Asuna
 650057_23_a
+Silica
 650057_22_a
-はいはい、わかったわよ
-とりあえず一週間くらい
-ここに通いつめればいいのね
+Wow, okay. I guess we're coming
+here every day for a week, then.
 650057_21_a
-うーんと
-一週間くらいかな?
+Hmm... About a week?
+Asuna
 650057_20_a
+Asuna
 650057_19_a
-そういうアスナは
-どれくらいかけて治ったの?
+How long until you got better,
+Asuna?
+Sinon
 650057_18_a
 650057_17_a
-でもそんな一日や二日で
-効果って出てこないですよね?
+But not instantly, right?
+It'll take a day or two?
+Silica
 650057_16_a
+Sinon
 650057_15_a
-もーっ、効能だって
-本物なんだからね!
+Oh come on!
+It really works, honest!
+Asuna
 650057_14_a
+Silica
 650057_13_a
-ええ、そうね
+You said it.
 650057_12_a
+Asuna
 650057_11_a
-ふふっ、効能は置いといて
-この気分を味わうだけでも
-来て良かったって思うでしょ?
+Heh, putting aside whether or not
+it can magically heal you, it was
+worth coming just for the soak.
+Sinon
 650057_10_a
-ゴクラク、ゴクラク
+Ahhh, that's the stuff... Mmm...
 650057_9_a
+Silica
 650057_8_a
-そうなのね
-じゃあちょっと行ってみるわ
+Riiight. Might as well give it
+a shot...
 650057_7_a
+Sinon
 650057_6_a
-疲れ目や神経の疲労には
-あっちの白濁した温泉が
-いいみたいだよ
+It says that kind of murky spring
+over there helps with tired eyes
+and general exhaustion.
+Asuna
 650057_5_a
-ええ、最近パソコンに噛り付いて
-学校の課題をやってるせいか
-ちょっと目が疲れてるみたいで
+Actually, yeah. I've been stuck at
+my computer doing homework,
+and my eyes are super tired...
 650057_4_a
-リズさんは
-どこか調子の悪いところが
-あるんですか?
+Liz, do you have any aches or pains right now?
+Silica
 650057_3_a
+Silica
 650057_2_a
 bg_event_hot_springs
-確かに色んな効能が書かれてるわね
+Hey, look at all the things they
+claim these hot springs can cure.
+How credible.
 650057_1_a
-ええ、お願いね
+Right...
+Rika
 650055_24_a
-案内するよ!
+YES! A million times yes!
+I'll take you there!
+Asuna
 650055_23_a
+Asuna
 650055_22_a
-そうね、じゃあ今夜あたり
-行ってみようかしら?
+Alright, sure. You guys want to
+hit that hot spring tonight?
+Rika
 650055_21_a
-論より証拠
-里香もあの温泉に入ってみたら?
+Either way, you need proof.
+Rika, why not try it for yourself?
+Shino
 650055_20_a
+Keiko
 650055_19_a
-まぁプラシーボ効果みたいな
-ものかもしれないし
+Eh. It's probably just the placebo
+effect.
+Shino
 650055_18_a
-べ、別にそういうわけじゃないけど
-もう少し実例が欲しいとこよね
+H-Hey, no need to get so upset...
+It's not that we don't believe
+you... We just need more evidence.
+Rika
 650055_17_a
+Rika
 650055_16_a
-みんな信じてくれないの?
+sniff
+No one believes me...
+Asuna
 650055_15_a
-私は別にどこも悪くなかったから
-非検体にはなりえないわね
+I wasn't sore to begin with,
+so I can't corroborate her story.
+Shino
 650055_14_a
-詩乃さんの身体の調子は
-どんな感じですか?
+Well, how do you feel after a few
+days in the water, Shino?
+Keiko
 650055_13_a
-ただの雰囲気作りかと
-思ってたけど
+But I assumed it was just there to
+help create that hot spring vibe.
+Shino
 650055_12_a
+Keiko
 650055_11_a
-確かにあの温泉の看板に
-肩こりによく効くって書いて
-あったわね
+Hmm... I remember seeing a sign
+saying those springs had curative
+properties...
+Shino
 650055_10_a
-難しいんじゃないかしらって
-話をしてたのよ
+virtual hot springs aren't going
+to have an actual physical effect
+on your real life body.
+Rika
 650055_9_a
-いくら全感覚をフルダイブさせる
-仮想世界とはいえ、さすがに温泉の
-効能まで現実に持ってかえるのは、
+And I'm trying to tell her that's
+utter garbage. I don't care how
+realistic the experience is,
+Rika
 650055_8_a
+Rika
 650055_7_a
-詩乃のん、聞いてよ
-ここ数日ALOで温泉に浸かってたら
-肩こりが治ったんだよ!
+Shinonon! I was telling them how a
+few days in ALO's hot springs
+totally fixed my stiff shoulders!
+Asuna
 650055_6_a
-どうしたの?
+Hey. What's with all the yelling?
+Shino
 650055_5_a
-ま、まぁまぁ
-お二人とも抑えて抑えて
+H-Hey, easy there, you two...
+No need to get so upset...
+Keiko
 650055_4_a
-そうは言われてもねぇ
-さすがにそれは信ぴょう性に
-欠けるわ
+Yeaaah, I'm not buying it.
+It's ridiculous, and you're
+being ridiculous.
+Rika
 650055_3_a
+Rika
 650055_2_a
 bg_os_cafe
-ほ、ホントなんだって!
+I-I mean it, nothing happened!
+Honest!!
+Asuna
 650055_1_a
-白々しいわね
-まぁいいけど
+sigh
+Your attempt to change the
+subject is painfully obvious.
+Fine. You're off the hook today.
+Sinon
 650053_18_a
-あっちにも温泉があるらしいよ!
-効能が別みたいだし、
-行ってみようよ!
+Th-There's another hot spring just
+over that hill that's totally
+unique! Let's go check it out!
+Asuna
 650053_17_a
-そ、そんなことないよ
-あっ、シノのん!
+Wh-What are you talking about,
+Sinonon? O-Oh, by the way!
+Asuna
 650053_16_a
-なんか怪しいわね?
+Hmmm... Nope, can't do that.
+Details, now!
+Sinon
 650053_15_a
-あっ、いや、なんでもないの!
-ご、ごめん忘れて!
+Eep! I did nothing nowhere!
+Forget I said anything!
+Asuna
 650053_14_a
-キリトの
+Hold the phone. You did what
+with Kirito where now?
+Sinon
 650053_13_a
-そういえば初めてこの世界で
-お風呂に入ったのもキリトくんの
+Come to think of it, the first
+time I took a bath was at
+Kirito's...
+Asuna
 650053_12_a
-でもそんなときにキリトくんが
-この世界で生きていく希望を
-わたしに教えてくれたんだよ
+Eventually I met Kirito, and he
+taught me that life in VR could
+be filled with hope and joy.
+Asuna
 650053_11_a
+Asuna...
+Sinon
 650053_10_a
-お風呂どころか
-食べることも生きることも絶望して
-何もする気が起こらなかった
+I was so upset and depressed,
+I barely even ate, much less took
+a bath. It seemed so pointless...
+Asuna
 650053_9_a
-わたしも最初にSAOに囚われた頃は
-そうだったよ
+I was the same way when I first
+learned I was trapped in SAO.
+Asuna
 650053_8_a
-仮想世界でお風呂に入ったりなんて
-考えもしなかったわ
-そんな必要ないと思ってたもの
+I didn't see the point.
+Sinon
 650053_7_a
-私はGGOを一人でプレイしてた頃は
+It is nice. You know, back when
+I was soloing in GGO, I never even
+thought of taking a virtual bath.
+Sinon
 650053_6_a
-仮想世界のお風呂も
-十分癒されるよねぇ
+But I'm definitely getting the
+relaxing vibes here... Mmm...
+Asuna
 650053_5_a
-現実世界の感覚とは少し違うけど
+Totally... It feels a little
+different from a hot spring
+in the real world...
+Asuna
 650053_4_a
-いいお湯ね
+That hits the spot...
+Sinon
 650053_3_a
+Sinon
 650053_2_a
 bg_event_hot_springs
+Oooh yeaaah...
+Asuna
 650053_1_a
-うん、そうだね
+Yeah! Race you there!
+Asuna
 650051_19_a
-じゃあ早速行ってみましょうよ
-別に運営側が入っちゃダメなんて
-決まりはないでしょう?
+So what are we waiting for?
+Let's hit the baths!
+Sinon
 650051_18_a
-そういえばそうだったね
-忙しさにかまけて
-当初の目的を見失ってたよ
+Ahaha, wow... It must have slipped
+my mind in the rush to get
+everything up and running!
+Asuna
 650051_17_a
-ふふっ、元々はアスナが
-温泉を作りたいって言ったんじゃ
-なかったかしら?
+Heh, you were the one who wanted
+hot springs so bad. I thought
+you'd be the first in the water.
+Sinon
 650051_16_a
-ああ、そうだった!
-すっかり忘れてた!
+Ah! You're right!
+I completely forgot!
+Asuna
 650051_15_a
-結局まだお湯に浸かれてないじゃない
+We've been running around, setting
+up everything, but we haven't
+touched the water yet.
+Sinon
 650051_14_a
-温泉に入ることよ
-私たちプロジェクトメンバーとして
-色々やってきたけど、
+Soak in a hot spring, of course.
+Sinon
 650051_13_a
-えっ、なんだっけ
+Huh? There is? What?
+Asuna
 650051_12_a
-ふふっ、アスナ
-でも一番すべきことを
-まだやってないわよ
+Hehe, yeah... But Asuna, there's
+one extremely important thing
+we still have to do.
+Sinon
 650051_11_a
-なんだかこのプロジェクトを
-始めた頃が遠い昔みたいだね
+Yeah, it certainly was a lot of
+work. It feels like forever ago
+that we started on this project.
+Asuna
 650051_10_a
-木を切り拓いて土地に建物を建てたり
-温泉の源泉を見つけたり、
-モンスターを退治したり
+We chopped trees, built buildings,
+scoured the mountain for a hot
+spring source, battled monsters...
+Sinon
 650051_9_a
-ここまで大変だったものね
+It better be, considering all the
+effort we put into it.
+Sinon
 650051_8_a
-人がたくさん集まってる
-なんかようやく安心できるね
+Look at all the people...
+I guess our town really is a hit.
+Asuna
 650051_7_a
-プレイヤーB
+Race you to the water!
+Player B
 650051_6_a
-あっちに露天風呂があるらしいわ
-早速行ってみましょう
-プレイヤーA
+There's an outdoor hot spring
+over there! Let's go check it out!
+Player A
 650051_5_a
-すごいわ!
-思ったよりもちゃんと
-してるじゃないの!
-プレイヤーB
+Wow! This place is actually pretty
+fantastic! I'm glad we came!
+Player B
 650051_4_a
+Sinon
 650051_3_a
+Asuna
 650051_2_a
 bg_05_danac
-ここが新しくできた温泉街ね～
-プレイヤーA
+So this is that new hot spring
+town everyone's talking about,
+huh?
+Player A
 650051_1_a
 Yeah. I want both the cheerleaders
 and the athletes to give it their
@@ -132152,371 +132934,443 @@ Okay, Asuna, I'm headed
 out for a bit.
 Kirito
 340011_1_a
-わ、わかってるって
+Ha ha, of course. Duh?
+Kirito
 250078_29_a
-で、でももう混浴だけは
-ぜったいにしないんだからね!
-リーファ
+F-Fine, but guys and girls get in
+separately!
+Leafa
 250078_28_a
-ああ、秘湯ってことだな
-温泉街が混んでるときがあったら
-これからもこっそり利用しようぜ
+Yeah, you got it. I'd love to keep
+this as a secret emergency hot
+spring myself too.
+Kirito
 250078_27_a
-そ、それよりもあの温泉のことは
-他の人には黙っていてくださいね
+A-Anyway, just promise us not to
+tell anyone about this spot, okay?
+Silica
 250078_26_a
-な、なんでもないったら!
-リーファ
+N-Nope, not a thing!
+Leafa
 250078_25_a
-スグ、なんか言ったか?
+Hmm? Did you say something, Sugu?
+Kirito
 250078_24_a
-一番見られたくない人に
-見られなくて良かったよ
-リーファ
+Thank goodness this steam
+prevented HIM from getting
+a glimpse...
+Leafa
 250078_23_a
-あたしはあたしで、
-人目を避けるために
-わざわざ別の温泉を探したんだから
-リーファ
+And I just wanted to find a place
+where I could bathe in peace,
+without people staring at me...
+Leafa
 250078_22_a
-せっかく来たのに入れないんじゃ
-元も子もないよな
+I wish I could've taken a dip,
+though...
+Kirito
 250078_21_a
-まぁ温泉街が繁盛してるのは
-良いことだけどさ
+It's a shame I couldn't try the
+water in town, but I'm glad the
+place you built is booming.
+Kirito
 250078_20_a
-そうだったんだ
-リーファ
+Oh, that makes sense...
+Leafa
 250078_19_a
-近くに秘湯みたいなのないかなと
-思って探索してたら
-運良くここを見つけたんだ
+So, I decided to go fly around and
+see if I could find a natural hot
+spring. And I just did! Hurrah!
+Kirito
 250078_18_a
-男湯がすんごく混んでて
-全然入れる感じじゃなかったから
+But the guys' springs were super
+crowded and there was no way I
+was getting in...
+Kirito
 250078_17_a
-さっきお前たちが作ったっていう
-温泉街に行ってみたらさ
+Well, I wanted to check out that
+hot spring resort town you guys
+built...
+Kirito
 250078_16_a
-どうだか
-で、お兄ちゃん、どうしてここに?
-リーファ
+You say that, but...
+What are you doing all the
+way out here, anyway?
+Leafa
 250078_15_a
-だ、大丈夫だって
-全然見えてなかったから
+H-Hey, it's fine!
+I can't see anything.
+Kirito
 250078_14_a
-もう、油断も隙もないんだから
-リーファ
+Seriously, you can never let down
+your guard with him...
+Leafa
 250078_13_a
+Kirito
 250078_12_a
-リーファ
+Leafa
 250078_11_a
 bg_11_forest_yui
-び、ビックリしましたね
+This is...surprising...
+Silica
 250078_10_a
-きゃっ!
-あ、あたしたち裸なんだから
-お兄ちゃんこっち来ないでーー!!
-リーファ
+Don't find us! We're not wearing
+anything!
+Leafa
 250078_9_a
-あ、ああ
-湯気で全然見えないから
-今からそっちに行くよ
+Yeah! I can't see anything with
+all this steam, but I'll try to
+find you.
+Kirito
 250078_8_a
-キリトさんの声
-キリトさん、そこにいるんですか?
+Kirito? Is that you?
+Silica
 250078_7_a
-スグとシリカか
+Sugu? Silica?
+Kirito
 250078_6_a
-その声は
+I know that voice!
+Silica
 250078_5_a
-えっ!?
-リーファ
+WHAT?!
+Leafa
 250078_4_a
+Silica
 250078_3_a
-リーファ
+Leafa
 250078_2_a
 bg_event_hot_springs
+Huh...?
 250078_1_a
-リーファ
+...!
+Leafa
 250077_18_a
-あそこに
-誰かいます!
+Someone's there!
+Silica
 250077_17_a
-ど、どうしたのシリカちゃん!
-リーファ
+Wh-What?! What is it, Silica?!
+Leafa
 250077_16_a
-ちょっと待ってください!
+Wait a sec! Hold up!
+Silica
 250077_15_a
-ああ、温まるなぁ
-ようやく疲れが癒せてる感じ
-リーファ
+Mmm, oh yeah... So warm...
+I can finally kick back and
+relax...
+Leafa
 250077_14_a
-リーファ
+Leafa
 250077_13_a
-いいお湯ですね!
+Ohhh yeaaah...
+That feels good!
+Silica
 250077_12_a
-そうだね
-少し熱そうだけど
-リーファ
+I'm so ready for this!
+It does look pretty hot, though...
+Leafa
 250077_11_a
-早速入って湯加減を調べてみましょう
+Let's get in and see how the
+water feels.
+Silica
 250077_10_a
-あたしたちだけの温泉だね!
-リーファ
+I declare this our own, private
+hot spring!
+Leafa
 250077_9_a
-ついに見つけたね!
-リーファ
+Woohoo! Quest complete!
+Leafa
 250077_8_a
 bg_event_hot_springs
-わあっ!
-ありましたよ!
-温泉です、秘湯です!
+Wow! We found it! An honest to
+goodness mountain hot spring!
+Silica
 250077_7_a
+Already on it!
+Silica
 250077_6_a
-確かに!
-この付近を探してみよう!
-リーファ
+Yeah! Let's search the area and
+see what we can find!
+Leafa
 250077_5_a
-ただの霧なら
-こんな匂いはしませんから!
+I bet there's a hot spring around
+here!
+Silica
 250077_4_a
-でもこの匂い
-硫黄っぽいです!
-きっと温泉の成分ですよ!
+Yeah, but smell that? Sulfur!
+Silica
 250077_3_a
+Silica
 250077_2_a
 bg_11_forest_yui
-霧が濃くなってきたね
-リーファ
+The fog's gotten really thick...
+Leafa
 250077_1_a
-なるほど
-それはあるかもね!
-リーファ
+Hmm, that could make sense...
+You might be right!
+Leafa
 250075_28_a
-その湯気なんじゃないかって
-気がしません?
+That could be steam rising
+from it!
+Silica
 250075_27_a
-もしかしたら
-この先で温泉が噴き出していて
+If there's a natural hot spring
+around here...
+Silica
 250075_26_a
-リーファ
+Get...what?
+Leafa
 250075_25_a
-この霧って
-本当に霧なんでしょうか?
+This fog... Do you think it really
+is fog?
+Silica
 250075_24_a
-いえ、むしろ
-進んでみるべきじゃないでしょうか?
+No... I think it might be a better
+idea to keep going.
+Silica
 250075_23_a
-確かに霧っぽくなってきたね
-引き返したほうがいいんじゃ
-リーファ
+I see what they mean. It is
+getting a bit foggy. Maybe we
+should turn back?
+Leafa
 250075_22_a
-来ないほうがいいって
-言われてたんですよ
+This area is generally considered
+too risky to come to.
+Silica
 250075_21_a
-他のプレイヤーさんに
-この辺は霧が出て迷いやすいから
+Yeah... People say that the fog
+gets very thick out here and
+it's easy to get lost.
+Silica
 250075_20_a
-温泉街を作ったりしてるときにも
-こんな所までは来なかったよね
-リーファ
+Yeah... We never even came out
+here when we were building the
+town...
+Leafa
 250075_19_a
 bg_11_forest_yui
-随分山奥まで飛んできましたね
+We've flown pretty far into these
+mountains... There's no one
+around for miles...
+Silica
 250075_18_a
-はい、がんばりましょう!
+Don't mention it!
+Silica
 250075_17_a
-そ、そうだね
-よーし、じゃあ協力を
-お願いしちゃおうかな
-リーファ
+Y-Yeah... Okay! Let's do it!
+Thanks for having my back, Silica!
+Leafa
 250075_16_a
-別に掘り起こさなくても
-思いがけず秘湯みたいな場所が
-見つかるかもしれませんよ!
+Of course! We may even get lucky
+and find a hidden mountain hot
+spring, no digging required!
+Silica
 250075_15_a
-シリカちゃん
-リーファ
+Silica... Are you sure...?
+Leafa
 250075_14_a
-温泉街の近くで
-別の温泉を探してみましょう!
+Now let's go find us a hot spring
+to dig!
+Silica
 250075_13_a
-えっ、じゃあ
-リーファ
+Well...
+Leafa
 250075_12_a
-察することくらいはできます!
-やっぱりお友達としてやるべきことを
-やりますよ!
+And that means that I want to do
+everything I can to help you!
+As a friend!
+Silica
 250075_11_a
-リーファさんの気持ち
-正直あたしみたいなペタンコには
-理解できないと思いますが、
+No, you're right. Maybe a girl of
+my proportions can't really feel
+your pain, but I can imagine!
+Silica
 250075_10_a
-あはは、自意識過剰だって
-思い込めばなんてことないんだけどね
-リーファ
+Ahaha, yeah... If it was just me
+being paranoid, I'd get over it,
+but...
+Leafa
 250075_9_a
-あたしも含め、女の子同士でも
-ジロジロ見合ったりしちゃいます
+I think I know what you mean.
+I know a lot of girls
+me included
+who uh, compare themselves...
+Silica
 250075_8_a
-でもやっぱり成長してからは
-人目が気になりだしちゃって
-リーファ
+But now that I've, ahem, matured
+a bit, it's kinda gotten awkward
+for me...
+Leafa
 250075_7_a
-は、はい
+O-Oh... That makes sense...
+Silica
 250075_6_a
-ああっ、そうはいっても
-ホントにすんごく昔の話だからね!
-リーファ
+Oh, no like, SUPER little kids!
+It was a really long time ago!!
+Leafa
 250075_5_a
-ええええっ!!?
+Wh-Wh-Whaaaaat?!
+Silica
 250075_4_a
-ううん、全然だよ
-昔はそれこそお兄ちゃんとも
-入ってたし
-リーファ
+No, not at all! I even used to
+take baths with Kazuto all the
+time when we were little kids...
+Leafa
 250075_3_a
-リーファ
+Leafa
 250075_2_a
 bg_02_fountain
-そもそもリーファさん、最初から
-他人と一緒にお風呂とかに入るのを
-気にするタイプだったんですか?
+I'm still surprised you're shy
+about going to a public bath.
+Were you always like that?
+Silica
 250075_1_a
-リーファさん
+Yeah... You know...
+Silica
 250073_18_a
-男の人とかに見られるよりは
-全然マシだから
-リーファ
+I mean, it's not like it's a bunch
+of guys ogling me or anything...
+Leafa
 250073_17_a
-あたしが他人の視線を
-ちょっと我慢すれば
-いいだけなんだからさ
-リーファ
+I should just stop whining and
+deal with all the sidelong looks.
+Leafa
 250073_16_a
-シ、シリカちゃん
-そこまでしなくてもいいよ
-リーファ
+S-Silica, I appreciate the
+thought, but you don't have
+to do all that.
+Leafa
 250073_15_a
-そうです!
-今回もピナに頼んで
+Oh, that's it! I'll just have Pina
+find a hot spring spot for us!
+Silica
 250073_14_a
-うーん、そうですね
-でもこの山一帯に温泉の成分の
-地下水があるのは確かですし
+Hmm... Good point. But the entire
+mountain should have the same
+water underground...
+Silica
 250073_13_a
-そう簡単に見つかるかな?
-最初に源泉見つけるのだって
-けっこう大変だったでしょ?
-リーファ
+That won't be easy... Remember
+how much trouble we had finding
+the right water for town?
+Leafa
 250073_12_a
-人が来ないように自分たち専用の
-温泉を新しく作ろうってこと?
-リーファ
+You mean...dig our own, private
+hot spring somewhere?
+Leafa
 250073_11_a
-ああいう感じで街の中以外にも
-温泉が掘り起こせるかもしれませんよ
+That means we can dig new hot
+springs outside of town!
+Silica
 250073_10_a
-元々あの山に住んでたモンスターさん
-たちのために街から少し離れた場所に
-別の温泉を用意したじゃないですか
+We dug a hot spring on the other
+side of the mountain for the ape
+monsters that live here, right?
+Silica
 250073_9_a
-リーファ
+Get...what?
+Leafa
 250073_8_a
-あっ、でも
-なんとかなるかもしれません
+But... Hmm... I might just have
+the solution!
+Silica
 250073_7_a
-そ、そんなことないって
-リーファ
+H-Hey, can we stop talking about
+this, already?
+Leafa
 250073_6_a
-直葉さんだってこっちに
-負けず劣らずご立派じゃないですか!
+You definitely aren't lacking
+anything in that department
+as Suguha, either!
+Silica
 250073_5_a
-ええと、そうは言っても
-あくまでVRMMO内だけでの
-話だから
-リーファ
+Well, only in VRMMOs, anyway...
+Leafa
 250073_4_a
-温泉に行く機会があっても
-リーファさんだけあんまり楽しめない
-ってことですよね
+Now I know you won't have fun even
+if we have a chance to go to one
+together...
+Silica
 250073_3_a
-リーファ
+Leafa
 250073_2_a
 bg_02_fountain
-でも弱りましたね
-これじゃあ仮に
-これからリーファさんと
+But this really takes the wind out
+of my hot spring sails...
+Silica
 250073_1_a
-シリカちゃん
-全然わかってない
-リーファ
+Silica... You don't understand...
+Leafa
 250071_19_a
-でもリーファさんのそれって
-すんごく贅沢な悩みですよぉ
-羨ましいですぅ
+But I really am jealous, Leafa.
+It's a good problem to have...
+Silica
 250071_18_a
-う、ううん
-平気だよ
-リーファ
+N-No worries, Silica...
+Leafa
 250071_17_a
-そ、そうですよね
-すみません、本当に困ってるのに
-あたしったらイヤな言い方をして
+sigh
+Sorry, that was out
+of line... I'm just a little
+oversensitive about this...
+Silica
 250071_16_a
-じ、自慢なんかじゃないよ!
-ホントに恥ずかしいんだってば!
-リーファ
+I'm not trying to brag!
+It really is embarrassing!
+Leafa
 250071_15_a
-そ、そのリーファさんのスタイル
-特にその、む、胸が大きいことが
-注目を浴びてるって意味ですか!
+It's because you're so... I mean,
+you h-have such... I mean...
+Y-You know what I mean!
+Silica
 250071_14_a
-それって自慢ですかぁ!?
+Grrr... You know why, and
+you're rubbing it in my face!
+Silica
 250071_13_a
-なんかみんなにジロジロと
-見られてる気がするんだよね
-そういうところに行くと
-リーファ
+I always get the feeling people
+are staring at me whenever I'm
+in a public hot spring...
+Leafa
 250071_12_a
+You're sure?
+Silica
 250071_11_a
-人目が気になるというか
-リーファ
+It's kinda embarrassing...
+Leafa
 250071_10_a
-う、うん
-好きだよ
-露天風呂とか公衆浴場って
-裸になっちゃうから
-リーファ
+W-Well, I am... It's just... I'm
+not good with getting, uh, in
+the buff in front of people...
+Leafa
 250071_9_a
-リーファさんって健康的だし
-温泉とかすごい好きなイメージ
-だったんですけど
+I just kinda assumed you were a
+big hot spring fan...
+Silica
 250071_8_a
-リーファさんは乗り気じゃない
-感じですか
+Huh? You don't want to, Leafa?
+Silica
 250071_7_a
-ええと、シリカちゃん
-もしかして
-温泉にハマっちゃったのかな?
-リーファ
+Silica... You're totally addicted,
+aren't you?
+Leafa
 250071_6_a
-あっ、新しくできた温泉街に行って
-温泉に入りません?
+Oh, I have an idea! Do you want to
+take a dip in some hot springs?
+Silica
 250071_5_a
-そうですね
-疲れを癒したいときは
+You said it. But I'm beat... I
+could use some relaxation time...
+Silica
 250071_4_a
-シリカちゃんもお疲れ様!
-ハードだったねぇ、今日のクエ
-リーファ
+You too, Silica! Today's quest
+was tough, but totally worth it!
+Leafa
 250071_3_a
-リーファ
+Leafa
 250071_2_a
 bg_02_fountain
-リーファさん!
-お疲れ様でした!
+Leafa! Thanks for everything!
+Silica
 250071_1_a
 Fingers crossed it works!
 Leafa

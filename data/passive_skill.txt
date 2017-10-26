@@ -71,22 +71,22 @@ hp_up
 [D]クリティカル時HP600回復
 [D]クリティカルなし
 [D]クリティカルなし
-水属性のキャラからのダメージが100%増加する
-[敵専用] 水属性からの被ダメ100%増加
-土属性のキャラに対してダメージが50%増加する
-[敵専用] 土属性への与ダメ50%増加
-土属性のキャラからのダメージが25%減少する
-[敵専用] 土属性からの被ダメ25%減少
-火属性のキャラに対してダメージが25%減少する
-[敵専用] 火属性への与ダメ25%減少
-火属性のキャラからのダメージが200%増加する
-[敵専用] 火属性からの被ダメ200%増加
-土属性のキャラからのダメージが100%増加する
-[敵専用] 土属性からの被ダメ100%増加
-聖属性のキャラに対してダメージが50%増加する
-[敵専用] 聖属性への与ダメ50%増加
-聖属性のキャラからのダメージが200%増加する
-[敵専用] 聖属性からの被ダメ200%増加
+Increases damage by 100% vs Water-elem. enemies  
+[Enemy Only] Damage Received +100% vs Water-elem 
+Increases Attack by 50% vs Earth-elem. enemies 
+[Enemy Only] Attack +50% vs Earth-elem. 
+Decreases damage by 25% vs Earth-elem. enemies  
+[Enemy Only] Damage Received -25% vs Earth-elem 
+Decreases Attack by 25% vs Fire-elem. enemies 
+[Enemy Only] Attack -25% vs Fire-elem. 
+Increases damage by 200% vs Fire-elem. enemies  
+[Enemy Only] Damage Received +200% vs Fire-elem 
+Increases damage by 100% vs Earth-elem. enemies  
+[Enemy Only] Damage Received +100% vs Earth-elem 
+Increases Attack by 50% vs Holy-elem. enemies 
+[Enemy Only] Attack +50% vs Holy-elem. 
+Increases damage by 200% vs Holy-elem. enemies  
+[Enemy Only] Damage Received +200% vs Holy-elem 
 Skill Damage Rate -2000 (Equipped One)
 Skill Damage Rate -2000 (Equipped One)
 Skill Damage Rate -1500 (Equipped One)
@@ -213,10 +213,14 @@ Greatly increases max HP & guard durability.
 HP & Guard Durability Up
 Increases Non-elem. character's max HP and MP by 3%.
 Max HP/MP +3% (Non-elem.)
-次回ギルドイベントにてパーティの攻撃が5%増加する 
-次回ギルドイベントでATK UP!
-次回ギルドイベントにてパーティの攻撃が10%増加する 
-次回ギルドイベントでATK UP!
+Critical is ensured when using skills.
+Critical (with Skills)
+Increases critical damage vs Non-elem. enemies by 5%
+Crit. Damage + 5% (vs. Non-elem.)
+Increases Atk. of the party by 5% at the next Guild Event.
+Attack UP in Next Guild Event
+Increases Atk. of the party by 10% at the next Guild Event.
+Attack UP in Next Guild Event
 Increases skill dmg. 10%. of Dark-elem.
 Skill Damage +10% (Dark)
 Increases max HP and Atk. by 10%.
@@ -411,6 +415,8 @@ Increases Attack for 30-hit+ combos by 6%. (Dark-elem.)
 30+ Combo: Attack +6% (Dark)
 Increases Attack for 30-hit+ combos by 6%. (Wind-elem.)
 30+ Combo: Attack +6% (Wind)
+Increases Attack for 30-hit+ combos by 6%.
+30+ Combo: Attack +6%
 Increases Attack for 30-hit- combos by 6%.
 30- Combo: Attack +6%
 Increases damage for 20-hit+ combos by 5%.

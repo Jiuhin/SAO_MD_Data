@@ -400,6 +400,12 @@ White Knight Jacket R3
 armor03_0018
 White Knight Jacket R2
 armor03_0018
+Silverthread Armor R5
+armor03_0006
+Silverthread Armor R4
+armor03_0006
+Silverthread Armor R3
+armor03_0006
 M-44 Nether R5
 armor03_0004
 M-44 Nether R4
