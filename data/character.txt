@@ -1,3 +1,15 @@
+4]1
+Dp0
+,M0
+Pr.
+po-
+P_,
+P1,
+lS)
+())
+hi'
+pA&
+4L%
 walk
 wakeup
 wait
@@ -5,6 +17,14 @@ stun
 step
 skill_63101
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -45,6 +65,14 @@ stun
 step
 skill_63101
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -85,6 +113,14 @@ stun
 step
 skill_63101
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -168,6 +204,14 @@ stun
 step
 skill_63101
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -242,6 +286,7 @@ serif
 4_lisbeth_104001
 Lisbeth
 [Mace Master] Lisbeth
+!Z{
 walk
 wakeup
 wait
@@ -282,6 +327,7 @@ serif
 4_silica_84001
 Silica
 [Dragon Tamer] Silica
+9V{
 walk
 wakeup
 wait
@@ -484,6 +530,7 @@ wakeup
 wait
 stun
 step
+zD2
 skill_16310101
 skill_163101
 skill_161201
@@ -500,6 +547,7 @@ dead
 dash
 damage
 charge_old
+"D.
 charge
 back_step
 attack_3
@@ -621,6 +669,11 @@ stun
 step
 skill_9310101
 skill_93101
+uLV
+uLV
+uLV
+uLV
+uLV
 skill_92101
 skill_91201
 parry
@@ -791,8 +844,24 @@ wakeup
 wait
 stun
 step
+66	
+56	
+66	
+56	
+66	
+56	
+66	
+56	
 skill_63126
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -835,6 +904,14 @@ step
 skill_6311301
 skill_63113
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -877,6 +954,14 @@ step
 skill_6310101
 skill_63101
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -952,6 +1037,7 @@ serif
 4_rain_44001
 Rain
 [Raindrops Girl] Rain
+{-&
 walk
 wakeup
 wait
@@ -1085,6 +1171,8 @@ wait
 stun
 step
 skill_2313001
+	5	
+zDZ
 skill_23130
 skill_22202
 skill_21101
@@ -1381,6 +1469,12 @@ wakeup
 wait
 stun
 step
+c7	
+c7	
+c7	
+b7	
+a7	
+b7	
 skill_193101
 skill_192101
 skill_191101
@@ -1422,6 +1516,12 @@ wakeup
 wait
 stun
 step
+c7	
+c7	
+c7	
+b7	
+a7	
+b7	
 skill_193101
 skill_192101
 skill_191101
@@ -1458,6 +1558,7 @@ serif
 4_heathcliff_194001
 Heathcliff
 [Holy Sword] Heathcliff
+{-&
 walk
 wakeup
 wait
@@ -1540,6 +1641,7 @@ serif
 5_lisbeth_185001
 Lisbeth
 [Never Give Up] Lisbeth
+{-&
 walk
 wakeup
 wait
@@ -1586,6 +1688,7 @@ wakeup
 wait
 stun
 step
+TDf
 skill_183108
 skill_182101
 skill_181101
@@ -1663,6 +1766,7 @@ serif
 2_sachi_22002
 Sachi
 [Brave Lance] Sachi
+{-&
 walk
 wakeup
 wait
@@ -1793,6 +1897,7 @@ wait
 stun
 step
 skill_18310101
+HDj
 skill_183101
 skill_182101
 skill_181101
@@ -1879,6 +1984,7 @@ step
 skill_16120101
 skill_161201
 skill_161102
+Q)	
 skill_161101
 parry
 parried
@@ -1916,6 +2022,7 @@ serif
 4_leafa_164005
 Leafa
 [Rejoicing Witch] Leafa
+{-&
 walk
 wakeup
 wait
@@ -1935,6 +2042,7 @@ down
 dead
 dash
 damage
+"DB
 charge_old
 "D.,
 charge
@@ -1966,6 +2074,7 @@ wakeup
 wait
 stun
 step
+D(<
 skill_163111
 skill_161201
 skill_161102
@@ -2095,6 +2204,7 @@ serif
 4_asuna_164016
 Asuna
 [Hit Idol of Love and Effort] Asuna
+{-&
 walk
 wakeup
 wait
@@ -2203,7 +2313,9 @@ down
 dead
 dash
 damage
+"DB
 charge_old
+"D.
 charge
 back_step
 attack_3
@@ -2233,6 +2345,7 @@ wakeup
 wait
 stun
 step
+r,	
 skill_163101
 skill_161201
 skill_161102
@@ -2277,6 +2390,7 @@ wakeup
 wait
 stun
 step
+zDN
 skill_16310301
 skill_163103
 skill_161201
@@ -2340,6 +2454,7 @@ dead
 dash
 damage
 charge_old
+"Dr
 charge
 back_step
 attack_3
@@ -2383,7 +2498,9 @@ down
 dead
 dash
 damage
+"DB
 charge_old
+"D.
 charge
 back_step
 attack_3
@@ -2417,6 +2534,7 @@ step
 skill_16120101
 skill_161201
 skill_161102
+Q)	
 skill_161101
 parry
 parried
@@ -2655,6 +2773,7 @@ dash
 damage
 "Dnz
 charge_old
+"DZ
 charge
 back_step
 attack_3
@@ -2686,6 +2805,7 @@ stun
 step
 skill_161201
 skill_161102
+Q)	
 skill_161101
 parry
 parried
@@ -2698,7 +2818,9 @@ down
 dead
 dash
 damage
+"DV
 charge_old
+"DB
 charge
 back_step
 attack_3
@@ -2743,6 +2865,7 @@ dead
 dash
 damage
 charge_old
+"DJ
 charge
 back_step
 attack_3
@@ -2786,6 +2909,7 @@ down
 dead
 dash
 damage
+"D>
 charge_old
 charge
 back_step
@@ -2908,6 +3032,7 @@ stun
 step
 skill_143110
 skill_141201
+%(	
 skill_141101
 parry
 parried
@@ -3090,6 +3215,7 @@ step
 skill_14310601
 skill_143106
 skill_141202
+%(	
 skill_141101
 parry
 parried
@@ -3223,6 +3349,7 @@ wakeup
 wait
 stun
 step
+F.I
 skill_141202
 skill_141201
 skill_141101
@@ -3452,6 +3579,7 @@ stun
 step
 skill_141201
 skill_141102
+%(	
 skill_141101
 parry
 parried
@@ -3535,6 +3663,7 @@ serif
 3_sinon_143001
 Sinon
 [Cat-Eared Archer] Sinon
+{-&
 walk
 wakeup
 wait
@@ -4197,11 +4326,13 @@ serif
 4_lisbeth_104001
 Lisbeth
 [Harmony Keeper] Lisbeth
+{-&
 walk
 wakeup
 wait
 stun
 step
+zD0
 zDVC
 skill_104102
 skill_102201
@@ -4371,6 +4502,7 @@ wakeup
 wait
 stun
 step
+m5	
 skill_103125
 skill_102202
 skill_101101
@@ -4491,6 +4623,7 @@ An NPC of ALO as a navigation pixie. Strea made a sailor suit assumed the smalle
 Used Leprechaun magic to make equipments smaller temporarily...
 serif
 4_yui_104024
+Yui
 [Born in Sakura Season] Yui
 walk
 wakeup
@@ -4539,6 +4672,7 @@ wakeup
 wait
 stun
 step
+HDF
 skill_103122
 skill_102201
 skill_101101
@@ -4666,6 +4800,8 @@ wakeup
 wait
 stun
 step
+e.	
+zCb
 skill_103115
 skill_101201
 skill_101101
@@ -4745,6 +4881,7 @@ serif
 4_lisbeth_104018
 Lisbeth
 [Efficient Smith] Lizbeth
+{-&
 walk
 wakeup
 wait
@@ -4878,6 +5015,10 @@ stun
 step
 skill_103110
 skill_102202
+5n}
+5n}
+5n}
+5n}
 skill_102101
 parry
 parried
@@ -5047,6 +5188,10 @@ wait
 stun
 step
 skill_103108
+5n}
+5n}
+5n}
+5n}
 skill_102101
 skill_101101
 parry
@@ -5261,6 +5406,10 @@ stun
 step
 skill_10310301
 skill_103103
+5n}
+5n}
+5n}
+5n}
 skill_102101
 skill_101201
 parry
@@ -5347,6 +5496,10 @@ wait
 stun
 step
 skill_102202
+5n}
+5n}
+5n}
+5n}
 skill_102101
 skill_101101
 parry
@@ -5389,6 +5542,10 @@ wait
 stun
 step
 skill_102201
+5n}
+5n}
+5n}
+5n}
 skill_102101
 skill_101101
 parry
@@ -5510,6 +5667,22 @@ wakeup
 wait
 stun
 step
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
+}ZY
 skill_94103
 skill_92202
 skill_91101
@@ -5596,6 +5769,11 @@ stun
 step
 skill_9310101
 skill_93101
+uLV
+uLV
+uLV
+uLV
+uLV
 skill_92101
 skill_91201
 parry
@@ -5679,6 +5857,11 @@ wakeup
 wait
 stun
 step
+uLV
+uLV
+uLV
+uLV
+uLV
 skill_92101
 skill_91101
 parry
@@ -5719,6 +5902,11 @@ wakeup
 wait
 stun
 step
+uLV
+uLV
+uLV
+uLV
+uLV
 skill_92101
 skill_91101
 parry
@@ -5833,7 +6021,9 @@ battle_cutin_85003
 Navigation pixie in ALO. Yui gets lunch with others during the lunch break at the athletic festival. She eats too much and gets a little sick. She gets to sleep on Asuna's lap and tells something... 
 serif
 5_yui_85003
+Yui
 [Go for the Top] Yui
+{-&
 walk
 wakeup
 wait
@@ -6039,6 +6229,7 @@ serif
 4_leafa_84033
 Suguha
 [Dusk Lespedeza] Suguha
+{-&
 walk
 wakeup
 wait
@@ -6369,6 +6560,7 @@ serif
 4_leafa_84025
 Leafa
 [Ephemeral Feelings] Leafa
+{-&
 walk
 wakeup
 wait
@@ -6536,6 +6728,7 @@ serif
 4_silica_84018
 Silica
 [Foxy Priestess] Silica
+{-&
 walk
 wakeup
 wait
@@ -7448,6 +7641,14 @@ stun
 step
 skill_64104
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7482,6 +7683,7 @@ serif
 5_asuna_65004
 Asuna
 [Reach the Finish Line] Asuna
+{-&
 walk
 wakeup
 wait
@@ -7490,6 +7692,14 @@ step
 /D,+
 skill_64103
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7531,6 +7741,14 @@ stun
 step
 skill_64102
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7572,6 +7790,14 @@ stun
 step
 skill_64101
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7613,6 +7839,14 @@ stun
 step
 skill_63124
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7654,6 +7888,14 @@ stun
 step
 skill_63133
 skill_62202
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7695,6 +7937,14 @@ stun
 step
 skill_63132
 skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7737,6 +7987,14 @@ step
 /DB-
 skill_63131
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7778,6 +8036,14 @@ stun
 step
 skill_63130
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7812,6 +8078,7 @@ serif
 4_asuna_64030
 Asuna
 [Illuminating Weeping Willow] Asuna
+{-&
 walk
 wakeup
 wait
@@ -7819,6 +8086,14 @@ stun
 step
 skill_63129
 skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7860,6 +8135,14 @@ stun
 step
 skill_63128
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7902,6 +8185,14 @@ step
 skill_6312701
 skill_63127
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7941,9 +8232,19 @@ wakeup
 wait
 stun
 step
+%4!
 skill_6312501
+%4!
 skill_63125
 skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -7983,8 +8284,24 @@ wakeup
 wait
 stun
 step
+66	
+56	
+66	
+56	
+66	
+56	
+66	
+56	
 skill_63126
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8026,6 +8343,14 @@ stun
 step
 skill_63121
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8058,6 +8383,7 @@ battle_cutin_64024
 Limited VRMMO game, PSO Player. In new VRMMO, she dresses in matching outfits with her mum and enjoys the game as an idol player.
 serif
 4_yui_64024
+Yui
 [Up-and-coming Tiny Idol] Yui
 walk
 wakeup
@@ -8067,6 +8393,14 @@ step
 skill_6311101
 skill_63111
 skill_62202
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8108,6 +8442,14 @@ stun
 step
 skill_63122
 skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8149,6 +8491,14 @@ stun
 step
 skill_63120
 skill_62202
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8190,6 +8540,14 @@ stun
 step
 skill_63114
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8222,6 +8580,7 @@ battle_cutin_64019
 NPC of ALO as a navigation pixie. When explored Anderson island, "The Last Pearl" event of Anderson fairy story occurred. Yui was selected as one of the fairies in the story.
 serif
 4_yui_64019
+Yui
 [Pearl Tears] Yui
 walk
 wakeup
@@ -8230,6 +8589,14 @@ stun
 step
 skill_63118
 skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8271,6 +8638,14 @@ stun
 step
 skill_63110
 skill_62202
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8312,6 +8687,14 @@ stun
 step
 skill_63117
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8356,6 +8739,14 @@ step
 skill_6311601
 skill_63116
 skill_62202
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8398,6 +8789,14 @@ step
 skill_6311301
 skill_63113
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8432,6 +8831,7 @@ serif
 4_asuna_64012
 Asuna
 [Heart of Confront] Asuna
+{-&
 walk
 wakeup
 wait
@@ -8440,6 +8840,14 @@ step
 skill_6311501
 skill_63115
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8481,6 +8889,14 @@ stun
 step
 skill_63107
 skill_62202
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8523,6 +8939,14 @@ step
 skill_6310801
 skill_63108
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8565,6 +8989,14 @@ step
 skill_6310501
 skill_63105
 skill_62202
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8607,6 +9039,14 @@ step
 skill_6310401
 skill_63104
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8648,6 +9088,14 @@ stun
 step
 skill_63109
 skill_62202
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8690,6 +9138,14 @@ step
 skill_6310601
 skill_63106
 skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8732,6 +9188,14 @@ step
 skill_6310301
 skill_63103
 skill_62202
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8774,6 +9238,14 @@ step
 skill_6310201
 skill_63102
 skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8816,6 +9288,14 @@ step
 skill_6310101
 skill_63101
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 parry
 parried
@@ -8889,12 +9369,22 @@ battle_cutin_63004
 An SAO survivor who idolizes Kirito as the person who beat the death game. A Sylph here in ALO, she's trying her best to mimic Kirito's dual-wielding style. Sadly, although she can equip two swords, she can't use dual-wielding skills.
 serif
 3_lux_63004
+Lux
+Lux
 walk
 wakeup
 wait
 stun
 step
 skill_62101
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
 skill_61201
 skill_61101
 parry
@@ -9170,6 +9660,7 @@ serif
 4_rain_44003
 Rain
 [Blossom Shower] Rain
+{-&
 walk
 wakeup
 wait
@@ -9293,6 +9784,7 @@ serif
 5_kirito_35003
 Kirito
 [365 Days] Kirito
+{-&
 walk
 wakeup
 wait
@@ -9417,6 +9909,7 @@ serif
 4_kirito_34009
 Kirito
 [Lofty Captain] Kirito
+{-&
 walk
 wakeup
 wait
@@ -9752,6 +10245,7 @@ serif
 5_leafa_25006
 Leafa
 [Flush of Youth] Leafa
+{-&
 walk
 wakeup
 wait
@@ -9834,6 +10328,7 @@ serif
 4_alice_24019
 Alice
 [Fragrant Olive Integrity Knight] Alice
+{-&
 walk
 wakeup
 wait
@@ -9956,6 +10451,7 @@ battle_cutin_24046
 An NPC  in SAO. She loses her memory and wanders around in the forest. She gets her memory back as she bumps into Kirito and Asuna. Though she remembers her role but saves Kirito and Asuna disobeying the system.
 serif
 4_yui_24046
+Yui
 [True Heart] Yui
 walk
 wakeup
@@ -10203,6 +10699,7 @@ battle_cutin_24039
 NPC of ALO as a navigation pixie. Yui was converted into a fairy in OS, however, she tells Kirito that she's ready to play and battle in OS. Kirito makes that happen but some problem occurs.
 serif
 4_yui_24039
+Yui
 [All Aboard] Yui
 walk
 wakeup
@@ -10541,6 +11038,8 @@ wait
 stun
 step
 skill_2313001
+	5	
+zDj
 skill_23130
 skill_22202
 skill_21101
@@ -10658,6 +11157,7 @@ battle_cutin_24027
 Yui was originally a Sword Art Online Mental Health Counseling Program (MHCP). After her data was converted to ALO, she was reborn as a navigation pixie. Now that she can participate in combat, she learns how to fight from her beloved mother.
 serif
 4_yui_24027
+Yui
 [Angel Cheer] Yui
 walk
 wakeup
@@ -10818,10 +11318,12 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24019
+???
 serif
 4_alice_24019
 Alice
 [Integrity Knight] Alice
+{-&
 walk
 wakeup
 wait
@@ -10946,6 +11448,8 @@ serif
 4_leafa_24016
 Leafa
 [Nightwear] Leafa
+{-&
+g1&
 walk
 wakeup
 wait
@@ -11819,6 +12323,7 @@ serif
 5_eugeo_15003
 Eugeo
 [Intrepid Detective] Eugeo
+{-&
 walk
 wakeup
 wait
@@ -12152,6 +12657,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_14008
+???
 serif
 4_eugeo_14008
 Eugeo

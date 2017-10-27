@@ -215,12 +215,16 @@ Greatly increases max HP & guard durability.
 HP & Guard Durability Up
 Increases Non-elem. character's max HP and MP by 3%.
 Max HP/MP +3% (Non-elem.)
+6hm
 Critical is ensured when using skills.
 Critical (with Skills)
+5hm
 Increases critical damage vs Non-elem. enemies by 5%
 Crit. Damage + 5% (vs. Non-elem.)
+&Am
 Increases Atk. of the party by 5% at the next Guild Event.
 Attack UP in Next Guild Event
+%Am
 Increases Atk. of the party by 10% at the next Guild Event.
 Attack UP in Next Guild Event
 Increases skill dmg. 10%. of Dark-elem.
@@ -275,6 +279,7 @@ Gain 600 HP & 5 MP on enemy kill.
 HP & MP Recovery on Kill
 Increases damage after skill connect by 40%
 Damage Up at Skill Connect
+)Wl
 Increases damage after skill connect by 20%
 Damage Up at Skill Connect
 Decreases damage attained during sword skills by 50%
@@ -411,24 +416,32 @@ Solo Dmg. +30%
 Solo Dmg. +20%
 +15% damage when 1 of your character's remains.
 Solo Dmg. +15%
+-mk
 Survive a fatal damage with HP1% just once
 Fatal Damage Resistance
 Increases Attack for 30-hit+ combos by 6%. (Dark-elem.)
 30+ Combo: Attack +6% (Dark)
 Increases Attack for 30-hit+ combos by 6%. (Wind-elem.)
 30+ Combo: Attack +6% (Wind)
+hlk
 Increases Attack for 30-hit+ combos by 6%.
 30+ Combo: Attack +6%
+glk
 Increases Attack for 30-hit- combos by 6%.
 30- Combo: Attack +6%
+flk
 Increases damage for 20-hit+ combos by 5%.
 20+ Combo: Dmg. +5%
+elk
 Increases damage for 30-hit+ combos by 5%.
 30+ Combo: Dmg. +5%
+WEk
 Increases Window to continue a combo by 8 secs.
 Combo Window Up
+VEk
 Increases Window to continue a combo by 5 secs.
 Combo Window Up
+UEk
 Increases Window to continue a combo by 3 secs.
 Combo Window Up
 Increases skill dmg. 10% vs Wind-elem. enemies.
@@ -449,6 +462,7 @@ Gains 5 MP on a successful parry against Dark-elem. enemies
 MP Recovery on Parry (vs. Dark)
 Gains 5 MP on a successful parry against Holy-elem. enemies
 MP Recovery on Parry (vs. Holy)
+s'C
 Gains 5 MP on a successful parry against Wind-elem. enemies
 MP Recovery on Parry (vs. Wind)
 Gains 5 MP on a successful parry against Water-elem. enemies
@@ -469,12 +483,14 @@ Increases Non-elem. character's paralysis resistance.
 Paralysis Resistance (Non-elem.)
 Increases MP gain vs Holy-elem. enemies.
 MP Recovery (vs. Holy)
+MW4
 Increases Water-elem. character's stun resistance.
 Stun Resistance (Water)
 Increases MP gain vs Wind-elem. enemies.
 MP Recovery (vs. Wind)
 Increases Earth-elem. character's Attack by 3% when they attack  weak points.
 Attack +3% on Attack Weak Points (Earth-elem.)
+oE3
 Increases Dark-elem. character's Attack by 3% when they attack  weak points.
 Attack +3% on Attack Weak Points (Dark-elem.)
 Increases Wind-elem. character's Attack by 3% when they attack weak points.
@@ -505,6 +521,7 @@ Increases Non-elem. character's Attack and Critical by 3%.
 Attack/Critical +3% (Non-elem.)
 Increases MP gain vs Fire-elem. enemies.
 MP Recovery Ratio Up (vs. Fire)
+WQ/
 Increases MP gain vs Non-elem. enemies.
 MP Recovery Ratio Up (vs.Non-elem.)
 Increases damage vs Earth-elem. enemies when using skills at switch
@@ -523,10 +540,12 @@ Increases critical damage vs Dark-elem. enemies by 10%
 Crit. Damage + 10% (vs. Dark)
 Increases dmg. vs Dark-elem. enemies by 1.5x.
 Damage Up (vs. Dark)
+g1&
 Increases damage vs Holy-elem. enemies when using skills at switch
 Switch Skill Damage Up (vs. Holy.)
 Increases critical damage vs Holy-elem. enemies from 1.5x to 2x.
 Crit. Damage Up (vs. Holy)
+{-&
 Increases critical damage vs Holy-elem. enemies by 10%
 Crit. Damage + 10% (vs. Holy)
 Increases dmg. vs Holy-elem. enemies by 1.5x.
@@ -865,6 +884,7 @@ Increase HP by 1500 & raises Guard Durability higher than Lv7
 HP +1500 & Guard Durability Up
 Increase HP by 1500 & raises Guard Durability higher than Lv6
 HP +1500 & Guard Durability Up
+ST	
 Increase HP by 1200 & raises Guard Durability higher than Lv5
 HP +1200 & Guard Durability Up
 Increase HP by 1200 & raises Guard Durability higher than Lv4

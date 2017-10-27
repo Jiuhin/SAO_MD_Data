@@ -42,10 +42,12 @@ skill_icon_bow_3_{}
 Fire ice arrows in mid-air that sprout icebergs on impact. The ice sparkles like diamonds.
 Diamond Dust+
 Diamond Dust+
+uyV
 skill_icon_gun_3_{}
 Scamper through enemies rapidly, lob apple shaped grenades. Decrease attack and defense of enemies. Increase own attack.
 Dangerous Apple+
 Dangerous Apple+
+5sV
 skill_icon_gun_3_{}
 Put a electromagnetic bullet in the gun and shoot. Increase your attack and auto heals HP.
 Extended spark+
@@ -58,6 +60,7 @@ skill_icon_mace_3_{}
 A sword skill that delivers combo like baton twirling, increasing attack of all party members and your own speed by cheering.
 Cheerful Upper+
 Cheerful Upper+
+}S%
 skill_icon_mace_3_{}
 A sword skill that hammers the enemy with a club, as well as replenishing your HP and increasing your movement speed.
 Stun Concussion+

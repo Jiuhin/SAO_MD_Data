@@ -6,7 +6,11 @@ Rechka
 YUNA
 Premiere
 Pina
+Yui
+N/A
 Sima
+N/A
+N/A
 Siune
 Chrysheight
 Spiegel
@@ -35,6 +39,7 @@ Alicia Rue
 Sakuya
 Argo
 Sachi
+Lux
 Seven
 Rain
 Philia

@@ -7,6 +7,7 @@ Weapon Types: {}
 Character: {}
 Element: {}
 Guild "{0}"
+You
 You are invited to an event.
 No longer in the guild.
 Joined this guild.
@@ -88,6 +89,8 @@ Expelled.
 Are you sure you want to expel them?
 Commander:
 Do you want to copy your Guild ID?
+Off
+On 
 You can only join a guild twice a day.
 Guild Level went up by {}.
 Another event is in progress.
@@ -335,6 +338,7 @@ Level already at max!
 Set the number of items to use.
 Sort[{0}]
 Filter[{1}]
+All
 Received
 Title Rank
 Type
@@ -344,8 +348,12 @@ Character
 Defense
 Attack
 Cost
+Lv.
 Rarity
 Sort: {}
+Rod
+Bow
+Gun
 Mace
 Dagger
 Rapier
@@ -395,6 +403,7 @@ Are you sure?
 < {} sec.
 Maximum party size for this quest is {}.
 Please edit your party.
+{1}
 {} sec. remaining
 {} min. remaining
 Revive and continue fighting?
@@ -419,14 +428,17 @@ been unlocked.
 Aincrad's currency is Col, which can be used at the blacksmith's to upgrade and evolve equipment.
 [Condition] 
 Achieve Multi Score
+{0}
 [Condition] 
 Achieve Multi Score
+{0}
 You can use items to increase the amount of Drop Items.
 You can increase the amount of Drop Items by {1} using Memory Diamond 
 {0}. Do you want to buy Memory Diamond(s)?
 Use Memory Diamond 
 {0} to increase the amount of Drop Items by {1}?
 Drop Item Boost
+Yes
 Not enough Memory Diamonds.
 {0} Memory Diamond(s) needed. Memory Diamonds
 cannot be purchased during multiplayer.
@@ -437,6 +449,9 @@ Are you sure the following date is correct?
 {1}/{2}/{0}
 Valid: {0}d
 {0} Memory Diamonds + {1}
+{0}
+{0}
+---
 View Weapons
 View Characters
 Weapon(s)
@@ -445,6 +460,9 @@ All characters of the same rarity have an equal chance of appearing.
 Probabilities may not add up to 100% due to the rounding of decimals.
 Buy {0}
 Scouted {0} Times
+{0}
+{0}
+{0}
 And Over
 No. {0}
 {0} time(s)
@@ -513,16 +531,21 @@ Select one or more job types.
 Duel Points
 Buy New
 Use {0} Memory Diamond(s) to purchase the weapon?
+Buy
 Waiting for other players...
 Usage History
 Min. left: {0}
 Hrs. left: {0}
 Days left: {0}
 Atk Spd
+ATK
 Mov Spd
 CRIT
+INT
+DEF
 Tower Medals
 Points
+EXP
 Money
 Scout
 Use {0} Memory Diamond(s) to Scout a character?
@@ -536,11 +559,13 @@ Unlock Battle Skill
 Setting Forth
 Settings
 Open
+Set
 Change
 Do you want to unlock this boost?
 Your equipment has changed.
 Do you want to keep these changes?
 Do you want to kick this player?
+Buy
 You must get permission from a parent or guardian before buying Memory Diamonds. Do you have permission?
 Are you 20 years of age or older?
 Be sure to ask permission from a parent or guardian before buying Memory Diamonds. The limits for underage purchases are as follows:
@@ -634,6 +659,7 @@ any further.
 Unlock this attribute using the items below.
 Revive
 Cannot revive any more.
+FAQ
 Claimed {0} gift(s).
 Duel Points x{0}
 Bond Points x{0}
@@ -764,6 +790,7 @@ Movement Speed
 Critical Hit Rate
 Intelligence
 Defense
+Buy
 Memory Diamonds x{0}
 Event
 Quest
@@ -843,8 +870,10 @@ These points are required when you take Supporters on quests. Received when you 
 The currency needed to upgrade or evolve weapons at the blacksmith's. Obtained by completing event quests.
 Can be purchased from the Memory Diamond Shop. Used to scout, buy equipment, etc.
 Bond Points
+Col
 Memory Diamond
 x{0}
+{0}
 Duel Pt. Cost {0}
 Enter a user ID other than your own.
 No notifications.
@@ -853,6 +882,13 @@ No suggested users found.
 {0} - {1}
 Until {0}/{1}/{5:4} {2} {3:02d}:{4:02d}
 {0}/{1} ({2}) {3}:{4:02d}
+Sat
+Fri
+Thu
+Wed
+Tue
+Mon
+Sun
 Not enough Duel Points.
 Memory Diamond Cost: {0}
 -Names must be 10 characters or less.
@@ -870,6 +906,7 @@ Supporter not found.
 Do you want to go solo?
 Equipment capacity increased.
 {0} 
+{1}
 Increases equipment capacity.
 Multiplayer History
 No equipment

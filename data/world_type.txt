@@ -1,2 +1,6 @@
+PSO
 SA:O
+GGO
+ALO
+SAO
 NONE

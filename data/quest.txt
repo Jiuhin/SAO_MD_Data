@@ -969,6 +969,7 @@ Quest
 bg_thumbnail_3001
 Quest 1
 The Raging Outcasts "The Mysterious Beast" (Expert)
+}{z
 "The Earth Wyrm" the ruler of the waste. 
 Find a chance to attack its back fighting 
 through a hard-fought battle.
@@ -985,6 +986,7 @@ Quest
 bg_thumbnail_2024
 Quest 4
 Earth Dragon Strikes Back (Master)
+{{z
 "The Earth Wyrm" the ruler of the waste. 
 Find a chance to attack its back fighting 
 through a hard-fought battle.
@@ -993,6 +995,7 @@ Quest
 bg_thumbnail_2024
 Quest 3
 Earth Dragon Strikes Back (EX)
+z{z
 "The Earth Wyrm" the ruler of the waste. 
 Find a chance to attack its back fighting 
 through a hard-fought battle.
@@ -1001,6 +1004,7 @@ Quest
 bg_thumbnail_2024
 Quest 2
 Earth Dragon Strikes Back (Expert)
+y{z
 "The Earth Wyrm" the ruler of the waste. 
 Find a chance to attack its back fighting 
 through a hard-fought battle.
@@ -1214,6 +1218,7 @@ Quest
 bg_thumbnail_8014
 Quest 2
 Minotaurs' Treasury (Exp.)
+	dz
 Minotaurs protect the treasury!
 Parry Gold Minotaur to stop,
 and defeat Black Minotaur first
@@ -1295,6 +1300,7 @@ Quest
 bg_thumbnail_3007
 Quest 1
 Unseasonable Dark Saint (Int.)
+TXz
 Mischievous kobold returns 
 in the similitude of Leafa!
 Defeat the kobold trickster!
@@ -1303,6 +1309,7 @@ Quest
 bg_thumbnail_8006
 Quest 4
 Halloween Returns(Master)
+SXz
 Mischievous kobold returns 
 in the similitude of Leafa!
 Defeat the kobold trickster!
@@ -1311,6 +1318,7 @@ Quest
 bg_thumbnail_8006
 Quest 3
 Halloween Returns(EX)
+RXz
 Mischievous kobold returns 
 in the similitude of Leafa!
 Defeat the kobold trickster!
@@ -1319,6 +1327,7 @@ Quest
 bg_thumbnail_8006
 Quest 2
 Halloween Returns(Expert)
+QXz
 Mischievous kobold returns 
 in the similitude of Leafa!
 Defeat the kobold trickster!
@@ -1327,6 +1336,7 @@ Quest
 bg_thumbnail_8006
 Quest 1
 Halloween Returns(Int.)
+lTz
 Hungry Gluttonous Kobold appeared
 to rob foods! Shoot down the Kobold
 before being attacked! 
@@ -1335,6 +1345,7 @@ Quest
 bg_thumbnail_8021
 Quest 4
 Gluttonous Kobold Okawari (Master)
+kTz
 Hungry Gluttonous Kobold appeared
 to rob foods! Shoot down the Kobold
 before being attacked! 
@@ -1343,6 +1354,7 @@ Quest
 bg_thumbnail_8021
 Quest 3
 Gluttonous Kobold Okawari (EX)
+jTz
 Hungry Gluttonous Kobold appeared
 to rob foods! Shoot down the Kobold
 before being attacked! 
@@ -1351,6 +1363,7 @@ Quest
 bg_thumbnail_8021
 Quest 2
 Gluttonous Kobold Okawari (Exp.)
+iTz
 Hungry Gluttonous Kobold appeared
 to rob foods! Shoot down the Kobold
 before being attacked! 
@@ -1557,6 +1570,7 @@ Quest
 bg_thumbnail_2004
 Quest 1
 Return of the Mysterious Beast (Int.)
++5z
 These two minotaurs have appeared out of
 nowhere! Fight them, being sure to make
 note of their attack patterns.
@@ -1573,6 +1587,7 @@ Quest
 bg_thumbnail_8017
 Quest 2
 Return of the Minotaurus (Exp.)
+)5z
 These two minotaurs have appeared out of
 nowhere! Fight them, being sure to make
 note of their attack patterns.
@@ -1581,6 +1596,7 @@ Quest
 bg_thumbnail_8017
 Quest 1
 Return of the Minotaurus (Int.)
+D1z
 Take command of friends
 and defeat "The Storm 
 Griffin" to get higher ranking!
@@ -1589,6 +1605,7 @@ Quest
 bg_thumbnail_8022
 Quest 4
 The Storm Griffin (Master)
+C1z
 Take command of friends
 and defeat "The Storm 
 Griffin" to get higher ranking!
@@ -1597,6 +1614,7 @@ Quest
 bg_thumbnail_8022
 Quest 3
 The Storm Griffin (EX)
+B1z
 Take command of friends
 and defeat "The Storm 
 Griffin" to get higher ranking!
@@ -1605,6 +1623,7 @@ Quest
 bg_thumbnail_8022
 Quest 2
 The Storm Griffin (Exp.)
+A1z
 Take command of friends
 and defeat "The Storm 
 Griffin" to get higher ranking!
@@ -1613,6 +1632,7 @@ Quest
 bg_thumbnail_8022
 Quest 1
 The Storm Griffin (Int.)
+t)z
 X'rphan the White Wyrm is the strongest
 in all existence, and this dragon is its
 cousin. Stand and fight against its
@@ -1622,6 +1642,7 @@ Quest
 bg_thumbnail_2018
 Quest 3
 Return of the Storm Wyrm (EX)
+r)z
 X'rphan the White Wyrm is the strongest
 in all existence, and this dragon is its
 cousin. Stand and fight against its
@@ -1631,6 +1652,7 @@ Quest
 bg_thumbnail_2018
 Quest 2
 Return of the Storm Wyrm (Exp.)
+q)z
 X'rphan the White Wyrm is the strongest
 in all existence, and this dragon is its
 cousin. Stand and fight against its
@@ -3113,6 +3135,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2020
 Floor :99 
+100
 Enemy Lv: 120
 Better for: Holy
 Better for: Strike
@@ -3155,6 +3178,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :84 
+	BI
 Enemy Lv: 110
 Better for: Slash
 Better for: Holy & Dark
@@ -5406,6 +5430,7 @@ Finish Story
 Story
 bg_thumbnail_0
 Story 6
+PvP
 Finish Story
 Story
 bg_thumbnail_0
@@ -8223,6 +8248,7 @@ Finish Story
 Story
 bg_thumbnail_0
 Story 11-5
+Yui
 Defeat Boss
 Quest
 bg_thumbnail_2003
@@ -9640,6 +9666,7 @@ Quest
 bg_thumbnail_3001
 Quest 1
 The Raging Outcasts "The Mysterious Beast" (Expert)
+}{z
 "The Earth Wyrm" the ruler of the waste. 
 Find a chance to attack its back fighting 
 through a hard-fought battle.
@@ -9656,6 +9683,7 @@ Quest
 bg_thumbnail_2024
 Quest 4
 Earth Dragon Strikes Back (Master)
+{{z
 "The Earth Wyrm" the ruler of the waste. 
 Find a chance to attack its back fighting 
 through a hard-fought battle.
@@ -9664,6 +9692,7 @@ Quest
 bg_thumbnail_2024
 Quest 3
 Earth Dragon Strikes Back (EX)
+z{z
 "The Earth Wyrm" the ruler of the waste. 
 Find a chance to attack its back fighting 
 through a hard-fought battle.
@@ -9672,6 +9701,7 @@ Quest
 bg_thumbnail_2024
 Quest 2
 Earth Dragon Strikes Back (Expert)
+y{z
 "The Earth Wyrm" the ruler of the waste. 
 Find a chance to attack its back fighting 
 through a hard-fought battle.
@@ -9885,6 +9915,7 @@ Quest
 bg_thumbnail_8014
 Quest 2
 Minotaurs' Treasury (Exp.)
+	dz
 Minotaurs protect the treasury!
 Parry Gold Minotaur to stop,
 and defeat Black Minotaur first
@@ -9966,6 +9997,7 @@ Quest
 bg_thumbnail_3007
 Quest 1
 Unseasonable Dark Saint (Int.)
+TXz
 Mischievous kobold returns 
 in the similitude of Leafa!
 Defeat the kobold trickster!
@@ -9974,6 +10006,7 @@ Quest
 bg_thumbnail_8006
 Quest 4
 Halloween Returns(Master)
+SXz
 Mischievous kobold returns 
 in the similitude of Leafa!
 Defeat the kobold trickster!
@@ -9982,6 +10015,7 @@ Quest
 bg_thumbnail_8006
 Quest 3
 Halloween Returns(EX)
+RXz
 Mischievous kobold returns 
 in the similitude of Leafa!
 Defeat the kobold trickster!
@@ -9990,6 +10024,7 @@ Quest
 bg_thumbnail_8006
 Quest 2
 Halloween Returns(Expert)
+QXz
 Mischievous kobold returns 
 in the similitude of Leafa!
 Defeat the kobold trickster!
@@ -9998,6 +10033,7 @@ Quest
 bg_thumbnail_8006
 Quest 1
 Halloween Returns(Int.)
+lTz
 Hungry Gluttonous Kobold appeared
 to rob foods! Shoot down the Kobold
 before being attacked! 
@@ -10006,6 +10042,7 @@ Quest
 bg_thumbnail_8021
 Quest 4
 Gluttonous Kobold Okawari (Master)
+kTz
 Hungry Gluttonous Kobold appeared
 to rob foods! Shoot down the Kobold
 before being attacked! 
@@ -10014,6 +10051,7 @@ Quest
 bg_thumbnail_8021
 Quest 3
 Gluttonous Kobold Okawari (EX)
+jTz
 Hungry Gluttonous Kobold appeared
 to rob foods! Shoot down the Kobold
 before being attacked! 
@@ -10022,6 +10060,7 @@ Quest
 bg_thumbnail_8021
 Quest 2
 Gluttonous Kobold Okawari (Exp.)
+iTz
 Hungry Gluttonous Kobold appeared
 to rob foods! Shoot down the Kobold
 before being attacked! 
@@ -10228,6 +10267,7 @@ Quest
 bg_thumbnail_2004
 Quest 1
 Return of the Mysterious Beast (Int.)
++5z
 These two minotaurs have appeared out of
 nowhere! Fight them, being sure to make
 note of their attack patterns.
@@ -10244,6 +10284,7 @@ Quest
 bg_thumbnail_8017
 Quest 2
 Return of the Minotaurus (Exp.)
+)5z
 These two minotaurs have appeared out of
 nowhere! Fight them, being sure to make
 note of their attack patterns.
@@ -10252,6 +10293,7 @@ Quest
 bg_thumbnail_8017
 Quest 1
 Return of the Minotaurus (Int.)
+D1z
 Take command of friends
 and defeat "The Storm 
 Griffin" to get higher ranking!
@@ -10260,6 +10302,7 @@ Quest
 bg_thumbnail_8022
 Quest 4
 The Storm Griffin (Master)
+C1z
 Take command of friends
 and defeat "The Storm 
 Griffin" to get higher ranking!
@@ -10268,6 +10311,7 @@ Quest
 bg_thumbnail_8022
 Quest 3
 The Storm Griffin (EX)
+B1z
 Take command of friends
 and defeat "The Storm 
 Griffin" to get higher ranking!
@@ -10276,6 +10320,7 @@ Quest
 bg_thumbnail_8022
 Quest 2
 The Storm Griffin (Exp.)
+A1z
 Take command of friends
 and defeat "The Storm 
 Griffin" to get higher ranking!
@@ -10284,6 +10329,7 @@ Quest
 bg_thumbnail_8022
 Quest 1
 The Storm Griffin (Int.)
+t)z
 X'rphan the White Wyrm is the strongest
 in all existence, and this dragon is its
 cousin. Stand and fight against its
@@ -10293,6 +10339,7 @@ Quest
 bg_thumbnail_2018
 Quest 3
 Return of the Storm Wyrm (EX)
+r)z
 X'rphan the White Wyrm is the strongest
 in all existence, and this dragon is its
 cousin. Stand and fight against its
@@ -10302,6 +10349,7 @@ Quest
 bg_thumbnail_2018
 Quest 2
 Return of the Storm Wyrm (Exp.)
+q)z
 X'rphan the White Wyrm is the strongest
 in all existence, and this dragon is its
 cousin. Stand and fight against its
@@ -11784,6 +11832,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2020
 Floor :99 
+100
 Enemy Lv: 120
 Better for: Holy
 Better for: Strike
@@ -11826,6 +11875,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8003
 Floor :84 
+	BI
 Enemy Lv: 110
 Better for: Slash
 Better for: Holy & Dark
@@ -14077,6 +14127,7 @@ Finish Story
 Story
 bg_thumbnail_0
 Story 6
+PvP
 Finish Story
 Story
 bg_thumbnail_0
@@ -16894,6 +16945,7 @@ Finish Story
 Story
 bg_thumbnail_0
 Story 11-5
+Yui
 Defeat Boss
 Quest
 bg_thumbnail_2003

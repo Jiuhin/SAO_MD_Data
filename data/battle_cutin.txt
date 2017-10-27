@@ -568,6 +568,7 @@ Now's your chance! Charge!
 This one's mine!
 Now's your chance! Parry!
 Status affliction...careful!
+No!
 Thanks! That helped a lot!
 Very nice!
 This one's tough. Flank it!
@@ -590,6 +591,7 @@ Nice! Now's our chance!
 Leave that one to me!
 Now! Parry!
 A status affliction. Ouch...
+No!
 Thanks!
 Not bad!
 It's defending! Flank it!

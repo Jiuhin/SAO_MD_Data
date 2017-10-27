@@ -397,6 +397,7 @@ Gold Medal Scout
 100% chance of getting Medal-Scout limited 
 4 character.
 You can confirm the characters that can be earned from [Scouting Characters/Scout Rate] in each Medal-Scout page.
+　　　
 Silver Medal Scout
 10 silver medals are required to scout 1 character.
 You can confirm the characters that can be earned from [Scouting Characters/Scout Rate] in each Medal-Scout page.
@@ -779,6 +780,7 @@ Edit Equipment
 　  If you want to change, return to the Entrance or 
 　  Transport Gates to reset number of departures,
 　  survival status, and clearing status.
+　  
 you can upgrade, evolve, and sell equipment.
 　[Rewards of Floor Clearing Event]
 Floor Complete Rewards
@@ -786,6 +788,7 @@ Floor Complete Rewards
 　  limited 
 4 equipment. This 
 4 equipment can evolve to
+　  
 5 equipment. Create 
 5 equipment!
 Pt Rewards
@@ -1054,8 +1057,10 @@ Elemental Affinities
 　their own attribute values, as shown
 　below.
 　Attribute Breakdown:
+　HP
 When a character's HP reaches
 　zero, that character dies.
+　MP
 Required to perform sword skills.
 　Attack
 The higher this value is, the greater
@@ -1159,10 +1164,13 @@ Event crystal
 　The name of ［Event crystal］depends on the event.
 　【Strategy】
 Challenge difficult quests
+　  
 The more it's difficult, the more event points and rare crystals you can get from the treasure box.
 Get better Clear-rank
+　  
 The better rank you get, the more event points and rare crystals you can get.
 Use Multi Player to play Quest efficiently
+　  
 On events you can use Multi Player.
 　Play with your friends to play the Quest efficiently!
 　【Other notes】
@@ -1333,6 +1341,7 @@ You get to parry as you flick the screen or
 When you get unparryable attacks, 
 　　　 you get 0 damage as you
 　　　 guard against them just at the right moment
+　　　
 　NOTE: 
 　 You need at least two party members to perform a switch.
 　 If it lacks enough MP, SS1 unleashes just like usual 
@@ -1408,6 +1417,7 @@ Sword Skills
 '24'>　This game uses the following basic controls.
 　Basic Controls:
 　Attack
+Tap
 　Move
 Drag in any direction
 　Quick-step

@@ -52,14 +52,19 @@ Rank 2nd on "The Order of the Immortal"
 The Order of the Immortal No.2 Guild
 Rank 1st on "The Order of the Immortal"
 The Order of the Immortal No.1 Guild
+&Am
 Participate in "The Beast Lords in League"
 The Beast Lords in League Participated Guild
+%Am
 Rank High on "The Beast Lords in League"
 The Beast Lords in League Assault Team
+%Am
 Rank 3rd on "The Beast Lords in League"
 The Beast Lords in League No.3 Guild
+%Am
 Rank 2nd on "The Beast Lords in League"
 The Beast Lords in League No.2 Guild
+%Am
 Rank 1st on "The Beast Lords in League"
 The Beast Lords in League No.1 Guild
 Complete  "75th floor the Pristine Floating Castle"

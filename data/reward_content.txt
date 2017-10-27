@@ -37,7 +37,9 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+l:䑕
 「戦う理由」の解放
+l:㑕
 「強さの訳」の解放
 「最深部で手に入れたもの」の解放
 「GGOをプレイする理由」の解放
@@ -52,14 +54,22 @@ Memory Diamond x5
 Peaceful Coexistence Hot Spring
 Reconciliation with Monkeys
 Conversation with Monkeys
+l:}
 Silica's Secret Plan
 Monkey Control
+l:{
 Attack
+l:z
 Hidden Hotsprings
+l:y
 In Search of Hotsprings
+l:x
 Monkey Tribe
+l:w
 Planned Site 
+l:v
 Lack of Charm
+l:u
 City Development
 The Mother Daughter Bond
 Reason of the Speed
@@ -85,29 +95,41 @@ The Devil's Force
 Defensive War
 The Lord of Castle Demon
 Halloween continues
+l:T
 Arianrhod's Wish
+l:S
 Heathcliff's Intentions
+l:R
 Growth
 _l:Q
 Tank for Two
 A_l:P
 Beat Yourself
+l:O
 Talent and Potential
+l:N
 The First Step
+l:M
 Before the Battle
 ]l:L
 The Encounter with Him
 M]l:K
 Unbrave Famous Player
+l:J
 The Reason for the Likeness
+l:I
 Visitor
+9l:
 Solid Evidence
 ]9l:
 Negotiation
+8l:
 Another Negotiating Card
+8l:
 The Luminous Sacred Treasures
 18l:
 As expected
+7l:
 Principles and Real Intentions
 i7l:
 Under the circumstances
@@ -133,14 +155,22 @@ Sail Out
 To cross the sea
 To the port
 Human World
+k:(
 Premiere's Confidence
+k:'
 Kagura Dance
+k:&
 Kagura of Goddess
+k:%
 Someone Special
+k:$
 Main Event
 Premiere's Curiosity
+k:"
 Hotshot Strea
+k:!
 No fights!
+k: 
 Mini Quest
 Committee Activity
 Help out!
@@ -158,50 +188,73 @@ Concert or Rank?
 Poolside Event
 Pool Party
 Captive Heroine
+k:_
 Special Strategy
 Rescue Kirito
+k:]
 Stubborn Old Man
 Power of Star
+k:[
 Each Role
+k:Z
 Do Not Open
+k:Y
 Memories in the Cabin
+k:X
 Married Couple Role
+k:W
 Big Snake's Bride
+k:V
 The Legend of Vega and Altair
+k:U
 Collaboration Event
 qvk:
 Funny Play
+vk:
 Stop Mischievous Play campaign
+uk:
 Life in MMO
 Euk:
 Temptation
+tk:
 New Gainings
 }tk:
 Real Fight
+tk:
+PvP
+sk:
 Rule and Manner
 Qsk:
 Ominous Signs
+rk:
 The OS World
+rk:
 Jack Up
 %rk:
 New Player
 aOk:
 Angel of Rainbow
+Nk:
 After Battle
+Nk:
 Battle Again
 5Nk:
 Escape Under the Blue Sky
+Mk:
 Run from Snakes
 mMk:
 Why Rain
 	Mk:
 Company in the forest
+Lk:
 Unexpected Encounter
 ALk:
 Sakuya's resolve
+Kk:
 Sylph's Alchemy
 yKk:
 A horde of Nidhogg
+Kk:
 The Rainy Season in VR
 Future of Yuuki
 Yuuki's Ability
@@ -215,17 +268,29 @@ Complete Quests!
 Yuuki's Vision
 Unexpected Talent
 Holding a Contest
+j:l
 Oath
+j:k
 Non-negotiable thing
+j:j
 How to Convey My Heart
+j:i
 Fleeting Event
+j:h
 VS. Sinon
+j:g
 VS. Lisbeth
+j:f
 VS. Silica
+j:e
 VS. Leafa
+j:d
 Visitor
+j:c
 For Rewards
+j:b
 Unexpected Challenger
+j:a
 Wedding Event
 A tete-a-tete Secret
 Feeling great
@@ -251,14 +316,17 @@ The fashion of the real world
 First-Met World
 Audiovisual two-way communication probe
 Reality of the dreams
+ej:
 Alice and Eugeo
 dj:?
 Discovering the Sacred Treasure
 9dj:>
 Amnesia
+cj:
 Thirty-Two
 qcj:<
 Man appears at crisis
+cj:
 7 Sacred Treasures
 bj::
 Going through a stream of light
@@ -270,34 +338,51 @@ Messy Conversation
 Girl with a Golden Armor
 aj:6
 Rumor of an awesome player
+j:5
 Accomplished going solo
 Alicia's discretion
 The result of the battle
 Promising player
+<j:
 Characteristics of the Avatar
 a<j:
 Sinon's Sparta
 Interesting story
 Not anymore
 Battle of the Strong
+:j:
 On the day of the event
 m:j:
 Strengthening
 	:j:
 Making a Hina-Dan
+9j:
 Interesting calls
+j:y
 Rechka's Heart
+j:x
 Final Results
+j:w
 Seasoning
+j:v
 Result of Showdown
+j:u
 Why I Came Back
+j:t
 Ingredient Wars
+j:s
 Cooking to Survive begins!
+j:r
 Rechka
+j:q
 Reunited
+j:p
 Fireproof Pan
+j:o
 Asuna's Heart
+j:n
 Queen of Chef
+j:m
 Cooking to Survive
 The Expositor
 Conclusion
@@ -310,6 +395,7 @@ Where the Arrow Hits
 Leadership
 Race Settings
 Paint Arrows
+i:	
 Bean Wars
 Premiere & ALO
 The Best Floating Spell Program
@@ -333,12 +419,15 @@ Dragon Knight Bow R3
 Gargoyle Rifle R3
 Bloody Rapier R3
 Dual Frost Blades R3
+aO/
 Team-up Headband R3
 Team-up Headband R2
 Gym Clothes in Youth R3
 Gym Clothes in Youth R2
 Insane Armor R4
+MO/
 Bat Mask R3
+LO/
 Bat Mask R2
 Wolf Coat R3
 Wolf Coat R2
@@ -346,9 +435,13 @@ White Knight Jacket R3
 White Knight Jacket R2
 M-44 Nether R4
 Coat of Sylphide R4
+9O/
 Aincrad Earring R3
+8O/
 Aincrad Earring R2
+%O/
 Jade Flower Necklace R3
+$O/
 Jade Flower Necklace R2
 Hibiscus Necklace R3
 Hibiscus Necklace R2
@@ -364,9 +457,13 @@ Topaz Earring R3
 Topaz Earring R2
 Emerald Earring R3
 Emerald Earring R2
+wM/
 Sapphire Earring R3
+vM/
 Sapphire Earring R2
+mM/
 Ruby Earring R3
+lM/
 Ruby Earring R2
 Asterius R3
 Asterius R2
@@ -378,6 +475,7 @@ Passionate Gale R3
 Passionate Gale R2
 Starry Night R3
 Starry Night R2
+9E	
 Minos Staff R3
 Minos Staff R2
 Shark's Bite R3
@@ -416,85 +514,146 @@ Twinkling Comet
 Pumpkin Bomb
 Trick or Treat
 Starburst Stream
+8w{
 Flowers in the Wilderness
+8v{
 Arianrhod in the Past
+8u{
 The Star's Call Opens the Door
+8t{
 Treasure Master
+8s{
 Premiere's Summer Festival 
+8r{
 The Tale of Two Stars
+8q{
 Rainbow after the Rain
+8p{
 Genius Artist
+8o{
 Lives drawn in the Virtual World
+8n{
 The Mentor of AR Newbies
+8m{
 Battle Royal of AR Newbies
+8l{
 The Strongest Bride
+8k{
 Bridal Competition
+8j{
 The Warrior against the Goddess
+8i{
 Meteor Showers the Goddess of Battle
+8h{
 Black Flame in Backwater
+8g{
 Mighty Maid
+8f{
 Let's Go! Maid to Fight!
+8e{
 Hide-and-seek Girl
+8d{
 Get up nerve in virtual world
+8c{
 Challenger of the Shadowy Castle
+8b{
 Supreme ruler of the Shadowy Castle
+8a{
 Fairy tale
 Invitation from Fairyland
+8_{
 Longing for Sailor Suit
 Stars Orbit the Hopes of Another World
+8]{
 Foxy Priestess
 Survival Battle on Desert
+8[{
 Gruesome Demonslayer
+8Z{
 Demon conquer of Alfheim
+8Y{
 Queen of Chef
+8X{
 Yui's voice echoes inside my heart
+8W{
 Backed by the Cheer of My Daughter
+8V{
 The Stage and a Cat Fairy
+8U{
 Ordinal Scale Ep 0
+8T{
 Bean Wars
+8S{
 Reach for the Sky
+8R{
 Gifts from Girls
+8Q{
 Bittersweet Chocolate
+8P{
 Guardian of Ryugu-jo
+8O{
 A Princess's Promise
+8N{
 Rainbow Dawn
+8M{
 Daybreak on a VR New Year
+8L{
 Best Friends
+8K{
 The Food of Friendship
+8J{
 Fight Fear With Fear
+8I{
 The Dark Saint
+8H{
 Master of the Kitchen
+8G{
 Made With Love
+8F{
 The Moonlit Black Cats
+8E{
 Christmas Memories
+8D{
 The Heroes Seven
+8C{
 Creature of the Labyrinth
+8B{
 Shapeshifting Valkyrie
+8A{
 Each to Their Own
 Miracle of the Tempest
 Storm Dragon's Abode
+8zz
 A Great Fisher
+8yz
 Shimmering Secret
 Golden Apple
 What the Frost Giants Seek
 The Witch on the Fastest Broomstick
 Beware the Kobold Trickster!
+8Ny
 Best Trick of the Night
+8My
 Sweet-Toothed Witch
 The World Tree Fairy
 Grand Quest of the Top-Ranked
 Savior of the Sands
 Bandit of the Sands
+8"x
 Werewolf Tamer
+8!x
 The Burning Caverns
 With Yui
 The Fairy Daughter
+8Zw
 Midnight Beater
+8Yw
 Return of the Beast Lord
 The World Seed
 Gilded Hero
 Bonds
 The Grand Quest
+8	w
 The Truth About Alfheim
 General of the Blazing Flame
 The Legrue Corridor
@@ -607,25 +766,43 @@ Anniversary Ticket Plus x5
 Anniversary Ticket VIP x1
 	84s
 Anniversary Ticket x10
+83s
 Anniversary Ticket x10
+82s
 Anniversary Ticket x20
+81s
 Anniversary Ticket x30
+80s
 Anniversary Ticket Plus x10
+8/s
 Anniversary Ticket Plus x10
+8.s
 Anniversary Ticket Plus x20
+8-s
 The Beginning of a New Challenge
+8,s
 Assault! Proof of Strong Bonds
+8+s
 Stardust (Medium) x500
 Water Medallion x3
+8)s
 Countdown Ticket Plus x5
+8(s
 Countdown Ticket VIP x5
+8's
 Countdown Ticket VIP x3
+8&s
 Countdown Ticket VIP x2
+8%s
 Countdown Ticket VIP x1
+8$s
 Exchange Sword R2
 Black Plate R4
+8"s
 Talent in Rainbow Colors
+8!s
 Idol Singer
+8 s
 Countdown Ticket Plus x20
 Countdown Ticket Plus x10
 Countdown Ticket x30
@@ -648,10 +825,13 @@ Summer Ticket x10
 SD Gold Medal x1
 a1V6
 Upgrade Crystal x5
+0V6
 Upgrade Crystal x5
+0V6
 Upgrade Crystal x4
 50V6
 Upgrade Crystal x3
+/V6
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
@@ -675,15 +855,24 @@ Sports Festival Record Crystal x4
 Sports Festival Record Crystal x3
 Sports Festival Record Crystal x2
 Sports Festival Record Crystal x1
+52X
 Happy Halloween Night Record Crystal x10
+51X
 Happy Halloween Night Record Crystal x9
+50X
 Happy Halloween Night Record Crystal x8
+5/X
 Happy Halloween Night Record Crystal x7
+5.X
 Happy Halloween Night Record Crystal x6
+5-X
 Happy Halloween Night Record Crystal x5
+5,X
 Happy Halloween Night Record Crystal x4
+5+X
 Happy Halloween Night Record Crystal x3
 Happy Halloween Night Record Crystal x2
+5)X
 Happy Halloween Night Record Crystal x1
 Moonlight Halloween Record Crystal x10
 Moonlight Halloween Record Crystal x9
@@ -695,15 +884,25 @@ Moonlight Halloween Record Crystal x4
 Moonlight Halloween Record Crystal x3
 Moonlight Halloween Record Crystal x2
 Moonlight Halloween Record Crystal x1
+5jW
 1st Anniversary Record Crystal x10
+5iW
 1st Anniversary Record Crystal x9
+5hW
 1st Anniversary Record Crystal x8
+5gW
 1st Anniversary Record Crystal x7
+5fW
 1st Anniversary Record Crystal x6
+5eW
 1st Anniversary Record Crystal x5
+5dW
 1st Anniversary Record Crystal x4
+5cW
 1st Anniversary Record Crystal x3
+5bW
 1st Anniversary Record Crystal x2
+5aW
 1st Anniversary Record Crystal x1
 Pirate Record Crystal x10
 Pirate Record Crystal x9
@@ -725,15 +924,23 @@ Summer Girl Record Crystal x4
 Summer Girl Record Crystal x3
 Summer Girl Record Crystal x2
 Summer Girl Record Crystal x1
+5>V
 Yukata Night Record Crystal x10
 Yukata Night Record Crystal x9
+5<V
 Yukata Night Record Crystal x8
 Yukata Night Record Crystal x7
+5:V
 Yukata Night Record Crystal x6
+59V
 Yukata Night Record Crystal x5
+58V
 Yukata Night Record Crystal x4
+57V
 Yukata Night Record Crystal x3
+56V
 Yukata Night Record Crystal x2
+55V
 Yukata Night Record Crystal x1
 Yukata Night Record Crystal x10
 Yukata Night Record Crystal x9
@@ -745,15 +952,25 @@ Yukata Night Record Crystal x4
 Yukata Night Record Crystal x3
 Yukata Night Record Crystal x2
 Yukata Night Record Crystal x1
+5vU
 Yukata Night Record Crystal x10
+5uU
 Yukata Night Record Crystal x9
+5tU
 Yukata Night Record Crystal x8
+5sU
 Yukata Night Record Crystal x7
+5rU
 Yukata Night Record Crystal x6
+5qU
 Yukata Night Record Crystal x5
+5pU
 Yukata Night Record Crystal x4
+5oU
 Yukata Night Record Crystal x3
+5nU
 Yukata Night Record Crystal x2
+5mU
 Yukata Night Record Crystal x1
 EXP Hi-Potion x5
 Col x30000
@@ -1186,108 +1403,211 @@ Attack Shard x40
 MP Shard x40
 HP Shard x40
 Stardust (Medium) x100
+2:f
 Supreme ruler of the Castle of Mirage
+2:f
 Skill Crystal x10
+2:f
 Critical Crystal x10
+2:f
 Defense Crystal x10
+2:f
 Attack Crystal x10
+2:f
 MP Crystal x10
+2:f
 HP Crystal x10
+2:f
 Col x100000
+2:f
 Memory Fragment x5
+29f
 Skill Shard x20
+29f
 Critical Shard x20
+29f
 Defense Shard x20
+29f
 Attack Shard x20
+29f
 MP Shard x20
+29f
 HP Shard x20
+29f
 Stardust (Medium) x600
+28f
 Holy Skill Crystal x5
+28f
 Holy Critical Crystal x5
+28f
 Holy Defense Crystal x5
+28f
 Holy Attack Crystal x5
+28f
 Holy MP Crystal x5
+28f
 Holy HP Crystal x5
+28f
 Rainbow Essence x1
+27f
 Skill Crystal x10
+27f
 Critical Crystal x10
+27f
 Defense Crystal x10
+27f
 Attack Crystal x10
+27f
 MP Crystal x10
+27f
 HP Crystal x10
+27f
 Stardust (Medium) x600
+26f
 Skill Shard x20
+26f
 Critical Shard x20
+26f
 Defense Shard x20
+26f
 Attack Shard x20
+26f
 MP Shard x20
+26f
 HP Shard x20
+26f
 Col x50000
+26f
 Memory Fragment x5
+25f
 Holy Skill Crystal x5
+25f
 Holy Critical Crystal x5
+25f
 Holy Defense Crystal x5
+25f
 Holy Attack Crystal x5
+25f
 Holy MP Crystal x5
+25f
 Holy HP Crystal x5
+25f
 Stardust (Medium) x300
+24f
 Skill Crystal x10
+24f
 Critical Crystal x10
+24f
 Defense Crystal x10
+24f
 Attack Crystal x10
+24f
 MP Crystal x10
+24f
 HP Crystal x10
+24f
 Rainbow Essence x1
+23f
 Skill Shard x20
+23f
 Critical Shard x20
+23f
 Defense Shard x20
+23f
 Attack Shard x20
+23f
 MP Shard x20
+23f
 HP Shard x20
+23f
 Stardust (Medium) x300
+22f
 Challenger of the Castle of Mirage
+22f
 Holy Skill Crystal x5
+22f
 Holy Critical Crystal x5
+22f
 Holy Defense Crystal x5
+22f
 Holy Attack Crystal x5
+22f
 Holy MP Crystal x5
+22f
 Holy HP Crystal x5
+22f
 Col x50000
+22f
 Memory Fragment x4
+21f
 Skill Crystal x10
+21f
 Critical Crystal x10
+21f
 Defense Crystal x10
+21f
 Attack Crystal x10
+21f
 MP Crystal x10
+21f
 HP Crystal x10
+21f
 Rainbow Essence x1
+20f
 Skill Shard x20
+20f
 Critical Shard x20
+20f
 Defense Shard x20
+20f
 Attack Shard x20
+20f
 MP Shard x20
+20f
 HP Shard x20
+20f
 Memory Fragment x4
+2/f
 Holy Skill Crystal x5
+2/f
 Holy Critical Crystal x5
+2/f
 Holy Defense Crystal x5
+2/f
 Holy Attack Crystal x5
+2/f
 Holy MP Crystal x5
+2/f
 Holy HP Crystal x5
+2/f
 Stardust (Medium) x200
+2.f
 Skill Crystal x10
+2.f
 Critical Crystal x10
+2.f
 Defense Crystal x10
+2.f
 Attack Crystal x10
+2.f
 MP Crystal x10
+2.f
 HP Crystal x10
+2.f
 Memory Fragment x2
+2-f
 Skill Shard x20
+2-f
 Critical Shard x20
+2-f
 Defense Shard x20
+2-f
 Attack Shard x20
+2-f
 MP Shard x20
+2-f
 HP Shard x20
+2-f
 Stardust (Medium) x100
 Supreme ruler of the Twilight Castle in Akasha
 Skill Crystal x10
@@ -1392,108 +1712,211 @@ Attack Shard x20
 MP Shard x20
 HP Shard x20
 Stardust (Medium) x100
+2re
 Supreme ruler of the Shadowy Castle
+2re
 Skill Crystal x10
+2re
 Critical Crystal x10
+2re
 Defense Crystal x10
+2re
 Attack Crystal x10
+2re
 MP Crystal x10
+2re
 HP Crystal x10
+2re
 Col x100000
+2re
 Memory Fragment x5
+2qe
 Skill Shard x20
+2qe
 Critical Shard x20
+2qe
 Defense Shard x20
+2qe
 Attack Shard x20
+2qe
 MP Shard x20
+2qe
 HP Shard x20
+2qe
 Stardust (Medium) x600
+2pe
 Holy Skill Crystal x5
+2pe
 Holy Critical Crystal x5
+2pe
 Holy Defense Crystal x5
+2pe
 Holy Attack Crystal x5
+2pe
 Holy MP Crystal x5
+2pe
 Holy HP Crystal x5
+2pe
 Rainbow Essence x1
+2oe
 Skill Crystal x10
+2oe
 Critical Crystal x10
+2oe
 Defense Crystal x10
+2oe
 Attack Crystal x10
+2oe
 MP Crystal x10
+2oe
 HP Crystal x10
+2oe
 Stardust (Medium) x600
+2ne
 Skill Shard x20
+2ne
 Critical Shard x20
+2ne
 Defense Shard x20
+2ne
 Attack Shard x20
+2ne
 MP Shard x20
+2ne
 HP Shard x20
+2ne
 Col x50000
+2ne
 Memory Fragment x5
+2me
 Holy Skill Crystal x5
+2me
 Holy Critical Crystal x5
+2me
 Holy Defense Crystal x5
+2me
 Holy Attack Crystal x5
+2me
 Holy MP Crystal x5
+2me
 Holy HP Crystal x5
+2me
 Stardust (Medium) x300
+2le
 Skill Crystal x10
+2le
 Critical Crystal x10
+2le
 Defense Crystal x10
+2le
 Attack Crystal x10
+2le
 MP Crystal x10
+2le
 HP Crystal x10
+2le
 Rainbow Essence x1
+2ke
 Skill Shard x20
+2ke
 Critical Shard x20
+2ke
 Defense Shard x20
+2ke
 Attack Shard x20
+2ke
 MP Shard x20
+2ke
 HP Shard x20
+2ke
 Stardust (Medium) x300
+2je
 Challenger of the Shadowy Castle
+2je
 Holy Skill Crystal x5
+2je
 Holy Critical Crystal x5
+2je
 Holy Defense Crystal x5
+2je
 Holy Attack Crystal x5
+2je
 Holy MP Crystal x5
+2je
 Holy HP Crystal x5
+2je
 Col x50000
+2je
 Memory Fragment x4
+2ie
 Skill Crystal x10
+2ie
 Critical Crystal x10
+2ie
 Defense Crystal x10
+2ie
 Attack Crystal x10
+2ie
 MP Crystal x10
+2ie
 HP Crystal x10
+2ie
 Rainbow Essence x1
+2he
 Skill Shard x20
+2he
 Critical Shard x20
+2he
 Defense Shard x20
+2he
 Attack Shard x20
+2he
 MP Shard x20
+2he
 HP Shard x20
+2he
 Memory Fragment x4
+2ge
 Holy Skill Crystal x5
+2ge
 Holy Critical Crystal x5
+2ge
 Holy Defense Crystal x5
+2ge
 Holy Attack Crystal x5
+2ge
 Holy MP Crystal x5
+2ge
 Holy HP Crystal x5
+2ge
 Stardust (Medium) x200
+2fe
 Skill Crystal x10
+2fe
 Critical Crystal x10
+2fe
 Defense Crystal x10
+2fe
 Attack Crystal x10
+2fe
 MP Crystal x10
+2fe
 HP Crystal x10
+2fe
 Memory Fragment x2
+2ee
 Skill Shard x20
+2ee
 Critical Shard x20
+2ee
 Defense Shard x20
+2ee
 Attack Shard x20
+2ee
 MP Shard x20
+2ee
 HP Shard x20
+2ee
 Stardust (Medium) x100
 EXP Potion x5
 Skill Shard x20
@@ -1561,54 +1984,103 @@ Halloween Upgrade Crystal x4
 Halloween Bronze Medal x10
 Halloween Silver Medal x10
 Halloween Gold Medal x15
+2JF
 Dark Medallion x5
+2JF
 Skill Shard x50
+2JF
 Critical Shard x50
+2JF
 Defense Shard x50
+2JF
 Attack Shard x50
+2JF
 MP Shard x50
+2JF
 HP Shard x50
+2JF
 Skill Crystal x30
+2JF
 Critical Crystal x30
+2JF
 Defense Crystal x30
+2JF
 Attack Crystal x30
+2JF
 MP Crystal x30
+2JF
 HP Crystal x30
+2JF
 Holy Skill Crystal x10
+2JF
 Holy Critical Crystal x10
+2JF
 Holy Defense Crystal x10
+2JF
 Holy Attack Crystal x10
+2JF
 Holy MP Crystal x10
+2JF
 Holy HP Crystal x10
+2JF
 The Monster Healer
+2JF
 Col x100000
+2JF
 Stardust (Medium) x250
+2JF
 Rainbow Essence x1
+2JF
 Halloween Silver Medal x5
+2JF
 Halloween Gold Medal x1
+2IF
 Dark Medallion x3
+2IF
 Skill Shard x20
+2IF
 Critical Shard x20
+2IF
 Defense Shard x20
+2IF
 Attack Shard x20
+2IF
 MP Shard x20
+2IF
 HP Shard x20
+2IF
 Skill Crystal x10
+2IF
 Critical Crystal x10
+2IF
 Defense Crystal x10
+2IF
 Attack Crystal x10
+2IF
 MP Crystal x10
+2IF
 HP Crystal x10
+2IF
 Holy Skill Crystal x5
+2IF
 Holy Critical Crystal x5
+2IF
 Holy Defense Crystal x5
+2IF
 Holy Attack Crystal x5
+2IF
 Holy MP Crystal x5
+2IF
 Holy HP Crystal x5
+2IF
 The Two Headed Monster
+2IF
 Col x50000
+2IF
 Stardust (Medium) x150
+2IF
 Halloween Bronze Medal x5
+2IF
 Halloween Gold Medal x1
 EXP Potion x5
 Skill Shard x20
@@ -1676,12 +2148,19 @@ Halloween Upgrade Crystal x4
 Halloween Bronze Medal x10
 Halloween Silver Medal x10
 Halloween Gold Medal x15
+2$E
 EXP Potion x5
+2$E
 Skill Shard x20
+2$E
 Critical Shard x20
+2$E
 Defense Shard x20
+2$E
 Attack Shard x20
+2$E
 MP Shard x20
+2$E
 HP Shard x20
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 100)
@@ -1693,31 +2172,54 @@ Attack Shard x20
 MP Shard x20
 HP Shard x20
 Memory Diamond x5
+2"E
 Assault Team: Rival War!
 - in quest of secluded hot springs - (Top 50)
+2"E
 EXP Hi-Potion x5
+2"E
 Col x30000
+2"E
 Memory Diamond x5
+2"E
 Colored Leaf Bronze Medal x5
+2"E
 Colored Leaf  Silver Medal x5
+2"E
 Colored Leaf  Gold Medal x2
+2!E
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 20)
+2!E
 EXP X-Potion x5
+2!E
 Col x50000
+2!E
 Memory Diamond x5
+2!E
 Colored Leaf Upgrade Crystal x1
+2!E
 Colored Leaf Bronze Medal x10
+2!E
 Colored Leaf  Silver Medal x5
+2!E
 Colored Leaf  Gold Medal x4
+2 E
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 10)
+2 E
 EXP X-Potion x5
+2 E
 Col x100000
+2 E
 Memory Diamond x5
+2 E
 Colored Leaf Upgrade Crystal x2
+2 E
 Colored Leaf Bronze Medal x10
+2 E
 Colored Leaf  Silver Medal x5
+2 E
 Colored Leaf  Gold Medal x6
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (3rd)
@@ -1819,57 +2321,109 @@ Cross Swords Upgrade Crystal x5
 Anniversary Ticket x100
 Anniversary Ticket Plus x50
 Anniversary Ticket VIP x20
+20C
 Assault Team: Proof of Strong Bonds (Top 100)
+20C
 Skill Shard x20
+20C
 Critical Shard x20
+20C
 Defense Shard x20
+20C
 Attack Shard x20
+20C
 MP Shard x20
+20C
 HP Shard x20
+20C
 EXP Hi-Potion x5
+20C
 Col x20000
+20C
 Memory Diamond x5
+20C
 Anniversary Ticket x10
+20C
 Anniversary Ticket Plus x5
+2/C
 Assault Team: Proof of Strong Bonds (Top 50)
+2/C
 EXP Hi-Potion x5
+2/C
 Col x30000
+2/C
 Memory Diamond x5
+2/C
 Anniversary Ticket x50
+2/C
 Anniversary Ticket Plus x5
+2/C
 Anniversary Ticket VIP x1
+2.C
 Assault Team: Proof of Strong Bonds (Top 30)
+2.C
 EXP Hi-Potion x5
+2.C
 Col x30000
+2.C
 Memory Diamond x5
+2.C
 Cross Swords Upgrade Crystal x2
+2.C
 Anniversary Ticket x50
+2.C
 Anniversary Ticket Plus x5
+2.C
 Anniversary Ticket VIP x3
+2-C
 Assault Team: Proof of Strong Bonds (Top 20)
+2-C
 EXP X-Potion x5
+2-C
 Col x50000
+2-C
 Memory Diamond x5
+2-C
 Cross Swords Upgrade Crystal x3
+2-C
 Anniversary Ticket x50
+2-C
 Anniversary Ticket Plus x10
+2-C
 Anniversary Ticket VIP x5
+2,C
 Assault Team: Proof of Strong Bonds (Top 10)
+2,C
 EXP X-Potion x5
+2,C
 Col x100000
+2,C
 Memory Diamond x5
+2,C
 Cross Swords Upgrade Crystal x5
+2,C
 Anniversary Ticket x50
+2,C
 Anniversary Ticket Plus x15
+2,C
 Anniversary Ticket VIP x9
+2+C
 Assault Team: Proof of Strong Bonds (3rd)
+2+C
 EXP X-Potion x5
+2+C
 Rainbow Essence x1
+2+C
 Col x200000
+2+C
 Memory Diamond x5
+2+C
 Cross Swords Upgrade Crystal x5
+2+C
 Anniversary Ticket x80
+2+C
 Anniversary Ticket Plus x30
+2+C
 Anniversary Ticket VIP x14
 Assault Team: Proof of Strong Bonds (2nd)
 EXP X-Potion x5
@@ -1880,14 +2434,23 @@ Cross Swords Upgrade Crystal x5
 Anniversary Ticket x90
 Anniversary Ticket Plus x40
 Anniversary Ticket VIP x17
+2)C
 Assault Team: Proof of Strong Bonds (1st)
+2)C
 EXP X-Potion x5
+2)C
 Rainbow Essence x2
+2)C
 Col x500000
+2)C
 Memory Diamond x5
+2)C
 Cross Swords Upgrade Crystal x5
+2)C
 Anniversary Ticket x100
+2)C
 Anniversary Ticket Plus x50
+2)C
 Anniversary Ticket VIP x20
 Skill Shard x20
 Critical Shard x20
@@ -2125,129 +2688,253 @@ Stardust (Medium) x150
 Countdown Ticket x80
 Countdown Ticket Plus x10
 Countdown Ticket VIP x1
+2R?
 Skill Shard x20
+2R?
 Critical Shard x20
+2R?
 Defense Shard x20
+2R?
 Attack Shard x20
+2R?
 MP Shard x20
+2R?
 HP Shard x20
+2R?
 EXP Hi-Potion x5
+2R?
 Col x20000
+2R?
 Summer Ticket x10
+2R?
 Summer Ticket Plus x5
+2Q?
 EXP Hi-Potion x5
+2Q?
 Col x30000
+2Q?
 Summer Ticket x40
+2Q?
 Summer Ticket Plus x5
+2Q?
 Summer Ticket VIP x1
+2P?
 EXP Hi-Potion x5
+2P?
 Col x30000
+2P?
 Summer Ticket x50
+2P?
 Summer Ticket Plus x5
+2P?
 Summer Ticket VIP x1
+2O?
 EXP Hi-Potion x5
+2O?
 Col x50000
+2O?
 Summer Ticket x50
+2O?
 Summer Ticket Plus x10
+2O?
 Summer Ticket VIP x2
+2N?
 EXP X-Potion x5
+2N?
 Col x100000
+2N?
 Summer Ticket x50
+2N?
 Summer Ticket Plus x15
+2N?
 Summer Ticket VIP x5
+2M?
 EXP X-Potion x5
+2M?
 Rainbow Essence x1
+2M?
 Col x200000
+2M?
 Summer Ticket x80
+2M?
 Summer Ticket Plus x30
+2M?
 Summer Ticket VIP x8
+2L?
 EXP X-Potion x5
+2L?
 Rainbow Essence x1
+2L?
 Col x300000
+2L?
 Summer Ticket x85
+2L?
 Summer Ticket Plus x35
+2L?
 Summer Ticket VIP x10
+2K?
 EXP X-Potion x5
+2K?
 Rainbow Essence x1
+2K?
 Col x500000
+2K?
 Summer Ticket x90
+2K?
 Summer Ticket Plus x40
+2K?
 Summer Ticket VIP x10
+2J?
 EXP X-Potion x5
+2J?
 Rainbow Essence x1
+2J?
 Col x500000
+2J?
 Summer Ticket x95
+2J?
 Summer Ticket Plus x45
+2J?
 Summer Ticket VIP x10
+2I?
 EXP X-Potion x5
+2I?
 Rainbow Essence x1
+2I?
 Col x500000
+2I?
 Summer Ticket x100
+2I?
 Summer Ticket Plus x50
+2I?
 Summer Ticket VIP x10
+2H?
 Assault Team: Summer Sea (Top 100)
+2H?
 Skill Shard x20
+2H?
 Critical Shard x20
+2H?
 Defense Shard x20
+2H?
 Attack Shard x20
+2H?
 MP Shard x20
+2H?
 HP Shard x20
+2H?
 EXP Hi-Potion x5
+2H?
 Col x20000
+2H?
 Memory Diamond x5
+2H?
 Summer Ticket x10
+2H?
 Summer Ticket Plus x5
+2G?
 Assault Team: Summer Sea (Top 50)
+2G?
 EXP Hi-Potion x5
+2G?
 Col x30000
+2G?
 Memory Diamond x5
+2G?
 Summer Ticket x50
+2G?
 Summer Ticket Plus x5
+2G?
 Summer Ticket VIP x1
+2F?
 Assault Team: Summer Sea (Top 30)
+2F?
 EXP Hi-Potion x5
+2F?
 Col x30000
+2F?
 Memory Diamond x5
+2F?
 Summer Ticket x50
+2F?
 Summer Ticket Plus x5
+2F?
 Summer Ticket VIP x3
+2E?
 Assault Team: Summer Sea (Top 20)
+2E?
 EXP X-Potion x5
+2E?
 Col x50000
+2E?
 Memory Diamond x5
+2E?
 Summer Ticket x50
+2E?
 Summer Ticket Plus x10
+2E?
 Summer Ticket VIP x5
+2D?
 Assault Team: Summer Sea (Top 10)
+2D?
 EXP X-Potion x5
+2D?
 Col x100000
+2D?
 Memory Diamond x5
+2D?
 Summer Ticket x50
+2D?
 Summer Ticket Plus x15
+2D?
 Summer Ticket VIP x9
+2C?
 Assault Team: Summer Sea (3rd)
+2C?
 EXP X-Potion x5
+2C?
 Rainbow Essence x1
+2C?
 Col x200000
+2C?
 Memory Diamond x5
+2C?
 Summer Ticket x80
+2C?
 Summer Ticket Plus x30
+2C?
 Summer Ticket VIP x14
+2B?
 Assault Team: Summer Sea (2nd)
+2B?
 EXP X-Potion x5
+2B?
 Rainbow Essence x1
+2B?
 Col x300000
+2B?
 Memory Diamond x5
+2B?
 Summer Ticket x90
+2B?
 Summer Ticket Plus x40
+2B?
 Summer Ticket VIP x17
+2A?
 Assault Team: Summer Sea (1st)
+2A?
 EXP X-Potion x5
+2A?
 Rainbow Essence x2
+2A?
 Col x500000
+2A?
 Memory Diamond x5
+2A?
 Summer Ticket x100
+2A?
 Summer Ticket Plus x50
+2A?
 Summer Ticket VIP x20
 EXP Potion x5
 Skill Shard x20
@@ -3048,60 +3735,110 @@ Memory Diamond x5
 Bronze Medal x10
 Silver Medal x10
 Gold Medal x10
+2,3
 EXP Potion x5
+2,3
 Skill Shard x20
+2,3
 Critical Shard x20
+2,3
 Defense Shard x20
+2,3
 Attack Shard x20
+2,3
 MP Shard x20
+2,3
 HP Shard x20
+2+3
 Assault Team: Rainbow (Top 100)
+2+3
 EXP Hi-Potion x5
+2+3
 Skill Shard x20
+2+3
 Critical Shard x20
+2+3
 Defense Shard x20
+2+3
 Attack Shard x20
+2+3
 MP Shard x20
+2+3
 HP Shard x20
+2+3
 Memory Diamond x5
 Assault Team: Rainbow (Top 50)
 EXP Hi-Potion x5
 Col x30000
 Memory Diamond x5
 Bronze Medal x5
+2)3
 Assault Team: Rainbow (Top 20)
+2)3
 EXP X-Potion x5
+2)3
 Col x50000
+2)3
 Memory Diamond x5
+2)3
 Bronze Medal x10
+2)3
 Silver Medal x5
+2(3
 Assault Team: Rainbow (Top 10)
+2(3
 EXP X-Potion x5
+2(3
 Col x100000
+2(3
 Memory Diamond x5
+2(3
 Bronze Medal x10
+2(3
 Silver Medal x5
+2(3
 Gold Medal x3
+2'3
 Assault Team: Rainbow (3rd)
+2'3
 EXP X-Potion x5
+2'3
 Col x200000
+2'3
 Memory Diamond x5
+2'3
 Bronze Medal x10
+2'3
 Silver Medal x10
+2'3
 Gold Medal x5
+2&3
 Assault Team: Rainbow (2nd)
+2&3
 EXP X-Potion x5
+2&3
 Col x300000
+2&3
 Memory Diamond x5
+2&3
 Bronze Medal x10
+2&3
 Silver Medal x10
+2&3
 Gold Medal x7
+2%3
 Assault Team: Rainbow (1st)
+2%3
 EXP X-Potion x5
+2%3
 Col x500000
+2%3
 Memory Diamond x5
+2%3
 Bronze Medal x10
+2%3
 Silver Medal x10
+2%3
 Gold Medal x10
 EXP Potion x5
 Skill Shard x20
@@ -3275,27 +4012,49 @@ Defense Shard x20
 Attack Shard x20
 MP Shard x20
 HP Shard x20
+2{.
 Memory Diamond x5
+2z.
 Memory Diamond x5
+2z.
 Bronze Medal x10
+2y.
 Memory Diamond x5
+2y.
 Bronze Medal x10
+2y.
 Silver Medal x5
+2x.
 Memory Diamond x5
+2x.
 Bronze Medal x10
+2x.
 Silver Medal x10
+2x.
 Gold Medal x2
+2w.
 Memory Diamond x5
+2w.
 Bronze Medal x10
+2w.
 Silver Medal x10
+2w.
 Gold Medal x4
+2v.
 Memory Diamond x5
+2v.
 Bronze Medal x10
+2v.
 Silver Medal x10
+2v.
 Gold Medal x6
+2u.
 Memory Diamond x5
+2u.
 Bronze Medal x10
+2u.
 Silver Medal x10
+2u.
 Gold Medal x12
 Silver Medal x5
 Bronze Medal x5
@@ -3463,7 +4222,9 @@ Col x6120
 Col x4012
 Col x2030
 Col x301
+kO/
 Hot Spring Headband R3
+jO/
 Hot Spring Headband R2
 Hot Spring Bathtowel R3
 Hot Spring Bathtowel R2
@@ -3488,6 +4249,7 @@ Sundust (Small) x20
 Sundust (Small) x18
 Sundust (Small) x15
 Sundust (Small) x12
+aO/
 Team-up Headband R3
 Team-up Headband R2
 Gym Clothes in Youth R3
@@ -3497,13 +4259,19 @@ Stardust (Small) x10
 Stardust (Small) x5
 Stardust (Small) x2
 Rainbow CandyBox x1
+MO/
 Bat Mask R3
+LO/
 Bat Mask R2
 Wolf Coat R3
 Wolf Coat R2
+9O/
 Aincrad Earring R3
+8O/
 Aincrad Earring R2
+%O/
 Jade Flower Necklace R3
+$O/
 Jade Flower Necklace R2
 Ardito Bikini R3
 Ardito Bikini R2
@@ -3558,29 +4326,39 @@ Night Star Bracelet R3
 Night Star Bracelet R2
 Soleil Dress R3
 Soleil Dress R2
+gN/
 Floral Shuriken Earing R3
+fN/
 Floral Shuriken Earing R2
 Kunoichi Garb R3
 Kunoichi Garb R2
+qN/
 Cheerful Wristband R3
+pN/
 Cheerful Wristband R2
 Cheerleader Uniform R3
 Cheerleader Uniform R2
 Rainbow CandyBox x1
 Sword of Diva R3
 Sword of Diva R2
+]N/
 Augma R3
 Augma R2
 OS Battle Dress R3
 OS Battle Dress R2
 OS Battle Coat R3
 OS Battle Coat R2
+?N/
 Heart Unlokcer R3
+>N/
 Heart Unlokcer R2
+5N/
 Locked Heart R3
+4N/
 Locked Heart R2
 Patissier Dress R3
 Patissier Dress R2
+!N/
 Paradise Ring R3
 Paradise Ring R2
 Imperial Raiment R3
@@ -3599,6 +4377,7 @@ Wreath Ring R3
 Wreath Ring R2
 Xmas Dress R3
 Xmas Dress R2
+tEf
 'tEf
 Memorial Medallion x1
 Void Medallion x15
@@ -3614,6 +4393,7 @@ Fire Medallion x10
 Water Medallion x10
 Earth Medallion x10
 Knight's Medallion x1
+YAf
 'YAf
 Water Medallion x15
 Wind Medallion x15
@@ -3627,21 +4407,35 @@ Dark Medallion x5
 Dark Medallion x15
 Silverthread Armor R3
 Insane Armor R3
+uO/
 Hades Hair Barrette R3
+tO/
 Hades Hair Barrette R2
 Black Soaring Coat R3
 Black Soaring Coat R2
+/&h
+WO/
 Bat Earring R3
+/&g
+VO/
 Bat Earring R2
+/&f
 Pumpkin Dress R3
+/&e
 Pumpkin Dress R2
+.&t
 Silvery Blue Blade R3
+.&s
 Silvery Blue Blade R2
+.&r
 Golden Blade R3
+.&q
 Golden Blade R2
 !T.&H
+/O/
 Captain Hat R3
 S.&G
+.O/
 Captain Hat R2
 YS.&F
 Captain Coat R3
@@ -3650,7 +4444,9 @@ Captain Coat R2
 Festival Light Armor R3
 Festival Light Armor R2
 Festival Headband R3
+.&}
 Festival Headband R2
+-& 
 Fiery wind Cape R3
 Fiery wind Cape R2
 Scale Chainmail R3
@@ -3659,10 +4455,13 @@ Dual Annealed Blades R3
 Dual Annealed Blades R2
 Annealed Blade R3
 Annealed Blade R2
+i-&
 Violet Star Earring R3
 ]i-&
 Violet Star Earring R2
+h-&
 Night Sky Plumage R3
+h-&
 Night Sky Plumage R2
 QX,&4
 Rain One-piece R3
@@ -3697,40 +4496,54 @@ Void Medallion x5
 Earth Medallion x4
 Dark Medallion x4
 Holy Medallion x4
+})&
 Wind Medallion x4
 u})&
 Water Medallion x4
+})&
 Fire Medallion x4
 Void Medallion x4
+{)&
 Earth Medallion x3
+z)&
 Dark Medallion x3
 Uz)&
 Holy Medallion x3
+y)&
 Wind Medallion x3
+y)&
 Water Medallion x3
 )y)&
 Fire Medallion x3
+x)&
 Void Medallion x3
 5w)&
 Earth Medallion x2
+v)&
 Dark Medallion x2
 mv)&
 Holy Medallion x2
 	v)&
 Wind Medallion x2
+u)&
 Water Medallion x2
 Au)&
 Fire Medallion x2
+t)&
 Void Medallion x2
 Ms)&
 Earth Medallion x1
+r)&
 Dark Medallion x1
+r)&
 Holy Medallion x1
 !r)&
 Wind Medallion x1
+q)&
 Water Medallion x1
 Yq)&
 Fire Medallion x1
+p)&
 Void Medallion x1
 Holy Artistic Taste Hacking Crystal x4
 Artistic Taste Hacking Crystal x8
@@ -3738,11 +4551,23 @@ Artistic Taste Hacking Shard x17
 Genius Artist's Paint x20
 Artist's Paint x28
 Paint x39
+RQS
+RQS
 Holy Artistic Taste Hacking Crystal x1
+QQS
+QQS
 Artistic Taste Hacking Crystal x3
+PQS
+PQS
 Artistic Taste Hacking Shard x8
+OQS
+OQS
 Genius Artist's Paint x6
+NQS
+NQS
 Artist's Paint x8
+MQS
+MQS
 Paint x14
 Genius Artist's Paint x2
 Artist's Paint x5
@@ -3770,15 +4595,25 @@ Girl's Treats x6
 Girl's Treats (Favorite) x1
 Girl's Treats x10
 Girl's Treats x3
+kO/
 Hot Spring Headband R3
 Hot Spring Bathtowel R3
+aO/
 Team-up Headband R3
 Gym Clothes in Youth R3
+rDP
+rDP
 Wolf Coat R3
+qDP
+qDP
+MO/
 Bat Mask R3
+9O/
 Aincrad Earring R3
+l8<
 Col x45000
 Ardito Bikini R3
+%O/
 Jade Flower Necklace R3
 Hydrangea Yukata R3
 Water Balloon Earring R3
@@ -3813,9 +4648,17 @@ Fire Fox Hacking Shard x8
 Fire Fox Mystic Mask x6
 White and Black Fox Mask x8
 Half Fox Mask x14
+LYO
+LYO
 Fire Fox Mystic Mask x2
+KYO
+KYO
 White and Black Fox Mask x5
+JYO
+JYO
 Half Fox Mask x12
+IYO
+IYO
 Half Fox Mask x6
 White and Black Fox Mask x1
 Half Fox Mask x10
@@ -3883,18 +4726,36 @@ Floral Hacking Shard x15
 Hard Worker's Bloom x15
 Hard Worker's Seedling x25
 Hard Worker's New Bud x35
+2!N
+2!N
 Holy Floral Hacking Crystal x1
+1!N
+1!N
 Floral Hacking Crystal x3
+0!N
+0!N
 Floral Hacking Shard x8
+/!N
+/!N
 Hard Worker's Bloom x6
+.!N
+.!N
 Hard Worker's Seedling x8
+-!N
+-!N
 Hard Worker's New Bud x14
 Hard Worker's Bloom x2
 Hard Worker's Seedling x5
 Hard Worker's New Bud x12
 Hard Worker's New Bud x6
+g N
+g N
 Hard Worker's Seedling x1
+f N
+f N
 Hard Worker's New Bud x10
+e N
+e N
 Hard Worker's New Bud x3
 Holy Fisherman Hacking Crystal x3
 Fisherman Hacking Crystal x6
@@ -3906,10 +4767,13 @@ Holy Fisherman Hacking Crystal x1
 Fisherman Hacking Crystal x3
 Fisherman Hacking Shard x8
 Lunker Fishing Rod x6
+xqf
 Big Fishing Rod x8
 Fishing Rod x14
+0Kf
 Lunker Fishing Rod x2
 Big Fishing Rod x5
+hJf
 Fishing Rod x12
 Fishing Rod x6
 Big Fishing Rod x1
@@ -3944,21 +4808,44 @@ Vampire Cape R2
 Jack o' Fury R2
 Silence R2
 Ritual Rapier R2
+67M
+67M
 Holy Yggdrasil Hacking Crystal x3
+57M
+57M
 Yggdrasil Hacking Crystal x6
+47M
+47M
 Yggdrasil Hacking Shard x15
+37M
+37M
 Card Key (Yellow) x15
+27M
+27M
 Card Key (Red) x25
+17M
+17M
 Card Key (Blue) x35
 Holy Yggdrasil Hacking Crystal x1
 Yggdrasil Hacking Crystal x3
 Yggdrasil Hacking Shard x8
 Card Key (Yellow) x6
+xh)
 Card Key (Red) x8
 Card Key (Blue) x14
+l6M
+0B)
+l6M
 Card Key (Yellow) x2
+k6M
+k6M
 Card Key (Red) x5
+j6M
+hA)
+j6M
 Card Key (Blue) x12
+i6M
+i6M
 Card Key (Blue) x6
 Card Key (Red) x1
 Card Key (Blue) x10
@@ -3970,6 +4857,7 @@ Desert Scepter R2
 Desert Rifle R2
 White Skull Mace R2
 Goblin Bone Dagger R2
+wM/
 Sapphire Earring R3
 Aquamarine Robe R3
 Blazing Plate R3
@@ -3977,6 +4865,7 @@ Infernal Longbow R3
 Drill Mace R3
 Dual Jagged Edges R3
 Infernal Sword R3
+vM/
 Sapphire Earring R2
 Aquamarine Robe R2
 Blazing Plate R2
@@ -4080,7 +4969,11 @@ Lv. 90 Decryption Key x2
 Lv. 90 Decryption Key x1
 Lv. 80 Decryption Key x2
 Lv. 80 Decryption Key x1
+"aL
+"aL
 Lv. 70 Decryption Key x2
+!aL
+!aL
 Lv. 70 Decryption Key x1
 Lv. 60 Decryption Key x2
 Lv. 60 Decryption Key x1
@@ -4090,15 +4983,25 @@ Lv. 40 Decryption Key x2
 Lv. 40 Decryption Key x1
 Lv. 30 Decryption Key x2
 Lv. 30 Decryption Key x1
+._L
+._L
 Lv. 20 Decryption Key x2
+-_L
+-_L
 Lv. 20 Decryption Key x1
 Lv. 10 Decryption Key x2
 Lv. 10 Decryption Key x1
 EXP X-Potion x3
 EXP X-Potion x2
 EXP X-Potion x1
+G[L
+G[L
 EXP Hi-Potion x3
+F[L
+F[L
 EXP Hi-Potion x2
+E[L
+E[L
 EXP Hi-Potion x1
 EXP Potion x3
 EXP Potion x2
@@ -4106,6 +5009,8 @@ EXP Potion x1
 Col x9900
 Col x9405
 Col x8910
+	WL
+	WL
 Col x8415
 Col x7920
 Col x4950
@@ -4132,28 +5037,72 @@ Holy Skill Crystal x25
 Holy Skill Crystal x24
 Holy Skill Crystal x23
 Holy Skill Crystal x22
+}UL
+}UL
 Holy Skill Crystal x21
 Holy Skill Crystal x20
+{UL
+{UL
 Holy Skill Crystal x19
+zUL
+zUL
 Holy Skill Crystal x18
+yUL
+yUL
 Holy Skill Crystal x17
+xUL
+xUL
 Holy Skill Crystal x16
+wUL
+wUL
 Holy Skill Crystal x15
+vUL
+vUL
 Holy Skill Crystal x14
+uUL
+uUL
 Holy Skill Crystal x13
+tUL
+tUL
 Holy Skill Crystal x12
+sUL
+sUL
 Holy Skill Crystal x11
+rUL
+rUL
 Holy Skill Crystal x10
+qUL
+qUL
 Holy Skill Crystal x9
+pUL
+pUL
 Holy Skill Crystal x8
+oUL
+oUL
 Holy Skill Crystal x7
+nUL
+nUL
 Holy Skill Crystal x6
+mUL
+mUL
 Holy Skill Crystal x5
+lUL
+lUL
 Holy Skill Crystal x4
+kUL
+kUL
 Holy Skill Crystal x3
+jUL
+jUL
 Holy Skill Crystal x2
+iUL
+iUL
 Holy Skill Crystal x1
+"UL
+"UL
 Holy Critical Crystal x30
+!UL
+!UL
 Holy Critical Crystal x29
 Holy Critical Crystal x28
 Holy Critical Crystal x27
@@ -4178,6 +5127,8 @@ Holy Critical Crystal x9
 Holy Critical Crystal x8
 Holy Critical Crystal x7
 Holy Critical Crystal x6
+	UL
+	UL
 Holy Critical Crystal x5
 Holy Critical Crystal x4
 Holy Critical Crystal x3
@@ -4213,34 +5164,90 @@ Holy Defense Crystal x4
 Holy Defense Crystal x3
 Holy Defense Crystal x2
 Holy Defense Crystal x1
+ZTL
+ZTL
 Holy Attack Crystal x30
+YTL
+YTL
 Holy Attack Crystal x29
+XTL
+XTL
 Holy Attack Crystal x28
+WTL
+WTL
 Holy Attack Crystal x27
+VTL
+VTL
 Holy Attack Crystal x26
+UTL
+UTL
 Holy Attack Crystal x25
+TTL
+TTL
 Holy Attack Crystal x24
+STL
+STL
 Holy Attack Crystal x23
+RTL
+RTL
 Holy Attack Crystal x22
+QTL
+QTL
 Holy Attack Crystal x21
+PTL
+PTL
 Holy Attack Crystal x20
+OTL
+OTL
 Holy Attack Crystal x19
+NTL
+NTL
 Holy Attack Crystal x18
+MTL
+MTL
 Holy Attack Crystal x17
+LTL
+LTL
 Holy Attack Crystal x16
+KTL
+KTL
 Holy Attack Crystal x15
+JTL
+JTL
 Holy Attack Crystal x14
+ITL
+ITL
 Holy Attack Crystal x13
+HTL
+HTL
 Holy Attack Crystal x12
+GTL
+GTL
 Holy Attack Crystal x11
+FTL
+FTL
 Holy Attack Crystal x10
+ETL
+ETL
 Holy Attack Crystal x9
+DTL
+DTL
 Holy Attack Crystal x8
+CTL
+CTL
 Holy Attack Crystal x7
+BTL
+BTL
 Holy Attack Crystal x6
+ATL
+ATL
 Holy Attack Crystal x5
 Holy Attack Crystal x4
+?TL
+?TL
 Holy Attack Crystal x3
+>TL
+>TL
 Holy Attack Crystal x2
 Holy Attack Crystal x1
 Holy MP Crystal x30
@@ -4294,14 +5301,30 @@ Holy HP Crystal x13
 Holy HP Crystal x12
 Holy HP Crystal x11
 Holy HP Crystal x10
+}SL
+}SL
 Holy HP Crystal x9
 Holy HP Crystal x8
+{SL
+{SL
 Holy HP Crystal x7
+zSL
+zSL
 Holy HP Crystal x6
+ySL
+ySL
 Holy HP Crystal x5
+xSL
+xSL
 Holy HP Crystal x4
+wSL
+wSL
 Holy HP Crystal x3
+vSL
+vSL
 Holy HP Crystal x2
+uSL
+uSL
 Holy HP Crystal x1
 Skill Crystal x30
 Skill Crystal x29
@@ -4333,31 +5356,79 @@ Skill Crystal x4
 Skill Crystal x3
 Skill Crystal x2
 Skill Crystal x1
+:QL
+:QL
 Critical Crystal x30
+9QL
+9QL
 Critical Crystal x29
+8QL
+8QL
 Critical Crystal x28
+7QL
+7QL
 Critical Crystal x27
+6QL
+6QL
 Critical Crystal x26
+5QL
+5QL
 Critical Crystal x25
+4QL
+4QL
 Critical Crystal x24
+3QL
+3QL
 Critical Crystal x23
+2QL
+2QL
 Critical Crystal x22
+1QL
+1QL
 Critical Crystal x21
+0QL
+0QL
 Critical Crystal x20
+/QL
+/QL
 Critical Crystal x19
+.QL
+.QL
 Critical Crystal x18
+-QL
+-QL
 Critical Crystal x17
+,QL
+,QL
 Critical Crystal x16
++QL
++QL
 Critical Crystal x15
 Critical Crystal x14
+)QL
+)QL
 Critical Crystal x13
+(QL
+(QL
 Critical Crystal x12
+'QL
+'QL
 Critical Crystal x11
+&QL
+&QL
 Critical Crystal x10
+%QL
+%QL
 Critical Crystal x9
+$QL
+$QL
 Critical Crystal x8
 Critical Crystal x7
+"QL
+"QL
 Critical Crystal x6
+!QL
+!QL
 Critical Crystal x5
 Critical Crystal x4
 Critical Crystal x3
@@ -4393,41 +5464,97 @@ Defense Crystal x4
 Defense Crystal x3
 Defense Crystal x2
 Defense Crystal x1
+rPL
+rPL
 Attack Crystal x30
+qPL
+qPL
 Attack Crystal x29
+pPL
+pPL
 Attack Crystal x28
+oPL
+oPL
 Attack Crystal x27
+nPL
+nPL
 Attack Crystal x26
+mPL
+mPL
 Attack Crystal x25
+lPL
+lPL
 Attack Crystal x24
+kPL
+kPL
 Attack Crystal x23
+jPL
+jPL
 Attack Crystal x22
+iPL
+iPL
 Attack Crystal x21
+hPL
+hPL
 Attack Crystal x20
+gPL
+gPL
 Attack Crystal x19
+fPL
+fPL
 Attack Crystal x18
+ePL
+ePL
 Attack Crystal x17
+dPL
+dPL
 Attack Crystal x16
+cPL
+cPL
 Attack Crystal x15
+bPL
+bPL
 Attack Crystal x14
+aPL
+aPL
 Attack Crystal x13
 Attack Crystal x12
+_PL
+_PL
 Attack Crystal x11
 Attack Crystal x10
+]PL
+]PL
 Attack Crystal x9
 Attack Crystal x8
+[PL
+[PL
 Attack Crystal x7
+ZPL
+ZPL
 Attack Crystal x6
+YPL
+YPL
 Attack Crystal x5
+XPL
+XPL
 Attack Crystal x4
+WPL
+WPL
 Attack Crystal x3
+VPL
+VPL
 Attack Crystal x2
+UPL
+UPL
 Attack Crystal x1
 MP Crystal x30
 MP Crystal x29
 MP Crystal x28
 MP Crystal x27
 MP Crystal x26
+	PL
+	PL
 MP Crystal x25
 MP Crystal x24
 MP Crystal x23
@@ -4524,44 +5651,116 @@ Skill Shard x3
 Skill Shard x2
 Skill Shard x1
 Critical Shard x40
+[ML
+[ML
 Critical Shard x39
+ZML
+ZML
 Critical Shard x38
+YML
+YML
 Critical Shard x37
+XML
+XML
 Critical Shard x36
+WML
+WML
 Critical Shard x35
+VML
+VML
 Critical Shard x34
+UML
+UML
 Critical Shard x33
+TML
+TML
 Critical Shard x32
+SML
+SML
 Critical Shard x31
+RML
+RML
 Critical Shard x30
+QML
+QML
 Critical Shard x29
+PML
+PML
 Critical Shard x28
+OML
+OML
 Critical Shard x27
+NML
+NML
 Critical Shard x26
+MML
+MML
 Critical Shard x25
+LML
+LML
 Critical Shard x24
+KML
+KML
 Critical Shard x23
+JML
+JML
 Critical Shard x22
+IML
+IML
 Critical Shard x21
+HML
+HML
 Critical Shard x20
+GML
+GML
 Critical Shard x19
+FML
+FML
 Critical Shard x18
+EML
+EML
 Critical Shard x17
+DML
+DML
 Critical Shard x16
+CML
+CML
 Critical Shard x15
+BML
+BML
 Critical Shard x14
+AML
+AML
 Critical Shard x13
 Critical Shard x12
+?ML
+?ML
 Critical Shard x11
+>ML
+>ML
 Critical Shard x10
 Critical Shard x9
+<ML
+<ML
 Critical Shard x8
 Critical Shard x7
+:ML
+:ML
 Critical Shard x6
+9ML
+9ML
 Critical Shard x5
+8ML
+8ML
 Critical Shard x4
+7ML
+7ML
 Critical Shard x3
+6ML
+6ML
 Critical Shard x2
+5ML
+5ML
 Critical Shard x1
 Defense Shard x40
 Defense Shard x39
@@ -4626,38 +5825,98 @@ Attack Shard x21
 Attack Shard x20
 Attack Shard x19
 Attack Shard x18
+}LL
+}LL
 Attack Shard x17
 Attack Shard x16
+{LL
+{LL
 Attack Shard x15
+zLL
+zLL
 Attack Shard x14
+yLL
+yLL
 Attack Shard x13
+xLL
+xLL
 Attack Shard x12
+wLL
+wLL
 Attack Shard x11
+vLL
+vLL
 Attack Shard x10
+uLL
+uLL
 Attack Shard x9
+tLL
+tLL
 Attack Shard x8
+sLL
+sLL
 Attack Shard x7
+rLL
+rLL
 Attack Shard x6
+qLL
+qLL
 Attack Shard x5
+pLL
+pLL
 Attack Shard x4
+oLL
+oLL
 Attack Shard x3
+nLL
+nLL
 Attack Shard x2
+mLL
+mLL
 Attack Shard x1
+0LL
+0LL
 MP Shard x40
+/LL
+/LL
 MP Shard x39
+.LL
+.LL
 MP Shard x38
+-LL
+-LL
 MP Shard x37
+,LL
+,LL
 MP Shard x36
++LL
++LL
 MP Shard x35
 MP Shard x34
+)LL
+)LL
 MP Shard x33
+(LL
+(LL
 MP Shard x32
+'LL
+'LL
 MP Shard x31
+&LL
+&LL
 MP Shard x30
+%LL
+%LL
 MP Shard x29
+$LL
+$LL
 MP Shard x28
 MP Shard x27
+"LL
+"LL
 MP Shard x26
+!LL
+!LL
 MP Shard x25
 MP Shard x24
 MP Shard x23
@@ -4682,6 +5941,8 @@ MP Shard x5
 MP Shard x4
 MP Shard x3
 MP Shard x2
+	LL
+	LL
 MP Shard x1
 HP Shard x40
 HP Shard x39
@@ -4802,9 +6063,11 @@ Girl's Treats x5
 Girl's Treats x4
 Girl's Treats x3
 Girl's Treats x2
+MT-
 Cookware Hacking Crystal x1
 Cookware Hacking Shard x6
 Cookware for great chef x5
+!S-
 Cookware for chef x8
 Cookware for assistant x9
 Cookware Hacking Shard x5
@@ -5033,10 +6296,14 @@ Chef's Shard x4
 Holy Chef's Crystal x1
 Chef's Crystal x3
 Chef's Shard x4
+!}?
+!}?
 Chef's Shard x5
 Chef's Shard x4
 Chef's Shard x3
 Chef's Shard x2
+-{?
+-{?
 Chef's Shard x2
 Chef's Shard x2
 Holy Yuletide Hacking Crystal x9
@@ -5108,15 +6375,25 @@ Yuletide Gift (S) x6
 Yuletide Gift (L) x1
 Yuletide Gift (M) x3
 Yuletide Gift (S) x4
+uV?
+uV?
 Yuletide Gift (L) x1
+uV?
 Yuletide Gift (M) x3
+uV?
 Yuletide Gift (S) x4
 Yuletide Gift (S) x5
 Yuletide Gift (S) x4
+IU?
+IU?
 Yuletide Gift (S) x3
 Yuletide Gift (S) x2
 Yuletide Gift (S) x2
+Z1?
+Z1?
 Bloody Rapier R3
+Y1?
+Y1?
 Bloody Rapier R2
 Asterius R3
 Asterius R2
@@ -5171,11 +6448,13 @@ Attack Shard x10
 MP Shard x10
 HP Shard x10
 Holy Fisherman Hacking Crystal x9
+i>s
 Holy Fisherman Hacking Crystal x8
 Holy Fisherman Hacking Crystal x7
 Holy Fisherman Hacking Crystal x6
 Holy Fisherman Hacking Crystal x5
 Holy Fisherman Hacking Crystal x4
+u<s
 Holy Fisherman Hacking Crystal x3
 Holy Fisherman Hacking Crystal x2
 Holy Fisherman Hacking Crystal x1
@@ -5183,50 +6462,68 @@ Fisherman Hacking Crystal x9
 Fisherman Hacking Crystal x8
 Fisherman Hacking Crystal x7
 Fisherman Hacking Crystal x6
+U9s
 Fisherman Hacking Crystal x5
 Fisherman Hacking Crystal x4
 Fisherman Hacking Crystal x3
+)8s
 Fisherman Hacking Crystal x2
 Fisherman Hacking Crystal x1
 Fisherman Hacking Shard x9
 Fisherman Hacking Shard x8
+56s
 Fisherman Hacking Shard x7
 Fisherman Hacking Shard x6
+m5s
 Fisherman Hacking Shard x5
+	5s
 Fisherman Hacking Shard x4
 Fisherman Hacking Shard x3
+A4s
 Fisherman Hacking Shard x2
 Fisherman Hacking Shard x1
 Lunker Fishing Rod x9
 Lunker Fishing Rod x8
+M2s
 Lunker Fishing Rod x7
 Lunker Fishing Rod x6
 Lunker Fishing Rod x5
+!1s
 Lunker Fishing Rod x4
 Lunker Fishing Rod x3
+Y0s
 Lunker Fishing Rod x2
 Lunker Fishing Rod x1
+-/s
 Big Fishing Rod x9
 Big Fishing Rod x8
+e.s
 Big Fishing Rod x7
 Big Fishing Rod x6
 Big Fishing Rod x5
+9-s
 Big Fishing Rod x4
 Big Fishing Rod x3
+q,s
 Big Fishing Rod x2
 Big Fishing Rod x1
+E+s
 Fishing Rod x9
 Fishing Rod x8
 Fishing Rod x7
 Fishing Rod x6
 Fishing Rod x5
+Q)s
 Fishing Rod x4
 Fishing Rod x3
 Fishing Rod x2
+%(s
 Fishing Rod x1
+U?r
 Blazing Plate R3
 Holy Fisherman Hacking Crystal x6
 Fisherman Hacking Crystal x9
+)>r
 Fisherman Hacking Shard x5
 Lunker Fishing Rod x3
 Big Fishing Rod x12
@@ -5246,11 +6543,15 @@ Fishing Rod x4
 Lunker Fishing Rod x1
 Big Fishing Rod x3
 Fishing Rod x4
+eSq
 Fishing Rod x5
+U,q
 Fishing Rod x4
 Fishing Rod x3
 Fishing Rod x2
 Fishing Rod x2
+	n>
+	n>
 Woodland Tabard R3
 Blazing Necklace R2
 Topaz Earring R2
@@ -5275,30 +6576,74 @@ Holy Jubilee Hacking Crystal x4
 Holy Jubilee Hacking Crystal x3
 Holy Jubilee Hacking Crystal x2
 Holy Jubilee Hacking Crystal x1
+}I>
+}I>
 Jubilee Hacking Crystal x5
 Jubilee Hacking Crystal x4
+{I>
+{I>
 Jubilee Hacking Crystal x3
+zI>
+zI>
 Jubilee Hacking Crystal x2
+yI>
+yI>
 Jubilee Hacking Crystal x1
+sI>
+sI>
 Jubilee Hacking Shard x5
+rI>
+rI>
 Jubilee Hacking Shard x4
+qI>
+qI>
 Jubilee Hacking Shard x3
+pI>
+pI>
 Jubilee Hacking Shard x2
+oI>
+oI>
 Jubilee Hacking Shard x1
+iI>
+iI>
 Holy Jubilee Crystal x5
+hI>
+hI>
 Holy Jubilee Crystal x4
+gI>
+gI>
 Holy Jubilee Crystal x3
+fI>
+fI>
 Holy Jubilee Crystal x2
+eI>
+eI>
 Holy Jubilee Crystal x1
+_I>
+_I>
 Jubilee Crystal x5
 Jubilee Crystal x4
+]I>
+]I>
 Jubilee Crystal x3
 Jubilee Crystal x2
+[I>
+[I>
 Jubilee Crystal x1
+UI>
+UI>
 Jubilee Shard x5
+TI>
+TI>
 Jubilee Shard x4
+SI>
+SI>
 Jubilee Shard x3
+RI>
+RI>
 Jubilee Shard x2
+QI>
+QI>
 Jubilee Shard x1
 Holy Jubilee Hacking Crystal x1
 Jubilee Hacking Crystal x3
@@ -5312,73 +6657,115 @@ Jubilee Hacking Shard x5
 Holy Jubilee Crystal x3
 Jubilee Crystal x17
 Jubilee Shard x26
+4F>
+QlS
+4F>
 Holy Jubilee Hacking Crystal x1
+3F>
+3F>
 Jubilee Hacking Crystal x2
+2F>
+2F>
 Jubilee Hacking Shard x5
+1F>
+'kS
+1F>
 Holy Jubilee Crystal x3
+&kS
+1F>
 Jubilee Crystal x11
+%kS
+1F>
 Jubilee Shard x17
+AES
 Holy Jubilee Hacking Crystal x2
 Jubilee Hacking Crystal x1
+yDS
 Jubilee Hacking Shard x1
 Holy Jubilee Crystal x1
 Jubilee Crystal x4
 Jubilee Shard x6
+iE>
+iE>
 Holy Jubilee Crystal x1
+iE>
 Jubilee Crystal x3
+iE>
 Jubilee Shard x4
 Jubilee Shard x5
 Jubilee Shard x4
+uC>
+uC>
 Jubilee Shard x3
 Jubilee Shard x2
+IB>
+IB>
 Jubilee Shard x2
 Pumpkin Skirt R3
 Jack's Earring R2
+YPD
 Vampire Cape R2
 Jack o' Fury R2
 Lv. 80 Fairy Princess Key x1
 Lv. 70 Fairy Princess Key x1
+9o6
 Lv. 60 Fairy Princess Key x1
 Lv. 50 Fairy Princess Key x1
+qn6
 Lv. 40 Fairy Princess Key x1
 Lv. 30 Fairy Princess Key x1
 Lv. 20 Fairy Princess Key x1
+Em6
 Lv. 10 Fairy Princess Key x1
 Yggdrasil Hacking Shard x10
+)H6
 Card Key (Yellow) x10
 Card Key (Red) x20
+aG6
 Card Key (Red) x10
 Card Key (Blue) x20
 Card Key (Blue) x15
+5F6
 Birdcage Upgrade Crystal x1
 Holy Yggdrasil Hacking Crystal x5
 Holy Yggdrasil Hacking Crystal x4
+u36
 Holy Yggdrasil Hacking Crystal x3
 Holy Yggdrasil Hacking Crystal x2
 Holy Yggdrasil Hacking Crystal x1
+U06
 Yggdrasil Hacking Crystal x5
 Yggdrasil Hacking Crystal x4
 Yggdrasil Hacking Crystal x3
+)/6
 Yggdrasil Hacking Crystal x2
 Yggdrasil Hacking Crystal x1
+a.6
 Yggdrasil Hacking Shard x6
+m,6
 Yggdrasil Hacking Shard x5
+	,6
 Yggdrasil Hacking Shard x4
 Yggdrasil Hacking Shard x3
+A+6
 Yggdrasil Hacking Shard x2
 Yggdrasil Hacking Shard x1
 Card Key (Yellow) x5
+!(6
 Card Key (Yellow) x4
 Card Key (Yellow) x3
+Y'6
 Card Key (Yellow) x2
 Card Key (Yellow) x1
 Card Key (Red) x8
+9$6
 Card Key (Red) x4
 Card Key (Red) x3
 Card Key (Red) x2
 Card Key (Red) x1
 Card Key (Blue) x9
 Card Key (Blue) x5
+Q 6
 Card Key (Blue) x4
 Card Key (Blue) x3
 Card Key (Yellow) x2
@@ -5402,22 +6789,26 @@ Card Key (Red) x3
 Card Key (Blue) x4
 Card Key (Yellow) x1
 Card Key (Red) x3
+uq4
 Card Key (Blue) x4
 Card Key (Blue) x4
 Card Key (Blue) x3
 Card Key (Blue) x2
 Card Key (Blue) x2
 Sandstorm Garb R3
+wM/
 Sapphire Earring R3
 Aquamarine Robe R3
 Infernal Longbow R3
 Drill Mace R3
 Dual Jagged Edges R3
+vM/
 Sapphire Earring R2
 Aquamarine Robe R2
 Infernal Longbow R2
 Drill Mace R2
 Dual Jagged Edges R2
+vM/
 Sapphire Earring R2
 Aquamarine Robe R2
 Infernal Longbow R2
@@ -5671,9 +7062,19 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+h'8
+h'8
+uO/
 Hades Hair Barrette R3
+g'8
+g'8
+tO/
 Hades Hair Barrette R2
+f'8
+f'8
 Black Soaring Coat R3
+e'8
+e'8
 Black Soaring Coat R2
 Halloween Silver Medal x1
 Halloween Bronze Medal x1
@@ -5685,7 +7086,9 @@ Halloween Silver Medal x3
 Halloween Silver Medal x2
 Halloween Bronze Medal x3
 Halloween Bronze Medal x2
+WO/
 Bat Earring R3
+VO/
 Bat Earring R2
 Pumpkin Dress R3
 Pumpkin Dress R2
@@ -5702,6 +7105,7 @@ Colored Leaf Bronze Medal x1
 Golden Blade R3
 Golden Blade R2
 Silvery Blue Blade R3
+uQu
 Silvery Blue Blade R2
 Anniversary Ticket Plus x20
 Anniversary Ticket Plus x15
@@ -5714,11 +7118,14 @@ Anniversary Ticket Plus x10
 Anniversary Ticket Plus x5
 Anniversary Ticket x10
 Anniversary Ticket x5
+/O/
 Captain Hat R3
+.O/
 Captain Hat R2
 Captain Coat R3
 Captain Coat R2
 Poison Charm R3
+uH8
 Poison Charm R2
 Festival Light Armor R3
 Festival Light Armor R2
@@ -5728,16 +7135,38 @@ Violet Star Earring R3
 Violet Star Earring R2
 Night Sky Plumage R3
 Night Sky Plumage R2
+Ph5
+Ph5
 Countdown Ticket Plus x20
+Oh5
+Oh5
 Countdown Ticket Plus x15
+Mh5
+Mh5
 Countdown Ticket x15
+Lh5
+Lh5
 Countdown Ticket VIP x3
+Kh5
+Kh5
 Countdown Ticket VIP x2
+Jh5
+Jh5
 Countdown Ticket VIP x1
+Ih5
+Ih5
 Countdown Ticket x20
+Hh5
+Hh5
 Countdown Ticket Plus x10
+Gh5
+Gh5
 Countdown Ticket Plus x5
+Fh5
+Fh5
 Countdown Ticket x10
+Eh5
+Eh5
 Countdown Ticket x5
 Summer Ticket VIP x3
 Summer Ticket VIP x2
@@ -5783,6 +7212,7 @@ Hydrangea Ring R2
 Rivulet One-piece R3
 Rivulet One-piece R2
 Blue Ribbon Headband R3
+u$D
 Blue Ribbon Headband R2
 Idol Like Ticket Plus x10
 Idol Like Ticket Plus x5
@@ -5829,15 +7259,20 @@ Idol Like Ticket x10
 Idol Like Ticket x5
 Hina Doll's Kimono R3
 Hina Doll's Kimono R2
+{N/
 Kanzashi of Spring Breeze R3
+zN/
 Kanzashi of Spring Breeze R2
 Ogre Mace R3
 Ogre Mace R2
+qE_
 Oracle's Dress R3
 Oracle's Dress R2
 Sylphid Cloth R3
+ED_
 Sylphid Cloth R2
 Lily Frock Dress R3
+}C_
 Lily Frock Dress R2
 Blackwing Coat R3
 Blackwing Coat R2
@@ -5865,6 +7300,7 @@ Cookware for chef x250
 Cookware for chef x80
 Cookware for chef x60
 Cookware for chef x50
+!}1
 Cookware for assistant x300
 Cookware for assistant x100
 Cookware for assistant x50
@@ -5924,32 +7360,82 @@ New Year's Cuisine: Standard x300
 New Year's Cuisine: Standard x100
 New Year's Cuisine: Standard x50
 [Made with Love] Asuna
+}80
+}80
 Lv. 90 Chef's Key x1
 Lv. 80 Chef's Key x1
+{80
+{80
 Lv. 70 Chef's Key x1
+z80
+z80
 Lv. 60 Chef's Key x1
+y80
+y80
 Lv. 50 Chef's Key x1
+x80
+x80
 Lv. 40 Chef's Key x1
+w80
+w80
 Lv. 30 Chef's Key x1
+v80
+v80
 Lv. 20 Chef's Key x1
+u80
+u80
 Lv. 10 Chef's Key x1
+W80
+W80
 Holy Chef's Hacking Crystal x25
+N80
+N80
 Chef's Hacking Crystal x100
+M80
+M80
 Chef's Hacking Crystal x50
+F80
+F80
 Chef's Hacking Shard x200
+E80
+E80
 Chef's Hacking Shard x200
+D80
+D80
 Chef's Hacking Shard x100
+C80
+C80
 Chef's Hacking Shard x50
 Holy Chef's Crystal x100
+:80
+:80
 Holy Chef's Crystal x30
+980
+980
 Holy Chef's Crystal x20
+280
+280
 Chef's Crystal x250
+180
+180
 Chef's Crystal x80
+080
+080
 Chef's Crystal x60
+/80
+/80
 Chef's Crystal x50
+'80
+'80
 Chef's Shard x300
+&80
+&80
 Chef's Shard x100
+%80
+%80
 Chef's Shard x50
+]70
+]70
 [Happy Memories] Sachi
 Lv. 90 Yuletide Key x1
 Lv. 80 Yuletide Key x1
@@ -6022,29 +7508,43 @@ Lv. 40 Fisherman's Key x1
 Lv. 30 Fisherman's Key x1
 Lv. 20 Fisherman's Key x1
 Lv. 10 Fisherman's Key x1
+}tz
 Holy Fisherman Hacking Crystal x25
 Fisherman Hacking Crystal x100
 Fisherman Hacking Crystal x50
 Fisherman Hacking Shard x200
+umz
 Fisherman Hacking Shard x200
 Fisherman Hacking Shard x100
 Fisherman Hacking Shard x50
 Lunker Fishing Rod x100
+)iz
 Lunker Fishing Rod x30
 Lunker Fishing Rod x20
+	fz
 Big Fishing Rod x250
 Big Fishing Rod x80
+Aez
 Big Fishing Rod x60
 Big Fishing Rod x50
 Fishing Rod x300
+Yaz
 Fishing Rod x100
 Fishing Rod x50
+F(/
+F(/
 Blazing Necklace R3
+E(/
+E(/
 Blazing Necklace R2
 Topaz Earring R3
 Topaz Earring R2
+9mk
 Hoarfrost R3
+}'/
+}'/
 Hoarfrost R2
+)Fk
 Dual Frost Blades R3
 Dual Frost Blades R2
 Frost Blade R3
@@ -6077,6 +7577,7 @@ Jubilee Shard x300
 Jubilee Shard x100
 Jubilee Shard x50
 Jack's Earring R3
+u6M
 Jack's Earring R2
 Vampire Cape R3
 Vampire Cape R2
@@ -6121,42 +7622,83 @@ Sandstorm Garb R3
 Sandstorm Garb R2
 Desert Scepter R3
 Desert Scepter R2
+9d.
 Desert Rifle R3
 Desert Rifle R2
 White Skull Mace R3
 White Skull Mace R2
 Goblin Bone Dagger R3
 Goblin Bone Dagger R2
+wM/
 Sapphire Earring R3
+vM/
 Sapphire Earring R2
+Ze.
+Ze.
 Aquamarine Robe R3
+Ye.
+Ye.
 Aquamarine Robe R2
 Blazing Plate R3
 Blazing Plate R2
 Infernal Longbow R3
 Infernal Longbow R2
+.d.
+.d.
 Drill Mace R3
+-d.
+-d.
 Drill Mace R2
 Dual Jagged Edges R3
 Dual Jagged Edges R2
+fc.
+fc.
 Infernal Sword R3
+ec.
+ec.
 Infernal Sword R2
 [Fairy Dance] Kirito
+d<.
+d<.
 Familial Love Hacking Crystal x50
+c<.
+c<.
 Familial Love Holy Crystal x100
+b<.
+b<.
 Familial Love Crystal x250
+a<.
+a<.
 Familial Love Crystal x80
 Familial Love Shard x300
+_<.
+_<.
 Familial Love Holy Hacking Crystal x25
 Familial Love Hacking Crystal x100
+]<.
+]<.
 Familial Love Hacking Shard x200
 Familial Love Hacking Shard x100
+[<.
+[<.
 Familial Love Hacking Shard x50
+Z<.
+Z<.
 Familial Love Holy Crystal x30
+Y<.
+Y<.
 Familial Love Holy Crystal x20
+X<.
+X<.
 Familial Love Crystal x60
+W<.
+W<.
 Familial Love Crystal x50
+V<.
+V<.
 Familial Love Shard x100
+U<.
+U<.
 Familial Love Shard x50
 Diamond Earring R3
 Coat of Midnight R3
@@ -6451,8 +7993,10 @@ Col x2000
 Col x1000
 Col x2500
 Col x12000
+9r 
 Col x4200
 EXP X-Potion x2
+)K 
 Col x20000
 EXP Hi-Potion x1
 EXP X-Potion x2
@@ -6497,11 +8041,17 @@ MP Shard x32
 MP Shard x28
 HP Shard x32
 HP Shard x28
+ut!
+ut!
 Col x2500
 Col x10000
 Col x4200
 EXP X-Potion x2
+Js!
+Js!
 Col x17500
+Is!
+Is!
 EXP Hi-Potion x1
 EXP X-Potion x2
 EXP Potion x1
@@ -6511,95 +8061,163 @@ EXP Potion x2
 Lv. 70 Decryption Key x1
 Holy Skill Crystal x8
 Holy Skill Crystal x6
+Vq!
+Vq!
 Holy Critical Crystal x8
+Uq!
+Uq!
 Holy Critical Crystal x6
 Holy Defense Crystal x8
 Holy Defense Crystal x6
 Holy Attack Crystal x8
 Holy Attack Crystal x6
 Holy MP Crystal x8
+)p!
+)p!
 Holy MP Crystal x6
 Holy HP Crystal x8
 Holy HP Crystal x6
+bo!
+bo!
 Skill Crystal x26
+ao!
+ao!
 Skill Crystal x20
 Critical Crystal x26
 Critical Crystal x20
 Defense Crystal x26
 Defense Crystal x20
+6n!
+6n!
 Attack Crystal x26
+5n!
+5n!
 Attack Crystal x20
 MP Crystal x26
 MP Crystal x20
+nm!
+nm!
 HP Crystal x26
+mm!
+mm!
 HP Crystal x20
 Skill Shard x30
+	m!
+	m!
 Skill Shard x28
 Critical Shard x30
 Critical Shard x28
+Bl!
+Bl!
 Defense Shard x30
+Al!
+Al!
 Defense Shard x28
 Attack Shard x30
 Attack Shard x28
+zk!
+zk!
 MP Shard x30
+yk!
+yk!
 MP Shard x28
 HP Shard x30
 HP Shard x28
+eM!
+eM!
 Col x2500
 Col x10000
 Col x4200
 EXP X-Potion x1
+:L!
+:L!
 Col x15000
+9L!
+9L!
 EXP Hi-Potion x1
 EXP X-Potion x2
 EXP Potion x1
+rK!
+rK!
 EXP Hi-Potion x2
+qK!
+qK!
 Lv. 80 Decryption Key x1
 EXP Potion x2
 Lv. 70 Decryption Key x1
 Holy Skill Crystal x8
 Holy Skill Crystal x6
+FJ!
+FJ!
 Holy Critical Crystal x8
+EJ!
+EJ!
 Holy Critical Crystal x6
 Holy Defense Crystal x8
 Holy Defense Crystal x6
 Holy Attack Crystal x8
+}I!
+}I!
 Holy Attack Crystal x6
 Holy MP Crystal x8
 Holy MP Crystal x6
 Holy HP Crystal x8
 Holy HP Crystal x6
+RH!
+RH!
 Skill Crystal x24
+QH!
+QH!
 Skill Crystal x18
 Critical Crystal x24
 Critical Crystal x18
 Defense Crystal x24
 Defense Crystal x18
+&G!
+&G!
 Attack Crystal x24
+%G!
+%G!
 Attack Crystal x18
 MP Crystal x24
 MP Crystal x18
 HP Crystal x24
+]F!
+]F!
 HP Crystal x18
 Skill Shard x30
 Skill Shard x26
 Critical Shard x30
 Critical Shard x26
+2E!
+2E!
 Defense Shard x30
+1E!
+1E!
 Defense Shard x26
 Attack Shard x30
 Attack Shard x26
+jD!
+jD!
 MP Shard x30
+iD!
+iD!
 MP Shard x26
 HP Shard x30
 HP Shard x26
 Col x2500
 EXP X-Potion x1
 Col x4200
+)%!
+)%!
 EXP Hi-Potion x1
 EXP X-Potion x1
 EXP Potion x1
+b$!
+b$!
 EXP Hi-Potion x2
+a$!
+a$!
 Lv. 80 Decryption Key x1
 EXP Potion x2
 Lv. 70 Decryption Key x1
@@ -6609,17 +8227,31 @@ Holy Critical Crystal x6
 Holy Critical Crystal x4
 Holy Defense Crystal x6
 Holy Defense Crystal x4
+n"!
+n"!
 Holy Attack Crystal x6
+m"!
+m"!
 Holy Attack Crystal x4
 Holy MP Crystal x6
+	"!
+	"!
 Holy MP Crystal x4
 Holy HP Crystal x6
 Holy HP Crystal x4
+B!!
+B!!
 Skill Crystal x20
+A!!
+A!!
 Skill Crystal x16
 Critical Crystal x20
 Critical Crystal x16
+z !
+z !
 Defense Crystal x20
+y !
+y !
 Defense Crystal x16
 Attack Crystal x20
 Attack Crystal x16
@@ -6850,36 +8482,60 @@ MP Shard x24
 HP Shard x30
 HP Shard x24
 Col x1993
+el 
+el 
 Darkness Robe R2
 Bright Chainmail R2
 Chest Plate of Earth R2
+9k 
+9k 
 Wind Coat R2
 Aqua Tabard R2
+qj 
+qj 
 Robe of Fire R2
 Sneaker's Robe R2
 Robust Armor R2
+Ei 
+Ei 
 Wool-Padded Coat R2
 Crescent Guard R2
+}h 
+}h 
 Rain Wand R2
 Dull Rod R2
 Earthen Bow R2
+Qg 
+Qg 
 Glowing Bow R2
 Winter Killer R2
 Sniper's Barrett R2
+%f 
+%f 
 Punishing Club R2
 Morning Star R2
+]e 
+]e 
 Slash Machete R2
 Silver Kukri R2
 Epee Rapier R2
+1d 
+1d 
 Stone Stinger R2
 Slash & Silver Swords R2
+ic 
+ic 
 Forest Sword R2
 Slash Sword R2
 Silver Sword R2
 EXP X-Potion x1
 Col x3600
 EXP Hi-Potion x1
+va 
+va 
 EXP X-Potion x1
+ua 
+ua 
 EXP Potion x1
 EXP Hi-Potion x2
 Lv. 80 Decryption Key x1
@@ -6902,6 +8558,8 @@ Skill Crystal x12
 Critical Crystal x16
 Critical Crystal x12
 Defense Crystal x16
+)] 
+)] 
 Defense Crystal x12
 Attack Crystal x16
 Attack Crystal x12
@@ -6911,83 +8569,139 @@ HP Crystal x16
 HP Crystal x12
 Skill Shard x28
 Skill Shard x24
+6[ 
+6[ 
 Critical Shard x28
+5[ 
+5[ 
 Critical Shard x24
 Defense Shard x28
 Defense Shard x24
+nZ 
+nZ 
 Attack Shard x28
+mZ 
+mZ 
 Attack Shard x24
 MP Shard x28
+	Z 
+	Z 
 MP Shard x24
 HP Shard x28
 HP Shard x24
 Col x1793
+UE 
+UE 
 Darkness Robe R2
 Bright Chainmail R2
 Chest Plate of Earth R2
+)D 
+)D 
 Wind Coat R2
 Aqua Tabard R2
+aC 
+aC 
 Robe of Fire R2
 Sneaker's Robe R2
 Robust Armor R2
+5B 
+5B 
 Wool-Padded Coat R2
 Crescent Guard R2
+mA 
+mA 
 Rain Wand R2
+	A 
+	A 
 Dull Rod R2
 Earthen Bow R2
 Glowing Bow R2
 Winter Killer R2
+y? 
+y? 
 Sniper's Barrett R2
 Punishing Club R2
 Morning Star R2
+M> 
+M> 
 Slash Machete R2
 Silver Kukri R2
 Epee Rapier R2
 Stone Stinger R2
 Slash & Silver Swords R2
+Y< 
+Y< 
 Forest Sword R2
 Slash Sword R2
 Silver Sword R2
 EXP X-Potion x1
 Col x3600
 EXP Hi-Potion x1
+f: 
+f: 
 EXP X-Potion x1
+e: 
+e: 
 EXP Potion x1
 EXP Hi-Potion x2
 Lv. 60 Decryption Key x1
 EXP Potion x2
 Lv. 50 Decryption Key x1
+:9 
+:9 
 Holy Skill Crystal x4
+99 
+99 
 Holy Skill Crystal x2
 Holy Critical Crystal x4
 Holy Critical Crystal x2
+r8 
+r8 
 Holy Defense Crystal x4
+q8 
+q8 
 Holy Defense Crystal x2
 Holy Attack Crystal x4
 Holy Attack Crystal x2
 Holy MP Crystal x4
 Holy MP Crystal x2
+F7 
+F7 
 Holy HP Crystal x4
+E7 
+E7 
 Holy HP Crystal x2
 Skill Crystal x16
 Skill Crystal x12
 Critical Crystal x16
+}6 
+}6 
 Critical Crystal x12
 Defense Crystal x16
 Defense Crystal x12
 Attack Crystal x16
 Attack Crystal x12
+R5 
+R5 
 MP Crystal x16
+Q5 
+Q5 
 MP Crystal x12
 HP Crystal x16
 HP Crystal x12
 Skill Shard x28
 Skill Shard x24
+&4 
+&4 
 Critical Shard x28
+%4 
+%4 
 Critical Shard x24
 Defense Shard x28
 Defense Shard x24
 Attack Shard x28
+]3 
+]3 
 Attack Shard x24
 MP Shard x28
 MP Shard x24
@@ -7056,15 +8770,19 @@ Chest Plate of Earth R2
 Wind Coat R2
 Aqua Tabard R2
 Robe of Fire R2
+U5y
 Sneaker's Robe R2
 Robust Armor R2
 Wool-Padded Coat R2
 Crescent Guard R2
 EXP X-Potion x1
+irx
 Col x2688
 EXP Hi-Potion x1
+YKx
 EXP X-Potion x1
 EXP Potion x1
+I$x
 EXP Hi-Potion x2
 Lv. 60 Decryption Key x1
 EXP Potion x2
@@ -7088,9 +8806,12 @@ Critical Crystal x12
 Defense Crystal x12
 Defense Crystal x12
 Attack Crystal x12
+5vv
 Attack Crystal x12
 MP Crystal x12
+%Ov
 MP Crystal x12
+y(v
 HP Crystal x12
 HP Crystal x12
 Skill Shard x24
@@ -7101,6 +8822,7 @@ Defense Shard x24
 Defense Shard x20
 Attack Shard x24
 Attack Shard x20
+)eu
 MP Shard x24
 MP Shard x20
 HP Shard x24
@@ -7115,7 +8837,9 @@ Sniper's Barrett R2
 Punishing Club R2
 Morning Star R2
 Slash Machete R2
+Ehj
 Silver Kukri R2
+5Aj
 Epee Rapier R2
 Stone Stinger R2
 Slash & Silver Swords R2
@@ -7123,6 +8847,7 @@ Forest Sword R2
 Slash Sword R2
 Silver Sword R2
 EXP X-Potion x1
+)0i
 Col x2688
 EXP Hi-Potion x1
 EXP X-Potion x1
@@ -7134,8 +8859,10 @@ Lv. 40 Decryption Key x1
 Holy Skill Crystal x2
 Holy Skill Crystal x2
 Holy Critical Crystal x2
+ulh
 Holy Critical Crystal x2
 Holy Defense Crystal x2
+eEh
 Holy Defense Crystal x2
 Holy Attack Crystal x2
 Holy Attack Crystal x2
@@ -7147,8 +8874,10 @@ Skill Crystal x12
 Skill Crystal x12
 Critical Crystal x12
 Critical Crystal x12
+i[g
 Defense Crystal x12
 Defense Crystal x12
+Y4g
 Attack Crystal x12
 Attack Crystal x12
 MP Crystal x12
@@ -7159,6 +8888,7 @@ Skill Shard x24
 Skill Shard x20
 Critical Shard x24
 Critical Shard x20
+	qf
 Defense Shard x24
 Defense Shard x20
 Attack Shard x24
@@ -7169,6 +8899,7 @@ HP Shard x24
 HP Shard x20
 Col x1284
 Rain Wand R2
+%t[
 Dull Rod R2
 Earthen Bow R2
 Glowing Bow R2
@@ -7182,7 +8913,9 @@ Epee Rapier R2
 Stone Stinger R2
 Slash & Silver Swords R2
 Forest Sword R2
+UxY
 Slash Sword R2
+EQY
 Silver Sword R2
 EXP X-Potion x1
 Col x2568
@@ -7193,6 +8926,7 @@ EXP Hi-Potion x2
 Lv. 40 Decryption Key x1
 EXP Potion x2
 Lv. 30 Decryption Key x1
+IgX
 Skill Crystal x12
 Skill Crystal x8
 Critical Crystal x12
@@ -7208,8 +8942,10 @@ HP Crystal x8
 Skill Shard x24
 Skill Shard x20
 Critical Shard x24
+uUW
 Critical Shard x20
 Defense Shard x24
+e.W
 Defense Shard x20
 Attack Shard x24
 Attack Shard x20
@@ -7221,6 +8957,7 @@ Col x1039
 Black Apparel R1
 White Robe R1
 Brown Chainmail R1
+%]J
 Green Armor R1
 Blue Cape R1
 Red Plate R1
@@ -7228,10 +8965,12 @@ Steel Chest Plate R1
 EXP Hi-Potion x1
 Col x1980
 EXP Potion x1
+)sI
 EXP Hi-Potion x1
 Lv. 40 Decryption Key x1
 EXP Potion x2
 Lv. 30 Decryption Key x1
+	%I
 Skill Crystal x12
 Skill Crystal x8
 Critical Crystal x12
@@ -7243,8 +8982,10 @@ Attack Crystal x8
 MP Crystal x12
 MP Crystal x8
 HP Crystal x12
+UaH
 HP Crystal x8
 Skill Shard x20
+E:H
 Skill Shard x16
 Critical Shard x20
 Critical Shard x16
@@ -7254,6 +8995,7 @@ Attack Shard x20
 Attack Shard x16
 MP Shard x20
 MP Shard x16
+YwG
 HP Shard x20
 HP Shard x16
 Col x990
@@ -7270,6 +9012,7 @@ EXP Potion x1
 EXP Hi-Potion x1
 Lv. 30 Decryption Key x1
 EXP Potion x2
+u	:
 Lv. 20 Decryption Key x1
 Skill Crystal x12
 Skill Crystal x4
@@ -7278,8 +9021,10 @@ Critical Crystal x4
 Defense Crystal x12
 Defense Crystal x4
 Attack Crystal x12
+5m9
 Attack Crystal x4
 MP Crystal x12
+%F9
 MP Crystal x4
 HP Crystal x12
 HP Crystal x4
@@ -7298,7 +9043,9 @@ HP Shard x16
 Col x990
 Red Rod R1
 Lord's Staff R1
+E_-
 Blue Bow R1
+58-
 Long Bow R1
 Carbine Rifle R1
 Bolt Action Rifle R1
@@ -7312,7 +9059,9 @@ Dual Iron Swords
 2 R1
 Sable Sword R1
 Steel Falchion R1
+uc+
 Iron Sword R1
+e<+
 EXP Hi-Potion x1
 Col x1980
 EXP Potion x1
@@ -7336,6 +9085,7 @@ Skill Shard x20
 Skill Shard x12
 Critical Shard x20
 Critical Shard x12
+	h)
 Defense Shard x20
 Defense Shard x12
 Attack Shard x20
@@ -7404,8 +9154,11 @@ HP Shard x12
 HP Shard x4
 HP Shard x10
 MP Shard x10
+eqU
 Attack Shard x10
+5VF
 Defense Shard x10
+%/F
 Critical Shard x10
 Skill Shard x10
 Holy MP Crystal x5
@@ -7433,10 +9186,15 @@ Holy Skill Crystal x4
 Critical Crystal x16
 Critical Shard x16
 HP Shard x16
+y5'
 Defense Crystal x16
+x5'
 Defense Shard x16
+w5'
 Attack Crystal x16
+v5'
 Holy MP Crystal x4
+u5'
 MP Shard x16
 Holy Critical Crystal x2
 Critical Crystal x6
@@ -7469,9 +9227,13 @@ Holy MP Crystal x4
 MP Crystal x20
 Holy HP Crystal x4
 HP Crystal x20
+8M	
 Skill Crystal x20
+7M	
 Skill Shard x20
+6M	
 Defense Crystal x20
+5M	
 Defense Shard x20
 Holy Critical Crystal x4
 Critical Crystal x16
@@ -7638,13 +9400,21 @@ Lv. 40 Decryption Key x1
 Holy Critical Crystal x2
 Critical Crystal x4
 Critical Shard x10
+wta
 Holy Defense Crystal x2
+vta
 Defense Crystal x4
+uta
 Defense Shard x10
+iMa
 Skill Crystal x2
+hMa
 Skill Shard x4
+gMa
 Holy HP Crystal x2
+fMa
 HP Crystal x4
+eMa
 HP Shard x10
 Holy MP Crystal x2
 MP Crystal x4
@@ -7655,6 +9425,7 @@ Skill Shard x6
 Holy Attack Crystal x2
 Attack Crystal x4
 Attack Shard x10
+52R
 Lv. 40 Decryption Key x1
 Attack Crystal x4
 Attack Shard x6
@@ -7668,6 +9439,7 @@ Critical Crystal x4
 Critical Shard x6
 HP Crystal x4
 HP Shard x6
+%eC
 Lv. 30 Decryption Key x1
 Critical Crystal x4
 Critical Shard x4
@@ -7709,8 +9481,11 @@ MP Shard x4
 Attack Crystal x2
 Attack Shard x4
 MP Shard x4
+gD$
 Defense Crystal x2
+fD$
 HP Crystal x2
+eD$
 HP Shard x8
 Skill Shard x8
 Critical Crystal x2
@@ -7814,7 +9589,9 @@ Memory Diamond x2
 Memory Diamond x1
 Memory Diamond x25
 Memory Diamond x25
+e<n
 1st Anniversary Record Crystal x10
+	<n
 Holy Skill Crystal x50
 Skill Crystal x100
 Skill Shard x200
@@ -7864,20 +9641,27 @@ Water Medallion x10
 Fire Medallion x10
 Void Medallion x10
 Rainbow Essence x1
+a}m
 Lv. 80 Decryption Key x2
 Lv. 80 Decryption Key x1
 Col Boost (2x) x3
 Memory Diamond x25
 [AR Idol] Yuna
+m{m
 Memory Diamond x5
+	{m
 EXP Boost (2x) x3
 Memory Diamond x25
+Azm
 Memory Diamond x15
 Memory Diamond x10
+yym
 Memory Diamond x5
 Memory Diamond x3
 Memory Diamond x2
+uPm
 Memory Diamond x25
+e)m
 Memory Diamond x25
 Memory Diamond x25
 Memory Diamond x5

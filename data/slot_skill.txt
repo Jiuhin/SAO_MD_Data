@@ -22,15 +22,22 @@ Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 10 seconds during standby.
 Emergency Heal (HP&MP) Lv.1
+uZ3
+tZ3
+sZ3
 slot_skill_icon_skill_damage
 Increases skill damage by 10% vs Holy-elem. enemies.
 Skill Damage Up (vs. Holy) Lv. 2
+rZ3
+qZ3
+pZ3
 slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Holy-elem. enemies.
 Skill Damage Up (vs. Holy) Lv. 1
 slot_skill_icon_skill_damage
 Increases critical damage by 10% vs Non-elem. enemies.
 Critical Damage Up (vs. Non-elem.) Lv. 2
+5hm
 slot_skill_icon_skill_damage
 Increases critical damage by 5% vs Non-elem. enemies.
 Critical Damage Up (vs. Non-elem.) Lv. 1
@@ -67,30 +74,41 @@ Damage Up (vs. Water-elem.) Lv. 1
 slot_skill_icon_parry_healing_mp
 Gains 5 MP on a successful parry
 MP Recovery on Parry
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+UEk
+y!k
+x!k
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
@@ -139,21 +157,27 @@ Solo Damage Up Lv. 2
 slot_skill_icon_solo_damage
 +15% damage when 1 of your characters remains.
 Solo Damage Up Lv. 1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+WEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 8 secs.
 Combo Window Up Lv. 3
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
@@ -163,9 +187,12 @@ Battle Healing (HP) Lv. 2
 slot_skill_icon_battle_healing_hp
 Restores 600 HP every 10 seconds.
 Battle Healing (HP) Lv. 1
+iaI
+iaI
 slot_skill_icon_def_dark_1
 Reduces damage from Dark-elem. enemies by 30%
 Dark Resistance Lv2
+iaI
 slot_skill_icon_def_dark_1
 Reduces damage from Dark-elem. enemies by 15%
 Dark Resistance Lv1
@@ -187,18 +214,23 @@ Skill Damage Up (vs. Dark) Lv. 2
 slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Dark-elem. enemies.
 Skill Damage Up (vs. Dark) Lv. 1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
@@ -244,12 +276,16 @@ Skill Damage Up (vs. Earth) Lv. 2
 slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Earth-elem. enemies.
 Skill Damage Up (vs. Earth) Lv. 1
+C%p
+B%p
 slot_skill_icon_skill_damage
 Increases damage by 10% vs Earth-elem. enemies.
 Damage Up (vs. Earth-elem.) Lv. 2
+A%p
 slot_skill_icon_skill_damage
 Increases damage by 5% vs Earth-elem. enemies.
 Damage Up (vs. Earth-elem.) Lv. 1
+A%p
 slot_skill_icon_reseve_healing_mp
 Restore 5 MP each 1 seconds while charging.
 MP Recovery while Charging Lv. 1
@@ -262,18 +298,23 @@ Solo Damage Up Lv. 2
 slot_skill_icon_solo_damage
 +15% damage when 1 of your characters remains.
 Solo Damage Up Lv. 1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
@@ -316,39 +357,51 @@ Skill Damage Up (vs. Fire) Lv. 2
 slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Fire-elem. enemies.
 Skill Damage Up (vs. Fire) Lv. 1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
@@ -373,18 +426,23 @@ Damage Up (vs. Wind-elem.) Lv. 1
 slot_skill_icon_parry_healing_mp
 Gains 5 MP on a successful parry
 MP Recovery on Parry
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
@@ -415,6 +473,7 @@ Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_connect_damage
 Increases damage after skill connect by 40%
 Damage Up at Skill Connect Lv2
+)Wl
 slot_skill_icon_connect_damage
 Increases damage after skill connect by 20%
 Damage Up at Skill Connect Lv1
@@ -451,42 +510,55 @@ Solo Damage Up Lv. 2
 slot_skill_icon_solo_damage
 +15% damage when 1 of your characters remains.
 Solo Damage Up Lv. 1
+-mk
 slot_skill_icon_resist_death
 After receiving fatal damage, survive only once with 1% of HP as when you get the attack 
 Fatal damage resistance Lv1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+flk
 slot_skill_icon_combo_damage
 Increases damage for 20-hit+ combos by 5%.
 Combo Damage Up Lv. 2
+elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
+UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
@@ -649,6 +721,8 @@ Attack Up Lv.2
 slot_skill_icon2_job_2
 Raises attack and crit. rate by 100
 Attack Up Lv.1
+Q j
+Q j
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
@@ -685,6 +759,8 @@ Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max HP & MP by 15%
 Battle Skill 2 Transform Lv. 1
+$SY
+$SY
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max HP and MP by 12%
 Battle Skill 2 Transform Lv. 1
@@ -757,9 +833,11 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_7
 Enhances Sword Skill 3. Waiting time gets shorten. Arrows start flying toward enemies.
 Sword Skill 3 Enhance Lv. 1
+uyV
 slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Reduces required MP. Increases own attack.
 Sword Skill 3 Enhance Lv. 1
+5sV
 slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Becomes powerful. Increases the buff attack effect.
 Sword Skill 3 Enhance Lv. 1
@@ -772,6 +850,7 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Reduces required MP. Enhance the effect of your increased speed.
 Sword Skill 3 Enhance Lv. 1
+}S%
 slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Becomes powerful. Increases stun.
 Sword Skill 3 Enhance Lv. 1
@@ -994,9 +1073,15 @@ Dark Magic Skill Lv. 2
 slot_skill_icon_job_8
 Raises attack and crit. rate by 50
 Dark Magic Skill Lv. 1
+uZ3
+tZ3
+sZ3
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP by 20%
 Battle Skill 2 Transform Lv. 2
+rZ3
+qZ3
+pZ3
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP by 15%
 Battle Skill 2 Transform Lv. 1

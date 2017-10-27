@@ -1,12 +1,15 @@
 Enter
 Enter the Weapon Shop?
+武器屋
 Enter
 Upgrade equipment at the blacksmith?
+鍛冶屋
 Enter
 Enter the Diamond Shop?
 ダイヤショップ
 Depart
 Depart for the training grounds?
+訓練所
 Enter
 View party members at the base?
 Enter

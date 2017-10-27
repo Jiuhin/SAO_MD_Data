@@ -1,2009 +1,3085 @@
+bO/
+TBD
 Team-up Headband R4
 accessory01_0051
+aO/
+bO/
+TBD
 Team-up Headband R3
 accessory01_0051
+aO/
+TBD
 Team-up Headband R2
 accessory01_0051
+XO/
+TBD
 Bat Earring R4
 accessory01_0050
+WO/
+XO/
+TBD
 Bat Earring R3
 accessory01_0050
+VO/
+WO/
+TBD
 Bat Earring R2
 accessory01_0050
+NO/
+TBD
 Bat Mask R4
 accessory01_0049
+MO/
+NO/
+TBD
 Bat Mask R3
 accessory01_0049
+LO/
+MO/
+TBD
 Bat Mask R2
 accessory01_0049
+:O/
+TBD
 Aincrad Earring R4
 accessory01_0047
+9O/
+:O/
+TBD
 Aincrad Earring R3
 accessory01_0047
+8O/
+9O/
+TBD
 Aincrad Earring R2
 accessory01_0047
+0O/
+TBD
 Captain Hat R4
 accessory01_0046
+/O/
+0O/
+TBD
 Captain Hat R3
 accessory01_0046
+.O/
+/O/
+TBD
 Captain Hat R2
 accessory01_0046
+&O/
+TBD
 Jade Flower Necklace R4
 accessory01_0045
+%O/
+&O/
+TBD
 Jade Flower Necklace R3
 accessory01_0045
+$O/
+%O/
+TBD
 Jade Flower Necklace R2
 accessory01_0045
+glk
+TBD
 Water Balloon Earring R4
 accessory01_0044
+TBD
 Water Balloon Earring R3
 accessory01_0044
+TBD
 Water Balloon Earring R2
 accessory01_0044
+TBD
 Festival Headband R4
 accessory01_0043
+TBD
 Festival Headband R3
 accessory01_0043
+TBD
 Festival Headband R2
 accessory01_0043
+TBD
 Violet Star Earring R4
 accessory01_0042
+TBD
 Violet Star Earring R3
 accessory01_0042
+TBD
 Violet Star Earring R2
 accessory01_0042
+TBD
 Hibiscus Necklace R4
 accessory01_0041
+TBD
 Hibiscus Necklace R3
 accessory01_0041
+TBD
 Hibiscus Necklace R2
 accessory01_0041
+TBD
 Justice Pendant R4
 accessory01_0040
+TBD
 Justice Pendant R3
 accessory01_0040
+TBD
 Justice Pendant R2
 accessory01_0040
+TBD
 Hydrangea Ring R4
 accessory01_0039
+TBD
 Hydrangea Ring R3
 accessory01_0039
+TBD
 Hydrangea Ring R2
 accessory01_0039
+TBD
 Bride Veil R4
 accessory01_0038
+TBD
 Bride Veil R3
 accessory01_0038
+TBD
 Bride Veil R2
 accessory01_0038
+TBD
 Blue Ribbon Headband R4
 accessory01_0037
+TBD
 Blue Ribbon Headband R3
 accessory01_0037
+TBD
 Blue Ribbon Headband R2
 accessory01_0037
+TBD
 Knight's Amulet R4
 accessory01_0036
+TBD
 Knight's Amulet R3
 accessory01_0036
+TBD
 Knight's Amulet R2
 accessory01_0036
+TBD
 Braeburn R4
 accessory01_0035
+TBD
 Braeburn R3
 accessory01_0035
+TBD
 Braeburn R2
 accessory01_0035
+TBD
 Ring of Starfire R4
 accessory01_0034
+TBD
 Ring of Starfire R3
 accessory01_0034
+TBD
 Ring of Starfire R2
 accessory01_0034
+TBD
 White Hat R4
 accessory01_0033
+TBD
 White Hat R3
 accessory01_0033
+TBD
 White Hat R2
 accessory01_0033
+TBD
 Blue Rose Ring R4
 accessory01_0032
+TBD
 Blue Rose Ring R3
 accessory01_0032
+TBD
 Blue Rose Ring R2
 accessory01_0032
+TBD
 Night Star Bracelet R4
 accessory01_0031
+TBD
 Night Star Bracelet R3
 accessory01_0031
+TBD
 Night Star Bracelet R2
 accessory01_0031
+TBD
 Bear Cub Keyring R4
 accessory01_0030
+TBD
 Bear Cub Keyring R3
 accessory01_0030
+TBD
 Bear Cub Keyring R2
 accessory01_0030
+TBD
 Kanzashi of Spring Breeze R4
 accessory01_0028
+{N/
+TBD
 Kanzashi of Spring Breeze R3
 accessory01_0028
+zN/
+{N/
+TBD
 Kanzashi of Spring Breeze R2
 accessory01_0028
+rN/
+TBD
 Cheerful Wristband R4
 accessory01_0027
+qN/
+rN/
+TBD
 Cheerful Wristband R3
 accessory01_0027
+pN/
+qN/
+TBD
 Cheerful Wristband R2
 accessory01_0027
+hN/
+TBD
 Floral Shuriken Earing R4
 accessory01_0026
+gN/
+hN/
+TBD
 Floral Shuriken Earing R3
 accessory01_0026
+fN/
+gN/
+TBD
 Floral Shuriken Earing R2
 accessory01_0026
+TBD
 Augma R4
 accessory01_0025
+]N/
+TBD
 Augma R3
 accessory01_0025
+]N/
+TBD
 Augma R2
 accessory01_0025
+TBD
 Heart Unlokcer R4
 accessory01_0022
+?N/
+TBD
 Heart Unlokcer R3
 accessory01_0022
+>N/
+?N/
+TBD
 Heart Unlokcer R2
 accessory01_0022
+6N/
+TBD
 Locked Heart R4
 accessory01_0021
+5N/
+6N/
+TBD
 Locked Heart R3
 accessory01_0021
+4N/
+5N/
+TBD
 Locked Heart R2
 accessory01_0021
+"N/
+TBD
 Paradise Ring R4
 accessory01_0019
+!N/
+"N/
+TBD
 Paradise Ring R3
 accessory01_0019
+!N/
+TBD
 Paradise Ring R2
 accessory01_0019
+TBD
 Traditional Earring R4
 accessory01_0018
+TBD
 Traditional Earring R3
 accessory01_0018
+TBD
 Traditional Earring R2
 accessory01_0018
+TBD
 Wreath Ring R4
 accessory01_0017
+TBD
 Wreath Ring R3
 accessory01_0017
+TBD
 Wreath Ring R2
 accessory01_0017
+TBD
 Jack's Earring R4
 accessory01_0016
+TBD
 Jack's Earring R3
 accessory01_0016
+TBD
 Jack's Earring R2
 accessory01_0016
+TBD
 Ring of Offense R4
 accessory01_0010
+TBD
 Ring of Offense R3
 accessory01_0010
+TBD
 Ring of Offense R2
 accessory01_0010
+TBD
 Blazing Necklace R4
 accessory01_0009
+TBD
 Blazing Necklace R3
 accessory01_0009
+TBD
 Blazing Necklace R2
 accessory01_0009
+TBD
 Poison Charm R4
 accessory01_0008
+TBD
 Poison Charm R3
 accessory01_0008
+TBD
 Poison Charm R2
 accessory01_0008
+TBD
 Diamond Earring R4
 accessory01_0007
+TBD
 Diamond Earring R3
 accessory01_0007
+TBD
 Diamond Earring R2
 accessory01_0007
+TBD
 Amethyst Earring R4
 accessory01_0006
+TBD
 Amethyst Earring R3
 accessory01_0006
+TBD
 Amethyst Earring R2
 accessory01_0006
+TBD
 Citrine Earring R4
 accessory01_0005
+TBD
 Citrine Earring R3
 accessory01_0005
+TBD
 Citrine Earring R2
 accessory01_0005
+TBD
 Topaz Earring R4
 accessory01_0004
+TBD
 Topaz Earring R3
 accessory01_0004
+TBD
 Topaz Earring R2
 accessory01_0004
+TBD
 Emerald Earring R4
 accessory01_0003
+TBD
 Emerald Earring R3
 accessory01_0003
+TBD
 Emerald Earring R2
 accessory01_0003
+xM/
+TBD
 Sapphire Earring R4
 accessory01_0002
+wM/
+xM/
+TBD
 Sapphire Earring R3
 accessory01_0002
+vM/
+wM/
+TBD
 Sapphire Earring R2
 accessory01_0002
+nM/
+TBD
 Ruby Earring R4
 accessory01_0001
+mM/
+nM/
+TBD
 Ruby Earring R3
 accessory01_0001
+lM/
+mM/
+TBD
 Ruby Earring R2
 accessory01_0001
+TBD
 Gym Clothes in Youth R4
 armor03_0066
+TBD
 Gym Clothes in Youth R3
 armor03_0066
+TBD
 Gym Clothes in Youth R2
 armor03_0066
+oE3
+TBD
 Pumpkin Dress R4
 armor03_0065
+TBD
 Pumpkin Dress R3
 armor03_0065
+TBD
 Pumpkin Dress R2
 armor03_0065
+TBD
 Hydrangea Yukata R4
 armor03_0063
+TBD
 Hydrangea Yukata R3
 armor03_0063
+TBD
 Hydrangea Yukata R2
 armor03_0063
+TBD
 Festival Light Armor R4
 armor03_0062
+TBD
 Festival Light Armor R3
 armor03_0062
+TBD
 Festival Light Armor R2
 armor03_0062
+TBD
 Night Sky Plumage R4
 armor03_0061
+TBD
 Night Sky Plumage R3
 armor03_0061
+TBD
 Night Sky Plumage R2
 armor03_0061
+TBD
 Temptation Bikini R4
 armor03_0060
+TBD
 Temptation Bikini R3
 armor03_0060
+TBD
 Temptation Bikini R2
 armor03_0060
+TBD
 Savior's One-piece R4
 armor03_0059
+TBD
 Savior's One-piece R3
 armor03_0059
+TBD
 Savior's One-piece R2
 armor03_0059
+TBD
 Rain One-piece R4
 armor03_0058
+TBD
 Rain One-piece R3
 armor03_0058
+TBD
 Rain One-piece R2
 armor03_0058
+TBD
 Wedding Dress R4
 armor03_0057
+TBD
 Wedding Dress R3
 armor03_0057
+TBD
 Wedding Dress R2
 armor03_0057
+TBD
 Rivulet One-piece R4
 armor03_0056
+TBD
 Rivulet One-piece R3
 armor03_0056
+TBD
 Rivulet One-piece R2
 armor03_0056
+TBD
 Patissier Dress R4
 armor03_0055
+TBD
 Patissier Dress R3
 armor03_0055
+TBD
 Patissier Dress R2
 armor03_0055
+TBD
 Pumpkin Skirt R4
 armor03_0036
+TBD
 Pumpkin Skirt R3
 armor03_0036
+TBD
 Pumpkin Skirt R2
 armor03_0036
+TBD
 Aqua Skirt R4
 armor03_0032
+TBD
 Aqua Skirt R3
 armor03_0032
+TBD
 Aqua Skirt R2
 armor03_0032
+TBD
 Zodiac Dress R4
 armor03_0031
+TBD
 Zodiac Dress R3
 armor03_0031
+TBD
 Zodiac Dress R2
 armor03_0031
+TBD
 Apron Dress R4
 armor03_0030
+TBD
 Apron Dress R3
 armor03_0030
+TBD
 Apron Dress R2
 armor03_0030
+TBD
 Golden Yellow Knight Armor R4
 armor03_0029
+TBD
 Golden Yellow Knight Armor R3
 armor03_0029
+TBD
 Golden Yellow Knight Armor R2
 armor03_0029
+TBD
 Soleil Dress R4
 armor03_0028
+TBD
 Soleil Dress R3
 armor03_0028
+TBD
 Soleil Dress R2
 armor03_0028
+TBD
 Sailor Suit R4
 armor03_0027
+TBD
 Sailor Suit R3
 armor03_0027
+TBD
 Sailor Suit R2
 armor03_0027
+TBD
 Hina Doll's Kimono R4
 armor03_0025
+TBD
 Hina Doll's Kimono R3
 armor03_0025
+TBD
 Hina Doll's Kimono R2
 armor03_0025
+TBD
 Cheerleader Uniform R4
 armor03_0024
+TBD
 Cheerleader Uniform R3
 armor03_0024
+TBD
 Cheerleader Uniform R2
 armor03_0024
+TBD
 Kunoichi Garb R4
 armor03_0023
+TBD
 Kunoichi Garb R3
 armor03_0023
+TBD
 Kunoichi Garb R2
 armor03_0023
+TBD
 OS Battle Dress R4
 armor03_0022
+TBD
 OS Battle Dress R3
 armor03_0022
+TBD
 OS Battle Dress R2
 armor03_0022
+TBD
 Oracle's Dress R4
 armor03_0021
+TBD
 Oracle's Dress R3
 armor03_0021
+TBD
 Oracle's Dress R2
 armor03_0021
+TBD
 Sylphid Cloth R4
 armor03_0020
+TBD
 Sylphid Cloth R3
 armor03_0020
+TBD
 Sylphid Cloth R2
 armor03_0020
+TBD
 Lily Frock Dress R4
 armor03_0019
+TBD
 Lily Frock Dress R3
 armor03_0019
+TBD
 Lily Frock Dress R2
 armor03_0019
+TBD
 White Knight Jacket R4
 armor03_0018
+TBD
 White Knight Jacket R3
 armor03_0018
+TBD
 White Knight Jacket R2
 armor03_0018
+TBD
 Silverthread Armor R5
 armor03_0006
+TBD
 Silverthread Armor R4
 armor03_0006
+TBD
 Silverthread Armor R3
 armor03_0006
+TBD
 M-44 Nether R5
 armor03_0004
+TBD
 M-44 Nether R4
 armor03_0004
+TBD
 Coat of Sylphide R5
 armor03_0003
+TBD
 Coat of Sylphide R4
 armor03_0003
+TBD
 Breastplate of Serenity R5
 armor03_0002
+TBD
 Breastplate of Serenity R4
 armor03_0002
+TBD
 Asuna's Apron R2
 armor03_0001
+TBD
 Blue Silver Knight Armor R4
 armor02_0055
+TBD
 Blue Silver Knight Armor R3
 armor02_0055
+TBD
 Blue Silver Knight Armor R2
 armor02_0055
+TBD
 Vampire Cape R4
 armor02_0037
+TBD
 Vampire Cape R3
 armor02_0037
+TBD
 Vampire Cape R2
 armor02_0037
+TBD
 Feathered Christmas Coat R4
 armor02_0011
+TBD
 Feathered Christmas Coat R3
 armor02_0011
+TBD
 Feathered Christmas Coat R2
 armor02_0011
+TBD
 OS Battle Coat R4
 armor02_0010
+TBD
 OS Battle Coat R3
 armor02_0010
+TBD
 OS Battle Coat R2
 armor02_0010
+TBD
 Blackwing Coat R4
 armor02_0009
+TBD
 Blackwing Coat R3
 armor02_0009
+TBD
 Blackwing Coat R2
 armor02_0009
+TBD
 Insane Armor R5
 armor02_0004
+TBD
 Insane Armor R4
 armor02_0004
+TBD
 Insane Armor R3
 armor02_0004
+TBD
 Wolf Coat R4
 armor01_0060
+TBD
 Wolf Coat R3
 armor01_0060
+TBD
 Wolf Coat R2
 armor01_0060
+TBD
 Captain Coat R4
 armor01_0059
+TBD
 Captain Coat R3
 armor01_0059
+TBD
 Captain Coat R2
 armor01_0059
+TBD
 Imperial Raiment R4
 armor01_0053
+TBD
 Imperial Raiment R3
 armor01_0053
+TBD
 Imperial Raiment R2
 armor01_0053
+TBD
 Lucky Green Coat R4
 armor01_0048
+TBD
 Lucky Green Coat R3
 armor01_0048
+TBD
 Lucky Green Coat R2
 armor01_0048
+TBD
 Cherry Blossom Kimono R4
 armor01_0046
+TBD
 Cherry Blossom Kimono R3
 armor01_0046
+TBD
 Cherry Blossom Kimono R2
 armor01_0046
+TBD
 Xmas Dress R4
 armor01_0044
+TBD
 Xmas Dress R3
 armor01_0044
+TBD
 Xmas Dress R2
 armor01_0044
+TBD
 Fiery wind Cape R4
 armor01_0043
+TBD
 Fiery wind Cape R3
 armor01_0043
+TBD
 Fiery wind Cape R2
 armor01_0043
+TBD
 Scale Chainmail R4
 armor01_0042
+TBD
 Scale Chainmail R3
 armor01_0042
+TBD
 Scale Chainmail R2
 armor01_0042
+TBD
 Grey's Plate R4
 armor01_0039
+TBD
 Grey's Plate R3
 armor01_0039
+TBD
 Grey's Plate R2
 armor01_0039
+TBD
 Sandstorm Garb R4
 armor01_0035
+TBD
 Sandstorm Garb R3
 armor01_0035
+TBD
 Sandstorm Garb R2
 armor01_0035
+TBD
 Beastly Jacket R4
 armor01_0033
+TBD
 Beastly Jacket R3
 armor01_0033
+TBD
 Beastly Jacket R2
 armor01_0033
+TBD
 Blazing Plate R4
 armor01_0032
+TBD
 Blazing Plate R3
 armor01_0032
+TBD
 Blazing Plate R2
 armor01_0032
+TBD
 Coat of Midnight R4
 armor01_0031
+TBD
 Coat of Midnight R3
 armor01_0031
+TBD
 Coat of Midnight R2
 armor01_0031
+TBD
 Vestments of Light R4
 armor01_0029
+TBD
 Vestments of Light R3
 armor01_0029
+TBD
 Vestments of Light R2
 armor01_0029
+TBD
 Woodland Tabard R4
 armor01_0028
+TBD
 Woodland Tabard R3
 armor01_0028
+TBD
 Woodland Tabard R2
 armor01_0028
+TBD
 Emerald Armor R4
 armor01_0027
+TBD
 Emerald Armor R3
 armor01_0027
+TBD
 Emerald Armor R2
 armor01_0027
+TBD
 Aquamarine Robe R4
 armor01_0026
+TBD
 Aquamarine Robe R3
 armor01_0026
+TBD
 Aquamarine Robe R2
 armor01_0026
+TBD
 Volatile Coat R4
 armor01_0025
+TBD
 Volatile Coat R3
 armor01_0025
+TBD
 Volatile Coat R2
 armor01_0025
+TBD
 Darkness Robe R3
 armor01_0020
+TBD
 Darkness Robe R2
 armor01_0020
+TBD
 Bright Chainmail R3
 armor01_0019
+TBD
 Bright Chainmail R2
 armor01_0019
+TBD
 Chest Plate of Earth R3
 armor01_0018
+TBD
 Chest Plate of Earth R2
 armor01_0018
+TBD
 Wind Coat R3
 armor01_0017
+TBD
 Wind Coat R2
 armor01_0017
+TBD
 Aqua Tabard R3
 armor01_0016
+TBD
 Aqua Tabard R2
 armor01_0016
+TBD
 Robe of Fire R3
 armor01_0015
+TBD
 Robe of Fire R2
 armor01_0015
+TBD
 Sneaker's Robe R3
 armor01_0014
+TBD
 Sneaker's Robe R2
 armor01_0014
+TBD
 Robust Armor R3
 armor01_0013
+TBD
 Robust Armor R2
 armor01_0013
+TBD
 Wool-Padded Coat R3
 armor01_0012
+TBD
 Wool-Padded Coat R2
 armor01_0012
+TBD
 Crescent Guard R3
 armor01_0011
+TBD
 Crescent Guard R2
 armor01_0011
+TBD
 Black Apparel R2
 armor01_0010
+TBD
 Black Apparel R1
 armor01_0010
+TBD
 White Robe R2
 armor01_0009
+TBD
 White Robe R1
 armor01_0009
+TBD
 Brown Chainmail R2
 armor01_0008
+TBD
 Brown Chainmail R1
 armor01_0008
+TBD
 Green Armor R2
 armor01_0007
+TBD
 Green Armor R1
 armor01_0007
+TBD
 Blue Cape R2
 armor01_0006
+TBD
 Blue Cape R1
 armor01_0006
+TBD
 Red Plate R2
 armor01_0005
+TBD
 Red Plate R1
 armor01_0005
+TBD
 Woolen Hooded Cape R2
 armor01_0004
+TBD
 Woolen Hooded Cape R1
 armor01_0004
+TBD
 Bronze Armor R2
 armor01_0003
+TBD
 Bronze Armor R1
 armor01_0003
+TBD
 Tan Leather Coat R2
 armor01_0002
+TBD
 Tan Leather Coat R1
 armor01_0002
+TBD
 Steel Chest Plate R2
 armor01_0001
+TBD
 Steel Chest Plate R1
 armor01_0001
+TBD
 Leo Hastam +1 R5
 weapon09_0014
+TBD
 Leo Hastam +1 R4
 weapon09_0014
+TBD
 Winner's Spear R5
 weapon09_0013
+TBD
 Winner's Spear R4
 weapon09_0013
+TBD
 Island Spear R5
 weapon09_0012
+TBD
 Island Spear R4
 weapon09_0012
+TBD
 Fiery Javelin R4
 weapon09_0011
+TBD
 Fiery Javelin R3
 weapon09_0011
+TBD
 Fiery Javelin R2
 weapon09_0011
+TBD
 Divine Shiner R5
 weapon09_0010
+TBD
 Divine Shiner R4
 weapon09_0010
+TBD
 Zinnia Bouquet R5
 weapon09_0008
+TBD
 Zinnia Bouquet R4
 weapon09_0008
+TBD
 Petra Twins R4
 weapon09_0007
+TBD
 Petra Twins R3
 weapon09_0007
+TBD
 Gale Halbert R4
 weapon09_0006
+TBD
 Gale Halbert R3
 weapon09_0006
+TBD
 Darkness Glaive R4
 weapon09_0005
+TBD
 Darkness Glaive R3
 weapon09_0005
+TBD
 Darkness Glaive R2
 weapon09_0005
+TBD
 Mithril Spear R4
 weapon09_0004
+TBD
 Mithril Spear R3
 weapon09_0004
+TBD
 Mithril Spear R2
 weapon09_0004
+TBD
 Wisdom Spear R5
 weapon09_0003
+TBD
 Wisdom Spear R4
 weapon09_0003
+TBD
 Leo Hastam R5
 weapon09_0002
+TBD
 Leo Hastam R4
 weapon09_0002
+TBD
 Libra Hastam R5
 weapon09_0001
+TBD
 Libra Hastam R4
 weapon09_0001
+TBD
 Nightmare Wand R5
 weapon08_0035
+TBD
 Nightmare Wand R4
 weapon08_0035
+TBD
 Candle Stick R5
 weapon08_0033
+TBD
 Candle Stick R4
 weapon08_0033
+TBD
 Red Wolf Buster R5
 weapon08_0031
+TBD
 Red Wolf Buster R4
 weapon08_0031
+TBD
 Venus Heart R5
 weapon08_0030
+TBD
 Venus Heart R4
 weapon08_0030
+TBD
 Six-petaled Stave R5
 weapon08_0029
+TBD
 Six-petaled Stave R4
 weapon08_0029
+TBD
 Exorcist's Hairpin R5
 weapon08_0028
+TBD
 Exorcist's Hairpin R4
 weapon08_0028
+TBD
 Minos Staff R4
 weapon08_0027
+TBD
 Minos Staff R3
 weapon08_0027
+TBD
 Minos Staff R2
 weapon08_0027
+TBD
 Radiant Tree R5
 weapon08_0025
+TBD
 Radiant Tree R4
 weapon08_0025
+TBD
 Eden's Stave R5
 weapon08_0024
+TBD
 Eden's Stave R4
 weapon08_0024
+TBD
 Marine Baton R5
 weapon08_0021
+TBD
 Marine Baton R4
 weapon08_0021
+TBD
 Conflagration R5
 weapon08_0020
+TBD
 Conflagration R4
 weapon08_0020
+TBD
 Jack o' Fury R4
 weapon08_0019
+TBD
 Jack o' Fury R3
 weapon08_0019
+TBD
 Jack o' Fury R2
 weapon08_0019
+TBD
 Wind of Grace R5
 weapon08_0018
+TBD
 Wind of Grace R4
 weapon08_0018
+TBD
 Yggdrasil Bough R5
 weapon08_0015
+TBD
 Yggdrasil Bough R4
 weapon08_0015
+TBD
 Hoarfrost R4
 weapon08_0014
+TBD
 Hoarfrost R3
 weapon08_0014
+TBD
 Hoarfrost R2
 weapon08_0014
+TBD
 Desert Scepter R4
 weapon08_0013
+TBD
 Desert Scepter R3
 weapon08_0013
+TBD
 Desert Scepter R2
 weapon08_0013
+TBD
 Soul of Shamrock R5
 weapon08_0012
+TBD
 Soul of Shamrock R4
 weapon08_0012
+TBD
 Crystal Wand R4
 weapon08_0011
+TBD
 Crystal Wand R3
 weapon08_0011
+TBD
 Tidal Rod R4
 weapon08_0010
+TBD
 Tidal Rod R3
 weapon08_0010
+TBD
 Emerald Rod R4
 weapon08_0009
+TBD
 Emerald Rod R3
 weapon08_0009
+TBD
 Ethereal Staff R4
 weapon08_0008
+TBD
 Ethereal Staff R3
 weapon08_0008
+TBD
 Ethereal Staff R2
 weapon08_0008
+TBD
 Evil Wand R4
 weapon08_0007
+TBD
 Evil Wand R3
 weapon08_0007
+TBD
 Evil Wand R2
 weapon08_0007
+TBD
 Flame Wand R4
 weapon08_0006
+TBD
 Flame Wand R3
 weapon08_0006
+TBD
 Flame Wand R2
 weapon08_0006
+TBD
 Rain Wand R3
 weapon08_0005
+TBD
 Rain Wand R2
 weapon08_0005
+TBD
 Dull Rod R3
 weapon08_0004
+TBD
 Dull Rod R2
 weapon08_0004
+TBD
 Red Rod R2
 weapon08_0003
+TBD
 Red Rod R1
 weapon08_0003
+TBD
 Lord's Staff R2
 weapon08_0002
+TBD
 Lord's Staff R1
 weapon08_0002
+TBD
 Small Rod R1
 weapon08_0001
+TBD
 Gusisnautar R5
 weapon07_0030
+TBD
 Gusisnautar R4
 weapon07_0030
+TBD
 Rain-making Long Bow R5
 weapon07_0028
+TBD
 Rain-making Long Bow R4
 weapon07_0028
+TBD
 Kiss of Cupid R5
 weapon07_0027
+TBD
 Kiss of Cupid R4
 weapon07_0027
+TBD
 Sweet Shooter R5
 weapon07_0026
+TBD
 Sweet Shooter R4
 weapon07_0026
+TBD
 Sakura Rain Bow R5
 weapon07_0025
+TBD
 Sakura Rain Bow R4
 weapon07_0025
+TBD
 Cobalt Tristan R5
 weapon07_0024
+TBD
 Cobalt Tristan R4
 weapon07_0024
+TBD
 Lovely Paltian R5
 weapon07_0023
+TBD
 Lovely Paltian R4
 weapon07_0023
+TBD
 Cupid's Passion R5
 weapon07_0022
+TBD
 Cupid's Passion R4
 weapon07_0022
+TBD
 Demonbane Greatbow R5
 weapon07_0020
+TBD
 Demonbane Greatbow R4
 weapon07_0020
+TBD
 Devil's Spread R5
 weapon07_0016
+TBD
 Devil's Spread R4
 weapon07_0016
+TBD
 Dragon Knight Bow R4
 weapon07_0015
+TBD
 Dragon Knight Bow R3
 weapon07_0015
+TBD
 Dragon Knight Bow R2
 weapon07_0015
+TBD
 L'arc Qui ne Faut R5
 weapon07_0014
+TBD
 L'arc Qui ne Faut R4
 weapon07_0014
+TBD
 Infernal Longbow R4
 weapon07_0012
+TBD
 Infernal Longbow R3
 weapon07_0012
+TBD
 Infernal Longbow R2
 weapon07_0012
+TBD
 Falcon Shooter R4
 weapon07_0011
+TBD
 Falcon Shooter R3
 weapon07_0011
+TBD
 Petra Bow R4
 weapon07_0010
+TBD
 Petra Bow R3
 weapon07_0010
+TBD
 Chivalrous Bow R4
 weapon07_0009
+TBD
 Chivalrous Bow R3
 weapon07_0009
+TBD
 Dark Bow R4
 weapon07_0008
+TBD
 Dark Bow R3
 weapon07_0008
+TBD
 Dark Bow R2
 weapon07_0008
+TBD
 Flame Shooter R4
 weapon07_0007
+TBD
 Flame Shooter R3
 weapon07_0007
+TBD
 Flame Shooter R2
 weapon07_0007
+TBD
 Aqua Spread R4
 weapon07_0006
+TBD
 Aqua Spread R3
 weapon07_0006
+TBD
 Aqua Spread R2
 weapon07_0006
+TBD
 Earthen Bow R3
 weapon07_0005
+TBD
 Earthen Bow R2
 weapon07_0005
+TBD
 Glowing Bow R3
 weapon07_0004
+TBD
 Glowing Bow R2
 weapon07_0004
+TBD
 Blue Bow R2
 weapon07_0003
+TBD
 Blue Bow R1
 weapon07_0003
+TBD
 Long Bow R2
 weapon07_0002
+TBD
 Long Bow R1
 weapon07_0002
+TBD
 Short Bow R1
 weapon07_0001
+TBD
 Trick or Bullet R5
 weapon06_0029
+TBD
 Trick or Bullet R4
 weapon06_0029
+TBD
 Harbor Rifle R5
 weapon06_0028
+TBD
 Harbor Rifle R4
 weapon06_0028
+TBD
 Marin Shot R5
 weapon06_0027
+TBD
 Marin Shot R4
 weapon06_0027
+TBD
 Summer Bloomer R5
 weapon06_0026
+TBD
 Summer Bloomer R4
 weapon06_0026
+TBD
 Explosive Hecate+1 R5
 weapon06_0025
+TBD
 Explosive Hecate+1 R4
 weapon06_0025
+TBD
 Police Rifle R5
 weapon06_0024
+TBD
 Police Rifle R4
 weapon06_0024
+TBD
 Apple Shooter R5
 weapon06_0023
+TBD
 Apple Shooter R4
 weapon06_0023
+TBD
 Advancer R5
 weapon06_0021
+TBD
 Advancer R4
 weapon06_0021
+TBD
 Holy Night's Shot R5
 weapon06_0018
+TBD
 Holy Night's Shot R4
 weapon06_0018
+TBD
 Gargoyle Rifle R4
 weapon06_0017
+TBD
 Gargoyle Rifle R3
 weapon06_0017
+TBD
 Gargoyle Rifle R2
 weapon06_0017
+TBD
 Explosive Hecate R5
 weapon06_0016
+TBD
 Explosive Hecate R4
 weapon06_0016
+TBD
 Silence R4
 weapon06_0014
+TBD
 Silence R3
 weapon06_0014
+TBD
 Silence R2
 weapon06_0014
+TBD
 Desert Rifle R4
 weapon06_0013
+TBD
 Desert Rifle R3
 weapon06_0013
+TBD
 Desert Rifle R2
 weapon06_0013
+TBD
 Hecate II R5
 weapon06_0012
+TBD
 Hecate II R4
 weapon06_0012
+TBD
 Behemoth Sniper R4
 weapon06_0011
+TBD
 Behemoth Sniper R3
 weapon06_0011
+TBD
 Long-Range Barrett R4
 weapon06_0010
+TBD
 Long-Range Barrett R3
 weapon06_0010
+TBD
 Pale Shooter R4
 weapon06_0009
+TBD
 Pale Shooter R3
 weapon06_0009
+TBD
 Double-Stack Magazine R4
 weapon06_0008
+TBD
 Double-Stack Magazine R3
 weapon06_0008
+TBD
 Double-Stack Magazine R2
 weapon06_0008
+TBD
 Precision Rifle R4
 weapon06_0007
+TBD
 Precision Rifle R3
 weapon06_0007
+TBD
 Precision Rifle R2
 weapon06_0007
+TBD
 Stealth Rifle R4
 weapon06_0006
+TBD
 Stealth Rifle R3
 weapon06_0006
+TBD
 Stealth Rifle R2
 weapon06_0006
+TBD
 Winter Killer R3
 weapon06_0005
+TBD
 Winter Killer R2
 weapon06_0005
+TBD
 Sniper's Barrett R3
 weapon06_0004
+TBD
 Sniper's Barrett R2
 weapon06_0004
+TBD
 Carbine Rifle R2
 weapon06_0003
+TBD
 Carbine Rifle R1
 weapon06_0003
+TBD
 Bolt Action Rifle R2
 weapon06_0002
+TBD
 Bolt Action Rifle R1
 weapon06_0002
+TBD
 Small Rifle R1
 weapon06_0001
+TBD
 Planetary Mace R5
 weapon05_0049
+TBD
 Planetary Mace R4
 weapon05_0049
+TBD
 Great Number R5
 weapon05_0046
+TBD
 Great Number R4
 weapon05_0046
+TBD
 Devil Stuff R5
 weapon05_0045
+TBD
 Devil Stuff R4
 weapon05_0045
+TBD
 Beach Buster R5
 weapon05_0044
+TBD
 Beach Buster R4
 weapon05_0044
+TBD
 Parfait Club R5
 weapon05_0043
+TBD
 Parfait Club R4
 weapon05_0043
+TBD
 Cox Hammer R5
 weapon05_0042
+TBD
 Cox Hammer R4
 weapon05_0042
+TBD
 Promised Heart R5
 weapon05_0040
+TBD
 Promised Heart R4
 weapon05_0040
+TBD
 Smash Brush R5
 weapon05_0039
+TBD
 Smash Brush R4
 weapon05_0039
+TBD
 Sakura Mace R5
 weapon05_0038
+TBD
 Sakura Mace R4
 weapon05_0038
+TBD
 Glorious Mic R5
 weapon05_0037
+TBD
 Glorious Mic R4
 weapon05_0037
+TBD
 Tulip Mace R5
 weapon05_0036
+TBD
 Tulip Mace R4
 weapon05_0036
+TBD
 Ogre Mace R4
 weapon05_0035
+TBD
 Ogre Mace R3
 weapon05_0035
+TBD
 Ogre Mace R2
 weapon05_0035
+TBD
 Twerling Mace R5
 weapon05_0033
+TBD
 Twerling Mace R4
 weapon05_0033
+TBD
 Elater R5
 weapon05_0032
+TBD
 Elater R4
 weapon05_0032
+TBD
 Lotus of Dominant R5
 weapon05_0031
+TBD
 Lotus of Dominant R4
 weapon05_0031
+TBD
 Asterius R4
 weapon05_0028
+TBD
 Asterius R3
 weapon05_0028
+TBD
 Asterius R2
 weapon05_0028
+TBD
 Jingle All the Way R5
 weapon05_0027
+TBD
 Jingle All the Way R4
 weapon05_0027
+TBD
 Harvest R5
 weapon05_0026
+TBD
 Harvest R4
 weapon05_0026
+TBD
 Sea God's Mallet R5
 weapon05_0023
+TBD
 Sea God's Mallet R4
 weapon05_0023
+TBD
 Ignitia R5
 weapon05_0022
+TBD
 Ignitia R4
 weapon05_0022
+TBD
 Devil's Slave R5
 weapon05_0021
+TBD
 Devil's Slave R4
 weapon05_0021
+TBD
 Pumpkin Hammer R5
 weapon05_0020
+TBD
 Pumpkin Hammer R4
 weapon05_0020
+TBD
 Hurricane Breaker R5
 weapon05_0019
+TBD
 Hurricane Breaker R4
 weapon05_0019
+TBD
 Gridarvol R5
 weapon05_0018
+TBD
 Gridarvol R4
 weapon05_0018
+TBD
 White Skull Mace R4
 weapon05_0015
+TBD
 White Skull Mace R3
 weapon05_0015
+TBD
 White Skull Mace R2
 weapon05_0015
+TBD
 Drill Mace R4
 weapon05_0014
+TBD
 Drill Mace R3
 weapon05_0014
+TBD
 Drill Mace R2
 weapon05_0014
+TBD
 Atom Smasher R5
 weapon05_0013
+TBD
 Atom Smasher R4
 weapon05_0013
+TBD
 Star Mace R5
 weapon05_0012
+TBD
 Star Mace R4
 weapon05_0012
+TBD
 Bloody Club R4
 weapon05_0011
+TBD
 Bloody Club R3
 weapon05_0011
+TBD
 Gale Zaghnal R4
 weapon05_0010
+TBD
 Gale Zaghnal R3
 weapon05_0010
+TBD
 Barbarian Mace R4
 weapon05_0009
+TBD
 Barbarian Mace R3
 weapon05_0009
+TBD
 Mithril Mace R4
 weapon05_0008
+TBD
 Mithril Mace R3
 weapon05_0008
+TBD
 Mithril Mace R2
 weapon05_0008
+TBD
 Aqua Mace R4
 weapon05_0007
+TBD
 Aqua Mace R3
 weapon05_0007
+TBD
 Aqua Mace R2
 weapon05_0007
+TBD
 War Pick R4
 weapon05_0006
+TBD
 War Pick R3
 weapon05_0006
+TBD
 War Pick R2
 weapon05_0006
+TBD
 Punishing Club R3
 weapon05_0005
+TBD
 Punishing Club R2
 weapon05_0005
+TBD
 Morning Star R3
 weapon05_0004
+TBD
 Morning Star R2
 weapon05_0004
+TBD
 Red Mace R2
 weapon05_0003
+TBD
 Red Mace R1
 weapon05_0003
+TBD
 Bronze Mace R2
 weapon05_0002
+TBD
 Bronze Mace R1
 weapon05_0002
+TBD
 Small Mace R1
 weapon05_0001
+TBD
 Carnwennan R5
 weapon04_0051
+TBD
 Carnwennan R4
 weapon04_0051
+TBD
 Champion Dagger R5
 weapon04_0049
+TBD
 Champion Dagger R4
 weapon04_0049
+TBD
 Chat Noir R5
 weapon04_0048
+TBD
 Chat Noir R4
 weapon04_0048
+TBD
 Pirate Dagger R5
 weapon04_0047
+TBD
 Pirate Dagger R4
 weapon04_0047
+TBD
 Sunflower Edge R5
 weapon04_0046
+TBD
 Sunflower Edge R4
 weapon04_0046
+{-&
+TBD
 Oathkeeper R5
 weapon04_0045
+{-&
+TBD
 Oathkeeper R4
 weapon04_0045
+TBD
 Lespedeza Dewdrop R5
 weapon04_0044
+TBD
 Lespedeza Dewdrop R4
 weapon04_0044
+TBD
 Hibiscus Cutter R5
 weapon04_0043
+TBD
 Hibiscus Cutter R4
 weapon04_0043
+TBD
 Splash Dagger R5
 weapon04_0042
+TBD
 Splash Dagger R4
 weapon04_0042
+TBD
 Airplane Dagger R5
 weapon04_0041
+TBD
 Airplane Dagger R4
 weapon04_0041
+TBD
 Wishing Bouquet R5
 weapon04_0040
+TBD
 Wishing Bouquet R4
 weapon04_0040
+TBD
 Sugar Kukuri R5
 weapon04_0039
+TBD
 Sugar Kukuri R4
 weapon04_0039
+TBD
 Purple Star Baselard R5
 weapon04_0038
+TBD
 Purple Star Baselard R4
 weapon04_0038
+TBD
 Mermaid Knife R5
 weapon04_0037
+TBD
 Mermaid Knife R4
 weapon04_0037
+TBD
 Blade of Bight Festival R5
 weapon04_0036
+TBD
 Blade of Bight Festival R4
 weapon04_0036
+TBD
 Edge of Repent R5
 weapon04_0034
+TBD
 Edge of Repent R4
 weapon04_0034
+TBD
 Love Cake Knife R5
 weapon04_0033
+TBD
 Love Cake Knife R4
 weapon04_0033
+TBD
 Ephemeral Cursed Sword R5
 weapon04_0032
+TBD
 Ephemeral Cursed Sword R4
 weapon04_0032
+TBD
 Red Coral Dirk R4
 weapon04_0030
+TBD
 Red Coral Dirk R3
 weapon04_0030
+TBD
 Red Coral Dirk R2
 weapon04_0030
+TBD
 Blessed Pine R5
 weapon04_0029
+TBD
 Blessed Pine R4
 weapon04_0029
+TBD
 Holy Dagger R5
 weapon04_0027
+TBD
 Holy Dagger R4
 weapon04_0027
+TBD
 Reindeer Dagger R5
 weapon04_0026
+TBD
 Reindeer Dagger R4
 weapon04_0026
+TBD
 Gaia Knife R5
 weapon04_0025
+TBD
 Gaia Knife R4
 weapon04_0025
+TBD
 Black Cat R5
 weapon04_0022
+TBD
 Black Cat R4
 weapon04_0022
+TBD
 Butterfly Wing R5
 weapon04_0021
+TBD
 Butterfly Wing R4
 weapon04_0021
+TBD
 Giardino R5
 weapon04_0020
+TBD
 Giardino R4
 weapon04_0020
+TBD
 Lilting Horn R5
 weapon04_0019
+TBD
 Lilting Horn R4
 weapon04_0019
+TBD
 Asuna's Kitchen Knife R2
 weapon04_0017
+TBD
 Goblin Bone Dagger R4
 weapon04_0014
+TBD
 Goblin Bone Dagger R3
 weapon04_0014
+TBD
 Goblin Bone Dagger R2
 weapon04_0014
+TBD
 Sword Breaker R5
 weapon04_0013
+TBD
 Sword Breaker R4
 weapon04_0013
+TBD
 Ebony Dagger R5
 weapon04_0012
+TBD
 Ebony Dagger R4
 weapon04_0012
+TBD
 Midnight Kris R4
 weapon04_0011
+TBD
 Midnight Kris R3
 weapon04_0011
+TBD
 Misericorde R4
 weapon04_0010
+TBD
 Misericorde R3
 weapon04_0010
+TBD
 Moonlight Kukri R4
 weapon04_0009
+TBD
 Moonlight Kukri R3
 weapon04_0009
+TBD
 Flame Knife R4
 weapon04_0008
+TBD
 Flame Knife R3
 weapon04_0008
+TBD
 Flame Knife R2
 weapon04_0008
+TBD
 Wind Dagger R4
 weapon04_0007
+TBD
 Wind Dagger R3
 weapon04_0007
+TBD
 Wind Dagger R2
 weapon04_0007
+TBD
 Assault Dagger R4
 weapon04_0006
+TBD
 Assault Dagger R3
 weapon04_0006
+TBD
 Assault Dagger R2
 weapon04_0006
+TBD
 Slash Machete R3
 weapon04_0005
+TBD
 Slash Machete R2
 weapon04_0005
+TBD
 Silver Kukri R3
 weapon04_0004
+TBD
 Silver Kukri R2
 weapon04_0004
+TBD
 Blue Knife R2
 weapon04_0003
+TBD
 Blue Knife R1
 weapon04_0003
+TBD
 Iron Knife R2
 weapon04_0002
+TBD
 Iron Knife R1
 weapon04_0002
+TBD
 Light Dagger R1
 weapon04_0001
+TBD
 Atlantis Sword R5
 weapon03_0053
+TBD
 Atlantis Sword R4
 weapon03_0053
+TBD
 Courage +1 R5
 weapon03_0052
+TBD
 Courage +1 R4
 weapon03_0052
+TBD
 Dazzling Blink R5
 weapon03_0051
+TBD
 Dazzling Blink R4
 weapon03_0051
+TBD
 Victory Fleuret R5
 weapon03_0048
+TBD
 Victory Fleuret R4
 weapon03_0048
+TBD
 Machinery Sword R5
 weapon03_0047
+TBD
 Machinery Sword R4
 weapon03_0047
+TBD
 Sword of Causality+1 R5
 weapon03_0046
+TBD
 Sword of Causality+1 R4
 weapon03_0046
+TBD
 Gemini Gradius+1 R5
 weapon03_0045
+TBD
 Gemini Gradius+1 R4
 weapon03_0045
+TBD
 Ocean Espada R5
 weapon03_0044
+TBD
 Ocean Espada R4
 weapon03_0044
+TBD
 Lily Main Gauche R5
 weapon03_0043
+TBD
 Lily Main Gauche R4
 weapon03_0043
+TBD
 Raijin R5
 weapon03_0042
+TBD
 Raijin R4
 weapon03_0042
+TBD
 Willowy Figure R5
 weapon03_0041
+TBD
 Willowy Figure R4
 weapon03_0041
+{-&
+TBD
 Fairy's Star R5
 weapon03_0040
+{-&
+TBD
 Fairy's Star R4
 weapon03_0040
+TBD
 Beach Stinger R5
 weapon03_0039
+TBD
 Beach Stinger R4
 weapon03_0039
+TBD
 Injection Rapier R5
 weapon03_0037
+TBD
 Injection Rapier R4
 weapon03_0037
+TBD
 Eternal Symphony R5
 weapon03_0036
+TBD
 Eternal Symphony R4
 weapon03_0036
+TBD
 Gemini Gradius R5
 weapon03_0035
+TBD
 Gemini Gradius R4
 weapon03_0035
+TBD
 Crested Espada R5
 weapon03_0034
+TBD
 Crested Espada R4
 weapon03_0034
+TBD
 Breeze of the Fortunate Pattern R5
 weapon03_0032
+TBD
 Breeze of the Fortunate Pattern R4
 weapon03_0032
+TBD
 Butterfly Rapier R5
 weapon03_0031
+TBD
 Butterfly Rapier R4
 weapon03_0031
+TBD
 Espada of Sword Dance R5
 weapon03_0030
+TBD
 Espada of Sword Dance R4
 weapon03_0030
+TBD
 Rusty Nail R5
 weapon03_0029
+TBD
 Rusty Nail R4
 weapon03_0029
+TBD
 Hexagramme R5
 weapon03_0028
+TBD
 Hexagramme R4
 weapon03_0028
+TBD
 Treat Hunter R5
 weapon03_0027
+TBD
 Treat Hunter R4
 weapon03_0027
+TBD
 Courage R5
 weapon03_0025
+TBD
 Courage R4
 weapon03_0025
+TBD
 Treasured Rapier R5
 weapon03_0024
+TBD
 Treasured Rapier R4
 weapon03_0024
+TBD
 Sword of Causality R5
 weapon03_0023
+TBD
 Sword of Causality R4
 weapon03_0023
+TBD
 Sunlight Rapier R5
 weapon03_0022
+TBD
 Sunlight Rapier R4
 weapon03_0022
+TBD
 Bloody Rapier R4
 weapon03_0021
+TBD
 Bloody Rapier R3
 weapon03_0021
+TBD
 Bloody Rapier R2
 weapon03_0021
+TBD
 Brilliant Fleuret R5
 weapon03_0020
+TBD
 Brilliant Fleuret R4
 weapon03_0020
+TBD
 Aquarius Edge R5
 weapon03_0019
+TBD
 Aquarius Edge R4
 weapon03_0019
+TBD
 Ventus Cyclone Sword R5
 weapon03_0018
+TBD
 Ventus Cyclone Sword R4
 weapon03_0018
+TBD
 Yellow Mangoesh R5
 weapon03_0016
+TBD
 Yellow Mangoesh R4
 weapon03_0016
+TBD
 Ritual Rapier R4
 weapon03_0014
+TBD
 Ritual Rapier R3
 weapon03_0014
+TBD
 Ritual Rapier R2
 weapon03_0014
+TBD
 Lambent Light R5
 weapon03_0012
+TBD
 Lambent Light R4
 weapon03_0012
+TBD
 Brave Rapier R4
 weapon03_0011
+TBD
 Brave Rapier R3
 weapon03_0011
+TBD
 Earth Dragon Stinger R4
 weapon03_0010
+TBD
 Earth Dragon Stinger R3
 weapon03_0010
+TBD
 Chivalrous Rapier R4
 weapon03_0009
+TBD
 Chivalrous Rapier R3
 weapon03_0009
+TBD
 Mithril Rapier R4
 weapon03_0008
+TBD
 Mithril Rapier R3
 weapon03_0008
+TBD
 Mithril Rapier R2
 weapon03_0008
+TBD
 Flame Rapier R4
 weapon03_0007
+TBD
 Flame Rapier R3
 weapon03_0007
+TBD
 Flame Rapier R2
 weapon03_0007
+TBD
 Annealed Rapier R4
 weapon03_0006
+TBD
 Annealed Rapier R3
 weapon03_0006
+TBD
 Annealed Rapier R2
 weapon03_0006
+TBD
 Epee Rapier R3
 weapon03_0005
+TBD
 Epee Rapier R2
 weapon03_0005
+TBD
 Stone Stinger R3
 weapon03_0004
+TBD
 Stone Stinger R2
 weapon03_0004
+TBD
 Steel Rapier R2
 weapon03_0003
+TBD
 Steel Rapier R1
 weapon03_0003
+TBD
 Iron Rapier R2
 weapon03_0002
+TBD
 Iron Rapier R1
 weapon03_0002
+TBD
 Small Rapier R1
 weapon03_0001
+TBD
 Dual Hydrangea Sword+1 R5
 weapon02_0027
+TBD
 Dual Hydrangea Sword+1 R4
 weapon02_0027
+TBD
 Enlightenment x Shadow Eliminator R5
 weapon02_0025
+TBD
 Enlightenment x Shadow Eliminator R4
 weapon02_0025
+TBD
 Demon's Blade 
 Bat Espada R5
 weapon02_0023
+TBD
 Demon's Blade 
 Bat Espada R4
 weapon02_0023
+{-&
+TBD
 Dual Galactic Lights R5
 weapon02_0022
+{-&
+TBD
 Dual Galactic Lights R4
 weapon02_0022
+TBD
 Inshore Sword x Offshore Sword R5
 weapon02_0021
+TBD
 Inshore Sword x Offshore Sword R4
 weapon02_0021
+TBD
 Dual Melodious Twins R5
 weapon02_0020
+TBD
 Dual Melodious Twins R4
 weapon02_0020
+TBD
 Dark Palm Sword & Denfare Slicer R5
 weapon02_0019
+TBD
 Dark Palm Sword & Denfare Slicer R4
 weapon02_0019
+TBD
 Elucidator & Dark Repulsor+1 R5
 weapon02_0018
+TBD
 Elucidator & Dark Repulsor+1 R4
 weapon02_0018
+TBD
 Elder Sword & Seeker Sword+1 R5
 weapon02_0017
+TBD
 Elder Sword & Seeker Sword+1 R4
 weapon02_0017
+TBD
 Dual Hydrangea Sword R5
 weapon02_0016
+TBD
 Dual Hydrangea Sword R4
 weapon02_0016
+TBD
 Elder Sword & Seeker Sword R5
 weapon02_0015
+TBD
 Elder Sword & Seeker Sword R4
 weapon02_0015
+TBD
 Holy Caliber & Jingle Blade R5
 weapon02_0014
+TBD
 Holy Caliber & Jingle Blade R4
 weapon02_0014
+TBD
 Solar Repulsor & Devil Silencer R5
 weapon02_0013
+TBD
 Solar Repulsor & Devil Silencer R4
 weapon02_0013
+TBD
 Unity Walks & Divination R5
 weapon02_0011
+TBD
 Unity Walks & Divination R4
 weapon02_0011
+TBD
 Shark's Bite R4
 weapon02_0010
+TBD
 Shark's Bite R3
 weapon02_0010
+TBD
 Shark's Bite R2
 weapon02_0010
+TBD
 Dual Frost Blades R4
 weapon02_0009
+TBD
 Dual Frost Blades R3
 weapon02_0009
+TBD
 Dual Frost Blades R2
 weapon02_0009
+TBD
 Dual Jagged Edges R4
 weapon02_0008
+TBD
 Dual Jagged Edges R3
 weapon02_0008
+TBD
 Dual Jagged Edges R2
 weapon02_0008
+TBD
 Elucidator & Dark Repulsor R5
 weapon02_0007
+TBD
 Elucidator & Dark Repulsor R4
 weapon02_0007
+TBD
 Dual Artisan's Swords R4
 weapon02_0006
+TBD
 Dual Artisan's Swords R3
 weapon02_0006
+TBD
 Q. Knightsword & B. Gemsword R4
 weapon02_0005
+TBD
 Q. Knightsword & B. Gemsword R3
 weapon02_0005
+TBD
 Q. Knightsword & B. Gemsword R2
 weapon02_0005
+TBD
 Dual Annealed Blades R4
 weapon02_0004
+TBD
 Dual Annealed Blades R3
 weapon02_0004
+TBD
 Dual Annealed Blades R2
 weapon02_0004
+TBD
 Slash & Silver Swords R3
 weapon02_0003
+TBD
 Slash & Silver Swords R2
 weapon02_0003
+TBD
 Dual Iron Swords 
 2 R2
 weapon02_0002
+TBD
 Dual Iron Swords 
 2 R1
 weapon02_0002
+TBD
 Dual Short Swords 
 2 R1
 weapon02_0001
+TBD
 Siderite Sword R5
 weapon01_0093
+TBD
 Siderite Sword R4
 weapon01_0093
+TBD
 Eternal Ice R5
 weapon01_0092
+TBD
 Eternal Ice R4
 weapon01_0092
+TBD
 Eternal Immortality R5
 weapon01_0091
+TBD
 Eternal Immortality R4
 weapon01_0091
+TBD
 Tea Time Saber +1 R5
 weapon01_0090
+TBD
 Tea Time Saber +1 R4
 weapon01_0090
+TBD
 Fragrant Olive Sword +1 R5
 weapon01_0089
+TBD
 Fragrant Olive Sword +1 R4
 weapon01_0089
+TBD
 Heroic Promise +1 R5
 weapon01_0088
+TBD
 Heroic Promise +1 R4
 weapon01_0088
+TBD
 Eradicate Saber R5
 weapon01_0087
+TBD
 Eradicate Saber R4
 weapon01_0087
+TBD
 Akatsuki R5
 weapon01_0083
+TBD
 Akatsuki R4
 weapon01_0083
+TBD
 Glorious Blade R5
 weapon01_0082
+TBD
 Glorious Blade R4
 weapon01_0082
+TBD
 Pumpkin Blade R5
 weapon01_0081
+TBD
 Pumpkin Blade R4
 weapon01_0081
+TBD
 Werewolf Fang R5
 weapon01_0080
+TBD
 Werewolf Fang R4
 weapon01_0080
+TBD
 Glass Sword+1 R5
 weapon01_0079
+TBD
 Glass Sword+1 R4
 weapon01_0079
+TBD
 Black Plate R4
 weapon01_0078
+TBD
 Black Plate R3
 weapon01_0078
+TBD
 Black Plate R2
 weapon01_0078
+TBD
 Silvery Blue Blade R4
 weapon01_0077
+TBD
 Silvery Blue Blade R3
 weapon01_0077
+TBD
 Silvery Blue Blade R2
 weapon01_0077
+TBD
 Golden Blade R4
 weapon01_0076
+TBD
 Golden Blade R3
 weapon01_0076
+TBD
 Golden Blade R2
 weapon01_0076
+TBD
 Exchange Sword R4
 weapon01_0075
+TBD
 Exchange Sword R3
 weapon01_0075
+TBD
 Exchange Sword R2
 weapon01_0075
+TBD
 Jolly Roger Sabre R5
 weapon01_0074
+TBD
 Jolly Roger Sabre R4
 weapon01_0074
+TBD
 Sea Horse Saber R5
 weapon01_0073
+TBD
 Sea Horse Saber R4
 weapon01_0073
+TBD
 Windcatcher R5
 weapon01_0072
+TBD
 Windcatcher R4
 weapon01_0072
+TBD
 Anchor's Sword R5
 weapon01_0070
+TBD
 Anchor's Sword R4
 weapon01_0070
+TBD
 Storm Slicer+1 R5
 weapon01_0069
+TBD
 Storm Slicer+1 R4
 weapon01_0069
+TBD
 Obsidian Sword+1 R5
 weapon01_0068
+TBD
 Obsidian Sword+1 R4
 weapon01_0068
+TBD
 Fisher's Sword R5
 weapon01_0067
+TBD
 Fisher's Sword R4
 weapon01_0067
+TBD
 Railways Sword R5
 weapon01_0066
+TBD
 Railways Sword R4
 weapon01_0066
+TBD
 Paraguas Sword R5
 weapon01_0065
+TBD
 Paraguas Sword R4
 weapon01_0065
+TBD
 June Blade R5
 weapon01_0063
+TBD
 June Blade R4
 weapon01_0063
+TBD
 Aries Gradius R5
 weapon01_0062
+TBD
 Aries Gradius R4
 weapon01_0062
+TBD
 Tea Time Saber R5
 weapon01_0061
+TBD
 Tea Time Saber R4
 weapon01_0061
+TBD
 Sakura Sword R5
 weapon01_0060
+TBD
 Sakura Sword R4
 weapon01_0060
+TBD
 Paired Blossoms R5
 weapon01_0059
+TBD
 Paired Blossoms R4
 weapon01_0059
+TBD
 Shining Nemesis R5
 weapon01_0058
+TBD
 Shining Nemesis R4
 weapon01_0058
+TBD
 Glass Sword R5
 weapon01_0057
+TBD
 Glass Sword R4
 weapon01_0057
+TBD
 Angel Claymore+1 R5
 weapon01_0056
+TBD
 Angel Claymore+1 R4
 weapon01_0056
+TBD
 Fisher's Sword+1 R5
 weapon01_0055
+TBD
 Fisher's Sword+1 R4
 weapon01_0055
+TBD
 Sword of Diva R4
 weapon01_0053
+TBD
 Sword of Diva R3
 weapon01_0053
+TBD
 Sword of Diva R2
 weapon01_0053
+TBD
 Heroic Promise R5
 weapon01_0051
+TBD
 Heroic Promise R4
 weapon01_0051
+TBD
 Chocolate Grater R5
 weapon01_0050
+TBD
 Chocolate Grater R4
 weapon01_0050
+TBD
 Fragrant Olive Sword R5
 weapon01_0049
+TBD
 Fragrant Olive Sword R4
 weapon01_0049
+TBD
 Blue Rose Sword R5
 weapon01_0048
+TBD
 Blue Rose Sword R4
 weapon01_0048
+TBD
 Draconic Blade of the end R5
 weapon01_0046
+TBD
 Draconic Blade of the end R4
 weapon01_0046
+TBD
 Passionate Gale R4
 weapon01_0045
+TBD
 Passionate Gale R3
 weapon01_0045
+TBD
 Passionate Gale R2
 weapon01_0045
+TBD
 Amenohohi R5
 weapon01_0044
+TBD
 Amenohohi R4
 weapon01_0044
+TBD
 Starry Night R4
 weapon01_0043
+TBD
 Starry Night R3
 weapon01_0043
+TBD
 Starry Night R2
 weapon01_0043
+TBD
 Angel Claymore R5
 weapon01_0041
+TBD
 Angel Claymore R4
 weapon01_0041
+TBD
 Mercury Edge R5
 weapon01_0038
+TBD
 Mercury Edge R4
 weapon01_0038
+TBD
 Miracle Bringer R4
 weapon01_0035
+TBD
 Miracle Bringer R3
 weapon01_0035
+TBD
 Miracle Bringer R2
 weapon01_0035
+TBD
 Freudeschwert R5
 weapon01_0034
+TBD
 Freudeschwert R4
 weapon01_0034
+TBD
 Ringing Blade R5
 weapon01_0033
+TBD
 Ringing Blade R4
 weapon01_0033
+TBD
 Eden's Edge R5
 weapon01_0032
+TBD
 Eden's Edge R4
 weapon01_0032
+TBD
 Supernova Friction R5
 weapon01_0029
+TBD
 Supernova Friction R4
 weapon01_0029
+TBD
 Tyrfing R5
 weapon01_0027
+TBD
 Tyrfing R4
 weapon01_0027
+TBD
 Storm Slicer R5
 weapon01_0026
+TBD
 Storm Slicer R4
 weapon01_0026
+TBD
 Frost Blade R4
 weapon01_0023
+TBD
 Frost Blade R3
 weapon01_0023
+TBD
 Frost Blade R2
 weapon01_0023
+TBD
 Infernal Sword R4
 weapon01_0022
+TBD
 Infernal Sword R3
 weapon01_0022
+TBD
 Infernal Sword R2
 weapon01_0022
+TBD
 Sword of Hogni R5
 weapon01_0021
+TBD
 Sword of Hogni R4
 weapon01_0021
+TBD
 Annealed Blade R4
 weapon01_0020
+TBD
 Annealed Blade R3
 weapon01_0020
+TBD
 Annealed Blade R2
 weapon01_0020
+TBD
 Invaria R5
 weapon01_0019
+TBD
 Invaria R4
 weapon01_0019
+TBD
 Classic Bound Tachi R5
 weapon01_0018
+TBD
 Classic Bound Tachi R4
 weapon01_0018
+TBD
 Obsidian Sword R5
 weapon01_0017
+TBD
 Obsidian Sword R4
 weapon01_0017
+TBD
 Tempest Sabre R5
 weapon01_0016
+TBD
 Tempest Sabre R4
 weapon01_0016
+TBD
 Ice Blade R4
 weapon01_0015
+TBD
 Ice Blade R3
 weapon01_0015
+TBD
 Carmine Katana R4
 weapon01_0014
+TBD
 Carmine Katana R3
 weapon01_0014
+TBD
 Artisan's Longsword R4
 weapon01_0013
+TBD
 Artisan's Longsword R3
 weapon01_0013
+TBD
 Moonlit Sword R4
 weapon01_0012
+TBD
 Moonlit Sword R3
 weapon01_0012
+TBD
 Gust Katana R4
 weapon01_0011
+TBD
 Gust Katana R3
 weapon01_0011
+TBD
 Gust Katana R2
 weapon01_0011
+TBD
 Mithril Sabre R4
 weapon01_0010
+TBD
 Mithril Sabre R3
 weapon01_0010
+TBD
 Mithril Sabre R2
 weapon01_0010
+TBD
 Brave Gemsword R4
 weapon01_0009
+TBD
 Brave Gemsword R3
 weapon01_0009
+TBD
 Brave Gemsword R2
 weapon01_0009
+TBD
 Queen's Knightsword R4
 weapon01_0008
+TBD
 Queen's Knightsword R3
 weapon01_0008
+TBD
 Queen's Knightsword R2
 weapon01_0008
+TBD
 Forest Sword R3
 weapon01_0007
+TBD
 Forest Sword R2
 weapon01_0007
+TBD
 Slash Sword R3
 weapon01_0006
+TBD
 Slash Sword R2
 weapon01_0006
+TBD
 Silver Sword R3
 weapon01_0005
+TBD
 Silver Sword R2
 weapon01_0005
+TBD
 Sable Sword R2
 weapon01_0004
+TBD
 Sable Sword R1
 weapon01_0004
+TBD
 Steel Falchion R2
 weapon01_0003
+TBD
 Steel Falchion R1
 weapon01_0003
+TBD
 Iron Sword R2
 weapon01_0002
+TBD
 Iron Sword R1
 weapon01_0002
+TBD
 Short Sword R1
 weapon01_0001

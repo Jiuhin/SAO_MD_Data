@@ -103,6 +103,7 @@ Limited Time
 text_limited
 Only your Commander can buy.
 text_attention_member
+Buy
 text_reflect
 Required Guild Col:
 text_guild_col_price
@@ -602,6 +603,7 @@ Materials
 button_material_item_text
 Boost
 button_boost_item_text
+All
 button_all_text
 Type
 title_text
@@ -611,6 +613,7 @@ Proceed to Next Quest?
 text_confirm
 Retreat
 text_button_close
+Try
 text_departures
 Edit
 text_edit_party
@@ -660,6 +663,7 @@ text_shikinkessaihou
 Do you want to skip this?
 text_confirm
 text_cancel
+Yes
 text_ok
 This cannot be changed later.
 text_attention_1
@@ -695,13 +699,16 @@ History Buy
 text_history_buy
 Shikinkessaihou
 text_shikinkessaihou
+Ask
 text_ask
 Tokusyouhou
 text_tokusyouhou
 The items in the package will be found in Gift Box.
 text_attention
+Buy
 text_buy
 text_cancel
+Yes
 text_accept
 permission
 text_attention_9
@@ -734,6 +741,7 @@ text_announcement_1
 Warning
 text_parental_confirm_title
 text_close
+Yes
 text_ok
 Unlimited
 text_price_limitation_2_0
@@ -1181,6 +1189,7 @@ Ticket Cost
 text_draw_eleven_consume_1
 Ticket Cost
 text_draw_once_consume_1
+Buy
 text_diamond_shop
 Diamond Cost
 text_draw_once_consume
@@ -1198,9 +1207,11 @@ Diamond Cost
 text_draw_once_consume
 Diamond Cost
 text_draw_eleven_consume
+Buy
 text_diamond_shop
 Do you want to buy another weapon?
 text_retry_confirm
+Buy
 text_diamond_shop
 Ticket Cost
 text_draw_eleven_consume_1
@@ -1218,6 +1229,7 @@ Details
 text_detail
 Do you want to scout again?
 text_retry_confirm
+Buy
 text_diamond_shop
 Ticket Cost
 text_draw_eleven_consume_1
@@ -1235,6 +1247,7 @@ Do you want to scout again?
 text_retry_confirm
 You got a Hacking Crystal!
 text_replace_item
+Buy
 text_diamond_shop
 Ticket Cost
 text_draw_eleven_consume_1
@@ -1252,6 +1265,7 @@ Do you want to scout again?
 text_retry_confirm
 Total Likes :
 text_total
+Buy
 text_diamond_shop
 All ({})
 text_event_all
@@ -1309,6 +1323,7 @@ You can not sell this item
 text_item_description
 Sell
 text_sell
+Use
 text_use
 Choose to use or sell Item
 text_info_stable
@@ -1324,6 +1339,7 @@ Select a character.
 text_description
 Close
 button_close_text
+Use
 button_ok_text
 Characters
 text_possession_character
@@ -1341,7 +1357,9 @@ Claim All
 text_receive_all
 You have no gifts.
 text_empty_gift_box
+pcs
 text_item_number
+pcs
 text_equipment_number
 You will lose all your rewards.
 Are you sure you want to retry?
@@ -1373,6 +1391,7 @@ Auto-approach enemies.
 text_auto_move_enemy
 Move Assist
 text_movement_helper
+Far
 text_far
 Near
 text_near
@@ -1497,6 +1516,7 @@ Support
 text_ask
 Terms of Sale
 text_tokusyouhou
+Buy
 text_buy
 Gift Box
 text_button_giftbox
@@ -1633,6 +1653,7 @@ System
 text_tab_select_system
 System
 text_tab_normal_system
+OFF
 text_guild_event_off
 text_guild_event_on
 Guild Event
@@ -1647,6 +1668,7 @@ Push Notifications
 text_push_notification
 Sound
 text_sound
+OFF
 text_cutin_dialogue_off
 Battle Cut in
 text_sub_title_cutin_dialogue
@@ -1660,6 +1682,7 @@ Auto-approach enemies.
 text_auto_move_enemy
 Move Assist
 text_movement_helper
+Far
 text_far
 Near
 text_near
@@ -1693,8 +1716,11 @@ Shieldblade
 text_shield
 Lance
 text_lance
+Rod
 text_rod
+Bow
 text_bow
+Gun
 text_gun
 Mace
 text_mace
@@ -1761,6 +1787,7 @@ text_retry
 Close
 text_close
 text_cancel
+Yes
 text_ok
 Depart
 text_go

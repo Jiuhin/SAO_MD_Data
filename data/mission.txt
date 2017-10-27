@@ -176,22 +176,29 @@ Complete "Earth Dragon Strikes Back (Expert)"
 Complete "Earth Dragon Strikes Back (Int.)"
 8026005,3,45
 Complete "Zerg the Flame Caller  (Master +1)" under 45 seconds.
++1?
 8026005,3
 Complete "Zerg the Flame Caller  (Master +1)" without down.
+/0?
 8026005
 Complete "Zerg the Flame Caller  (Master +1)"
+J/?
 3030012-3030013-3030014-3030015-3030016-3030017-3030018-3030019-3030020-3030021,50
 Defeat 50 of the Zerg the Flame Caller appeared in the current guild event. 
 8026004,3,45
 Complete "Zerg the Flame Caller  (Master)" under 45 seconds.
++-?
 8026004,3
 Complete "Zerg the Flame Caller  (Master)" without down.
+/,?
 8026004
 Complete "Zerg the Flame Caller  (Master)"
+/+?
 8026003
 Complete "Zerg the Flame Caller (EX)"
 8026002
 Complete "Zerg the Flame Caller (Expert)"
+/)?
 8026001
 Complete "Zerg the Flame Caller (Int.)"
 8025004,3,45
@@ -248,14 +255,19 @@ Complete "The Death in the Abyss (Expert)"
 Complete "The Death in the Abyss (Int.)"
 8024004,3,45
 Complete "Ceratodustail Strikes Back (Master)" under 45 seconds.
++e>
 8024004,3
 Complete "Ceratodustail Strikes Back (Master)" without down.
++d>
 8024003,3
 Complete "Ceratodustail Strikes Back (EX)" without down.
+/c>
 8024003
 Complete "Ceratodustail Strikes Back (EX)"
+/b>
 8024002
 Complete "Ceratodustail Strikes Back (Expert)"
+/a>
 8024001
 Complete "Ceratodustail Strikes Back (Int.)"
 8023004,3,45
@@ -290,6 +302,7 @@ Complete "Minotaurs' Treasury (Master +1)" in under 90 secs.
 Earn a score of 700,000 in "Most Dangerous Pair in SAO"
 802001,1300000
 Earn a score of 1,300,000 in "Most Dangerous Pair in SAO"
++s<
 8019004,3
 Complete "Unseasonable Dark Saint (Master)"  without down.
 8019004,3,60
@@ -298,10 +311,13 @@ Complete "Unseasonable Dark Saint (Master)" under 1 minute.
 Complete "Unseasonable Dark Saint (EX)" under 1 minute.
 8019003,3,6
 Complete "Unseasonable Dark Saint (EX)" with 6+ parries.
++o<
 8019003,3
 Complete "Unseasonable Dark Saint (EX)" without down.
+/n<
 8019002
 Complete "Unseasonable Dark Saint (Expert)"
+/m<
 8019001
 Complete "Unseasonable Dark Saint (Int.)"
 8018004,3
@@ -316,6 +332,7 @@ Complete "Halloween Returns (EX)" with 6+ parries.
 Complete "Halloween Returns (EX)" without down.
 8018002
 Complete "Halloween Returns (Exp.)"
+/	<
 8018001
 Complete "Halloween Returns (Int.)"
 8017004,3
@@ -356,10 +373,13 @@ Complete "Undead Dullahan (Master)" in under 1 minute.
 Complete "Undead Dullahan (EX)" in under 1 minute.
 8014003,3,6
 Complete "Undead Dullahan (EX)" with 6+ parries.
+>{:
 8014003,3,75
 Complete "Undead Dullahan (EX)" with a 75-hit combo.
+/z:
 8014002
 Complete "Undead Dullahan (Exp.)".
+/y:
 8014001
 Complete "Undead Dullahan (Int.)".
 8013004,3,100
@@ -390,6 +410,7 @@ Complete "Sinon Return Match (EX)" with a 75-hit combo.
 Complete "Sinon Return Match (Exp.)".
 8012001
 Complete "Sinon Return Match (Int.)".
+>S9
 8011003,3,100
 Complete "Return of the Mysterious Beast (EX)" with a 100-hit combo.
 8011003,3,60
@@ -398,10 +419,13 @@ Complete "Return of the Mysterious Beast (EX)" in under 1 minute.
 Complete "Return of the Mysterious Beast (Exp.)" in under 1 minute.
 8011003,3,6
 Complete "Return of the Mysterious Beast (EX)" with 6+ parries.
+>O9
 8011003,3,75
 Complete "Return of the Mysterious Beast (EX)" with a 75-hit combo.
+/N9
 8011002
 Complete "Return of the Mysterious Beast (Exp.)".
+/M9
 8011001
 Complete "Return of the Mysterious Beast (Int.)".
 8009003,3,100
@@ -420,22 +444,28 @@ Complete "Return of the Minotaurus (Exp.)".
 Complete "Return of the Minotaurus (Int.)".
 8008004,3,60
 The Storm Griffin: Complete "The Storm Griffin (Master)" in under 1 minute.
+/$8
 8008004
 Complete "The Storm Griffin (Master)"
 8008003
 Complete "The Storm Griffin (EX)"
+/"8
 8008002
 Complete "The Storm Griffin (Exp.)"
+/!8
 8008001
 Complete "The Storm Griffin (Int.)"
 8006004
 Return of the Storm Wyrm: Complete "Return of the Storm Wyrm (EX.)"
+/Z7
 8006002
 Return of the Storm Wyrm: Complete "Return of the Storm Wyrm (Expert)".
+/Y7
 8006001
 Return of the Storm Wyrm: Complete "Return of the Storm Wyrm (Int.)".
 7024005
 Complete "CM Character Introduction (?) (Master+1)"
+tEf
 7024004
 Complete "CM Character Introduction (?) (Master)"
 7024003
@@ -556,6 +586,7 @@ Defeat Eugeo at "Alicization (Master.)".
 Complete Character Introduction Quest Special Edition "Alicization (Master)" in under 1:15.
 7014004
 Complete Character Introduction Quest Special Edition "Alicization (Master)".
+YAf
 7014003
 Complete Character Introduction Quest Special Edition "Alicization (EX.)".
 7012005,1,3,2
@@ -612,12 +643,16 @@ Complete "The Order of the Immortal (Master+1) (Dark)" with a Multi Score of 2,5
 Complete "The Order of the Immortal (Master+1) (Holy)" with a Multi Score of 5,000,000 or higher.
 4902004,2,2500000
 Complete "The Order of the Immortal (Master+1) (Holy)" with a Multi Score of 2,500,000 or higher.
+Mxz
 4901007,2,5000000
 Complete "The Beast Lords in League Master+1(Holy)" with a Multi Score of 5,000,000 or higher.
+Mwz
 4901006,2,5000000
 Complete "The Beast Lords in League Master+1(Earth)" with a Multi Score of 5,000,000 or higher.
+Mvz
 4901005,2,5000000
 Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,000 or higher.
+Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
 4067026,1,60
@@ -636,6 +671,7 @@ Complete "The Mother-Daughter Bond (Master+1)"
 Complete "The Mother-Daughter Bond"
 4066001+4066002+4066003+4066004+4066005+4066006+4066007+4066008+4066009+4066010+4066011+4066012+4066013,1,1
 Complete all the 1-25F at the QT Point Clearing Event "The Two Headed Monster" with an S rank.
+E]4
 4066006+4066007+4066008+4066009+4066010+4066011+4066012+4066013,1,1
 Complete all the 11-25F at the QT Point Clearing Event "The Two Headed Monster" with an S rank.
 4066001+4066002+4066003+4066004+4066005,1,1
@@ -650,30 +686,43 @@ Complete the 15F at the QT Point Clearing Event "The Two Headed Monster" under 4
 Complete all the 10F at the QT Point Clearing Event "The Two Headed Monster" under 45 sec.
 4066002,1,45
 Complete the 4-5F at the QT Point Clearing Event "The Two Headed Monster" under 45 sec.
++V4
 4066013,1
 Complete the 25F at the QT Point Clearing Event "The Two Headed Monster" without down.
+EU4
 4066012,1,1
 Complete the 23-24F at the QT Point Clearing Event "The Two Headed Monster" with an S rank.
+<T4
 4066011,1,6,1
 Complete the 21F-22F at the QT Point Clearing Event "The Two Headed Monster" with  at least one gun character.
+ER4
 4066010,1,1
 Complete the 19F-20F at the QT Point Clearing Event "The Two Headed Monster" with an S rank.
+<Q4
 4066009,1,4,1
 Complete the 16-18F at the QT Point Clearing Event "The Two Headed Monster" with at least one dagger character.
++P4
 4066008,1
 Complete the 15F at the QT Point Clearing Event "The Two Headed Monster" without down.
+<O4
 4066007,1,5,1
 Complete the 13-14F at the QT Point Clearing Event "The Two Headed Monster" with at least one mace character.
+EN4
 4066006,1,1
 Complete the 11-12F at the QT Point Clearing Event "The Two Headed Monster" with an S rank.
++M4
 4066005,1
 Complete the 10F at the QT Point Clearing Event "The Two Headed Monster" without down.
+<L4
 4066004,1,3,1
 Complete the 8-9F at the QT Point Clearing Event "The Two Headed Monster" with at least one rapier character.
+EK4
 4066003,1,1
 Complete the 6-7F at the QT Point Clearing Event "The Two Headed Monster" with an S rank.
++J4
 4066002,1
 Complete the 4-5F at the QT Point Clearing Event "The Two Headed Monster" without down.
+EI4
 4066001,1,1
 Complete the 1-3F at the QT Point Clearing Event "The Two Headed Monster" with an S rank.
 4065025,2,90
@@ -758,36 +807,50 @@ Complete "The Revenant (Master+1)"
 Complete "The Revenant"
 4058015,1,60
 Complete "Proof of Strong Bonds (Master +2)" under 1 min.
+:11
 405801,200000
 Earn a score of 200,000 in Assault! Proof of Strong Bonds
+:01
 405801,500000
 Earn a score of 500,000 in Assault! Proof of Strong Bonds
+:/1
 405801,1000000
 Earn a score of 1,000,000 in Assault! Proof of Strong Bonds
+:.1
 405801,1500000
 Earn a score of 1,500,000 in Assault! Proof of Strong Bonds
+:-1
 405801,2400000
 Earn a score of 2,400,000 in Assault! Proof of Strong Bonds
+:,1
 405801,3000000
 Earn a score of 3,000,000 in Assault! Proof of Strong Bonds
+:+1
 405801,3600000
 Earn a score of 3,600,000 in Assault! Proof of Strong Bonds
 4058014
 Complete "Proof of Strong Bonds Master +1"
+/)1
 4058009
 Complete "Proof of Strong Bonds"
+Lh5
 4057025,2,2160010,5000
 Complete "PIRATES of ALO (Master +1)" keeping more than 50% of HP of each Crystal
+Kh5
 4057024,2,2160009,5000
 Complete "PIRATES of ALO (Master)" keeping more than 50% of HP of each Crystal
+Jh5
 4057023,2,2160008,5000
 Complete "PIRATES of ALO (EX)" keeping more than 50% of HP of each Crystal
 4057024
 Complete "PIRATES of ALO (Master)". 
+Lh5
 4055025,2,45
 Complete "Premiere's Summer Festival (Master +1)" under 45 Sec.
+Kh5
 4055025
 Complete "Premiere's Summer Festival (Master+1)". 
+Jh5
 4055024,2,45
 Complete "Premiere's Summer Festival (Master)" under 45 Sec.
 4055024,2,60
@@ -840,6 +903,7 @@ Complete "The Tale of Two Stars (Master+1)" under 90 second.
 Complete "The Tale of Two Stars (EX)" under 1 minute.
 4051024,2,60
 Complete "The Tale of Two Stars (Master)" under 1 minute.
+/m.
 4051024
 Complete "The Tale of Two Stars (Master)"
 4050026,1,60
@@ -870,6 +934,7 @@ Earn a score of 3,000,000 in Idol Singer
 Earn a score of 3,200,000 in Idol Singer
 4050029
 Complete "Idol Singer (Wind, Fire, Holy) (Master+1)".
+/	.
 4050021
 Complete "Idol Singer (Wind, Fire, Holy) (Int.)".
 4049001+4049002+4049003+4049004+4049005+4049006+4049007+4049008+4049009+4049010+4049011+4049012+4049013+4049014,1,1
@@ -916,40 +981,58 @@ Complete the 6-7F at the QT Point Clearing Event "PIRATES of ALO" with an S rank
 Complete the 4-5F at the QT Point Clearing Event "PIRATES of ALO" without down.
 4049001,1,1
 Complete the 1-3F at the QT Point Clearing Event "PIRATES of ALO" with an S rank.
+:P-
 404803,300000
 Earn a score of 300,000 in The Sacred treasure in the Sea Bonus Ranking
+:O-
 404803,500000
 Earn a score of 500,000 in The Sacred treasure in the Sea Bonus Ranking
+:N-
 404803,1000000
 Earn a score of 1,000,000 in The Sacred treasure in the Sea Bonus Ranking
+:M-
 404803,1500000
 Earn a score of 1,500,000 in The Sacred treasure in the Sea Bonus Ranking
+:L-
 404803,2700000
 Earn a score of 2,700,000 in The Sacred treasure in the Sea Bonus Ranking
+:K-
 404803,3500000
 Earn a score of 3,500,000 in The Sacred treasure in the Sea Bonus Ranking
+:J-
 404803,6500000
 Earn a score of 6,500,000 in The Sacred treasure in the Sea Bonus Ranking
+:I-
 404801,400000
 Earn a score of 400,000 in The Sacred treasure in the Sea
+:H-
 404801,700000
 Earn a score of 700,000 in The Sacred treasure in the Sea
+:G-
 404801,1000000
 Earn a score of 1,000,000 in The Sacred treasure in the Sea
+:F-
 404801,1700000
 Earn a score of 1,700,000 in The Sacred treasure in the Sea
+:E-
 404801,3000000
 Earn a score of 3,000,000 in The Sacred treasure in the Sea
+:D-
 404801,4000000
 Earn a score of 4,000,000 in The Sacred treasure in the Sea
+:C-
 404801,7000000
 Earn a score of 7,000,000 in The Sacred treasure in the Sea
+/B-
 4048019
 Complete "The Sacred treasure in the Sea (Master+1)".
+/A-
 4048010
 Complete "Sail Out Again" 
+/z,
 4046024
 Complete "Lives drawn in the Virtual World (Master)".
+/y,
 4046021
 Complete "Lives drawn in the Virtual World (Int.)".
 404501,750000
@@ -964,12 +1047,16 @@ Complete "Battle Royal of AR Newbies (Int.)".
 Complete "Rainbow after the Rain (Master)" under 1 minute.
 4044024
 Complete "Rainbow after the Rain (Master)"
+:Q+
 404301,2000000
 Earn a score of 2,000,000 in "Bridal Competition" event.
+:O+
 404301,5000000
 Earn a score of 5,000,000 in "Bridal Competition" event.
+/N+
 4043030
 Complete "Bridal Competition (Master+1)".
+/M+
 4043022
 Complete "Bridal Competition (Int.)".
 404201,1500000
@@ -1004,10 +1091,13 @@ Earn a score of 1,600,000 in the "PopStarOnline part2" event.
 Earn a score of 2,100,000 in the "PopStarOnline part2" event.
 4039008
 Complete 《Frustration》.
+/[)
 4038009
 Complete "Get up Nerve in virtual World"
+/Z)
 4038013
 Complete "A Monster Deep in the Mountains (Master)"
+/Y)
 4038008
 Complete "A Monster Deep in the Mountains"
 403701,1000000
@@ -1028,6 +1118,7 @@ Complete "A witch to destroy Fairyland (Master+1)"
 Complete "A witch to destroy Fairyland"
 4035024,2,60
 Complete "Longing for Sailor Suit (Master)" in under 1 minute.
+/-(
 4035024
 Complete "Longing for Sailor Suit (Master)" .
 4034025,2,50
@@ -1044,6 +1135,7 @@ Complete "Stars Orbit the Hopes of Another World (Master)".
 Complete "PopStarOnline part1 (Master)" with a 30-hit combo or higher.
 4032011,1,6
 Complete "PopStarOnline part1 (EX)" with 6+ parries.
+<	'
 4032011,1,1,2
 Complete "PopStarOnline part1 (EX)" with at least two sword characters.
 403201,200000
@@ -1070,6 +1162,7 @@ Complete "Demon Conquerors (Master)".
 Complete "Demon Conquerors".
 4030024,2,60
 Complete "The stage and a cat fairy. (Master)" in under 1 minute.
+/9&
 4030024
 Complete "The stage and a cat fairy. (Master)".
 402901,1600000
@@ -1088,10 +1181,13 @@ Earn a score of 1,200,000 in the "OS Episode 0" Raning event.
 Complete "Samurai Soul".
 4022007
 Complete "Queen of Chef (Master)
+/S"
 4020010
 Complete "Closing Party".
+/R"
 4020014
 Complete "Final Battle (Master)".
+/Q"
 4020009
 Complete "Final Battle".
 4008009
@@ -1130,6 +1226,7 @@ Complete "Equipment Creation (Dagger, Rod)" at Equipment Creation Event
 Complete "Equipment Creation (Rapier, Bow)" at Equipment Creation Event
 4001091
 Complete "Equipment Creation (Sword, Dual Blades)" at Equipment Creation Event
+100
 Parry 100 times in total while on quests.
 Parry 50 times in total while on quests.
 Parry 30 times in total while on quests.
@@ -1192,6 +1289,7 @@ Complete quests 50 times on hard difficulty.
 Complete quests 30 times on hard difficulty.
 2,10
 Complete quests 10 times on hard difficulty.
+1,2
 [Unlock Feature] Complete 2 quests in single-player mode on normal.
 Use a Col Boost.
 Use an EXP Boost.
@@ -1246,24 +1344,33 @@ Complete chapter 3.
 Complete chapter 2.
 1001
 Complete chapter 1.
+300
 Scout characters 300 times.
+200
 Scout characters 200 times.
+150
 Scout characters 150 times.
+100
 Scout characters 100 times.
 Scout characters 50 times.
 Scout characters 20 times.
 Scout characters 10 times.
 Scout characters 3 times.
 Scout 1 character.
+300
 Buy 300 weapons.
+200
 Buy 200 weapons.
+150
 Buy 150 weapons.
+100
 Buy 100 weapons.
 Buy 50 weapons.
 Buy 20 weapons.
 Buy 10 weapons.
 Buy 3 weapons.
 Buy 1 weapon.
+100
 Reach user rank 100.
 Reach user rank 90.
 Reach user rank 80.
@@ -1298,30 +1405,51 @@ Follow 5 players.
 Follow 1 player.
 Log in for a total of 14 days.
 Log in for a total of 7 days.
+365
 Log in for a total of 365 days.
+350
 Log in for a total of 350 days.
+300
 Log in for a total of 300 days.
+250
 Log in for a total of 250 days.
+200
 Log in for a total of 200 days.
+100
 Log in for a total of 100 days.
 Log in for a total of 50 days.
 Log in for a total of 30 days.
+365
 Log in for a total of 365 days.
+350
 Log in for a total of 350 days.
+300
 Log in for a total of 300 days.
+250
 Log in for a total of 250 days.
+200
 Log in for a total of 200 days.
+100
 Log in for a total of 100 days.
 Log in for a total of 50 days.
 Log in for a total of 30 days.
+500
 Log in for a total of 500 days.
+450
 Log in for a total of 450 days.
+400
 Log in for a total of 400 days.
+365
 Log in for a total of 365 days.
+350
 Log in for a total of 350 days.
+300
 Log in for a total of 300 days.
+250
 Log in for a total of 250 days.
+200
 Log in for a total of 200 days.
+100
 Log in for a total of 100 days.
 Log in for a total of 50 days.
 Log in for a total of 30 days.

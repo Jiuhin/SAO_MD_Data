@@ -40,6 +40,7 @@ Genius Artist's Paint
 Raises stats for
 [Genius Creator] Yuuki
 Artist's Paint
+L>2
 Raises stats for
 [Genius Creator] Yuuki
 Paint
@@ -85,6 +86,7 @@ Girl's Treats (Great Favorite)
 Raises stats for
 [Hide-and-seek Girl] Sphica
 Girl's Treats (Favorite)
+L>2
 Raises stats for
 [Hide-and-seek Girl] Sphica
 Girl's Treats
@@ -130,6 +132,7 @@ Cookware for great chef
 Raises stats for
 [Queen of chef] Rechka
 Cookware for chef
+L>2
 Raises stats for
 [Queen of chef] Rechka
 Cookware for assistant
@@ -175,6 +178,7 @@ Fire Fox Mystic Mask
 Raises stats for
 [Foxy Priestess] Silica
 White and Black Fox Mask
+L>2
 Raises stats for
 [Foxy Priestess] Silica
 Half Fox Mask
@@ -220,6 +224,7 @@ New Year's Cuisine: Exquisite
 Raises stats for
 [Bringer of Spring] Lisbeth
 New Year's Cuisine: Fine
+L>2
 Raises stats for
 [Bringer of Spring] Lisbeth
 New Year's Cuisine: Standard
@@ -265,6 +270,7 @@ Holy Chef's Crystal
 Raises stats for
 [Made with Love] Asuna
 Chef's Crystal
+L>2
 Raises stats for
 [Made with Love] Asuna
 Chef's Shard
@@ -310,6 +316,7 @@ Yuletide Gift (L)
 Raises stats for
 [Happy Memories] Sachi
 Yuletide Gift (M)
+L>2
 Raises stats for
 [Happy Memories] Sachi
 Yuletide Gift (S)
@@ -355,6 +362,7 @@ Hard Worker's Bloom
 Raises stats for
 [Pure-Hearted Warrior of Flora] Sinon
 Hard Worker's Seedling
+L>2
 Raises stats for
 [Pure-Hearted Warrior of Flora] Sinon
 Hard Worker's New Bud
@@ -400,6 +408,7 @@ Lunker Fishing Rod
 Raises stats for
 [The Fisherman] Sima
 Big Fishing Rod
+L>2
 Raises stats for
 [The Fisherman] Sima
 Fishing Rod
@@ -445,6 +454,7 @@ Holy Jubilee Crystal
 Raises stats for
 [Rejoicing Witch] Leafa
 Jubilee Crystal
+L>2
 Raises stats for
 [Rejoicing Witch] Leafa
 Jubilee Shard
@@ -490,6 +500,7 @@ Card Key (Yellow)
 Raises stats for
 [Captive Princess] Asuna
 Card Key (Red)
+L>2
 Raises stats for
 [Captive Princess] Asuna
 Card Key (Blue)
@@ -535,6 +546,7 @@ Familial Love Holy Crystal
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Crystal
+L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
@@ -695,6 +707,7 @@ Platinum Ingot
 Upgrades rarity level 3
 equipment.
 Gold Ingot
+pA"
 Upgrades rarity level 2
 equipment.
 Iron Ingot
@@ -799,21 +812,27 @@ MP Crystal
 Raises HP.
 Rarity: Medium
 HP Crystal
+L>2
 Raises skill level.
 Rarity: Low
 Skill Shard
+L>2
 Raises critical hit rate.
 Rarity: Low
 Critical Shard
+L>2
 Raises defense.
 Rarity: Low
 Defense Shard
+L>2
 Raises attack.
 Rarity: Low
 Attack Shard
+L>2
 Raises MP.
 Rarity: Low
 MP Shard
+L>2
 Raises HP.
 Rarity: Low
 HP Shard

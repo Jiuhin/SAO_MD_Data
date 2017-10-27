@@ -1,5 +1,6 @@
 Who cares
 anymore?!
+OK!
 I'll go to the right!
 I'll go to the left!
 The right is dangerous!
@@ -12,6 +13,7 @@ Congrats!
 Let's do this!
 Who cares
 anymore?!
+OK!
 I'll go to the right!
 I'll go to the left!
 The right is dangerous!
@@ -30,6 +32,7 @@ I'll go to the left!
 Target the enemy!
 I'll take tank duty!
 It's party time!
+OK!
 Thanks!
 Let's do this!
 Listen up!

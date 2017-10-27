@@ -70,12 +70,14 @@ Character Introduction: Kirito
 Event Story
 The Pristine Floating Castle
 Floor :100
+1K?
 イベントストーリー
 荒野に咲く花々
 戦う理由
 イベントストーリー
 荒野に咲く花々
 強さの訳
+iJ?
 イベントストーリー
 荒野に咲く花々
 最深部で手に入れたもの
@@ -84,11 +86,14 @@ Floor :100
 GGOをプレイする理由
 イベントストーリー
 荒野に咲く花々
+狙う先
 イベントストーリー
 荒野に咲く花々
 契約と遊び
 イベントストーリー
 荒野に咲く花々
+RMT
+uH?
 イベントストーリー
 荒野に咲く花々
 プレイヤーを助けるかわりに…
@@ -98,6 +103,7 @@ GGOをプレイする理由
 イベントストーリー
 荒野に咲く花々
 機関銃の使い手は?
+IG?
 イベントストーリー
 荒野に咲く花々
 レア発掘品を求めて
@@ -179,21 +185,26 @@ Halloween continues
 Event Story
 The Malefic Star of the Magic Citadel
 Actual Castle Demon
+M09
 Event Story
 The Malefic Star of the Magic Citadel
 The Malefic Star of the Magic Citadel
+!/9
 Event Story
 The Malefic Star of the Magic Citadel
 Monster Train
 Event Story
 The Malefic Star of the Magic Citadel
 Strategy
+!/9
+Y.9
 Event Story
 The Malefic Star of the Magic Citadel
 Rapid Shift
 Event Story
 The Malefic Star of the Magic Citadel
 Urdr's Answer
+Y.9
 Event Story
 The Malefic Star of the Magic Citadel
 The World with Sacred Treasures
@@ -203,12 +214,15 @@ The World with Sacred Treasures
 Event Story
 The Malefic Star of the Magic Citadel
 Unpleasant Sensation
+--9
+--9
 Event Story
 The Malefic Star of the Magic Citadel
 Unpleasant Sensation
 Event Story
 The Malefic Star of the Magic Citadel
 Castle Demon
+e,9
 Event Story
 The Malefic Star of the Magic Citadel
 Gone Aincrad 
@@ -257,12 +271,14 @@ Heathcliff's Intentions
 Event Story
 Arianrhod in the Past
 Growth
+E"6
 Event Story
 Arianrhod in the Past
 Tank for Two
 Event Story
 Arianrhod in the Past
 Beat Yourself
+}!6
 Event Story
 Arianrhod in the Past
 Talent and Potential
@@ -272,6 +288,7 @@ The First Step
 Event Story
 Arianrhod in the Past
 Before the Battle
+Q 6
 Event Story
 Arianrhod in the Past
 The Encounter with Him
@@ -434,6 +451,7 @@ Premiere's Confidence
 Event Story
 Premiere's Summer Festival
 Kagura Dance
+It+
 Event Story
 Premiere's Summer Festival
 Kagura of Goddess
@@ -449,6 +467,7 @@ Premiere's Curiosity
 Event Story
 Premiere's Summer Festival
 Hotshot Strea
+Ur+
 Event Story
 Premiere's Summer Festival
 No fights!
@@ -458,6 +477,7 @@ Mini Quest
 Event Story
 Premiere's Summer Festival
 Committee Activity
+)q+
 Event Story
 Premiere's Summer Festival
 Help out!
@@ -503,12 +523,14 @@ Summer Feature
 Event Story
 The Tale of Two Stars
 Captive Heroine
+-Z%
 Event Story
 The Tale of Two Stars
 Special Strategy
 Event Story
 The Tale of Two Stars
 Rescue Kirito
+eY%
 Event Story
 The Tale of Two Stars
 Stubborn Old Man
@@ -518,12 +540,14 @@ Power of Star
 Event Story
 The Tale of Two Stars
 Each Role
+9X%
 Event Story
 The Tale of Two Stars
 Do Not Open
 Event Story
 The Tale of Two Stars
 Memories in the Cabin
+qW%
 Event Story
 The Tale of Two Stars
 Married Couple Role
@@ -533,6 +557,7 @@ Big Snake's Bride
 Event Story
 The Tale of Two Stars
 The Legend of Vega and Altair
+EV%
 Event Story
 The Tale of Two Stars
 Collaboration Event
@@ -664,6 +689,7 @@ No rules! Battle royale of AR newbies
 Real Fight
 Event Story
 No rules! Battle royale of AR newbies
+PvP
 Event Story
 No rules! Battle royale of AR newbies
 Rule and Manner
@@ -2469,6 +2495,7 @@ The girl wakes up. Her name is Yui, and she
 lovingly calls Asuna and Kirito Mommy and
 Daddy. All three of them enjoy breakfast
 around the table as a family.
+Yui
 Kirito and Asuna rule out the girl being an
 NPC, figuring chances are high she's a player.
 Fearing for her health, Kirito and Asuna hope
@@ -2666,6 +2693,7 @@ the nocturnal dragon has come home to roost!
 The Hole
 Having somehow survived the fall into the
 dragon's pit, Liz thanks Kirito for saving
+her
 only to be shocked when Kirito attempts
 to run up the sides of the pit to escape.
 X'rphan the White Wyrm

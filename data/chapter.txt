@@ -160,6 +160,7 @@ Sport Festival
 Event
 The Two Headed Monster
 Event
+The
 Battle of Castle Demon
 Event
 The Malefic Star of the Magic Citadel
@@ -300,6 +301,7 @@ Bullet of Bullets
 Crimson Memories
 Showdown in the Wilderness
 Guns and Swords
+GGO
 Memories of Fresh Blood
 Ice Sniper
 The World of Guns
