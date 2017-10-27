@@ -1,8 +1,8 @@
-Pn	
-,f	
-TN	
-,F	
-D$	
+pc	
+H[	
+4E	
+h?	
+,9	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -1233,6 +1233,8 @@ wait
 ground
 dead
 bullet_6001_photon_arrow
+dead
+bullet_5039_duck_splash
 dead
 bullet_5037_falling_flag_2
 dead
