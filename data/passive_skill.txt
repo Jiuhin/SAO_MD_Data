@@ -69,6 +69,8 @@ Attack UP in Next Guild Event
 hp_up
 [D]クリティカル時にHPが600回復する
 [D]クリティカル時HP600回復
+ブレイクダメージ率が1000%増加する
+ブレイクダメージ率+1000%
 [D]クリティカルなし
 [D]クリティカルなし
 Increases damage by 100% vs Water-elem. enemies  
@@ -695,18 +697,32 @@ Increases HP by 6% when using two swords.
 HP +6% (Dual Blades)
 Increases HP by 6% when using a sword.
 HP +6% (Swords)
+土属性のキャラからのダメージが80%増加する
+[敵専用] 土属性からの被ダメ80%増加
 Increases damage received by 50% from Earth-elem. characters.
 [enemy] Increase damage received by 50% (Earth)
+土属性のキャラからのダメージが40%増加する
+[敵専用] 土属性からの被ダメ40%増加
+土属性のキャラからのダメージが30%増加する
+[敵専用] 土属性からの被ダメ30%増加
+土属性のキャラからのダメージが20%増加する
+[敵専用] 土属性からの被ダメ20%増加
 Reduces damage from Earth-elem. enemies.
 Earth Resistance
 Reduces critical damage from Dark-elem. enemies. (10%)
 [enemy] Dark Skill Damage (-10%)
 Reduces skill damage from Dark-elem. enemies. (10%)
 [enemy] Dark Skill Damage (-10%)
+闇属性のキャラからのダメージが80%増加する
+[敵専用] 闇属性からの被ダメ80%増加
 Increase damage received by 50% from Dark-elem. characters.
 [enemy] Increase damage received by 50% (Dark)
+闇属性のキャラからのダメージが40%増加する
+[敵専用] 闇属性からの被ダメ30%増加
 Reduces damage from Dark-elem. enemies. (30%)
 [enemy] Dark Resistance (30%)
+闇属性のキャラからのダメージが20%増加する
+[敵専用] 闇属性からの被ダメ20%増加
 Reduces damage from Dark-elem. enemies. (50%)
 [enemy] Dark Resistance (50%)
 Reduces damage from Dark-elem. enemies. (45%)
@@ -715,32 +731,54 @@ Reduces damage from Dark-elem. enemies.
 Dark Resistance
 Reduces damage from Dark-elem. enemies. (45%)
 Dark Resistance (45%)
+聖属性のキャラからのダメージが80%増加する
+[敵専用] 聖属性からの被ダメ80%増加
 Increase damage received by 50% from Holy-elem. characters.
 [enemy] Increase damage received by 50% (Holy)
+聖属性のキャラからのダメージが40%増加する
+[敵専用] 聖属性からの被ダメ40%増加
 Increase damage received by 30% from Holy-elem. characters.
 [enemy] Increase damage received by 30% (Holy)
+聖属性のキャラからのダメージが20%増加する
+[敵専用] 聖属性からの被ダメ20%増加
 Increase damage received by 45% from Holy-elem. characters.
 [enemy] Reduce damage received by 45% (Holy)
 Reduces damage from Holy-elem. enemies.
 Holy Resistance
+風属性のキャラからのダメージが80%増加する
+[敵専用] 風属性からの被ダメ80%増加
 Increase damage received by 50% from Wind-elem. characters.
 [enemy] Increase damage received by 50% (Wind)
 Increase damage received by 40% from Wind-elem. characters.
 [enemy] Increase damage received by 40% (Wind)
 Increase damage received by 30% from Wind-elem. characters.
 [enemy] Increase damage received by 30% (Wind)
+風属性のキャラからのダメージが20%増加する
+[敵専用] 風属性からの被ダメ20%増加
 Reduces damage from Wind-elem. enemies.
 Wind Resistance
+水属性のキャラからのダメージが80%増加する
+[敵専用] 水属性からの被ダメ80%増加
 Increase damage received by 50% from Water-elem. characters.
 [enemy] Increase damage received by 50% (Water)
+水属性のキャラからのダメージが40%増加する
+[敵専用] 水属性からの被ダメ40%増加
 Increase damage received by 30% from Water-elem. characters.
 [enemy] Increase damage received by 30% (Water)
+水属性のキャラからのダメージが20%増加する
+[敵専用] 水属性からの被ダメ20%増加
 Reduces damage from Water-elem. enemies.
 Water Resistance
+火属性のキャラからのダメージが80%増加する
+[敵専用] 火属性からの被ダメ80%増加
 Increase damage received by 50% from Fire-elem. characters.
 [enemy] Increase damage received by 50% (Fire)
+火属性のキャラからのダメージが40%増加する
+[敵専用] 火属性からの被ダメ40%増加
 Increase damage received by 30% from Fire-elem. characters.
 [enemy] Increase damage received by 30% (Fire)
+火属性のキャラからのダメージが20%増加する
+[敵専用] 火属性からの被ダメ20%増加
 Reduces damage from Fire-elem. enemies.
 Fire Resistance
 Increase damage received by 50% from characters.
@@ -749,12 +787,16 @@ Increase damage received by 20% from characters.
 [enemy] Increase damage received by 20%
 Reduce skill damage received by 10% from Non-elem. characters.
 [enemy] Reduce skill damage received by 10% (Non-elem)
+無属性のキャラからのダメージが80%増加する
+[敵専用] 無属性からの被ダメ80%増加
 Increase damage received by 50% from Non-elem. characters.
 [enemy] Increase damage received by 50% (Non-elem)
 Reduce damage received by 40% from Non-elem. characters.
 [enemy] Reduce damage received by 40% (Non-elem)
 Reduce damage received by 30% from Non-elem. characters.
 [enemy] Reduce damage received by 30% (Non-elem)
+無属性のキャラからのダメージが20%増加する
+[敵専用] 無属性からの被ダメ20%増加
 Reduce damage received by 55% from Non-elem. characters.
 [enemy] Reduce damage received by 55% (Non-elem)
 Reduce damage received by 50% from Non-elem. characters.

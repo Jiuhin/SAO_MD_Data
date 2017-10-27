@@ -226,6 +226,7 @@ head
 weapon
 enemy_144_slime
 enemy_144_slime
+weapon_effect
 enemy_133_the_toxic_rhinoceros
 shoulder_l
 weapon

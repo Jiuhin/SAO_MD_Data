@@ -249,6 +249,16 @@ Character Story
 Character Story
 [Cool-Headed Sniper] Sinon Lv.10
 Character Story
+[Sniper in Love] Sinon  Lv.80
+Character Story
+[Sniper in Love] Sinon  Lv.70
+Character Story
+[Sniper in Love] Sinon  Lv.50
+Character Story
+[Sniper in Love] Sinon  Lv.30
+Character Story
+[Sniper in Love] Sinon  Lv.10
+Character Story
 [Spider Witch] Sinon  Lv.80
 Character Story
 [Spider Witch] Sinon  Lv.70
@@ -1378,6 +1388,16 @@ Character Story
 [Storm Mage] Leafa Lv.30
 Character Story
 [Storm Mage] Leafa Lv.10
+Character Story
+[Swordsman in the Wilderness] Kirito Lv.80
+Character Story
+[Swordsman in the Wilderness] Kirito Lv.70
+Character Story
+[Swordsman in the Wilderness] Kirito Lv.50
+Character Story
+[Swordsman in the Wilderness] Kirito Lv.30
+Character Story
+[Swordsman in the Wilderness] Kirito Lv.10
 Character Story
 [Strong Mind] Klein Lv.80
 Character Story

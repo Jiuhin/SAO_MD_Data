@@ -1750,6 +1750,7 @@ wakeup
 wait
 stun
 step
+HDfx
 skill_183103
 skill_182101
 skill_181101
@@ -1935,6 +1936,7 @@ dead
 dash
 damage
 charge_old
+"D.,
 charge
 back_step
 attack_3
@@ -2022,6 +2024,7 @@ down
 dead
 dash
 damage
+"Drl
 charge_old
 charge
 back_step
@@ -2289,7 +2292,9 @@ down
 dead
 dash
 damage
+"DNT
 charge_old
+"D:V
 charge
 back_step
 attack_3
@@ -2499,6 +2504,7 @@ wakeup
 wait
 stun
 step
+skill_163113
 skill_161201
 skill_161102
 skill_161101

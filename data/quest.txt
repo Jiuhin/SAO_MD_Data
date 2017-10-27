@@ -2035,38 +2035,14 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
-不死の身体を持つドミナント・デュラハン
-一定ダメージを与え、倒れた隙に
-weak pointの背中にスキルを叩き込め!!
-タイムアップまで生存
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack
+their back as they fall over! 
+Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 8
-結集せし不死騎士団 絶級+1 (闇)
-不死の身体を持つドミナント・デュラハン
-一定ダメージを与え、倒れた隙に
-weak pointの背中にスキルを叩き込め!!
-タイムアップまで生存
-Quest
-bg_thumbnail_8006
-Quest 7
-結集せし不死騎士団 絶級 (闇)
-不死の身体を持つドミナント・デュラハン
-一定ダメージを与え、倒れた隙に
-weak pointの背中にスキルを叩き込め!!
-タイムアップまで生存
-Quest
-bg_thumbnail_8006
-Quest 6
-結集せし不死騎士団 超級 (闇)
-不死の身体を持つドミナント・デュラハン
-一定ダメージを与え、倒れた隙に
-weak pointの背中にスキルを叩き込め!!
-タイムアップまで生存
-Quest
-bg_thumbnail_8006
-Quest 5
-結集せし不死騎士団 上級 (闇)
+The Order of the Immortal (Master +1) (Dark)
 Dominant Dullahan the immortal. 
 Deal a lot of damage and attack
 their back as they fall over! 
@@ -2074,7 +2050,7 @@ Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 4
-The Order of the Immortal (Master +1)
+The Order of the Immortal (Master +1) (Holy)
 Dominant Dullahan the immortal. 
 Deal a lot of damage and attack
 their back as they fall over! 
@@ -10730,38 +10706,14 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
-不死の身体を持つドミナント・デュラハン
-一定ダメージを与え、倒れた隙に
-weak pointの背中にスキルを叩き込め!!
-タイムアップまで生存
+Dominant Dullahan the immortal. 
+Deal a lot of damage and attack
+their back as they fall over! 
+Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 8
-結集せし不死騎士団 絶級+1 (闇)
-不死の身体を持つドミナント・デュラハン
-一定ダメージを与え、倒れた隙に
-weak pointの背中にスキルを叩き込め!!
-タイムアップまで生存
-Quest
-bg_thumbnail_8006
-Quest 7
-結集せし不死騎士団 絶級 (闇)
-不死の身体を持つドミナント・デュラハン
-一定ダメージを与え、倒れた隙に
-weak pointの背中にスキルを叩き込め!!
-タイムアップまで生存
-Quest
-bg_thumbnail_8006
-Quest 6
-結集せし不死騎士団 超級 (闇)
-不死の身体を持つドミナント・デュラハン
-一定ダメージを与え、倒れた隙に
-weak pointの背中にスキルを叩き込め!!
-タイムアップまで生存
-Quest
-bg_thumbnail_8006
-Quest 5
-結集せし不死騎士団 上級 (闇)
+The Order of the Immortal (Master +1) (Dark)
 Dominant Dullahan the immortal. 
 Deal a lot of damage and attack
 their back as they fall over! 
@@ -10769,7 +10721,7 @@ Survive until the end of time
 Quest
 bg_thumbnail_8006
 Quest 4
-The Order of the Immortal (Master +1)
+The Order of the Immortal (Master +1) (Holy)
 Dominant Dullahan the immortal. 
 Deal a lot of damage and attack
 their back as they fall over! 

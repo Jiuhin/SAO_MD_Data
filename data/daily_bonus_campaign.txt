@@ -43,7 +43,9 @@ New Weapon Bonus
 Special Login Bonus
 Special Login Bonus
 Special Login Bonus
+p	<Y
 Special Login Bonus
+:Yo	<Y
 Special Login Bonus
 pf9Y
 Special Login Bonus
