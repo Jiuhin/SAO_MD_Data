@@ -550,6 +550,12 @@ L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
+You can do the Colored Leaf  Gold Medal Scout.
+Colored Leaf Gold Medal
+You can do the Colored Leaf  Silver Medal Scout.
+Colored Leaf Silver Medal
+You can do the Colored Leaf  Bronze Medal Scout.
+Colored Leaf Bronze Medal
 You can do the Halloween Gold Medal Scout.
 Halloween Gold Medal
 You can do the Halloween Silver Medal Scout.
@@ -602,6 +608,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_emerald
+You can attain at the "Steamy Beauty Bath Time"
+Steamy Beauty Bath Time Record Crystal
+item_m_record_crystal_emerald
 You can attain at the "Baton of Friendship! Sports Festival Scout"
 Sports Festival Record Crystal
 item_m_record_crystal_emerald
@@ -622,6 +631,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain at the "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20005
+Raises Strea's level cap.
+([Abounding Spring Water] Strea only) 
+Rarity: High
+Colored Leaf Upgrade Crystal
 item_m_evolution_20004
 Raises Leafa's level cap.
 ([Rejoicing Witch] Leafa only) 
@@ -747,6 +761,9 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
+Raises Strea's level cap. ([Abounding Spring Water] Strea only) 
+Rarity: High
+Colored Leaf Hacking Crystal
 Raises Heathcliff's level cap. ([Holy Sword] Heathcliff only) 
 Rarity: High
 Cross Swords Hacking Crystal

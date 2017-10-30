@@ -2879,6 +2879,36 @@ Dual Wield Skill Lv. 2
 slot_skill_icon_job_2
 Raises attack and crit. rate by 50
 Dual Wield Skill Lv. 1
+slot_skill_icon_job_2
+Raises attack and crit. rate by 500
+Dual Wield Skill Lv. 10
+slot_skill_icon_job_2
+Raises attack and crit. rate by 450
+Dual Wield Skill Lv. 9
+slot_skill_icon_job_2
+Raises attack and crit. rate by 400
+Dual Wield Skill Lv. 8
+slot_skill_icon_job_2
+Raises attack and crit. rate by 350
+Dual Wield Skill Lv. 7
+slot_skill_icon_job_2
+Raises attack and crit. rate by 300
+Dual Wield Skill Lv. 6
+slot_skill_icon_job_2
+Raises attack and crit. rate by 250
+Dual Wield Skill Lv. 5
+slot_skill_icon_job_2
+Raises attack and crit. rate by 200
+Dual Wield Skill Lv. 4
+slot_skill_icon_job_2
+Raises attack and crit. rate by 150
+Dual Wield Skill Lv. 3
+slot_skill_icon_job_2
+Raises attack and crit. rate by 100
+Dual Wield Skill Lv. 2
+slot_skill_icon_job_2
+Raises attack and crit. rate by 50
+Dual Wield Skill Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 20%
 Battle Skill 3 Transform Lv. 2

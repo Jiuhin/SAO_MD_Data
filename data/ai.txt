@@ -1,4 +1,6 @@
-LM	
+Xp	
+(B	
+T(	
 zD,
 pAF
 pAF
@@ -90,9 +92,10 @@ pA<
 右から左に進む(手前側)
 左から右に進む(奥側)
 右から左に進む(奥側)
-L>c
-L>c
+pAc
 pA	
+L>c
+L>c
 pAb
 4Bc
 L>c

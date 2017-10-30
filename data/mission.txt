@@ -20,6 +20,14 @@ Korean Ver is Released! Special Character Present!
 Complete OS Episode 0 "Someone's Requiem"
 Skill Slot material present!
 Join a Guild
+9015004
+Complete "SAO Game Complete Memorial Quest Floor 1: Dungeon" with charaters (rarity 2- only)
+9015003,1,12004
+Complete "SAO Game Complete Memorial Quest Floor 74: Dungeon" keeping Corvatz
+9015002
+Complete "SAO Game Complete Memorial Quest Floor 74: Kamdet" without being parried
+9015001,1,2
+Complete "SAO Game Complete Memorial Quest Floor 1: Dungeon" with charaters (rarity 2- only)
 9014001+9014002+9014003+9014004+9014005+9014006+9014007+9014008+9014009+9014010+9014011+9014012+9014013+9014014+9014015+9014016+9014017+9014018+9014019+9014020+9014021+9014022+9014023+9014024+9014025+9014026+9014027+9014028+9014029+9014030,1,1
 Complete all the 30 kinds of "All Star Quest" with an S rank.
 9014001+9014002+9014003+9014004+9014005+9014006+9014007+9014008+9014009+9014010+9014011+9014012+9014013+9014014+9014015+9014016+9014017+9014018+9014019+9014020+9014021+9014022+9014023+9014024+9014025+9014026+9014027+9014028+9014029+9014030,1,4
@@ -122,6 +130,26 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+8029005,3,45
+Complete "The Abyss Rhinoceros Strikes Back (Master +1)" with guild members in Multi under 45 seconds.
+8029004,3,45
+Complete "The Abyss Rhinoceros Strikes Back (Master)" with guild members in Multi under 45 seconds.
+8029003,3
+Complete "The Abyss Rhinoceros Strikes Back (EX)" with guild members in Multi.
+2100050-2100051-2100052-2100053-2100054-2100055-2100056-2100057-2100058-2100059,50
+Defeat 50 of The Abyss Rhinoceros in the guild. 
+8029004,3,45
+Complete "The Abyss Rhinoceros Strikes Back (Master)" under 45 seconds.
+8029004,3
+Complete "The Abyss Rhinoceros Strikes Back (Master)" without down.
+8029003,3
+Complete "The Abyss Rhinoceros Strikes Back (EX)" without down.
+8029003
+Complete "The Abyss Rhinoceros Strikes Back (EX)"
+8029002
+Complete "The Abyss Rhinoceros Strikes Back (Expert)"
+8029001
+Complete "The Abyss Rhinoceros Strikes Back (Int.)"
 8028016
 Complete "The Raging Outcasts "Watermelon Devil" (Outcast Class)"
 8028015

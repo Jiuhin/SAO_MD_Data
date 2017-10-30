@@ -1,3 +1,18 @@
+lO/
+hlk
+TBD
+Hot Spring Headband R4
+accessory01_0052
+kO/
+lO/
+TBD
+Hot Spring Headband R3
+accessory01_0052
+jO/
+kO/
+TBD
+Hot Spring Headband R2
+accessory01_0052
 bO/
 TBD
 Team-up Headband R4
@@ -434,6 +449,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+Hot Spring Bathtowel R4
+armor03_0067
+TBD
+Hot Spring Bathtowel R3
+armor03_0067
+TBD
+Hot Spring Bathtowel R2
+armor03_0067
 TBD
 Gym Clothes in Youth R4
 armor03_0066
@@ -1035,6 +1059,12 @@ armor01_0001
 TBD
 Steel Chest Plate R1
 armor01_0001
+TBD
+Sanctified Beauteous Spear R5
+weapon09_0015
+TBD
+Sanctified Beauteous Spear R4
+weapon09_0015
 TBD
 Leo Hastam +1 R5
 weapon09_0014
@@ -1882,6 +1912,12 @@ TBD
 Small Mace R1
 weapon05_0001
 TBD
+Red Lacquer Sword R5
+weapon04_0052
+TBD
+Red Lacquer Sword R4
+weapon04_0052
+TBD
 Carnwennan R5
 weapon04_0051
 TBD
@@ -2144,6 +2180,12 @@ weapon04_0002
 TBD
 Light Dagger R1
 weapon04_0001
+TBD
+Holy Flower Rapier R5
+weapon03_0054
+TBD
+Holy Flower Rapier R4
+weapon03_0054
 TBD
 Atlantis Sword R5
 weapon03_0053
@@ -2591,6 +2633,12 @@ TBD
 Dual Short Swords 
 2 R1
 weapon02_0001
+TBD
+Teal Blue Sword R5
+weapon01_0095
+TBD
+Teal Blue Sword R4
+weapon01_0095
 TBD
 Siderite Sword R5
 weapon01_0093

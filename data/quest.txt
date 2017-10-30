@@ -1,5 +1,25 @@
 Defeat All Enemies
 Quest
+bg_thumbnail_2029
+Quest 4
+N/A
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 3
+N/A
+Defeat All Enemies
+Quest
+bg_thumbnail_2021
+Quest 2
+N/A
+Defeat All Enemies
+Quest
+bg_thumbnail_2005
+Quest 1
+N/A
+Defeat All Enemies
+Quest
 bg_thumbnail_2023
 Quest 30
 Day 30 Faroff Fencer (Master)
@@ -889,6 +909,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 5
+The Abyss Rhinoceros Strikes Back (Master +1)
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 4
+The Abyss Rhinoceros Strikes Back (Master)
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 3
+The Abyss Rhinoceros Strikes Back (EX)
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 2
+The Abyss Rhinoceros Strikes Back (Expert)
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 1
+The Abyss Rhinoceros Strikes Back (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_8010
@@ -3816,6 +3881,174 @@ Story
 bg_thumbnail_0
 Story 1
 Gone Aincrad 
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 6-2
+Rival War! - in quest of secluded hot springs - Master +2
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 6-1
+Rival War! - in quest of secluded hot springs - Master +2
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 5-2
+Rival War! - in quest of secluded hot springs - Master +1
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 5-1
+Rival War! - in quest of secluded hot springs - Master +1
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 4-2
+Rival War! - in quest of secluded hot springs - Master
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 4-1
+Rival War! - in quest of secluded hot springs - Master
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 3-2
+Rival War! - in quest of secluded hot springs - EX
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 3-1
+Rival War! - in quest of secluded hot springs - EX
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 2-2
+Rival War! - in quest of secluded hot springs - Expert
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 2-1
+Rival War! - in quest of secluded hot springs - Expert
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 1-2
+Rival War! - in quest of secluded hot springs - Int.
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 1-1
+Rival War! - in quest of secluded hot springs - Int.
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Peaceful Coexistence Hot Spring
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Reconciliation with Monkeys
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Conversation with Monkeys
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Silica's Secret Plan
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Monkey Control
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Attack
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Hidden Hotsprings
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+In Search of Hotsprings
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Monkey Tribe
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Planned Site 
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Lack of Charm
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+City Development
 "Kagachi the Samurai Lord" comes 
 and attacks with the second sword! 
 Figure out their attack pattern and 
@@ -7199,7 +7432,7 @@ ferocious attacks against you. Dodge them
 and continue the Grand Quest!
 Defeat All Enemies
 Quest
-bg_thumbnail_2001
+bg_thumbnail_3009
 Quest 15
 Guardian Rush (Expert +1)
 At long last, you've made it inside the
@@ -7208,7 +7441,7 @@ ferocious attacks against you. Dodge them
 and continue the Grand Quest!
 Defeat All Enemies
 Quest
-bg_thumbnail_2001
+bg_thumbnail_3009
 Quest 14
 Guardian Rush (Expert)
 At long last, you've made it inside the
@@ -8697,6 +8930,26 @@ Quest 1-1
 Horunka
 Defeat All Enemies
 Quest
+bg_thumbnail_2029
+Quest 4
+N/A
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 3
+N/A
+Defeat All Enemies
+Quest
+bg_thumbnail_2021
+Quest 2
+N/A
+Defeat All Enemies
+Quest
+bg_thumbnail_2005
+Quest 1
+N/A
+Defeat All Enemies
+Quest
 bg_thumbnail_2023
 Quest 30
 Day 30 Faroff Fencer (Master)
@@ -9586,6 +9839,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 5
+The Abyss Rhinoceros Strikes Back (Master +1)
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 4
+The Abyss Rhinoceros Strikes Back (Master)
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 3
+The Abyss Rhinoceros Strikes Back (EX)
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 2
+The Abyss Rhinoceros Strikes Back (Expert)
+"The Abyss Rhinoceros" runs wild.
+They go more violent as their tail
+get totally damaged.
+Get prepared and strike them with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Quest 1
+The Abyss Rhinoceros Strikes Back (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_8010
@@ -12513,6 +12811,174 @@ Story
 bg_thumbnail_0
 Story 1
 Gone Aincrad 
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 6-2
+Rival War! - in quest of secluded hot springs - Master +2
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 6-1
+Rival War! - in quest of secluded hot springs - Master +2
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 5-2
+Rival War! - in quest of secluded hot springs - Master +1
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 5-1
+Rival War! - in quest of secluded hot springs - Master +1
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 4-2
+Rival War! - in quest of secluded hot springs - Master
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 4-1
+Rival War! - in quest of secluded hot springs - Master
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 3-2
+Rival War! - in quest of secluded hot springs - EX
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 3-1
+Rival War! - in quest of secluded hot springs - EX
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 2-2
+Rival War! - in quest of secluded hot springs - Expert
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 2-1
+Rival War! - in quest of secluded hot springs - Expert
+The Camanideel Ape with the
+secondary element (Wind-elem.) responds with
+anger after having their territory overrun. 
+Make them down to avoid their drumming and strike them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 1-2
+Rival War! - in quest of secluded hot springs - Int.
+The Camanideel Ape with the 
+secondary element (Dark-elem.) responds with 
+anger after having their territory overrun. 
+Defeat them before their drumming ends!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 1-1
+Rival War! - in quest of secluded hot springs - Int.
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Peaceful Coexistence Hot Spring
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Reconciliation with Monkeys
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Conversation with Monkeys
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Silica's Secret Plan
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Monkey Control
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Attack
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Hidden Hotsprings
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+In Search of Hotsprings
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Monkey Tribe
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Planned Site 
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Lack of Charm
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+City Development
 "Kagachi the Samurai Lord" comes 
 and attacks with the second sword! 
 Figure out their attack pattern and 
@@ -15896,7 +16362,7 @@ ferocious attacks against you. Dodge them
 and continue the Grand Quest!
 Defeat All Enemies
 Quest
-bg_thumbnail_2001
+bg_thumbnail_3009
 Quest 15
 Guardian Rush (Expert +1)
 At long last, you've made it inside the
@@ -15905,7 +16371,7 @@ ferocious attacks against you. Dodge them
 and continue the Grand Quest!
 Defeat All Enemies
 Quest
-bg_thumbnail_2001
+bg_thumbnail_3009
 Quest 14
 Guardian Rush (Expert)
 At long last, you've made it inside the

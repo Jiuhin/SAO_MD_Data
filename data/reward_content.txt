@@ -37,20 +37,43 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+!$m:H
+「勝負の行方」の解放
+m:G
+「一か八か」の解放
+m:F
+「最終決戦!!」の解放
+"m:E
+「オリジナルの役」の解放
+"m:D
+「リベンジ・マッチ」の解放
+-"m:C
+「黒いマントの…」の解放
+!m:B
+「ハイド ＆ コレクト」の解放
+e!m:A
+「風林火山ご一行」の解放
+!m:
+「カード集め」の解放
+m:?
+「ポーカー対決」の解放
+9 m:>
+「無敵設定？」の解放
+「巨大迷路出現！」の解放
 l:䑕
-「戦う理由」の解放
+Reasons to fight
 l:㑕
-「強さの訳」の解放
-「最深部で手に入れたもの」の解放
-「GGOをプレイする理由」の解放
-「狙う先」の解放
-「契約と遊び」の解放
-「RMT」の解放
-「プレイヤーを助けるかわりに…」の解放
-「嵐の前の静けさ」の解放
-「機関銃の使い手は?」の解放
-「レア発掘品を求めて」の解放
-「再びGGOへ」の解放
+Secret of Strength
+In the deepest part
+Reasons to play GGO
+Target
+Contract and Play
+RMT
+Instead of saving players...
+The Calm Before the Storm
+Who's the shooter?
+In Search of Rare Find
+GGO again
 Peaceful Coexistence Hot Spring
 Reconciliation with Monkeys
 Conversation with Monkeys
@@ -411,6 +434,12 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+kO/
+Hot Spring Headband R3
+jO/
+Hot Spring Headband R2
+Hot Spring Bathtowel R3
+Hot Spring Bathtowel R2
 Silverthread Armor R4
 Col Boost (2x) x1
 EXP Boost (2x) x1
@@ -700,9 +729,9 @@ Memory Diamond x25
 	8Ws
 Colored Leaf Upgrade Crystal x1
 	8Vs
-Colored Leaf  Gold Medal x2
+Colored Leaf Gold Medal x2
 	8Us
-Colored Leaf  Gold Medal x1
+Colored Leaf Gold Medal x1
 	8Ts
 Legendary Secluded Hot Springs
 	8Ss
@@ -835,6 +864,24 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+紅蓮の切り札 記録結晶
+5]Y
+紅蓮の切り札 記録結晶
+紅蓮の切り札 記録結晶
+5[Y
+紅蓮の切り札 記録結晶
+5ZY
+紅蓮の切り札 記録結晶
+5YY
+紅蓮の切り札 記録結晶
+5XY
+紅蓮の切り札 記録結晶
+5WY
+紅蓮の切り札 記録結晶
+5VY
+紅蓮の切り札 記録結晶
+5UY
+紅蓮の切り札 記録結晶
 Steamy Beauty Bath Time Record Crystal x10
 Steamy Beauty Bath Time Record Crystal x9
 Steamy Beauty Bath Time Record Crystal x8
@@ -1925,6 +1972,131 @@ Defense Shard x20
 Attack Shard x20
 MP Shard x20
 HP Shard x20
+2{G
+Assault Team: Dungeon Assault (Top 100)
+2{G
+EXP Hi-Potion x5
+2{G
+Skill Shard x20
+2{G
+Critical Shard x20
+2{G
+Defense Shard x20
+2{G
+Attack Shard x20
+2{G
+MP Shard x20
+2{G
+HP Shard x20
+2{G
+Memory Diamond x5
+2zG
+Assault Team: Dungeon Assault (Top 50)
+2zG
+EXP Hi-Potion x5
+2zG
+Col x30000
+2zG
+Memory Diamond x5
+2zG
+Colored Leaf Bronze Medal x5
+2zG
+Colored Leaf Silver Medal x5
+2zG
+Colored Leaf Gold Medal x2
+2yG
+Assault Team: Dungeon Assault (Top 20)
+2yG
+EXP X-Potion x5
+2yG
+Col x50000
+2yG
+Memory Diamond x5
+2yG
+Colored Leaf Upgrade Crystal x1
+2yG
+Colored Leaf Bronze Medal x10
+2yG
+Colored Leaf Silver Medal x5
+2yG
+Colored Leaf Gold Medal x4
+2xG
+Assault Team: Dungeon Assault (Top 10)
+2xG
+EXP X-Potion x5
+2xG
+Col x100000
+2xG
+Memory Diamond x5
+2xG
+Colored Leaf Upgrade Crystal x2
+2xG
+Colored Leaf Bronze Medal x10
+2xG
+Colored Leaf Silver Medal x5
+2xG
+Colored Leaf Gold Medal x6
+2wG
+Assault Team: Dungeon Assault (3rd)
+2wG
+Rainbow Essence x1
+2wG
+EXP X-Potion x5
+2wG
+Col x200000
+2wG
+Memory Diamond x5
+2wG
+Colored Leaf Upgrade Crystal x3
+2wG
+Colored Leaf Bronze Medal x10
+2wG
+Colored Leaf Silver Medal x10
+2wG
+Colored Leaf Gold Medal x11
+2vG
+Assault Team: Dungeon Assault (2nd)
+2vG
+Rainbow Essence x1
+2vG
+EXP X-Potion x5
+2vG
+Col x300000
+2vG
+Memory Diamond x5
+2vG
+Colored Leaf Upgrade Crystal x3
+2vG
+Colored Leaf Bronze Medal x10
+2vG
+Colored Leaf Silver Medal x10
+2vG
+Colored Leaf Gold Medal x13
+2uG
+Assault Team: Dungeon Assault (1st)
+2uG
+Rainbow Essence x2
+2uG
+EXP X-Potion x5
+2uG
+Col x500000
+2uG
+Memory Diamond x5
+2uG
+Colored Leaf Upgrade Crystal x4
+2uG
+Colored Leaf Bronze Medal x10
+2uG
+Colored Leaf Silver Medal x10
+2uG
+Colored Leaf Gold Medal x16
+EXP Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
 Assault Team: Sports Festival (Top 100)
 EXP Hi-Potion x5
 Skill Shard x20
@@ -2184,9 +2356,9 @@ Memory Diamond x5
 2"E
 Colored Leaf Bronze Medal x5
 2"E
-Colored Leaf  Silver Medal x5
+Colored Leaf Silver Medal x5
 2"E
-Colored Leaf  Gold Medal x2
+Colored Leaf Gold Medal x2
 2!E
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 20)
@@ -2201,9 +2373,9 @@ Colored Leaf Upgrade Crystal x1
 2!E
 Colored Leaf Bronze Medal x10
 2!E
-Colored Leaf  Silver Medal x5
+Colored Leaf Silver Medal x5
 2!E
-Colored Leaf  Gold Medal x4
+Colored Leaf Gold Medal x4
 2 E
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (Top 10)
@@ -2218,9 +2390,9 @@ Colored Leaf Upgrade Crystal x2
 2 E
 Colored Leaf Bronze Medal x10
 2 E
-Colored Leaf  Silver Medal x5
+Colored Leaf Silver Medal x5
 2 E
-Colored Leaf  Gold Medal x6
+Colored Leaf Gold Medal x6
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (3rd)
 Rainbow Essence x1
@@ -2229,8 +2401,8 @@ Col x200000
 Memory Diamond x5
 Colored Leaf Upgrade Crystal x3
 Colored Leaf Bronze Medal x10
-Colored Leaf  Silver Medal x10
-Colored Leaf  Gold Medal x11
+Colored Leaf Silver Medal x10
+Colored Leaf Gold Medal x11
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (2nd)
 Rainbow Essence x1
@@ -2239,8 +2411,8 @@ Col x300000
 Memory Diamond x5
 Colored Leaf Upgrade Crystal x3
 Colored Leaf Bronze Medal x10
-Colored Leaf  Silver Medal x10
-Colored Leaf  Gold Medal x13
+Colored Leaf Silver Medal x10
+Colored Leaf Gold Medal x13
 Assault Team: Rival War!
 - in quest of secluded hot springs -  (1st)
 Rainbow Essence x2
@@ -2249,8 +2421,8 @@ Col x500000
 Memory Diamond x5
 Colored Leaf Upgrade Crystal x4
 Colored Leaf Bronze Medal x10
-Colored Leaf  Silver Medal x10
-Colored Leaf  Gold Medal x16
+Colored Leaf Silver Medal x10
+Colored Leaf Gold Medal x16
 Assault Team: Assault! The Revenant (Top 100)
 Skill Shard x20
 Critical Shard x20
@@ -7093,11 +7265,11 @@ Bat Earring R2
 Pumpkin Dress R3
 Pumpkin Dress R2
 Colored Leaf Upgrade Crystal x1
-Colored Leaf  Gold Medal x1
-Colored Leaf  Silver Medal x5
-Colored Leaf  Silver Medal x3
-Colored Leaf  Silver Medal x2
-Colored Leaf  Silver Medal x1
+Colored Leaf Gold Medal x1
+Colored Leaf Silver Medal x5
+Colored Leaf Silver Medal x3
+Colored Leaf Silver Medal x2
+Colored Leaf Silver Medal x1
 Colored Leaf Bronze Medal x5
 Colored Leaf Bronze Medal x3
 Colored Leaf Bronze Medal x2

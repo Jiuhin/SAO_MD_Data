@@ -70,46 +70,82 @@ Character Introduction: Kirito
 Event Story
 The Pristine Floating Castle
 Floor :100
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+勝負の行方
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+一か八か
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+最終決戦!!
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+オリジナルの役
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+リベンジ・マッチ
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+黒いマントの…
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+ハイド ＆ コレクト
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+風林火山ご一行
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+カード集め
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+ポーカー対決
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+無敵設定？
+イベントストーリー
+迷宮攻略 バトル＆ポーカー
+巨大迷路出現！
 1K?
-イベントストーリー
-荒野に咲く花々
-戦う理由
-イベントストーリー
-荒野に咲く花々
-強さの訳
+Event Story
+Flowers in the Wilderness
+Reasons to fight
+Event Story
+Flowers in the Wilderness
+Secret of Strength
 iJ?
-イベントストーリー
-荒野に咲く花々
-最深部で手に入れたもの
-イベントストーリー
-荒野に咲く花々
-GGOをプレイする理由
-イベントストーリー
-荒野に咲く花々
-狙う先
-イベントストーリー
-荒野に咲く花々
-契約と遊び
-イベントストーリー
-荒野に咲く花々
+Event Story
+Flowers in the Wilderness
+In the deepest part
+Event Story
+Flowers in the Wilderness
+Reasons to play GGO
+Event Story
+Flowers in the Wilderness
+Target
+Event Story
+Flowers in the Wilderness
+Contract and Play
+Event Story
+Flowers in the Wilderness
 RMT
 uH?
-イベントストーリー
-荒野に咲く花々
-プレイヤーを助けるかわりに…
-イベントストーリー
-荒野に咲く花々
-嵐の前の静けさ
-イベントストーリー
-荒野に咲く花々
-機関銃の使い手は?
+Event Story
+Flowers in the Wilderness
+Instead of saving players...
+Event Story
+Flowers in the Wilderness
+The Calm Before the Storm
+Event Story
+Flowers in the Wilderness
+Who's the shooter?
 IG?
-イベントストーリー
-荒野に咲く花々
-レア発掘品を求めて
-イベントストーリー
-荒野に咲く花々
-再びGGOへ
+Event Story
+Flowers in the Wilderness
+In Search of Rare Find
+Event Story
+Flowers in the Wilderness
+GGO again
 Event Story
 The Mother-Daughter Bond
 The Mother Daughter Bond

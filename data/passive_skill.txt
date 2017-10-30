@@ -737,7 +737,7 @@ Reduces skill damage from Dark-elem. enemies. (10%)
 Increase damage received by 50% from Dark-elem. characters.
 [enemy] Increase damage received by 50% (Dark)
 闇属性のキャラからのダメージが40%増加する
-[敵専用] 闇属性からの被ダメ30%増加
+[enemy] Dark Resistance (30%)
 Reduces damage from Dark-elem. enemies. (30%)
 [enemy] Dark Resistance (30%)
 闇属性のキャラからのダメージが20%増加する

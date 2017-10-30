@@ -38,6 +38,22 @@ images/event/4001/4001_01_top_monday.png
 images/event/4001/4001_01_banner_monday.png
 images/event/4001/4001_01_banner_monday.png
 Mon. Defense
+images/event/9015/9015_top.png
+images/event/9015/9015_banner.png
+images/event/9015/9015_banner.png
+N/A
+images/event/9015/9015_top.png
+images/event/9015/9015_banner.png
+images/event/9015/9015_banner.png
+N/A
+images/event/9015/9015_top.png
+images/event/9015/9015_banner.png
+images/event/9015/9015_banner.png
+N/A
+images/event/9015/9015_top.png
+images/event/9015/9015_banner.png
+images/event/9015/9015_banner.png
+N/A
 images/event/9014/9014_top.png
 images/event/9014/9014_banner.png
 images/event/9014/9014_banner.png
@@ -178,6 +194,10 @@ images/event/9002/9002_top_2017.png
 images/event/9002/9002_banner_2017.png
 images/event/9002/9002_banner_2017.png
 Asuna's Birthday Quest 2017
+images/event/8029/8029_top.png
+images/event/8029/8029_banner.png
+images/event/8029/8029_banner.png
+The Abyss Rhinoceros Strikes Back
 images/event/8028/8028_top.png
 images/event/8028/8028_banner.png
 images/event/8028/8028_banner.png
@@ -420,6 +440,16 @@ images/event/4064/4064_top.png
 images/event/4064/4064_banner.png
 images/event/4064/4064_banner.png
 The Malefic Star of the Magic Citadel
+Medal Scout
+images/event/4063/4063_top.png
+images/event/4063/4063_banner.png
+images/event/4063/4063_banner.png
+[Ended] Rival War! - in quest of secluded hot springs 
+Medal Scout
+images/event/4063/4063_top.png
+images/event/4063/4063_banner.png
+images/event/4063/4063_banner.png
+Rival War! - in quest of secluded hot springs 
 images/event/4062/event_item_4062.png
 images/event/4062/4062_top.png
 images/event/4062/4062_banner.png

@@ -390,6 +390,10 @@ Jump up high as swinging up a spear and unleash the dark force of the spear towa
 Demons Spear
 Demons Spear
 skill_icon_lance_3_{}
+A combination skill. Activate a damage canceling barrier and move high up, then drop rubber duck bombs.
+Maple Leaf Dance
+Maple Leaf Dance
+skill_icon_lance_3_{}
 A combination skill. Lance an enemy with all the strength. Reduces an enemy's defense.
 Throw the Javelin
 Throw the Javelin
@@ -960,6 +964,10 @@ Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed rig
 Prone Shot
 Prone Shot
 skill_icon_mace_3_{}
+A sword skill. Move to the back of an enemy while unleashing a spin attack. By wind energy, drop wash basins from the sky swiftly.
+Barrel Panic
+Barrel Panic
+skill_icon_mace_3_{}
 A combination skill. It puts an enemy under a dark spell as moving instantly to the back of the enemy. It also sucks up the enemy's HP to restores your own HP.
 Ritual Trick
 Ritual Trick
@@ -1389,6 +1397,10 @@ Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
 skill_icon_dagger_3_{}
+A combination skill. Activate a damage canceling barrier and create a geyser and attack an enemy with the super hot water.
+Heat Upper
+Heat Upper
+skill_icon_dagger_3_{}
 A combination skill. Attack with a large rolling magic ball. Reduces enemies' defense.
 Odama Rolling
 Odama Rolling
@@ -1676,6 +1688,10 @@ skill_icon_dagger_1_{}
 Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
+skill_icon_finesword_3_{}
+A combination skill. Activate a damage canceling barrier and move quickly to the back of an enemy, then blow up bubbles.
+Beaute Lumiere
+Beaute Lumiere
 skill_icon_finesword_3_{}
 A combination skill. Blow up by making a dash and attack. Reduces enemies' defense.
 Storm Dash Run
@@ -2199,6 +2215,10 @@ A sword skill unique to Dual Blades. Thrust with one sword
 slash with the other.
 Double Circular
 Double Circular
+skill_icon_sword_3_{}
+A combination skill. Activate a damage canceling barrier and move to the back of an enemy. Slip on a bar of soap and fall down after slashing down.
+Watch Your Step
+Watch Your Step
 skill_icon_sword_3_{}
 A combination skill. Jump high up and create a tornado. Reduces enemies' defense.
 Tornado Skewer
