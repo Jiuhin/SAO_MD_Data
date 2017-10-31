@@ -41,19 +41,19 @@ Mon. Defense
 images/event/9015/9015_top.png
 images/event/9015/9015_banner.png
 images/event/9015/9015_banner.png
-N/A
+SAO Game Complete Memorial CP
 images/event/9015/9015_top.png
 images/event/9015/9015_banner.png
 images/event/9015/9015_banner.png
-N/A
+SAO Game Complete Memorial CP
 images/event/9015/9015_top.png
 images/event/9015/9015_banner.png
 images/event/9015/9015_banner.png
-N/A
+SAO Game Complete Memorial CP
 images/event/9015/9015_top.png
 images/event/9015/9015_banner.png
 images/event/9015/9015_banner.png
-N/A
+SAO Game Complete Memorial CP
 images/event/9014/9014_top.png
 images/event/9014/9014_banner.png
 images/event/9014/9014_banner.png
@@ -444,12 +444,12 @@ Medal Scout
 images/event/4063/4063_top.png
 images/event/4063/4063_banner.png
 images/event/4063/4063_banner.png
-[Ended] Rival War! - in quest of secluded hot springs 
+[Ended] In quest of secluded hot springs
 Medal Scout
 images/event/4063/4063_top.png
 images/event/4063/4063_banner.png
 images/event/4063/4063_banner.png
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 images/event/4062/event_item_4062.png
 images/event/4062/4062_top.png
 images/event/4062/4062_banner.png

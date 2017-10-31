@@ -776,9 +776,9 @@ Complete "The Malefic Star of the Magic Citadel (Master+1)"
 4064009
 Complete "The Malefic Star of the Magic Citadel"
 4063030,1,60
-Complete "Rival War! - in quest of secluded hot springs - (Master +1) part2" in under 60 sec.
+Complete "In quest of secluded hot springs (Master +1) part2" in under 60 sec.
 4063029,1,60
-Complete "Rival War! - in quest of secluded hot springs - (Master +1) part1" in under 60 sec.
+Complete "In quest of secluded hot springs (Master +1) part1" in under 60 sec.
 :"3
 406301,4000000
 Earn a score of 4,000,000 in Rival War! - in quest of secluded hot springs -
@@ -786,13 +786,13 @@ Earn a score of 4,000,000 in Rival War! - in quest of secluded hot springs -
 406301,6000000
 Earn a score of 6,000,000 in Rival War! - in quest of secluded hot springs -
 4063032,1,60
-Complete "Rival War! - in quest of secluded hot springs - (Master +2) part2" in under 60 sec.
+Complete "In quest of secluded hot springs (Master +2) part2" in under 60 sec.
 4063031,1,60
-Complete "Rival War! - in quest of secluded hot springs - (Master +2) part1" in under 60 sec.
+Complete "In quest of secluded hot springs (Master +2) part1" in under 60 sec.
 4063030
-Complete "Rival War! - in quest of secluded hot springs - (Master+1)". 
+Complete "In quest of secluded hot springs (Master+1)". 
 4063022
-Complete "Rival War! - in quest of secluded hot springs - (Int.)". 
+Complete "In quest of secluded hot springs (Int.)". 
 4062025,2
 Complete "Arianrhod in the Past (Master +1)" without down.
 4062024,2

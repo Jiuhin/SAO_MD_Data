@@ -1,14 +1,12 @@
-lF2
-d61
-H5.
-hs)
-8t(
-L((
-xN'
-du"
-TC"
-PF!
-l<	
+dF2
+tY1
+tZ+
+0t(
+D((
+pN'
+<_$
+xF!
+Hs 
 walk
 wakeup
 wait
@@ -530,7 +528,6 @@ wait
 stun
 step
 skill_16310101
-zD<
 skill_163101
 skill_161201
 skill_161102
@@ -1170,7 +1167,7 @@ stun
 step
 skill_2313001
 	5	
-zD:
+zDB
 skill_23130
 skill_22202
 skill_21101
@@ -1644,7 +1641,6 @@ wakeup
 wait
 stun
 step
-zDF
 skill_184101
 skill_182101
 skill_181101
@@ -1934,6 +1930,7 @@ wakeup
 wait
 stun
 step
+HDV
 skill_18310101
 skill_183101
 skill_182101
@@ -2034,9 +2031,8 @@ down
 dead
 dash
 damage
-"DJG
 charge_old
-"D6I
+"DvI
 charge
 back_step
 attack_3
@@ -2067,6 +2063,7 @@ wakeup
 wait
 stun
 step
+DZX
 skill_164101
 skill_161201
 skill_161102
@@ -2081,6 +2078,7 @@ down
 dead
 dash
 damage
+"D.j
 charge_old
 charge
 back_step
@@ -2170,6 +2168,7 @@ dead
 dash
 damage
 charge_old
+"DJ
 charge
 back_step
 attack_3
@@ -2214,9 +2213,7 @@ down
 dead
 dash
 damage
-"Dj
 charge_old
-"DV
 charge
 back_step
 attack_3
@@ -2262,9 +2259,7 @@ down
 dead
 dash
 damage
-"Df
 charge_old
-"DR
 charge
 back_step
 attack_3
@@ -2352,6 +2347,7 @@ down
 dead
 dash
 damage
+"D.M
 charge_old
 charge
 back_step
@@ -2427,6 +2423,7 @@ wakeup
 wait
 stun
 step
+zD:
 skill_16310301
 skill_163103
 skill_161201
@@ -2442,7 +2439,9 @@ down
 dead
 dash
 damage
+"D:
 charge_old
+"D&
 charge
 back_step
 attack_3
@@ -2487,7 +2486,7 @@ down
 dead
 dash
 damage
-"D2
+"Dr
 charge_old
 charge
 back_step
@@ -2532,6 +2531,7 @@ down
 dead
 dash
 damage
+"D.
 charge_old
 charge
 back_step
@@ -2579,9 +2579,7 @@ down
 dead
 dash
 damage
-"Dn
 charge_old
-"DZ
 charge
 back_step
 attack_3
@@ -2761,6 +2759,7 @@ down
 dead
 dash
 damage
+"D2
 charge_old
 charge
 back_step
@@ -2805,7 +2804,9 @@ down
 dead
 dash
 damage
+"Dv
 charge_old
+"Db
 charge
 back_step
 attack_3
@@ -2851,6 +2852,7 @@ dead
 dash
 damage
 charge_old
+"DJ
 charge
 back_step
 attack_3
@@ -2894,7 +2896,9 @@ down
 dead
 dash
 damage
+"Df
 charge_old
+"DR
 charge
 back_step
 attack_3
@@ -2938,7 +2942,9 @@ down
 dead
 dash
 damage
+"DF
 charge_old
+"D2
 charge
 back_step
 attack_3
@@ -2968,7 +2974,6 @@ wakeup
 wait
 stun
 step
-Dj-
 skill_144101
 skill_141201
 skill_141101
@@ -3014,7 +3019,6 @@ wakeup
 wait
 stun
 step
-DVP
 skill_143111
 skill_141201
 skill_141102
@@ -3334,7 +3338,6 @@ wakeup
 wait
 stun
 step
-DZc
 skill_143104
 skill_141202
 skill_141101
@@ -3743,7 +3746,6 @@ wakeup
 wait
 stun
 step
-zDj
 skill_123112
 skill_121202
 skill_121101
@@ -4320,7 +4322,7 @@ wakeup
 wait
 stun
 step
-zDf
+zD"]
 skill_104101
 skill_102201
 skill_101101
@@ -4406,6 +4408,8 @@ wakeup
 wait
 stun
 step
+zD,}
+zDR
 skill_104102
 skill_102201
 skill_101101
@@ -4786,7 +4790,6 @@ wakeup
 wait
 stun
 step
-HDF
 skill_103122
 skill_102201
 skill_101101
@@ -4915,7 +4918,6 @@ wait
 stun
 step
 e.	
-zCb
 skill_103115
 skill_101201
 skill_101101

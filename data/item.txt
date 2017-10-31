@@ -619,9 +619,9 @@ Happy Halloween Night Record Crystal
 item_m_record_crystal_emerald
 You can attain at the "Moonlight Halloween Parade Scout"
 Moonlight Halloween Record Crystal
-item_m_record_crystal_anniversary
-You can attain at the "1st Anniversary Scout"
-1st Anniversary Record Crystal
+item_m_record_crystal_silhouette
+???
+???
 item_m_record_crystal_emerald
 You can attain at the "Jolly Roger in the Stormy Sea" Scout
 Pirate Record Crystal

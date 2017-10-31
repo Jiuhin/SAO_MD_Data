@@ -1582,9 +1582,9 @@ e67406d597d7211fbdebd0ca5af5e1c0
 images/lottery/step_up/lottery_step_icon_2_3.png
 6a1fc69245d60a108dd1c4a8d1be8ea9
 images/lottery/step_up/lottery_step_icon_2.png
-4e88a25c7efdef59dae0e0e94bce6f48
+0067238a6032edaba4c071e322e7b4ef
 images/lottery/medal/110163_medal_top.png
-68812ed7a705461a967e13c8b568a88b
+73b7dff9ca88ac610110d3018bd642b6
 images/lottery/medal/110162_medal_top.png
 4f9664d504eb4b9632eb0d31c469c5dd
 images/lottery/medal/110161_medal_top.png

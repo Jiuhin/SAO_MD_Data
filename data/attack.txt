@@ -78,7 +78,9 @@ Be3
 Ae3
 QCG
 >e3
-L>e3
+>e3
+>e3
+>e3
 QCG
 >e3
 QCG
@@ -503,6 +505,7 @@ uLV
 >f3
 djF
 djF
+L>e3
 >e3
 <e3
 >e3
@@ -616,7 +619,7 @@ L>e3
 >e3
 L>e3
 L>e3
->e3
+L>e3
 >e3
 >e3
 pAe3
@@ -855,6 +858,8 @@ L?d3
 >d3
 >d3
 >d3
+>d3
+L>d3
 >d3
 L>d3
 QCG
@@ -1287,6 +1292,8 @@ Y(G
 -'G
 f&G
 e&G
+q{E
+EzE
 >f3
 }yE
 >f3

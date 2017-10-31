@@ -70,42 +70,42 @@ Character Introduction: Kirito
 Event Story
 The Pristine Floating Castle
 Floor :100
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-勝負の行方
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-一か八か
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-最終決戦!!
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-オリジナルの役
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-リベンジ・マッチ
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-黒いマントの…
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-ハイド ＆ コレクト
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-風林火山ご一行
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-カード集め
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-ポーカー対決
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-無敵設定？
-イベントストーリー
-迷宮攻略 バトル＆ポーカー
-巨大迷路出現！
+Event Story
+Dungeon Assault Battle & Poker
+Race of the game
+Event Story
+Dungeon Assault Battle & Poker
+Win or Lose
+Event Story
+Dungeon Assault Battle & Poker
+The Final Match
+Event Story
+Dungeon Assault Battle & Poker
+Original Roles
+Event Story
+Dungeon Assault Battle & Poker
+Revenge Match 
+Event Story
+Dungeon Assault Battle & Poker
+Black Cape
+Event Story
+Dungeon Assault Battle & Poker
+Hide and Collect
+Event Story
+Dungeon Assault Battle & Poker
+rinkazan
+Event Story
+Dungeon Assault Battle & Poker
+Card Collecting
+Event Story
+Dungeon Assault Battle & Poker
+Poker Match
+Event Story
+Dungeon Assault Battle & Poker
+Become Invincible
+Event Story
+Dungeon Assault Battle & Poker
+The Huge Maze
 1K?
 Event Story
 Flowers in the Wilderness
@@ -263,40 +263,40 @@ Event Story
 The Malefic Star of the Magic Citadel
 Gone Aincrad 
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Peaceful Coexistence Hot Spring
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Reconciliation with Monkeys
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Conversation with Monkeys
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Silica's Secret Plan
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Monkey Control
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Attack
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Hidden Hotsprings
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 In Search of Hotsprings
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Monkey Tribe
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Planned Site 
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 Lack of Charm
 Event Story
-Rival War! - in quest of secluded hot springs 
+In quest of secluded hot springs
 City Development
 Event Story
 Arianrhod in the Past

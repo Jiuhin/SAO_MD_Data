@@ -2,22 +2,22 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2029
 Quest 4
-N/A
+Floor 74: Dungeon (Master +1)
 Defeat All Enemies
 Quest
 bg_thumbnail_2022
 Quest 3
-N/A
+Floor 74: Dungeon (Master)
 Defeat All Enemies
 Quest
 bg_thumbnail_2021
 Quest 2
-N/A
+Floor 74: Kamdet (EX)
 Defeat All Enemies
 Quest
 bg_thumbnail_2005
 Quest 1
-N/A
+Floor 1: Dungeon (Expert)
 Defeat All Enemies
 Quest
 bg_thumbnail_2023
@@ -2128,7 +2128,7 @@ their back as they fall over!
 Survive until the end of time
 Quest
 bg_thumbnail_8006
-Quest 8
+Quest 5
 The Order of the Immortal (Master +1) (Dark)
 Dominant Dullahan the immortal. 
 Deal a lot of damage and attack
@@ -3471,7 +3471,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -3480,7 +3480,7 @@ Quest
 bg_thumbnail_8043
 Quest 6
 The Mother-Daughter Bond (Master+2)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -3489,7 +3489,7 @@ Quest
 bg_thumbnail_8043
 Quest 5
 The Mother-Daughter Bond (Master+1)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -3498,7 +3498,7 @@ Quest
 bg_thumbnail_8043
 Quest 4
 The Mother-Daughter Bond (Master)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -3507,7 +3507,7 @@ Quest
 bg_thumbnail_8043
 Quest 3
 The Mother-Daughter Bond (EX)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -3516,7 +3516,7 @@ Quest
 bg_thumbnail_8043
 Quest 2
 The Mother-Daughter Bond (Expert)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -3889,7 +3889,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 6-2
-Rival War! - in quest of secluded hot springs - Master +2
+In quest of secluded hot springs (Master +2)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -3898,7 +3898,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 6-1
-Rival War! - in quest of secluded hot springs - Master +2
+In quest of secluded hot springs (Master +2)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -3907,7 +3907,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 5-2
-Rival War! - in quest of secluded hot springs - Master +1
+In quest of secluded hot springs (Master +1)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -3916,7 +3916,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 5-1
-Rival War! - in quest of secluded hot springs - Master +1
+In quest of secluded hot springs (Master +1)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -3925,7 +3925,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 4-2
-Rival War! - in quest of secluded hot springs - Master
+In quest of secluded hot springs (Master)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -3934,7 +3934,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 4-1
-Rival War! - in quest of secluded hot springs - Master
+In quest of secluded hot springs (Master)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -3943,7 +3943,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 3-2
-Rival War! - in quest of secluded hot springs - EX
+In quest of secluded hot springs (EX)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -3952,7 +3952,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 3-1
-Rival War! - in quest of secluded hot springs - EX
+In quest of secluded hot springs (EX)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -3961,7 +3961,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 2-2
-Rival War! - in quest of secluded hot springs - Expert
+In quest of secluded hot springs (Expert)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -3970,7 +3970,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 2-1
-Rival War! - in quest of secluded hot springs - Expert
+In quest of secluded hot springs (Expert)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -3979,7 +3979,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 1-2
-Rival War! - in quest of secluded hot springs - Int.
+In quest of secluded hot springs (Int.)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -3988,7 +3988,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 1-1
-Rival War! - in quest of secluded hot springs - Int.
+In quest of secluded hot springs (Int.)
 Finish Story
 Story
 bg_thumbnail_0
@@ -8932,22 +8932,22 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2029
 Quest 4
-N/A
+Floor 74: Dungeon (Master +1)
 Defeat All Enemies
 Quest
 bg_thumbnail_2022
 Quest 3
-N/A
+Floor 74: Dungeon (Master)
 Defeat All Enemies
 Quest
 bg_thumbnail_2021
 Quest 2
-N/A
+Floor 74: Kamdet (EX)
 Defeat All Enemies
 Quest
 bg_thumbnail_2005
 Quest 1
-N/A
+Floor 1: Dungeon (Expert)
 Defeat All Enemies
 Quest
 bg_thumbnail_2023
@@ -11058,7 +11058,7 @@ their back as they fall over!
 Survive until the end of time
 Quest
 bg_thumbnail_8006
-Quest 8
+Quest 5
 The Order of the Immortal (Master +1) (Dark)
 Dominant Dullahan the immortal. 
 Deal a lot of damage and attack
@@ -12401,7 +12401,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -12410,7 +12410,7 @@ Quest
 bg_thumbnail_8043
 Quest 6
 The Mother-Daughter Bond (Master+2)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -12419,7 +12419,7 @@ Quest
 bg_thumbnail_8043
 Quest 5
 The Mother-Daughter Bond (Master+1)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -12428,7 +12428,7 @@ Quest
 bg_thumbnail_8043
 Quest 4
 The Mother-Daughter Bond (Master)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -12437,7 +12437,7 @@ Quest
 bg_thumbnail_8043
 Quest 3
 The Mother-Daughter Bond (EX)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -12446,7 +12446,7 @@ Quest
 bg_thumbnail_8043
 Quest 2
 The Mother-Daughter Bond (Expert)
-Exhibition match
+An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
 Beat up one first and block their tag attacks!
@@ -12819,7 +12819,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 6-2
-Rival War! - in quest of secluded hot springs - Master +2
+In quest of secluded hot springs (Master +2)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -12828,7 +12828,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 6-1
-Rival War! - in quest of secluded hot springs - Master +2
+In quest of secluded hot springs (Master +2)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -12837,7 +12837,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 5-2
-Rival War! - in quest of secluded hot springs - Master +1
+In quest of secluded hot springs (Master +1)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -12846,7 +12846,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 5-1
-Rival War! - in quest of secluded hot springs - Master +1
+In quest of secluded hot springs (Master +1)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -12855,7 +12855,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 4-2
-Rival War! - in quest of secluded hot springs - Master
+In quest of secluded hot springs (Master)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -12864,7 +12864,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 4-1
-Rival War! - in quest of secluded hot springs - Master
+In quest of secluded hot springs (Master)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -12873,7 +12873,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 3-2
-Rival War! - in quest of secluded hot springs - EX
+In quest of secluded hot springs (EX)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -12882,7 +12882,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 3-1
-Rival War! - in quest of secluded hot springs - EX
+In quest of secluded hot springs (EX)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -12891,7 +12891,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 2-2
-Rival War! - in quest of secluded hot springs - Expert
+In quest of secluded hot springs (Expert)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -12900,7 +12900,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 2-1
-Rival War! - in quest of secluded hot springs - Expert
+In quest of secluded hot springs (Expert)
 The Camanideel Ape with the
 secondary element (Wind-elem.) responds with
 anger after having their territory overrun. 
@@ -12909,7 +12909,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 1-2
-Rival War! - in quest of secluded hot springs - Int.
+In quest of secluded hot springs (Int.)
 The Camanideel Ape with the 
 secondary element (Dark-elem.) responds with 
 anger after having their territory overrun. 
@@ -12918,7 +12918,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8044
 Quest 1-1
-Rival War! - in quest of secluded hot springs - Int.
+In quest of secluded hot springs (Int.)
 Finish Story
 Story
 bg_thumbnail_0

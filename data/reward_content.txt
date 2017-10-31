@@ -38,28 +38,28 @@ Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
 !$m:H
-「勝負の行方」の解放
+Race of the game
 m:G
-「一か八か」の解放
+Win or Lose
 m:F
-「最終決戦!!」の解放
+The Final Match
 "m:E
-「オリジナルの役」の解放
+Original Roles
 "m:D
-「リベンジ・マッチ」の解放
+Revenge Match 
 -"m:C
-「黒いマントの…」の解放
+Black Cape
 !m:B
-「ハイド ＆ コレクト」の解放
+Hide and Collect
 e!m:A
-「風林火山ご一行」の解放
+rinkazan
 !m:
-「カード集め」の解放
+Card Collecting
 m:?
-「ポーカー対決」の解放
+Poker Match
 9 m:>
-「無敵設定？」の解放
-「巨大迷路出現！」の解放
+Become Invincible
+The Huge Maze
 l:䑕
 Reasons to fight
 l:㑕
@@ -520,7 +520,7 @@ Water Medallion x10
 Fire Medallion x10
 Void Medallion x10
 Rainbow Essence x1
-1st Anniversary Record Crystal x10
+??? x10
 Memory Defrag All Stars
 Fall Festival 2016
 Blaze Slash
@@ -720,6 +720,8 @@ Fire Medallion x15
 Void Medallion x30
 	8qs
 Rainbow Essence x2
+	8[s
+Colored Leaf Gold Medal x3
 	8Zs
 Colored Leaf Upgrade Crystal x2
 	8Ys
@@ -735,7 +737,7 @@ Colored Leaf Gold Medal x1
 	8Ts
 Legendary Secluded Hot Springs
 	8Ss
-Peaceful Coexistence Hot Spring
+In Quest of Secluded Hot Springs
 	8Rs
 Halloween Silver Medal x1
 	8Qs
@@ -780,11 +782,11 @@ Assault! The Revenant
 Real Game Master
 	8<s
 An INCarnating RewArD
-1st Anniversary Record Crystal x4
+??? x4
 	8:s
-1st Anniversary Record Crystal x2
+??? x2
 	89s
-1st Anniversary Record Crystal x1
+??? x1
 	88s
 Anniversary Ticket VIP x2
 	87s
@@ -864,24 +866,24 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
-紅蓮の切り札 記録結晶
+Crimson Trump Card Crystal x10
 5]Y
-紅蓮の切り札 記録結晶
-紅蓮の切り札 記録結晶
+Crimson Trump Card Crystal x9
+Crimson Trump Card Crystal x8
 5[Y
-紅蓮の切り札 記録結晶
+Crimson Trump Card Crystal x7
 5ZY
-紅蓮の切り札 記録結晶
+Crimson Trump Card Crystal x6
 5YY
-紅蓮の切り札 記録結晶
+Crimson Trump Card Crystal x5
 5XY
-紅蓮の切り札 記録結晶
+Crimson Trump Card Crystal x4
 5WY
-紅蓮の切り札 記録結晶
+Crimson Trump Card Crystal x3
 5VY
-紅蓮の切り札 記録結晶
+Crimson Trump Card Crystal x2
 5UY
-紅蓮の切り札 記録結晶
+Crimson Trump Card Crystal x1
 Steamy Beauty Bath Time Record Crystal x10
 Steamy Beauty Bath Time Record Crystal x9
 Steamy Beauty Bath Time Record Crystal x8
@@ -932,25 +934,25 @@ Moonlight Halloween Record Crystal x3
 Moonlight Halloween Record Crystal x2
 Moonlight Halloween Record Crystal x1
 5jW
-1st Anniversary Record Crystal x10
+??? x10
 5iW
-1st Anniversary Record Crystal x9
+??? x9
 5hW
-1st Anniversary Record Crystal x8
+??? x8
 5gW
-1st Anniversary Record Crystal x7
+??? x7
 5fW
-1st Anniversary Record Crystal x6
+??? x6
 5eW
-1st Anniversary Record Crystal x5
+??? x5
 5dW
-1st Anniversary Record Crystal x4
+??? x4
 5cW
-1st Anniversary Record Crystal x3
+??? x3
 5bW
-1st Anniversary Record Crystal x2
+??? x2
 5aW
-1st Anniversary Record Crystal x1
+??? x1
 Pirate Record Crystal x10
 Pirate Record Crystal x9
 Pirate Record Crystal x8
@@ -2334,8 +2336,7 @@ Attack Shard x20
 MP Shard x20
 2$E
 HP Shard x20
-Assault Team: Rival War!
-- in quest of secluded hot springs -  (Top 100)
+Assault Team : Hot Springs (Top100)
 EXP Hi-Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -2345,8 +2346,7 @@ MP Shard x20
 HP Shard x20
 Memory Diamond x5
 2"E
-Assault Team: Rival War!
-- in quest of secluded hot springs - (Top 50)
+Assault Team : Hot Springs (Top50)
 2"E
 EXP Hi-Potion x5
 2"E
@@ -2360,8 +2360,7 @@ Colored Leaf Silver Medal x5
 2"E
 Colored Leaf Gold Medal x2
 2!E
-Assault Team: Rival War!
-- in quest of secluded hot springs -  (Top 20)
+Assault Team : Hot Springs (Top20)
 2!E
 EXP X-Potion x5
 2!E
@@ -2377,8 +2376,7 @@ Colored Leaf Silver Medal x5
 2!E
 Colored Leaf Gold Medal x4
 2 E
-Assault Team: Rival War!
-- in quest of secluded hot springs -  (Top 10)
+Assault Team : Hot Springs (Top10)
 2 E
 EXP X-Potion x5
 2 E
@@ -2393,8 +2391,7 @@ Colored Leaf Bronze Medal x10
 Colored Leaf Silver Medal x5
 2 E
 Colored Leaf Gold Medal x6
-Assault Team: Rival War!
-- in quest of secluded hot springs -  (3rd)
+Assault Team : Hot Springs (3rd)
 Rainbow Essence x1
 EXP X-Potion x5
 Col x200000
@@ -2403,8 +2400,7 @@ Colored Leaf Upgrade Crystal x3
 Colored Leaf Bronze Medal x10
 Colored Leaf Silver Medal x10
 Colored Leaf Gold Medal x11
-Assault Team: Rival War!
-- in quest of secluded hot springs -  (2nd)
+Assault Team : Hot Springs (2nd)
 Rainbow Essence x1
 EXP X-Potion x5
 Col x300000
@@ -2413,8 +2409,7 @@ Colored Leaf Upgrade Crystal x3
 Colored Leaf Bronze Medal x10
 Colored Leaf Silver Medal x10
 Colored Leaf Gold Medal x13
-Assault Team: Rival War!
-- in quest of secluded hot springs -  (1st)
+Assault Team : Hot Springs (1st)
 Rainbow Essence x2
 EXP X-Potion x5
 Col x500000
@@ -4980,24 +4975,30 @@ Vampire Cape R2
 Jack o' Fury R2
 Silence R2
 Ritual Rapier R2
+Holy Yggdrasil Hacking Crystal x10
+Yggdrasil Hacking Crystal x20
+Yggdrasil Hacking Shard x25
+Card Key (Yellow) x15
+Card Key (Red) x35
+Card Key (Blue) x45
 67M
 67M
-Holy Yggdrasil Hacking Crystal x3
+Holy Yggdrasil Hacking Crystal x8
 57M
 57M
-Yggdrasil Hacking Crystal x6
+Yggdrasil Hacking Crystal x13
 47M
 47M
-Yggdrasil Hacking Shard x15
+Yggdrasil Hacking Shard x20
 37M
 37M
 Card Key (Yellow) x15
 27M
 27M
-Card Key (Red) x25
+Card Key (Red) x30
 17M
 17M
-Card Key (Blue) x35
+Card Key (Blue) x40
 Holy Yggdrasil Hacking Crystal x1
 Yggdrasil Hacking Crystal x3
 Yggdrasil Hacking Shard x8
@@ -6878,6 +6879,8 @@ Jack's Earring R2
 YPD
 Vampire Cape R2
 Jack o' Fury R2
+Card Key (Blue) x30
+Yggdrasil Hacking Shard x15
 Lv. 80 Fairy Princess Key x1
 Lv. 70 Fairy Princess Key x1
 9o6
@@ -9762,7 +9765,7 @@ Memory Diamond x1
 Memory Diamond x25
 Memory Diamond x25
 e<n
-1st Anniversary Record Crystal x10
+??? x10
 	<n
 Holy Skill Crystal x50
 Skill Crystal x100
@@ -9803,8 +9806,8 @@ Asuna's Kitchen Knife R2
 EXP Potion x10
 [Nightwear] Asuna
 [Intrepid Detective] Eugeo
-1st Anniversary Record Crystal x2
-1st Anniversary Record Crystal x1
+??? x2
+??? x1
 Earth Medallion x10
 Dark Medallion x10
 Holy Medallion x10
