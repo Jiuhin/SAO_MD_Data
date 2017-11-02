@@ -57,6 +57,10 @@ se_enemy_griffin_appear
 se_enemy_kagachi_dead
 se_enemy_kagachi_damage
 se_enemy_kagachi_appear
+se_action_photon_sword_slash_4
+se_action_photon_sword_slash_3
+se_action_photon_sword_slash_2
+se_action_photon_sword_slash_1
 se_action_queens_handling
 se_action_scary_magic_out
 se_action_shining

@@ -1,18 +1,37 @@
+Floor 75's boss is a giant skeletal
+centipede with a humanoid head and giant,
+deadly scythe claws. Its attacks are truly
+terrifying. After this, you will face....
 Defeat All Enemies
 Quest
 bg_thumbnail_2029
 Quest 4
-Floor 74: Dungeon (Master +1)
+Floor 75: Dungeon (Master +1)
+A giant demon with a goat's head deftly
+swings a colossal and mighty sword.
+It sits within a boss room where crystals
+are disabled, first of its kind.
+Overcome this terror, and reach Floor 75!
 Defeat All Enemies
 Quest
 bg_thumbnail_2022
 Quest 3
 Floor 74: Dungeon (Master)
+The bodyguard of Asuna, 
+the vice commander of Knights of the Blood. 
+He has affection for Asuna and sees Kirito as his enermy. 
+He tries to get in Kirito's way. 
+Win Asuna over!
 Defeat All Enemies
 Quest
 bg_thumbnail_2021
 Quest 2
 Floor 74: Kamdet (EX)
+A monstrous kobold rises before the
+players. Towering over six feet tall, one
+of its red eyes gleams with an insatiable
+lust for blood. Defeat this beast lord and
+its minions, and reach the second floor!
 Defeat All Enemies
 Quest
 bg_thumbnail_2005
@@ -909,6 +928,86 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 16
+Enormous Monsters  "The Gleam Eyes" (Master +1)
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 15
+Enormous Monsters  "The Gleam Eyes" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 14
+Enormous Monsters  "The Gleam Eyes" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 13
+Enormous Monsters  "The Gleam Eyes" (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 12
+Enormous Monsters  "The King of Lakes" (Master +1)
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 11
+Enormous Monsters  "The King of Lakes" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 10
+Enormous Monsters  "The King of Lakes" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 9
+Enormous Monsters  "The King of Lakes" (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 8
+Enormous Monsters  "The Gleam Eyes" (Master +1)
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 7
+Enormous Monsters  "The Gleam Eyes" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 6
+Enormous Monsters  "The Gleam Eyes" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 5
+Enormous Monsters  "The Gleam Eyes" (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 4
+Enormous Monsters  "The King of Lakes" (Master +1)
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 3
+Enormous Monsters  "The King of Lakes" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 2
+Enormous Monsters  "The King of Lakes" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 1
+Enormous Monsters  "The King of Lakes" (Expert)
 "The Abyss Rhinoceros" runs wild.
 They go more violent as their tail
 get totally damaged.
@@ -8928,21 +9027,40 @@ Quest
 bg_thumbnail_2002
 Quest 1-1
 Horunka
+Floor 75's boss is a giant skeletal
+centipede with a humanoid head and giant,
+deadly scythe claws. Its attacks are truly
+terrifying. After this, you will face....
 Defeat All Enemies
 Quest
 bg_thumbnail_2029
 Quest 4
-Floor 74: Dungeon (Master +1)
+Floor 75: Dungeon (Master +1)
+A giant demon with a goat's head deftly
+swings a colossal and mighty sword.
+It sits within a boss room where crystals
+are disabled, first of its kind.
+Overcome this terror, and reach Floor 75!
 Defeat All Enemies
 Quest
 bg_thumbnail_2022
 Quest 3
 Floor 74: Dungeon (Master)
+The bodyguard of Asuna, 
+the vice commander of Knights of the Blood. 
+He has affection for Asuna and sees Kirito as his enermy. 
+He tries to get in Kirito's way. 
+Win Asuna over!
 Defeat All Enemies
 Quest
 bg_thumbnail_2021
 Quest 2
 Floor 74: Kamdet (EX)
+A monstrous kobold rises before the
+players. Towering over six feet tall, one
+of its red eyes gleams with an insatiable
+lust for blood. Defeat this beast lord and
+its minions, and reach the second floor!
 Defeat All Enemies
 Quest
 bg_thumbnail_2005
@@ -9839,6 +9957,86 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 16
+Enormous Monsters  "The Gleam Eyes" (Master +1)
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 15
+Enormous Monsters  "The Gleam Eyes" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 14
+Enormous Monsters  "The Gleam Eyes" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_2022
+Quest 13
+Enormous Monsters  "The Gleam Eyes" (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 12
+Enormous Monsters  "The King of Lakes" (Master +1)
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 11
+Enormous Monsters  "The King of Lakes" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 10
+Enormous Monsters  "The King of Lakes" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 9
+Enormous Monsters  "The King of Lakes" (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 8
+Enormous Monsters  "The Gleam Eyes" (Master +1)
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 7
+Enormous Monsters  "The Gleam Eyes" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 6
+Enormous Monsters  "The Gleam Eyes" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 5
+Enormous Monsters  "The Gleam Eyes" (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 4
+Enormous Monsters  "The King of Lakes" (Master +1)
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 3
+Enormous Monsters  "The King of Lakes" (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 2
+Enormous Monsters  "The King of Lakes" (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 1
+Enormous Monsters  "The King of Lakes" (Expert)
 "The Abyss Rhinoceros" runs wild.
 They go more violent as their tail
 get totally damaged.

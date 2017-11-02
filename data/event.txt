@@ -194,6 +194,22 @@ images/event/9002/9002_top_2017.png
 images/event/9002/9002_banner_2017.png
 images/event/9002/9002_banner_2017.png
 Asuna's Birthday Quest 2017
+images/event/8030/8030_top.png
+images/event/8030/8030_banner.png
+images/event/8030/8030_banner.png
+Enormous Monsters
+images/event/8030/8030_top.png
+images/event/8030/8030_banner.png
+images/event/8030/8030_banner.png
+Enormous Monsters
+images/event/8030/8030_top.png
+images/event/8030/8030_banner.png
+images/event/8030/8030_banner.png
+Enormous Monsters
+images/event/8030/8030_top.png
+images/event/8030/8030_banner.png
+images/event/8030/8030_banner.png
+Enormous Monsters
 images/event/8029/8029_top.png
 images/event/8029/8029_banner.png
 images/event/8029/8029_banner.png

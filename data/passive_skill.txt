@@ -216,8 +216,8 @@ HP & Guard Durability Up
 Increases Non-elem. character's max HP and MP by 3%.
 Max HP/MP +3% (Non-elem.)
 7hm
-30コンボ以上で無属性の攻撃が6%増加する
-30コンボ以上で無属性の攻撃+6%
+Increases Attack for 30-hit+ combos by 6%. (Non-elem.)
+30+ Combo: Attack +6% (Non-elem.)
 6hm
 Critical is ensured when using skills.
 Critical (with Skills)

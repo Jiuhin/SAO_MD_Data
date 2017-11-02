@@ -28,6 +28,10 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+Christmas Equipment Creation
+Equip Event
+Playing Cards Equipment Creation
+Equip Event
 Enormous Monsters
 Weekly Event
 Hot Spring Equipment Creation
@@ -156,7 +160,7 @@ Twilight Castle in Akasha
 Event
 Shadowy castle in the night
 Event
-トランプ
+Playing Cards
 Event
 Flowers in the Wilderness
 Event
