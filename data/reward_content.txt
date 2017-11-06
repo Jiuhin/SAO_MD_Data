@@ -722,6 +722,10 @@ Fire Medallion x15
 Void Medallion x30
 	8qs
 Rainbow Essence x2
+	8bs
+称号: ワンダー・ルーラー
+	8as
+称号: 迷宮攻略 バトル＆ポーカー
 	8[s
 Colored Leaf Gold Medal x3
 	8Zs

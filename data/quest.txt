@@ -3570,6 +3570,106 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 5
+Flowers in the Wilderness Master +1
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 4
+Flowers in the Wilderness Master
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 3
+Flowers in the Wilderness EX
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 2
+Flowers in the Wilderness Expert
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 1
+Flowers in the Wilderness Int.
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Reasons to fight
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Secret of Strength
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+In the deepest part
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Reasons to play GGO
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Target
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Contract and Play
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+RMT
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Instead of saving players...
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+The Calm Before the Storm
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Who's the shooter?
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+In Search of Rare Find
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+GGO again
 An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 
@@ -12599,6 +12699,106 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 5
+Flowers in the Wilderness Master +1
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 4
+Flowers in the Wilderness Master
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 3
+Flowers in the Wilderness EX
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 2
+Flowers in the Wilderness Expert
+The Toxic Rhinoceros hides in the basement. 
+Keep the target from a safe distance and 
+have other members attack it from behind!
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 1
+Flowers in the Wilderness Int.
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Reasons to fight
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Secret of Strength
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+In the deepest part
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Reasons to play GGO
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Target
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Contract and Play
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+RMT
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Instead of saving players...
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+The Calm Before the Storm
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Who's the shooter?
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+In Search of Rare Find
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+GGO again
 An exhibition game - 
 Battle with [Sinon & Silica] 
 Mind the order of defeating them! 

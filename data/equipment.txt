@@ -1,3 +1,18 @@
+vO/
+7hm
+TBD
+Hades Hair Barrette R4
+accessory01_0053
+uO/
+vO/
+TBD
+Hades Hair Barrette R3
+accessory01_0053
+tO/
+uO/
+TBD
+Hades Hair Barrette R2
+accessory01_0053
 lO/
 hlk
 TBD
@@ -723,6 +738,15 @@ armor03_0002
 TBD
 Asuna's Apron R2
 armor03_0001
+TBD
+Black Soaring Coat R4
+armor02_0056
+TBD
+Black Soaring Coat R3
+armor02_0056
+TBD
+Black Soaring Coat R2
+armor02_0056
 TBD
 Blue Silver Knight Armor R4
 armor02_0055
@@ -1494,6 +1518,12 @@ weapon07_0002
 TBD
 Short Bow R1
 weapon07_0001
+TBD
+Magnificent Hecate R5
+weapon06_0030
+TBD
+Magnificent Hecate R4
+weapon06_0030
 TBD
 Trick or Bullet R5
 weapon06_0029
@@ -2633,6 +2663,12 @@ TBD
 Dual Short Swords 
 2 R1
 weapon02_0001
+TBD
+Tsukikage R5
+weapon01_0096
+TBD
+Tsukikage R4
+weapon01_0096
 TBD
 Teal Blue Sword R5
 weapon01_0095

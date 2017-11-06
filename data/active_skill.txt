@@ -802,6 +802,10 @@ A sword skill for the long bow. Fire a flaming arrow that explodes on impact.
 Explode Arrow
 Explode Arrow
 skill_icon_gun_3_{}
+After shooting a gun, hurl a grenade. Then fire a fatal shot. A combination skill that increase all the party members' critical.
+All Ignite
+All Ignite
+skill_icon_gun_3_{}
 A combination skill. It weaves a sticky spider web to catch an enemy and shoot it with a gun. It restores your own HP.
 Scary Magic
 Scary Magic
@@ -2558,6 +2562,10 @@ skill_icon_sword_3_{}
 A combination skill. Dropping a coin is not the way to begin!? Quick draw just like a gunfighter in a Western film.
 Beater the Kid
 Beater the Kid
+skill_icon_sword_3_{}
+A combination skill. Increase all the party members' critical. After slashing an enemy super quickly, shoot a gun and stab the enemy at the end.
+Berserk Finish
+Berserk Finish
 skill_icon_sword_3_{}
 A combination skill. After recovering from damage, attack an enemy with a swift thrust and radiate holy light. Likely to stun an enemy.
 Ideal Marriage

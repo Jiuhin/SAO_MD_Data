@@ -1,13 +1,8 @@
-hF2
-xY1
-D5.
-xZ+
-ds)
-4t(
-H((
-tN'
-Dj&
-Ls 
+t!.
+,Q,
+0),
+t:&
+<F%
 walk
 wakeup
 wait
@@ -1028,7 +1023,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44001
-ALO player, Leprechaun. She brings her sister, Seven, and Seven's friend, Sphica to her area. Rein teaches Leprechaun way of smithing as those two girls have nothing to do. 
+ALO player, Leprechaun. She brings her sister, Seven, and Seven's friend, Sphica to her area. Rain teaches Leprechaun way of smithing as those two girls have nothing to do. 
 serif
 4_rain_44001
 Rain
@@ -1168,7 +1163,6 @@ stun
 step
 skill_2313001
 	5	
-zD>
 skill_23130
 skill_22202
 skill_21101
@@ -1642,6 +1636,7 @@ wakeup
 wait
 stun
 step
+zDVj
 skill_184101
 skill_182101
 skill_181101
@@ -1931,7 +1926,7 @@ wakeup
 wait
 stun
 step
-HDR
+HD&
 skill_18310101
 skill_183101
 skill_182101
@@ -2032,8 +2027,9 @@ down
 dead
 dash
 damage
+"DZ
 charge_old
-"DrI
+"DF
 charge
 back_step
 attack_3
@@ -2064,7 +2060,6 @@ wakeup
 wait
 stun
 step
-DVX
 skill_164101
 skill_161201
 skill_161102
@@ -2167,9 +2162,8 @@ down
 dead
 dash
 damage
-"DZ
+"D.V
 charge_old
-"DF
 charge
 back_step
 attack_3
@@ -2214,7 +2208,9 @@ down
 dead
 dash
 damage
+"Dz
 charge_old
+"Df
 charge
 back_step
 attack_3
@@ -2260,7 +2256,9 @@ down
 dead
 dash
 damage
+"Dv
 charge_old
+"Db
 charge
 back_step
 attack_3
@@ -2423,7 +2421,6 @@ wakeup
 wait
 stun
 step
-zD6
 skill_16310301
 skill_163103
 skill_161201
@@ -2439,9 +2436,7 @@ down
 dead
 dash
 damage
-"D6
 charge_old
-"D"
 charge
 back_step
 attack_3
@@ -2486,9 +2481,9 @@ down
 dead
 dash
 damage
-"Dn
+"DBg
 charge_old
-"DZ
+"D.i
 charge
 back_step
 attack_3
@@ -2580,6 +2575,7 @@ dead
 dash
 damage
 charge_old
+"Dj
 charge
 back_step
 attack_3
@@ -2759,8 +2755,9 @@ down
 dead
 dash
 damage
-"D2
+"DJJ
 charge_old
+"D6L
 charge
 back_step
 attack_3
@@ -2804,9 +2801,8 @@ down
 dead
 dash
 damage
-"Dv
 charge_old
-"Db
+"Dzm
 charge
 back_step
 attack_3
@@ -2851,8 +2847,9 @@ down
 dead
 dash
 damage
+"Dv
 charge_old
-"DJ
+"Db
 charge
 back_step
 attack_3
@@ -2896,9 +2893,8 @@ down
 dead
 dash
 damage
-"Df
 charge_old
-"DR
+"Dj
 charge
 back_step
 attack_3
@@ -2942,9 +2938,8 @@ down
 dead
 dash
 damage
-"DF
 charge_old
-"D2
+"DJ
 charge
 back_step
 attack_3
@@ -3383,6 +3378,7 @@ wakeup
 wait
 stun
 step
+FN:
 skill_141202
 skill_141201
 skill_141101
@@ -3696,6 +3692,51 @@ serif
 3_sinon_143001
 Sinon
 [Cat-Eared Archer] Sinon
+walk
+wakeup
+wait
+stun
+step
+Dj'
+skill_124102
+skill_121202
+skill_121102
+parry
+parried
+levelup
+jump_attack
+jump
+down
+dead
+dash
+damage
+charge
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_124102
+skill_121202
+skill_121102
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_125002
+A GGO player. Sinon doesn't know how to respond when Epidanthia asks her if they are a couple. Epidanthia gets her feelings. On the day Kirito dives into ALO, Epidanthia talks Sinon since Sinon looks down.
+serif
+4_sinon_124001
+Sinon
+[Sniper in Love] Sinon 
 {-&
 walk
 wakeup
@@ -4322,7 +4363,6 @@ wakeup
 wait
 stun
 step
-zD"]
 skill_104101
 skill_102201
 skill_101101
@@ -4408,8 +4448,8 @@ wakeup
 wait
 stun
 step
-zD,}
-zDR
+zD4Q
+zDZ
 skill_104102
 skill_102201
 skill_101101
@@ -4663,6 +4703,8 @@ wakeup
 wait
 stun
 step
+C>o
+Cno
 skill_103124
 skill_102201
 skill_101101
@@ -8189,6 +8231,7 @@ wakeup
 wait
 stun
 step
+/D"
 skill_63131
 skill_62101
 %&'
@@ -9942,7 +9985,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44001
-ALO player, Leprechaun. She brings her sister, Seven, and Seven's friend, Sphica to her area. Rein teaches Leprechaun way of smithing as those two girls have nothing to do. 
+ALO player, Leprechaun. She brings her sister, Seven, and Seven's friend, Sphica to her area. Rain teaches Leprechaun way of smithing as those two girls have nothing to do. 
 serif
 4_rain_44001
 Rain
@@ -10950,6 +10993,7 @@ wakeup
 wait
 stun
 step
+Cp_
 skill_23137
 skill_22202
 skill_21201
@@ -11283,7 +11327,7 @@ stun
 step
 skill_2313001
 	5	
-zDj
+zDr
 skill_23130
 skill_22202
 skill_21101
@@ -12441,6 +12485,48 @@ serif
 5_kirito_15007
 Kirito
 [Lone Wolf in the Wild] Kirito
+walk
+wakeup
+wait
+stun
+step
+skill_14113
+skill_12101
+skill_11201
+parry
+parried
+levelup_common
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_14113
+skill_12101
+skill_11201
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_10001
+battle_cutin_15006
+A GGO player. Kirito and Sinon keep exploring Epidanthia&Orchis on the SBC Monolith. They attack away other players chasing after them. It seems working but.. 
+serif
+5_kirito_15006
+Kirito
+[Swordsman in the Wilderness] Kirito
 walk
 wakeup
 wait

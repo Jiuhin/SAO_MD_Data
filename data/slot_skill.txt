@@ -34,6 +34,10 @@ pZ3
 slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Holy-elem. enemies.
 Skill Damage Up (vs. Holy) Lv. 1
+6hm
+slot_skill_icon_skill_damage
+Critical is ensured when using skills.
+Critical (with Skills)
 slot_skill_icon_skill_damage
 Increases critical damage by 10% vs Non-elem. enemies.
 Critical Damage Up (vs. Non-elem.) Lv. 2

@@ -524,6 +524,8 @@ Return of the Storm Wyrm: Complete "Return of the Storm Wyrm (Expert)".
 8006001
 Return of the Storm Wyrm: Complete "Return of the Storm Wyrm (Int.)".
 7024005
+「CM記念キャラ紹介(?) 絶級+1」クリア
+7024005
 Complete "CM Character Introduction (?) (Master+1)"
 tEf
 7024004
@@ -715,6 +717,24 @@ Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,
 Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
+4068025,2,6,1
+Complete "Flowers in the Wilderness (Master +1)" with at least one gun character.
+4068025,2
+Complete "Flowers in the Wilderness (Master +1)" without down.
+4068024,2
+Complete "Flowers in the Wilderness (Master)" without down.
+4068025,2,45
+Complete "Flowers in the Wilderness (Master +1)" under 45 Sec.
+4068025,2,60
+Complete "Flowers in the Wilderness (Master +1)" in under 1min.
+4068025
+Complete "Flowers in the Wilderness (Master +1)".
+4068024,2,45
+Complete "Flowers in the Wilderness" under 45 Sec.
+4068024,2,60
+Complete "Flowers in the Wilderness" in under 1min.
+4068024
+Complete "Flowers in the Wilderness".
 4067026,1,60
 Complete "The Mother-Daughter Bond (Master +2)" in under 1min.
 4067025,1,60
@@ -1274,12 +1294,6 @@ Complete "Flying Broomstick".
 Complete "Kobold Trickster (EX)".
 4008008
 Complete "Kobold Trickster"
-4006010
-Complete "A New Me".
-4006013
-Complete "Guardian Rush (EX)".
-4006009
-Complete "Guardian Rush".
 4004012
 Complete "The Blazing Werewolf (EX)".
 4004008

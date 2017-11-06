@@ -426,6 +426,11 @@ images/event/4801/4801_name.png
 images/event/4801/4801_banner.png
 images/event/4801/4801_banner.png
 Shadowy Castle in the Night
+images/event/4068/event_item_4068.png
+images/event/4068/4068_top.png
+images/event/4068/4068_banner.png
+images/event/4068/4068_banner.png
+Flowers in the Wilderness
 Medal Scout
 images/event/4067/4067_top.png
 images/event/4067/4067_banner.png
