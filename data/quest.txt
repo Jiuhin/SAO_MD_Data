@@ -19,7 +19,7 @@ Quest 3
 Floor 74: Dungeon (Master)
 The bodyguard of Asuna, 
 the vice commander of Knights of the Blood. 
-He has affection for Asuna and sees Kirito as his enermy. 
+He has affection for Asuna and sees Kirito as his enemy. 
 He tries to get in Kirito's way. 
 Win Asuna over!
 Defeat All Enemies
@@ -3577,7 +3577,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 5
-Flowers in the Wilderness Master +1
+Flowers in the Wilderness (Master +1)
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -3585,7 +3585,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 4
-Flowers in the Wilderness Master
+Flowers in the Wilderness (Master)
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -3593,7 +3593,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 3
-Flowers in the Wilderness EX
+Flowers in the Wilderness (EX)
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -3601,7 +3601,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 2
-Flowers in the Wilderness Expert
+Flowers in the Wilderness (Expert)
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -3609,7 +3609,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 1
-Flowers in the Wilderness Int.
+Flowers in the Wilderness (Int.)
 Finish Story
 Story
 bg_thumbnail_0
@@ -9148,7 +9148,7 @@ Quest 3
 Floor 74: Dungeon (Master)
 The bodyguard of Asuna, 
 the vice commander of Knights of the Blood. 
-He has affection for Asuna and sees Kirito as his enermy. 
+He has affection for Asuna and sees Kirito as his enemy. 
 He tries to get in Kirito's way. 
 Win Asuna over!
 Defeat All Enemies
@@ -12706,7 +12706,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 5
-Flowers in the Wilderness Master +1
+Flowers in the Wilderness (Master +1)
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -12714,7 +12714,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 4
-Flowers in the Wilderness Master
+Flowers in the Wilderness (Master)
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -12722,7 +12722,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 3
-Flowers in the Wilderness EX
+Flowers in the Wilderness (EX)
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -12730,7 +12730,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 2
-Flowers in the Wilderness Expert
+Flowers in the Wilderness (Expert)
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -12738,7 +12738,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4001
 Quest 1
-Flowers in the Wilderness Int.
+Flowers in the Wilderness (Int.)
 Finish Story
 Story
 bg_thumbnail_0

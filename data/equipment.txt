@@ -739,15 +739,6 @@ TBD
 Asuna's Apron R2
 armor03_0001
 TBD
-Black Soaring Coat R4
-armor02_0056
-TBD
-Black Soaring Coat R3
-armor02_0056
-TBD
-Black Soaring Coat R2
-armor02_0056
-TBD
 Blue Silver Knight Armor R4
 armor02_0055
 TBD

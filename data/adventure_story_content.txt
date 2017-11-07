@@ -1,148 +1,193 @@
-Tuw
-4Ow
-<wv
-hFv
-d_u
-,9u
-Hwt
-P}s
-8os
-,lr
-<Kr
-$Nq
-huo
-<To
-0Eo
-48n
-0)n
-Tzm
-4cm
-(zl
-tdk
-DAk
-dgj
-HCj
-,7j
-Pvi
-,hi
-Tfi
-Dbi
-l_i
-4Zi
-dUi
-(Hi
-pGi
-D.i
-,-h
-Htg
-pZg
-P.g
-$kf
-tve
-Xud
-dwc
-,Ac
-0yb
-(Gb
-xja
-<W_
-0:_
-8i]
-4/]
-4b[
-H:[
-0pZ
-hZZ
-0KZ
-PTY
-TyX
-h)X
-H]W
-LPW
-DtV
-LHV
-PxU
-LAU
-45U
-0tT
-tzS
-D9R
-x6Q
-(fP
-HXP
-0FP
-t4P
-x)P
-0}N
-LVN
-0EN
-<UM
-$CM
-T&M
-xYL
-pML
-x?K
-,3J
-P!I
-L}H
-$:H
-l-H
-D/G
-HzF
-<oF
-,DF
-l0F
-pyE
-plE
-4qD
-dWC
-,GA
-8'A
-lj?
-TV>
-x7>
-tT<
-ta:
-lV:
-xG:
-81:
-0$:
-dp9
-0<9
-xq8
-X-8
-(k7
-Db3
-xr2
-0S1
-4)1
-Xx0
-X&0
-86/
-LL.
-xB.
-l9.
-,Z-
-02-
-,f+
-TQ)
-le(
-lR(
-Pi'
-0T'
-X4&
-hz%
-T_%
-DR%
-lA%
-TV"
-,!"
-4m!
-$]!
-0H 
-x" 
-${	
-TM	
+lnx
+4ix
+,gw
+tUv
+(%v
+<vu
+XJt
+xfs
+,Hs
+4>s
+Xwr
+XQr
+0Cr
+4mq
+4zp
+pkp
+llm
+lil
+tKl
+PWk
+$)j
+4ci
+X[i
+dYi
+0Xi
+TSi
+(Pi
+PNi
+4Ei
+4:i
+(Kh
+<8g
+8Zf
+hLf
+pge
+D/e
+ddc
+$Wc
+h!c
+xab
+H<b
+(wa
+LUa
+46a
+hH_
+<._
+(x]
+,S]
+8B]
+TT[
+HF[
+D,[
+(eZ
+D<Z
+t3Z
+xGY
+XyW
+,lW
+h!W
+dbT
+$AT
+$bR
+LQR
+<'R
+tRQ
+$FQ
+8rP
+XlO
+<SO
+lFO
+,7M
+D4L
+h)L
+d3K
+h K
+dMJ
+P5I
+XiH
+4iG
+<?G
+0RF
+4 E
+8UD
+8GC
+PjB
+pRB
+hCB
+(2B
+h$B
+<WA
+84A
+Xc>
+ho<
+pE<
+8,<
+D	:
+HG9
+4!8
+4y7
+hX7
+<H7
+$<7
+8h6
+(F5
+p75
+L:3
+h42
+X)2
+d	2
+Ts1
+$E1
+,!1
+Pk0
+4K0
+TB0
+LM/
+Dr.
+<h.
+h[.
+l-.
+Tj-
+LA-
+dJ,
+H++
+4t)
+(F)
+P7)
+$A(
+TD'
+0''
+8d$
+l{!
+<C!
+Lr 
+hW 
+41	
+bg_11_starting_city
+As of November 7th at 2:55 PM,
+the game has been cleared.
+Repeat: The game has been cleared.
+System Announcement
+2017110701_13_a
+bg_black
+Kirito
+2017110701_12_a
+Did... Did that do it?
+Kirito
+2017110701_11_a
+still_14_heathcliff_dead
+Hngh!
+Kirito
+2017110701_10_a
+still_14_heathcliff_dead
+bg_13_boss
+...!
+Heathcliff
+2017110701_9_a
+bg_black
+Kirito
+2017110701_8_a
+still_14_kirito_revive
+RRRGH! HAAAAAH!
+Kirito
+2017110701_7_a
+still_14_kirito_revive
+Huh?
+Heathcliff
+2017110701_6_a
+still_14_kirito_revive
+bg_13_boss
+Urgh...! Nngh!
+Kirito
+2017110701_5_a
+bg_black
+No. Not yet...!
+Kirito
+2017110701_4_a
+still_14_asuna_lost
+(I believe in you, Kirito.)
+Asuna
+2017110701_3_a
+still_14_heathcliff_stab
+It's all over now...
+Kirito
+2017110701_2_a
+still_14_heathcliff_stab
+bg_13_boss
+Gurgh!
+Kirito
+2017110701_1_a
 Haha, Pop Star Online can't
 come out soon enough!
 Kazuto
@@ -1810,1718 +1855,2075 @@ bg_21_alne
 406900101_1_a
 1K?
 1K?
-哈啾！
+Hello? Anyone there?
+Dyne
 406801201_79_a
 1K?
 bg_s2_01_wilderness
-………………
+...
+Dyne
 406801201_78_a
 1K?
+Kirito
 406801201_77_a
 1K?
-呼，這樣事情就算告一段落了吧。
-雖然我總覺得好像忘了什麼……
-大概是我多心了。
+Well, everything seems to have
+worked out. Odd. I get the feeling
+we're forgetting something.
+Sinon
 406801201_76_a
 1K?
-奧爾基斯
+Orchis
 406801201_75_a
 1K?
-嗯……！
-愛薇登特
+Yeah, me too!
+Epidanthia
 406801201_74_a
 1K?
+Sinon
 406801201_73_a
 1K?
-哈哈，妳的搭檔還真不錯。
-那今後麻煩你們多關照囉，
-愛薇登特，奧爾基斯。
+Ha ha, you got yourself a good
+partner there. I'm looking forward
+to playing more with both of you.
+Kirito
 406801201_72_a
 1K?
-嗯，今後我也會
-一直待在愛薇登特的身邊，
-療癒妳的內心喔。
-奧爾基斯
+That's right. And from here on
+out, I'll be by your side,
+Epidanthia.
+Orchis
 406801201_71_a
 1K?
-啊哈哈……你果然
-很懂得理解玩家的內心呢，
-奧爾基斯……
-愛薇登特
+Ahaha... You're really good at
+reading people, huh, Orchis?
+Epidanthia
 406801201_70_a
 1K?
-愛薇登特真的很喜歡花朵呢。
-奧爾基斯
+You must really like flowers,
+Epidanthia.
+Orchis
 406801201_69_a
 1K?
-而且妳為我取的名字「奧爾基斯」，
-一樣是蘭科的花名。
-奧爾基斯
+And the name you gave me was
+"Orchis," of the same family as
+the phragmipedium
+epidanthus.
+Orchis
 406801201_68_a
 1K?
-咦……？
-愛薇登特
+She did what...?
+Epidanthia
 406801201_67_a
 1K?
-愛薇登特這個名字，會令人聯想到
-以無花植株的方式販賣的
-美洲兜蘭屬的花。
-奧爾基斯
+Epidanthia... Did you take your
+name from the flower,
+phragmipedium epidanthus?
+Orchis
 406801201_66_a
 1K?
-我、我才沒哭呢……
-這是因為……有灰塵跑進我眼睛啦！
-都怪磐石灰塵這麼多！
-愛薇登特
+N-No, there's just dust in my eye,
+okay?! It's this stupid Monolith's
+fault for being so gross!
+Epidanthia
 406801201_65_a
 1K?
-愛薇登特，
-妳在哭嗎？
-奧爾基斯
+Epidanthia... Are you crying?
+Orchis
 406801201_64_a
 1K?
-奧爾基斯
+Orchis
 406801201_63_a
 1K?
-嗚嗚……
-愛薇登特
+sniff
+...
+Epidanthia
 406801201_62_a
 1K?
-謝、謝謝……
-之前……都沒有人
-像你們這樣打算幫我……
-愛薇登特
+Th-Thanks... I've...never had
+anyone be so nice to me before...
+Epidanthia
 406801201_61_a
 1K?
-應該也有辦法
-拿到能賣的東西，
-到時妳就拿去貼補妳弟的手術費吧。
+Yeah, and all the stuff that's
+worth cash is yours. Sell it to
+help your sick brother.
+Kirito
 406801201_60_a
 1K?
-和我們一起行動的話，
-拿到稀有挖掘品的效率
-應該會比以前要來得更好。
+I won't allow you to say no.
+Besides, it's way more efficient
+to party for rare hunting.
+Sinon
 406801201_59_a
 1K?
-桐人……詩乃……
-愛薇登特
+Kiri-poo... Sinon...
+Epidanthia
 406801201_58_a
 1K?
-還有，這陣子
-妳都要陪我們一起調查磐石……
-怎麼樣？
+Oh! One more thing! You party with
+us to explore the Monolith for a
+little while. Deal?
+Kirito
 406801201_57_a
 1K?
-我知道妳有苦衷……
-可是妳和贊助人的交易
-其實還滿危險的。
+I get that you're hard for money
+right now, but these contracts
+you're doing sound dangerous.
+Sinon
 406801201_56_a
 1K?
-而且妳
-不能老是去用貨幣還原系統。
+And every once in a while, you
+stop with the money-making and
+just play with us.
+Sinon
 406801201_55_a
 1K?
-但相對地，有幾個條件。
-我們要互相登錄為好友，
+There's one condition, though.
+You have to friend us.
+Sinon
 406801201_54_a
 1K?
-愛薇登特
+Say whaaat?
+Epidanthia
 406801201_53_a
 1K?
-然後我們要
-再把奧爾基斯讓給妳。
+And since it's ours, we'd like to
+give it to you.
+Kirito
 406801201_52_a
 1K?
-………………
-愛薇登特
+...
+Epidanthia
 406801201_51_a
 1K?
-嗯，我知道。
-既然交涉成立，
-奧爾基斯就是我們的東西了。
+Yeah, I know. Our deal's done,
+so Orchis's ours.
+Kirito
 406801201_50_a
 1K?
-這樣啊……
-噯，桐人。
+Yeah...
+Hey, Kirito...
+Sinon
 406801201_49_a
 1K?
-他都說要為我做事了，
-我有點不忍心
-把他賣給別人……
-愛薇登特
+Either way, it said it'd work for
+me, so I can't just sell it off...
+Epidanthia
 406801201_48_a
 1K?
-可是他那種純樸，
-還有黏著我的感覺，
-都讓我想起現實中的弟弟……
-愛薇登特
+It kinda reminds me of my little
+brother. How much it likes me,
+maybe? Or how pure it is?
+Epidanthia
 406801201_47_a
 1K?
-雖然我……
-才剛遇到這傢伙……
-愛薇登特
+Orchis?
+Well, I just met it, but...
+Epidanthia
 406801201_46_a
 1K?
-那妳為什麼
-要把那個機器人……
-奧爾基斯留在身邊？
+But then why were you thinking of
+keeping that android for yourself?
+Kirito
 406801201_45_a
 1K?
-就在這時候，
-突然出現了磐石的挖掘任務，
-這可是最近最容易賺錢的區域。
-愛薇登特
+Exactly. And then this Monolith
+appeared, and it became a total
+gold mine.
+Epidanthia
 406801201_44_a
 1K?
-的確，我到不久前
-也都還有和美國或者
-其他國家的人對戰過……
+Yeah, we were able to fight
+American players until just
+recently...
+Sinon
 406801201_43_a
 1K?
-GGO最近變成只能在國內伺服器
-和其他玩家一起玩，
-所以大家分到的錢也就少了……
-愛薇登特
+but then GGO decides to separate
+servers by regions, so my revenue
+stream dried up...
+Epidanthia
 406801201_42_a
 1K?
-直到不久前都還有
-國外的知名贊助人大方給錢呢。
-愛薇登特
+It was like a money-making dream!
+I was making bank with my big
+overseas patrons until recently,
+Epidanthia
 406801201_41_a
 1K?
-那時我聽說GGO有貨幣還原系統，
-所以想都沒想就潛行進來
-投入這個世界。
-愛薇登特
+When I heard about the real money
+marketplace in GGO, I dived right
+in and got hooked.
+Epidanthia
 406801201_40_a
 1K?
-可是鄉下地方的小店，
-根本不可能一下子
-就拿出那麼多錢吧？
-愛薇登特
+But we run a FLORIST in the middle
+of Podunk, Nowheresville. No way
+we can afford that.
+Epidanthia
 406801201_39_a
 1K?
-……！
+Dude...!
+Kirito
 406801201_38_a
 1K?
-可是我弟弟生了很嚴重的病……
-一定要到國外動手術，
-才有辦法治好他……
-愛薇登特
+My little brother's sick, and we
+need to send him overseas to get
+treated.
+Epidanthia
 406801201_37_a
 1K?
-算了……沒差啦。
-我家……
-是開花店的……
-愛薇登特
+Eh, whatever. You want my sob
+story, you got it.
+Epidanthia
 406801201_36_a
 1K?
-唉……
-桐人的夥伴都很愛說教呢……
-愛薇登特
+sigh
+...
+Kiri-poo, is everyone you
+know as nosy as you are?
+Epidanthia
 406801201_35_a
 1K?
-還有一件事，
-妳要告訴我們妳執著於
-貨幣還原系統的理由。
+I've got one more demand. Tell us
+why you're so obsessed with
+making real cash in GGO.
+Sinon
 406801201_34_a
 1K?
-啊哈哈……那就後者了。
-畢竟你們應該無論如何，
-都不想讓我違約吧……
-愛薇登特
+Ahaha, the latter. You don't want
+me to break the rules for some
+reason, so I'll humor you.
+Epidanthia
 406801201_33_a
 1K?
-還是要選擇……
-把那台機器人讓給我們？
+Or hand over that android?
+Kirito
 406801201_32_a
 1K?
-好了，愛薇登特。
-妳是打算就這樣被我們擊敗，
-隨機失去某個道具
+So, Epidanthia. What'll it be? Get
+fragged and lose a random item?
+Kirito
 406801201_31_a
 1K?
-啊……也對……
-哎呀……我都忘了……
-愛薇登特
+Oh... Duh! I totally forgot about
+that...
+Epidanthia
 406801201_30_a
 1K?
-狙擊手的彈道預測線
-只有第一發不會讓目標看到。
+The first surprise shot from a
+sniper rifle doesn't display a
+Bullet Line, remember?
+Sinon
 406801201_29_a
 1K?
-不過詩乃的彈道預測線
-應該會穿過桐人顯示出來才對，
-我怎麼沒看到？
-愛薇登特
+But why couldn't I see Sinon's
+Bullet Line through you, Kiri-poo?
+Epidanthia
 406801201_28_a
 1K?
-我知道妳是之前從遠方射中我
-也沒辦法把我收拾掉，
-所以才會靠近過來……
-愛薇登特
+Hey... I get why you wanted to try
+to get up close and personal to
+finish me off...
+Epidanthia
 406801201_27_a
 1K?
-嗯，這就是狙擊手的突擊，
-也就是狙擊手的背水一戰，
-妳可要好好記著。
+Yup. Sniper charge. A deadly,
+risky move, and one of our best
+tricks. Remember it.
+Sinon
 406801201_26_a
 1K?
-妳竟然也一起跟過來拉近距離……
-真的是……被擺了一道啊……
-愛薇登特
+There's no way I can handle both
+of you if you're this close...
+I lost, fair and square.
+Epidanthia
 406801201_25_a
 1K?
-哎呀～真傷腦筋。
-沒想到妳剛才就躲在桐人背後，
-妳是叫……詩乃吧？
-愛薇登特
+Yiiikes, I surrender! I never
+thought you'd have her-Sinon,
+was it?-hiding behind your back.
+Epidanthia
 406801201_24_a
 1K?
-………………
-愛薇登特
+...
+Epidanthia
 406801201_23_a
 1K?
+Kirito
 406801201_22_a
 1K?
-將軍了！！
+Checkmate.
+Sinon
 406801201_21_a
 1K?
-……！
-愛薇登特
+Dude...!
+Epidanthia
 406801201_20_a
 1K?
+Sinon
 406801201_19_a
 1K?
-沒關係！
-因為……這就是我的任務啊！！
+I don't mind! That's...my part
+of the plan!!
+Kirito
 406801201_18_a
 1K?
-再這樣下去，你還沒到我面前
-就會死翹翹囉！
-愛薇登特
+You'll die way before you reach
+me!
+Epidanthia
 406801201_17_a
 1K?
-哈哈，打中你囉，桐人！
-要好好用你擅長的光劍，
-把子彈打下來才行喔！
-愛薇登特
+Ha ha ha, those bullets look like
+they hurt! Your precious Photon
+Sword can't deflect them all!
+Epidanthia
 406801201_16_a
 1K?
-呃啊！！
+Nngh!
+Graaah!!
+Kirito
 406801201_15_a
 1K?
-你打算一口氣縮短距離，
-靠「初擊勝負」嗎！？
-才沒那麼容易呢！！
-愛薇登特
+You're trying to get in a surprise
+attack?! You think I'll fall for
+that?!
+Epidanthia
 406801201_14_a
 1K?
-或許吧！
-喝啊！！！
+Maybe... Maybe NOT!!
+Hraaagh!!!
+Kirito
 406801201_13_a
 1K?
-無論戰況如何，
-無論是什麼距離的槍擊戰，
-我都所向無敵！
-愛薇登特
+I'm invincible, no matter what
+sort of fight it is!
+Epidanthia
 406801201_12_a
 1K?
-你都知道了啊
-不過就算你們發覺了，
-還是沒有勝算的喔！
-愛薇登特
+Hmph, okay, so you got me pegged.
+So what? You still can't beat me,
+Kiri-poo!
+Epidanthia
 406801201_11_a
 1K?
-……！
-愛薇登特
+Dude...!
+Epidanthia
 406801201_10_a
 1K?
-與那STR-VIT特化型的
-虛擬角色搭配，使妳擁有
-單槍匹馬也可過關斬將的實力……
+Add to that a high-level STR/VIT
+build, and no wonder you're an
+elite solo player.
+Kirito
 406801201_9_a
 1K?
-剛才我們都是在驗證妳有多強。
-命中預想圓的精準度，
-還有「身歷百戰」技能……
+We figured out why you're so good.
+Extra-accurate Bullet Circles,
+plus that Old Guard skill...
+Kirito
 406801201_8_a
 1K?
-呵呵，你在說謊吧，
-我可是都有在注意唷。
-她應該還待在那裡才對。
-愛薇登特
+Hehe, liar. I've had my eye on
+that rock since you two hid back
+there. She hasn't left it.
+Epidanthia
 406801201_7_a
 1K?
-天曉得，
-搞不好都不在這塊岩石後頭了。
+Who can say? Maybe she already
+slipped away?
+Kirito
 406801201_6_a
 1K?
-嘿嘿，你乖乖走出來了啊。
-桐人，另一個人呢？
-愛薇登特
+Heh, I see you decided to come out
+and die like a good boy. So,
+Kiri-poo... Where's your friend?
+Epidanthia
 406801201_5_a
 1K?
-………………
+...
+Kirito
 406801201_4_a
 1K?
-那麼，只剩下
-躲在那塊岩石後頭的，
-桐人和另外那個女生囉！
-愛薇登特
+Next on the menu is Kiri-poo and
+his girlfriend! I see you behind
+that rock!
+Epidanthia
 406801201_3_a
 1K?
-好啦，擊敗大叔囉！
-愛薇登特
+Yay, gross old guy's dead!
+Epidanthia
 406801201_2_a
 1K?
 bg_s2_02_underground
-唔喔啊！
+Urrrgk!
+Dyne
 406801201_1_a
-………………
+...
+Kirito
 406801101_34_a
-那真的不是區區一個女高中生，
-光靠賺零用錢
-就能獲得的技能啊……
+It's not the sort of skill you'd
+earn if you were just playing for
+a few larks and some cash...
+Sinon
 406801101_33_a
-可是要得到「身歷百戰」這個技能，
-應該需要相當高的熟練度才對……
+Well, you need to be a
+ridiculously high level to
+qualify for the Old Guard skill...
+Sinon
 406801101_32_a
-那個技能再加上
-命中預想圓的準確性……
-就是她那麼厲害的秘密嗎。
+So the secret to her strength
+is that rare skill, plus her
+unnatural calm.
+Kirito
 406801101_31_a
-叫做「身歷百戰」的稀有技能！
+The rare skill...Old Guard!
+Sinon
 406801101_30_a
-GGO裡面，有一種
-只要刻意帶著難以駕馭的舊式槍械
-就能減輕玩家負擔
+GGO's got one thing that lets you
+reduce the burden of using hard
+to wield antique guns!
+Sinon
 406801101_29_a
-……？
+Uh...?
+Kirito
 406801101_28_a
-每一把都是舊式的……
-所以說……
+They're all antique guns.
+Which means...
+Sinon
 406801101_27_a
-還有短機關槍MP18喔。
+She's got a submachine gun too.
+An MP 18.
+Kirito
 406801101_26_a
-她身上帶的是
-重型機槍Colt-Browning……
-溫徹斯特獵槍……
+She's got a heavy machine-gun:
+the Colt-Browning. Also, the
+Winchester: a hunting rifle...
+Sinon
 406801101_25_a
-原來如此……我想到理由了。
+Ah. I got it.
+Sinon
 406801101_24_a
-明明帶著三把槍
-卻能迅速移動的理由……
-嗯……？
+So, how does she move so fast
+carrying three huge guns...?
+Wait a sec...
+Sinon
 406801101_23_a
-的確，就算是蠻力型玩家，
-她的動作就COST來看
-也不太尋常……
+I see what you're getting at.
+She's moving way too fast,
+even for a musclehead character.
+Sinon
 406801101_22_a
-那下一個問題，
-她帶著那麼重的武器，
-怎麼還有辦法迅速行動？
+Okay, so plan A is bust. Plan B.
+Question: how can she move so fast
+with all that heavy equipment?
+Kirito
 406801101_21_a
-聽了那些話還有辦法這麼平心靜氣，
-可以說是天生的資質呢……
-真是羨慕她。
+I'm honestly jealous. She must
+have a natural gift for
+self-control.
+Sinon
 406801101_20_a
-我們剛才講那些辛辣的話，
-就是要想辦法激怒她的說……
+I said a whole bunch of stuff back
+there in the hopes that I'd rattle
+her, but looks like I failed.
+Kirito
 406801101_19_a
-所以她是因為心跳數很低
-才能精準地狙擊。
-也就是說她一直處於冷靜狀態。
+So the reason she's so accurate is
+because she's always so calm
+and collected.
+Sinon
 406801101_18_a
-命中預想圓……
-只要心跳數愈低就愈不會偏……
+...are smaller the lower your
+heart rate is.
+Sinon
 406801101_17_a
-如我所料……
-瞄準時啟動的
-系統輔助機能
+Just as I expected. The Bullet
+Circles that pop up when the
+aiming system assist kicks in...
+Sinon
 406801101_16_a
+Sinon
 406801101_15_a
-詩乃……近距離看過她狙擊之後，
-妳覺得怎麼樣？
+Sinon, you've seen her aim at
+close range. Thoughts?
+Kirito
 406801101_14_a
-噁心！
-愛薇登特
+Bleck, I'm gonna be sick!
+Epidanthia
 406801101_13_a
-小妹妹！
-妳這樣氣呼呼的
-就糟蹋一張可愛的臉蛋啦。
+Hey, don't have such a cow, gurl,
+or nobody'll think your tots hots!
+You dig?
+Dyne
 406801101_12_a
-勸你最好
-不要妄想能阻止我喔！
-愛薇登特
+Well, you won't last a second
+against me!
+Epidanthia
 406801101_11_a
-大叔……
-你是要幫忙桐人
-還有另一個女生就對了？
-愛薇登特
+Hey, gramps! You planning on
+being a meatshield for those two?
+Epidanthia
 406801101_10_a
+Kirito
 406801101_9_a
+Sinon
 406801101_8_a
-好好好！
-怎麼我每次都是負責這個啦！
+Yeah, yeah... Why do I always
+get this job?
+Dyne
 406801101_7_a
-戴因，交給你制住她了！
+Dyne, keep her busy for me!
+Sinon
 406801101_6_a
+Dyne
 406801101_5_a
+Sinon
 406801101_4_a
-唔……
-那種連射和破壞力……
-實在招架不住啊！
+Yikes... That firing speed and
+power's nothing to mess with!
+Kirito
 406801101_3_a
-中距離戰可是我最擅長的領域！
-我就用這把重型機槍
-把你轟成蜂窩！
-愛薇登特
+I'm at my most deadly at this
+range! I'll blow you away with
+my Colt-Browning!
+Epidanthia
 406801101_2_a
 bg_s2_02_underground
-我早就知道會往那邊跑！
-愛薇登特
+I know you're hiding over there!
+Epidanthia
 406801101_1_a
 iJ?
 iJ?
+You got it!
+Sinon
 406801001_55_a
 iJ?
+Dyne
 406801001_54_a
 iJ?
+Sinon
 406801001_53_a
 iJ?
-這就代表妳願意接受挑戰吧！
-好，那就再來打一場！
-詩乃，我們上！
+So you'll fight us? Great!
+Rematch time!
+Sinon, let's do this!
+Kirito
 406801001_52_a
 iJ?
-我知道了，愛薇登特。
-奧爾基斯
+Got it, Epidanthia.
+Orchis
 406801001_51_a
 iJ?
-奧爾基斯！
-你先躲到那邊去！
-讓你好好瞧瞧，你的主人有多厲害！
-愛薇登特
+Orchis! Go hide somewhere!
+Your mistress's about to kick
+some butt!
+Epidanthia
 406801001_50_a
 iJ?
 trQ
-既、既然你們這麼瞧不起我，
-我也不能悶不吭聲！
-愛薇登特
+I won't stand for you jerks
+insulting my skills like that,
+either!
+Epidanthia
 406801001_49_a
 iJ?
-奧爾基斯
+Orchis
 406801001_48_a
 iJ?
 trQ
-你、你們幹嘛擅自決定！
-而且真要說起來，
-我根本就不會輸給你們！
-愛薇登特
+Okay, first of all, I'd never lose
+to you idiots! Secondly, why would
+I agree to your stupid plan?!
+Epidanthia
 406801001_47_a
 iJ?
-只要我們串通好，
-說是因為死亡懲罰才導致掉寶，
-妳就不算沒有履行契約。
+Then, we tell people it dropped
+when we ganked you. That way,
+you won't break your contract.
+Sinon
 406801001_46_a
 iJ?
-不想被我們給殺掉的話，
-就把那個挖掘品讓給我們。
+Well, we won't kill you if you
+hand it over to us.
+Sinon
 406801001_45_a
 iJ?
+Dyne
 406801001_44_a
 iJ?
+Kirito
 406801001_43_a
 iJ?
-妳也知道GGO的死亡懲罰
-是會隨機失去持有的道具吧？
+The death penalty in GGO is harsh.
+You die, you lose a random item.
+Sinon
 406801001_42_a
 iJ?
-奧爾基斯
+Orchis
 406801001_41_a
 iJ?
-什麼？
-愛薇登特
+Huh...?
+Epidanthia
 406801001_40_a
 iJ?
+Sinon
 406801001_39_a
 iJ?
+Dyne
 406801001_38_a
 iJ?
-這麼說也對……
-那我們就要在這裡跟妳戰鬥，
-把那東西給搶過來。
+Alright... So, how about we
+just say we killed you here and
+stole it?
+Kirito
 406801001_37_a
 iJ?
-奧爾基斯
+Orchis
 406801001_36_a
 iJ?
 trQ
-才、才不關你們的事！
-我拿到的東西，
-我想怎麼處理都可以吧！
-愛薇登特
+H-Hey, stick your noses in someone
+else's business! I can do whatever
+I want with the stuff I find!
+Epidanthia
 406801001_35_a
 iJ?
-就是這樣。
-守財奴要是過於斂財，
-可是會招來不好的誤解。
+He's right. Get too greedy, and
+your employers might come for
+your kneecaps.
+Sinon
 406801001_34_a
 iJ?
-既然妳是簽約之後才來這裡挖掘的，
-那妳還是遵照契約內容進行比較好。
+That's why people are using
+contracts now. If you're under
+one, you'd best follow it.
+Kirito
 406801001_33_a
 iJ?
-GGO貨幣還原系統的契約，
-好像常常造成爭端。
+Apparently, there's been a lot of
+trouble over trades involving real
+money in GGO lately.
+Kirito
 406801001_32_a
 iJ?
-………………
+...
+Dyne
 406801001_31_a
 iJ?
+Sinon
 406801001_30_a
 iJ?
+Dyne
 406801001_29_a
 iJ?
-建議妳還是別那麼做比較好，
-剛才聽戴因說了不少這方面的事。
+I'd forget it if I were you.
+Dyne here just filled me in
+on some interesting stuff.
+Kirito
 406801001_28_a
 iJ?
-你們幾個……
-愛薇登特
+Oh. It's you losers.
+Epidanthia
 406801001_27_a
 iJ?
-……！
-愛薇登特
+Dude...!
+Epidanthia
 406801001_26_a
 iJ?
-妳該不會想把那東西佔為己有吧？
-愛薇登特。
-？？？
+You're not planning on stealing
+that for yourself too, Epidanthia?
+???
 406801001_25_a
 iJ?
-………………
-愛薇登特
+...
+Epidanthia
 406801001_24_a
 iJ?
-我該做什麼才好？
-奧爾基斯
+What would you like me to do?
+Orchis
 406801001_23_a
 iJ?
-我知道了，
-我的名字就叫做奧爾基斯。
-奧爾基斯
+Understood. My name is now Orchis.
+Orchis
 406801001_22_a
 iJ?
-好啦好啦，我知道了。
-那你的名字就叫……
-奧爾基斯！
-愛薇登特
+Right, fine... Okay, your name
+is...Orchis!
+Epidanthia
 406801001_21_a
 iJ?
-再問妳一次唷，
-可以幫我取個名字嗎？
-？？？
+I will ask one more time.
+Please, give me a name.
+???
 406801001_20_a
 iJ?
-我……想要做什麼……
-愛薇登特
+What do I want to do...?
+Epidanthia
 406801001_19_a
 iJ?
-妳想做什麼……
-就儘管說吧。
-？？？
+Please, tell me. What is it that
+you wish to do?
+???
 406801001_18_a
 iJ?
-好的，愛薇登特。
-今後只要為了妳，
-我什麼都願意做。
-？？？
+Epidanthia. Understood. From here
+on, I will do whatever I can to
+assist you.
+???
 406801001_17_a
 iJ?
-隨便啦，
-我叫愛薇登特喔……
-愛薇登特
+Eh, whatever.
+I'm Epidanthia.
+Epidanthia
 406801001_16_a
 iJ?
-然後我也希望
-主人可以把妳的名字告訴我。
-？？？
+In addition, please tell me your
+name, mistress.
+???
 406801001_15_a
 iJ?
-名字……？
-我又不是你的主人……
-愛薇登特
+A name...? Why would I do that?
+I'm not your real owner or
+anything.
+Epidanthia
 406801001_14_a
 iJ?
-主人，
-可以請妳幫我取個名字嗎？
-？？？
+Mistress, will you please give me
+a name?
+???
 406801001_13_a
 iJ?
-這看起來可以賣個好價錢……
-愛薇登特
+I bet I can get a ton of cash
+for it...
+Epidanthia
 406801001_12_a
 iJ?
-唔呀……
-真沒想到我會發現
-這種東西啊。
-愛薇登特
+Wowie... I never thought I'd find
+anything like this in here...
+Epidanthia
 406801001_11_a
 iJ?
-精神狀態管理支援用
-機器人……簡稱MHCR喔。
-？？？
+My designation is MHCR:
+Mental Health Counseling Robot.
+I am pleased to meet you.
+???
 406801001_10_a
 iJ?
-我是為了療癒
-太空船機組人員的心，
-所配置的人型機器人。
-？？？
+I am an android assigned to this
+spaceship. My purpose is to offer
+emotional support to its crew.
+???
 406801001_9_a
 iJ?
-哇哇！
-說話了！？
-愛薇登特
+Whaaat! It spoke!
+Epidanthia
 406801001_8_a
 iJ?
-妳就是……
-我的主人嗎？
-？？？
+Are you...my mistress?
+???
 406801001_7_a
 iJ?
-人型……機器人？
-沒看過這種道具……
-愛薇登特
+An android? I've never seen
+anything like this before.
+Epidanthia
 406801001_6_a
 iJ?
-愛薇登特
+Epidanthia
 406801001_5_a
 iJ?
-………………
-？？？
+...
+???
 406801001_4_a
 iJ?
-這是……
-愛薇登特
+Hmm... This is...
+Epidanthia
 406801001_3_a
 iJ?
-要是可以順利找到
-能用高價賣出的挖掘品就好囉……
-愛薇登特
+Great! Now, let's see what sorta
+expensive-looking treasures I can
+scrounge up...
+Epidanthia
 406801001_2_a
 iJ?
 bg_s2_02_underground
-這裡感覺……
-好像是磐石裡的
-最深處了～
-愛薇登特
+This totally feels like the
+Monolith's deepest, darkest
+place. Ooo, scary.
+Epidanthia
 406801001_1_a
-啊……那個，
-關於這點嘛……啊哈哈……
+Ah... Er...
+Nah, not exactly.
+Haha. Hah.
+Kirito
 406800901_37_a
-桐人……
-妳……真的是女孩子嗎？
+But Kirito...
+Are you really a chick?
+Dyne
 406800901_36_a
-不、不過啊……
-因為你們一直很認真地在討論事情
-所以我沒有插話的餘地……
+Hey, I know we're having
+serious conversation here...
+Dyne
 406800901_35_a
-這……
-說不定就像你講的一樣……
+Hmm... I guess I can see that...
+Sinon
 406800901_34_a
-和現實的朋友玩在一起
-才會比較開心的類型……
-所以這讓我感到不太對勁。
+She seems more like the type who'd
+hang out in the mall with friends
+or go to parties.
+Kirito
 406800901_33_a
-不過……我覺得那樣的女生，
-一般來講應該是會花時間
-和朋友去買東西、到處去玩
+Anyway... At a glance, she doesn't
+seem the type to get into games.
+Especially hardcore VR shooters.
+Kirito
 406800901_32_a
-喂，等一下！
-妳怎麼會說到那邊去啊！
+N-No! How was I flirting?! And
+what do you mean, "again"?! 
+Kirito
 406800901_31_a
-我要跟亞絲娜講喔！
+Do you want me to go tell Asuna
+you're flirting behind her back
+again?!
+Sinon
 406800901_30_a
-什、什麼嘛，桐人！
-你又在幫剛遇到的女生
-講好話了！
+H-Hey, Kirito! Why are you taking
+this random girl's side here!
+Sinon
 406800901_29_a
-的確，在VRMMO裡，GGO的
-女性玩家比例算是極為稀少。對於年輕
-女生來說，門檻應該挺高的。
+Good point. Most of GGO's players
+are older guys. We don't have many
+girls
+younger ones, especially.
+Dyne
 406800901_28_a
-區區一個女高中生，
-有可能只為了賺取零用錢
-就這麼投入GGO嗎？
+I don't think an average high
+school girl after pocket money
+would obsess over GGO that much.
+Kirito
 406800901_27_a
-而且她還確實理解遊戲設計，
-獨自一人奮戰至今……
+She knows the game inside and out,
+has a plan for every situation,
+and is a killer solo player.
+Kirito
 406800901_26_a
-嗯，是沒錯……不過，
-她為了能因應對手的距離
-而帶著三把槍行動。
+Yeah, she did. But think about it.
+She's walking around with three
+specialized guns.
+Kirito
 406800901_25_a
-什麼意思？
-你不是聽她親口這麼講的嗎？
+Hmph. Did she tell you that
+during one of your little chats?
+Sinon
 406800901_24_a
-真的只是為了賺零用錢，
-才這麼用心投入GGO嗎……？
+I don't think she's playing GGO
+just to make a few bucks,
+no matter what she says...
+Kirito
 406800901_23_a
-……我瞭解妳的心情。
-可是她……
+I...get you there, Sinon.
+But that girl...
+Kirito
 406800901_22_a
-就算這樣……我還是沒辦法接受
-自己輸給一個
-只是來賺錢的人！
+Even still. I can't forgive myself
+for losing to some idiot just
+playing GGO for cash.
+Sinon
 406800901_21_a
-況且，也是有職業玩家呀。
+Besides, pro gaming's a thing now,
+and isn't that basically the same
+as working?
+Dyne
 406800901_20_a
-妳就別這樣講了，詩乃。
-每個玩家玩遊戲的動機
-也是各不相同嘛。
+Hey, easy there, Sinon. Everyone
+plays for a different reason.
+Dyne
 406800901_19_a
-我可不認同那種行為……！
-竟然把玩GGO當成是在打工。
+Bah, she annoys me. Using GGO
+like some sort of part-time job.
+The nerve!
+Sinon
 406800901_18_a
-單槍匹馬還能有這種表現，
-的確是可以輕鬆地賺錢啊。
+If she's that skilled of a solo
+player, she must be making bank.
+Dyne
 406800901_17_a
-才、才沒有那回事……
-不過她很執著於貨幣還原系統，
-這讓我有點在意……
+W-We just had a chat or two...
+I'm a bit worried about her
+obsession with money...
+Kirito
 406800901_16_a
-哼……看來你們
-在我不知道的時候
-感情變得很好囉。
+Hmph... You've certainly learned
+a lot about her all of a sudden.
+Care to elaborate on how?
+Sinon
 406800901_15_a
-那個叫做愛薇登特的女孩，
-乍看之下很輕浮……
-但卻是實力深厚的玩家……
+Epidanthia looks like a gaudy
+pushover, but she's one insanely
+skilled player...
+Kirito
 406800901_14_a
-近距離、中距離，還有遠距離……
-所有位置都能精準狙擊，
-而且還能硬吃下對手的攻擊……
+She's got guns for close-range,
+mid-range, and long-range combat,
+and she's tough as nails...
+Kirito
 406800901_13_a
-這是怎麼回事……那把槍
-性能遠遠不及我的大型狙擊槍，
-她為什麼能那麼精準地射擊……
+How did she hit me?! A Winchester
+is far less accurate than my
+Hecate...
+Sinon
 406800901_12_a
 ZZ.
-她用那麼老的槍打過來啊！？
+She used that antique?!
+Dyne
 406800901_11_a
-溫徹斯特獵槍！？
+A Winchester?!
+Sinon
 406800901_10_a
-那是……
+You won't believe it...
+Kirito
 406800901_9_a
-真是的……剛才那是怎樣？
-我是被什麼槍給打中的？
+Yeah, and it seriously stung.
+What did that crazy girl shoot
+me with?
+Sinon
 406800901_8_a
-對，我沒事……
-不過詩乃剛才被打中了吧？
+Yeah, barely... But what about
+Sinon?! Didn't she just get hit?!
+Kirito
 406800901_7_a
-喔喔，桐人你沒事啊！
+Oh, Kirito! You're OK!
+Dyne
 406800901_6_a
-詩乃！
+Sinon!
+Kirito
 406800901_5_a
-嗯，算是吧……
+Yeah... Somehow...
+Sinon
 406800901_4_a
-詩乃，妳沒事吧！？
+Sinon, are you okay?!
+Dyne
 406800901_3_a
+Dyne
 406800901_2_a
 bg_s2_11_cave
-唔呃……
+Owww...
+Sinon
 406800901_1_a
-唔……！
+Urk...
+Kirito
 406800801_18_a
-太棒了～打個正著啦。
-好了好了，你別發呆，
-快點去同伴那邊比較好喔。
-愛薇登特
+Ooo, that looked like it hurt.
+You miiight want to go give
+your friend some CPR.
+Epidanthia
 406800801_17_a
-……！
+Dude...!
+Kirito
 406800801_16_a
-喝呀！
-愛薇登特
+Boom. Headshot!
+Epidanthia
 406800801_15_a
-不過到了我的手上，
-就算是這種古董……！
-愛薇登特
+But any old-timey gun like this in
+MY hands becomes a deadly weapon
+of doom!
+Epidanthia
 406800801_14_a
-呵呵，這把可是比
-桐人你的夥伴用的還要老上好幾輪呢～
-愛薇登特
+Hehe, it's waaay older than
+anything your friend's using...
+Epidanthia
 406800801_13_a
-那是狙擊槍！？
-不對……是獵槍？
+That's...a sniper rifle!
+Hold on... A hunting rifle?!
+Kirito
 406800801_12_a
-武器又換了……？
+She's changing weapons again...?!
+Kirito
 406800801_11_a
-這種程度的狙擊，
-才沒辦法撂倒我呢！
-愛薇登特
+One silly little sniper shot to
+the face can't stop me!
+Epidanthia
 406800801_10_a
-呵呵，我可是
-完完全全的STR-VIT型玩家喔！
-愛薇登特
+Hehehe... I'm a total STR/VIT
+build, duh.
+Epidanthia
 406800801_9_a
-什麼……？
-遭到詩乃狙擊，
-竟然還有辦法站著……？
+What?! You can still stand, even
+after getting sniped by Sinon?!
+Kirito
 406800801_8_a
-才在這邊拖延時間的嗎……
-愛薇登特
+You're a pretty good tactician,
+Kiri-poo...
+Epidanthia
 406800801_7_a
-原、原來如此啊……
-你是為了讓剛才的同伴
-有辦法狙擊我
-愛薇登特
+I-I see... You were buying time
+until your friends got here to
+snipe me...
+Epidanthia
 406800801_6_a
-不用我特地說明，
-也能好好觀察我的動向，
-幫忙狙擊……！
+I didn't have to say a word.
+She knew I wanted her to snipe
+you just by watching me!
+Kirito
 406800801_5_a
-好，命中了……！
-真不愧是詩乃！
+Nice shot! That's my Sinon!
+Kirito
 406800801_4_a
-唔……呃……
-咕啊……！
-愛薇登特
+Nngh... Urk...
+Gak...!
+Epidanthia
 406800801_3_a
 bg_s2_11_cave
-……！
-愛薇登特
+Dude...!
+Epidanthia
 406800801_1_a
-………………
+...
+Kirito
 406800701_41_a
-你那表情……
-看起來在思索著什麼呢？
-愛薇登特
+Hmm... I know that look! You're
+thinking of some sort of sneaky
+plan!
+Epidanthia
 406800701_40_a
-但只要詩乃
-在附近聽見這些槍聲……
+If only Sinon were close enough to
+hear all this gunfire...
+Kirito
 406800701_39_a
-不過我一直躲
-也沒辦法贏……
+But I can't win just by dodging...
+Kirito
 406800701_38_a
-畢竟我對於命中的精準度很有自信，
-卻一直都打不到你。
-愛薇登特
+I know how good of a marksman I
+am, but you're somehow avoiding
+my shots.
+Epidanthia
 406800701_37_a
-桐人啊，
-你真的從剛才開始就很厲害耶。
-愛薇登特
+Kiri-poo, you really are
+incredible.
+Epidanthia
 406800701_36_a
-得再拉近距離才行……！
-可是……這種連射，
-我果然沒辦法全數擋下……！
+I need to get closer! But...how
+do I do that when she's spraying
+a thousand bullets a second?!
+Kirito
 406800701_35_a
+Sinon
 406800701_34_a
-好，瞭解了！
+R-Roger that! Let's go.
+Dyne
 406800701_33_a
-那實在太深了，根本爬不上來。
-桐人應該也會移動到別處，
-找其他方法往上爬才對。
+Nobody could climb out of a hole
+that deep. I bet Kirito's already
+looking for another way out.
+Sinon
 406800701_32_a
-不在這裡等桐人沒關係嗎？
+We're not waiting here for Kirito?
+Dyne
 406800701_31_a
-我們快去看看！
+Let's check it out.
+Sinon
 406800701_30_a
-從那裡傳來的！
+It's coming from over there!
+Dyne
 406800701_29_a
+Dyne
 406800701_28_a
-槍聲……！
+Gunfire!
+Sinon
 406800701_27_a
-愛薇登特
+Epidanthia
 406800701_26_a
-唔……！
+Urk...
+Kirito
 406800701_25_a
-好了，桐人。
-我要把你打成蜂窩囉！！
-愛薇登特
+Now bring it, Kirito! I'm gonna
+fill you full of lead!
+Epidanthia
 406800701_24_a
-這把MP18
-可是衝鋒槍的老祖宗喔！
-愛薇登特
+The granddaddy of all submachine
+guns: the MP 18!
+Epidanthia
 406800701_23_a
-短機關槍……是衝鋒槍嗎！
+A submachine gun?!
+Kirito
 406800701_22_a
-呵呵，
-我也有好好準備
-近距離用的裝備啊！就是這個！
-愛薇登特
+Hehe... I've got close combat
+equipment too! Check THIS out!
+Epidanthia
 406800701_21_a
-我是不會介意啦……
-不過我們離得這麼近，
-妳剛才那把重型機槍就沒用囉。
+I'm down for a duel, but you sure
+you want to fight me? Your gun
+won't help you if I'm this close.
+Kirito
 406800701_20_a
-那我們的合作就到此為止啦！
-好，來對戰吧！
-愛薇登特
+So, our temporary truce is over.
+Wanna shoot each other and see
+what happens?!
+Epidanthia
 406800701_19_a
-………………
+...
+Kirito
 406800701_18_a
-那就當你沒講過啦！
-囉哩八嗦的人啊，
-現實裡頭有就夠了！
-愛薇登特
+Great, then we're done talking
+about this! I get enough of that
+morality crap in real life!
+Epidanthia
 406800701_17_a
-也、也不是那樣啦……
+H-Hey, I'm not trying to tell you
+how to live your life, but-
+Kirito
 406800701_16_a
-哎呀？桐人你該不會很愛說教吧？
-我不太會應付這種人的說
-愛薇登特
+Ugh, what are you, the police?
+Get off my back. I hate
+do-gooders.
+Epidanthia
 406800701_15_a
-不過，妳這麼做還是很危險吧？
-私佔東西可是違約的喔？
-妳有和爸媽提過貨幣還原系統嗎？
+Stealing sounds like trouble...
+And have you talked to your
+parents about this "job"?
+Kirito
 406800701_14_a
-……妳簡直就像影片網站上
-風靡一時的素人藝人。
+This sounds...too good to be true.
+Kirito
 406800701_13_a
-而且光是去探索磐石，
-就能拿到一定程度的
-活動報酬喔。
-愛薇登特
+Better yet, they pay me just for
+exploring the Monolith-plus extra
+for whatever I find!
+Epidanthia
 406800701_12_a
-消耗品之類的全部都會分發給大家，
-必需品也是有求必應。
-愛薇登特
+They pay for all my consumables,
+and they'll even buy me anything
+I say I need for the job.
+Epidanthia
 406800701_11_a
-沒被拆穿就沒事啦。
-而且那些贊助人，
-人真的很好呢～
-愛薇登特
+It'll be fine, as long as no one
+finds out! Besides, my patrons
+are too nice for their own good.
+Epidanthia
 406800701_10_a
-那妳這樣不就違約了嗎。
+You're planning on breaking
+your contract?
+Kirito
 406800701_9_a
-雖然，算是有簽過約了，
-所以拿到的東西
-全都要交出去才可以。
-愛薇登特
+Welll, my contract says that I've
+gotta hand over everything I find.
+Epidanthia
 406800701_8_a
-偷偷佔為己有……
-那樣好嗎？
+Steal...? Is that a good idea?
+Kirito
 406800701_7_a
-差不多賣一半吧
-好像派得上用場的東西，
-我就會偷偷佔為己有囉。
-愛薇登特
+Half, maybe? I'll steal anything
+that looks like it might come in
+handy.
+Epidanthia
 406800701_6_a
-妳在地底拿到的那些挖掘品
-都會賣給贊助人嗎……？
+You're planning on selling your
+whole haul to the patrons
+sponsoring you, right?
+Kirito
 406800701_5_a
-在地底也找到了一些
-稀有的挖掘品，
-真是幸運！
-愛薇登特
+Yeah, and I found a ton of rare
+stuff down there too! It must be
+my lucky day!
+Epidanthia
 406800701_4_a
-終於可以回到地表了呢，
-雖然磐石算是室內啦……
+Fresh air! Or, whatever passes for
+it here. At least we're not
+trapped in the Monolith anymore.
+Kirito
 406800701_3_a
+Kirito
 406800701_2_a
 bg_s2_11_cave
-喔喔，出來了出來了～
-愛薇登特
+Oooh, we're out!
+Epidanthia
 406800701_1_a
-是、是喔……
-這和詩乃的反應還差真多……
+C-Cool... Sinon did NOT take that
+particular revelation this well...
+Kirito
 406800601_31_a
-這樣子啊！
-不過是男是女都沒差啦。
-愛薇登特
+Hmph, lame! Eh, I guess I don't
+really care, though.
+Epidanthia
 406800601_30_a
-我一直沒機會說……
-雖然我的虛擬角色長這樣，
-其實我是男生喔。
+Err, I never had the chance to
+tell you, but despite the avatar,
+I'm a guy.
+Kirito
 406800601_29_a
-真是浪費了這麼正的虛擬角色！
-愛薇登特
+You're wasting all that sexy
+avatar's potential!
+Epidanthia
 406800601_28_a
-名字還滿像男生的耶？
-口氣也莫名地像男生……
-愛薇登特
+Awww, little Kiri-poo! I love it,
+but isn't that a guy's name? And
+huh, you talk like a guy too.
+Epidanthia
 406800601_27_a
-我、我叫桐人。
+K-Kirito...
+Kirito
 406800601_26_a
-呀哈哈！
-開玩笑的啦！
-那個……妳叫……
-愛薇登特
+Hyah hah hah! Relax, dummy!
+I'm just kidding with you...
+Hey, what's your name?
+Epidanthia
 406800601_25_a
-呃……這個嘛……
+Umm... I'm...not sure how to
+react to that...
+Kirito
 406800601_24_a
-妳想想，像我們這樣的女高中生
-在現實中想馬上賺到錢，
-就只能做色色的事情了吧？
-愛薇登特
+If girls our age want to make real
+cash real quick in the real world,
+it's illegal stuff or bust.
+Epidanthia
 406800601_23_a
-畢竟比起在現實中打工，
-在這裡賺錢鐵定比較輕鬆啊。
-愛薇登特
+I mean, it's waaay easier to make
+cash here than with some two-bit
+part-time job irl, right?
+Epidanthia
 406800601_22_a
-應該說，大部份的人
-都是因為錢才玩這個遊戲的吧？
-愛薇登特
+Like, duh? Isn't that basically
+the whole point of this game?
+Epidanthia
 406800601_21_a
-妳一直都在GGO裡頭賺錢嗎……？
+Do you spend all your time in GGO
+trying to make cash?
+Kirito
 406800601_20_a
-不過我會逼妳付學費就是了，
-呀哈哈。
-愛薇登特
+Of course, I'd make you pay me for
+the privilege! Ha ha ha!
+Epidanthia
 406800601_19_a
-不知道怎麼用的話，
-要不要我教妳呀？
-愛薇登特
+If you don't know how to do it,
+I could teach you.
+Epidanthia
 406800601_18_a
-我是沒用過貨幣還原系統……
-啊，算是有間接用過吧……
+I've never really gotten into real
+money trading myself. Well,
+I guess indirectly, but...
+Kirito
 406800601_17_a
-GGO這遊戲真的不錯耶，
-畢竟這麼輕鬆就能賺到零用錢了。
-愛薇登特
+Seriously, though, GGO's such an
+awesome game! I love how easy it
+is to make real bucks here!
+Epidanthia
 406800601_16_a
-嗯，好……
+S-Sure, I guess...
+Kirito
 406800601_15_a
-那，總之我們就先前進吧。
-這個空洞跟橫洞相通，
-所以應該找得到階梯吧。
-愛薇登特
+So... You seem decent enough. Want
+to team up until we get out of
+here?
+Epidanthia
 406800601_14_a
-………………
+...
+Kirito
 406800601_13_a
-啊哈，很多人對我這樣講
-不過，我的個性就是不在乎那些。
-愛薇登特
+Ahaha, everyone always says that!
+Eh, I don't really care to keep
+net me and real me separate.
+Epidanthia
 406800601_12_a
-那個……
-我覺得還是不要說太多
-現實世界的事情比較好喔。
+Uh, you might not want to just
+blab about who you are in the
+real world, then?
+Kirito
 406800601_11_a
-要是他們知道我是女高中生，
-而對我想入非非或者瞧不起我，
-我可受不了呢
-愛薇登特
+Once all those creepy old guys
+learn I'm a high school girl, they
+go all pervert on me. Bleck.
+Epidanthia
 406800601_10_a
-有人合作的確是比較好，
-不過玩GGO的基本上都是大叔，
-愛薇登特
+I know that GGO's all about
+teamwork, but that's lame,
+and everyone here's an old fart.
+Epidanthia
 406800601_9_a
-當然！
-因為我想獨佔所有的報酬啊。
-愛薇登特
+Duh! I wanna hog all the sweet
+loot for myself, after all!
+Epidanthia
 406800601_8_a
-妳是……一個人
-來探索這個區域的吧？
+You're...planning on soloing this
+area?
+Kirito
 406800601_7_a
-你最好小心背後喔，
-嘻嘻嘻～
-愛薇登特
+I'd watch my back if I were you!
+Epidanthia
 406800601_6_a
-不過，
-等離開這裡之後就很難說囉。
-愛薇登特
+Then agaaain, who knows just what
+I'll do? Heh heh heh...
+Epidanthia
 406800601_5_a
-妳不用那麼緊張啦，
-我可沒有血氣方剛到
-會在這種狀況下還跟妳PvP。
-愛薇登特
+Hey, relax. I'm not crazy enough
+to start a PvP firefight in this
+ridiculous situation.
+Epidanthia
 406800601_4_a
-……！
+Dude...!
+Kirito
 406800601_3_a
+Kirito
 406800601_2_a
 bg_event_dungeon_alo
-那麼……
-愛薇登特
+Sooo, what to do with you...
+Epidanthia
 406800601_1_a
 uH?
 uH?
-…………………
+...
+Kirito
 406800501_45_a
 uH?
-當然啊。
-不然我才沒有那種義務
-去救一個不認識的大叔咧。
-愛薇登特
+Like, duh? Otherwise why would I
+save some random stranger?
+Epidanthia
 406800501_44_a
 uH?
-現實……？
-妳是指現實中的貨幣？
+You were going to extort him for
+real money?!
+Kirito
 406800501_43_a
 uH?
-我當然是打算收錢的啦，
-收現實的錢。
-愛薇登特
+Well, I waaas planning on making
+him pay for the help. In real cash,
+too. Mmm, tasty.
+Epidanthia
 406800501_42_a
 uH?
-妳都把玩家殺光了，
-卻還想去幫
-倖存下來的人嗎……？
+You killed most of them, but were
+planning on saving that survivor?
+Kirito
 406800501_41_a
 uH?
-結果因為那隻大怪物突然冒出來，
-害地面陷了下去……
-從來沒聽說過有那種機關吧。
-愛薇登特
+But that giant thing spawned on
+top of me, and the floor went
+bye-bye. What an annoying gimmick.
+Epidanthia
 406800501_40_a
 uH?
-對啊，然後呢，
-因為還有活著的傷者，
-所以我想要瀟灑地出手相助。
-愛薇登特
+Yup yup! Well, I was gonna help
+that one hurt survivor. Play the
+gallant hero and all.
+Epidanthia
 406800501_39_a
 uH?
-殺光光……
-那附近的玩家突然消失，
-都是妳下的手？
+You mean... You were the one who
+took out everyone up there?
+Kirito
 406800501_38_a
 uH?
-真的是一點都不能鬆懈啊。
-愛薇登特
+You can never let your guard down,
+can you?
+Epidanthia
 406800501_37_a
 uH?
-我們運氣都很差呢～
-明明我都特地
-把那附近的玩家殺光光了說～
-愛薇登特
+And I'd gone through all the
+effort of clearing out the other
+players up there, too. Lame.
+Epidanthia
 406800501_36_a
 uH?
-是啊。
-哈哈，妳果然也是和怪物
-一起掉下來了吧。
-愛薇登特
+That's my name, don't wear it out!
+Ha ha ha, that monster dropped you
+down here too, huh?
+Epidanthia
 406800501_35_a
 uH?
-妳是……愛薇登特嗎！？
+Epidanthia...?!
+Kirito
 406800501_34_a
 uH?
-妳也掉下來了啊？
-？？？
+Hey, I remember you!
+You fell too?
+???
 406800501_33_a
 uH?
-唉……看不到地表……
-應該是沒辦法爬上去了……
+sigh
+I can't even see where
+I fell from. Guess I can't climb
+out of here...
+Kirito
 406800501_32_a
 uH?
-看來摔得很深呢……
-要不是這裡是VR世界，
-一定當場掛點……
+I fell pretty far... If this
+was real life, I'd be dead
+for sure.
+Kirito
 406800501_31_a
 uH?
 bg_event_dungeon_alo
-好痛……
+Owww...
+Kirito
 406800501_30_a
 uH?
+Dyne
 406800501_29_a
 uH?
-！！！
+Kiritooo!!
+Sinon
 406800501_28_a
 uH?
-唔，詩乃！
-至少要救走這個人……！
+Nngh! Sinon!
+Save him!
+Kirito
 406800501_27_a
 uH?
-該不會……地面在搖動……？
-唔，地層鬆動……
-這裡要……崩塌了！！
+The ground's buckling...?
+Oh no, the floor's going to
+collapse!
+Kirito
 406800501_26_a
 uH?
-什麼！！
-這裡會突然出現
-這麼大的怪物喔！
+What the...?! Why'd this giant
+thing have to spawn right on top
+of us!
+Kirito
 406800501_25_a
 uH?
-嘎啊啊啊啊！！！
+Grrraaawr!!
+Monster
 406800501_24_a
 uH?
-咦！？
+Really?!
+Kirito
 406800501_23_a
 uH?
+Dyne
 406800501_22_a
 uH?
-桐、桐人！
-危險！！
+Kirito! Watch out!!
+Sinon
 406800501_21_a
 uH?
+Kirito
 406800501_20_a
 uH?
-我記得她好像有報出那個名字……
-玩家C
+Yeah, she shouted her name at
+me for some reason before
+disappearing...
+Player C
 406800501_19_a
 uH?
-機槍……！
-是那個叫愛薇登特的女生嗎……？
+A machine-gun...?
+Was her name Epidanthia?
+Kirito
 406800501_18_a
 uH?
-不知不覺間，
-她就和怪物一起不知道跑哪去了……
-玩家C
+In a heartbeat, she and the
+monster were both gone. Poof.
+Vanished.
+Player C
 406800501_17_a
 uH?
-就在我差點要被殺掉的時候，
-有一個拿機槍的大姊突然殺進來
-玩家C
+It was about to finish me off
+when this little girl with a giant
+machine-gun jumps in, and BANG!
+Player C
 406800501_16_a
 uH?
-嗯……那個怪物去哪了？
+Really, now? And where is this
+monster now?
+Kirito
 406800501_15_a
 uH?
-不、不是，我是被怪物打倒的……
-在磐石裡，這一帶的區域
-會出現強到不行的Mob。
-玩家C
+N-No, a monster got me...
+An insanely powerful mob spawns
+in this area of the Monolith...
+Player C
 406800501_14_a
 uH?
-是在PvP的時候被打成這樣的嗎？
+You got taken out in PvP?
+Kirito
 406800501_13_a
 uH?
-嗯，還可以……
-不過我應該
-沒辦法繼續前進了……
-玩家C
+Y-Yeah... But I can't go any
+further like this...
+Player C
 406800501_12_a
 uH?
-喂，你還好吧？
+Hey, are you all right?
+Kirito
 406800501_11_a
 uH?
+Sinon
 406800501_9_a
 uH?
-可是也不能放著他不管吧！
+But we can't just ignore him!
+Kirito
 406800501_8_a
 uH?
+Dyne
 406800501_10_a
 uH?
-對，常常有人
-裝死倒在地上，
-讓同伴趁機從遠處狙擊。
+True. That player could be
+feigning injury while his buddies
+lurk nearby to ambush us.
+Dyne
 406800501_7_a
 uH?
-桐人，等等！
-說不定是陷阱！
+Kirito, wait! It could be a trap!
+Sinon
 406800501_6_a
 uH?
-有人倒在那裡！
+Someone's injured over there!
+Kirito
 406800501_5_a
 uH?
+Dyne
 406800501_4_a
 uH?
+Sinon
 406800501_3_a
 uH?
+Kirito
 406800501_2_a
 uH?
 bg_s2_11_cave
-唔……
-玩家C
+Nnngh...
+Player C
 406800501_1_a
-……！
+Dude...!
+Dyne
 406800401_29_a
-搞不好幾乎所有的玩家
-都被殺了……
+Maybe they all killed each other
+off?
+Kirito
 406800401_28_a
-嗯，不過我們甚至
-連勝利者的聲音都沒聽到……
+Yeah. But I don't hear any shouts
+of triumph. I don't hear anything
+at all.
+Sinon
 406800401_27_a
-也就是說PvP告一段落了嗎……
+So the PvP battle royale's
+over, huh?
+Dyne
 406800401_26_a
-是啊，直到不久前都還有
-槍林彈雨的聲音，
-現在卻都沒聽到了……
+Yeah. All those firefights around
+us have disappeared.
+Kirito
 406800401_25_a
-戴因，你沒發覺啊？
-……這裡太安靜了。
+You haven't noticed?
+It's quiet. Too quiet.
+Sinon
 406800401_24_a
-怎、怎麼了？
-妳們兩位，從剛才開始
-就一直不講話……
+S-Sooo, girls...? What's with the
+furrowed brows and the silence...?
+Dyne
 406800401_23_a
-………………
+...
+Sinon
 406800401_22_a
-………………
+...
+Kirito
 406800401_21_a
-嗯，我瞭解……
+For sure.
+Kirito
 406800401_20_a
-總之我們就小心點吧。
-既然她帶著那種武器到處跑，
-看來會是非常難應付的敵手。
+Anyway, let's keep an eye out for
+her. I get the feeling she'll be
+trouble.
+Sinon
 406800401_19_a
-……這倒是。
+Some people. Right.
+Sinon
 406800401_18_a
-哈哈，
-反正也有喜歡獨行的玩家嘛。
+Ha ha ha. Well, some people just
+like soloing, right?
+Kirito
 406800401_17_a
-畢竟她是特化型，
-要是不和別人組隊或者隸屬某個中隊，
-戰鬥時就沒辦法好好發揮能力。
+Specialists like her usually need
+a squad to really excel. Too many
+weaknesses to solo.
+Sinon
 406800401_16_a
-無論如何，
-她敢獨自來挑戰這個戰場
-就已經很厲害了。
+Either way, she's got the guts to
+try to take this place on all by
+her lonesome. I'm impressed.
+Sinon
 406800401_15_a
-這麼說也對呢……
+Yeah...
+Kirito
 406800401_14_a
-即使把參數值提升到最大值，
-外表也不會變得充滿肌肉，
-所以並不是沒可能。
+Raising your strength doesn't
+change your outward appearance,
+after all.
+Sinon
 406800401_13_a
-在現實世界中的確不可能，
-不過這裡是VR世界喔。
+Well, this is VR. Appearances
+can be deceiving.
+Sinon
 406800401_12_a
-我可不想
-把那麼纖瘦的小妹妹
-當成STR-VIT型的啊。
+It's hard to believe that delicate
+little slip of a girl was all
+STR/VIT...
+Dyne
 406800401_11_a
-這很難說……畢竟也有STR-VIT特化，
-即使是沉重的武器也能
-輕鬆帶著走的玩家。
+Well, some players do go with a
+STR/VIT build. It's possible.
+Sinon
 406800401_10_a
-身上帶著那麼重的武器，
-照理來說沒辦法迅速移動吧？
+You mean she actually ran?
+Carrying something as heavy
+as that machine-gun?!
+Dyne
 406800401_9_a
-咦……？
+She did what...?
+Sinon
 406800401_8_a
-是啊，還有她剛才離開的速度
-也非常地快……
+Yeah. And you should've seen the
+speed at which she sprinted out of
+here, too...
+Kirito
 406800401_7_a
-雖然外表是那副模樣，
-卻累積了很多經驗呢……
+She didn't look it, but she
+must've been a veteran fighter.
+Sinon
 406800401_6_a
-而且她還看穿
-我暗藏了炸裂彈……
-思慮很周全呢……
+She even noticed that I was
+packing explosive bullets as a
+backup plan. She's sharp.
+Kirito
 406800401_5_a
-你真傻，
-那不是理所當然的嗎。
+Yeah, obviously. Are you an idiot
+or something?
+Sinon
 406800401_4_a
-嗯，還好……
-果然還是沒辦法打掉
-機槍的所有子彈呢。
+Y-Yeah... Turns out it's
+impossible to suicide charge
+a machine-gun nest.
+Kirito
 406800401_3_a
+Dyne
 406800401_2_a
 bg_s2_11_cave
-桐人！
-你沒事吧！？
+Kirito! Are you okay?!
+Sinon
 406800401_1_a
-……！
+Dude...!
+Kirito
 406800301_52_a
-我叫愛薇登特！
-後會有期囉！
-？？？
+My name is Epidanthia!
+Remember it!
+???
 406800301_51_a
-咦！？
+Really?!
+Kirito
 406800301_50_a
-算了。
-看在妳那種古怪玩法的份上，
-這次就放妳一馬吧。
-？？？
+Eh, whatever. You fight funny,
+so I'll let you go.
+???
 406800301_49_a
-……！
+Dude...!
+Kirito
 406800301_48_a
-不……看來並不是那樣呢，
-妳好像還想耍什麼花招喔？
-？？？
+Waaait a sec... Ahh, I see.
+You're trying to trick me.
+Get me to lower my guard?
+???
 406800301_47_a
-………………
+...
+Kirito
 406800301_46_a
-妳也很懂
-什麼時候該死心啊～
-？？？
+Hmm? You're giving up? Well,
+glad you know when you're beat.
+???
 406800301_45_a
-如果沒辦法縮短距離的話
-我是贏不了妳的……要宰要剮，
-都隨妳便囉。
+I can't win unless I get close...
+So do what you will with me.
+Kirito
 406800301_44_a
-嗯……
-不過看來真的沒辦法。
+Yeah, but it looks like that's not
+going to happen.
+Kirito
 406800301_43_a
-啊哈哈，妳真猛呢～！
-想用那把光劍把機槍的子彈
-全部彈開啊？
-？？？
+Ahahahaha! You're ridiculous! You
+thought you could stop the entire
+salvo with your Photon Sword?
+???
 406800301_42_a
-唔……子彈數量太多……！
-實在沒辦法
-全都打下來啊……！
+Urk, that's far more bullets than
+I expected... I can't deflect all
+of these!
+Kirito
 406800301_41_a
+Kirito
 406800301_40_a
-喝啊啊！！
-？？？
+Hrrraaagh!!
+???
 406800301_39_a
+Dyne
 406800301_38_a
-啊，桐人！
+Wait, Kirito!!
+Sinon
 406800301_37_a
-我去去就回……！
+I'll be back in a jiffy!
+Kirito
 406800301_36_a
-不過只要拉近距離，
-就能輕鬆打倒她了吧？
+Well, it should be easy to take
+out if I get in close, right?
+Kirito
 406800301_35_a
-會不會是Colt-Browning……
-那是歷史非常悠久的機槍……
+I think it's a Colt-Browning.
+A really old gun, actually.
+Sinon
 406800301_34_a
-對，那是超重型武器，
-比我的大型狙擊槍
-或是格林機砲
-都來得重。
+Yup. Incredibly heavy by the looks
+of it, too. Far more so than my
+Hecate II or a Gatling gun.
+Sinon
 406800301_33_a
+Dyne
 406800301_32_a
+Sinon
 406800301_31_a
-那個武器……是重型機槍嗎？
+That's...a heavy machine-gun?
+Kirito
 406800301_30_a
-不過另外兩個女生很可愛，
-所以只要離開磐石的話
-我就放妳們一馬吧。
-？？？
+You girls are pretty cute, though.
+I'll let you live if you get out
+of the Monolith right now.
+???
 406800301_29_a
+Sinon
 406800301_28_a
+Kirito
 406800301_27_a
 ZZ.
-唔呃……！
+Yikes... Foul mouth on that one...
+Dyne
 406800301_26_a
-大叔，你超噁的，
-可以離我遠一點嗎？
-不然轟爆你喔。
-？？？
+You gross me out, gramps!
+Stay way over there, or I'll
+blow your brains out!
+???
 406800301_25_a
+Kirito
 406800301_24_a
-唔喔！
-還真是一位漂亮的美少女啊！
+Whoa there! What a pretty little
+lady!
+Dyne
 406800301_23_a
+Dyne
 406800301_22_a
+Sinon
 406800301_21_a
-是那個女性玩家嗎……！
+She's the sniper!
+Kirito
 406800301_20_a
-能躲過我的狙擊，
-還真有本事呢
-？？？
+You must be pretty good to avoid
+my attacks!
+???
 406800301_19_a
+Kirito
 406800301_18_a
-人在那邊！
+There!
+Dyne
 406800301_17_a
-唔……我們也被瞄準了嗎！？
+Bah... A sniper's got us in their
+sights!
+Sinon
 406800301_16_a
-唔喔！
+Whoa!
+Kirito
 406800301_15_a
-可沒那麼容易喔
-？？？
+Not gonna happen!
+???
 406800301_14_a
-哈哈，我也贊成這個方案！
+Ha ha ha! Count me in on that
+plan!
+Dyne
 406800301_13_a
-趁那些血氣方剛的人打成一團的時候，
-由我們來捷足先登。
+Let's slip ahead while the idiots
+are having their firefight.
+Sinon
 406800301_12_a
-那還用說，
-當然是要先保存體力還有道具
+Isn't it obvious? We're not
+wasting items and energy on
+these losers.
+Sinon
 406800301_11_a
-你們有什麼打算？
+How do you want to play this?
+Kirito
 406800301_10_a
-……PvP嗎。
-為了拿到寶物，所以要趁早排除
-礙事的人啊。
+Ah. PvP. Everyone's trying to gun
+down the competition for the
+loot...
+Kirito
 406800301_9_a
-嗯，明明這個遺跡也會出現怪物，
-但看來大家並不打算
-同心協力啊。
+Looks like it. Monsters spawn in
+these ruins, but no one's willing
+to work together to take 'em out.
+Dyne
 406800301_8_a
-看來馬上就有人打起來了。
+Looks like the party's started.
+Sinon
 406800301_7_a
-怎麼了……？
-前面傳出了慘叫……！
-而且還有槍聲……！
+What was that?! Someone's
+screaming! And I hear gunfire!
+Kirito
 406800301_6_a
-呀啊！！
-玩家B
+Rrraaagh!!
+Player B
 406800301_5_a
+Dyne
 406800301_4_a
+Sinon
 406800301_3_a
+Kirito
 406800301_2_a
 bg_s2_11_cave
-唔啊！
-玩家A
+Grrragh!
+Player A
 406800301_1_a
 IG?
 IG?
+Yeah!
+Kirito
 406800201_30_a
 IG?
-對，就是這樣啊！
-好了，兩位淑女，
-我們也進去吧！
+You got it! So come on, ladies!
+Let's get scavenging!
+Dyne
 406800201_29_a
 IG?
-也就是說，要是我們慢吞吞的，
-寶物沒多久就會被其他人拿光對吧！
+In other words, if we waste any
+more time, all that loot's going
+to get snatched right up.
+Sinon
 406800201_28_a
 IG?
-……！
+Dude...!
+Kirito
 406800201_27_a
 IG?
-GGO不是有貨幣還原系統嗎？
-這次好像有會按照挖掘成果
-來支付現金的贊助人喔。
+GGO supports real money trading,
+right? Well, some people pay real
+cash to sponsor treasure hunters.
+Dyne
 406800201_26_a
 IG?
-這次怎麼了？
+What?
+Sinon
 406800201_25_a
 IG?
-是啊，大家的目的都是稀有挖掘品吧，
-而且這次……
+You bet. They're all after that
+rare loot, and who can blame
+them? Besides...
+Dyne
 406800201_24_a
 IG?
-真的耶……
-看來有非常多的人
-往這裡湧來。
+I see them... A lot of people must
+be dying to plunder this place.
+Sinon
 406800201_23_a
 IG?
-原來如此。
-嗯……
-那邊也有其他玩家啊。
+Cool... Oh, hey. Looks like we're
+not the only ones here.
+Kirito
 406800201_22_a
 IG?
-所以就用地層裡一塊岩石的意思，
-取了這樣的名字。
+It looked like a big ol' slab of
+rock, so "monolith." Makes
+sense, right?
+Dyne
 406800201_21_a
 IG?
-嗯，畢竟這艘太空船
-長久以來都被當成一座
-巨大的岩山。
+Yup, that's what people are
+calling it.
+Dyne
 406800201_20_a
 IG?
-磐石……？
+Monolith?
+Sinon
 406800201_19_a
 IG?
-靠這個「SBC－磐石」來發大財。
+Rumor has it this SBC Monolith
+is filled to the brim with sweet
+loot. Mmm, loot.
+Dyne
 406800201_18_a
 IG?
-對，這裡好像能找到
-稀有的道具和挖掘品，
-我們就是要來大肆搜刮的。
+Yeah, that's the idea. I hear
+there are nice rares and treasure
+in there, and I want 'em.
+Dyne
 406800201_17_a
 IG?
-啊，那個……也就是說，
-我們這次是要和你一起
-探索這個新區域吧，戴因先生。
+Oh, by the way! We just have to
+back you up while you explore this
+area, right, Dyne?
+Kirito
 406800201_16_a
 IG?
-……？
+Uh...?
+Dyne
 406800201_15_a
 IG?
-還不都是妳害的……！
+Oh, quiet, you!
+This is all your fault!
+Kirito
 406800201_14_a
 IG?
-好噁……
+Wow, that was creepy.
+Sinon
 406800201_13_a
 IG?
-咦……啊？
-耶、耶嘿嘿，會嗎？
-呵呵呵。
+Oh, really...? Hah. Ha ha.
+How...odd... Tee hee.
+Kirito
 406800201_12_a
 IG?
-喂，桐人……？
-妳的口氣還挺像男人的耶？
-我有點意外……
+Hey, Kirito? You know, your voice
+sounds kinda...boyish? Not trying
+to be mean, it just surprised me.
+Dyne
 406800201_11_a
 IG?
-哦……所以這玩意兒會這麼破爛，
-是因為長年被棄置在這邊的關係啊。
+Huh. I guess it's all dilapidated
+because it's been abandoned for
+so long.
+Kirito
 406800201_10_a
 IG?
-才發現了這個巨蛋型太空船。
+the sand got blown away and
+revealed the dome of this ship.
+That's the story, anyway.
+Sinon
 406800201_9_a
 IG?
-似乎是之前在這裡發生小規模的中隊戰，
-爆炸的衝擊把沙子給轟散，
+But when a couple of small squads
+got into a gunfight around here,
+Sinon
 406800201_8_a
 IG?
-好像是因為一直埋在沙裡，
-所以大家之前都以為
-這是座很大的山丘。
+It's been covered by sand forever,
+so people thought it was just a
+big dune.
+Sinon
 406800201_7_a
 IG?
-但這鏽蝕得還挺嚴重的……
-而且有點小耶。
+It's a bit smaller, though, and
+waaay more broken down...
+Kirito
 406800201_6_a
 IG?
-對，就是那樣。
+Yup, that's right.
+Dyne
 406800201_5_a
 IG?
-大型太空船……
-所以這和格洛肯一樣是SBC？
+Giant spaceship? Is it an SBC,
+like the Glocken?
+Kirito
 406800201_4_a
 IG?
+Sinon
 406800201_3_a
 IG?
+Kirito
 406800201_2_a
 IG?
 bg_s2_01_wilderness
-好，我們到了。
-這裡就是新發現的
-大型太空船。
+Alright, we're here. This is that
+new giant spaceship I found.
+Dyne
 406800201_1_a
-妳們在講什麼悄悄話呀？
-來，我們走吧，
-我會護送兩位淑女的。
+What are you two ladies whispering
+about? Come on, let's hit the
+road! I'm your escort today!
+Dyne
 406800101_26_a
-唔……！
-反而比較好做事？
-什麼鬼啊！好歹先跟我說一聲嘛！
+Gah! "Easier"?! What does that
+even mean?! Brief me on this
+stuff beforehand, okay?!
+Kirito
 406800101_25_a
-……他好像誤會了什麼，
-不過我覺得別弄清楚
-我們反而比較好做事喔。
+No. He made that mistake on his
+own. I just thought it'd be
+easier not to correct him.
+Sinon
 406800101_24_a
-美女……？
-咦、啊……詩乃！
-妳怎麼！
+Cute...girls? W-Wait a sec! Sinon!
+Did you tell him I'm a girl?!
+Kirito
 406800101_23_a
-嘿嘿，有兩個美女來陪我，
-有夠開心的呢～
+Heh heh, I'm glad I got two cute
+girls on my team today! Feels
+good, yee-haw!
+Dyne
 406800101_22_a
-這不是桐人嗎！
+Whoa! If it isn't Kirito!
+Dyne
 406800101_21_a
-戴因……
+Hey...
+Sinon
 406800101_20_a
+Kirito
 406800101_19_a
+Sinon
 406800101_18_a
 bg_event_ggo_pub
-嗨，詩乃。
-我等得都累了呢。
+Yo, Sinon. I've been waiting so
+long, I thought you stood me up!
+Dyne
 406800101_17_a
-………………
+...
+Sinon
 406800101_16_a
-總覺得好久沒來了。
+Wow, it's been forever since we've
+played GGO.
+Kirito
 406800101_15_a
-你去了就知道……
+You'll...find out when we get
+there.
+Sinon
 406800101_14_a
-……嗯？
-怎麼了？
+Uhh, I don't like the sound of
+that. What's the deal?
+Kirito
 406800101_13_a
-算……算有吧。
+...Sort of.
+Sinon
 406800101_12_a
-妳有對戴因提過
-我也會跟妳一起去嗎？
+Didn't Dyne say it's cool
+if I join?
+Kirito
 406800101_11_a
-嗯，我也會去。
+I'm in too. I'll check with Dyne
+if you can come.
+Sinon
 406800101_10_a
-我就久違地轉移過去吧。
+Alright, let's do it. It'll be fun
+to convert over again. That is,
+if I'm invited.
+Kirito
 406800101_9_a
-最近老是在玩ALO，
-都沒什麼在玩GGO了呢。
+We haven't been playing much GGO
+lately, have we? It's all ALO,
+ALO, ALO.
+Kirito
 406800101_8_a
-發現了GGO的新區域，
-要拜託我去幫忙探索。
+He said he found a new area in GGO
+and wanted my help exploring it.
+Sinon
 406800101_7_a
-對對對！
-就是他通知我說
+Yeah, that's him.
+Sinon
 406800101_6_a
-戴因……啊，是那個參加了GGO的BoB，
-後來輸給Pale Rider的大叔嗎。
+Dyne...? Oh yeah, that middle-aged
+guy who lost to Pale Rider in the
+BoB.
+Kirito
 406800101_5_a
-戴因剛才聯絡我。
+I just got a message from Dyne.
+Sinon
 406800101_4_a
-怎麼了嗎，詩乃？
+For you, Sinon, sure. What's up?
+Kirito
 406800101_3_a
+Kirito
 406800101_2_a
 bg_event_alne_field
-桐人，可以跟你聊一下嗎？
+Kirito, do you have a minute?
+Sinon
 406800101_1_a
 You can say that again!
 Asuna

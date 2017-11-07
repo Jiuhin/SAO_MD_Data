@@ -723,9 +723,9 @@ Void Medallion x30
 	8qs
 Rainbow Essence x2
 	8bs
-称号: ワンダー・ルーラー
+Wonder Ruler
 	8as
-称号: 迷宮攻略 バトル＆ポーカー
+Dungeon Assault Battle & Poker
 	8[s
 Colored Leaf Gold Medal x3
 	8Zs
@@ -4584,8 +4584,6 @@ uO/
 Hades Hair Barrette R3
 tO/
 Hades Hair Barrette R2
-Black Soaring Coat R3
-Black Soaring Coat R2
 /&h
 WO/
 Bat Earring R3
@@ -9700,6 +9698,8 @@ Memory Diamond x2
 Memory Diamond x5
 Memory Diamond x5
 Memory Diamond x1
+Memory Diamond x4
+Memory Diamond x2
 Memory Diamond x2
 Memory Diamond x1
 Idol who saves the city

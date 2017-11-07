@@ -1,8 +1,12 @@
-t!.
-,Q,
-0),
-t:&
-<F%
+xI1
+P%1
+<I/
+hD.
+XR+
+l-(
+8Y'
+lu%
+Lt 
 walk
 wakeup
 wait
@@ -167,6 +171,7 @@ dead
 dash
 damage
 charge_old
+"D"}
 charge
 back_step
 attack_3
@@ -1161,6 +1166,7 @@ wakeup
 wait
 stun
 step
+zDNz
 skill_2313001
 	5	
 skill_23130
@@ -1553,6 +1559,7 @@ wakeup
 wait
 stun
 step
+HDp
 skill_184102
 skill_182101
 skill_181101
@@ -1636,7 +1643,6 @@ wakeup
 wait
 stun
 step
-zDVj
 skill_184101
 skill_182101
 skill_181101
@@ -1720,6 +1726,7 @@ wakeup
 wait
 stun
 step
+TDv
 skill_183108
 skill_182101
 skill_181101
@@ -1885,6 +1892,7 @@ wakeup
 wait
 stun
 step
+HDv
 skill_183103
 skill_182101
 skill_181101
@@ -1926,8 +1934,8 @@ wakeup
 wait
 stun
 step
-HD&
 skill_18310101
+HDz
 skill_183101
 skill_182101
 skill_181101
@@ -2027,9 +2035,9 @@ down
 dead
 dash
 damage
-"DZ
+"DJ
 charge_old
-"DF
+"D6
 charge
 back_step
 attack_3
@@ -2162,7 +2170,6 @@ down
 dead
 dash
 damage
-"D.V
 charge_old
 charge
 back_step
@@ -2208,9 +2215,7 @@ down
 dead
 dash
 damage
-"Dz
 charge_old
-"Df
 charge
 back_step
 attack_3
@@ -2256,9 +2261,9 @@ down
 dead
 dash
 damage
-"Dv
+"DB
 charge_old
-"Db
+"D.
 charge
 back_step
 attack_3
@@ -2303,6 +2308,7 @@ dead
 dash
 damage
 charge_old
+"Dv
 charge
 back_step
 attack_3
@@ -2421,6 +2427,7 @@ wakeup
 wait
 stun
 step
+zD.'
 skill_16310301
 skill_163103
 skill_161201
@@ -2436,7 +2443,9 @@ down
 dead
 dash
 damage
+"DZ
 charge_old
+"DF
 charge
 back_step
 attack_3
@@ -2481,9 +2490,7 @@ down
 dead
 dash
 damage
-"DBg
 charge_old
-"D.i
 charge
 back_step
 attack_3
@@ -2574,8 +2581,9 @@ down
 dead
 dash
 damage
+"DR
 charge_old
-"Dj
+"D>
 charge
 back_step
 attack_3
@@ -2755,9 +2763,8 @@ down
 dead
 dash
 damage
-"DJJ
+"D.I
 charge_old
-"D6L
 charge
 back_step
 attack_3
@@ -2802,7 +2809,6 @@ dead
 dash
 damage
 charge_old
-"Dzm
 charge
 back_step
 attack_3
@@ -2847,9 +2853,7 @@ down
 dead
 dash
 damage
-"Dv
 charge_old
-"Db
 charge
 back_step
 attack_3
@@ -2894,7 +2898,6 @@ dead
 dash
 damage
 charge_old
-"Dj
 charge
 back_step
 attack_3
@@ -2939,7 +2942,6 @@ dead
 dash
 damage
 charge_old
-"DJ
 charge
 back_step
 attack_3
@@ -3105,6 +3107,7 @@ wakeup
 wait
 stun
 step
+DbF
 skill_143108
 skill_141202
 skill_141101
@@ -3378,7 +3381,6 @@ wakeup
 wait
 stun
 step
-FN:
 skill_141202
 skill_141201
 skill_141101
@@ -3697,7 +3699,7 @@ wakeup
 wait
 stun
 step
-Dj'
+D.'
 skill_124102
 skill_121202
 skill_121102
@@ -3732,7 +3734,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_125002
-A GGO player. Sinon doesn't know how to respond when Epidanthia asks her if they are a couple. Epidanthia gets her feelings. On the day Kirito dives into ALO, Epidanthia talks Sinon since Sinon looks down.
+A GGO player. Sinon gets flustered when Epidanthia asks if she's dating Kirito. To Epidanthia, Sinon's feelings are totally, like, obvious. Later, Sinon is gloomy because Kirito's not around, so Epidanthia sits her down for some real talk.
 serif
 4_sinon_124001
 Sinon
@@ -4448,8 +4450,7 @@ wakeup
 wait
 stun
 step
-zD4Q
-zDZ
+zD"
 skill_104102
 skill_102201
 skill_101101
@@ -4703,8 +4704,8 @@ wakeup
 wait
 stun
 step
-C>o
-Cno
+C6o
+Cfo
 skill_103124
 skill_102201
 skill_101101
@@ -4832,6 +4833,7 @@ wakeup
 wait
 stun
 step
+HDr
 skill_103122
 skill_102201
 skill_101101
@@ -8231,7 +8233,6 @@ wakeup
 wait
 stun
 step
-/D"
 skill_63131
 skill_62101
 %&'
@@ -10786,6 +10787,7 @@ wakeup
 wait
 stun
 step
+HDj
 skill_23146
 skill_22202
 skill_21201
@@ -10952,6 +10954,8 @@ wakeup
 wait
 stun
 step
+HDP9
+HDvg
 skill_23142
 skill_22102
 skill_21201
@@ -10993,7 +10997,7 @@ wakeup
 wait
 stun
 step
-Cp_
+C8_
 skill_23137
 skill_22202
 skill_21201
@@ -11327,7 +11331,7 @@ stun
 step
 skill_2313001
 	5	
-zDr
+zD:
 skill_23130
 skill_22202
 skill_21101
@@ -11992,6 +11996,7 @@ wakeup
 wait
 stun
 step
+HDXv
 skill_23107
 skill_22202
 skill_21201
@@ -12522,7 +12527,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_15006
-A GGO player. Kirito and Sinon keep exploring Epidanthia&Orchis on the SBC Monolith. They attack away other players chasing after them. It seems working but.. 
+A GGO player. Epidanthia and Orchis are Kirito and Sinon's newest friends in GGO, and together, they've decided to explore the SBC Monolith. The four manage to repel an attack by a swarm of competing players, but...
 serif
 5_kirito_15006
 Kirito

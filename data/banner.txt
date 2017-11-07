@@ -1,5 +1,9 @@
 images/event/4902/4902_banner.png
 images/event/4901/4901_banner.png
+images/event/9015/9015_banner.png
+images/event/9015/9015_banner.png
+images/event/9015/9015_banner.png
+images/event/9015/9015_banner.png
 images/event/9014/9014_banner.png
 5E,
 images/event/9013/9013_banner.png

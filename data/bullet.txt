@@ -1,3 +1,10 @@
+Hz	
+$r	
+tb	
+LZ	
+$R	
+<0	
+x%	
 dead
 bullet_99907_pina_sweet_breath
 bullet_99914_pina_wonder_snowman
@@ -1474,6 +1481,8 @@ ground
 dead
 bullet_5001_petra_shot
 dead
+bullet_4061_cards_roulette_s
+dead
 bullet_4055_odama_rolling
 dead
 bullet_4054_tornado_skewer
@@ -2413,6 +2422,7 @@ wait
 ground
 dead
 bullet_3001_glacial_shot
+bullet_2058_jokers_trick_arrow
 wait
 dead
 appear
@@ -2453,6 +2463,8 @@ wait
 bullet_2051_fire_bubble
 wait
 bullet_2051_fire_bubble
+dead
+bullet_2050_jokers_trick
 dead
 bullet_2048_heat_upper
 wait
@@ -3216,6 +3228,7 @@ bullet_1060_crystal_smash
 dead
 bullet_1059_charming_baby
 bullet_1057_xrphan_charge
+bullet_1056_ground_crash
 dead
 bullet_900005_impact_point_4
 dead

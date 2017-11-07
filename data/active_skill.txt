@@ -26,6 +26,10 @@ skill_icon_rod_3_{}
 A high-level dark spell. Send a magic bat flying, causing an explosion of darkness. Increase own speed.
 Bad Bats+
 Bad Bats+
+skill_icon_rod_2_{}
+パーティー全体のHPを回復し、自分と周囲の味方の防御力を一定時間上昇させる
+Protection
+プロテクション
 skill_icon_bow_3_{}
 Appears behind the enemy and attacks using her equipment as a whip. Activates an attack-invalidating barrier. Increases own attack and speed.
 Shining on Stage+

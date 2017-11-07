@@ -21,7 +21,7 @@ Complete OS Episode 0 "Someone's Requiem"
 Skill Slot material present!
 Join a Guild
 9015004
-Complete "SAO Game Complete Memorial Quest Floor 1: Dungeon" with charaters (rarity 2- only)
+Complete SAO Game! (Complete SAO Game Complete Memorial Quest)
 9015003,1,12004
 Complete "SAO Game Complete Memorial Quest Floor 74: Dungeon" keeping Corvatz
 9015002,1
@@ -524,7 +524,7 @@ Return of the Storm Wyrm: Complete "Return of the Storm Wyrm (Expert)".
 8006001
 Return of the Storm Wyrm: Complete "Return of the Storm Wyrm (Int.)".
 7024005
-「CM記念キャラ紹介(?) 絶級+1」クリア
+Complete "CM Character Introduction (?) (Master+1)"
 7024005
 Complete "CM Character Introduction (?) (Master+1)"
 tEf
@@ -730,11 +730,11 @@ Complete "Flowers in the Wilderness (Master +1)" in under 1min.
 4068025
 Complete "Flowers in the Wilderness (Master +1)".
 4068024,2,45
-Complete "Flowers in the Wilderness" under 45 Sec.
+Complete "Flowers in the Wilderness (Master)" under 45 Sec.
 4068024,2,60
-Complete "Flowers in the Wilderness" in under 1min.
+Complete "Flowers in the Wilderness (Master)" in under 1min.
 4068024
-Complete "Flowers in the Wilderness".
+Complete "Flowers in the Wilderness (Master)".
 4067026,1,60
 Complete "The Mother-Daughter Bond (Master +2)" in under 1min.
 4067025,1,60
