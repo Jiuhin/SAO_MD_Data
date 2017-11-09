@@ -187,6 +187,8 @@ Lower MP required by 5% when HP is above 50%.
 Required MP -5% (HP Above 50%)
 Attack +6% when HP is below 90%.
 Attack +6% (HP Below 90%)
+Increases Attack by 6% vs Wind-elem. enemies when HP is above 80%.
+Attack +6% vs Wind-elem. (HP Above 80%)
 Increases Attack by 6% vs Earth-elem. enemies when HP is above 80%.
 Attack +6% vs Earth-elem. (HP Above 80%)
 attack and critical increase by 3% when HP is above 80%.
@@ -500,6 +502,8 @@ Increases Wind-elem. character's Attack by 3% when they attack weak points.
 Attack +3% on Attack Weak Points (Wind-elem.)
 Increases Water-elem. character's Attack by 3% when they attack weak points.
 Attack +3% on Attack Weak Points (Water-elem.)
+Increases Fire-elem. character's Attack by 3% when they attack weak points.
+Attack +3% on Attack Weak Points (Fire-elem.)
 Increases MP gain vs Water-elem. enemies.
 MP Recovery (vs. Water-elem.)
 Increases Earth-elem. character's Attack and Critical by 3%.
@@ -833,6 +837,8 @@ Increases MP gain 100.
 MP Recovery Ratio +100
 Increases MP gain 50.
 MP Recovery Ratio +50
+Increases Atk. and Defense by 10%.
+Atk. & Defense +10%
 Increases max MP and Crit. by 12%.
 MP & Crit. +12%
 Increases max MP and Crit. by 3%.

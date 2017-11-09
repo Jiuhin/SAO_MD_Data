@@ -419,6 +419,7 @@ images/event/7001/7001_banner.png
 saomd_tier.1first,BNEI0271_tier.1first
 images/announcement/201609_first_diamond.png
 images/event/4007/4007_banner.png
+images/event/4006/4006_banner.png
 images/event/4005/4005_banner.png
 images/event/4004/4004_banner.png
 images/event/4002/4002_banner.png

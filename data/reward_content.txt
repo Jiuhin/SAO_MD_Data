@@ -722,6 +722,8 @@ Fire Medallion x15
 Void Medallion x30
 	8qs
 Rainbow Essence x2
+	8cs
+[Dancing Rose Red] Asuna
 	8bs
 Wonder Ruler
 	8as
@@ -1981,7 +1983,7 @@ Attack Shard x20
 MP Shard x20
 HP Shard x20
 2{G
-Assault Team: Dungeon Assault (Top 100)
+Assault Team: Poker (Top 100)
 2{G
 EXP Hi-Potion x5
 2{G
@@ -1999,7 +2001,7 @@ HP Shard x20
 2{G
 Memory Diamond x5
 2zG
-Assault Team: Dungeon Assault (Top 50)
+Assault Team: Poker (Top 50)
 2zG
 EXP Hi-Potion x5
 2zG
@@ -2013,7 +2015,7 @@ Colored Leaf Silver Medal x5
 2zG
 Colored Leaf Gold Medal x2
 2yG
-Assault Team: Dungeon Assault (Top 20)
+Assault Team: Poker (Top 20)
 2yG
 EXP X-Potion x5
 2yG
@@ -2029,7 +2031,7 @@ Colored Leaf Silver Medal x5
 2yG
 Colored Leaf Gold Medal x4
 2xG
-Assault Team: Dungeon Assault (Top 10)
+Assault Team: Poker (Top 10)
 2xG
 EXP X-Potion x5
 2xG
@@ -2045,7 +2047,7 @@ Colored Leaf Silver Medal x5
 2xG
 Colored Leaf Gold Medal x6
 2wG
-Assault Team: Dungeon Assault (3rd)
+Assault Team: Poker (3rd)
 2wG
 Rainbow Essence x1
 2wG
@@ -2063,7 +2065,7 @@ Colored Leaf Silver Medal x10
 2wG
 Colored Leaf Gold Medal x11
 2vG
-Assault Team: Dungeon Assault (2nd)
+Assault Team: Poker (2nd)
 2vG
 Rainbow Essence x1
 2vG
@@ -2081,7 +2083,7 @@ Colored Leaf Silver Medal x10
 2vG
 Colored Leaf Gold Medal x13
 2uG
-Assault Team: Dungeon Assault (1st)
+Assault Team: Poker (1st)
 2uG
 Rainbow Essence x2
 2uG
@@ -9745,6 +9747,7 @@ Col Boost (2x) x3
 EXP Boost (2x) x3
 Memory Diamond x25
 [Black Wing] Kirito
+Stardust (Medium) x50
 Stardust (Medium) x100
 Fire Medallion x10
 Earth Medallion x10

@@ -1,12 +1,16 @@
-xI1
-P%1
-<I/
-hD.
-XR+
-l-(
-8Y'
-lu%
-Lt 
+tQ1
+$.1
+<M/
+X..
+<u-
+d8,
+DS+
+87'
+ll"
+,7"
+H	"
+Hg!
+DK 
 walk
 wakeup
 wait
@@ -171,7 +175,6 @@ dead
 dash
 damage
 charge_old
-"D"}
 charge
 back_step
 attack_3
@@ -987,7 +990,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64001
-Although Asuna is now vice commander of SAO's strongest guild, the Knights of the Blood Oath, when the game first began it took her some time to gather the courage to challenge SAO. Her beauty and resolve have earned her a lot of fans.
+Although Asuna is now Vice Commander of SAO's strongest guild, the Knights of the Blood Oath, when the game first began it took her some time to gather the courage to challenge SAO. Her beauty and resolve have earned her a lot of fans.
 serif
 4_asuna_64001
 Asuna
@@ -1166,7 +1169,6 @@ wakeup
 wait
 stun
 step
-zDNz
 skill_2313001
 	5	
 skill_23130
@@ -1559,7 +1561,7 @@ wakeup
 wait
 stun
 step
-HDp
+HDL
 skill_184102
 skill_182101
 skill_181101
@@ -1726,7 +1728,7 @@ wakeup
 wait
 stun
 step
-TDv
+TDR
 skill_183108
 skill_182101
 skill_181101
@@ -1892,7 +1894,7 @@ wakeup
 wait
 stun
 step
-HDv
+HDR2
 skill_183103
 skill_182101
 skill_181101
@@ -1935,7 +1937,7 @@ wait
 stun
 step
 skill_18310101
-HDz
+HDV
 skill_183101
 skill_182101
 skill_181101
@@ -2019,6 +2021,51 @@ wakeup
 wait
 stun
 step
+skill_163113
+skill_161201
+skill_161102
+skill_161101
+parry
+parried
+levelup_model
+levelup_common
+levelup
+jump_attack
+jump
+down
+dead
+dash
+damage
+charge_old
+charge
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_161102
+skill_161201
+skill_161101
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_164003
+Imprisoned by Oberon the Fairy King in a cage at the top of the World Tree, Asuna believes with all her heart that Kirito will come rescue her. Meanwhile, she desperately looks for an opportunity to escape...
+serif
+4_asuna_164003
+Asuna
+[Captive Princess] Asuna
+walk
+wakeup
+wait
+stun
+step
 skill_16120101
 skill_161201
 skill_161102
@@ -2035,9 +2082,7 @@ down
 dead
 dash
 damage
-"DJ
 charge_old
-"D6
 charge
 back_step
 attack_3
@@ -2082,7 +2127,9 @@ down
 dead
 dash
 damage
+"Dj
 charge_old
+"DV
 charge
 back_step
 attack_3
@@ -2112,6 +2159,7 @@ wakeup
 wait
 stun
 step
+DP!
 skill_163111
 skill_161201
 skill_161102
@@ -2126,7 +2174,9 @@ down
 dead
 dash
 damage
+"Df1
 charge_old
+"DR3
 charge
 back_step
 attack_3
@@ -2215,7 +2265,9 @@ down
 dead
 dash
 damage
+"Dj
 charge_old
+"DV
 charge
 back_step
 attack_3
@@ -2261,9 +2313,7 @@ down
 dead
 dash
 damage
-"DB
 charge_old
-"D.
 charge
 back_step
 attack_3
@@ -2308,7 +2358,6 @@ dead
 dash
 damage
 charge_old
-"Dv
 charge
 back_step
 attack_3
@@ -2352,7 +2401,9 @@ down
 dead
 dash
 damage
+"DF
 charge_old
+"D2
 charge
 back_step
 attack_3
@@ -2397,7 +2448,9 @@ down
 dead
 dash
 damage
+"DB
 charge_old
+"D.
 charge
 back_step
 attack_3
@@ -2427,8 +2480,8 @@ wakeup
 wait
 stun
 step
-zD.'
 skill_16310301
+zDN)
 skill_163103
 skill_161201
 skill_161102
@@ -2443,9 +2496,7 @@ down
 dead
 dash
 damage
-"DZ
 charge_old
-"DF
 charge
 back_step
 attack_3
@@ -2581,9 +2632,7 @@ down
 dead
 dash
 damage
-"DR
 charge_old
-"D>
 charge
 back_step
 attack_3
@@ -2674,6 +2723,7 @@ dead
 dash
 damage
 charge_old
+"Dz
 charge
 back_step
 attack_3
@@ -2763,7 +2813,6 @@ down
 dead
 dash
 damage
-"D.I
 charge_old
 charge
 back_step
@@ -3107,7 +3156,6 @@ wakeup
 wait
 stun
 step
-DbF
 skill_143108
 skill_141202
 skill_141101
@@ -3699,7 +3747,6 @@ wakeup
 wait
 stun
 step
-D.'
 skill_124102
 skill_121202
 skill_121102
@@ -4450,7 +4497,6 @@ wakeup
 wait
 stun
 step
-zD"
 skill_104102
 skill_102201
 skill_101101
@@ -4704,8 +4750,8 @@ wakeup
 wait
 stun
 step
-C6o
-Cfo
+C2o
+Cbo
 skill_103124
 skill_102201
 skill_101101
@@ -4833,7 +4879,7 @@ wakeup
 wait
 stun
 step
-HDr
+HDn
 skill_103122
 skill_102201
 skill_101101
@@ -9573,7 +9619,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64001
-Although Asuna is now vice commander of SAO's strongest guild, the Knights of the Blood Oath, when the game first began it took her some time to gather the courage to challenge SAO. Her beauty and resolve have earned her a lot of fans.
+Although Asuna is now Vice Commander of SAO's strongest guild, the Knights of the Blood Oath, when the game first began it took her some time to gather the courage to challenge SAO. Her beauty and resolve have earned her a lot of fans.
 serif
 4_asuna_64001
 Asuna
@@ -10787,7 +10833,7 @@ wakeup
 wait
 stun
 step
-HDj
+HDf
 skill_23146
 skill_22202
 skill_21201
@@ -10955,7 +11001,7 @@ wait
 stun
 step
 HDP9
-HDvg
+HDrg
 skill_23142
 skill_22102
 skill_21201
@@ -11331,7 +11377,7 @@ stun
 step
 skill_2313001
 	5	
-zD:
+zD6
 skill_23130
 skill_22202
 skill_21101
@@ -11996,7 +12042,7 @@ wakeup
 wait
 stun
 step
-HDXv
+HDTv
 skill_23107
 skill_22202
 skill_21201
@@ -12706,7 +12752,7 @@ wakeup
 wait
 stun
 step
-zD6.
+zD2.
 skill_14103
 skill_12101
 skill_11201
@@ -13330,7 +13376,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_13006
-The leader of the SAO guild, the Knights of the Blood Oath. Possessing the powerful unique skill "Divine Blade," his impenetrable defense and tremendous skills have made him famous among the players of SAO.
+The Commander of the SAO guild, the Knights of the Blood Oath. Possessing the powerful unique skill "Divine Blade," his impenetrable defense and tremendous skills have made him famous among the players of SAO.
 serif
 3_heathcliff_13006
 Heathcliff

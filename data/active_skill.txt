@@ -27,9 +27,9 @@ A high-level dark spell. Send a magic bat flying, causing an explosion of darkne
 Bad Bats+
 Bad Bats+
 skill_icon_rod_2_{}
-パーティー全体のHPを回復し、自分と周囲の味方の防御力を一定時間上昇させる
+Replenish your party's HP and temporarily increase both your defense and that of nearby allies.
 Protection
-プロテクション
+Protection
 skill_icon_bow_3_{}
 Appears behind the enemy and attacks using her equipment as a whip. Activates an attack-invalidating barrier. Increases own attack and speed.
 Shining on Stage+
@@ -362,31 +362,31 @@ Slash diagonally with the sharpened mind. A powerful, quick sword skill.
 Punishment Slant
 Punishment Slant
 skill_icon_shield_1_{}
-Deal a fierce thurst with a sheild. Reaches far ahead.
+Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike (Earth)
 skill_icon_shield_1_{}
-Deal a fierce thurst with a sheild. Reaches far ahead.
+Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike (Dark)
 skill_icon_shield_1_{}
-Deal a fierce thurst with a sheild. Reaches far ahead.
+Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike (Holy)
 skill_icon_shield_1_{}
-Deal a fierce thurst with a sheild. Reaches far ahead.
+Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike (Wind)
 skill_icon_shield_1_{}
-Deal a fierce thurst with a sheild. Reaches far ahead.
+Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike (Water)
 skill_icon_shield_1_{}
-Deal a fierce thurst with a sheild. Reaches far ahead.
+Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike (Fire)
 skill_icon_shield_1_{}
-Deal a fierce thurst with a sheild. Reaches far ahead.
+Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike
 skill_icon_lance_3_{}
@@ -489,6 +489,10 @@ skill_icon_rod_3_{}
 Move instantly to the back of an enemy high up in the air. Produce a tornado and restore own HP. A combination skill.
 Cute Devil Tempest
 Cute Devil Tempest
+skill_icon_rod_2_{}
+Replenish your party's HP and temporarily increase both your defense and that of nearby allies, then drop a clod of soil on the enemy.
+Grand Protection
+Grand Protection
 skill_icon_rod_3_{}
 Thrusts through enemies with magic forks and triggers an explosion. Increases your attack.
 Fork Cluster

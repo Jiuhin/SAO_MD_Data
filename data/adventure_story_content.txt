@@ -1,139 +1,138 @@
-lnx
-4ix
-,gw
-tUv
-(%v
-<vu
-XJt
-xfs
-,Hs
-4>s
-Xwr
-XQr
-0Cr
-4mq
-4zp
-pkp
-llm
-lil
-tKl
-PWk
-$)j
-4ci
-X[i
-dYi
-0Xi
-TSi
-(Pi
-PNi
-4Ei
-4:i
-(Kh
-<8g
-8Zf
-hLf
-pge
-D/e
-ddc
-$Wc
-h!c
-xab
-H<b
-(wa
-LUa
-46a
-hH_
-<._
-(x]
-,S]
-8B]
-TT[
-HF[
-D,[
-(eZ
-D<Z
-t3Z
-xGY
-XyW
-,lW
-h!W
-dbT
-$AT
-$bR
-LQR
-<'R
-tRQ
-$FQ
-8rP
-XlO
-<SO
-lFO
-,7M
-D4L
-h)L
-d3K
-h K
-dMJ
-P5I
-XiH
-4iG
-<?G
-0RF
-4 E
-8UD
-8GC
-PjB
-pRB
-hCB
-(2B
-h$B
-<WA
-84A
-Xc>
-ho<
-pE<
-8,<
-D	:
-HG9
-4!8
-4y7
-hX7
-<H7
-$<7
-8h6
-(F5
-p75
-L:3
-h42
-X)2
-d	2
-Ts1
-$E1
-,!1
-Pk0
-4K0
-TB0
-LM/
-Dr.
-<h.
-h[.
-l-.
-Tj-
-LA-
-dJ,
-H++
-4t)
-(F)
-P7)
-$A(
-TD'
-0''
-8d$
-l{!
-<C!
-Lr 
-hW 
-41	
+hXx
+hDx
+l$x
+8Zw
+Dwv
+0nv
+L+v
+Pnu
+HDu
+Hxt
+,pt
+Pvs
+4bs
+l]s
+$)p
+LZo
+DSo
+tIo
+8en
+8_m
+Dik
+XIk
+(&k
+HLj
+d:j
+,(j
+Dfi
+4[i
+8Ki
+DIi
+(Gi
+dFi
+PDi
+dBi
+H:i
+$9i
+d5i
+l3i
+h1i
+D0i
+x.i
+T,i
+0hg
+,Yg
+T?g
+l_f
+X[e
+4qd
+<Zd
+X d
+Dtc
+$:b
+XEa
+Lt_
+h	]
+de[
+L?Z
+4CY
+49Y
+x>X
+D0X
+,BW
+05W
+ddV
+(YV
+0-V
+4kU
+4]U
+0&U
+X_S
+pSS
+$vR
+tgQ
+4oN
+,EN
+T2L
+l}K
+l]K
+d]J
+$OJ
+d/I
+0bH
+<CH
+(yG
+,_F
+$DF
+PqE
+TQE
+t4E
+DjD
+$GD
+L{C
+H<C
+0CB
+<j?
+xa?
+PO?
+Lv<
+X9<
+XF:
+lz9
+Th9
+HU9
+h89
+pL8
+d&8
+Po7
+$}6
+Lf5
+8}3
+(G3
+dE1
+<]0
+LC0
+,o/
+01.
+$Q,
+(A,
+Dr)
+4A)
+86)
+PJ(
+P7(
+4N'
+ti&
+hP&
+L_%
+8D%
+(7%
+P&%
+4e"
+tI"
+x5!
+<z 
+82	
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -387,1471 +386,1454 @@ You deserve some reward.
 bg_black
 ???
 480404801_1_a
-ふふっ、そうしましょう
-シノン
+Hehe. Let's rub it in his face.
+Sinon
 406901201_22_a
-はは、そうだな
-俺たちの知ってる攻略法でも
-教えてやるとするか
-キリト
+Ha. I guess we should fill him
+in on the boss too.
+Kirito
 406901201_21_a
-うん、クラインさんたちにも
-一応挨拶しておきたいよね
-アスナ
+Yeah. We'll have to say
+"hi" to Klein when we get back
+to the entrance.
+Asuna
 406901201_20_a
-そうみたいだな
-よし、じゃあ一息ついたら
-また探索始めてみようぜ
-キリト
+From what I hear, there is! So,
+let's take a quick break, then get
+back to exploring this place!
+Kirito
 406901201_19_a
-そうね、でもこのダンジョン
-クリアしてもまだ色々と
-遊べる要素があるみたいよ
-シノン
+Yeah. We might have beaten it,
+but there's probably more content
+to find in here.
+Sinon
 406901201_18_a
-一筋縄じゃな行かない要素が
-盛りだくさんだったし
-アスナ
+And it certainly made the whole
+affair more interesting!
+Asuna
 406901201_17_a
-なかなか凝ってたダンジョンだよね
-迷宮の進み方にしても
-ポーカーの遊び方にしても
-アスナ
+That was one seriously unique
+dungeon. That poker battle hybrid
+was actually pretty fun.
+Asuna
 406901201_16_a
-やったぜ、俺たちが
-一位だったみたいだ
-キリト
+And it looks like we're the first
+ones to do it, too!
+Kirito
 406901201_15_a
-よし、これでゴールだ!
-行こうぜ、二人とも!
-キリト
+Alright! We did it! We beat the
+labyrinth!
+Kirito
 406901201_14_a
-うん!
-しかも今の言い方だと
-バトルも回避できたみたい!
-アスナ
+Yay! And we don't even have to
+beat up these guys, either!
+Asuna
 406901201_13_a
-ダブル・フルハウスが
-フォーカードよりも強い役だと
-認められたの!?
-シノン
+I guess a double full house beats
+four of a kind? Who knew.
+Sinon
 406901201_12_a
-や、やった!
-キリト
+Really? I mean, woohoo!
+Kirito
 406901201_11_a
-仕方ない
-ここを通ることを認めよう
-トランプ兵のボス
+Ah, what a shame.
+I suppose we must let you pass.
+Card Soldier Boss
 406901201_10_a
-ぬ、ぬぐぐっ……!
-そちらの勝ちのようだな……
-トランプ兵のボス
+N-No... Nooo!
+It appears you win!
+Card Soldier Boss
 406901201_9_a
-さて、どうだ?
-キリト
+So, how did you like that,
+boss guys?
+Kirito
 406901201_8_a
-6スロットあるわたしたちだからこそ
-できる役だよね……
-アスナ
+sigh
+Anyway, we've got our
+special six-card hand. Let's hope
+it works.
+Asuna
 406901201_7_a
-い、いいだろ別に……
-なんか必殺技みたいに言ったほうが
-雰囲気出るだろうし
-キリト
+C-Come on, humor me! A final uber
+attack needs a cool name, right?
+It builds dramatic tension.
+Kirito
 406901201_6_a
-キリトさ……
-別に役名イチイチ考えなくても
-いいんじゃないの?
-シノン
+Kirito, please.
+Just...don't try anymore?
+Sinon
 406901201_5_a
-ダブル・フルハウスだ!!
-キリト
+A double full house!!
+Kirito
 406901201_4_a
-アスナ
+Asuna
 406901201_3_a
-シノン
+Sinon
 406901201_2_a
 bg_09_dungeon_safety
-7が三枚に、3が三枚で……
-ええと、役の名前は……
-キリト
+We've got 3 sevens and 3 threes.
+We've got an, uh...
+Kirito
 406901201_1_a
-よーし、一か八かだ……
-やってみるか!!
-キリト
+Alright, everything's riding on
+this! Let's do it!
+Kirito
 406901101_29_a
-そうだね……わたしが考えた
-ファイブカードよりも
-よっぽどありえると思うよ!
-アスナ
+Yeah... It's a better idea than my
+five sevens, at least.
+Asuna
 406901101_28_a
-少なくとも
-7のフォーカードを出すよりは
-期待できるかも……
-シノン
+We know our four sevens can't win.
+It's a desperate gamble,
+but probably our only hope.
+Sinon
 406901101_27_a
-出してみないことには
-なんとも言えないけど、
-シノン
+But with the special rules here in
+this labyrinth, it's worth a shot.
+Sinon
 406901101_26_a
-確かにこれは……見たことないわね
-このダンジョンのポーカーには……
-独自のルールがあるから
-シノン
+I definitely haven't heard of this
+hand before.
+Sinon
 406901101_25_a
-……!
-シノン
+Sssh!
+Sinon
 406901101_24_a
-えっ……?
-アスナ
+Huh...?
+Asuna
 406901101_23_a
-これと、これだと……
-どうなるんだ?
-キリト
+So what do you think will happen
+if we use this, and this?
+Kirito
 406901101_22_a
-ロイヤルストレートフラッシュ
-スペシャルなんて
-新しい役を作れたけどさ……
-キリト
+That became a royal straight
+flush special. I still think it's
+a good name, by the way.
+Kirito
 406901101_21_a
-ちょっと待ってくれ……
-さっきはちょうど同じ種類の並んだ
-6枚の数字のカードを持ってたから、
-キリト
+Hold up... We sort of cheated
+earlier by putting up six of the
+same suit, right?
+Kirito
 406901101_20_a
-………………
-キリト
+...
+Kirito
 406901101_19_a
-せっかくここまで来て
-死に戻りなんて……入り口に
-戻されるよりもキツイじゃないの!
-シノン
+We made it this far... I don't
+want to have to do this whole
+stupid labyrinth over!
+Sinon
 406901101_18_a
-……!
-キリト
+Sssh!
+Kirito
 406901101_17_a
-さあ、お前たちも
-自分の役を見せるがいい!
-トランプ兵のボス
+Now, show us your hand!
+Card Soldier Boss
 406901101_16_a
-あはは……だよね……
-アスナ
+Ahaha... Yeah, I guess not.
+Asuna
 406901101_15_a
-さ、さすがに全く同じカードを
-二枚並べるのはトランプ的に
-不可能じゃないかしら……?
-シノン
+I don't think they'll let us get
+away with having two of the
+same card in the same hand...
+Sinon
 406901101_14_a
-ファ、ファイブカードとかって
-役をオリジナルで作れたり……
-しないかな?
-アスナ
+Can't we cheat and make a five of
+a kind?
+Asuna
 406901101_13_a
-ね、ねぇみんな
-7のカードって確かもう一枚
-ドロップしてたよね?
-アスナ
+H-Hey, we have a fifth seven,
+right?
+Asuna
 406901101_12_a
-くっ……
-キリト
+No...
+Kirito
 406901101_11_a
-わたしたちは7のフォーカード
-だから……負けてる!
-アスナ
+We only have four sevens!
+We're going to lose!
+Asuna
 406901101_10_a
-Jが四枚と5が一枚……!
-フォーカード!
-キリト
+Four jacks and a five...
+They have a four of a kind too!
+Kirito
 406901101_9_a
-これだ!
-トランプ兵のボス
+Take this!
+Card Soldier Boss
 406901101_8_a
-どちらにしろわたしたちに
-選択の余地はなかったけどね……
-退路は断たれてるし……
-アスナ
+Well, we can't turn back, so it's
+not like we're going to use
+anything but our best hand...
+Asuna
 406901101_7_a
-なによ……
-近づいたら表示するのね
-さっさと見せなさいよ……
-シノン
+Really? They're just going to show
+it to us like that? Anticlimactic
+much?
+Sinon
 406901101_6_a
-我々の札を今ここに明かそう!
-トランプ兵のボス
+Here's our hand! Can you beat it?
+Card Soldier Boss
 406901101_5_a
-キリト
+Kirito
 406901101_4_a
-アスナ
+Asuna
 406901101_3_a
-シノン
+Sinon
 406901101_2_a
 bg_09_dungeon_safety
-よくぞここまで辿り着いた!
-これが最後の勝負!
-トランプ兵のボス
+Congratulations on making it
+this far, challengers! This is
+the final showdown!
+Card Soldier Boss
 406901101_1_a
-ああ、急ごう!
-キリト
+Yeah, let's book it!
+Kirito
 406901001_31_a
-うん、早く行こう二人とも!
-後ろからトランプ兵が
-迫ってきてるよ!
-アスナ
+Yeah, so can we go already?
+These bloodthirsty Card Soldiers
+are getting pretty close!
+Asuna
 406901001_30_a
-手堅い役だけど……
-それに賭けるしかなさそうね
-シノン
+Not bad, but not that great.
+I guess it's our best shot.
+Sinon
 406901001_29_a
-ええと……
-フォーカードだな
-7が四枚揃ってる
-キリト
+Hmm... We have four of a kind.
+Sevens.
+Kirito
 406901001_28_a
-ちなみにキリト、今の手持ちで
-一番強い役はなにかしら?
-シノン
+So, what's our strongest hand
+right now?
+Sinon
 406901001_27_a
-そうだな……行くか
-キリト
+You're right. Let's do it.
+Kirito
 406901001_26_a
-やっぱり大人しくボスたちの所に
-行くしかないよ
-アスナ
+We don't have much choice.
+Let's take on this boss.
+Asuna
 406901001_25_a
-そういう要素を入れ込んだ作りに
-してるってのは理解できるが……
-これは参ったな……
-キリト
+So, I get why they forced
+this scenario, but still...
+This is bad...
+Kirito
 406901001_24_a
-ポーカーってのは……
-元々チップを賭けたりする
-リスクのあるゲームだ
-キリト
+Well, poker's a game about taking
+risks, right? We're not betting
+chips, but it's the same thing.
+Kirito
 406901001_23_a
-相手が無敵状態でバトルする羽目に
-なるわ……もうそうなると
-死に戻りしか用意されてない
-シノン
+Those Card Soldiers will be
+invincible, and we'll have no
+choice but to fight until we die.
+Sinon
 406901001_22_a
-でもリスクはあるわね
-負けてしまったら最後……
-シノン
+But the stakes are high.
+If we lose...
+Sinon
 406901001_21_a
-そうだね……
-十人を相手にポーカーするくらいなら
-五人を相手にしたほうがまだいいよ
-アスナ
+Yeah. We have a better chance of
+taking out five of them in a
+poker match than ten.
+Asuna
 406901001_20_a
-つまりここからの後退は不可能……
-ここまで来たからには
-大人しくボスと戦えってことか?
-キリト
+So there's no turning back...
+This must be the game's way of
+forcing us to fight this boss.
+Kirito
 406901001_19_a
-なっ!?
-トランプ兵が十人以上!?
-迫ってきてるぞ!
-キリト
+Ten Card Soldiers?!
+And they're coming this way!!
+Kirito
 406901001_18_a
-えっ、どうしたの……?
-シノン
+...That's not good.
+Sinon
 406901001_17_a
-シ、シノのん……後ろを見て!
-アスナ
+S-Sinonon! Behind us!!
+Asuna
 406901001_16_a
-どうする?
-万全を期すためにも
-戻ってカードを集め直す?
-シノン
+What do we do? Fall back for now
+and collect cards until we have
+the ultimate hand?
+Sinon
 406901001_15_a
-もう手持ちにはあれを使える
-手札は残ってない……
-キリト
+But we just don't have the cards
+for it anymore...
+Kirito
 406901001_14_a
-ああ、さっきクラインたちに使った
-オリジナル技をまた使えば
-勝てるんだろうけど……
-キリト
+Yeah... It'd be great if we could
+pull the same trick we used on
+Klein...
+Kirito
 406901001_13_a
-トランプ兵たちの役が最強だったと
-してもロイヤルストレート
-フラッシュだよね
-アスナ
+The best they can have is a royal
+straight flush, like Klein did.
+Asuna
 406901001_12_a
-わざと分からなくさせてるんだね……
-でも相手は五人……
-アスナ
+I guess so... We don't know what
+hand they've got, but there are
+five of them...
+Asuna
 406901001_11_a
-なに……?
-ラスボスの特別仕様とか
-そういうことなのか?
-キリト
+Really? Maybe this is some sort
+of final boss special match or
+something?
+Kirito
 406901001_10_a
-あそこにいるトランプ兵には……
-柄が描かれてないの!
-真っ白なのよ!
-シノン
+Those Card Soldiers...
+They're blank!
+Sinon
 406901001_9_a
-どうしたの、シノのん
-これまでみたいにトランプ兵に
-描かれている柄を……
-アスナ
+What is it, Sinonon?
+Asuna
 406901001_8_a
-役は……えっ?
-シノン
+Now, what's their hand...? Huh?
+Sinon
 406901001_7_a
-待て……!
-あそこでもトランプ兵たちが
-待ち伏せしてる!
-キリト
+Hold it! I see Card Soldiers,
+ready to ambush us!
+Kirito
 406901001_6_a
-やったね!
-わたしたちが一番乗りかも!
-アスナ
+Yay, we did it! We're the first
+ones here!
+Asuna
 406901001_5_a
-きっとゴールだわ!
-シノン
+It looks like the end of this
+labyrinth.
+Sinon
 406901001_4_a
-アスナ
+Asuna
 406901001_3_a
-シノン
+Sinon
 406901001_2_a
 bg_09_dungeon_safety
-ん、あそこに見えてきたのは……
-キリト
+Hey, is that what I think it is?
+Kirito
 406901001_1_a
-うん!
-アスナ
+Yeah!
+Asuna
 406900901_51_a
-俺たちはゴールに急ごう!
-キリト
+How about we head to the
+finish line?
+Kirito
 406900901_50_a
-よし、これでクラインたちは
-スタート地点まで戻されたはずだ
-キリト
+So, now that Klein's crying at the
+start of the labyrinth...
+Kirito
 406900901_49_a
-アスナ
+Asuna
 406900901_48_a
-シノン
+Sinon
 406900901_47_a
-はは……
-悪いなクライン……
-キリト
+Ha ha ha... Sorry, Klein.
+Kirito
 406900901_46_a
-ち、ちっくしょーーーーっ!!!
-キリの字ーー!!
-覚えてやがれーーーっ!!
-クライン
+Oh come OOON!! That is SO CHEAP!!
+I'll get you for this, K-dawg!
+You hear me, I'll get you!!
+Klein
 406900901_45_a
-シノン
+Sinon
 406900901_44_a
-キリト
+Kirito
 406900901_43_a
-そ、そんなぁ……
-アクト(風林火山メンバー)
+D-Dude...
+Akuto (Furinkazan Member)
 406900901_42_a
-あはは、確かに
-アスナ
+Ahaha, it totally is!
+Asuna
 406900901_41_a
-ふふっ、なによそれ
-なんかセンス無いわよ
-シノン
+Really? That's such a lame
+name, Kirito.
+Sinon
 406900901_40_a
-役名はさながら……
-ロイヤルストレートフラッシュ……
-スペシャルってトコか
-キリト
+Hmm, I guess it needs a name.
+Let's call it a royal straight
+flush...special.
+Kirito
 406900901_39_a
-アスナ
+Asuna
 406900901_38_a
-シノン
+Sinon
 406900901_37_a
-まぁ実際のポーカーじゃ
-ありえないのは確かだからな……
-キリト
+It doesn't.
+Not in normal poker, anyway.
+Kirito
 406900901_36_a
-で、でもそんな役聞いたことねーし!
-クライン
+But...that hand doesn't even make
+sense! It doesn't exist!
+Klein
 406900901_35_a
-キリト
+Kirito
 406900901_34_a
-あのジョーカーってキャラ、
-かなり遭遇率が低いらしいから
-本当に助かったわ
-シノン
+Apparently, it's nearly impossible
+to find the joker. We got very
+lucky.
+Sinon
 406900901_33_a
-そういうこと
-それぞれ2スロットになったから
-6枚の役が作れるようになったの
-シノン
+So three of us, times two slots
+each, equals six cards.
+Sinon
 406900901_32_a
-少ないパーティプレイヤーへの
-救済策だったみたいですけどね
-アスナ
+It's a way to even the playing
+field for small parties like us.
+Asuna
 406900901_31_a
-スロットを一人一つずつ
-増やしてもらえたんです
-アスナ
+He gave us each one extra card
+slot.
+Asuna
 406900901_30_a
-シノン
+Sinon
 406900901_29_a
-キリト
+Kirito
 406900901_28_a
-ふふっ、そうでもないんです
-わたしたちはジョーカーさんって
-レアキャラと遭遇して
-アスナ
+Hehe, we're not cheating, Klein.
+We met a rare character:
+the joker.
+Asuna
 406900901_27_a
-んだよ、そいつは!!
-六枚出せるなんて
-ルール違反じゃねーか!!
-クライン
+That doesn't even make sense!!
+You can't use six cards!
+It's against the rules!
+Klein
 406900901_26_a
-し、しかも全部ハートの……
-9・10・J・Q・K……
-そして、エ、エース!?
-クライン
+A royal straight flush of hearts,
+PLUS the nine?!
+Klein
 406900901_25_a
-カ、カードが六枚並んでやがる?
-クライン
+You've got SIX cards?!
+Klein
 406900901_24_a
-なっ!?
-なにおぉーーーっ!!?
-クライン
+What...?
+How is that even... DUUUDE?!
+Klein
 406900901_23_a
-シノン
+Sinon
 406900901_22_a
-アスナ
+Asuna
 406900901_21_a
-俺たちの役は……!
-これだ!!
-キリト
+Ready for our hand?
+Because here it comes!
+Kirito
 406900901_20_a
-んだとぉ!?
-クライン
+Wait. I'm not liking the sound
+of this...
+Klein
 406900901_19_a
-シノン
+Sinon
 406900901_18_a
-アスナ
+Asuna
 406900901_17_a
-そいつが……存在するんだな
-まぁこの迷宮に限定してだけど
-キリト
+I wouldn't say "nothing."
+Of course, you'd be right
+anywhere but this dungeon.
+Kirito
 406900901_16_a
-へへっ!
-こいつに勝てる役なんて
-ポーカーには存在しねぇからな!
-クライン
+Heh! There's nothing that can beat
+this hand!
+Klein
 406900901_15_a
-シノン
+Sinon
 406900901_14_a
-さすがだな……クライン
-このゴール間際でそんなすごい役を
-残しておくなんて……
-キリト
+That's the Klein I know and
+tolerate. You must've been
+saving that this whole time.
+Kirito
 406900901_13_a
-…………………
-シノン
+...
+Sinon
 406900901_12_a
-……!
-アスナ
+Sssh!
+Asuna
 406900901_9_a
-キリト
+Kirito
 406900901_11_a
-シノン
+Sinon
 406900901_10_a
-ロイヤルストレートフラッシュ!!
-クライン
+Royal straight flush!!
+Klein
 406900901_8_a
-オレらの役は……
-コイツだ!!
-クライン
+You ready to get owned?!
+Klein
 406900901_7_a
-シノン
+Sinon
 406900901_6_a
-アスナ
+Asuna
 406900901_5_a
-ああ、望むところだ!
-キリト
+Oh, you can bet we're bringing it!
+Kirito
 406900901_4_a
-そ、そうだな……
-よし、勝負だキリの字!
-クライン
+Y-Yeah, me too...
+Alright! Bring it on, K-dawg!
+Klein
 406900901_3_a
-クライン
+Klein
 406900901_2_a
 bg_09_dungeon_safety
-クライン……
-ここはアレの使い時じゃないのか?
-アクト(風林火山メンバー)
+Klein... I get the feeling we
+should use our last resort here...
+Akuto (Furinkazan Member)
 406900901_1_a
-シノン
+Sinon
 406900801_26_a
-アスナ
+Asuna
 406900801_25_a
-ふっ、どうだろうな……?
-キリト
+Heh. What, indeed?
+Kirito
 406900801_24_a
-キリの字……てめぇ
-なにか秘策でもあるみてーだな
-クライン
+K-dawg...! What've you got up
+your sleeve?!
+Klein
 406900801_23_a
-あの門はフラッシュよりも強い
-役じゃねーと通過できねぇはず……
-クライン
+Those Card Soldiers had a flush.
+They couldn't have beaten it...
+Klein
 406900801_22_a
-ん……?
-た、確かに……
-クライン
+Hmm... Huh. How did they?
+Klein
 406900801_21_a
-お、おいクライン
-キリトたちって、あの途中の門を
-どうやって抜けてきたんだ?
-アクト(風林火山メンバー)
+H-Hey, Klein... How did they get
+past that midpoint gate?
+Akuto (Furinkazan Member)
 406900801_20_a
-なに?
-んなことできねーだろ?
-お前ぇら三人なんだし……
-クライン
+You are, huh? And how are you
+gonna do that with just the three
+of you?
+Klein
 406900801_19_a
-シノン
+Sinon
 406900801_18_a
-アスナ
+Asuna
 406900801_17_a
-ああ、だからこそ
-俺たちもそのルールに乗っ取って
-お前たちを同じ目に遭わせてやるぞ
-キリト
+That's right. And that's why we're
+going to repay the favor.
+Kirito
 406900801_16_a
-へへっ、まぁそう言うなって
-ここのルールに従ってライバルを
-蹴落としてなにが悪いってんだ
-クライン
+Hey, come on. Friends we might be,
+but we're rivals here.
+Klein
 406900801_15_a
-キリト
+Kirito
 406900801_14_a
-ホントよ
-入り口まで戻されて
-散々な目に遭ったんだから!
-シノン
+Yeah, you sent us all the way back
+to the entrance. Not cool.
+Sinon
 406900801_13_a
-キリト
+Kirito
 406900801_12_a
-シノン
+Sinon
 406900801_11_a
-クラインさん
-さっきはよくもやってくれましたね!
-アスナ
+Klein, you really did a mean thing
+to us earlier.
+Asuna
 406900801_10_a
-おっ!?
-キ、キリの字!
-お前ぇ、ここまでよく来れたな!?
-クライン
+Oh, hey K-dawg!
+You managed to make it this far?
+Klein
 406900801_9_a
-また会ったな
-クライン
+We meet again, Klein.
 ???
 406900801_8_a
-そうだぜ
-その時のためにそのセットだけは
-温存しておかなきゃダメだ……
-クライン
+That's right! We've gotta hoard
+our big guns for the finale!
+Klein
 406900801_7_a
-最後の最後で
-どんな強敵との対決が待ってるか
-わからないからな……
-アクト(風林火山メンバー)
+We don't know how tough the
+labyrinth's last baddie is gonna
+be. I think we're almost there.
+Akuto (Furinkazan Member)
 406900801_6_a
-わかってるさ
-この迷宮もそろそろゴール……
-アクト(風林火山メンバー)
+Yeah, we need to save that for
+the final boss.
+Akuto (Furinkazan Member)
 406900801_5_a
-ロイヤルストレートフラッシュ用の
-セットだよな?
-アクト(風林火山メンバー)
+The royal straight flush, right?
+Akuto (Furinkazan Member)
 406900801_4_a
-ああ、わかってる
-でもその五枚は
-絶対に使うんじゃねーぞ
-クライン
+Yeah, got it. But remember: don't
+use those five, no matter what.
+Klein
 406900801_3_a
-クライン
+Klein
 406900801_2_a
 bg_09_dungeon_safety
-おい、クライン
-そろそろカードが少なくなってきたぜ
-アクト(風林火山メンバー)
+Yo, Klein. We're starting to run
+low on cards.
+Akuto (Furinkazan Member)
 406900801_1_a
-こいつは……
-これが少人数で挑んでしまった
-パーティへの救済要素に違いないぞ!
-キリト
+The devs must have put this in
+specifically to help small parties
+hold their own in here!
+Kirito
 406900701_38_a
-す、すごいわ!!
-シノン
+Wow...
+Sinon
 406900701_37_a
-ま、まさかこれって!!
-アスナ
+Wait...really?!
+Asuna
 406900701_36_a
-えっ……!?
-キリト
+No way!
+Kirito
 406900701_35_a
-ボクを見つけられたキミたちには
-特別なアドバンテージを授けるよ
-ジョーカー
+Since you managed to find me,
+I'll give you a special present.
+Joker
 406900701_34_a
-少人数で隠れながら進んでたことが
-功を奏したみたいだね
-アスナ
+I guess our plan to sneak around
+dark tunnels with a small party
+worked out, huh, guys?
+Asuna
 406900701_33_a
-基本的にボクは挑戦者や
-トランプ兵の密集している場所は
-避けるように行動しているからね
-ジョーカー
+To tell you the truth, I usually
+avoid places where challengers
+and the Card Soldiers loiter.
+Joker
 406900701_32_a
-ボクはいわゆる隠れキャラ……
-この迷宮で見つけること自体
-とても難しい存在なんだ
-ジョーカー
+Few are lucky enough to see me in
+this labyrinth. I'm something of a
+hidden character, as it were.
+Joker
 406900701_31_a
-おやおや
-発見されてしまったようだね
-ジョーカー
+My my, looks like I've been found.
+Joker
 406900701_30_a
-お前……その姿はジョーカーだな!
-キリト
+You're the joker, aren't you!
+Kirito
 406900701_29_a
-そうね
-このままだと打ち止めだし、
-やれることは全部やってみましょう!
-シノン
+Well, let's go poke it and see
+what happens. We're not getting
+anywhere sitting here.
+Sinon
 406900701_28_a
-ああ、あいつがもしジョーカーなら
-レアキャラに遭遇ってことで
-イベントが発生するかもしれないぞ!
-キリト
+Hopefully. I bet that joker's a
+rare character and talking to it
+will trigger an event!
+Kirito
 406900701_27_a
-トランプの各種ゲームでも
-ジョーカーの扱いって他のカードと
-一線を画していることが多いわよね
-シノン
+Jokers are usually treated as
+special in most types of card
+games. Maybe it can help us?
+Sinon
 406900701_26_a
-今のところカードとしても
-手に入れてないね
-アスナ
+Well, we haven't found any yet.
+Asuna
 406900701_25_a
-ポーカーって
-ジョーカーは基本使わないよな……
-まぁ使う場合もあるらしいけど……
-キリト
+You don't use the joker in poker.
+Well, not normally, anyway.
+Mostly in casual variants.
+Kirito
 406900701_24_a
-ジョーカー……!
-確かに見た目はそんな感じだね!
-アスナ
+The joker, of course!
+It looks just like it!
+Asuna
 406900701_23_a
-ピエロ……
-もしかしてあいつ、
-ジョーカーじゃないか?
-キリト
+A clown? Is it the joker?
+Kirito
 406900701_22_a
-違うわ……なにアイツ……?
-トランプ兵でもないし……一人だし
-黒いマントの……ピエロ?
-シノン
+Neither... What is that thing?
+Not a card, by itself, black
+cloak... A...clown?
+Sinon
 406900701_21_a
-誰だろう……?
-プレイヤーのパーティ……
-それともトランプ兵……?
-アスナ
+Who is it? Another party, or more
+Card Soldiers?
+Asuna
 406900701_20_a
-………………
-アスナ
+...
+Asuna
 406900701_19_a
-お、おう!
-キリト
+Got it!
+Kirito
 406900701_18_a
-みんな、隠れて!
-あっちから誰か来る!
-シノン
+Hide, quick!
+Someone's coming!
+Sinon
 406900701_17_a
-……!
-シノン
+Sssh!
+Sinon
 406900701_16_a
-救済策……どんな方法だろう?
-三枚でフラッシュに勝つなんて
-とても無理だし……
-アスナ
+But...what can we do? Three cards
+can't be a flush, no matter how
+hard we want it to be.
+Asuna
 406900701_15_a
-さすがに三人では必ず詰みになる
-状況ってのはおかしいだろ
-キリト
+They purposefully didn't explain
+much about this area, but it can't
+be impossible for three people.
+Kirito
 406900701_14_a
-いや待て、救済策があるはずだ……
-今回のクエストってさ、わざと
-説明を少なめにしてるんだろうけど、
-キリト
+It's too early to give up. There's
+gotta be some way to beat this.
+Hmm... 
+Kirito
 406900701_13_a
-ハイド＆コレクト作戦にも
-限界が来たってことかしら……
-シノン
+I guess our game of hide and
+collect can only get us so far.
+Sinon
 406900701_12_a
-くっ……どうすればいいんだ?
-転移ルートが別にあるのか……?
-キリト
+Okay, huddle up. What do we do?
+Look for a teleporter, or find
+another path?
+Kirito
 406900701_11_a
-そんな……この迷宮は
-あそこを通過しないと
-先に行けない構造だよ!
-アスナ
+Oh no... But this labyrinth is
+designed so that we HAVE to get
+through there to keep going!
+Asuna
 406900701_10_a
-三枚しかない俺たちはスリーカード
-以上の役は作れない!
-つまり絶対に勝てないじゃないか!
-キリト
+We can only make three-card hands!
+There's no way we can beat them!
+Kirito
 406900701_9_a
-ええ、全員スペードよ
-つまり役はフラッシュ……
-シノン
+Yeah, they're all spades.
+That means they have a flush.
+Sinon
 406900701_8_a
-おいおい、あいつらの役……!
-キリト
+Wait... Oh no!
+Kirito
 406900701_7_a
-兵隊の人数は五人……
-あいつらを倒さないと
-先に進めないってことか……
-キリト
+We'll need to take them out to
+keep going, but there's five of
+them...
+Kirito
 406900701_6_a
-その前に門番みたいな
-トランプ兵たちが陣取ってるけど……
-アスナ
+And a bunch of Card Soldiers
+guarding it too...
+Asuna
 406900701_5_a
-あの通路の先に門みたいなものが
-あるよ……
-アスナ
+Hmm, there's a gate blocking that
+path.
+Asuna
 406900701_4_a
-キリト
+Kirito
 406900701_3_a
-アスナ
+Asuna
 406900701_2_a
 bg_09_dungeon_safety
-キリト、アスナ……
-シノン
+Kirito, Asuna... Look.
+Sinon
 406900701_1_a
-そうね
-シノン
+Sounds good.
+Sinon
 406900601_25_a
-はは、そうだな
-カードはここぞという時だけ使って
-できるだけ温存しながら進もう
-キリト
+Ha ha ha, yeah. Mostly hiding,
+sometimes fighting, and lots of
+hoarding our good cards.
+Kirito
 406900601_24_a
-まさにハイド＆
-コレクト作戦って感じだね
-アスナ
+It's like a game of hide
+and...collect?
+Asuna
 406900601_23_a
-いい調子だと思うわ
-シノン
+I think we can play it quiet and
+safe from here on out.
+Sinon
 406900601_22_a
-ええ、バトルはモンスター戦に
-絞ってきたからカードも
-そこそこ集まってきたし、
-シノン
+Yeah. We've already got a lot of
+cards stocked up from our fights
+earlier.
+Sinon
 406900601_21_a
-ああ、あえて人数の少なさを
-逆手に取るのもアリじゃないかと
-思ったんだ
-キリト
+So we use our numerical
+disadvantage to our tactical
+advantage.
+Kirito
 406900601_20_a
-それにわたしたちは三人だから
-他の大勢のパーティよりは
-人目につきにくい利点があるよ
-アスナ
+Besides, there are only three of
+us. That makes it easier to avoid
+notice.
+Asuna
 406900601_19_a
-確かに……
-ここなら隠れる場所はいくらでも
-あるしね
-シノン
+That's a good point. This place is
+riddled with places to hide.
+Sinon
 406900601_18_a
-あとはこの入り組んだ迷宮を
-利用して、隠れてやり過ごしながら
-進むほうが適切だと思ったんだ
-キリト
+Instead, let's use this twisty
+labyrinth to avoid any fight
+that doesn't get us cards.
+Kirito
 406900601_17_a
-だからトランプ兵じゃないMobとの
-バトル以外はできるだけ避けて、
-キリト
+So in other words, trying to brute
+force our way through with
+poker's a losing bet.
+Kirito
 406900601_16_a
-ポーカーするたびにカードは減るし
-役だって運任せの要素が強いだろ?
-キリト
+But every time we play a hand, we
+lose our cards. Worse, this whole
+poker thing is pretty luck-based.
+Kirito
 406900601_15_a
-迷路を進んでいくことのように
-思えるけど……
-キリト
+and PvPing was the best strat
+for this labyrinth...
+Kirito
 406900601_14_a
-ここでの効率的な攻略法ってさ……
-一見するとカードを集めて
-トランプ兵やPvPをしながら
-キリト
+I've been thinking... At first,
+it seemed like collecting cards,
+fighting Card Soldiers,
+Kirito
 406900601_13_a
-うん、パーティは逃げていったね……
-バトルしても勝てるわけないから
-アスナ
+Yeah... That party certainly ran
+fast. They knew they couldn't win.
+Asuna
 406900601_12_a
-トランプ兵にポーカーで負けると
-逃走する以外道はない……
-敵のHPが減らないから当然だけどね
-シノン
+They had no choice but to turn
+tail. Lose to the Card Soldiers,
+and they're instantly unbeatable.
+Sinon
 406900601_11_a
-あのパーティとトランプ兵が
-ポーカーをして
-プレイヤーの方が負けてたね
-アスナ
+We're lucky that party got tangled
+up with those Card Soldiers,
+then lost.
+Asuna
 406900601_10_a
-……なんとかなったな
-キリト
+Well, that worked.
+Kirito
 406900601_9_a
-ええ、わかったわ
-シノン
+Got it.
+Sinon
 406900601_8_a
-うん!
-アスナ
+Yeah!
+Asuna
 406900601_7_a
-ここは三次元迷宮だ
-つまり上にも下にもルートはある
-一度下降してやり過ごそう!
-キリト
+But this is the 3D Labyrinth!
+Let's find a place to hide on the
+y-axis and see what happens!
+Kirito
 406900601_6_a
-平面的な迷路だと
-挟み撃ちにされるところだけど……
-キリト
+If this were a normal dungeon,
+we'd be trapped...
+Kirito
 406900601_5_a
-こっち側からは
-トランプ兵が迫ってるよ!
-アスナ
+And we've got a bunch of Card
+Soldiers bearing down on us from
+up ahead!
+Asuna
 406900601_4_a
-キリト
+Kirito
 406900601_3_a
-アスナ
+Asuna
 406900601_2_a
 bg_09_dungeon_safety
-キリト
-向こうからパーティが接近中!
-人数は五人!
-シノン
+Kirito, I see a five-person party
+approaching from our six!
+Sinon
 406900601_1_a
-……うーん
-キリト
+Hmm...
+Kirito
 406900501_60_a
-そのほうが勝率は上がると
-思うけど……
-アスナ
+We'll have a much better chance of
+winning if we can even the odds.
+Asuna
 406900501_59_a
-どうしようか……
-このままだとずっと不利だし
-あと二人集めてから再挑戦する?
-アスナ
+So, do we grit our teeth and deal
+with the disadvantage, or do we
+find two more?
+Asuna
 406900501_58_a
-しかしPvPで負けるたびに
-スタート地点まで戻されるのは
-さすがに痛いな……
-キリト
+Still, getting sent back to square
+one every time you lose in PvP is
+a pretty tough rule to play with.
+Kirito
 406900501_57_a
-知り合いとはいえ別パーティは
-ライバルに違いないもの……
-シノン
+Klein may be our friend, but as
+long as he's in another party,
+he's a rival too.
+Sinon
 406900501_56_a
-仕方ないわ
-ダンジョンのゴールに辿り着いた
-先着順に報酬がもらえるんだから
-シノン
+It's just how it is. The first
+parties to beat this dungeon
+get bonus loot.
+Sinon
 406900501_55_a
-戻されちゃったね……
-入り口に……
-アスナ
+We got sent all the way back to
+the entrance...
+Asuna
 406900501_54_a
 bg_21_alne
-はあ……
-キリト
+sigh
+...
+Kirito
 406900501_53_a
-シノン
+Sinon
 406900501_52_a
-アスナ
+Asuna
 406900501_51_a
-ちょ、ちょっと待て!
-クライン!!
-キリト
+H-Hold up, Klein!
+Kleeein!!
+Kirito
 406900501_50_a
-三人とはいえキリの字に油断すると
-痛い目に遭うからな……
-オレらはこの札で行くぜ!!
-クライン
+Only three of you, but you never
+know what sorta tricks K-dawg's
+gonna pull... So take THIS!
+Klein
 406900501_49_a
-当たり前ぇだろ?
-おーし、じゃあこっちの役は
-どうすっかな……
-クライン
+Duh? That's the whole point of
+the place. Now, huddle up, team.
+What hand you guys wanna use...?
+Klein
 406900501_48_a
-シノン
+Sinon
 406900501_47_a
-アスナ
+Asuna
 406900501_46_a
-な、なに!?
-まさか戦うつもりかよ!?
-キリト
+Wh-What?! No way!
+You're planning on fighting us?!
+Kirito
 406900501_45_a
-勝ったパーティが負けたパーティを
-入り口まで戻せるって
-ギミック付きでな!
-クライン
+And the winning party gets to send
+the losers all the way back to the
+entrance!
+Klein
 406900501_44_a
-このダンジョンじゃあ
-PvPもポーカー戦に乗っ取って
-行われるのさ!
-クライン
+This dungeon's got PvP poker
+matches!
+Klein
 406900501_43_a
-キリト
+Kirito
 406900501_42_a
-シノン
+Sinon
 406900501_41_a
-えっ、どういうことですか?
-アスナ
+Huh? What do you mean?
+Asuna
 406900501_40_a
-へぇ～……ははっ!
-んじゃあ遠慮なく
-お前ぇらにはご退場願いますか!
-クライン
+Seriously?! Ha ha ha! Aaanyway,
+we're gonna send you packing.
+No hard feelings, okay?
+Klein
 406900501_39_a
-シノン
+Sinon
 406900501_38_a
-アスナ
+Asuna
 406900501_37_a
-し、仕方ないだろ
-説明なかったし知らなかったんだ
-キリト
+Y-Yeah, well... We didn't know
+that when we came in, okay?
+Kirito
 406900501_36_a
-三人でポーカーの役作っても
-限界があるだろ
-クライン
+There's only so much you can do
+with a hand of three cards.
+Klein
 406900501_35_a
-しっかしよう、お前ぇらも
-その人数でここに挑むなんて
-無謀にもほどがあるぜ
-クライン
+Yeah. But you guys are either
+crazy brave or just crazy to come
+in here like that.
+Klein
 406900501_34_a
-シノン
+Sinon
 406900501_33_a
-アスナ
+Asuna
 406900501_32_a
-そうなんだな……
-上限枚数は一応ポーカーのルールに
-乗っ取ってるのか……
-キリト
+Ahh, okay. I guess they set the
+max player limit for poker rules.
+Kirito
 406900501_31_a
-トーラスだけアルンで
-留守番してもらってるってわけよ
-クライン
+Taurus is chilling out alone in
+Arun right now.
+Klein
 406900501_30_a
-五人がこのダンジョンに進める
-上限なんだよ、仕方ねーさ
-クライン
+Yeah, but the max party size for
+this place is five. What can ya
+do, right?
+Klein
 406900501_29_a
-アスナ
+Asuna
 406900501_28_a
-キリト
+Kirito
 406900501_27_a
-五人……確か風林火山のメンバーって
-六人だったわよね?
-シノン
+Five? Aren't there six of you in
+Furinkazan?
+Sinon
 406900501_26_a
-おうよ、五人パーティで挑戦中よ
-クライン
+You bet! The five of us are gonna
+rock this thing like there's no
+tomorrow!
+Klein
 406900501_25_a
-シノン
+Sinon
 406900501_24_a
-アスナ
+Asuna
 406900501_23_a
-クライン
-お前たちも来てたんだな
-キリト
+Hey, Klein. You guys are here for
+the dungeon too, I take it?
+Kirito
 406900501_22_a
-風林火山ご一行のお通りだぜぇ～!
-クライン
+Furinkazan, coming through! Ha ha!
+Klein
 406900501_21_a
-キリト
+Kirito
 406900501_20_a
-シノン
+Sinon
 406900501_19_a
-えっ!?
-アスナ
+Klein?!
+Asuna
 406900501_18_a
-おおっ、お前ぇらもいたのか!
+Dudes and dudettes! Whazzap!
 ???
 406900501_17_a
-でもなにかしら救済要素も
-あるとは思うんだけどなぁ……
-キリト
+True. But there's got to be
+something here that can help
+us level the playing field... 
+Kirito
 406900501_16_a
-そうかもね……ポーカーのルールを
-考えると三枚はキツ過ぎよ
-全く意地が悪いわ……
-シノン
+Maybe, but playing with three
+cards in a poker match is like
+shooting yourself in the foot.
+Sinon
 406900501_15_a
-あれって本当に三人でもいいのかって
-意味だったのかも……
-アスナ
+It let us in with three, so that
+should mean smaller parties
+can still beat this place...
+Asuna
 406900501_14_a
-世界樹に入るときに
-パーティの人数について
-確認させられたよね?
-アスナ
+Har har. But, the game made us
+declare how many people were in
+our party when we came in, right?
+Asuna
 406900501_13_a
-そもそも不利だからな……
-キリト
+The deck is really stacked against
+us, huh?
+Kirito
 406900501_12_a
-一人1スロットの現状じゃ
-俺たちは3枚のカードで
-役を作るしかない……
-キリト
+We each only have one card slot,
+so at best we've got three.
+Kirito
 406900501_11_a
-ああ、わかってる
-ポーカーは元々5枚のカードで
-役を作るものだからな
-キリト
+Yeah. Poker hands are normally
+five cards.
+Kirito
 406900501_10_a
-でも別に状況は改善しないわ……
-そもそもこの人数で役を作るのが
-おかしいわけだし
-シノン
+It helps with recon, but doesn't
+improve our hand. Actually, we're
+two people short to really play.
+Sinon
 406900501_9_a
-遠目から見ても
-相手の役が確認できるし
-キリト
+We can check their hand from far
+away, so we don't have to worry
+about them getting us.
+Kirito
 406900501_8_a
-こういうときってさ
-シノンのケットシーとしての
-視力が本当に助かるよな
-キリト
+Your Cait Sith vision really
+comes in handy here, Sinon.
+Kirito
 406900501_7_a
-じゃあこの道は進めないね……
-別の道を行こう……
-アスナ
+So this path is off limits to us.
+Let's find another way around.
+Asuna
 406900501_6_a
-役は……くっ!
-私たちの今の手持ちじゃ
-あちらの役には勝てないわ……!
-シノン
+They've got...a way better hand
+than anything we can make right
+now.
+Sinon
 406900501_5_a
-ホントだ……
-五枚……じゃなかった
-五人いるよ
-アスナ
+You're right... I can see five
+people...cards...? People cards?
+Asuna
 406900501_4_a
-キリト
+Kirito
 406900501_3_a
-アスナ
+Asuna
 406900501_2_a
 bg_09_dungeon_safety
-待って、二人とも!
-行く先にまたトランプ兵がいるわ!
-シノン
+Hold it, you two! I see Card
+Soldiers up ahead!
+Sinon
 406900501_1_a
-そうね、行きましょう
-シノン
+Most likely, yes. Now come on.
+We're wasting time.
+Sinon
 406900401_15_a
-そうだね、強い役を作れないと
-進めないルートもありそうだよ
-アスナ
+You bet! I'm sure there are
+certain areas that we'll need
+a good hand to beat, too!
+Asuna
 406900401_14_a
-そうとわかれば
-さっさとカード集めをしたほうが
-良さそうだな
-キリト
+Now that we know what we have to
+do, let's get down to business!
+Time to collect some cards!
+Kirito
 406900401_13_a
-使い捨てのカードを集めながら
-兵隊を倒し進んでいく……
-それがこのダンジョンの攻略法なのね
-シノン
+So we need to collect cards while
+playing a meta poker game to
+beat this dungeon.
+Sinon
 406900401_12_a
-使いどころも考えないといけないね
-さっきのエースなんて強いカードだし
-温存できるならしておいた方がいいよ
-アスナ
+We should think about what to use
+when, and save stronger cards to
+beat tougher enemy hands.
+Asuna
 406900401_11_a
-モンスターを倒すなりして
-カードを集めておかなきゃ
-ダメってことか……
-キリト
+We'll need to go beat up monsters
+to gather more cards...
+Kirito
 406900401_10_a
-一回使ったら消える仕様みたいね
-シノン
+These cards are one-use only.
+Good to know.
+Sinon
 406900401_9_a
-わわっ!
-消えちゃった……ハートのエース!
-アスナ
+Oh no! Mine's gone too!
+Don't leave me, ace of hearts!
+Asuna
 406900401_8_a
-なるほどな……
-あっ、スロットのカードが!
-キリト
+That makes sense...
+Wait! Where's my card?!
+Kirito
 406900401_7_a
-トランプ兵たちとの戦いはまず役で
-勝利しておかないと無敵設定が解除
-されないってルールみたいね
-シノン
+We need to have a better hand
+than the Card Soldiers we fight,
+or else they're invincible.
+Sinon
 406900401_6_a
-ええ、私たちのスロットに入れた
-カードが、ポーカーの役を
-形成していたのよ
-シノン
+Naturally. The cards we equip in
+these new slots form our poker
+hand.
+Sinon
 406900401_5_a
-やっぱりそうか……
-キリト
+Looks like your instincts were
+correct, Sinon.
+Kirito
 406900401_4_a
-シノン
+Sinon
 406900401_3_a
-キリト
+Kirito
 406900401_2_a
 bg_09_dungeon_safety
-た、倒せた……!
-ジが通ったね!
-アスナ
+We did it! We were finally able
+to beat them!
+Asuna
 406900401_1_a
-なるほど、そういうことか!
-キリト
+So this is some sort of
+poker/battle hybrid!
+Kirito
 406900301_39_a
-今ならバトルで倒せるはずよ!
-シノン
+I hope they'll die now.
+Sinon
 406900301_38_a
-トランプ兵たち……
-なにか解除されたような
-エフェクトが出たよ!
-アスナ
+I just saw a dispel effect hit
+those Card Soldiers!
+Asuna
 406900301_37_a
-ぐっ……怯むな!
-トランプ兵
+Nooo! Do not fear!
+Card Soldier
 406900301_36_a
-もしかしてそれって……
-ポーカーの役のこと!?
-アスナ
+Wait... When did this turn into
+poker?!
+Asuna
 406900301_35_a
-同じ役ならエースで揃えた
-こちらの勝ちだわ!
-シノン
+Exactly. Our hand beats theirs.
+We win!
+Sinon
 406900301_34_a
-……そういうことか!
-キリト
+Ahhh, I get it now!
+Kirito
 406900301_33_a
-ええ、ワンペアよ!
-そしてこちらもエースが
-二つでワンペア!
-シノン
+Exactly. A pair! And we've got
+a pair too...of aces!
+Sinon
 406900301_32_a
-ええと、クラブの3にスペードの3、
-そしてダイヤのエースだね?
-アスナ
+A three of clubs, a three of
+spades, and the ace of diamonds?
+Asuna
 406900301_31_a
-トランプ兵たちに描かれている
-トランプの種類と数字を見て!
-シノン
+Look closely at those cards.
+What are their numbers and suits?
+Sinon
 406900301_30_a
-シノのん、どうしたの?
-アスナ
+What is it, Sinonon?
+Asuna
 406900301_29_a
-待って!
-シノン
+Hold it!
+Sinon
 406900301_28_a
-くっ……!
-キリト
+I don't want to, but...
+Kirito
 406900301_27_a
-今回も敵が三体……!
-どうしよう……
-また逃げるしかないのかな?
-アスナ
+There are three of them, just like
+last time! Do we run?
+Asuna
 406900301_26_a
-ん!?
-くっ、またトランプ兵だ!
-キリト
+Oh man, these guys again?!
+Kirito
 406900301_25_a
-侵入者発見!
-駆逐せよ!
+Intruders!
+Off with their heads!
+Every last one!
 ???
 406900301_24_a
-………………
-シノン
+...
+Sinon
 406900301_23_a
-プレイヤー一人につき
-一つのスロット……
-そこにカードを装備する……
-シノン
+Each of us gets one, and a shiny
+new slot to put it in...
+Sinon
 406900301_22_a
-このダンジョンの攻略で
-役に立つのかな?
-アスナ
+Maybe it'll help us beat this
+dungeon?
+Asuna
 406900301_21_a
-なんなんだ?
-説明もないけど……
-キリト
+What's the story here? There's no
+explanatory text or anything.
+Kirito
 406900301_20_a
-私のクラブの10も……入ったわ
-シノン
+Mine's in too. Ten of clubs.
+Sinon
 406900301_19_a
-わたしのハートのエースも
-入ったよ
-アスナ
+I just put my ace of hearts in
+too.
+Asuna
 406900301_18_a
-スキルスロットじゃないよな……
-これは……おっ!
-トランプのカードがハマったぞ!
-キリト
+It's not a skill slot... Ooh!
+The playing card fits!
+Kirito
 406900301_17_a
-なんかステータスウィンドウに
-スロットが一つできたよ
-アスナ
+There's a new slot in my status
+window.
+Asuna
 406900301_16_a
-一枚ずつゲットしたってこと……?
-あれ?
-アスナ
+So we all got one...
+Hmm, what's this?
+Asuna
 406900301_15_a
-俺も一枚手に入れたぞ
-スペードのエースだ
-キリト
+I got one as well.
+The ace of spades!
+Kirito
 406900301_14_a
-私も……
-これって……トランプのカードよ
-シノン
+I got something too.
+It's...a playing card.
+Sinon
 406900301_13_a
-そうだね……ん?
-なんかドロップしたよ
-アスナ
+I'd say yes, but I'd rather not
+humor you. Hmm... Looks like
+it dropped something.
+Asuna
 406900301_12_a
-今のモンスター……倒せたな
-キリト
+Apparently, stabbing things kills
+them. Who knew, huh?
+Kirito
 406900301_11_a
-そうだな
-敵のHPゲージがちゃんと減ってるか
-注視しつつ戦ってみよう
-キリト
+Oh yeah. Let's hit it with swords
+and see if its HP goes down.
+Kirito
 406900301_10_a
-あれなら倒せそうね……
-シノン
+And it's begging to die.
+Sinon
 406900301_9_a
-あれは普通のモンスターだよ!
-アスナ
+That's just a normal monster!
+Asuna
 406900301_8_a
-グアアアッ!!
+Graaawr!
 ???
 406900301_7_a
-くっ、また奴らか!?
-キリト
+Yikes, another enemy?!
+Kirito
 406900301_6_a
-……!
-あそこになにかいる!
-シノン
+Hey, look! There's something over
+there!
+Sinon
 406900301_5_a
-うん、ビックリしたね
-でもあのMob、どうやって
-倒せばいいんだろうね……
-アスナ
+Yeah, but that really took me by
+surprise! How are we supposed to
+kill them if they won't die?
+Asuna
 406900301_4_a
-シノン
+Sinon
 406900301_3_a
-アスナ
+Asuna
 406900301_2_a
 bg_09_dungeon_safety
-ふぅ……
-トランプ兵たちはもう追ってこないな
-キリト
+Phew... Looks like those Card
+Soldiers aren't following us.
+Kirito
 406900301_1_a
-そ、そうだね!
-アスナ
+Good idea! Let's go!
+Asuna
 406900201_23_a
-ここは引き返しましょう!
-幸い迷路だから追っ手をまくのに
-場所は困らないわ!
-シノン
+Let's fall back for now.
+Luckily, it should be easy
+to lose them in this maze.
+Sinon
 406900201_22_a
-突撃! 突撃!
-トランプ兵
+Charge! Chaaarge!!
+Card Soldier
 406900201_21_a
-イベントボスでもないのになんで……
-キリト
+But...why would they be?
+Kirito
 406900201_20_a
-無敵設定ってこと?
-アスナ
+Are they supposed to be
+invincible?
+Asuna
 406900201_19_a
-さっきからHPゲージが減ってないわ
-あんなに低いのに……
-シノン
+For sure. They've got almost no
+health, but it's not going down.
+Sinon
 406900201_18_a
-くっ……!
-なんかおかしいぞ、こいつら!
-キリト
+Something's off about these guys!
+Kirito
 406900201_17_a
-怯むな!
-再突撃!
-トランプ兵
+Charge, and recharge!
+Never falter, never fear!
+Card Soldier
 406900201_16_a
-とりあえず応戦しておくか……!
-キリト
+Then let's give them a warm
+welcome!
+Kirito
 406900201_15_a
-わわっ、兵隊たちが三体
-こっちに向かってくるよ!
-アスナ
+Uh oh, three of them are running
+this way!
+Asuna
 406900201_14_a
-突撃!
-トランプ兵
+Charge!
+Card Soldier
 406900201_13_a
-やっぱりふしぎの国のアリスが
-モチーフになってるみたいだな
-キリト
+Okay, that settles it. This is
+definitely Alice in Wonderland
+themed.
+Kirito
 406900201_12_a
-あれは……
-トランプの兵隊!?
-シノン
+Card Soldiers?!
+Sinon
 406900201_11_a
-二人とも見て!
-あそこ!
-アスナ
+Over there!
+Asuna
 406900201_10_a
-キリト
+Huh?
+Kirito
 406900201_9_a
-敵国の侵入を発見!
-早急に排除!
+Intruders!
+Off with their heads!!
 ???
 406900201_8_a
-うおっ……そうなのか
-骨が折れそうだな……
-キリト
+Oof. This is not going to be a
+walk in the park...
+Kirito
 406900201_7_a
-所々に転移する道があるみたいだし
-つまり空間把握能力や方向感覚が
-常に正しいとは限らないんだよ……
-アスナ
+I heard some paths teleport
+you too. In other words, it's
+impossible to know where you are.
+Asuna
 406900201_6_a
-この迷宮……ただでさえ
-立体的で混乱しちゃうのに、
-アスナ
+This labyrinth isn't just a
+confusing, twisted 3D maze...
+Asuna
 406900201_5_a
-えっ、そうか?
-でもさっき見えた外観からは
-進めそうだったような……
-キリト
+You think so? From the outside,
+it looked like it should take
+us further in...
+Kirito
 406900201_4_a
-アスナ
+Asuna
 406900201_3_a
-キリト
+Kirito
 406900201_2_a
 bg_09_dungeon_safety
-キリト、そこを上に行っても
-恐らく行き止まりだわ
-シノン
+Kirito, I'm pretty sure that
+vertical shaft leads to a dead
+end.
+Sinon
 406900201_1_a
-うん!
-アスナ
+Yeah!
+Asuna
 406900101_25_a
-クリアを目指してるプレイヤーは
-多いみたいだ
-とりあえず攻略を始めようぜ
-キリト
+There's going to be a lot of
+people trying to beat it. Let's
+try to be the first ones to do it!
+Kirito
 406900101_24_a
-世界樹の内部に作られた
-期間限定の特殊ダンジョン……
-キリト
+But remember: this is a
+limited-time event dungeon
+built inside the World Tree...
+Kirito
 406900101_23_a
-どうだろうな
-進んでいけばわかるかもしれない
-キリト
+Who knows? We'll have to head in
+to find out.
+Kirito
 406900101_22_a
-なにか関係あるのかな……?
-アスナ
+You think it really is based on
+Alice in Wonderland?
+Asuna
 406900101_21_a
-本当ね……
-クラブにスペード、ハートに
-ダイヤのマークが描かれてるわ
-シノン
+Clubs, spades, hearts, diamonds...
+Yeah, it's got them all.
+Sinon
 406900101_20_a
-確かに色んな所に
-トランプのデザインが
-散りばめられてるね
-アスナ
+You're right... The whole place
+is filled with playing card
+imagery.
+Asuna
 406900101_19_a
-ああ、わかった
-ふしぎの国のアリスに出てた
-トランプの女王の城だ
-キリト
+Ahh, I get it. They're going for
+a Queen of Hearts' castle vibe,
+from Alice in Wonderland.
+Kirito
 406900101_18_a
-それもそうなんだけど
-このちょっと可愛らしくも
-気味の悪い感じは……
-キリト
+Those are pretty cool.
+But this one's kinda...cute?
+But also creepy somehow?
+Kirito
 406900101_17_a
-永遠に落ち続ける水路とか、
-登ってるのか降りてるのか
-わからない階段の絵とかあるよね
-アスナ
+Like a waterfall that falls
+forever or stairs where you can't
+tell if they're going up or down.
+Asuna
 406900101_16_a
-ああ、目の錯覚で
-不思議な感覚を引き起こすイラストの
-ことだね
-アスナ
+Ooh, I've seen those. They use
+perspective and visual tricks to
+make things look...weird.
+Asuna
 406900101_15_a
-トリックアートじゃないかしら?
-だまし絵ってやつよ
-シノン
+Trick art, maybe? Those optical
+illusion paintings?
+Sinon
 406900101_14_a
-そ、そんなことないって……
-でもこの全体像……
-どっかで見たような気がするな……
-キリト
+Just an armchair one...
+Anyway, this place reminds
+me of something... But what?
+Kirito
 406900101_13_a
-ふふっ、キリトくんったら
-コメントが開発者寄りだよ
-アスナ
+Hehe, you sound like a dev
+yourself. You're such a dork.
+Asuna
 406900101_12_a
-ああ、世界樹の内部をこんな風に
-アレンジして再利用するなんて
-いい案だと思う
-キリト
+The devs outdid themselves this
+time. Reworking the inside of the
+World Tree was a fantastic idea.
+Kirito
 406900101_11_a
-半透明のガラス張りの壁、
-上下左右、立体的に作られた迷宮……
-確かにすごい景観ね……
-シノン
+But this is definitely impressive.
+It's like a giant, 3D maze with
+translucent glass walls.
+Sinon
 406900101_10_a
-まぁALOは飛べるから
-普通の迷路ダンジョン作っても
-意味ないものね
-シノン
+Well, ALO's got flight, so normal
+dungeons are wasted potential.
+Sinon
 406900101_9_a
-本当だね
-平面的じゃない
-巨大迷路なんて初めてだよ
-アスナ
+I don't think we've ever seen
+anything like this before. It's
+certainly not a standard dungeon.
+Asuna
 406900101_8_a
 bg_09_dungeon_safety
-うおっ……
-これが三次元迷宮か……
-こいつは確かにすごいな……
-キリト
+Whoa... So this is the 3D
+Labyrinth? Awesome.
+Kirito
 406900101_7_a
-じゃあ俺、アスナ、シノンで
-パーティ登録をして、と……
-さあ、行こう!
-キリト
+Okay, we have to register our
+party before we go in, so...
+There, the three of us. Let's go!
+Kirito
 406900101_6_a
-ええ、いいわよ
-シノン
+That's why we're here, isn't it?
+Sinon
 406900101_5_a
-うん!
-アスナ
+Yeah!
+Asuna
 406900101_4_a
-シノン
+Sinon
 406900101_3_a
-アスナ
+Asuna
 406900101_2_a
 bg_21_alne
-よし、今回のダンジョン攻略は
-この三人で行くぞ
-キリト
+Alright, it's the three of us
+today. Let's do this dungeon!
+Kirito
 406900101_1_a
 1K?
 1K?

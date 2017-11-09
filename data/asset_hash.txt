@@ -384,6 +384,8 @@ ss/unit/chara_6_finesword_w/effect_weapon_yuuki_ghost.png
 ss/unit/chara_6_finesword_w/5_leafa_65003.png
 bfaa5bad3c1d625e3ac82669ad8b0d0c
 ss/unit/chara_6_finesword_w/5_asuna_65011.png
+90e60eccf4e7d538a646d340348d68bd
+ss/unit/chara_6_finesword_w/5_asuna_65006.png
 3bc56b2d510602041779d480d34b5a21
 ss/unit/chara_6_finesword_w/5_asuna_65005.png
 20d132dbcadb5556b2fac30c3afdf188
@@ -1044,6 +1046,8 @@ ss/unit/chara_18_lance_w/skill_effect_lance_3.png
 ss/unit/chara_18_lance_w/skill_effect_lance_2.png
 ff3ea6f04ace78c9f6a6966d96c7e5e8
 ss/unit/chara_18_lance_w/skill_effect_lance_1.png
+d42ce87ba230701025925b1ff4fc951b
+ss/unit/chara_18_lance_w/skill_effect_184105.png
 95afa645f9136e66ddd596e9fd4a36dd
 ss/unit/chara_18_lance_w/skill_effect_184103.png
 a4039243d9658249d1b325d0a9f83787
@@ -3330,11 +3334,11 @@ c59cbed6d2f02666f9bf28431a70c0a3
 images/event/4007/4007_banner.png
 1c26caa95dfd67c05ea7b8351d377f1f
 images/event/4007/4007_announce.png
-0e68ea9d89ac91158109a4be955b4926
+57a70ebd0918e1aea75cc122e1493c7d
 images/event/4006/4006_top.png
-1d6343a6565493c5ceeaa86462916976
+a059b5d9e8ba10abb6adcac51855d4b5
 images/event/4006/4006_banner.png
-db3c4f86e5dbfc4b667848a3e11f58c1
+7da543cd8a3fabb5857896b8080483da
 images/event/4006/4006_announce.png
 8d2907306616d03c77af57d2f9bffa04
 images/event/4005/4005_top.png

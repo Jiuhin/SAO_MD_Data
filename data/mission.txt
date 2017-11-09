@@ -12,6 +12,7 @@ Mission Challenge Day3 : Defeat 3 Kobold Lords at the Event Quest.
 Mission Challenge Day2 : Complete "The Kobold Lord Ep. (Int.)" with a Dagger user in party.
 1040003-1040004-1040005,3
 Mission Challenge Day1 : Defeat 3 Kobold Lords at the Event Quest
+G-Star Memorial! Memory Character Present!
 NYCC Memorial! Memory Diamond Present!
 NYCC Memorial! Memorial Character Present!
 Korean Ver is Released! Memory Diamond Present!
@@ -1294,6 +1295,12 @@ Complete "Flying Broomstick".
 Complete "Kobold Trickster (EX)".
 4008008
 Complete "Kobold Trickster"
+4006010
+Complete "A New Me".
+4006013
+Complete "Guardian Rush (EX)".
+4006009
+Complete "Guardian Rush".
 4004012
 Complete "The Blazing Werewolf (EX)".
 4004008

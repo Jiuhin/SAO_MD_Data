@@ -742,7 +742,7 @@ Beware the Kobold Trickster!
 images/event/4006/4006_top.png
 images/event/4006/4006_banner.png
 images/event/4006/4006_banner.png
-Grand Quest of the Top-Ranked
+Grand Quest of the Top Ranked
 images/event/4004/4004_top.png
 images/event/4004/4004_banner.png
 images/event/4004/4004_banner.png
