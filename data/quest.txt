@@ -7633,7 +7633,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_3009
 Quest 15
-Guardian Rush (Expert +1)
+Guardian Rush (Master +1)
 At long last, you've made it inside the
 World Tree. Its countless Guardians launch
 ferocious attacks against you. Dodge them
@@ -7642,7 +7642,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_3009
 Quest 14
-Guardian Rush (Expert)
+Guardian Rush (Master)
 At long last, you've made it inside the
 World Tree. Its countless Guardians launch
 ferocious attacks against you. Dodge them
@@ -16762,7 +16762,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_3009
 Quest 15
-Guardian Rush (Expert +1)
+Guardian Rush (Master +1)
 At long last, you've made it inside the
 World Tree. Its countless Guardians launch
 ferocious attacks against you. Dodge them
@@ -16771,7 +16771,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_3009
 Quest 14
-Guardian Rush (Expert)
+Guardian Rush (Master)
 At long last, you've made it inside the
 World Tree. Its countless Guardians launch
 ferocious attacks against you. Dodge them

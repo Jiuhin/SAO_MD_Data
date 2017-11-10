@@ -837,6 +837,8 @@ Increases MP gain 100.
 MP Recovery Ratio +100
 Increases MP gain 50.
 MP Recovery Ratio +50
+Increases Atk. and Defense by 15%.
+Atk. & Defense +15%
 Increases Atk. and Defense by 10%.
 Atk. & Defense +10%
 Increases max MP and Crit. by 12%.

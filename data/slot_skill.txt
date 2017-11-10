@@ -22,6 +22,12 @@ Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 10 seconds during standby.
 Emergency Heal (HP&MP) Lv.1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Water-elem. enemies.
+Skill Damage Up (vs. Water) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Water-elem. enemies.
+Skill Damage Up (vs. Water) Lv. 1
 uZ3
 tZ3
 sZ3
@@ -820,6 +826,9 @@ slot_skill_icon_ss_enhance_3_8
 Enhances Sword Skill 3. Creates an additional whirlwind and increases attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Enable to attack an enemy.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
 Enhances Sword Skill 3. Increases own attack. 
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_8
@@ -1049,6 +1058,36 @@ Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_job_8
 Raises attack and crit. rate by 500
+Earth Magic Skill Lv. 10
+slot_skill_icon_job_8
+Raises attack and crit. rate by 450
+Earth Magic Skill Lv. 9
+slot_skill_icon_job_8
+Raises attack and crit. rate by 400
+Earth Magic Skill Lv. 8
+slot_skill_icon_job_8
+Raises attack and crit. rate by 350
+Earth Magic Skill Lv. 7
+slot_skill_icon_job_8
+Raises attack and crit. rate by 300
+Earth Magic Skill Lv. 6
+slot_skill_icon_job_8
+Raises attack and crit. rate by 250
+Earth Magic Skill Lv. 5
+slot_skill_icon_job_8
+Raises attack and crit. rate by 200
+Earth Magic Skill Lv. 4
+slot_skill_icon_job_8
+Raises attack and crit. rate by 150
+Earth Magic Skill Lv. 3
+slot_skill_icon_job_8
+Raises attack and crit. rate by 100
+Earth Magic Skill Lv. 2
+slot_skill_icon_job_8
+Raises attack and crit. rate by 50
+Earth Magic Skill Lv. 1
+slot_skill_icon_job_8
+Raises attack and crit. rate by 500
 Dark Magic Skill Lv. 10
 slot_skill_icon_job_8
 Raises attack and crit. rate by 450
@@ -1077,6 +1116,12 @@ Dark Magic Skill Lv. 2
 slot_skill_icon_job_8
 Raises attack and crit. rate by 50
 Dark Magic Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP by 15%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max HP by 10%
+Battle Skill 2 Transform Lv. 1
 uZ3
 tZ3
 sZ3

@@ -1,3 +1,9 @@
+Skill Shard x10
+Critical Shard x10
+Defense Shard x10
+Attack Shard x10
+MP Shard x10
+HP Shard x10
 Holy Skill Crystal x50
 Holy Critical Crystal x50
 Holy Defense Crystal x50
@@ -666,7 +672,7 @@ Beware the Kobold Trickster!
 Best Trick of the Night
 8My
 Sweet-Toothed Witch
-The World Tree Fairy
+Fairies around the World Tree
 Grand Quest of the Top-Ranked
 Savior of the Sands
 Bandit of the Sands
@@ -4397,6 +4403,23 @@ Col x6120
 Col x4012
 Col x2030
 Col x301
+Christmas Stocking x10
+Christmas Stocking x50
+Christmas Stocking x48
+Christmas Stocking x45
+Christmas Stocking x42
+Christmas Stocking x40
+Christmas Stocking x38
+Christmas Stocking x35
+Christmas Stocking x32
+Christmas Stocking x30
+Christmas Stocking x28
+Christmas Stocking x25
+Christmas Stocking x22
+Christmas Stocking x20
+Christmas Stocking x18
+Christmas Stocking x15
+Christmas Stocking x12
 kO/
 Hot Spring Headband R3
 jO/
@@ -7243,6 +7266,8 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+Heart Relic R3
+Heart Relic R2
 h'8
 h'8
 uO/
@@ -9743,6 +9768,7 @@ Col x30000
 Col x20000
 Col x10000
 Gold Medal x1
+Col Boost (2x) x1
 Col Boost (2x) x3
 EXP Boost (2x) x3
 Memory Diamond x25

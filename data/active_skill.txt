@@ -29,7 +29,7 @@ Bad Bats+
 skill_icon_rod_2_{}
 Replenish your party's HP and temporarily increase both your defense and that of nearby allies.
 Protection
-Protection
+Protection+
 skill_icon_bow_3_{}
 Appears behind the enemy and attacks using her equipment as a whip. Activates an attack-invalidating barrier. Increases own attack and speed.
 Shining on Stage+

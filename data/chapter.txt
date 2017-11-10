@@ -28,6 +28,8 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+The Evils
+Weekly Event
 Christmas Equipment Creation
 Equip Event
 Playing Cards Equipment Creation
@@ -161,6 +163,8 @@ Event
 Shadowy castle in the night
 Event
 砂塵の突破口
+Event
+Monsters in the Castle of Mirage
 Event
 Playing Cards
 Event
