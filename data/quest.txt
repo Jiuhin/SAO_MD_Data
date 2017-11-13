@@ -928,6 +928,41 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 5
+The Gigantes Strikes Back (Master +1)
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 4
+The Gigantes Strikes Back (Master)
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 3
+The Gigantes Strikes Back (EX)
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 2
+The Gigantes Strikes Back (Expert)
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 1
+The Gigantes Strikes Back (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2022
@@ -10057,6 +10092,41 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 5
+The Gigantes Strikes Back (Master +1)
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 4
+The Gigantes Strikes Back (Master)
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 3
+The Gigantes Strikes Back (EX)
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 2
+The Gigantes Strikes Back (Expert)
+"Gemini the Gigantes" appears!
+Dodge the powerful attacks and gain the victory!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Quest 1
+The Gigantes Strikes Back (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2022

@@ -654,6 +654,10 @@ A low-level fire spell. Fire a small fireball at a target.
 Fireball
 Fireball
 skill_icon_bow_3_{}
+A combination skill. Perform attacks with the Joker card and a flaming arrow. Increase all the party members' attack.
+Joker's trick
+Joker's trick
+skill_icon_bow_3_{}
 After shooting a Retrieve Arrow, teleport and give a kick, then pull a silvery thread to slash with the Excalibur.
 Retrieve Excalibur
 Retrieve Excalibur
@@ -1701,6 +1705,10 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
+A combination skill. Attack with spinning playing cards. Increase all the party members' attack.
+Queen's Handling
+Queen's Handling
+skill_icon_finesword_3_{}
 A combination skill. Activate a damage canceling barrier and move quickly to the back of an enemy, then blow up bubbles.
 Beaute Lumiere
 Beaute Lumiere
@@ -2093,6 +2101,10 @@ Wield two swords in both hands swiftly. After making a cross in the air and fall
 Raging Fall
 Raging Fall
 skill_icon_dualblade_3_{}
+A combination skill. Perform a consecutive attack with a flaming sword. Increase all the party members' attack.
+King's Blaze
+King's Blaze
+skill_icon_dualblade_3_{}
 Raise an evil spirit by stabbing the ground with a sword and restore own HP. A combination skill.
 Knight Blaze Hollow
 Knight Blaze Hollow
@@ -2227,6 +2239,10 @@ A sword skill unique to Dual Blades. Thrust with one sword
 slash with the other.
 Double Circular
 Double Circular
+skill_icon_sword_3_{}
+A combination skill. Perform an attack with a flaming playing card pyramid. Increase all the party members' attack.
+Ace Tower
+Ace Tower
 skill_icon_sword_3_{}
 A combination skill. Activate a damage canceling barrier and move to the back of an enemy. Slip on a bar of soap and fall down after slashing down.
 Watch Your Step

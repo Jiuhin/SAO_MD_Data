@@ -1,3 +1,12 @@
+TBD
+Bunny Hat R4
+accessory01_0054
+TBD
+Bunny Hat R3
+accessory01_0054
+TBD
+Bunny Hat R2
+accessory01_0054
 vO/
 7hm
 TBD
@@ -464,6 +473,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+Heart Dress R4
+armor03_0068
+TBD
+Heart Dress R3
+armor03_0068
+TBD
+Heart Dress R2
+armor03_0068
 TBD
 Hot Spring Bathtowel R4
 armor03_0067

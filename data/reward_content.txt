@@ -440,6 +440,23 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+9%8
+Col Boost (2x) x1
+EXP Boost (2x) x1
+9]7
+Ritual Rapier R3
+Starry Night R3
+Miracle Bringer R3
+916
+Rainbow Essence x1
+Exchange Sword R2
+9i5
+Christmas Gold Medal x1
+Bunny Hat R3
+9}!
+Bunny Hat R2
+Heart Dress R3
+Heart Dress R2
 9Q 
 Fiery Javelin R3
 kO/
@@ -4420,6 +4437,14 @@ Christmas Stocking x20
 Christmas Stocking x18
 Christmas Stocking x15
 Christmas Stocking x12
+Bunny Hat R3
+Bunny Hat R2
+Heart Dress R3
+Heart Dress R2
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 kO/
 Hot Spring Headband R3
 jO/
@@ -4791,6 +4816,10 @@ Girl's Treats x6
 Girl's Treats (Favorite) x1
 Girl's Treats x10
 Girl's Treats x3
+Bunny Hat R3
+Heart Dress R3
+Bunny Hat R3
+Heart Dress R3
 kO/
 Hot Spring Headband R3
 Hot Spring Bathtowel R3
@@ -7794,6 +7823,14 @@ Silence R2
 Ritual Rapier R3
 Ritual Rapier R2
 [Captive Princess] Asuna
+Lv. 80 Fairy Princess Key x1
+Lv. 70 Fairy Princess Key x1
+Lv. 60 Fairy Princess Key x1
+Lv. 50 Fairy Princess Key x1
+Lv. 40 Fairy Princess Key x1
+Lv. 30 Fairy Princess Key x1
+Lv. 20 Fairy Princess Key x1
+Lv. 10 Fairy Princess Key x1
 Lv. 90 Fairy Princess Key x1
 Lv. 80 Fairy Princess Key x1
 Lv. 70 Fairy Princess Key x1

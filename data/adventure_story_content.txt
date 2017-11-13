@@ -1,138 +1,136 @@
-hXx
-hDx
-l$x
-8Zw
-Dwv
-0nv
-L+v
-Pnu
-HDu
-Hxt
-,pt
-Pvs
-4bs
-l]s
-$)p
-LZo
-DSo
-tIo
-8en
-8_m
-Dik
-XIk
-(&k
-HLj
-d:j
-,(j
-Dfi
-4[i
-8Ki
-DIi
-(Gi
-dFi
-PDi
-dBi
-H:i
-$9i
-d5i
-l3i
-h1i
-D0i
-x.i
-T,i
-0hg
-,Yg
-T?g
-l_f
-X[e
-4qd
-<Zd
-X d
-Dtc
-$:b
-XEa
-Lt_
-h	]
-de[
-L?Z
-4CY
-49Y
-x>X
-D0X
-,BW
-05W
-ddV
-(YV
-0-V
-4kU
-4]U
-0&U
-X_S
-pSS
-$vR
-tgQ
-4oN
-,EN
-T2L
-l}K
-l]K
-d]J
-$OJ
-d/I
-0bH
-<CH
-(yG
-,_F
-$DF
-PqE
-TQE
-t4E
-DjD
-$GD
-L{C
-H<C
-0CB
-<j?
-xa?
-PO?
-Lv<
-X9<
-XF:
-lz9
-Th9
-HU9
-h89
-pL8
-d&8
-Po7
-$}6
-Lf5
-8}3
-(G3
-dE1
-<]0
-LC0
-,o/
-01.
-$Q,
-(A,
-Dr)
-4A)
-86)
-PJ(
-P7(
-4N'
-ti&
-hP&
-L_%
-8D%
-(7%
-P&%
-4e"
-tI"
-x5!
-<z 
-82	
+Tcx
+hRx
+0Mx
+Prw
+(Kw
+p9v
+$	v
+8Zu
+Tet
+T.t
+tJs
+(,s
+0"s
+T[r
+T5r
+,'r
+luq
+0Qq
+Ddp
+lOp
+xVo
+<$o
+XRn
+xtm
+hPm
+hMl
+p/l
+Pxi
+0Gi
+T?i
+,<i
+P7i
+$4i
+L2i
+0)i
+XFh
+$/h
+Twg
+4>f
+d0f
+p$f
+4ze
+lKe
+x?e
+ted
+tEb
+D b
+Dha
+$[a
+H9a
+xh_
+d,_
+<7]
+H&]
+(x[
+d8[
+DbZ
+DIZ
+dwY
+diY
+<NX
+,!X
+TsW
+t]W
+HPW
+DzV
+4IV
+$PU
+8CU
+hvT
+(vS
+XiS
+<$S
+(fR
+h5R
+x&R
+TVP
+hmO
+d7O
+LeL
+([L
+pjK
+H0K
+DtJ
+DAJ
+P{I
+DpI
+<AG
+44G
+X6F
+(CE
+<XC
+hHC
+<gB
+4ZB
+xNB
+D[A
+Xn>
+$a<
+HB<
+(q:
+<H9
+tp8
+(d8
+l 7
+<Z4
+XN4
+<?4
+P 4
+XW3
+<d2
+LG2
+H42
+Ld1
+$E1
+l)1
+p{/
+dE/
+dm.
+pe-
+XV-
+<b,
+Lz)
+l%(
+Hs'
+4i&
+(P&
+H(&
+4I"
+ho!
+85!
+pj 
+PI	
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -470,7 +468,7 @@ Asuna
 406901201_3_a
 Sinon
 406901201_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 We've got 3 sevens and 3 threes.
 We've got an, uh...
 Kirito
@@ -579,7 +577,7 @@ Asuna
 406901101_3_a
 Sinon
 406901101_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Congratulations on making it
 this far, challengers! This is
 the final showdown!
@@ -705,7 +703,7 @@ Asuna
 406901001_3_a
 Sinon
 406901001_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Hey, is that what I think it is?
 Kirito
 406901001_1_a
@@ -868,7 +866,7 @@ Klein
 406900901_3_a
 Klein
 406900901_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Klein... I get the feeling we
 should use our last resort here...
 Akuto (Furinkazan Member)
@@ -955,7 +953,7 @@ Klein
 406900801_3_a
 Klein
 406900801_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Yo, Klein. We're starting to run
 low on cards.
 Akuto (Furinkazan Member)
@@ -1108,7 +1106,7 @@ Kirito
 406900701_3_a
 Asuna
 406900701_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Kirito, Asuna... Look.
 Sinon
 406900701_1_a
@@ -1212,7 +1210,7 @@ Kirito
 406900601_3_a
 Asuna
 406900601_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Kirito, I see a five-person party
 approaching from our six!
 Sinon
@@ -1431,7 +1429,7 @@ Kirito
 406900501_3_a
 Asuna
 406900501_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Hold it, you two! I see Card
 Soldiers up ahead!
 Sinon
@@ -1494,7 +1492,7 @@ Sinon
 406900401_3_a
 Kirito
 406900401_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 We did it! We were finally able
 to beat them!
 Asuna
@@ -1637,7 +1635,7 @@ Sinon
 406900301_3_a
 Asuna
 406900301_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Phew... Looks like those Card
 Soldiers aren't following us.
 Kirito
@@ -1722,7 +1720,7 @@ Asuna
 406900201_3_a
 Kirito
 406900201_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Kirito, I'm pretty sure that
 vertical shaft leads to a dead
 end.
@@ -1810,7 +1808,7 @@ anything like this before. It's
 certainly not a standard dungeon.
 Asuna
 406900101_8_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Whoa... So this is the 3D
 Labyrinth? Awesome.
 Kirito
@@ -87948,7 +87946,7 @@ Yuuki
 1450048_3_a
 Asuna
 1450048_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 ...
 Joker
 1450048_1_a
@@ -88083,7 +88081,7 @@ Asuna
 1450047_3_a
 Kirito
 1450047_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Annnd DAAAAAASH!!!
 Yuuki
 1450047_1_a
@@ -88164,7 +88162,7 @@ Think that was the joker assassin
 everyone's talking about?
 Player B
 1450045_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 What the heck was up with
 that?
 Player A
@@ -88240,7 +88238,7 @@ Yuuki
 1450043_3_a
 Asuna
 1450043_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Yeah, I heard that rumor too.
 Kirito
 1450043_1_a
@@ -88305,7 +88303,7 @@ Asuna
 Grawrk!
 Monster
 1450041_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Take THIS!
 Yuuki
 1450041_1_a
@@ -94023,14 +94021,13 @@ That's the stupidest question
 I've ever heard!
 Sinon
 1250023_5_a
-えーっ?
-ホントかなぁ……
+You're not? Reaaally...?
 Epidanthia
 1250023_4_a
 Wh-Why would you even think that?!
 Sinon
 1250023_3_a
-エピデント
+Epidanthia
 1250023_2_a
 bg_s2_01_wilderness
 There's n-no way we're d-d-dating!
@@ -126698,7 +126695,7 @@ Asuna
 650118_14_a
 Sinon
 650118_13_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Cool, you got a special prize for
 being nice. Congrats.
 Kirito
@@ -126743,7 +126740,7 @@ Queen
 Yes, Your Majesty?
 Asuna
 650118_2_a
-bg_13_boss_room
+bg_event_minotaur
 Asuna, come here.
 Queen
 650118_1_a
@@ -126815,7 +126812,7 @@ Liz
 650117_3_a
 Silica
 650117_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Whoa, I'm even faster now!
 Thanks, Asuna!
 Leafa
@@ -126957,7 +126954,7 @@ Kirito
 650115_3_a
 Asuna
 650115_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 What sort of bonuses do these
 card titles give?
 Sinon
@@ -127030,7 +127027,7 @@ Sinon
 650113_3_a
 Kirito
 650113_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 The queen just gave me a job!
 Asuna
 650113_1_a
@@ -127087,7 +127084,7 @@ Kirito
 650111_7_a
 Kirito
 650111_6_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Have you seen Asuna?
 Sinon
 650111_5_a
@@ -127101,7 +127098,7 @@ Yes, Your Majesty.
 I'm here.
 Asuna
 650111_2_a
-bg_13_boss_room
+bg_event_minotaur
 Is Asuna here?
 Queen
 650111_1_a
@@ -144048,7 +144045,7 @@ Queen
 Wh-What are you doing here?!
 King
 350068_2_a
-bg_13_boss_room
+bg_event_minotaur
 My love...
 ???
 350068_1_a
@@ -144159,7 +144156,7 @@ Sinon
 350067_3_a
 Kirito
 350067_2_a
-bg_07_xrphan_nest
+bg_04_inn_bed
 Come with us! You're going to rot
 in the dungeon until the day of
 your execution.
@@ -144256,7 +144253,7 @@ Can't you do anything right?
 Destroy the intruders, already!
 King
 350065_2_a
-bg_13_boss_room
+bg_event_minotaur
 This kingdom is mine, you hear me!
 MINE! I will not tolerate this
 foreign blight upon my land!
@@ -144357,7 +144354,7 @@ Sinon
 350063_3_a
 Asuna
 350063_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Okay, let's go over what we've
 all learned from our initial
 recon of this place...
@@ -144429,7 +144426,7 @@ Sinon
 350061_3_a
 Asuna
 350061_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 So, we managed to finish the 3D
 Labyrinth...
 Kirito
@@ -148725,7 +148722,7 @@ Sinon
 Sinon!
 Yuuki
 250128_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 ...
 Sinon
 250128_1_a
@@ -148797,7 +148794,7 @@ Kirito
 250127_3_a
 Asuna
 250127_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Grawrrr!!
 Monster
 250127_1_a
@@ -148909,7 +148906,7 @@ Yuuki
 250125_3_a
 Yuuki
 250125_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Hyah!
 Hiiiya!
 Players
@@ -148982,7 +148979,7 @@ Yuuki
 250123_3_a
 Yuuki
 250123_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Sorry to do this to you, though.
 Sinon
 250123_1_a
@@ -149061,7 +149058,7 @@ Sinon
 ...
 Joker
 250121_2_a
-bg_09_dungeon_safety
+bg_event_wonderland
 Ah, Sinoooo...
 Ahem, I mean, Joker!
 That's totally who you are!

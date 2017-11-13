@@ -131,6 +131,31 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+H&A
+8031005,3,45
+Complete "The Gigantes Strikes Back (Master +1)" with guild members in Multi under 45 seconds.
+H%A
+8031004,3,45
+Complete "The Gigantes Strikes Back (Master)" with guild members in Multi under 45 seconds.
+G$A
+8031003,3
+Complete "The Gigantes Strikes Back (EX)" with guild members in Multi.
+2050053-2050054-2050055-2050056-2050057,50
+Defeat 50 Gemini the Gigantes in the guild. 
+8031004,3,45
+Complete "The Gigantes Strikes Back  (Master)" under 45 sec. 
++!A
+8031004,3
+Complete "The Gigantes Strikes Back  (Master)" without down.
++ A
+8031003,3
+Complete "The Gigantes Strikes Back  (EX)" without down.
+8031003
+Complete "The Gigantes Strikes Back  (EX)"
+8031002
+Complete "The Gigantes Strikes Back (Expert)"
+8031001
+Complete "The Gigantes Strikes Back (Int.)"
 8030016
 Complete  "Enormous Monsters "The Gleam Eyes (Master +1)"
 8030015
