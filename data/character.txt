@@ -1,14 +1,14 @@
-,s3
-$c2
-pW1
-xa-
-P$,
-(S)
-dw(
-0+(
-0H'
-p!!
-(r 
+pg3
+Di1
+h'0
+(j/
+h}.
+hO.
+p-,
+t3)
+x&$
+8("
+t'!
 walk
 wakeup
 wait
@@ -173,7 +173,6 @@ dead
 dash
 damage
 charge_old
-"D:
 charge
 back_step
 attack_3
@@ -530,6 +529,7 @@ wakeup
 wait
 stun
 step
+zDF
 skill_16310101
 skill_163101
 skill_161201
@@ -546,6 +546,7 @@ dead
 dash
 damage
 charge_old
+"Dn
 charge
 back_step
 attack_3
@@ -1168,7 +1169,6 @@ wakeup
 wait
 stun
 step
-zDf
 skill_2313001
 	5	
 skill_23130
@@ -1561,6 +1561,7 @@ wakeup
 wait
 stun
 step
+HD4
 skill_184102
 skill_182101
 skill_181101
@@ -1644,7 +1645,6 @@ wakeup
 wait
 stun
 step
-zD2
 skill_184101
 skill_182101
 skill_181101
@@ -1728,6 +1728,7 @@ wakeup
 wait
 stun
 step
+TD:
 skill_183108
 skill_182101
 skill_181101
@@ -1893,6 +1894,7 @@ wakeup
 wait
 stun
 step
+HD:X
 skill_183103
 skill_182101
 skill_181101
@@ -1935,6 +1937,7 @@ wait
 stun
 step
 skill_18310101
+HD>
 skill_183101
 skill_182101
 skill_181101
@@ -2080,6 +2083,7 @@ dead
 dash
 damage
 charge_old
+"Dn
 charge
 back_step
 attack_3
@@ -2124,7 +2128,9 @@ down
 dead
 dash
 damage
+"DR5
 charge_old
+"D>7
 charge
 back_step
 attack_3
@@ -2154,6 +2160,7 @@ wakeup
 wait
 stun
 step
+D8G
 skill_163111
 skill_161201
 skill_161102
@@ -2168,7 +2175,9 @@ down
 dead
 dash
 damage
+"DNW
 charge_old
+"D:Y
 charge
 back_step
 attack_3
@@ -2212,7 +2221,6 @@ down
 dead
 dash
 damage
-"D.
 charge_old
 charge
 back_step
@@ -2258,7 +2266,9 @@ down
 dead
 dash
 damage
+"DR
 charge_old
+"D>
 charge
 back_step
 attack_3
@@ -2304,7 +2314,9 @@ down
 dead
 dash
 damage
+"Dz
 charge_old
+"Df
 charge
 back_step
 attack_3
@@ -2392,8 +2404,8 @@ down
 dead
 dash
 damage
+"D.
 charge_old
-"DnO
 charge
 back_step
 attack_3
@@ -2424,6 +2436,7 @@ wait
 stun
 step
 r,	
+zDd
 skill_163101
 skill_161201
 skill_161102
@@ -2439,7 +2452,6 @@ dead
 dash
 damage
 charge_old
-"Djr
 charge
 back_step
 attack_3
@@ -2469,7 +2481,9 @@ wakeup
 wait
 stun
 step
+zDfL
 skill_16310301
+zD6O
 skill_163103
 skill_161201
 skill_161102
@@ -2529,9 +2543,7 @@ down
 dead
 dash
 damage
-"DJ
 charge_old
-"D6
 charge
 back_step
 attack_3
@@ -2575,7 +2587,6 @@ down
 dead
 dash
 damage
-"D2
 charge_old
 charge
 back_step
@@ -2624,6 +2635,7 @@ dead
 dash
 damage
 charge_old
+"Dv
 charge
 back_step
 attack_3
@@ -2668,9 +2680,7 @@ down
 dead
 dash
 damage
-"DR+
 charge_old
-"D>-
 charge
 back_step
 attack_3
@@ -2700,7 +2710,6 @@ wakeup
 wait
 stun
 step
-DvC
 skill_163113
 skill_161201
 skill_161102
@@ -2716,7 +2725,9 @@ down
 dead
 dash
 damage
+"Dv"
 charge_old
+"Db$
 charge
 back_step
 attack_3
@@ -2747,7 +2758,6 @@ wait
 stun
 step
 skill_16310101
-zD4
 skill_163101
 skill_161201
 skill_161102
@@ -2793,6 +2803,7 @@ wait
 stun
 step
 skill_16310101
+zDH
 skill_163101
 skill_161201
 skill_161102
@@ -2807,9 +2818,7 @@ down
 dead
 dash
 damage
-"Df
 charge_old
-"DR
 charge
 back_step
 attack_3
@@ -2854,6 +2863,7 @@ dead
 dash
 damage
 charge_old
+"Dn
 charge
 back_step
 attack_3
@@ -3016,6 +3026,8 @@ wakeup
 wait
 stun
 step
+aDD
+aDf
 skill_144102
 skill_141201
 skill_141101
@@ -3333,7 +3345,6 @@ wakeup
 wait
 stun
 step
-D"8
 skill_14310601
 skill_143106
 skill_141202
@@ -3878,7 +3889,7 @@ wakeup
 wait
 stun
 step
-zDN
+zD.
 skill_123112
 skill_121202
 skill_121101
@@ -4455,8 +4466,7 @@ wakeup
 wait
 stun
 step
-zDJ
-zDz
+zDZx
 skill_104101
 skill_102201
 skill_101101
@@ -4838,6 +4848,7 @@ wait
 stun
 step
 skill_103121
+skill_10311701
 skill_102202
 skill_101101
 parry
@@ -4922,6 +4933,7 @@ wakeup
 wait
 stun
 step
+HDB5
 skill_103122
 skill_102201
 skill_101101
@@ -5050,7 +5062,6 @@ wait
 stun
 step
 e.	
-zCF
 skill_103115
 skill_101201
 skill_101101
@@ -5093,6 +5104,7 @@ wakeup
 wait
 stun
 step
+skill_10311701
 skill_103117
 skill_102202
 skill_101101
@@ -7978,6 +7990,55 @@ wakeup
 wait
 stun
 step
+skill_64107
+skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+skill_61201
+parry
+parried
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_64107
+skill_62201
+skill_61201
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_65006
+SAO player. Vice Commander of the Knights of the Blood Oath and one o the top players in the Assault Team. Her ethnic costume is the reason for her shiny smile?
+serif
+5_asuna_65006
+Asuna
+[Dancing Rose Red] Asuna
+walk
+wakeup
+wait
+stun
+step
 skill_64105
 skill_62201
 %&'
@@ -8077,8 +8138,7 @@ wakeup
 wait
 stun
 step
-/D$Y
-/Dp
+/D0X
 skill_64103
 skill_62101
 %&'
@@ -8373,7 +8433,6 @@ wakeup
 wait
 stun
 step
-/Dd[
 skill_63131
 skill_62101
 %&'
@@ -10220,6 +10279,7 @@ wakeup
 wait
 stun
 step
+zDlQ
 skill_34102
 skill_32202
 skill_31201
@@ -10302,7 +10362,6 @@ wakeup
 wait
 stun
 step
-HDF
 skill_33108
 skill_32202
 skill_31201
@@ -11011,7 +11070,6 @@ wakeup
 wait
 stun
 step
-HDf
 skill_23146
 skill_22202
 skill_21201
@@ -11178,8 +11236,6 @@ wakeup
 wait
 stun
 step
-HDP9
-HDrg
 skill_23142
 skill_22102
 skill_21201
@@ -11221,7 +11277,6 @@ wakeup
 wait
 stun
 step
-C8_
 skill_23137
 skill_22202
 skill_21201

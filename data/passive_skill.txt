@@ -153,6 +153,8 @@ Atk +10% (YUNA)
 MP Recovery on Kill (Premiere)
 Increases attack by 10% when equipped by Sachi.
 Atk +10% (Sachi)
+ストレアが装備すると攻撃力が10%増加する
+ストレアの攻撃+10%
 Increases attack by 3% when equipped by Silica.
 Attack +3% (Silica)
 Increases attack by 10% when equipped by Sachi.
@@ -484,6 +486,8 @@ Increases Non-elem. character's poison resistance.
 Poison Resistance (Non-elem.)
 Increases Water-elem. character's paralysis resistance.
 Paralysis Resistance (Water)
+Increases darkness resistance.
+Darkness Resistance 
 Increases Non-elem. character's paralysis resistance.
 Paralysis Resistance (Non-elem.)
 Increases MP gain vs Holy-elem. enemies.
@@ -805,6 +809,8 @@ Increase damage received by 30% from Fire-elem. characters.
 [enemy] Increase damage received by 30% (Fire)
 Increase damage received by 20% from Fire-elem. characters.
 [enemy] Increase damage received by 20% (Fire)
+Increase damage received by 10% from Fire-elem. characters.
+[enemy] Increase damage received by 10% (Fire)
 Reduces damage from Fire-elem. enemies.
 Fire Resistance
 Increase damage received by 50% from characters.

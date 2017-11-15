@@ -238,6 +238,14 @@ head
 weapon
 enemy_144_slime
 enemy_144_slime
+gun_skill_weapon
+weapon_effect_gun
+weapon_gun
+enemy_137_gun_w
+head
+weapon_gun
+enemy_137_gun_w
+enemy_137_gun_w
 weapon_effect
 enemy_133_the_toxic_rhinoceros
 shoulder_l

@@ -169,6 +169,16 @@ Character Story
 Character Story
 [Star Scientist] Seven Lv.10
 Character Story
+[The Wild Joker] Sinon Lv.80
+Character Story
+[The Wild Joker] Sinon Lv.70
+Character Story
+[The Wild Joker] Sinon Lv.50
+Character Story
+[The Wild Joker] Sinon Lv.30
+Character Story
+[The Wild Joker] Sinon Lv.10
+Character Story
 [The Archer - overcoming the past] Sinon Lv.80
 Character Story
 [The Archer - overcoming the past] Sinon Lv.70
@@ -759,6 +769,16 @@ Character Story
 Character Story
 [Dragon Tamer] Silica Lv.10
 Character Story
+[The Queen of Hearts] Asuna Lv.80
+Character Story
+[The Queen of Hearts] Asuna Lv.70
+Character Story
+[The Queen of Hearts] Asuna Lv.50
+Character Story
+[The Queen of Hearts] Asuna Lv.30
+Character Story
+[The Queen of Hearts] Asuna Lv.10
+Character Story
 [The Glossy Goddess] Asuna Lv.80
 Character Story
 [The Glossy Goddess] Asuna Lv.70
@@ -1019,6 +1039,16 @@ Character Story
 Character Story
 [Raindrops Girl] Rain Lv.10
 Character Story
+[The King of Poker] Kirito Lv.80
+Character Story
+[The King of Poker] Kirito Lv.70
+Character Story
+[The King of Poker] Kirito Lv.50
+Character Story
+[The King of Poker] Kirito Lv.30
+Character Story
+[The King of Poker] Kirito Lv.10
+Character Story
 [Offer Lifeblood] Kirito Lv.80
 Character Story
 [Offer Lifeblood] Kirito Lv.70
@@ -1078,6 +1108,16 @@ Character Story
 [Black Swordsman] Kirito Lv.30
 Character Story
 [Black Swordsman] Kirito Lv.10
+Character Story
+[The Bunny Ace] Yuuki Lv.80
+Character Story
+[The Bunny Ace] Yuuki Lv.70
+Character Story
+[The Bunny Ace] Yuuki Lv.50
+Character Story
+[The Bunny Ace] Yuuki Lv.30
+Character Story
+[The Bunny Ace] Yuuki Lv.10
 Character Story
 [Beauty in Secluded Hot Springs] Leafa Lv.80
 Character Story

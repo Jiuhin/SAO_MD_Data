@@ -1705,6 +1705,10 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
+A combination sword skill. Perform a consecutive attack swiftly and elegantly.
+Graceful Skirt
+Graceful Skirt
+skill_icon_finesword_3_{}
 A combination skill. Attack with spinning playing cards. Increase all the party members' attack.
 Queen's Handling
 Queen's Handling
@@ -2582,6 +2586,9 @@ skill_icon_sword_1_{}
 A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
+skill_icon_sword_3_{}
+Release Recollection
+Snow on Christmas Eve
 skill_icon_sword_3_{}
 A combination skill. Dropping a coin is not the way to begin!? Quick draw just like a gunfighter in a Western film.
 Beater the Kid

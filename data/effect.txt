@@ -21,6 +21,11 @@ effect_eyes_flash_b_s
 effect_eyes_flash_b_s
 effect_eyes_flash_s
 effect_eyes_flash_s
+?o3
+effect_protect_body_02
+effect_protect_body_01
+effect_protect_body_01
+effect_protect_body_01
 effect_warp_queen_short
 effect_warp_queen
 effect_warp_trumps_01

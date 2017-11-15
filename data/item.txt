@@ -550,11 +550,11 @@ L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
-You can do the Colored Leaf  Gold Medal Scout.
+You can do the Colored Leaf Gold Medal Scout.
 Colored Leaf Gold Medal
-You can do the Colored Leaf  Silver Medal Scout.
+You can do the Colored Leaf Silver Medal Scout.
 Colored Leaf Silver Medal
-You can do the Colored Leaf  Bronze Medal Scout.
+You can do the Colored Leaf Bronze Medal Scout.
 Colored Leaf Bronze Medal
 You can do the Halloween Gold Medal Scout.
 Halloween Gold Medal
@@ -608,6 +608,10 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_emerald
+You can attain at  "The Crimson Trump
+Card"
+Crimson Trump Card Crystal
+item_m_record_crystal_emerald
 You can attain at the "Steamy Beauty Bath Time"
 Steamy Beauty Bath Time Record Crystal
 item_m_record_crystal_emerald
@@ -633,7 +637,7 @@ You can attain at the "YUKATA Night" Scout
 Yukata Night Record Crystal
 item_m_evolution_20006
 Raises Asuna's level cap.
-([Captive Princess] Asunaonly) 
+([Captive Princess] Asuna only) 
 Rarity: High
 Birdcage Upgrade Crystal
 item_m_evolution_20005

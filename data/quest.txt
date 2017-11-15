@@ -19,9 +19,9 @@ Quest 3
 Floor 74: Dungeon (Master)
 The bodyguard of Asuna, 
 the vice commander of Knights of the Blood. 
-He has affection for Asuna and sees Kirito as his enemy. 
-He tries to get in Kirito's way. 
-Win Asuna over!
+He has affection for Asuna and sees
+Kirito as his enemy. 
+He tries to get in Kirito's way. Win Asuna over!
 Defeat All Enemies
 Quest
 bg_thumbnail_2021
@@ -3605,6 +3605,120 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 6
+Dungeon Assault Battle & Poker (Master +2)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 5
+Dungeon Assault Battle & Poker (Master +1)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 4
+Dungeon Assault Battle & Poker (Master)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 3
+Dungeon Assault Battle & Poker (EX)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 2
+Dungeon Assault Battle & Poker (Expert)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 1
+Dungeon Assault Battle & Poker (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Race of the game
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Win or Lose
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+The Final Match
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Original Roles
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Revenge Match 
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Black Cape
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Hide and Collect
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+rinkazan
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Card Collecting
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Poker Match
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Become Invincible
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+The Huge Maze
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -9183,9 +9297,9 @@ Quest 3
 Floor 74: Dungeon (Master)
 The bodyguard of Asuna, 
 the vice commander of Knights of the Blood. 
-He has affection for Asuna and sees Kirito as his enemy. 
-He tries to get in Kirito's way. 
-Win Asuna over!
+He has affection for Asuna and sees
+Kirito as his enemy. 
+He tries to get in Kirito's way. Win Asuna over!
 Defeat All Enemies
 Quest
 bg_thumbnail_2021
@@ -12769,6 +12883,120 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 6
+Dungeon Assault Battle & Poker (Master +2)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 5
+Dungeon Assault Battle & Poker (Master +1)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 4
+Dungeon Assault Battle & Poker (Master)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 3
+Dungeon Assault Battle & Poker (EX)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 2
+Dungeon Assault Battle & Poker (Expert)
+The great enemy "Jack the Tricker"  
+appears in the dungeon.
+Memorize the playing card motifs and read  
+their moves ahead!
+Defeat All Enemies
+Quest
+bg_thumbnail_8045
+Quest 1
+Dungeon Assault Battle & Poker (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Race of the game
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Win or Lose
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+The Final Match
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Original Roles
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Revenge Match 
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Black Cape
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Hide and Collect
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+rinkazan
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Card Collecting
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Poker Match
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Become Invincible
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+The Huge Maze
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!

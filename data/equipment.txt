@@ -1372,6 +1372,12 @@ TBD
 Small Rod R1
 weapon08_0001
 TBD
+Destiny Rosso R5
+weapon07_0031
+TBD
+Destiny Rosso R4
+weapon07_0031
+TBD
 Gusisnautar R5
 weapon07_0030
 TBD
@@ -2220,6 +2226,12 @@ TBD
 Light Dagger R1
 weapon04_0001
 TBD
+Burning Heart R5
+weapon03_0055
+TBD
+Burning Heart R4
+weapon03_0055
+TBD
 Holy Flower Rapier R5
 weapon03_0054
 TBD
@@ -2516,6 +2528,12 @@ TBD
 Dual Hydrangea Sword+1 R4
 weapon02_0027
 TBD
+Russian Rouge x Judgement Noir R5
+weapon02_0026
+TBD
+Russian Rouge x Judgement Noir R4
+weapon02_0026
+TBD
 Enlightenment x Shadow Eliminator R5
 weapon02_0025
 TBD
@@ -2672,6 +2690,12 @@ TBD
 Dual Short Swords 
 2 R1
 weapon02_0001
+TBD
+Jackpot Spada R5
+weapon01_0097
+TBD
+Jackpot Spada R4
+weapon01_0097
 TBD
 Tsukikage R5
 weapon01_0096

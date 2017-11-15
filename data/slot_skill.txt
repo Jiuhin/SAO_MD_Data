@@ -4,12 +4,33 @@ Emergency Heal (MP) Lv.1
 slot_skill_icon_reseve_healing_mp
 Restores 5 MP per 5 seconds during standby.
 Emergency Heal (MP) Lv.1
+slot_skill_icon_reseve_healing_hp_mp
+Transforms Battle Skill 2. Restores 600 HP & 5 MP per 5 seconds during standby.
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_def_light_1
+Reduces damage from Holy-elem. enemies by 30%
+Holy Resistance Lv2
+slot_skill_icon_def_light_1
+Reduces damage from Holy-elem. enemies by 15%
+Holy Resistance Lv1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP & attack by 12%
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 12%
 Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 12%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 12%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP & Crit by 12%
+Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
@@ -415,6 +436,12 @@ UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+slot_skill_icon_reseve_healing_hp
+Restores 1200 HP every 5 seconds during standby.
+Emergency Heal (HP) Lv.2
+slot_skill_icon_reseve_healing_hp
+Restores 600 HP every 5 seconds during standby.
+Emergency Heal (HP) Lv.1
 slot_skill_icon_def_water_1
 Reduces damage from Water-elem. enemies by 30%
 Water Resistance Lv2
@@ -860,8 +887,16 @@ Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Increases attack and the bullet becomes a homing bullet.
 Sword Skill 3 Enhance Lv. 1
+-q%
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
+Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Reduces required MP. Enhance the effect of your increased speed.
+Sword Skill 3 Enhance Lv. 1
+-q%
+slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Enhance the effect of your increased attack.
 Sword Skill 3 Enhance Lv. 1
 }S%
 slot_skill_icon_ss_enhance_3_5
@@ -1047,6 +1082,9 @@ Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 1. Increases Max MP by 15%
+Battle Skill 1 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 1. Increases Max MP by 15%
 Battle Skill 1 Transform Lv. 1

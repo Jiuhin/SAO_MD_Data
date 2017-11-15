@@ -96,6 +96,10 @@ The Wandering Frost Giant
 Mini Event
 Fight Back: Ursula the Witch
 Equip Event
+キャラ紹介イベント１
+Chara Event
+キャラ紹介イベント２
+Chara Event
 CM Memorial Quest
 Chara Event
 [Summer Princess] Alice
