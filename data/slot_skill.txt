@@ -6,7 +6,7 @@ Restores 5 MP per 5 seconds during standby.
 Emergency Heal (MP) Lv.1
 slot_skill_icon_reseve_healing_hp_mp
 Transforms Battle Skill 2. Restores 600 HP & 5 MP per 5 seconds during standby.
-Battle Skill 2 Transform Lv. 2
+Battle Skill 2 Transform Lv. 1
 slot_skill_icon_def_light_1
 Reduces damage from Holy-elem. enemies by 30%
 Holy Resistance Lv2
@@ -1487,6 +1487,36 @@ Shieldblade Skill Lv.2
 slot_skill_icon_job_10
 Raises attack and crit. rate by 50
 Shieldblade Skill Lv.1
+slot_skill_icon_job_9
+Raises attack and crit. rate by 500
+Lance Skill Lv.10
+slot_skill_icon_job_9
+Raises attack and crit. rate by 450
+Lance Skill Lv.9
+slot_skill_icon_job_9
+Raises attack and crit. rate by 400
+Lance Skill Lv.8
+slot_skill_icon_job_9
+Raises attack and crit. rate by 350
+Lance Skill Lv.7
+slot_skill_icon_job_9
+Raises attack and crit. rate by 300
+Lance Skill Lv.6
+slot_skill_icon_job_9
+Raises attack and crit. rate by 250
+Lance Skill Lv.5
+slot_skill_icon_job_9
+Raises attack and crit. rate by 200
+Lance Skill Lv.4
+slot_skill_icon_job_9
+Raises attack and crit. rate by 150
+Lance Skill Lv.3
+slot_skill_icon_job_9
+Raises attack and crit. rate by 100
+Lance Skill Lv.2
+slot_skill_icon_job_9
+Raises attack and crit. rate by 50
+Lance Skill Lv.1
 slot_skill_icon_job_9
 Raises attack and crit. rate by 500
 Lance Skill Lv.10

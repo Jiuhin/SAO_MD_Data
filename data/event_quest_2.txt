@@ -1,3 +1,9 @@
+images/battle/cutin/battle_cutin_65002.png
+時間が少ないわ！
+急いで敵を倒して！！
+images/battle/cutin/battle_cutin_65002.png
+Time is running out!
+Bring them down NOW!
 }{z
 {{z
 z{z

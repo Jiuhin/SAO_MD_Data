@@ -3698,7 +3698,7 @@ Finish Story
 Story
 bg_thumbnail_0
 Story 5
-rinkazan
+Furinkazan
 Finish Story
 Story
 bg_thumbnail_0
@@ -12976,7 +12976,7 @@ Finish Story
 Story
 bg_thumbnail_0
 Story 5
-rinkazan
+Furinkazan
 Finish Story
 Story
 bg_thumbnail_0

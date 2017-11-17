@@ -154,6 +154,10 @@ NICONICO USE
 Test Event
 TEST USE
 Test
+ランキングイベント・テスト１
+TestEvent
+ランキングイベント・Tテスト２
+Event
 The Order of the Immortal
 Event
 The Beast Lords in League
@@ -169,6 +173,10 @@ Event
 砂塵の突破口
 Event
 Monsters in the Castle of Mirage
+Event
+雪舞う空からの贈り物
+Event
+Carol Under the Starry Sky
 Event
 Playing Cards
 Event

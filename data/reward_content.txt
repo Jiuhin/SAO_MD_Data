@@ -58,7 +58,7 @@ Black Cape
 !m:B
 Hide and Collect
 e!m:A
-rinkazan
+Furinkazan
 !m:
 Card Collecting
 m:?
@@ -745,6 +745,10 @@ Fire Medallion x15
 Void Medallion x30
 	8qs
 Rainbow Essence x2
+	8ks
+600EP
+	8js
+SAO Survivor
 	8cs
 [Dancing Rose Red] Asuna
 	8bs

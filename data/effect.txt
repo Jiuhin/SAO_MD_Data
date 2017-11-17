@@ -21,6 +21,8 @@ effect_eyes_flash_b_s
 effect_eyes_flash_b_s
 effect_eyes_flash_s
 effect_eyes_flash_s
+effect_warp_wicket_wreath_short_01
+effect_warp_wicket_wreath_01
 ?o3
 effect_protect_body_02
 effect_protect_body_01

@@ -153,8 +153,8 @@ Atk +10% (YUNA)
 MP Recovery on Kill (Premiere)
 Increases attack by 10% when equipped by Sachi.
 Atk +10% (Sachi)
-ストレアが装備すると攻撃力が10%増加する
-ストレアの攻撃+10%
+Increases attack by 10% when equipped by Strea.
+Atk +10% (Strea)
 Increases attack by 3% when equipped by Silica.
 Attack +3% (Silica)
 Increases attack by 10% when equipped by Sachi.

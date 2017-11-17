@@ -2587,9 +2587,6 @@ A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
 skill_icon_sword_3_{}
-Release Recollection
-Snow on Christmas Eve
-skill_icon_sword_3_{}
 A combination skill. Dropping a coin is not the way to begin!? Quick draw just like a gunfighter in a Western film.
 Beater the Kid
 Beater the Kid
