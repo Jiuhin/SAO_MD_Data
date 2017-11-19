@@ -973,6 +973,15 @@ TBD
 Volatile Coat R2
 armor01_0025
 TBD
+Heart Relic R4
+armor01_0021
+TBD
+Heart Relic R3
+armor01_0021
+TBD
+Heart Relic R2
+armor01_0021
+TBD
 Darkness Robe R3
 armor01_0020
 TBD
@@ -2522,6 +2531,20 @@ TBD
 Small Rapier R1
 weapon03_0001
 TBD
+Dual Melodious Twins+1 R5
+weapon02_0029
+TBD
+Dual Melodious Twins+1 R4
+weapon02_0029
+{-&
+TBD
+Dual Galactic Lights+1 R5
+weapon02_0028
+{-&
+TBD
+Dual Galactic Lights+1 R4
+weapon02_0028
+TBD
 Dual Hydrangea Sword+1 R5
 weapon02_0027
 TBD
@@ -2690,6 +2713,12 @@ TBD
 Dual Short Swords 
 2 R1
 weapon02_0001
+TBD
+June Blade+1 R5
+weapon01_0106
+TBD
+June Blade+1 R4
+weapon01_0106
 TBD
 Jackpot Spada R5
 weapon01_0097

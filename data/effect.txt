@@ -28,6 +28,7 @@ effect_protect_body_02
 effect_protect_body_01
 effect_protect_body_01
 effect_protect_body_01
+effect_breakbattle_effective_damage
 effect_warp_queen_short
 effect_warp_queen
 effect_warp_trumps_01

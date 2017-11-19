@@ -100,6 +100,8 @@ d7595311191eb890c60c72fdb1b0bd54
 ss/unit/chara_8_dagger_w/skill_effect_dagger_2.png
 1d448670c30c70d850e7e013ff70b079
 ss/unit/chara_8_dagger_w/skill_effect_dagger_1.png
+03596b6719ee3602c9ea528068874738
+ss/unit/chara_8_dagger_w/skill_effect_84105.png
 cd7c77a4fb5f73e619bfe9979eef4ca2
 ss/unit/chara_8_dagger_w/skill_effect_84104.png
 098819fbe2362e1ebf60a88da07aadfd
@@ -1224,7 +1226,7 @@ b150d37130ffc4bbadc7d0cc73aa69cf
 ss/unit/chara_14_bow_w/weapon07_0005.png
 2ea9051d30ba469baee6b3b9aca4aa08
 ss/unit/chara_14_bow_w/weapon07_0001.png
-64a83838ab628dce31acb04ee87394ad
+4c97561e94ed259695a0258b27e0f518
 ss/unit/chara_14_bow_w/skill_effect_144104.png
 ce2f60e00b82f1a494518d45d57fdb94
 ss/unit/chara_14_bow_w/skill_effect_144103.png
@@ -1914,6 +1916,14 @@ images/lottery/053/20531_scout_banner.png
 images/lottery/053/10531_weapon_top_s.png
 7242d9e7dd08efeeaa1a11d67abc10eb
 images/lottery/053/10531_weapon_banner.png
+905f4a27262fa168f4c5848c60ae7020
+images/lottery/052/20521_scout_top_s.png
+e3e874ed0d8349c0a489a983648fb0f3
+images/lottery/052/20521_scout_banner.png
+b5bce1e9a28abadc66be4a630704712b
+images/lottery/052/10521_weapon_top_s.png
+6895cecaa49ef57e05f6a28130800d32
+images/lottery/052/10521_weapon_banner.png
 1b0b9f79d04d905e9fac29d3d7d3f8c7
 images/lottery/051/20513_scout_top_s.png
 09b65b9b05f827e3bff9ef2c9929aef5
@@ -3028,6 +3038,10 @@ images/event/4801/4801_name.png
 images/event/4801/4801_banner.png
 3210e63632f0aff5e0fc4499f0ad8f12
 images/event/4801/4801_announce.png
+c9b9334324c17aa6107e49e3a39d4bbb
+images/event/4073/4073_top.png
+94c5282fcae9057fbd5035a7e51498d1
+images/event/4073/4073_banner.png
 1616e5857bcddeb55334b87f470eb6e8
 images/event/4069/4069_top.png
 15e3ae55d4f34c56c3d3398b77014e74

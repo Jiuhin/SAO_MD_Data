@@ -3605,6 +3605,50 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+-&>
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 5
+Monsters in the Castle of Mirage (Master +1)
+,&>
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 4
+Monsters in the Castle of Mirage (Master)
++&>
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 3
+Monsters in the Castle of Mirage (EX)
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 2
+Monsters in the Castle of Mirage (Expert)
+)&>
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 1
+Monsters in the Castle of Mirage (Int.)
 The great enemy "Jack the Tricker"  
 appears in the dungeon.
 Memorize the playing card motifs and read  
@@ -12883,6 +12927,50 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+-&>
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 5
+Monsters in the Castle of Mirage (Master +1)
+,&>
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 4
+Monsters in the Castle of Mirage (Master)
++&>
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 3
+Monsters in the Castle of Mirage (EX)
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 2
+Monsters in the Castle of Mirage (Expert)
+)&>
+"Haagenti the Minotaurus" awaits 
+at the Castle of Mirage.
+Dodge their powerful attacks and defeat them!
+Defeat All Enemies
+Quest
+bg_thumbnail_2029
+Quest 1
+Monsters in the Castle of Mirage (Int.)
 The great enemy "Jack the Tricker"  
 appears in the dungeon.
 Memorize the playing card motifs and read  

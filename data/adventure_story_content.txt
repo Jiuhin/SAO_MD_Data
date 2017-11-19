@@ -1,141 +1,164 @@
-Tm{
-0W{
-(Uz
-pCy
-Djx
-8dx
-Tow
-T8w
-x$w
-tTv
-(6v
-0,v
-Teu
-T?u
-,1u
-0[t
-Dns
-0hs
-lYs
-<.r
-<	r
-0Jq
-hZp
-hWo
-p9o
-LEn
-h	l
-,Wk
-Xbj
-pRj
-84j
-4oi
-h8i
-DYh
-$jg
-X"g
-Lbf
-,Ye
-pFd
-p.d
-(%d
-tvb
-lLa
-45a
-$v_
-d)_
-$[]
-,R[
-p)[
-0wZ
-pWZ
-<IZ
-D'Z
-$[Y
-(NY
-hrX
-pFX
-tvW
-p?W
-X3W
-T}V
-TrV
-DKV
-(UU
-d5U
-T(U
-h7T
-<PS
-('S
-LdR
-lVR
-TDR
-d'R
-xbQ
-lJQ
-d?Q
-p[O
-PBN
-,8N
-<xM
-tGM
-4vL
-hhL
-HQL
-TXK
-HMK
-$HJ
-lrH
-, G
-<yE
-l%E
-DSD
-87D
-H8C
-4aB
-$UB
-h4B
-4)B
-T:?
-(>>
-,N<
-tA:
-T3:
-h):
-4Z8
-Du6
-HZ5
-lO5
-8$5
-Ll4
-t[4
-L14
-xx3
-8k3
-p:3
-8x2
-(<2
-(!2
-0d1
-4S0
-X70
-Dw/
-8Y.
-$6.
-h-,
-TL+
-t,(
-xr'
-H&'
-<.&
-Xh%
-xU%
-D)%
-4$$
-PT"
-T+!
-(} 
-83 
+X&z
+L{y
+lZy
+dCy
+P:y
+XZx
+,Kx
+p:x
+8fw
+T[w
+hDw
+L<w
+L(w
+pBv
+T.v
+< v
+Tft
+(wr
+hlr
+Dar
+tLr
+l&r
+Dyq
+0Uq
+X1q
+D}p
+,ep
+$Ap
+X+p
+,+o
+x}n
+d5n
+xSm
+tVl
+d2l
+T'l
+tak
+(Ak
+H1k
+8sj
+xti
+dpg
+p?f
+Dye
+Hce
+<9e
+lKd
+d0d
+Dwc
+XUc
+l!b
+(ga
+p<a
+PR_
+l6_
+d]]
+ht[
+8c[
+8U[
+0B[
+<qZ
+dYZ
+4vY
+LkY
+(_Y
+hUY
+HIY
+P5X
+8mW
+T/W
+DbU
+tUU
+DRT
+$SS
+xfR
+pBR
+HuQ
+P:P
+0jO
+0jN
+,1N
+($N
+0yM
+0?M
+t]L
+43L
+HWK
+(JK
+P<K
+(JJ
+x?J
+t{I
+PSI
+TDI
+<-I
+<yH
+$1H
+T$H
+LPG
+d%G
+TjF
+XJF
+D>E
+,qD
+hVD
+x9D
+8HC
+d7C
+p)C
+<pB
+DkA
+H7A
+pg?
+$0?
+L ?
+pR>
+db<
+TW<
+,4<
+<y:
+4D:
+0%:
+LK9
+4q8
+,G8
+(76
+<K5
+ht4
+le3
+4}2
+H11
+,k0
+tT0
+<J0
+P%0
+Hy/
+LK/
+45/
+hx.
+,_.
+lP.
+H".
+Dh-
+<M-
+<>-
+(I,
+pp+
+D<+
+L_)
+0B)
+XE(
+(b'
+HA'
+l+'
+d7&
+hh%
+lU!
+DA!
+T-!
+Pd	
+<-	
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -391,2212 +414,2270 @@ bg_black
 480404801_1_a
 qXB
 qXB
-ふふっ、楽しみだね
-アスナ
+Hehe, this is going to be a fun
+night!
+Asuna
 407001201_69_a
 qXB
-アスナ
+Asuna
 407001201_68_a
 qXB
+Yui
 407001201_67_a
 qXB
-もちろん!
-キリト
+Yeah!
+Kirito
 407001201_66_a
 qXB
-さあ、二人とも
-コンサートの打ち上げを始めるわよ
-もちろん参加してくれるわよね?
-セブン
+Cool, well...me and my carolers
+are about to go out to celebrate
+our musical victory! Want to come?
+Seven
 407001201_65_a
 qXB
-キリト
+Kirito
 407001201_64_a
 qXB
-あはは……
-新たな脅威も早いうちに
-発見できたしね……
-アスナ
+Ahaha, yay! And we got some info
+on a scary new bad guy too!
+Asuna
 407001201_63_a
 qXB
-アスナ
+Asuna
 407001201_62_a
 qXB
+Yui
 407001201_61_a
 qXB
-ああ、そうだな
-キリト
+Apparently, yeah!
+Kirito
 407001201_60_a
 qXB
-それは良かったよ
-もしかしてあたしたちの護衛受けて
-得しちゃった?
-セブン
+Well, I'm glad you're happy.
+Heh, escorting us around turned
+out to be super profitable, huh?
+Seven
 407001201_59_a
 qXB
-アスナ
+Asuna
 407001201_58_a
 qXB
+Yui
 407001201_57_a
 qXB
-はは、そうか!
-偶然とはいえこれは助かるぜ
-アリスたちも喜ぶと思う
-キリト
+Ha ha, awesome! Random luck for
+the win! I bet Alice and Eugeo
+will be ecstatic!
+Kirito
 407001201_56_a
 qXB
-用途がわからないから
-一応取っておいたんだけど……
-まさか神器だったなんて……
-セブン
+I had no idea what it was, but it
+looked valuable, so...yoink!
+Seven
 407001201_55_a
 qXB
-地下から見つけたの
-なんか聖遺物って感じがして
-レアアイテムだとは思いつつも
-セブン
+It had this super-cool, ancient,
+holy artifact vibe, so I thought
+it might be rare.
+Seven
 407001201_54_a
 qXB
-ここの教会に着いて
-コンサートのリハをしてたときにね
-セブン
+Well, when we got here, we went
+down into the church basement for
+some rehearsing, and there it was.
+Seven
 407001201_53_a
 qXB
+Yui
 407001201_52_a
 qXB
-キリト
+Kirito
 407001201_51_a
 qXB
-セブンちゃん
-これどこで見つけたの?
-アスナ
+Seven, where did you find this?
+Asuna
 407001201_50_a
 qXB
-えっ、神器!?
-これが二人が探してる神器なの!?
-セブン
+Huh? THIS is one of those things
+you guys have been looking for?!
+Seven
 407001201_49_a
 qXB
-アスナ
+Asuna
 407001201_48_a
 qXB
-この色合いと造形……
-神器じゃないか!!
-キリト
+That shape... That color...
+It's a Divine Object!!
+Kirito
 407001201_47_a
 qXB
+Yui
 407001201_46_a
 qXB
-キリト
+Kirito
 407001201_45_a
 qXB
 item_event_sacred_treasure
-これって……
-アスナ
+Wait, is that what I think it is?
+Asuna
 407001201_44_a
 qXB
-ほら、これなんだけど……
-セブン
+Ta-dah! What do you think?
+Seven
 407001201_43_a
 qXB
-アスナ
+Asuna
 407001201_42_a
 qXB
+Yui
 407001201_41_a
 qXB
-ん、なんかくれるのか?
-キリト
+What, for reals?
+I love free stuff!
+Kirito
 407001201_40_a
 qXB
-護衛の報酬でね
-ユルド以外にキリト君たちに
-あげようと思ったものがあって
-セブン
+I wanted to give you guys
+something besides cold hard Yuld
+to thank you for all your help.
+Seven
 407001201_39_a
 qXB
-ふふっ、冗談よ～
-あっ、そうそう
-セブン
+Hehe, I'm just teasin' ya.
+Oh! By the way!
+Seven
 407001201_38_a
 qXB
+Yui
 407001201_37_a
 qXB
-キリト
+Kirito
 407001201_36_a
 qXB
-ち、違うよ!
-そんなことしてないよー!
-アスナ
+N-No! We were doing nothing
+of the sort!
+Asuna
 407001201_35_a
 qXB
-途中でコンサート抜け出して、
-クリスマスっぽくいい雰囲気になって
-イチャイチャしてたんじゃないの!?
-セブン
+You two snuck out of my concert
+to go find a romantic Christmas
+corner to make out in, didn't you?
+Seven
 407001201_34_a
 qXB
-そうよ!
-あっ……もしかして二人!
-セブン
+Yeah! Wait... Waaaiiit a second...
+I know what's going on here!
+Seven
 407001201_33_a
 qXB
-アスナ
+Asuna
 407001201_32_a
 qXB
+Yui
 407001201_31_a
 qXB
-おっ、セブン
-ちょうどコンサートは終わった
-みたいだな
-キリト
+Oh, hey Seven.
+Is the concert over already?
+Kirito
 407001201_30_a
 qXB
-ああーっ!
-二人ともこんなところにいたー!
-セブン
+There you are!! I've been looking
+all over for you two lovebirds!
+Seven
 407001201_29_a
 qXB
-アスナ
+Asuna
 407001201_28_a
 qXB
+Yui
 407001201_27_a
 qXB
-なんとも厄介なことを
-学習してくれたもんだぜ
-キリト
+Seriously. It's picked up some
+reaaally annoying tricks lately.
+Kirito
 407001201_26_a
 qXB
-そうだね……
-でもさすがはカーディナルの
-自動生成クエストってところだね
-アスナ
+We definitely don't want that...
+Still, Cardinal really likes
+making our lives difficult.
+Asuna
 407001201_25_a
 qXB
-知能の高い二人に話したら
-混乱させるだけになっちまうからな
-キリト
+I mean, if we tried to explain it,
+their heads would probably
+explode.
+Kirito
 407001201_24_a
 qXB
-このことは二人には伏せておこう
-キリト
+Let's keep this a secret from
+Alice and Eugeo for now.
+Kirito
 407001201_23_a
 qXB
-とんでもなく知能の優れた敵Mob……
-なんだかある意味プレイヤーよりも
-苦戦しそうな気がするね……
-アスナ
+So we have to fight a ridiculously
+smart NPC? This sounds like it'll
+be worse than PvP...
+Asuna
 407001201_22_a
 qXB
-だろうな……
-キリト
+Yeah...
+Kirito
 407001201_21_a
 qXB
-一定の行動パターンしか取らない
-敵Mobとは異なり、様々な搦め手を
-使ってくることもあるでしょう
+And unlike most monsters, we won't
+be able to predict how or when
+he'll move to oppose us.
+Yui
 407001201_20_a
 qXB
-恐らく彼はこれからも神器クエストの
-敵Mobとしてパパたちの邪魔を
-してくると思います
+I can almost guarantee that he'll
+be back to cause trouble as you
+work on the Divine Object quest.
+Yui
 407001201_19_a
 qXB
-わたしもそう思います
+I agree with your assessment of
+the situation, Daddy.
+Yui
 407001201_18_a
 qXB
-こっちに二人がいるなら
-それくらいしないと難易度の
-バランスが悪いって判断したのかもな
-キリト
+Balance. It needed someone as
+tough as both of them put together
+to even the playing field.
+Kirito
 407001201_17_a
 qXB
-二人を模倣して……?
-アスナ
+Why did it use data from both
+Alice AND Eugeo?
+Asuna
 407001201_16_a
 qXB
-このクエストのボスとして
-立ち塞がらせるためにな……
-キリト
+In other words, it made a big,
+smart, scary boss for us.
+Kirito
 407001201_15_a
 qXB
-だからカーディナルは
-これまで集めた二人のデータを模倣し
-高いAIを実装した敵キャラを作った
-キリト
+So Cardinal took all the data it'd
+gathered on the two and used that
+to generate an advanced AI NPC.
+Kirito
 407001201_14_a
 qXB
-あの二人がプレイヤー側として
-立ち塞がるなら対抗するキャラクター
-としてそれ相応の者を作る必要がある
-キリト
+...the template? Well, with Alice
+and Eugeo on our side, it needed
+an equally smart and badass enemy.
+Kirito
 407001201_13_a
 qXB
-カーディナルは恐らくユージオと
-アリスのアバターのデータ量の
-膨大さに目を付けた
-キリト
+Then it all clicked. Bad guy boss
+character for the epic Divine
+Object quest. But where to get...
+Kirito
 407001201_12_a
 qXB
-まぁな、カーディナルがどうして……
-そしてどうやって作ったのかも
-なんとなく想像がついてる
-キリト
+It was an educated guess.
+I thought to myself: why, and how,
+did Cardinal create this NPC?
+Kirito
 407001201_11_a
 qXB
-パパ、気づいてましたか……
+So you noticed, Daddy?
+Yui
 407001201_10_a
 qXB
-えっ……!?
-アスナ
+What?! No way!
+Asuna
 407001201_9_a
 qXB
-ああ、わかってる
-ユージオやアリスに近いんだろう?
-キリト
+Yeah, I know.
+Eugeo and Alice, right?
+Kirito
 407001201_8_a
 qXB
-そのパーソナルデータの
-作り込みが……
+And I have bad news: the personal
+data used to generate him is
+based off of
+Yui
 407001201_7_a
 qXB
-オリジナルの敵キャラクターを
-作り出したものと思われますが……
+Likely, Cardinal decided the quest
+needed a specific antagonist for
+you to face.
+Yui
 407001201_6_a
 qXB
-恐らくはパパたちの神器クエストが
-継続している中でカーディナルが
+If I were to hazard a guess, I'd
+say that he was created as part
+of the Divine Object quest.
+Yui
 407001201_5_a
 qXB
-だな……自分がケットシーだと
-名乗る説明口調のところとか、
-明らかにNPCだったもんな……
-キリト
+Yeah, his "I am a Cait Sith"
+statement of the obvious
+was totally an NPC line.
+Kirito
 407001201_4_a
 qXB
-キリト
+Kirito
 407001201_3_a
 qXB
-アスナ
+Asuna
 407001201_2_a
 qXB
 bg_event_tree_snow_christmas
-あの黒マントのケットシーの正体
-ですが……敵NPCであることに
-間違いはありません
+That black-cloaked Cait Sith is
+most definitely an enemy NPC.
+Yui
 407001201_1_a
-ううん、いいよ
-そろそろコンサートも終わりだと
-思うし、外に出ましょう
-アスナ
+No, it's okay. They're almost
+done, anyway. Let's have this
+talk.
+Asuna
 407001101_37_a
-それとも最後まで聴いていくか?
-キリト
+Or would you rather stay here
+until they're finished?
+Kirito
 407001101_36_a
-ああ……
-ユイを交えて話がしたい……
-一旦外に出よう……アスナ
-キリト
+Yeah... I want to talk to Yui
+about him somewhere quiet...
+Let's head outside, Asuna.
+Kirito
 407001101_35_a
-あの黒マントのケットシーのこと?
-アスナ
+That mysterious cloaked Cait Sith
+is still on your mind, huh?
+Asuna
 407001101_34_a
-まぁな……
-キリト
+Well...
+Kirito
 407001101_33_a
-そうは言いつつもキリトくん……
-なんだか浮かない顔をしてる……
-アスナ
+You say that, but you don't look
+too happy.
+Asuna
 407001101_32_a
-はは……そうだな
-無事に最後の護衛も終わらせられて
-本当に良かったぜ……
-キリト
+Ha ha, yeah, they're really into
+it. I'm glad we were able to get
+them here safely.
+Kirito
 407001101_31_a
-キリト
+Kirito
 407001101_30_a
-ふふっ、みんな
-セブンちゃんたちの歌声に
-心から酔いしれてるって感じだね
-アスナ
+Hehe, it looks like Seven and her
+carolers have touched our friends'
+hearts.
+Asuna
 407001101_29_a
-そうだね……
-なんだか心が温かくなるよ……
-ユージオ
+And neither will I... They really
+do make you feel all warm and
+happy inside...
+Eugeo
 407001101_28_a
-この歌声だけは 心に留めておきたいと
-思わざるをえません……
-アリス
+But I shall never forget the
+heavenly notes of these carols...
+Alice
 407001101_27_a
-クリスマス……
-あの浮ついた装飾や雰囲気は
-正直好みませんが……
-アリス
+I have to say, I think I despise
+the gaudy decorations of this
+Christmas of yours...
+Alice
 407001101_26_a
-ユージオ
+Eugeo
 407001101_25_a
-アリス
+Alice
 407001101_24_a
-うむ……
-心洗われるような歌声……
-アリアンロッド
+Ahhh... What an angelic sound...
+Arianrhod
 407001101_23_a
-ラララー……
-聖歌隊
+Siiiiiilent Niiiiight...
+Carolers
 407001101_22_a
 bg_12_church_room
-ラララー……
-セブン
+Siiiiiilent Niiiiight...
+Seven
 407001101_21_a
-ユージオ
+Eugeo
 407001101_20_a
-アリス
+Alice
 407001101_19_a
-では街までの旅を再開しよう
-アリアンロッド
+Excellent. Now, let us resume our
+journey.
+Arianrhod
 407001101_18_a
-あ、ああ……そうだな
-キリト
+Y-Yeah, I guess...
+Kirito
 407001101_17_a
-キリト
+Kirito
 407001101_16_a
-アスナ
+Asuna
 407001101_15_a
-そうそう!
-襲ってきたらまた倒せばいいんだしね
-セブン
+Yeah! Besides, if he comes back,
+we'll just beat the stuffing out
+of him again!
+Seven
 407001101_14_a
-アリス
+Alice
 407001101_13_a
-アリアンロッド
+Arianrhod
 407001101_12_a
-そうなんだ……
-でも二人が無事で良かったよ
-ユージオ
+I see... Well, I'm just glad you
+two are okay.
+Eugeo
 407001101_11_a
-キリト
+Kirito
 407001101_9_a
-黒マントの男を見つけたんだけど
-そこでまたモンスターたちを
-呼び寄せられて……逃げられたの
-アスナ
+We found a guy in a black cloak,
+but he summoned a bunch more
+monsters and ran away.
+Asuna
 407001101_8_a
-セブン
+Seven
 407001101_10_a
-そちらの守備は?
-アリス
+And you? Did you catch our
+mysterious foe?
+Alice
 407001101_7_a
-ユージオ
+Eugeo
 407001101_6_a
-アリス
+Alice
 407001101_5_a
-ああ、この辺にいる
-モンスターたちは全て撃退した
-アリアンロッド
+Of course. We slew every last
+monster lurking in this area.
+Arianrhod
 407001101_4_a
-アスナ
+Asuna
 407001101_3_a
-みんな無事だったか?
-キリト
+Is everyone okay?
+Kirito
 407001101_2_a
 bg_18_mountain_snow
-あっ、二人が帰ってきたよ!
-おーい、キリト君、アスナちゃん!
-セブン
+Hey, they're back!
+Yoohoo! Kirito! Asuna!
+Seven
 407001101_1_a
-わ、わかったよ!!
-アスナ
+Y-Yeah, but... Oh, fine!
+Asuna
 407001001_38_a
-アスナ!
-深追いは禁物だ!
-まずはこいつらを倒そう!
-キリト
+Asuna, let him go! We need to
+deal with these guys right now!
+Kirito
 407001001_37_a
+Yui
 407001001_36_a
-キリト
+Kirito
 407001001_35_a
-あっ、逃げられちゃう!!
-アスナ
+Hey, he's running away!
+Asuna
 407001001_34_a
-いずれまた会いまみえることも
-あるだろう……
+We will meet again, you meddling
+miscreants!
 ???
 407001001_33_a
-アスナ
+Asuna
 407001001_32_a
+Yui
 407001001_31_a
-くそ、またモンスターかよ!
-キリト
+Oh, come on, how many monsters
+can this guy summon?!
+Kirito
 407001001_30_a
-グガアアアッ!!
-モンスター
+Grawwwrrr!!
+Monster
 407001001_29_a
-召喚完了……!
-いでよ、魔物たち!!
+Summoning complete! Arise,
+my monstrous friends! Arise!
 ???
 407001001_28_a
-キリト
+Kirito
 407001001_27_a
-アスナ
+Asuna
 407001001_26_a
-恐らく……
-このパーソナルデータは……
+If my theory is right, his
+personal data is based off of
+Yui
 407001001_25_a
-そんなことができる奴がいるのか?
-キリト
+Seriously? There are NPCs that
+can do that? I mean, besides you?
+And, uh, Alice and Eugeo?
+Kirito
 407001001_24_a
-はい、非常に高い知能を持ち、
-しかも街に入る権限なども
-持ち合わせているようです……
+That's correct. He has high-level
+cognitive abilities and system
+privileges to enter town.
+Yui
 407001001_23_a
-なっ……?
-じゃあ高いAIを持ってるNPC
-ってことか?
-キリト
+He's not?! Then...what is he?
+An NPC with an advanced AI?
+Kirito
 407001001_22_a
-近くに来て解析してみたのですが……
-彼は……プレイヤーではありません
+Now that we're this close, I've
+finally been able to analyze him!
+He's...not a player!
+Yui
 407001001_21_a
-ユイ!
-キリト
+Yui!
+Kirito
 407001001_20_a
-パパ、ママ!
+Daddy! Mommy!
+Yui
 407001001_19_a
-キリト
+Kirito
 407001001_18_a
-街で?
-街に入れるってことは……
-やっぱりプレイヤー……?
-アスナ
+He eavesdropped on the KoB in
+town? If he can enter a safe zone,
+he's a player, right...?
+Asuna
 407001001_17_a
-こうしてモンスターたちを
-多く呼び寄せたが……
-足りなかったようだな……
+And thus, I called upon a horde of
+my monstrous allies! And yet, it
+was not enough to stop you...
 ???
 407001001_16_a
-街で白い鎧の奴らの話を盗み聞き、
-戦力の増強が必要と判断したからこそ
+I overheard those white-clad
+warriors say they would come
+to your aid while I was in town...
 ???
 407001001_15_a
-アスナ
+Asuna
 407001001_14_a
-……!?
-キリト
+Yeah...? Not exactly the question,
+but thanks?
+Kirito
 407001001_13_a
-俺は確かにケットシーだ
+You are right!
+I am...a Cait Sith!!
 ???
 407001001_12_a
-キリト
+Kirito
 407001001_11_a
-あの格好じゃ
-ちょっとわからないね……
-アスナ
+Yeah, that outfit makes it really
+hard to say for sure...
+Asuna
 407001001_10_a
-やっぱりプレイヤー……なのか?
-キリト
+I knew it was a player!
+Wait a sec, is it a player?
+I...can't tell.
+Kirito
 407001001_9_a
-キリト
+Kirito
 407001001_8_a
-あの人が……モンスターたちを
-テイミングしているケットシー?
-アスナ
+This Cait Sith tamed all these
+monsters? Seriously?
+Asuna
 407001001_7_a
-来たか……
+You've finally come...
 ???
 407001001_6_a
-アスナ
+Asuna
 407001001_5_a
-あいつか!
-キリト
+So that's the guy behind all this!
+Kirito
 407001001_4_a
-キリト
+Kirito
 407001001_3_a
-あそこよ!
-アスナ
+It's got to be him!
+Asuna
 407001001_2_a
 bg_18_mountain_snow
-………………
+...
 ???
 407001001_1_a
 EWB
 EWB
-うん!
-アスナ
+You got it!
+Asuna
 407000901_65_a
 EWB
-セブン
+Seven
 407000901_64_a
 EWB
-アスナ
+Asuna
 407000901_63_a
 EWB
-よし……じゃあ任せた!
-アスナ行くぞ!
-キリト
+Of course! Come on, Asuna!
+Let's go!
+Kirito
 407000901_62_a
 EWB
-僕とアリスも残るよ
-キリトとアスナに任せていいかい?
-ユージオ
+Alice and I will stay here to
+help. Can you two do this alone?
+Eugeo
 407000901_61_a
 EWB
-ユージオ
+Eugeo
 407000901_60_a
 EWB
-アリス
+Alice
 407000901_59_a
 EWB
-以前君たちには迷惑をかけた分、
-ここで挽回させてくれ
-アリアンロッド
+Easily. Besides, this is my chance
+to make up for all the trouble
+I caused you!
+Arianrhod
 407000901_58_a
 EWB
-セブン
+Seven
 407000901_57_a
 EWB
-キリト
+Kirito
 407000901_56_a
 EWB
-アリアンロッドさん……
-お願いしてもいいですか?
-アスナ
+Thanks, Arianrhod! But are you
+sure you can handle it?!
+Asuna
 407000901_55_a
 EWB
-ここは任せて、君たちは行くべきだ!
-聖歌隊は我々が必ず守り切る!
-アリアンロッド
+Leave these things to us!
+We'll protect the carolers!
+Now go! End this!
+Arianrhod
 407000901_54_a
 EWB
-ガアッ!?
-モンスター
+Grawk?!
+Monster
 407000901_53_a
 EWB
-ユージオ
+Eugeo
 407000901_52_a
 EWB
-アリス
+Alice
 407000901_51_a
 EWB
-ぬあああっ!!
-アリアンロッド
+HrrraaaaaGGGH!!
+Arianrhod
 407000901_50_a
 EWB
-ちっ……通さないつもりかよ!
-キリト
+Damn... They aren't going to make
+this easy on us!
+Kirito
 407000901_49_a
 EWB
-グオオッ!!
-モンスター
+Grawwwgh!!
+Monster
 407000901_48_a
 EWB
-セブン
+Seven
 407000901_47_a
 EWB
-アスナ
+Asuna
 407000901_46_a
 EWB
-あっちか!
-キリト
+Aha, that way!
+Kirito
 407000901_45_a
 EWB
-恐らくそれが黒幕ではないかと!
-アリス
+I assume it's the enemy
+ringleader.
+Alice
 407000901_44_a
 EWB
-アリアンロッド
+Arianrhod
 407000901_43_a
 EWB
-ユージオ
+Eugeo
 407000901_42_a
 EWB
-キリト、アスナ
-左方敵陣の奥に……視認できませんが
-禍々しい気配を感じます
-アリス
+I sense a powerful aura from
+the western enemy ranks.
+Alice
 407000901_41_a
 EWB
-くっ、でも一体誰が……?
-キリト
+But...who?
+Kirito
 407000901_40_a
 EWB
-ああ、この神器モンスターの襲撃は
-明らかに計画されたものだ……
-つまり黒幕がいる……
-キリト
+No way. These attacks are
+definitely planned. Someone's
+orchestrating this, for certain.
+Kirito
 407000901_39_a
 EWB
-今回は……
-そんな単純な話じゃないって
-ことよね?
-セブン
+Buuut you don't think it's that
+simple this time, do you?
+Seven
 407000901_38_a
 EWB
-こっちのプレイヤーの数に合わせて
-システムが敵の数を調整するなんて
-ことはよくあるけど、
-セブン
+In most cases, the system ups the
+enemy count automatically to
+match party size...
+Seven
 407000901_37_a
 EWB
-キリト
+Kirito
 407000901_36_a
 EWB
-セブン
+Seven
 407000901_35_a
 EWB
-本当ね……
-でも……どうして……?
-アスナ
+You're right... But...why?
+Also, how?
+Asuna
 407000901_34_a
 EWB
-アリアンロッド
+Arianrhod
 407000901_33_a
 EWB
-アリス
+Alice
 407000901_32_a
 EWB
-というよりもこちらの陣営に
-合わせて勢力を増やしておいた……
-といったほうが良さそうだね
-ユージオ
+It might be more accurate to say
+they've increased their numbers
+to match ours...
+Eugeo
 407000901_31_a
 EWB
-セブン
+Seven
 407000901_30_a
 EWB
-アスナ
+Asuna
 407000901_29_a
 EWB
-……!
-いつもよりも数が多い?
-キリト
+Hmm...? Wait a sec, there's way
+more than usual!
+Kirito
 407000901_28_a
 EWB
-アリアンロッド
+Arianrhod
 407000901_27_a
 EWB
-ユージオ
+Eugeo
 407000901_26_a
 EWB
-見て下さい
-敵の布陣を……
-アリス
+Take a close look at this
+monstrous host, Kirito.
+Alice
 407000901_25_a
 EWB
-セブン
+Seven
 407000901_24_a
 EWB
-アスナ
+Asuna
 407000901_23_a
 EWB
-どうかしたのか!?
-キリト
+What's going on, you two?!
+Kirito
 407000901_22_a
 EWB
-はい、いつもと少し様子が違います
-アリス
+Yes, I've noticed too.
+Something's different.
+Alice
 407000901_21_a
 EWB
-アリス……
-ユージオ
+Alice...
+Eugeo
 407000901_20_a
 EWB
-………………
-アリス
+...
+Alice
 407000901_19_a
 EWB
-グギャアアッ!!
-モンスター
+Grraaawrrr!!
+Monster
 407000901_18_a
 EWB
-りゃああっ!!
-ユージオ
+Rrrraaagh!!
+Eugeo
 407000901_17_a
 EWB
-アリアンロッド
+Arianrhod
 407000901_16_a
 EWB
-ユージオ
+Eugeo
 407000901_15_a
 EWB
-せいっ!!
-アリス
+Hyaaah!
+Alice
 407000901_14_a
 EWB
-ああ、心強いな!
-キリト
+I'm just glad they're on our side!
+Kirito
 407000901_13_a
 EWB
-セブン
+Seven
 407000901_12_a
 EWB
-キリト
+Kirito
 407000901_11_a
 EWB
-ふふっ、活動休止してるのに
-相変わらず息がピッタリって感じ!
-アスナ
+Hehe, disbanded or not, they
+fight like a true guild!
+Asuna
 407000901_10_a
 EWB
-おおっ!
-新生KoBメンバー達
+Yes, Commander!
+KoB Guild Member
 407000901_9_a
 EWB
-ユージオ
+Eugeo
 407000901_8_a
 EWB
-アリス
+Alice
 407000901_7_a
 EWB
-皆、作戦どおり持ち場についてくれ!
-聖歌隊を囲い、奴らを一歩たりとも
-中に入れるな!
-アリアンロッド
+Men, to your positions! Do not let
+these monsters near our charges!
+Arianrhod
 407000901_6_a
 EWB
-早速出やがったな!
-キリト
+Annnd that was quick.
+Kirito
 407000901_5_a
 EWB
-セブン
+Seven
 407000901_4_a
 EWB
-アスナ
+Asuna
 407000901_3_a
 EWB
-キリト
+Kirito
 407000901_2_a
 EWB
 bg_18_mountain_snow
-グオオアッ!!
-モンスター
+Grawwrgh!!
+Monster
 407000901_1_a
-はい、これが最後の旅……
-何事もなく収まれば良いですね
-アリス
+Apparently so. Today is our final
+journey with these holy bards.
+Let us pray all goes well.
+Alice
 407000801_51_a
-アリス
+Alice
 407000801_50_a
-ふふっ、今回は盤石という感じだね
-ユージオ
+Hehe, we have some strong allies
+at our side today, huh, Alice?
+Eugeo
 407000801_49_a
-キリト
+Kirito
 407000801_48_a
-アスナ
+Asuna
 407000801_47_a
-じゃあそれで手を打ちましょう!
-交渉成立ね!
-セブン
+Great! The deal is sealed,
+no takebacks allowed!
+Seven
 407000801_46_a
-もちろんです!
+You bet we are, boss!
 新生KoBメンバー
 407000801_45_a
-皆もそれならいいかな?
-アリアンロッド
+You're all fine with that, right?
+Arianrhod
 407000801_44_a
-そうだな……なら私たちも
-ぜひそのコンサートを拝見させてくれ
-アリアンロッド
+Hmm... How about this?
+We're even, as long as you
+let us listen to your concert.
+Arianrhod
 407000801_43_a
-キリト
+Kirito
 407000801_42_a
-アスナ
+Asuna
 407000801_41_a
-でもそれだとなんか悪いし……
-セブン
+You sure? I'd feel pretty bad
+making you work for free...
+Seven
 407000801_40_a
-クリスマスの神聖なコンサートを
-邪魔する奴らを野放しになど
-できない……それだけなのだから
-アリアンロッド
+Besides, it's Christmas! We can't
+let some foul knaves interfere
+with a group of innocent carolers!
+Arianrhod
 407000801_39_a
-いや、報酬は辞退させてくれ
-以前キリトたちに迷惑をかけた
-借りを返すという意味もあるし……
-アリアンロッド
+Please, no payment is necessary.
+We all owe Kirito and Asuna some
+payback for all their help...
+Arianrhod
 407000801_38_a
-キリト
+Kirito
 407000801_37_a
-もちろん!
-でも雇い手が増えると今日の報酬の
-取り分も減っちゃうけど大丈夫?
-セブン
+I've got no reason to say no!
+The pay's not changing though, so
+your cut's going down. That cool?
+Seven
 407000801_36_a
-みんな信頼できる人たちだよ
-セブンちゃん、彼女たちも同行して
-もらっていいかな?
-アスナ
+And they're all good people,
+and super reliable! Do you
+mind if they join us today?
+Asuna
 407000801_35_a
-セブン
+Seven
 407000801_34_a
-アスナ
+Asuna
 407000801_33_a
-アリアンロッドとその仲間たちだ
-タンクをやらせるなら
-ピカイチの実力者たちなんだ
-キリト
+Seven, Arianrhod and her friends
+here are all first-class tanks.
+Kirito
 407000801_32_a
-だからもう団長ではないと
-言っているだろう……仕方ないな
-アリアンロッド
+I thought I told you, I'm not
+your commander anymore!
+Oh, never mind...
+Arianrhod
 407000801_31_a
-はい!!
-KoBの力、見せてやりましょう!
-団長!
+Our swords are always yours to
+command, Commander! Let's show
+'em what the new KoB is made of!
 新生KoBメンバー
 407000801_30_a
-一時的な再結集を促したところ
-こうして皆、
-集まってくれたというわけだ
-アリアンロッド
+Still, we've teamed up again for
+this escort quest of yours.
+Arianrhod
 407000801_29_a
-はは、もう新生KoBは解散したのだぞ
-だがまぁ……今回のクエストで
-アリアンロッド
+Hah, sort of. We've disbanded the
+KoB, if you recall.
+Arianrhod
 407000801_28_a
-セブン
+Seven
 407000801_27_a
-キリト
+Kirito
 407000801_26_a
-アリアンロッドさん
-それに新生KoBのみんなも!
-アスナ
+Hey Arianrhod! Oh wow, you brought
+all of the new KoB members too!
+Asuna
 407000801_25_a
-やあ、待たせてしまったかな
-アリアンロッド
+Hey, sorry to keep you waiting.
+Arianrhod
 407000801_24_a
-キリト
+Kirito
 407000801_23_a
-アスナ
+Asuna
 407000801_22_a
-そーなの?
-誰かしら……?
-セブン
+Well, that sounds reassuring.
+Who is this mysterious knight
+in shining armor?
+Seven
 407000801_21_a
-アスナ
+Asuna
 407000801_20_a
-セブン
+Seven
 407000801_19_a
-ああ、それに実は今回……
-護衛役にうってつけな仲間たちを
-呼んでるんだ
-キリト
+Right, and we've even called in
+the ultimate bodyguard for backup
+today, just in case.
+Kirito
 407000801_18_a
-アリス
+Alice
 407000801_17_a
-大丈夫だよ
-これまでと同じように
-敵の猛攻を防ぎ切れるはずだよ
-ユージオ
+We'll be fine! We've held them off
+no problem until now. Today will
+be a cakewalk.
+Eugeo
 407000801_16_a
-セブン
+Seven
 407000801_15_a
-キリト
+Kirito
 407000801_14_a
-ふふっ、そうだね
-アスナ
+Hehe, that's a good point.
+Will do!
+Asuna
 407000801_13_a
-ユージオ
+Eugeo
 407000801_12_a
-アスナ、安堵するのは早いです
-最後の護衛任務が無事に終了した後で
-慰労し合いましょう
-アリス
+Asuna, it's still too early to
+breathe easy. Save it until
+after today's escort duty.
+Alice
 407000801_11_a
-聖歌隊の歌声の効果がわかってから
-弱体化できるようになって、被害も
-最小限に抑えられて良かったよね
-アスナ
+but with your carolers debuffing
+them, they're not that big of a
+deal.
+Asuna
 407000801_10_a
-ううん、そんなことないよ
-確かにあのモンスターたちは
-強敵だったけど……
-アスナ
+Well, we were happy to help.
+Besides, those monsters were
+tough,
+Asuna
 407000801_9_a
-キリト君たちには
-色々と助けてもらっちゃったわ
-ホントにありがとね
-セブン
+But seriously, thanks for
+everything. You really saved
+our bacon.
+Seven
 407000801_8_a
-ええ、今日でツアーも最終日
-護衛依頼も最後になるわ
-セブン
+Yup! Today's the last time we're
+doing this, so we won't need your
+escort services again.
+Seven
 407000801_7_a
-今日の護衛もいつもどおり、
-圏外エリアの引率だよな
-キリト
+So, you need us to escort your
+carolers around again today,
+right?
+Kirito
 407000801_6_a
-はい!!
-聖歌隊
+You got it!!
+Carolers
 407000801_5_a
-みんな、練習の成果を
-目いっぱい発揮しましょうね!
-セブン
+Alright, people, time to show the
+world how hard you practiced!
+Seven
 407000801_4_a
-アスナ
+Asuna
 407000801_3_a
-キリト
+Kirito
 407000801_2_a
 bg_event_christmas_town
-さあ、今日は
-ラストコンサートよ!
-セブン
+Today's the day!
+Time for the final concert!
+Seven
 407000801_1_a
 }VB
 }VB
-はは、それは良かったぜ
-キリト
+Ha ha ha, well, I'm happy
+everything's worked out.
+Kirito
 407000701_54_a
 }VB
-歌声の効果がわかったおかげか、
-これなら対策も打てるって
-なんだか持ち直してきたみたいよ
-セブン
+And now that we know that carols
+can lay the pain on those beasts,
+they shouldn't be much trouble.
+Seven
 407000701_53_a
 }VB
-最近襲われっぱなしで、みんなも
-ちょっとテンション下がり気味
-だったんだけど
-セブン
+We've been getting beat up
+non-stop lately, so it felt good
+to hit back for a change.
+Seven
 407000701_52_a
 }VB
-ええ、みんななんかホッとしてるわ
-自分たちの歌声が敵に効いたのも
-功を奏してるみたいね
-セブン
+Everyone's breathing easy and
+feeling good. They're happy their
+songs came in handy.
+Seven
 407000701_51_a
 }VB
-セブンちゃん
-聖歌隊の人たちはどう?
-アスナ
+Seven, how are your carolers
+holding up?
+Asuna
 407000701_50_a
 }VB
-アスナ
+Asuna
 407000701_49_a
 }VB
-そんなことないわ
-みんなががんばって戦ってくれた
-おかげよ
-セブン
+Nah, it was all thanks to you.
+You guys kicked butt out there.
+Seven
 407000701_48_a
 }VB
-キリト
+Kirito
 407000701_47_a
 }VB
-ふふっ、確かに
-アスナ
+Hehe, that's right.
+Asuna
 407000701_46_a
 }VB
-やり切れたのは
-やっぱり聖歌隊の歌声のおかげだね
-ユージオ
+Yeah, but only because those
+carolers were backing us up.
+Eugeo
 407000701_45_a
 }VB
-ユージオ
+Eugeo
 407000701_44_a
 }VB
-これくらいはどうということは
-ありません
-アリス
+Hmph. It was a trivial task.
+Alice
 407000701_43_a
 }VB
-うん、でも何度もモンスターが
-襲ってきて大変だったね……
-アスナ
+Safe, sound, and exhausted...
+We got attacked a million times
+out there...
+Asuna
 407000701_42_a
 }VB
-アスナ
+Asuna
 407000701_41_a
 }VB
 bg_event_christmas_town
-ふう、なんとか街まで
-無事に来られたな
-キリト
+Phew... We managed to reach town
+safe and sound.
+Kirito
 407000701_40_a
 }VB
-アリス
+Alice
 407000701_39_a
 }VB
-う、うん!
-ユージオ
+Y-Yeah!
+Eugeo
 407000701_38_a
 }VB
-この隙に叩くぞ!
-キリト
+Hit 'em now, while they're
+defenseless!
+Kirito
 407000701_37_a
 }VB
-アスナ
+Asuna
 407000701_36_a
 }VB
-よし!
-やっぱり効果はあったみたいだな!
-キリト
+Awesome, we were right!
+Kirito
 407000701_35_a
 }VB
-アリス
+Alice
 407000701_34_a
 }VB
-あっ、悶え苦しみだしたよ!
-ユージオ
+Hey, it's hurting them!
+Eugeo
 407000701_33_a
 }VB
-グ、グガアアアッ……!
-モンスター
+G-GrARkkK!! GrrrAAGkk!!
+Monster
 407000701_32_a
 }VB
-キリト
+Kirito
 407000701_31_a
 }VB
-聖歌隊が歌ってくれてるの!
-みんなの仮定したことが事実なら
-モンスターたちはこれを聞けば……
-アスナ
+There we go! The carolers have
+entered the fray! If we're right,
+the monsters will...
+Asuna
 407000701_30_a
 }VB
-こ、この歌声は……!?
-アリス
+Are they...singing?
+Alice
 407000701_29_a
 }VB
-ラララー……
+Siiiiiilent Niiiiight...
 ???
 407000701_28_a
 }VB
-ユージオ
+Eugeo
 407000701_27_a
 }VB
-なんの準備を……
-アリス
+Prep what?!
+Alice
 407000701_26_a
 }VB
-アスナ
+Asuna
 407000701_25_a
 }VB
-悪い!
-ちょっと準備をな……!
-キリト
+Sorry! We had to prep everything!
+Kirito
 407000701_24_a
 }VB
-ユージオ
+Eugeo
 407000701_23_a
 }VB
-ユージオ、キリト!
-遅いです!
-なにをしていたのですか!?
-アリス
+Eugeo, Kirito! Where were you?!
+Things are getting heated over
+here!
+Alice
 407000701_22_a
 }VB
-アスナ
+Asuna
 407000701_21_a
 }VB
-キリト
+Kirito
 407000701_20_a
 }VB
-よーし、じゃあやってみましょう!
-セブン
+Alllright, then let's do this!
+Seven
 407000701_19_a
 }VB
-ああ、もちろんだ!
-キリト
+Totally!
+Kirito
 407000701_18_a
 }VB
-いざというときは
-みんなが守ってくれるでしょ?
-セブン
+They need to work off some steam!
+Besides, you guys will be there in
+a pinch, right?
+Seven
 407000701_17_a
 }VB
-平気よ!
-守られてるだけじゃみんなも
-ストレスたまるだけだろうし、
-セブン
+Pfft, they'll be fine! Besides,
+everyone's pretty stressed
+out over all this.
+Seven
 407000701_16_a
 }VB
-でも聖歌隊の人たちを
-前線に出すことになるよ?
-大丈夫かな……?
-アスナ
+But then we'll have to put those
+carolers on the front lines...
+Can they handle it?
+Asuna
 407000701_15_a
 }VB
-おおっ……そうか!
-それはアリだな!
-キリト
+Oh, that's a great idea!
+It just might work!
+Kirito
 407000701_14_a
 }VB
-実際にやってみたことないけど、
-せっかくだから実験してみない?
-セブン
+So... Want to conduct a little
+hands-on experiment?
+Seven
 407000701_13_a
 }VB
-さっきの予想で聖歌隊の歌声が
-あいつらにとって弱点なんじゃないか
-って話をしてたでしょ?
-セブン
+You think our carols might hurt
+these monsters, right?
+Seven
 407000701_12_a
 }VB
-セブン!?
-キリト
+Seven?!
+Kirito
 407000701_11_a
 }VB
-待って、みんな!
-セブン
+Hold it!
+Seven
 407000701_10_a
 }VB
-うん!
-アスナ
+You got it!
+Asuna
 407000701_9_a
 }VB
-セブン
+Seven
 407000701_8_a
 }VB
-アスナ
+Asuna
 407000701_7_a
 }VB
-くっ……懲りない奴らだ!
-よし、アスナ行くぞ!
-キリト
+Gah! These things just don't
+learn! Come on, Asuna!
+It's fighting time!
+Kirito
 407000701_6_a
 }VB
-後方に敵勢発見!
-さっきの魔物たちと同種の奴らが
-群れを成してまた襲ってきたよ!
-ユージオ
+Enemies, from behind us! Those
+monsters from earlier formed a
+herd and are coming this way!
+Eugeo
 407000701_5_a
 }VB
-セブン
+Seven
 407000701_4_a
 }VB
-アスナ
+Asuna
 407000701_3_a
 }VB
-ユージオ、どうした!?
-キリト
+Eugeo? What's the problem?!
+Kirito
 407000701_2_a
 }VB
 bg_event_alne_field_christmas
-キリト!
-アスナ!
-ユージオ
+Kirito! Asuna!
+Eugeo
 407000701_1_a
-でも、そんな……!
-プレイヤーがどうして……!?
-アスナ
+But why would a player even do
+that?
+Asuna
 407000601_28_a
-確かに……!
-高いAIを持つNPCでもそこまで
-柔軟な思考はできないはずだもんね
-セブン
+Ahhh, that makes sense! Even an
+NPC with a high-level AI probably
+couldn't issue an order like that.
+Seven
 407000601_27_a
-恐らく敵NPCではなく、
-ケットシーのプレイヤーだ……!
-キリト
+It's probably not an NPC...
+But a player!!
+Kirito
 407000601_26_a
-それは正確じゃない……
-モンスターたちを使役しているで
-あろうケットシーは……
-キリト
+No, that's not entirely right.
+If there's a Cait Sith ordering
+these monsters to attack us...
+Kirito
 407000601_25_a
-アリスさんたちが言っていた
-ケットシーが犯人ってこと?
-アスナ
+Alice and Eugeo's Cait Sith NPC?
+Asuna
 407000601_24_a
-そうだ……そしてそう考えると
-さっきも話し合ってたことだが、
-一つの結論に行き着く
-キリト
+Exactly. And if we follow this
+thread to its logical conclusion,
+there's only one possibility.
+Kirito
 407000601_23_a
-あたしたちを襲わせてる……
-というお膳立てがあれば
-いいわけよね
-セブン
+That's the only explanation for
+why the system would change
+their behavior to attack us.
+Seven
 407000601_22_a
-言いたいことはわかるわ
-たとえばモンスターを使役している
-誰かの指示によって
-セブン
+I see what you're getting at.
+The monsters are following
+someONE's orders, right?
+Seven
 407000601_21_a
-繋ぎとなる設定がなにか
-抜け落ちてる気がしないか?
-キリト
+then something had to have the
+power to alter their default
+behavior patterns.
+Kirito
 407000601_20_a
 「邪魔な歌声で歌う妖精を
 排除しよう」という設定……で
 襲ってきているのだとしたら、
-キリト
+Kirito
 407000601_19_a
-それはもちろん理解できる
-ただそもそもモンスターたちが
-キリト
+Well, I can see how that might
+work, but it still doesn't add up.
+Kirito
 407000601_18_a
-聖歌隊の歌声が原因だと思うよ
-聖なる歌が気に入らないとか……
-敵にとっての弱点とか……
-アスナ
+It's got to have something to do
+with the singing. Maybe holy hymns
+hurt them?
+Asuna
 407000601_17_a
-それらを狙って神器クエストの
-専用モンスターが動き出すことに
-無理がある気がするんだ
-キリト
+In other words, there's no logical
+link between these quest monsters
+and you. It does not compute.
+Kirito
 407000601_16_a
-ああ、そうだ
-だが聖歌隊というのはあくまで
-プレイヤーが主導で作った組織……
-キリト
+Yup. And your carolers are a
+bunch of players who got
+together for some fun.
+Kirito
 407000601_15_a
-ALOにとっての異物データを起点に
-作られた、カーディナルによる
-自動生成クエストなのよね……
-セブン
+If I remember right, it's an auto-
+generated quest made by Cardinal
+to process this foreign data.
+Seven
 407000601_14_a
-それって例の
-アリスたちがこの世界に来たことで
-始まった特別クエストのことよね?
-セブン
+You're talking about this special
+quest that started when Alice and
+Eugeo came to our world, right?
+Seven
 407000601_13_a
-うん……
-アスナ
+I know what you mean...
+Asuna
 407000601_12_a
-でもだからといって
-まだ納得できないことが多いのは
-わかるよな……?
-キリト
+But that still doesn't add up.
+There's just too much that
+doesn't make sense here...
+Kirito
 407000601_11_a
-恐らく聖歌隊を襲うモンスターは
-いわゆる神器クエストの
-敵Mobなのは確定だと思う……
-キリト
+Here's the thing. I think we can
+all agree these monsters are
+Divine Object quest mobs...
+Kirito
 407000601_10_a
-さっき二人がいたから
-言いそびれたんだが……
-キリト
+I didn't want to say this in front
+of them before, but...
+Kirito
 407000601_9_a
-そうか……
-キリト
+Oh yeah...
+Kirito
 407000601_8_a
-隊列の前方と後方に分かれて
-警護してもらってるのよね
-セブン
+That's why we're up here, guarding
+the front. Standard escort
+positioning.
+Seven
 407000601_7_a
-今、聖歌隊の後方に
-就いてもらってるよ
-アスナ
+They're in the back, acting as
+rear guard.
+Asuna
 407000601_6_a
-ユージオとアリスは?
-キリト
+Where's Eugeo and Alice?
+Kirito
 407000601_5_a
-どうしたの?
-アスナ
+Kirito? What's up?
+Asuna
 407000601_4_a
-セブン
+Seven
 407000601_3_a
-アスナ
+Asuna
 407000601_2_a
 bg_event_alne_field_christmas
-アスナ……
-それにセブン……
-キリト
+Hey, girls...
+Kirito
 407000601_1_a
-もちろんだよ
-ユージオ
+Of course!
+Eugeo
 407000501_68_a
-ユージオ
+Eugeo
 407000501_67_a
-アリス
+Right.
+Alice
 407000501_66_a
-ね、みんな!
-アスナ
+You're with me, right?!
+Asuna
 407000501_65_a
-そ、そうなんだね……
-うん、わたしたち頑張るよ!
-必ず聖歌隊の人たちを守ってみせる!
-アスナ
+Oh, I see... Well, I'll do my
+best to keep all of you safe!
+I swear it!
+Asuna
 407000501_64_a
-これからはキリト君たちが
-しっかり守ってくれるって言って
-なんとか引き留められたけどね
-セブン
+Yeah. I only convinced her to stay
+because you guys are here to keep
+us safe now.
+Seven
 407000501_63_a
-それも仕方ないか……
-キリト
+If I had elite mobs chasing me
+wherever I went, I'd be upset too.
+Kirito
 407000501_62_a
-テンションが落ちてるってことか……
-まぁあれだけの凶悪な奴らに
-命を狙われる日々が続けば
-キリト
+Hmm... I guess I can't blame them.
+Kirito
 407000501_61_a
-そんな不安がこれ以上続くのは
-もう耐えられないって
-言い出しちゃったの……
-セブン
+Some of the carolers just don't
+want to keep dealing with the
+risk anymore.
+Seven
 407000501_60_a
-キルされるのって
-やっぱり気持ち的に
-イイものじゃないでしょ?
-セブン
+And I get it. It totally ruins
+your day when you get killed...
+It's just not fun.
+Seven
 407000501_59_a
-これまでこんな感じでモンスターに
-襲われて、もう何度かあの子たち
-デスペナになっちゃってて……
-セブン
+We've been attacked so often,
+and that kid's gotten the death
+penalty so many times...
+Seven
 407000501_58_a
-辞めたいって……!
-アスナ
+But...why?!
+Asuna
 407000501_57_a
-うん……ちょっとあの子が
-聖歌隊辞めたいって言い出してね
-それを引き留めてたの……
-セブン
+Yeah, well... She told me she
+wanted to quit. I managed to
+convince her not to, but...
+Seven
 407000501_56_a
-セブンちゃん、お帰り
-どうかしたの?
-アスナ
+Seven? You look upset...
+Is something wrong?
+Asuna
 407000501_55_a
-キリト
+Kirito
 407000501_54_a
-アスナ
+Asuna
 407000501_53_a
-み、みんなお待たせ……
-セブン
+Sorry for the wait, guys...
+Seven
 407000501_52_a
-ユージオ
+Eugeo
 407000501_51_a
-……?
-アリス
+Explain.
+Alice
 407000501_50_a
-いや、なんでもない……
-ちょっと忘れてくれ……
-キリト
+You know what, forget it.
+It's nothing.
+Kirito
 407000501_49_a
-キリト
+Kirito
 407000501_48_a
-………………
-アスナ
+...
+Asuna
 407000501_47_a
-どうしたの、キリト?
-ユージオ
+...Kirito? We're waiting.
+Eugeo
 407000501_46_a
-ユージオ
+Eugeo
 407000501_45_a
-……?
-アリス
+Explain.
+Alice
 407000501_44_a
-アスナ
+Asuna
 407000501_43_a
-いやさ、そうなってくると
-ますますわからないのが……
-キリト
+No, it's just that...then it all
+makes even LESS sense...
+Kirito
 407000501_42_a
-ユージオ
+Eugeo
 407000501_41_a
-なにか不都合な点でも?
-アリス
+Is there a flaw in my logic?
+Alice
 407000501_40_a
-アスナ
+Asuna
 407000501_39_a
-モンスターが聖歌を嫌がるか……
-それは……
-確かにそうかもしれないが……
-キリト
+That's right... So you're saying
+monsters don't like holy songs?
+I guess that makes sense, but...
+Kirito
 407000501_38_a
-聴く者の力を高める特殊な力が
-備わっていると聞きました
-アリス
+...have the strange power to
+enhance their listeners'
+abilities.
+Alice
 407000501_37_a
-ユージオ
+Eugeo
 407000501_36_a
-それは私も考えました
-音楽妖精の歌声や奏でる楽器には
-アリス
+I thought the same. Additionally,
+I've heard that Pooka's
+instruments and voices...
+Alice
 407000501_35_a
-アスナ
+Asuna
 407000501_34_a
-えっ……?
-キリト
+Hmm...
+Kirito
 407000501_33_a
-アリス
+Alice
 407000501_32_a
-あの心洗われるような歌声……
-もしかして魔物たちはあの歌声が
-イヤなんじゃないかな……?
-ユージオ
+Well, I was thinking... Maybe the
+monsters just can't stand the
+divine beauty of their songs?
+Eugeo
 407000501_31_a
-キリト
+Kirito
 407000501_30_a
-そうだけど……
-それがどうかしたの?
-アスナ
+Yeah, pretty much.
+Why do you mention it?
+Asuna
 407000501_29_a
-アリス
+Alice
 407000501_28_a
-聖歌隊……
-彼女たちは神に捧げる歌を
-歌っているんだよね……
-ユージオ
+Hey, guys? I've been thinking...
+Carolers sing holy hymns, right?
+Eugeo
 407000501_27_a
-聖歌隊の人に呼ばれてたね
-なにかあったのかな……?
-アスナ
+I wonder what that caroler wanted
+with Seven...
+Asuna
 407000501_26_a
-アスナ
+Asuna
 407000501_25_a
-あ、ああ……
-キリト
+Have fun.
+Kirito
 407000501_24_a
-アスナ
+Asuna
 407000501_23_a
-キリト
+Kirito
 407000501_22_a
-あっ、ゴメン……
-ちょっと席外すね……
-セブン
+Ah, sure.
+Sorry, guys, be right back.
+Seven
 407000501_21_a
-リーダー……
-ちょっといいかな……?
-聖歌隊メンバー
+Hey, Seven? Can I borrow you for
+a second?
+Caroler
 407000501_20_a
-アリス
+Alice
 407000501_19_a
-でもそうなるとますますわからないね
-なぜ奴らが聖歌隊を襲うのか……
-ユージオ
+But then all this makes even less
+sense! Why are they attacking
+these carolers?
+Eugeo
 407000501_18_a
-うん、残念だけど……
-身に染みてわかったね……
-アスナ
+Yeah... There's no denying that...
+Asuna
 407000501_17_a
-アスナ
+Asuna
 407000501_16_a
-セブン
+Seven
 407000501_15_a
-ああ、あのヤバいくらいの強さ……
-これまでやってきた神器クエストに
-出てくる奴らに違いないな
-キリト
+Yeah, for sure. And they're crazy
+strong, too. There's no doubt
+they're Divine Object monsters.
+Kirito
 407000501_14_a
-今の魔物たちが
-どんな存在であるかを……
-アリス
+You know what sort of beast it is
+we face.
+Alice
 407000501_13_a
-ユージオ
+Eugeo
 407000501_12_a
-キリトたちも戦ってみて
-理解したでしょう
-アリス
+You understand now that you've
+fought them too, right?
+Alice
 407000501_11_a
-はあ、毎度毎度現れて
-ホントにイヤになっちゃうわ
-セブン
+sigh
+... Every. Single. Time!!
+These things really push my
+buttons!
+Seven
 407000501_9_a
-アスナ
+Asuna
 407000501_10_a
-アスナ
+Asuna
 407000501_8_a
-セブン
+Seven
 407000501_7_a
-よし……みんな無事みたいだな
-キリト
+Great, everyone's okay.
+Kirito
 407000501_6_a
-アリス
+Alice
 407000501_5_a
-こっちも終わらせたよ
-ユージオ
+I've finished my opponents
+as well.
+Eugeo
 407000501_4_a
-セブン
+Seven
 407000501_3_a
-キリト
+Kirito
 407000501_2_a
 bg_event_alne_field_christmas
-こっちは片付いたわ!
-アスナ
+I'm done over here!
+Asuna
 407000501_1_a
 QUB
 QUB
-ユージオ
+Eugeo
 407000401_47_a
 QUB
-わかっています!
-アリス
+Of course!
+Alice
 407000401_46_a
 QUB
-アスナ
+Asuna
 407000401_45_a
 QUB
-くっ……考えるのは後回しだ!
-今は倒すことに集中してくれ!
-キリト
+Thinking later, stabbing now!
+Kirito
 407000401_44_a
 QUB
-グオオオアッ!
-モンスター
+Grawwwwrgh!
+Monster
 407000401_43_a
 QUB
-キリト
+Kirito
 407000401_42_a
 QUB
-セブン
+Seven
 407000401_41_a
 QUB
-言われてみれば
-そんな気もするね……
-アスナ
+Now that you mention it, I think
+I get the same vibe...
+Asuna
 407000401_40_a
 QUB
-アリス
+Alice
 407000401_39_a
 QUB
-確かに……
-普通の魔物と対峙したときにはない
-凄まじい圧迫感がある……
-ユージオ
+She's right... They definitely
+are far more fearsome than
+the average monster...
+Eugeo
 407000401_38_a
 QUB
-セブン
+Seven
 407000401_37_a
 QUB
-アスナ
+Asuna
 407000401_36_a
 QUB
-なに!?
-キリト
+They're what?!
+Kirito
 407000401_35_a
 QUB
-この者たちは
-神器を狙う、封印されし魔物です!
-アリス
+These were once sealed demons,
+and they're after the Divine
+Objects!
+Alice
 407000401_34_a
 QUB
-ユージオ
+Eugeo
 407000401_33_a
 QUB
-禍々しい気配…… 
-見るのは初めてですが、
-私にはわかります
-アリス
+I sense a dark presence...
+I've never felt this particular
+evil before, but I can tell...
+Alice
 407000401_32_a
 QUB
-セブン
+Seven
 407000401_31_a
 QUB
-アスナ
+Asuna
 407000401_30_a
 QUB
-アリス、どうしたんだ?
-キリト
+What is it, Alice?
+Kirito
 407000401_29_a
 QUB
-ユージオ
+Eugeo
 407000401_28_a
 QUB
-………………
-アリス
+...
+Alice
 407000401_27_a
 QUB
-キリト
+Kirito
 407000401_26_a
 QUB
-セブン
+Seven
 407000401_25_a
 QUB
-もちろん!
-アスナ
+Yeah!
+Asuna
 407000401_24_a
 QUB
-アリス
+Alice
 407000401_23_a
 QUB
-うん!
-ユージオ
+You got it!
+Eugeo
 407000401_22_a
 QUB
-アスナ
+Asuna
 407000401_21_a
 QUB
-圏外に出た途端これか……!
-よし、聖歌隊のみんなを守るぞ!
-キリト
+The second we left the safe zone,
+too! Alright, people, defend the
+carolers!
+Kirito
 407000401_20_a
 QUB
-わわっ!
-早速出たよキリト君、アスナちゃん!
-セブン
+Wah! And right on cue...
+We've got company, guys!
+Seven
 407000401_19_a
 QUB
-グガアッ!!
-モンスター
+Grawwwrgh!!
+Monster
 407000401_18_a
 QUB
-確かに……ケットシーが犯人候補
-ではあるけど今回それ以前に
-動機が不明だよね……
-アスナ
+Yeah, seriously... Our suspect is
+a Cait Sith, but I can't fathom
+their motives...
+Asuna
 407000401_17_a
 QUB
-そう考えると
-ますます聖歌隊が狙われる理由が
-わからないんだよなぁ……
-キリト
+Which makes me wonder even more...
+Who's attacking you, and why?
+Kirito
 407000401_16_a
 QUB
-ふふっ
-もうちょっとこの世界風な言い方を
-するなら、旅芸人って感じかもね
-アスナ
+Hehe... If you want to phrase that
+for this world, you've become
+traveling minstrels.
+Asuna
 407000401_15_a
 QUB
-キリト
+Kirito
 407000401_14_a
 QUB
-アスナ
+Asuna
 407000401_13_a
 QUB
-ええ、さながらツアーといった
-ところかしら
-セブン
+Exactly! And that's why Seven's
+Carolers are going on tour!
+Seven
 407000401_12_a
 QUB
-街に籠っていれば
-平気というわけではないのですね
-アリス
+As such, it would be a shame to
+hide in town. You want to share
+your songs with the world, right?
+Alice
 407000401_11_a
 QUB
-様々な街で歌を披露する以上は、
-聖歌隊をしている期間のみ
-アリス
+From what I've learned, this is
+the only time of the year you
+can carol.
+Alice
 407000401_9_a
 QUB
-ユージオ
+Eugeo
 407000401_10_a
 QUB
-普通のクエスト攻略や
-期間限定クエスト……
-それにギルド活動だってあるわけだし
-アスナ
+There's questing to be done,
+and seasonal events, and guild
+activities...
+Asuna
 407000401_8_a
 QUB
-みんな聖歌隊の活動だけを
-してるわけじゃないものね……
-アスナ
+But it's not like this is the only
+thing you guys have on your
+plates...
+Asuna
 407000401_7_a
 QUB
-こんな風に襲われなきゃだけどね～
-セブン
+It just sucks that we're getting
+attacked for doing it...
+Seven
 407000401_6_a
 QUB
-せっかく練習したんだから
-色んな場所で披露したいもの
-旅することだって苦じゃないわ
-セブン
+Well, compared to all the effort
+we spent practicing, this is easy.
+Besides, we want to carol.
+Seven
 407000401_5_a
 QUB
-ああ、もちろんだ
-でも大変だな、聖歌隊を率いて
-会場を点々と移動するなんて
-キリト
+Totally. I'm impressed that you're
+caroling around in so many
+different places, though.
+Kirito
 407000401_4_a
 QUB
-アスナ
+Asuna
 407000401_3_a
 QUB
-キリト
+Kirito
 407000401_2_a
 QUB
 bg_event_alne_field_christmas
-じゃあ今日の会場まで
-しっかりガード頼むわね
-セブン
+You guys ready to escort us today?
+Seven
 407000401_1_a
-スパシーバ!
-ありがとう、みんな!
-セブン
+Spasiba!
+You're the best!
+Seven
 407000301_39_a
-セブン
+Seven
 407000301_38_a
-アスナ
+Asuna
 407000301_37_a
-そういうことだ
-よし、そのクエスト引き受けるぜ
-セブン
-キリト
+Then it's settled!
+Seven...quest accepted!
+Kirito
 407000301_36_a
-うん、あんなに素晴らしい歌声を
-聴かせてもらったからには、
-なんとかしてあげたいよね
-ユージオ
+Yeah, and I want to pay you guys
+back for letting me listen to your
+wonderful song!
+Eugeo
 407000301_35_a
-ユージオ
+Eugeo
 407000301_34_a
-そうですね……本来は神器捜索に
-注力したいところですが、キリトの
-友人が困っているなら見過ごせません
-アリス
+Normally I'd prioritize our search
+for the Divine Objects, but I
+can't ignore your friend's plight.
+Alice
 407000301_33_a
-アスナ
+Asuna
 407000301_32_a
-俺たちはいいけど……
-二人ともいいか?
-キリト
+I think Asuna and I are down.
+What about you guys?
+Kirito
 407000301_31_a
-ふふっ、頼もしい二人じゃない!
-じゃあ早速お願いしてもいいかしら
-報酬は弾ませてもらうわ!
-セブン
+Wow, okay! You two have officially
+impressed me! Now come on, let's
+go! The pay's great, promise!
+Seven
 407000301_30_a
-う、うん……いつもはキリトくんが
-推理するところだけど、
-今回は出番がなかったね
-アスナ
+I'm...kinda shocked. Kirito,
+they totally stole your thunder!
+Asuna
 407000301_29_a
-セブン
+Seven
 407000301_28_a
-アスナ
+Asuna
 407000301_27_a
-はは……そのとおりだ
-二人ともやるじゃないか
-キリト
+Ha ha, wow! That's exactly what
+I was thinking.
+Kirito
 407000301_26_a
-つまり影で魔物たちを操る妖精が
-存在し、その者が元凶ということなら
-辻褄も合うということですね
-アリス
+Which means we may find a Cait
+Sith lurking in the shadows nearby
+when the monsters attack.
+Alice
 407000301_25_a
-ケットシー……猫妖精は魔物たちを
-一時的に使役することが可能……
-アリス
+They are the only fairies
+capable of temporarily
+controlling monsters...
+Alice
 407000301_24_a
-加えて言うなら魔物たちが
-聖歌隊を狙って襲える方法が猫妖精
-ケットシーだけなら可能ってことだね
-ユージオ
+Hmm... If a fairy is behind this,
+it would have to be a Cait Sith.
+Eugeo
 407000301_23_a
-ユージオ
+Eugeo
 407000301_22_a
-これだけ長い間この世界に留まれば
-この世界の理を把握することなど
-たやすいことです
-アリス
+We've been in this world for some
+time now. It's only natural that
+we'd pick up on your world's rules.
+Alice
 407000301_21_a
-キリト
+Kirito
 407000301_20_a
-セブン
+Seven
 407000301_19_a
-ア、アリスさんもすごい理解力ね……
-そのとおりだよ
-アスナ
+Double wow. Alice, you've got
+great insight.
+Asuna
 407000301_18_a
-ユージオ
+Eugeo
 407000301_17_a
-つまり無作為に妖精たちを襲うはずの
-魔物たちが聖歌隊のみを狙うことに
-違和感があるということですね
-アリス
+Monsters usually attack at random,
+so you think something is behind
+this unusual behavior?
+Alice
 407000301_16_a
-セブン
+Seven
 407000301_15_a
-アスナ
+Asuna
 407000301_14_a
-お、おう……そうだ
-ユージオも妖精について
-かなりわかってきたじゃないか
-キリト
+Yeah, wow. I'm surprised you
+remembered that! You're really
+learning a lot about us, Eugeo.
+Kirito
 407000301_13_a
-アリス
+Alice
 407000301_12_a
-この聖歌隊ってプーカが多いって
-言ってたよね? プーカは確か
-妖精の中でも非力って話で……
-ユージオ
+You said your group's mostly
+Pooka, right? Pooka are relatively
+weak for fairies, correct?
+Eugeo
 407000301_11_a
-いつも妙なタイプのすっごく
-強い奴らがあたしたちの前で
-たっくさんPOPするんだから!
-セブン
+And ugh! It's always weird and
+strong monsters, and they spawn
+right next of us!
+Seven
 407000301_9_a
-アスナ
+Asuna
 407000301_10_a
-それがわからないの……
-最初は偶然かもって思ったんだけど
-あたしたちを狙ってるのは確かよ
-セブン
+Zero idea. We thought it was
+just random bad luck at first,
+but they're definitely after us.
+Seven
 407000301_8_a
-いえ、妖精たちが主導になって
-独自に組んだパーティなのに、
-どうしてモンスターに狙われるの?
-アスナ
+Er, I mean fairy-led volunteer
+effort, right? Why would monsters
+target you?
+Asuna
 407000301_7_a
-聖歌隊を狙って……?
-どういうこと?
-だって聖歌隊ってプレイヤー……
-アスナ
+Uhh...what? How does that even
+make sense? You carolers are
+a player-ru
+Asuna
 407000301_6_a
-最近あたしたちを神出鬼没に
-狙ってくるモンスターたちからよ
-セブン
+Ha ha, very funny. No, we've got
+some slippery monsters after our
+caroling hides.
+Seven
 407000301_5_a
-ボディーガード……?
-セブンたちを
-なにから守ればいいんだ?
-キリト
+Bodyguards? For carolers?
+Just what are we supposed to
+protect you from, music critics?
+Kirito
 407000301_4_a
-アスナ
+Asuna
 407000301_3_a
-キリト
+Kirito
 407000301_2_a
 bg_12_church_room
-あたしたち聖歌隊の
-ボディーガードをしてほしいの
-セブン
+My carolers need some bodyguards,
+and I want you for the job.
+Seven
 407000301_1_a
-どういうことだ?
-キリト
+Maybe? I need more info.
+Kirito
 407000201_41_a
-キリト君たち
-あたしからのクエスト、
-受けてみる気はないかしら?
-セブン
+You two can help too. So, Kirito,
+Asuna... Want to go on a little
+quest for me?
+Seven
 407000201_40_a
-あっ……そんな二人も揃ってるって
-ちょっと都合がいいかも……
-セブン
+Hmm... Convenient! I think I have
+a job for two ultimate warriors
+like yourselves...
+Seven
 407000201_39_a
-二人ともまさに最強の剣士って感じだぜ
-キリト
+It's literally insane how good
+they are.
+Kirito
 407000201_38_a
-なんかありえないくらいの凄技を
-使っちゃうって話なんでしょ
-セブン
+I'm told you two are ridiculously
+good at fighting.
+Seven
 407000201_37_a
-キリト
+Kirito
 407000201_36_a
-アスナ
+Asuna
 407000201_35_a
-ああ、異世界から来た
-二人の剣士ってあなたたちのことね
-話はキリト君たちから聞いてるわ
-セブン
+Ahh, so you're these two warriors
+from another dimension I've heard
+so much about. Cool.
+Seven
 407000201_34_a
-アリス・シンセシス・サーティ……
-アリス
+You may call me Alice Synthesis
+Thirty.
+Alice
 407000201_33_a
-アリス
+Alice
 407000201_32_a
-この子もキリトたちの仲間なんだね
-よろしく、僕はユージオ
-ユージオ
+So you're friends with this girl?
+In that case, hi there! My name's
+Eugeo. Nice to meet you!
+Eugeo
 407000201_31_a
-アスナ
+Asuna
 407000201_30_a
-でしょでしょ!
-セブン
+Right?!
+Seven
 407000201_29_a
-ふふっ、でもセブンちゃん率いる
-聖歌隊ならあの綺麗なハーモニーにも
-納得って感じだね～
-アスナ
+You're digging that hole deeper,
+Kirito. Anyway, with you at their
+head, no wonder they're so good.
+Asuna
 407000201_28_a
-あっ、いやほらセブンのイメージって
-やっぱりアイドルだから、もっとこう
-ノリノリなのを想像しちゃって……
-キリト
+Er, I just meant that you're an
+idol, right? I thought your songs
+would be more...peppy?
+Kirito
 407000201_27_a
-意外ってなによ!
-セブン
+What do you mean, "surprisingly"?!
+Seven
 407000201_26_a
-そうだったのか
-確かに……セブンの歌って
-意外にバラードとか多かったな
-キリト
+Cool. Come to think of it, a lot
+of your songs are surprisingly
+melodic too.
+Kirito
 407000201_25_a
-元々聖歌隊のメンバーには
-音楽妖精プーカとか歌好きが多いから
-適任じゃないかって話で
-セブン
+Besides, everyone who joined up
+is a Pooka or just likes singing,
+so it's an easy gig.
+Seven
 407000201_24_a
-発起人の主催者プレイヤーから
-直々にリーダーをやってほしいって
-依頼が来てね
-セブン
+The player who came up with the
+idea practically begged me to whip
+these guys into singing shape.
+Seven
 407000201_23_a
-そうよ
-あたしがリーダーを務めさせて
-もらってるの
-セブン
+You bet they're mine! I'm the
+leader of this little troupe!
+Seven
 407000201_22_a
-「我が」ってことは
-この聖歌隊って……
-アスナ
+My carolers?
+Asuna
 407000201_21_a
-ふふっ、もしかして
-我が聖歌隊の歌声に惹かれて
-ここまで来ちゃった感じかしら?
-セブン
+Heh, don't tell me the dulcet
+tones of my carolers beckoned
+you hither?
+Seven
 407000201_20_a
-アスナ
+Asuna
 407000201_19_a
-セブンじゃないか
-キリト
+Well, if it isn't Seven!
+Kirito
 407000201_18_a
-ユージオ
+Eugeo
 407000201_17_a
-アリス
+Alice
 407000201_16_a
-あら?
-どうしたの、キリト君にアスナちゃん
+Hmm? What are you guys doing here?
 ???
 407000201_15_a
-………………
-アリス
+...
+Alice
 407000201_14_a
-僕も感動したよ
-やっぱりここに来て正解だったね
-ユージオ
+It's moved me too, Alice.
+I'm glad we came.
+Eugeo
 407000201_13_a
-ユージオ
+Eugeo
 407000201_12_a
-努力であれだけの美しい響きが
-人の声によって奏でられるのですね
-アリス
+It's...incredible. To think that
+training could produce a sound
+so sublime...
+Alice
 407000201_11_a
-つまり努力の賜物で作り上げた
-能力なんだよ
-アスナ
+I assume, anyway.
+Asuna
 407000201_10_a
-キリト
+Kirito
 407000201_9_a
-ふふっ、アリスさん違うよ
-あれは一人ひとりが歌の練習をして
-がんばった成果……
-アスナ
+Hehe! No, silly! They've all just
+practiced really hard.
+Asuna
 407000201_8_a
-ユージオ
+Eugeo
 407000201_7_a
-あの妖精たちの美しい歌声……
-彼らはなにか特別な存在なのですか?
-アリス
+Fairies they may be, but they have
+the voices of angels. Do they have
+some special Calling?
+Alice
 407000201_6_a
-うん、大人も子供もいるね
-みんな澄んだ歌声で……
-素敵……
-アスナ
+Yeah, and they've got both kids
+and adults singing. It's such a
+clear, beautiful sound...
+Asuna
 407000201_5_a
-おおっ、すごい
-あれは聖歌隊ってやつだな
-キリト
+Whoa... These carolers are really
+good...
+Kirito
 407000201_4_a
-アスナ
+Asuna
 407000201_3_a
-キリト
+Kirito
 407000201_2_a
 bg_12_church_room
-ラララー……
-聖歌隊
+Siiiiiilent Niiiiight...
+Carolers
 407000201_1_a
 %TB
 %TB
-わ、わかりました……
-教会という施設にも
-興味はありますし……
-アリス
+V-Very well... Besides, I'm
+interested in seeing this
+church of yours...
+Alice
 407000101_47_a
 %TB
-アリス
+Alice
 407000101_46_a
 %TB
-アリス、行こうよ
-僕も近くで聴いてみたいよ
-ユージオ
+Come on, Alice! Please? I want
+to hear them up close too!
+Eugeo
 407000101_45_a
 %TB
-ふふっ、わかったよ
-アスナ
+Hehe, sounds like fun!
+Asuna
 407000101_44_a
 %TB
-アスナ
+Asuna
 407000101_43_a
 %TB
-いいからいいから!
-さあ、みんな行くぞ!
-キリト
+Nah, it's fine. Now, we're going,
+and you're coming with us!
+Kirito
 407000101_42_a
 %TB
-ユージオ
+Eugeo
 407000101_41_a
 %TB
-あっ、いえ……
-別にそこまでは……
-アリス
+No, that's all right...
+I wouldn't want to impose.
+Alice
 407000101_40_a
 %TB
-それならちょっとあそこの教会に
-行ってみようぜ
-近くで聴かせてもらえるかも
-キリト
+In that case, why don't we go in?
+They might let us listen up close.
+Kirito
 407000101_39_a
 %TB
-アスナ
+Asuna
 407000101_38_a
 %TB
-はは、聖歌のほうはアリスも
-お気に召したわけか
-キリト
+Ha ha, I guess Christmas isn't
+your thing, but Christmas carols
+are!
+Kirito
 407000101_37_a
 %TB
-心を穏やかにしてくれる……
-そんな荘厳さを感じます
-アリス
+They...fill my heart with a
+solemn joy.
+Alice
 407000101_36_a
 %TB
-この派手な街並みの装飾は
-気に入りませんが、この歌声は
-聴く価値のあるものだと思います
-アリス
+These gaudy decorations bother
+me, but these songs are worth
+listening to.
+Alice
 407000101_35_a
 %TB
-アリス
+Alice
 407000101_34_a
 %TB
-聖歌……聖なる歌ってことだね
-だからこの歌声は
-こんなに厳かで優しい感じなんだね
-ユージオ
+Holy hymns... I guess that's why
+these songs seem so...gentle
+yet dignified.
+Eugeo
 407000101_33_a
 %TB
-歌を神様に捧げるって意味もあって
-聖歌が沢山作られてきたの
-アスナ
+So a lot of carols
+also called
+"noels"
+were composed as
+kinda holy hymns for Christmas.
+Asuna
 407000101_32_a
 %TB
-元々クリスマスは、ある宗教……
-思想の発祥が元になって生まれた
-行事だから
-アスナ
+You see, Christmas was originally
+a religious holiday, though just
+about everyone celebrates it now.
+Asuna
 407000101_31_a
 %TB
-キリト
+Kirito
 407000101_30_a
 %TB
-ええと、クリスマスの時期に
-歌われる聖歌の総称で……
-ノエルなんて言われ方もするね
-アスナ
+Where to start... People sing
+special songs called carols during
+the Christmas season.
+Asuna
 407000101_29_a
 %TB
-キャロル?
-ユージオ
+A carol, you say?
+Eugeo
 407000101_28_a
 %TB
-ユージオ
+Eugeo
 407000101_27_a
 %TB
-……教会?
-アリス
+A church, you say?
+Alice
 407000101_26_a
 %TB
-キリト
+Kirito
 407000101_25_a
 %TB
-あそこは教会……
-この時期、教会から聞こえる歌声と
-いえばクリスマスキャロルかな?
-アスナ
+That's a church, which means that
+song's probably a Christmas carol.
+Asuna
 407000101_24_a
 %TB
-あの建物から聞こえてくるみたいだね
-ユージオ
+I think it's coming from that
+building.
+Eugeo
 407000101_23_a
 %TB
-ん……あの声は……?
-アリス
+I hear...singing?
+Alice
 407000101_22_a
 %TB
-ラララ……
+La la la!
 ???
 407000101_21_a
 %TB
-ユージオ
+Eugeo
 407000101_20_a
 %TB
-………………
-アリス
+...
+Alice
 407000101_19_a
 %TB
-アスナ
+Asuna
 407000101_18_a
 %TB
-アリスにはクリスマスは
-あんまりお気に召さなかったか……?
-キリト
+I guess maybe Christmas isn't for
+you, Alice?
+Kirito
 407000101_17_a
 %TB
-あれだけ忙しなく明滅されると、
-目に負荷がかかりそうです
-アリス
+And all these blinking lights
+bother my eyes.
+Alice
 407000101_16_a
 %TB
-ユージオ
+Eugeo
 407000101_15_a
 %TB
-……私には到底理解できません
-なにやら騒がしいですし、
-アリス
+I...don't understand.
+It's noisy and busy...
+Alice
 407000101_14_a
 %TB
-知名度も高くて、みんな……
-特に子供たちが待ち望んでいる
-お祭りだな
-キリト
+Pretty much everyone in the world
+loves Christmas. Especially kids.
+Kirito
 407000101_13_a
 %TB
-ふふっ、クリスマスは
-誰もが知ってる、世界中で
-一番有名なお祭りなのよ
-アスナ
+Hehe, that's because it's
+Christmas! How can you
+not have fun!
+Asuna
 407000101_12_a
 %TB
-アスナ
+Asuna
 407000101_11_a
 %TB
-はは、雪も降ってこんなに寒いのに
-まるで気にしてない感じだろ?
-キリト
+Yup! Despite the cold and the
+snow, everyone's having a grand
+old time.
+Kirito
 407000101_10_a
 %TB
-確かにどれも点滅して華やかだね
-街中を歩く妖精たちも
-浮かれているように見えるよ
-ユージオ
+Hmm, there are a lot of flashing
+things, huh? And look! All the
+fairies seem to be in a good mood!
+Eugeo
 407000101_9_a
 %TB
-ユージオ
+Eugeo
 407000101_8_a
 %TB
-なるほど、しかしハロウィンと比べて
-眩く輝く装飾が多いように見えます
-これは素因《エレメント》の力……?
-アリス
+I see. I'm noticing a lot of
+glitter and blinking lights. Are
+they powered by Elements...?
+Alice
 407000101_7_a
 %TB
-秋にハロウィンがあったでしょ?
-同じような季節のお祭りなの
-アスナ
+Remember how we had Halloween
+a couple of months back? This is
+like that, but more jolly.
+Asuna
 407000101_6_a
 %TB
-アスナ
+Asuna
 407000101_5_a
 %TB
-はは、驚くのも無理ないか
-これはクリスマスっていう
-冬の行事の一つなんだ
-キリト
+Ha ha, welcome to Christmas
+season, guys. All of this is part
+of a winter festival.
+Kirito
 407000101_4_a
 %TB
-わあ……なんだか街並みが
-すごいことになってるよ
-この装飾は一体どうしたんだろう?
-ユージオ
+Wow, the town's so...festive!
+What are all these decorations?
+Eugeo
 407000101_3_a
 %TB
-ユージオ
+Eugeo
 407000101_2_a
 %TB
 bg_event_christmas_town
-これは……
-アリス
+I'm...confused.
+Alice
 407000101_1_a
 Hehe. Let's rub it in his face.
 Sinon
@@ -79869,331 +79950,399 @@ bg_event_alo_sky
 Leafa!
 Liz
 1850011_1_a
-あたしの歌声……
-みんなしかと聴きなさいよ!
+Alright, everybody, prepare to
+be blown away!!
+Nanairo
 1840118_26_a
+Nijika
 1840118_25_a
+Kazuto
 1840118_24_a
-はいはい、じゃあこれにしようっと
+Great! Now, what to sing...?
+Aha, this one!
+Nanairo
 1840118_23_a
-クライン
+Klein
 1840118_22_a
-選曲ならここの機器から
-選択できるぜ
-エギル
+You can pick the track from that
+screen there.
+Agil
 1840118_21_a
+Nijika
 1840118_20_a
-ふふっ、まぁ考えておくわ
-で、なにを歌えばいいの?
+Heh, I'll think about it.
+So, what songs you got
+loaded up in this gizmo?
+Nanairo
 1840118_19_a
-えっ!?
-そ、それは……
-ユルドでどうでしょう?
+Oof, really?
+Do you accept Yuld...?
+Kazuto
 1840118_18_a
+Nijika
 1840118_17_a
+Kazuto
 1840118_16_a
-もーっ!
-こんなの聞いてない!
-出演料は高く取るからね!
+Ugh, fine! But I demand payment
+from all of you for the privilege,
+and it isn't going to be cheap!
+Nanairo
 1840118_15_a
-エギル
+Agil
 1840118_14_a
-さあさあ
-セブンちゃんも
-ステージに上がっちゃえよ!
-クライン
+Come on, Seven! Get up there!
+We want to hear your heavenly
+voice!
+Klein
 1840118_13_a
-ナナにだって歌えるはずよ!
+In other words, no excuses!
+You can do it!
+Nijika
 1840118_12_a
-今回は基本的に既存の
-クリスマスソングのカバーを
-歌ってるだけよ
+You heard how I rearranged the
+others, so you'll figure it out.
+Nijika
 1840118_11_a
-さっきからわたしの歌を
-聞いてるんだしわかってるでしょ?
+It's mostly covers of Christmas
+songs, so you should know pretty
+much all of them!
+Nijika
 1840118_10_a
-だから元プロだって言ってるんでしょ
-それに歌を覚えてないし……
+Former pro! Besides, I have no
+idea what sort of music you have
+queued up...
+Nanairo
 1840118_9_a
-ああ、いいねソレ
-じゃあプロの歌声を
-聴かせてもらおうかしら
+Actually, you know what, that's
+not a bad idea! I'm sure everyone
+would love to hear a pro tonight!
+Nijika
 1840118_8_a
-えっ?
+What do you mean?
+Nanairo
 1840118_7_a
-はは、じゃあさ
-メイン出演者が休んでる間は
-七色が歌えばいいじゃないか?
+Hey, I've got a great idea! While
+tonight's star is on break, how
+about you sing us a tune, Nanairo?
+Kazuto
 1840118_6_a
-もうっ
-お客さんなんだから
-ダメ出しは勘弁してよ
+Hey, no pro tips from the
+audience, please!
+Nijika
 1840118_5_a
-ライブ中に休憩はありえないわよ～!
+Boo! No breaks! A real pro doesn't
+stop till the night's over!
+Nanairo
 1840118_4_a
+Kazuto
 1840118_3_a
+Nanairo
 1840118_2_a
 bg_16_pub
-ふうっ……
-何曲も歌ったら疲れちゃった……
-ちょっと休憩させて～
+Phew! I think I sung my heart out!
+Sorry, everyone, but it's time for
+a quick break!
+Nijika
 1840118_1_a
-はは、それは良かったな
+Ha ha, I'm glad to hear it.
+Kazuto
 1840117_17_a
-それが見れただけで
-妹のあたし的には満足かな……
+So seeing my sister this happy
+makes today's concert a huge
+success in my eyes.
+Nanairo
 1840117_16_a
-でも……
-楽しそうに歌うお姉ちゃん……
-なんだか久しぶりに見た気がするわ
+Buuut it looks like she's having
+a great time. I haven't seen her
+smile this much in forever.
+Nanairo
 1840117_15_a
-うおっ……手厳しいな
+Ouch. Brutal.
+Kazuto
 1840117_14_a
-歌声もまだ練習不足、
-音響だってハウリングしてるし、
-色々と調整不足ね
+She needs to practice her singing
+more, and the sound quality of
+the equipment in here sucks.
+Nanairo
 1840117_13_a
-あたしは元プロよ
-更に言わせてもらうなら、
+Don't patronize me. I'm a former
+pro. But to be brutally honest,
+she still has a long way to go.
+Nanairo
 1840117_12_a
-はは、冷静な分析だな
+Ha ha, that's our Nanairo.
+Sober and precise analysis.
+Kazuto
 1840117_11_a
-まぁ差別化って意味では
-いいんじゃないかしら……
+I would say it's different from
+my recent musical exploits,
+but I like it just the same.
+Nanairo
 1840117_10_a
-厳かに歌い上げるあたしたちと違って
-こっちはノリノリで楽しい
-ポップスを歌って盛り上がる……
+We were all dignified and holy and
+stuff. This is super bouncy pop
+music, and way more fun.
+Nanairo
 1840117_9_a
-あたしの聖歌隊コンサートとは
-対照的よね
+Completely different from my
+Concert of the Carols, that's for
+sure.
+Nanairo
 1840117_8_a
-どうだ、七色
-姉のファーストライブは?
+So, how's your sister's concert
+so far, Nanairo?
+Kazuto
 1840117_7_a
+Kazuto
 1840117_6_a
-………………
+...
+Nanairo
 1840117_5_a
-サイコーよ、にじかー!
+NIJIKA! WE LOVE YOU!!
+Rika
 1840117_4_a
+Rika
 1840117_3_a
-ひゅーっ!
-クライン
+WOOO! ME! ME! I AM!!
+Klein
 1840117_2_a
 bg_16_pub
-じゃあ次の曲、いっくよー!!
+Who's ready for the next song?!
+Nijika
 1840117_1_a
+Nanairo
 1840115_24_a
 そうだったのね……
+Kazuto
 1840115_23_a
+Asuna
 1840115_22_a
-ふふっ、みんなも揃ってるんだよ
-セブンちゃん……七色ちゃんだけに
-内緒にしておこうってことだったの
-明日奈
+Shut up, Klein.
+Agil
 1840115_21_a
-お前が言うな!
-エギル
+Yeah! This place is a dump!
+Klein
 1840115_20_a
 そうそう
 こんな小さなバーなんだし
 気にすんなって
-クライン
+Klein
 1840115_19_a
-クライン
+Agil
 1840115_18_a
-はは、だからあんまり気負うなって
-こんな小さなバーでのライブなんて
-カラオケの延長みたいなもんさ
-エギル
+Yup! I was rehearsing like crazy!
+It IS my first real concert, after
+all. I wanted to do it right.
+Nijika
 1840115_17_a
 うん、こっちの練習でね
 なにせライブなんて初めてだし……
+Kazuto
 1840115_16_a
-えと、じゃあ……
-忙しいって言ってたのは……
+So...you were busy getting ready
+for this?
+Nanairo
 1840115_15_a
-クリスマスライブっていうのも
-いいかなと思って、このタイミングで
-やることにしたんだよ
+Besides, I thought a Christmas
+concert would be pretty great,
+and better yet, you're here too!
+Nijika
 1840115_14_a
-うん、そうだよ
-前々からマスターに
-提案してもらってたの
+Yup! Agil said I could use his
+place a while back, so I finally
+took him up on the offer!
+Nijika
 1840115_13_a
 えっ!?
 ファーストライブ!?
 ここでやるの!?
+Kazuto
 1840115_12_a
-ようこそ、ナナ
-わたしのファーストライブへ
+What?! THIS is your first concert?
+Here?! Now?!
+Nanairo
 1840115_11_a
 わっ……!
 これって……!
+Kazuto
 1840115_9_a
+Nijika
 1840115_10_a
+Nanairo
 1840115_8_a
-お姉ちゃんが……?
-なにを……?
+Nijika set this all up?
+But...to do what...?
+Nanairo
 1840115_7_a
-レイン……虹架はそう思って
-この機会にやってみることに
-しんたんだってさ
+She decided that this was the
+perfect opportunity to finally
+do it!
+Kazuto
 1840115_6_a
-今ちょうどセブン……七色が
-日本で長期滞在して仕事してるから
-この機会しかないって……
+Yup! When your sister heard the
+great Dr. Arshavin was here in
+Japan on business...
+Kazuto
 1840115_5_a
-マスターの?
+Agil, really? My favorite barista?
+Nanairo
 1840115_4_a
-エギルの店だよ
+That makes sense.
+It's Agil's cafe, after all.
+Kazuto
 1840115_3_a
+Kazuto
 1840115_2_a
 bg_16_pub
-えっ……ここは……
+This place seems familiar,
+somehow...
+Nanairo
 1840115_1_a
-さあ、キリト君!
-逃げ道はないわよ!
-潔く吐いちゃいなさい!
-セブン
+You're busted! Now out with it!
+Seven
 1840113_19_a
-ううっ……
-そういえばそうだった……
-キリト
+Rats... I totally forgot about
+that...
+Kirito
 1840113_18_a
-人の心理を読むことなんて
-お手の物なんだからね!
-セブン
+You know I've been researching
+how to detect lies in here!
+Seven
 1840113_17_a
-仮想世界でウソは隠せないんだし
-あたしの研究題材知ってるでしょ!
-セブン
+Besides, you think you can fib to
+me in VR and get away with it?
+Seven
 1840113_16_a
-ウソよ!
-目が泳いでるもの!
-セブン
+Liar! You're panicking, and it's
+totally obvious!
+Seven
 1840113_15_a
-俺はなんも知らないぞ!
-キリト
+I'm not hiding anything!
+Cross my heart.
+Kirito
 1840113_14_a
-えっ!?
-い、いやそんなことはない!
-キリト
+I, uh, have no idea what you're
+talking about.
+Kirito
 1840113_13_a
-もしかして……お姉ちゃんが
-なにを隠してるか知ってるでしょ!?
-セブン
+That confirms it! You're in on
+whatever it is she's trying to
+keep secret! Spill! SPILL!!
+Seven
 1840113_12_a
-へっ……?
-キリト
+B-But...why...?
+Kirito
 1840113_11_a
-んー?
-なんかキリト君、怪しい!
-セブン
+Hmmm... Yeah, you're hiding
+something. What do you know?!
+Seven
 1840113_10_a
-ほら、歌手目指してるって
-目標もあるわけだしさ……
-キリト
+She's training to be a singer.
+That's a lot of work.
+Kirito
 1840113_9_a
-まぁレインも色々と現実でも
-忙しいんじゃないかな
-キリト
+Well, Rain's pretty busy in real
+life, right?
+Kirito
 1840113_8_a
-ん……?
-セブン
+Sarcasm detected. What's the deal,
+why aren't you agreeing with me?!
+Seven
 1840113_7_a
-そ、そうか……
-キリト
+R-Right. The fiend.
+Kirito
 1840113_6_a
-でもその忙しい理由を聞いても
-教えてくれないのよ
-セブン
+That sounded fishy to me, but when
+I asked what she was doing, she
+said it was a secret! The nerve!
+Seven
 1840113_5_a
-なんか自分も忙しかったとか
-言って……
-セブン
+she said she was "busy."
+Seven
 1840113_4_a
-そうなのよ
-あたしのコンサートに来なかった
-ことに文句言ったら、
-セブン
+Totally. When I was yelling at her
+about how she didn't come to my
+concert,
+Seven
 1840113_3_a
-セブン
+Seven
 1840113_2_a
 bg_event_christmas_town
-レインの様子がおかしい?
-キリト
+Rain's acting weird?
+Kirito
 1840113_1_a
-こ、コラっ!
-他にも人がいるんだから、さっきから
-お姉ちゃんって連呼しないでー!
-レイン
+Sssh! There are people around!
+We're supposed to keep the fact
+that we're sisters a secret!
+Rain
 1840111_19_a
-なによそれ!
-お姉ちゃん、白状しなさい!
-セブン
+Oh, I am SO angry at you right
+now! Spill the beans, or we're
+no longer sisters!
+Seven
 1840111_18_a
-ナイショ、かな?
-レイン
+...A secret?
+Rain
 1840111_17_a
-それは……?
-セブン
+Kinda sorta...what?
+Seven
 1840111_16_a
-ええと……それは……
-レイン
+Umm... Kinda sorta...
+Rain
 1840111_15_a
-忙しかった?
-なにしてたの?
-セブン
+Busy? Doing what?
+Seven
 1840111_14_a
-ご、ごめん……って謝ったでしょ
-ちょっと忙しかったの
-レイン
+S-Sorry, sheesh... I did send you
+a text apologizing, though.
+I was busy...
+Rain
 1840111_13_a
-ちゃんと会場で見てほしかったの!
-チケットだって渡したでしょ!
-セブン
+That doesn't count! Ugh! You were
+supposed to come see me in person!
+I gave you a ticket, didn't I?!
+Seven
 1840111_12_a
-ええっ……?
-ちゃんと後から動画で見たよ?
-レイン
+I, uh...
+Watched the video afterward?
+Rain
 1840111_11_a
-キリト君たちだって
-来てくれたのよ!
-セブン
+Kirito and Asuna came!
+Where were you?!
+Seven
 1840111_10_a
-そんなことよりもなんでお姉ちゃん!
-あたしの聖歌隊コンサートに
-来なかったのよ!
-セブン
+Anyway, forget that! I've got
+a bone to pick with you! Why
+didn't you come to my concert?!
+Seven
 1840111_9_a
-はいはい
-レイン
+Yeah, yeah. Rub it in.
+Rain
 1840111_8_a
-まぁね～
-あたしは聖歌隊やる前から
-大人気だけどね～
-セブン
+Well, duh? I've been popular since
+way before my caroling exploits.
+Honestly? Everyone loves me.
+Seven
 1840111_7_a
-大人気だね、セブン
-レイン
+You're certainly popular, Seven.
+Rain
 1840111_6_a
-ふふっ、ありがとー!
-スパシーバ!
-セブン
+Hehe, thanks! Spasiba, guys!
+Seven
 1840111_5_a
-セブンちゃん!
-この前の聖歌隊コンサート、
-最高だったわー!
-プレイヤーB
+Seven! That event you held the
+other day, the Concert of the
+Carols?! It was amazing!
+Player B
 1840111_4_a
-レイン
+Rain
 1840111_3_a
-セブン
+Seven
 1840111_2_a
 bg_event_christmas_town
-あーっ、セブンちゃんよ!
-プレイヤーA
+Hey look! It's Seven!
+Seven!! We love you!!
+Player A
 1840111_1_a
 Ha ha ha!
 Kirito
@@ -82963,382 +83112,388 @@ bg_11_home_lounge
 Any day now...
 Kirito
 1840011_1_a
-ふふっ、うん!
-そうだね!
-リーファ
+Hehe, you're right! I'll have to
+give him a thank-you hug!
+Leafa
 1650038_17_a
-ここは素直に感謝しておくとしよう
-サクヤ
+We owe him a debt of gratitude.
+Sakuya
 1650038_16_a
-はは、そうひねくれたことを
-言うものではないさ
-サクヤ
+Ha ha, none of that now!
+He helped us out, did he not?
+Sakuya
 1650038_15_a
-嬉しい反面なんかキリト君の掌で
-踊らされてるみたいで
-釈然としないよー
-リーファ
+I mean, I'm happy we got a tree,
+but I feel like I've been dancing
+in the palm of his hand...
+Leafa
 1650038_14_a
-はあ……
-相変わらずの先読みと
-手際の良さだなぁ
-リーファ
+sigh
+... How is he always one
+step ahead of everyone else...?
+Leafa
 1650038_13_a
-モミの木を用意しておいて
-もらったってわけかぁ……
-リーファ
+Go chop down some spare Christmas
+trees by the log cabin! We'll need
+them! Or something like that.
+Leafa
 1650038_12_a
-ああ、なるほど～
-そこですぐにログハウスにいる
-アスナさんに連絡して
-リーファ
+Ahhh, so that's it. He must've
+shot Asuna a message.
+Leafa
 1650038_11_a
-途中で折れてしまい
-てんやわんやしているうちに
-その姿は消えてしまっていたが……
-サクヤ
+But he disappeared in all the
+commotion after it broke...
+Sakuya
 1650038_10_a
-前のモミの木を運んでる最中に
-キリト君を街で見かけたのだよ
-サクヤ
+I saw Kirito in town while we were
+transporting the old tree.
+Sakuya
 1650038_9_a
-キリト君が?
-どうして?
-リーファ
+Kirito? What makes you say that?
+Leafa
 1650038_8_a
-ふむ……もしかしたら
-キリト君の仕業かもしれないな
-サクヤ
+Hmm... Perhaps Kirito had
+something to do with it?
+Sakuya
 1650038_7_a
-アスナさん……どうしてあたしが
-新しいモミの木を探してること
-知ってたんだろう?
-リーファ
+How did Asuna know I was looking
+for a Christmas tree? I didn't
+message her or anything...
+Leafa
 1650038_6_a
-ふふっ、そうかもね
-でも……あれ?
-リーファ
+I know what you mean!
+Actually... Hold on a sec...
+Leafa
 1650038_5_a
-はは、確かにな
-我々古参のプレイヤーはどうも
-あの新エリアのことを忘れがちになる
-サクヤ
+Ha ha, true. Us old-school ALO
+players often forget that the
+floating castle is even there.
+Sakuya
 1650038_4_a
-うん、最初からアルヴヘイムの大陸
-じゃなくて浮遊城のほうで
-探せば良かったんだね～
-リーファ
+Yup. I tried searching the surface
+first, but realized Aincrad had a
+way better selection!
+Leafa
 1650038_3_a
-リーファ
+Leafa
 1650038_2_a
 bg_event_alo_cait_sith_palace
-なるほど
-アスナたちのログハウスの周辺が
-まさに針葉樹林帯だったわけか
-サクヤ
+I see. So you acquired this tree
+from the area around Asuna's log
+cabin in Aincrad?
+Sakuya
 1650038_1_a
-ふふっ、どういたしまして
-アスナ
+Hehe, I'm always happy to help a
+friend.
+Asuna
 1650037_24_a
-わあっ!
-ホントです!
-ありがとうございますアスナさん!
-リーファ
+Whoa, thanks!
+You're the best, Asuna!
+Leafa
 1650037_23_a
-ほら、あそこにツリーになりそうな
-木を幾つか選んで伐採しておいたから
-アスナ
+I cut down a whole bunch of good
+candidates and lined them up over
+there for you.
+Asuna
 1650037_22_a
-ふふっ、そうなんだね
-じゃあ遠慮なく持っていっていいよ
-アスナ
+Hehe, I bet. Well, go on and take
+whichever one you like the most!
+Asuna
 1650037_21_a
-シルフ領でたくさんの仲間たちが
-新しいモミの木の到着を
-待ってるんですから!
-リーファ
+Half of the Sylphs are waiting for
+me to come back with an awesome
+new Christmas tree!
+Leafa
 1650037_20_a
-そういうわけにはいきません
-リーファ
+I wish I could hang out, but I
+don't have the time today.
+Leafa
 1650037_19_a
-ゆっくりしていってもいいのに
-アスナ
+Well, you're always welcome to
+make yourself at home.
+Asuna
 1650037_18_a
-お邪魔しまーす
-って言っても今日はお家には
-入りませんけど
-リーファ
+Hey, hope you don't mind the
+intrusion! I guess I'm not coming
+inside, but still.
+Leafa
 1650037_17_a
 bg_05_danac
-いらっしゃい、リーファちゃん
-アスナ
+Hey there, Leafa!
+Asuna
 1650037_16_a
-へっ……?
-レコン
+B-But...why...?
+Recon
 1650037_15_a
-あ、あたし今から
-新生アインクラッドに行ってくる!
-リーファ
+I'm going to pop over to Aincrad
+for a few! See you in a bit!
+Leafa
 1650037_14_a
-どうしたの、リーファちゃん?
-レコン
+What's it?
+Recon
 1650037_13_a
-えっ、わっ……!
-そ、そうだ!
-そうだったよ!
-リーファ
+Wait a sec... Of course!
+That's it!
+Leafa
 1650037_12_a
-あれ、アスナさんから……?
-リーファ
+Huh? A message from Asuna?
+Leafa
 1650037_11_a
-あたしも思い浮かばない……
-リーファ
+I can't think of any...
+Leafa
 1650037_10_a
-近くの中立域で
-針葉樹林の森があるところ……
-うーん、あったっけ?
-レコン
+Hmm... Were there any neutral
+areas nearby with coniferous
+forests in them?
+Recon
 1650037_9_a
-他の種族エリアで伐採行為は
-ちょっとトラブル招きかねない
-からなぁ……
-リーファ
+but if we start lumberjacking in
+another race's land, it's going to
+cause trouble...
+Leafa
 1650037_8_a
-他のエリアで?
-中立域ならいいけど、
-リーファ
+You mean another territory?
+The neutral area would be fine,
+Leafa
 1650037_7_a
-シルフ領で見つからないなら
-他のエリアに行ってみようよ
-レコン
+I was just trying to help...
+Okay, if we can't find one here,
+let's just check somewhere else.
+Recon
 1650037_6_a
-元気出せって言われても無理だよ
-あーん、サクヤに頼まれてるのになぁ
-リーファ
+You can't just say "cheer up" and
+make everything magically better!
+Ugh, Sakuya's gonna be so upset...
+Leafa
 1650037_5_a
-だってこれだけ探しても
-モミの木の採れる場所が
-見つからないんだよ?
-リーファ
+But we've been searching for
+hours, and still nothing!
+Leafa
 1650037_4_a
-リーファちゃん、元気を出して
-レコン
+Cheer up, Leafa!
+Recon
 1650037_3_a
-レコン
+Recon
 1650037_2_a
 bg_event_christmas_town
-はあ……
-リーファ
+sigh
+...
+Leafa
 1650037_1_a
-すまないな
-だがその心掛けは大したもんだと
-思うぜ、あんた……
-プレイヤー
+Sorry we took your tree, dudes.
+But I think you've got good
+hearts. Respect.
+Player
 1650035_17_a
-リーファちゃん……
-わ、わかったよ……
-レコン
+Leafa, I'm moved...
+Okay!
+Recon
 1650035_16_a
-だから別の場所で探そう
-何事も現実と同じだよ
-取り過ぎは良くないから……
-リーファ
+So let's look for a tree somewhere
+else. Just like irl, we have to
+respect nature's limits.
+Leafa
 1650035_15_a
-もうここには
-モミの木が生えてこなくなるかも
-しれないでしょ
-リーファ
+If we cut down ALL the trees, the
+game will probably stop spawning
+new ones for good.
+Leafa
 1650035_14_a
-リソースには限界があるからだよ
-伐採し尽くしちゃったら
-リーファ
+There's always a limit to how much
+you can push nature. Or, simulated
+video game nature, anyway.
+Leafa
 1650035_13_a
-ど、どうして?
-レコン
+But...why?
+Recon
 1650035_12_a
-待ってレコン
-たとえまだ何本か残ってたとしても
-ここで伐採するのは止めておこう
-リーファ
+Hold it, Recon. Even if there are
+a few left, let's leave them be.
+Leafa
 1650035_11_a
-そうなんですね……
-でも諦めずに探してみようよ
-リーファちゃん!
-レコン
+Oh...which means this area had a
+lot of them, huh? Come on, Leafa!
+Let's keep looking!
+Recon
 1650035_10_a
-この辺りはたくさんのプレイヤーが
-ツリーにするためモミの木を
-伐採してたみたいだ
-プレイヤー
+Tons of players were all over this
+area during the past couple days,
+chopping down Christmas trees.
+Player
 1650035_9_a
-その辺を探せばまだあると思うけど
-確かに残りは少ないだろうな
-プレイヤー
+Nah, there's probably a few left
+here somewhere. Not many, but
+maybe a handful.
+Player
 1650035_8_a
-で、ですよね……
-ああ、それが
-最後の一本だったのかも……
-リーファ
+Yeah, I guess I saw that coming...
+That might've been the last tree
+around here, too...
+Leafa
 1650035_7_a
-ああ、そりゃそうさ
-この木で飾りつけをして
-クリスマスツリーを作るんだ
-プレイヤー
+Of course we do! Why else do you
+think we're here, a passion for
+forestry? This is for Christmas!
+Player
 1650035_6_a
-あの、もしかしてそのモミの木……
-持ってっちゃいます?
-リーファ
+Umm... Do you guys kinda sorta
+need that tree? Because if you're
+not gonna take it...
+Leafa
 1650035_5_a
-なんだ、アンタたち
-プレイヤー
+Huh? Who are you?
+Player
 1650035_4_a
-レコン
+Recon
 1650035_3_a
-す、すみませんー!
-リーファ
+Excuse me!
+Leafa
 1650035_2_a
 bg_02_forest
-これでモミの木ゲットだぜ
-プレイヤー
+Finally, we got our fir tree!
+Player
 1650035_1_a
-うん!
-リーファ
+Yeah!
+Leafa
 1650033_15_a
-木の下にプレイヤーがいるよ
-行ってみようよ!
-レコン
+There's a bunch of players down at
+the tree's base! Let's go check
+it out!
+Recon
 1650033_14_a
-わっ!
-しかもあのモミの木……
-倒れちゃったよ!
-リーファ
+Ah! It just fell over!
+Leafa
 1650033_13_a
-ええっ!?
-レコン
+Gah!!
+Recon
 1650033_12_a
-確かに……あの周辺……
-ほとんど木が生えてない……
-リーファ
+And...is it just me, or are there
+a suspiciously low number of
+trees for a forest?
+Leafa
 1650033_11_a
-ホントだ!
-ん……でもなんか様子が変だよ?
-リーファ
+Hey, it is! But...doesn't
+something feel off about
+this place?
+Leafa
 1650033_10_a
-あっ、リーファちゃん!
-あの木ってモミの木じゃないかな!
-レコン
+Wait a sec, Leafa!
+Isn't that a fir tree?
+Recon
 1650033_9_a
-うーん、確かに……
-リーファ
+Oh, that's a good point...
+Leafa
 1650033_8_a
-シルフ領って気候的には
-かなり温暖だし……
-レコン
+Sylph territory is pretty hot and
+humid. They don't grow in this
+climate...
+Recon
 1650033_7_a
-でも針葉樹林の木だから
-この森だとそんなに
-生えてなさそうだよね
-レコン
+But there aren't any conifers
+growing in this forest. Not that
+I've seen, anyway...
+Recon
 1650033_6_a
-はいはい、言い訳はいいから
-さっさとモミの木を探そう
-リーファ
+Excuses, excuses! Come on, and
+help me find this tree already!
+Leafa
 1650033_5_a
-そ、そんなぁ……リーファちゃんの
-飛行速度に付いていける
-シルフなんてほとんどいないよぉ
-レコン
+B-But you're one of the fastest
+players in all of ALO! No one can
+keep up with you!
+Recon
 1650033_4_a
-レコン遅いよ!
-手伝いを言い出したなら、ちゃんと
-あたしに付いてきてくれなきゃ
-リーファ
+Hurry it up, Recon! You insisted
+on tagging along, but I'm ditching
+you if you slow me down!
+Leafa
 1650033_3_a
-リ、リーファちゃ～ん!
-レコン
+L-Leaaafa, waaait up!!
+Recon
 1650033_2_a
 bg_02_forest
-シルフの古森エリア……
-ここにも確かモミの木が
-あったはず……
-リーファ
+If I remember right, there's
+a lot of fir trees in the Sylph
+territory's ancient forest area...
+Leafa
 1650033_1_a
-済まない……助かるぞ、リーファ
-サクヤ
+Thank you, Leafa.
+All of Sylvain is in your debt.
+Sakuya
 1650031_18_a
-ああ、そういうことね!
-うん、もちろんいいよ!
-リーファ
+Oh, so that's why you called me!
+Of course, I'd love to help!
+Leafa
 1650031_17_a
-そこで頼みたい
-新しいモミの木を調達してきて
-くれないか?
-サクヤ
+And so, we come to my request.
+Can you find us a new Christmas
+tree?
+Sakuya
 1650031_16_a
-シルフのみんな
-あれに飾りつけするの
-毎年楽しみにしてるよ
-リーファ
+It's not a Sylph Christmas unless
+we've got that giant tree!
+Leafa
 1650031_15_a
-そうなんだ……
-でもどうするの?
-リーファ
+Wh-What do we do now, Sakuya?!
+Leafa
 1650031_14_a
-それで運ぶ際にポッキリと
-逝ってしまったのだよ
-サクヤ
+Then, when we were transporting
+it to the central plaza, it
+just...poof.
+Sakuya
 1650031_13_a
-どうも保管状態が良くなかったようだ
-中身が腐って耐久度が大幅に
-下がってしまっていたようなのだ
-サクヤ
+But it seems my vault wasn't
+suited for tree storage. The fir
+rotted and its durability dropped.
+Sakuya
 1650031_12_a
-大型オブジェクトはストレージには
-保管できない……私の館の倉庫で
-保管していたのだが……
-サクヤ
+Massive objects can't be placed in
+personal inventories, so I had it
+stored in my private vault...
+Sakuya
 1650031_11_a
-ええっ!?
-どうして!?
-リーファ
+WHAT?! B-But...my Christmas...
+Whyyyyyy?!
+Leafa
 1650031_10_a
-実はあの巨大モミの木が
-先ほど真っ二つに折れてしまってな
-サクヤ
+Well, the giant fir tree we put
+in the center of Sylvain...has
+been split in twain.
+Sakuya
 1650031_9_a
-すごくキレイだし
-あたしも楽しみなんだ～!
-リーファ
+It's totally beautiful, and I'm SO
+looking forward to it this year!
+Leafa
 1650031_8_a
-うん、みんなクリスマスになると
-あれに色々と装飾つけて
-ライトアップさせるんだよね!
-リーファ
+Yeah! The one all of us decorate,
+and then we illuminate it at night
+and everything?
+Leafa
 1650031_7_a
-大型のクリスマスツリーは
-知っているだろう?
-サクヤ
+You know about the giant Christmas
+tree we put up in the center of
+Sylvain every year, right?
+Sakuya
 1650031_6_a
-実は……リーファは
-スイルベーンの中央広場で
-毎年この時期に展示される
-サクヤ
+Yes... In a way.
+Sakuya
 1650031_5_a
-ううん、気にしないで
-急用だって言うから急いで
-ダイブしてきたけどなにかあったの?
-リーファ
+It's totally fine! I dived as soon
+as you messaged me. It's urgent,
+right?
+Leafa
 1650031_4_a
-ああ、リーファ
-済まない、突然呼び出して……
-サクヤ
+Ah, you're here. Sorry for calling
+you on such short notice.
+Sakuya
 1650031_3_a
-サクヤ
+Sakuya
 1650031_2_a
 bg_event_alo_cait_sith_palace
-どうしたの!?
-サクヤ!
-リーファ
+What is it, Sakuya?!
+What's the problem?!
+Leafa
 1650031_1_a
 Perhaps.
 Alice
@@ -130019,213 +130174,246 @@ bg_event_minotaur
 Is Asuna here?
 Queen
 650111_1_a
-ふふっ、ですね!
+Ha ha, I can totally see it!
+Suguha
 650078_19_a
-ふふっ、キリトくんの
-悲しげな顔が目に浮かんでくるよ!
-明日奈
+Hehe, I can see Kirito checking
+his mail and going "b-but why
+didn't they invite me, waah"!
+Asuna
 650078_18_a
-今日は明日奈さんとデートだって
-撮影して画像送りつけますね!
+We're going on a date today!
+Let's taunt him by sending him a
+bunch of pictures of us together!
+Suguha
 650078_17_a
-あっ、それいいですね!
-今お兄ちゃん家にいるんですけど……
-まぁ放っておきます!
+That's a great idea! Kazuto's
+chilling alone at home today...
+but forget him!
+Suguha
 650078_16_a
-それならわたしも付き合うよ
-せっかく外出したんだし
-お昼くらい一緒にしていこうよ
-明日奈
+I'll keep you company, if you
+don't mind! Let's at least grab
+lunch!
+Asuna
 650078_15_a
-さぁて、じゃああたしも
-別のプレゼント探しに行ってきますね
+Anyway, enough chatting! I've
+got to go buy a whole pile of
+presents today!
+Suguha
 650078_14_a
-直葉ちゃん……
-明日奈
+Suguha...
+Asuna
 650078_13_a
-お兄ちゃんをちゃあんと
-わかってくれてるんだなぁって
+It's good to know that my
+brother's girlfriend gets him.
+Suguha
 650078_12_a
-だって明日奈さん、お兄ちゃんが
-欲しがりそうな物をちゃんと
-当ててみせてるじゃないですか
+I mean, you obviously care about
+him, and you're considerate enough
+to know what would make him happy.
+Suguha
 650078_11_a
-お兄ちゃんの選んだ人が
-明日奈さんで良かったなぁって
+I'm glad that Kazuto chose to fall
+in love with you, that's all.
+Suguha
 650078_10_a
-えっ?
-明日奈
+What do you mean?
+Asuna
 650078_9_a
-なんか安心しました……
+I guess I'm relieved, in a way.
+Suguha
 650078_8_a
-はい、お兄ちゃんの傍で
-なにを欲しがりそうか
-理解できてるってことですよね
+Yeah! Well, at the very least,
+we both know Kazuto well enough
+to know what he likes.
+Suguha
 650078_7_a
-わたしたち似た者同士なのかもね?
-明日奈
+I guess we think the same way,
+huh?
+Asuna
 650078_6_a
-ふふっ、そうかもね
-でもまさか現実でも狙ってる物が
-被っちゃうなんて
-明日奈
+Hehe, well, thanks anyway.
+I'm just amazed we were after the
+same present in VR and real life!
+Asuna
 650078_5_a
-いいえいいえ!
-ALOでは譲ってもらったんですから
-これでオアイコですよ!
+Don't sweat it! You let me have
+that scarf back in ALO. I'm just
+repaying the favor!
+Suguha
 650078_4_a
+Suguha
 650078_3_a
+Yui
 650078_2_a
 bg_os_town_1
-直葉ちゃん、ありがとうね
-わたしに譲ってもらっちゃって
-明日奈
+Suguha, thanks for letting me have
+this one!
+Asuna
 650078_1_a
-あらら……
-まさかここでも被っちゃうなんて……
-明日奈
+Don't tell me you're...here to buy
+a present for Kazuto?
+Suguha
 650077_21_a
-ひょっとしなくても
-お兄ちゃんのプレゼント……ですか?
+Ahaha... Hey, Asuna...?
+Suguha
 650077_20_a
-あ、あはは……
-明日奈さん……
+What are you doing in an
+electronics store in the middle
+Oh no...
+Asuna
 650077_19_a
-どうして東京の
-電化製品屋さんに……
-って……もしかして……
-明日奈
+Asuna?!
+Suguha
 650077_18_a
 あ、明日奈さん!?
+Suguha
 650077_17_a
+Yui
 650077_16_a
-ええっ!?
-直葉ちゃん!?
-明日奈
+Suguha?!
+Asuna
 650077_15_a
-えっ!?
+No way?!
 ???
 650077_14_a
-うん……
-あっ、これこれ
-これに目星つけてたんだぁ……
-明日奈
+Hmm... Ah, this is it!
+I was eyeing this model!
+Asuna
 650077_13_a
-明日奈
+Asuna
 650077_12_a
-ママ、商品コーナーはこちらですよ
+Mommy, the section you're looking
+for is over here.
+Yui
 650077_11_a
-うん、いい買い物ができればいいな
-明日奈
+I try to be. Now, I just hope
+I can find a good deal!
+Asuna
 650077_10_a
-さすがママ
-用意がいいですね!
+Now that's my mommy!
+You're always prepared!
+Yui
 650077_9_a
-キリトくんに向いている商品を
-何点か既にピックアップしてるの
-明日奈
+I've got a short list of models
+that match Kirito's needs.
+Asuna
 650077_8_a
-ふふっ、そこの所は
-ちゃんとチェック済みだよ
-明日奈
+Hehe, oh, I know! I spent forever
+scouring the Internet for info.
+Asuna
 650077_7_a
-色々な種類があるんですね
-接続する端子や規格が多くなるほど
-価格も上がっていくようですが……
+There are a wide variety of
+models on sale. The more types
+of port, the more expensive.
+Yui
 650077_6_a
-モバイルバッテリー……
-検索してみました
+A portable charger? Processing...
+Search complete!
+Yui
 650077_5_a
-もう寿命だってぼやいてたから
-モバイルバッテリーを買おうかなって
-明日奈
+So, I thought I'd get him a
+portable charger.
+Asuna
 650077_4_a
-決まってるよ
-最近キリトくん、持ち歩いてる
-デバイスとかのバッテリーが
-明日奈
+Totally! Kirito's been complaining
+about how all his gizmos'
+batteries run out all the time.
+Asuna
 650077_3_a
-明日奈
+Asuna
 650077_2_a
 bg_os_town_1
-それで候補は決まってるんですか?
+So, do you have any ideas of what
+you want to get him?
+Yui
 650077_1_a
-うん、そういうこと～
-明日奈
+I just hope he appreciates all
+the effort I put in for him.
+Asuna
 650075_14_a
-ああ、なるほど
-仮想世界とこちらで
-別のプレゼントを用意するんですね
+Oh, I see. You're getting him a
+present in VR and in the real
+world. That's very nice of you.
+Yui
 650075_13_a
-今日は現実世界での
-桐ヶ谷和人くんのためのプレゼント
-明日奈
+One for him in the real world!
+Mr. Kazuto Kirigaya needs a
+present too!
+Asuna
 650075_12_a
-で……また今日も買いに
-行くんですか?
+So, what sort of gift are you
+going to buy today?
+Yui
 650075_11_a
-ふふっ、パパ
-喜んでくれそうですね
+Hehe, I bet Daddy will love it!
+Yui
 650075_10_a
-野営したりすることがあるから、
-携帯寝袋でも
-あればいいんじゃないかと思ってね
-明日奈
+I thought that if he's going to
+rough it, he might as well bring
+along a sleeping bag.
+Asuna
 650075_9_a
-そうそう
-キリトくんALOを飛び回ってる最中に
-フィールドで昼寝したり
-明日奈
+Yeah. He's always zipping around
+and taking naps in weird places.
+Asuna
 650075_8_a
-はい、確かシュラフでしたよね
+You got him a sleeping bag, right?
+Yui
 650075_7_a
-うん、ALOでは買ったよ
-リーファちゃんにマフラーを
-譲った後で、別の物を見つけてね
-明日奈
+Yeah, but that was in ALO!
+I found this great gift after I
+let Leafa get dibs on that scarf.
+Asuna
 650075_6_a
-クリスマス……
-確か先日買ってませんでしたか?
+But didn't you just buy Daddy
+one the other day?
+Yui
 650075_5_a
-キリト君へのクリスマスプレゼントを
-買いに行くんだよ
-明日奈
+We're shopping for a Christmas
+present for Kirito!
+Asuna
 650075_4_a
-はい、でも今日は
-どこに出かけるんですか?
+Yup! But where are we off to
+today, Mommy?
+Yui
 650075_3_a
+Yui
 650075_2_a
 bg_os_town_1
-さて、じゃあ行こうか
-ユイちゃん
-明日奈
+Ready to go, Yui?
+Asuna
 650075_1_a
-はい、きっと気に入ると思います!
-リーファ
+Yeah, Kirito ALWAYS wears black.
+You can't go wrong if you get him
+something dark and dreary.
+Asuna
 650073_19_a
-うん、キリトくんって
-黒ばっかり身に付けたがるから
-それなら安心よね
-アスナ
+Yeah, seriously! This scarf suits
+him to a T. Black, but with just
+a hint of a stylish design to it.
+Leafa
 650073_18_a
-そうですね～
-このマフラー、黒を基調としつつも
-柄も入ってオシャレですよね
-リーファ
+Still, I'm impressed we both
+picked out the same thing! I guess
+we know our audience, huh?
+Asuna
 650073_17_a
-でもさすがはキリトくんの近い所に
-いる二人なだけあって、
-考えることは一緒なんだね
-アスナ
+It's okay, I don't mind. I'll just
+have to think of something else
+to give him.
+Asuna
 650073_16_a
-ううん、全然平気よ
-また考えればいいだけだし
-アスナ
+Are you sure you want to let me
+have this one, Asuna? You were
+here first.
+Leafa
 650073_15_a
-すみません、アスナさん
-先に選んでたのに
-譲ってもらっちゃって……
-リーファ
+Hehe, I can't believe we were
+both thinking of getting him the
+same present!
+Asuna
 650073_14_a
 bg_event_christmas_town
 ふふっ、
@@ -130233,114 +130421,118 @@ bg_event_christmas_town
 考えるなんてね～
 アスナ
 650073_13_a
-リーファ
+Leafa
 650073_12_a
-ええと、それは……
-えへへ……
-リーファ
+Hold up... It's not for who I
+think it is, is it?
+Asuna
 650073_11_a
-もしかして渡す相手って……
-アスナ
+Too?
+Leafa
 650073_10_a
-えっ、アスナさんも……?
-リーファ
+Hi there, Leafa! You're looking
+for scarves too?
+Asuna
 650073_9_a
-ええと、リーファちゃんも
-男物のマフラーを買いに来たの?
-アスナ
+Asuna?!
+Leafa
 650073_8_a
 あれ?
 アスナさん!?
-リーファ
+Leafa
 650073_7_a
-えっ……あっ!
-アスナ
+Hey, I know that voice!
+Asuna
 650073_6_a
-えーと、すみません
-このマフラーなんですけど
-見せてもらってもいいですか?
+Excuse me, but I'm looking for
+this scarf. Do you have one in
+stock that I can see up close?
 ???
 650073_5_a
-キリトくんにどれが
-一番似合いそうかなぁ……?
-うーん、悩んじゃう……
-アスナ
+But which one of these would look
+the best on him? Hmm... This is
+hard...
+Asuna
 650073_4_a
-わあ、どれも素敵……
-お店で実物を確認してみて良かったよ
-アスナ
+Wow, they're all so nice!
+I'm glad I came to see the
+real deal.
+Asuna
 650073_3_a
-アスナ
+Asuna
 650073_2_a
 bg_05_agil_shop
-こちらがお客様ご用命の
-マフラー三種になります
-ショップ定員
+Here are the scarves you wanted
+to see, ma'am. We have all three
+types in stock.
+Shopkeeper
 650073_1_a
-ちょっと行ってみよっと
-アスナ
+But it's probably good he came
+home. I should be doing this in
+person, anyway...
+Asuna
 650071_17_a
-でもリストで見るよりだけじゃなくて
-お店に行って実物を確かめたいし……
-アスナ
+It's not like I could just say I
+was shopping for his Christmas
+present or anything...
+Asuna
 650071_16_a
-今年キリトくんに渡したい
-クリスマスプレゼントを選んでた
-なんて言えるわけないもんね……
-アスナ
+Phew... That was close...
+Asuna
 650071_15_a
 bg_event_christmas_town
 ふう……
 危なかったぁ……
-アスナ
+Asuna
 650071_14_a
-そうか、ならいいけど……
-キリト
+Oh...kay? Have fun, I guess.
+Kirito
 650071_13_a
-そ、そうなんだけど
-買い忘れがあって……
-アスナ
+W-Well, yeah, but...
+I...forgot something?
+Asuna
 650071_12_a
-食材?
-昨日色々まとめて
-買いこんでたんじゃないのか?
-キリト
+Food shopping? Didn't you just go
+on a massive buying spree for
+that stuff yesterday?
+Kirito
 650071_11_a
-今夜の食材を買っておきたいと
-思ってたの
-アスナ
+I...need to buy some ingredients
+for tonight's dinner. Yeah,
+that's it.
+Asuna
 650071_10_a
-う、うん
-あっ、ちょっと今から出かけてくるね
-アスナ
+...Uh, I'm going to just...head
+out for a bit.
+Asuna
 650071_9_a
-そ、そうか
-キリト
+Oh. Cool.
+Kirito
 650071_8_a
-な、なんでもないよ
-防具ショップのリスト見てただけだよ
-アスナ
+Oh... Well, to answer your
+question, I'm looking at the
+equipment shop's item list.
+Asuna
 650071_7_a
-あ、ああ……
-キリト
+Uh, just now...?
+Kirito
 650071_6_a
-わっ!
-キリトくん、帰ってたの?
-アスナ
+Gah! Kirito?!
+When did you get home?!
+Asuna
 650071_5_a
-アスナ、なにをしてるんだ?
-キリト
+Hey Asuna, what are you doing?
+Kirito
 650071_4_a
-あっ、こっちの色合いも
-なかなかね……
-アスナ
+Wait, but I really like the color
+on this one...
+Asuna
 650071_3_a
-キリト
+Kirito
 650071_2_a
 bg_11_home_lounge
-うーん……
-これもいいかなぁ……
-アスナ
+Hmm... This could be nice...
+Asuna
 650071_1_a
 Rika
 650058_35_a
@@ -145690,420 +145882,503 @@ Asuna
 640011_1_a
 うん!
 ありがとう、キリト君!
-セブン
+Seven
 440048_27_a
 これまで少し歪だった姉妹関係を
 普通にしていけばいいんだよ
-キリト
+Kirito
 440048_26_a
 いやいや、ものは考えようさ
 二人はこれから姉妹として
-キリト
+Kirito
 440048_25_a
 ふふっ、キリトくん
 相変わらず口が上手いんだから
-アスナ
+Asuna
 440048_24_a
 わあっ……そういうこと!?
 それってなんか素敵ね!
-セブン
+Seven
 440048_23_a
 これからは普通の姉妹として
 仲良くできるってことさ
-キリト
+Kirito
 440048_22_a
 対してレインが自分の夢に向かって
 進み始めたのなら……
-キリト
+Kirito
 440048_21_a
 今セブンは博士として
 研究することに重きを置き、
 歌手のほうは引退した……
-キリト
+Kirito
 440048_20_a
 これまではレインにとってセブンは
 目標でもありライバルでもあったけど
-キリト
+Kirito
 440048_19_a
 えっ?
-セブン
+Seven
 440048_18_a
 違う、違う
 逆だよ
-キリト
+Kirito
 440048_17_a
 でもそれってあんまり
 仲良くしないほうがいいってこと?
-セブン
+Seven
 440048_16_a
 そ、そんなのわかってるわよ
 でも……うーん……うーん……
-セブン
+Seven
 440048_15_a
 レインはこうして一歩踏み出したんだ
 多分あいつはもう一人でも
 歩いていけると思うぜ
-キリト
+Kirito
 440048_14_a
 セブンはレインにとってのある意味
 目標だからアドバイスも
 しやすい間柄なんだろうけど……
-キリト
+Kirito
 440048_13_a
 ええっ!?
-セブン
+Seven
 440048_12_a
 はは、でもそろそろセブンも
 先輩歌手としての立場は
 卒業したほうがいいかもな
-キリト
+Kirito
 440048_11_a
 も、もう泣かないわよ!
-セブン
+Seven
 440048_10_a
 ライブが終わるころには
 クシャクシャにして
 泣いてるんじゃないかな?
-アスナ
+Asuna
 440048_9_a
 ふふっ、セブンちゃん
 また最初はそんなこと言って
-アスナ
+Asuna
 440048_8_a
 そうね
 あとは自信がもっと付けば
 言うことなしなんだけどね～
-セブン
+Seven
 440048_7_a
 現実でもこうやって
 自分を高められるものが
 あるんだからな……
-キリト
+Kirito
 440048_6_a
 ああ、レインはやっぱりすごいよ
 プレイヤーとして
 実力があるだけじゃなく……
-キリト
+Kirito
 440048_5_a
-セブン
+Seven
 440048_4_a
-キリト
+Kirito
 440048_3_a
 すごい盛り上がりだね……
-アスナ
+Asuna
 440048_2_a
 bg_event_idol_stage
 ヘイッ!　ヘイッ!
 フーッ!!
+Audience
 440048_1_a
 行ってらっしゃい、お姉ちゃん!
 ファーストライブの追加公演、
 がんばってね!
-セブン
+Seven
 440047_26_a
-セブン
+Seven
 440047_25_a
 うん!
 じゃあ……行ってくるね!
-レイン
+Rain
 440047_24_a
 はい!
 冒頭の音楽流しますね!
-シリカ
+Silica
 440047_23_a
 レイン!
 ステージの準備は整ったわよ
+Liz
 440047_22_a
-レイン
+Rain
 440047_21_a
 ふぅん、まぁいいわ
 時間の問題だと思うけどね～
-セブン
+Seven
 440047_20_a
 今はそれでいいと思うぜ
-キリト
+Kirito
 440047_19_a
-アスナ
+Asuna
 440047_18_a
 はは、そうだよな
 リアル割れは別の意味で
 色々問題を抱えてるし、
-キリト
+Kirito
 440047_17_a
 そ、それはまだダメ!
 ちゃんと変装するつもりだからね!
-レイン
+Rain
 440047_16_a
 ふふっ、じゃあやっぱり
 そのままのアバターで出ちゃう?
-セブン
+Seven
 440047_15_a
 みんなには感謝してるよ
-レイン
+Rain
 440047_14_a
 また歌える機会がもらえて……
 それはすごく……嬉しいな……
-レイン
+Rain
 440047_13_a
-セブン
+Seven
 440047_12_a
 そうだね……あのクリスマスライブ、
 一回きりで燃え尽きるつもり
 だったけど……
-レイン
+Rain
 440047_11_a
 ふふっ、でも嬉しいね
 みんなあの動画を見て
 こうして駆けつけてくれたのよね
-アスナ
+Asuna
 440047_9_a
-キリト
+Kirito
 440047_10_a
 なにを言ってるのよ!
 ここまでお膳立てしたんだから
 今更ジタバタしないで
-セブン
+Seven
 440047_8_a
-セブン
+Seven
 440047_7_a
 わわっ……ホントだ
 緊張させないでよぉ……
-レイン
+Rain
 440047_6_a
 あんなにプレイヤーが集まってるぜ
-キリト
+Kirito
 440047_5_a
-アスナ
+Asuna
 440047_4_a
 おっ、レイン
 ステージ袖から見てみろよ
-キリト
+Kirito
 440047_3_a
-セブン
+Seven
 440047_2_a
 bg_event_christmas_town
 ………………
-レイン
+Rain
 440047_1_a
 お姉ちゃん、ここまでやったなら
 後は前のめりに行くだけよ!
 色々と考えてみましょう!
+Nanairo
 440045_33_a
+Nanairo
 440045_32_a
+Rika
 440045_31_a
 ……な、なるほど
+Nijika
 440045_30_a
 うん、変身魔法とかでも
 やりようあるんじゃないかな?
-明日奈
+Asuna
 440045_29_a
-明日奈
+Asuna
 440045_28_a
+Keiko
 440045_27_a
 ALOで変装したいなら
 もっと色々変えられるだろ
+Kazuto
 440045_26_a
 あくまで現実の歌手として
 勝負したいの?
 うーん、じゃあ仮面でも付けるとか?
+Nanairo
 440045_25_a
 最近レインの名前のほうはALOでは
 知られてきてるから、
 売名になりそうだし……
+Nijika
 440045_24_a
 うーん、それでもこのライブの新人、
 イコール、レインだとは
 まだ知られなくないな……
+Nijika
 440045_23_a
 でもさっき映像であたしと
 一緒にいるところ映っちゃったでしょ
+Nanairo
 440045_22_a
 で、でもわたし……
 ナナと違ってリアル割れしてないから
 それは難しいよ?
+Nijika
 440045_21_a
+Rika
 440045_20_a
+Nijika
 440045_19_a
 あはは～
 ゴメンね、マスター
+Nanairo
 440045_18_a
 はいはい、悪かったな……
 マスター
 440045_17_a
+Rika
 440045_16_a
+Nijika
 440045_15_a
 音響設備や観客席だって
 ここよりもっと充実してるし
+Nanairo
 440045_14_a
 仮想世界ならステージの
 キットがあるから
 ライブするなんて簡単よ
+Nanairo
 440045_13_a
 えっ!?
+Nijika
 440045_12_a
 そんなの簡単よ
 仮想世界で同じセットリストで
 やればいいのよ!
+Nanairo
 440045_9_a
+Rika
 440045_11_a
+Nijika
 440045_10_a
-明日奈
+Asuna
 440045_8_a
+Keiko
 440045_7_a
 なるほど……まぁそうなるか
+Kazuto
 440045_6_a
 意見ってのはこれだけすごい
 ライブならもっとオープンな所で
 やって欲しかったって希望ね
+Rika
 440045_5_a
 この会場って小さいし、
 ほとんど身内のライブみたいな
 ものでしょう?
+Rika
 440045_4_a
+Nanairo
 440045_3_a
+Nijika
 440045_2_a
 bg_16_pub
 あっ、いやそんな否定的な
 意見ってわけじゃないんだけど
+Rika
 440045_1_a
 えっ……?
+Nijika
 440043_36_a
 うーん、でもちょっと
 不満コメントがあるわね……
+Rika
 440043_35_a
 ふふっ、ありがとう
+Nijika
 440043_34_a
 そんなことないわ!
 今のライブを盛り上げたのは
 明らかにお姉ちゃんの力よ!
+Nanairo
 440043_33_a
+Rika
 440043_32_a
+Nanairo
 440043_31_a
 まぁ知名度が全然違うし、
 元プロが突如無名の新人のライブに
 乱入すれば、そりゃあね
+Nijika
 440043_30_a
-明日奈
+Asuna
 440043_29_a
+Keiko
 440043_28_a
 やっ、やっぱりそうか……
+Kazuto
 440043_27_a
+Rika
 440043_26_a
+Nanairo
 440043_25_a
 ああ、わかってるよ
 途中でナナが飛び入り参加したのが
 一番盛り上がった理由だよね
+Nijika
 440043_24_a
 なあ、このコメントとか見てるとさ
 ちょっと水を差すようで
 悪いんだけど……
+Kazuto
 440043_23_a
-明日奈
+Asuna
 440043_22_a
+Keiko
 440043_21_a
 ………………
+Kazuto
 440043_20_a
 は、恥ずかしいのは
 変わらないけどねぇ……
+Nijika
 440043_19_a
 おおっ、奥手のお姉ちゃんが
 成長したねぇ～
+Nanairo
 440043_18_a
 やっぱりこうして広めていく
 努力をしないとプロの歌手なんて
 とてもなれないからね
+Nijika
 440043_17_a
+Rika
 440043_16_a
+Nanairo
 440043_15_a
 あっ、うん
 わたしがOKしたんだよ
+Nijika
 440043_14_a
+Kazuto
 440043_13_a
+Keiko
 440043_12_a
 配信してたの!?
 いいの?
-明日奈
+Asuna
 440043_11_a
+Nanairo
 440043_9_a
 えっ……わわっ!
 確かに……
+Nijika
 440043_8_a
+Rika
 440043_10_a
-明日奈
+Asuna
 440043_7_a
+Kazuto
 440043_6_a
 さっきのライブの様子を
 生配信してた映像ですね……わっ!
 閲覧数とコメントがすごいことに……
+Keiko
 440043_5_a
 どうしたの、里香っち
+Nijika
 440043_4_a
+Nanairo
 440043_3_a
+Nijika
 440043_2_a
 bg_16_pub
 ちょっとちょっと～
 これ見て!
+Rika
 440043_1_a
 うん!
 最高だったよ!
-明日奈
+Asuna
 440041_24_a
-明日奈
+Asuna
 440041_23_a
+Keiko
 440041_22_a
 虹架の歌声、良かったぜ
+Kazuto
 440041_21_a
+Nanairo
 440041_20_a
 ナナ、ありがとう
 みんなも声援ありがとう
+Nijika
 440041_19_a
 お姉ちゃん～
 お疲れさま～
 うわ～ん～
+Nanairo
 440041_18_a
 ふふっ、みんな
 うちの妹をあんまり虐めないであげて
+Nijika
 440041_17_a
 う、うるさいわねー!
+Nanairo
 440041_16_a
-明日奈
+Nanairo
 440041_15_a
+Kazuto
 440041_14_a
 ああ、普段の大人ぶってるのも
 これくらいなら可愛いんだけどなぁ
+Asuna
 440041_13_a
 ふふっ、七色さん
 姉想いのイイ子ですね～
+Keiko
 440041_12_a
 でしょうね
 想いが溢れて堰を切ったように
 感動が表に飛び出しちゃったとか
+Rika
 440041_11_a
+Rika
 440041_9_a
 ふふっ、最初は
 意地張ってたんじゃないのかな?
-明日奈
+Asuna
 440041_8_a
+Keiko
 440041_10_a
 いや、良かったとは思うけど……
+Kazuto
 440041_7_a
 お姉ちゃんのライブ!
 すごい良かったでしょ!
+Nanairo
 440041_6_a
 おいおい……
 ライブ始まった頃は辛らつだったのに
 いつのまに涙腺崩壊してんだよ……
+Kazuto
 440041_5_a
+Kazuto
 440041_4_a
 お姉ちゃん……
 お姉ちゃん……
 サイコーだったぁ……えぐっ……
+Nanairo
 440041_3_a
 ひゅーっ!
 良かったよーっ!!
+Audience
 440041_2_a
 bg_16_pub
 ありがとうございましたー!
+Nijika
 440041_1_a
 Right!
 Asuna, Kirito...
@@ -152729,440 +153004,457 @@ Yuuki
 だからあのお家も扉が
 閉まっていたんですね
 250088_29_a
-ほら、今はクリスマスだし
-サンタさんの代わりとか……でね
-アスナ
+Hehe, maybe!
+Asuna
 250088_28_a
-きっと誰かに聞いた噂話とかで
-情報を手に入れて、最終的に
-薬をあの家の届けるんじゃないかな?
-アスナ
+Ah, I see. Perhaps that had
+something to do with why
+the door was locked?
+Yui
 250088_27_a
-ですがアリスさんと会話が
-発生しなかった場合、どうやったら
-クリアになったのでしょう?
+It is Christmas, after all.
+Someone's always willing
+to play Santa!
+Asuna
 250088_26_a
-あの女の子NPCのクエストを
-無事にクリアできたようですね
+I'm sure someone would have
+discovered it eventually and
+brought her that medicine.
+Asuna
 250088_25_a
-うん、わたしがしゃしゃり出るのも
-変かなと思って
-しばらく見ていようと思ったの
-アスナ
+But if Alice never approached her
+in the church, would the quest
+ever have been finished?
+Yui
 250088_24_a
-お二人の様子を見ていたんですね
+I personally was surprised that
+they managed to complete that
+girl's quest.
+Yui
 250088_23_a
-でも良かった……
-アスナ
+Yeah... I didn't want to butt in,
+especially during that long talk
+on the nature of the divine...
+Asuna
 250088_22_a
+Yui
 250088_21_a
-はあ……
-なんだかハラハラしちゃった……
-アスナ
+But I guess it all ended up okay?
+Asuna
 250088_20_a
 そうだね
-ユージオ
+Yui
 250088_19_a
-これからあの幼子は自分の力で
-人生といういばらの道を
-切り開いていってほしいものです
-アリス
+sigh
+... That was nerve-wracking.
+Asuna
 250088_18_a
-そのようですね……
-まぁこれも整合騎士の
-気まぐれのようなもの
-アリス
+I suppose so, yes.
+Eugeo
 250088_17_a
-そっか、彼女にとっては
-アリスが神様みたいになっちゃったね
-ユージオ
+I just hope that girl learns how
+to forge her own destiny, rather
+than placing her faith in others.
+Alice
 250088_16_a
-本当は叱責の一言でもと思って
-いましたが、家の扉が閉まっている
-ようだったので、置いてきました
-アリス
+She'd probably be quite shocked.
+Hmph. This is just one of the many
+duties of an Integrity Knight.
+Alice
 250088_15_a
-ですが変わった様子はなかったので
-手っ取り早く済ませただけです
-アリス
+I see... Imagine how surprised
+she'd be if she realized it was
+you who gave her that medicine.
+Eugeo
 250088_14_a
-いえ、あの幼子には神などに頼らず
-現実を見て行動してほしかったのです
-アリス
+And while I would love to scold
+her for her misplaced faith, the
+door is locked. Maybe another day.
+Alice
 250088_13_a
-アリス……
-君は最初から
-そうするつもりだったのかい?
-ユージオ
+But since my words seemed to have
+no effect, I was forced to take
+extreme measures.
+Alice
 250088_12_a
-まだ予断は許しません
-父親が回復したかどうか
-近いうちにまた確認に来ます
-アリス
+No. I wanted that child to take
+matters into her own hands,
+and not rely on a miracle.
+Alice
 250088_11_a
-ふふっ、喜んでるみたい
-良かったね
-ユージオ
+Alice... You planned on doing this
+from the beginning, didn't you?
+Eugeo
 250088_10_a
 bg_11_church_alley
-………………
-アリス
+It's too early to know if that
+medicine will help. I'll return
+soon to check in on them.
+Alice
 250088_9_a
-ユージオ
+Eugeo
 250088_8_a
-アリス
+Eugeo
 250088_7_a
-ああ、やっぱり神様は見ていて
-くれたのね……あたしの祈りが
-届いたんだわ!
-子供NPC
+...
+Alice
 250088_6_a
-これがあれば
-お父さんもきっと治せる!
-子供NPC
+I knew it! God is watching over
+us, after all! He heard my
+prayers and gave me this miracle!
+Child
 250088_5_a
-あれ、なにか落ちてる……
-これは……お薬だわ!
-子供NPC
+This is just what Daddy needs!
+Now he'll get better for sure!
+Child
 250088_4_a
-はぁい……
-えっ?　誰もいない……
-子供NPC
+What's that on the ground...
+Medicine?!
+Child
 250088_3_a
 250088_2_a
 bg_21_alne_inn
-お父さん……
-早く良くなって……
-子供NPC
+Daddy... Get better soon, okay?
+Child
 250088_1_a
-………………
-アリス
+...
+Alice
 250087_21_a
-そ、そうだけどさ
-あんな子供に現実を突きつけなくても
-いいと思うけど……
-ユージオ
+Yeah, but that doesn't mean you
+have to rub it in the face of a
+troubled child...
+Eugeo
 250087_20_a
-この世界の神は万能ではないと
-言ったのはお前のほうではないですか
-アリス
+You were the one who told me that
+the gods of this world aren't
+omnipotent...
+Alice
 250087_19_a
-アリス、言い過ぎじゃないかな
-君の言いたいことはわかるけど……
-ユージオ
+Alice, I know you were trying to
+help, but that was cruel.
+Eugeo
 250087_18_a
-あっ……
-アリス
+Ah...
+Alice
 250087_17_a
-ああっ……行っちゃった
-ユージオ
+Annnd she ran away crying...
+Eugeo
 250087_16_a
-……えっ?
-アリス
+...Huh?
+Alice
 250087_15_a
-お、お、お……
-お姉ちゃんのバカーっ!!
-子供NPC
+I...you...! I HATE YOU, LADY!!
+YOU'RE A TERRIBLE PERSON!!
+Child
 250087_14_a
-そんなあやふやなものに頼らず
-自分の力で道を切り開くことは
-できないのですか?
-アリス
+Are you so weak that you must rely
+on mere hope? Do you not have the
+power to help yourself?
+Alice
 250087_13_a
-神様はちゃんとあたしたちの願いを
-叶えてくれるもん!
-お祈りを聞き届けてくれるもん!
-子供NPC
+God will answer my prayers, I just
+know it! He'll make everything
+okay!!
+Child
 250087_12_a
-そ、そんな……
-そんなことないもん!
-子供NPC
+N-No! I don't believe you!!
+Child
 250087_11_a
-ちょ、ちょっとアリス……
-ユージオ
+A-Alice, that was uncalled for...
+Eugeo
 250087_10_a
-……!
-子供NPC
+...
+Child
 250087_9_a
-ユージオ
+Eugeo
 250087_8_a
-こんな所で祈っている暇があるのなら
-父の下へと戻り看病をするなり
-もっと時間を有効に使いなさい
-アリス
+Rather than waste your time here
+praying for a miracle, go to his
+side and comfort him.
+Alice
 250087_7_a
-えっ!?
-子供NPC
+No way?!
+Child
 250087_6_a
-私の理解する範囲ですが……
-この世界の神はお前の父親のことを
-治すことなどはありません
-アリス
+From what I know of your world,
+your god lacks the power to heal
+your father.
+Alice
 250087_5_a
-私のことなどどうでもいいのです
-アリス
+Who I am is of no import.
+Alice
 250087_4_a
-えっ?
-お姉ちゃん……誰?
-子供NPC
+Oh, uh...are you talking to me?
+Who are you, lady?
+Child
 250087_3_a
-ユージオ
+Eugeo
 250087_2_a
 bg_12_church_lounge
-そこの幼子
-アリス
+You there, child.
+Alice
 250087_1_a
-………………
-アリス
+...
+Alice
 250085_23_a
-あの子は父親の病気が治るように
-キリスト神に祈っているみたいだね
-ユージオ
+Her father's sick...
+That's so sad...
+Eugeo
 250085_22_a
-……!
-アリス
+...
+Alice
 250085_21_a
-どうか……
-お父さんの病気が
-治りますように……
-子供NPC
+Please, God... Cure my father...
+Child
 250085_20_a
-ん、あそこで子供が一人
-祈りを捧げてるみたいだね
-ユージオ
+Hey, I think that kid over there
+is praying.
+Eugeo
 250085_19_a
-そのようですね……
-教会という名のつく施設なだけあり
-なぜかここにいると落ち着きます……
-アリス
+Apparently, yes. It definitely
+feels like a church. It's so...
+peaceful here...
+Alice
 250085_18_a
-この教会も元々はキリストを
-崇めるための施設だったらしいね
-ユージオ
+I understand that this is a
+Christian church.
+Eugeo
 250085_17_a
 bg_12_church_lounge
-………………
-アリス
+...
+Alice
 250085_16_a
-ユージオ
+Eugeo
 250085_15_a
-アリス
+Alice
 250085_14_a
-そ、そうそう
-あまり深く考え込まないでよ
-ユージオ
+Y-Yeah, maybe... Don't read too
+much into it. It was just a
+thought, after all...
+Eugeo
 250085_13_a
-……確かに今のお前に言っても
-詮無きことですね……
-アリス
+Hmm... I suppose I took your words
+too seriously.
+Alice
 250085_12_a
-えっ、ちょっとアリス……?
-怒った?
-だから軽い気持ちで聞いてって……
-ユージオ
+Er, Alice? You're not angry at me,
+are you? It was an innocent
+question...
+Eugeo
 250085_11_a
-アドミニストレータ様を
-侮辱することは許しません……
-アリス
+I will not tolerate any blasphemy
+against the Administrator, Eugeo.
+Alice
 250085_10_a
-そこまでは言ってないよ
-ただ神への信心と依存をはき違えては
-いけないと思っただけで……
-ユージオ
+No, I didn't mean that. I'm just
+trying to figure out why people's
+faith weakens...
+Eugeo
 250085_9_a
-まるで神という存在自体……
-我々の世界の神までも
-万能ではないと言うつもりですか?
-アリス
+But you make it sound like gods
+both here AND in our world are
+flawed, and not omnipotent.
+Alice
 250085_8_a
-なんですか、その言い草は?
-確かにこの世界の神々は
-そうかもしれませんが……
-アリス
+Eugeo, hold it right there. Yes,
+it does seem like there are many
+gods in this world...
+Alice
 250085_7_a
-だからこその多神にも
-なるんじゃないのかな
-ユージオ
+I guess that's why there are so
+many gods here. But we have
+a lot in our world too, so...
+Eugeo
 250085_6_a
-信仰して裏切られるからこそ
-神格化されたものが揺らぎ、
-別のものを崇拝する者が出てくる……
-ユージオ
+If you think a god can solve all
+your problems, but it can't, you
+might start believing in another.
+Eugeo
 250085_5_a
-なに?
-アリス
+You're treading on dangerous
+ground, Eugeo... What are you
+getting at?
+Alice
 250085_4_a
-この世界では神に対する信心深さが
-薄いということは、神が万能ではない
-ということじゃないかな
-ユージオ
+But I feel like faith in the
+divine grows weak only if
+that god isn't omnipotent.
+Eugeo
 250085_3_a
-アリス
+Alice
 250085_2_a
 bg_10_kob_room
-でも覚えていないからこその軽口……
-という前提で聴いてほしいんだけど
-ユージオ
+But yeah, I don't really remember
+what it was like in our world. So,
+forgive me if I offend...
+Eugeo
 250085_1_a
-なるほどね……
-ユージオ
+Er... Maybe you shouldn't leap
+to conclusions?
+Eugeo
 250083_24_a
-この世界に存在する神々……
-そして信仰心は
-神の名を貶めているに他なりません
-アリス
+The way they worship their gods
+here seems cursory and crude.
+They sully their gods' name.
+Alice
 250083_23_a
-あの方への信仰心は
-この世界のどんな神に対してよりも
-崇高で気高いものです
-アリス
+And our people are far more devout
+and pious than anyone I've met
+here.
+Alice
 250083_22_a
-お前は覚えていないでしょうが
-我々の世界において
-現存する神である最高司祭様……
-アリス
+I doubt you remember, but in
+our world, we have a living god:
+the High Priest.
+Alice
 250083_21_a
-まぁ、そうかもね……
-ユージオ
+Yeah, I get that feeling too...
+Eugeo
 250083_20_a
-ええ、このクリスマスに至っては
-神の生誕祭をただの騒ぐための
-お祭りのように扱っています
-アリス
+No, they don't. Especially this
+Christmas. For a sacred event, it
+seems rather loud
+and commercial.
+Alice
 250083_19_a
-あまり信心深くないということ?
-ユージオ
+Yeah... Their rituals don't seem
+as strict as ours.
+Eugeo
 250083_18_a
-どうもこの世界で神と称される者は
-我々の知る神とは扱われ方が
-異なるようです
-アリス
+However, it seems that the people
+here have a very different
+relationship with their deities.
+Alice
 250083_17_a
-我々の世界にもステイシアやソルス
-数多く神は存在しますが……
-アリス
+Well, we worship many gods in our
+world too. Stacia, Solus...
+Alice
 250083_16_a
-多神という考え方なのかな
-あっ、キリトは八百万という言い方も
-していたような……
-ユージオ
+It seems polytheism is common
+here. I just learned that word!
+It means "worshipping many gods."
+Eugeo
 250083_15_a
-過去の偉大な人物が
-長い時間を経て神のように
-扱われている……ということだからね
-ユージオ
+Hmm... I suppose that over time,
+this holy figure of Christ was
+elevated to the status of godhood?
+Eugeo
 250083_14_a
-確かに……異世界神ウルズも神だし
-そのキリストという人物に至っては、
-ユージオ
+That's a good point. We even
+met that one goddess, Urdr.
+Eugeo
 250083_13_a
-ここでしばらく過ごしてきましたが
-神と呼ぶべき存在が
-幾つもあることが確認できます
-アリス
+I find it interesting that during
+our time here, we've learned of a
+number of entities called "gods."
+Alice
 250083_12_a
-そのようですね
-アリス
+It appears so. The faithful even
+believe Christ is divine:
+God, or part of Him, anyway.
+Alice
 250083_11_a
-へえ……思想の起源者か……
-つまり歴史によって神格化された
-人物……ということなのかな
-ユージオ
+Wow, so he was a sort of prophet?
+I guess he must be pretty revered
+then, huh?
+Eugeo
 250083_10_a
-なにやらキリストと呼ばれた男は
-その後世界に広まる、ある思想を
-作り出した人間ということで……
-アリス
+Christ was a man who developed
+a religious ideology that spread
+like wildfire across the world.
+Alice
 250083_9_a
-はい、元々はイエス・キリストという
-過去の人物が生誕した日に
-ちなんで作られた行事のようです
-アリス
+Yes, I did. Originally, Christmas
+was held to celebrate a historical
+figure's birthday.
+Alice
 250083_8_a
-アリスはどういうものなのか
-わかったかい?
-ユージオ
+Did you learn anything
+interesting?
+Eugeo
 250083_7_a
-ああ、アリスも同じことが
-気になっていたんだね
-実は僕も調べに来たんだよ
-ユージオ
+Ahh, what a coincidence! So did I!
+I was really curious to find out
+what all the fuss was about.
+Eugeo
 250083_6_a
-ええ、クリスマスの起源について
-調べていました
-アリス
+That's correct. I came here to
+look into the origins of this
+world's holidays, like Christmas.
+Alice
 250083_5_a
-なにか調べもの?
-ユージオ
+Are you here to research
+something?
+Eugeo
 250083_4_a
-ユージオ
-お前も来ていたのですね
-アリス
+Ah, hello Eugeo. I didn't know
+you were here too.
+Alice
 250083_3_a
-アリス
+Alice
 250083_2_a
 bg_10_kob_room
-やあ、アリス
-こんなところでどうしたの?
-ユージオ
+Hey, Alice. What are you up to?
+Eugeo
 250083_1_a
-せっかくですしクリスマスとやらの
-行事についてもう少し
-調べてみることにしますか……
-アリス
+Hmm... I suppose that while I'm
+here, I might as well learn more
+about their customs and beliefs.
+Alice
 250081_15_a
-キリスト様が生まれた……?
-どういうことでしょう……?
-アリス
+Our Lord and Savior?
+What are they talking about?
+Alice
 250081_14_a
-はーい
-子供NPC
+Yeah, I know...
+Child
 250081_13_a
-クリスマスはキリスト様が生まれた日
-この素晴らしき奇跡の時を、
-感謝することを忘れてはダメよ
-大人NPC
+Christmas is a special day where
+we celebrate the birth of Christ,
+our Lord and Savior.
+Adult
 250081_12_a
-コラッ、プレゼントのことばかり
-考えていてはいけないわ
-大人NPC
+Now now, Christmas is about more
+than just presents.
+Adult
 250081_11_a
-わーいわーい!
-今年のプレゼントは
-なににしようかな!
-子供NPC
+Yay! Yippee! Woohoo!
+It's Christmas! I wonder
+what I'll get this year!
+Child
 250081_10_a
 bg_event_christmas_town
-………………
-アリス
+...
+Alice
 250081_9_a
-アスナ
+Asuna
 250081_8_a
-ええ、わかっています
-アリス
+I will be sure not to push myself.
+Alice
 250081_7_a
-そっか……
-くれぐれも無理はしないでね
-アスナ
+Okay, I'm just glad you're not
+coming down with a cold. Have
+fun, but take it easy!
+Asuna
 250081_6_a
-少し外を歩けばむしろ天命の力も
-漲ってくるかもしれませんし
-アリス
+A relaxing walk outside might help
+restore strength to my tired
+limbs.
+Alice
 250081_5_a
-はい、連戦の疲れが出ただけです
-問題ありません
-アリス
+I am healthy, merely a bit weary
+from our many battles.
+Alice
 250081_4_a
-アリスさん……
-体調は大丈夫?
-アスナ
+Are you feeling okay, Alice?
+Asuna
 250081_3_a
-アスナ
+Asuna
 250081_2_a
 bg_11_home_lounge
-アスナ
-少し外の空気を吸ってきます
-アリス
+Asuna, I need to go outside and
+take in the air.
+Alice
 250081_1_a
 Ha ha, of course. Duh?
 Kirito
@@ -172010,449 +172302,454 @@ It's been a month since SAO
 began.
 Kirito
 201001_1_a
-ありがとう、アリス……!
-ユージオ
+Thank you, Alice! Woohoo!
+Eugeo
 150088_33_a
-ユージオ
+Eugeo
 150088_32_a
-そういう考えも……
-無きにしも非ずですね……
-仕方ありません……
-アリス
+I...suppose that is a...somewhat
+valid way of looking at things...
+Very well. We may play.
+Alice
 150088_31_a
-そうだな、出会っていなければ
-そもそも思い出も作れないもんな
-キリト
+Asuna's right. Don't focus on the
+negative, think of the positive!
+Make happy memories while you can!
+Kirito
 150088_30_a
-ここにいる全員にとって
-良い思い出になると思うから……
-アスナ
+Besides, I think they'll treasure
+the time they got to spend with
+you.
+Asuna
 150088_29_a
-確かにいつかくる別れは辛いかも
-しれないけど、
-きっとそれを乗り越えたとき……
-アスナ
+I know that saying goodbye hurts,
+but I think these kids can handle
+it when the day comes.
+Asuna
 150088_28_a
-キリト
+Kirito
 150088_27_a
-ふふっ、いいじゃないアリスさん
-少しくらいは……
-アスナ
+Hehehe, I think we can play for
+just a liiittle bit longer, right?
+Asuna
 150088_26_a
-も、もう私は遊んだりはしないと……
-アリス
+H-Hey, I thought I said it was
+time to go home! Where are you
+Come back here this instant!
+Alice
 150088_25_a
-アリスお姉ちゃんも
-いっしょにだよ!
-子供C
+Alice, you too! Let's play!
+Child C
 150088_24_a
-ユージオお兄ちゃんも
-あたしたちとあそぼ!
-子供B
+Eugeo, come play with us!
+Child B
 150088_23_a
-うん、迷惑かけたね……
-アリス……
-ユージオ
+I... You... But...
+sigh
+I really blew it, didn't I?
+Eugeo
 150088_22_a
-本人たちから直接聞きました
-それなら最初から私にそれを
-言ってくれればいいのです
-アリス
+They told me about that when they
+saw me watching their children.
+You should have said something.
+Alice
 150088_21_a
-ユージオ、お前はしばらくこの子らの
-親の代わりに世話を焼くつもり
-だったのでしょう?
-アリス
+I was not proposing you abandon
+your duties, or break your promise
+to their parents.
+Alice
 150088_20_a
-ええ、だからこそ近づき過ぎず
-遠目から見守っていました
-アリス
+Yes, stay away from them. As in,
+watch over them from a distance,
+but still within sight.
+Alice
 150088_19_a
-えっ、でも僕には
-近づきすぎるなって言ったのに……
-ユージオ
+N-Now hold on, you were the one
+who told me to stay away from
+them...
+Eugeo
 150088_18_a
-今日も街から出かけていこうと
-するのを見てすぐに追いかけました
-アリス
+When I saw them heading out of
+town, I quickly followed to ensure
+their safety.
+Alice
 150088_17_a
-あの後は私がこの子らの様子を
-時々見ていたのです
-アリス
+Because you shirked your duty and
+didn't keep an eye on them, I had
+to do it myself.
+Alice
 150088_16_a
-たまたまです
-お前が子供たちのことを
-放っておくから、
-アリス
+It was mere chance I ran across
+them. You were irresponsible to
+let them out of your sight.
+Alice
 150088_15_a
-アリスが子供たちを
-見つけてくれてたんだね……
-ユージオ
+Alice, you found them!
+Oh, I'm so relieved...
+Eugeo
 150088_14_a
-遅いですよ、ユージオ
-アリス
+You're late, Eugeo.
+Alice
 150088_13_a
-わーっ!
-ユージオお兄ちゃんだー!
-子供A
+Yaaay! It's Eugeo!
+Eugeo, come play with us!!
+Child A
 150088_12_a
-アリス
+Alice
 150088_11_a
-おーい、みんなぁ!
-って……ええっ!?
-アリス!?
-ユージオ
+Kids, we've been looking all over
+ALICE?! What are you doing here?!
+Eugeo
 150088_10_a
-子供たちが!
-アスナ
+It's the missing kids!
+Asuna
 150088_9_a
-アスナ
+Asuna
 150088_8_a
-あっ、あそこに!
-キリト
+Look, over there!
+Kirito
 150088_7_a
-はあ……
-何故こんなことに……
-アリス
+sigh
+... How did I end up doing
+this again?
+Alice
 150088_6_a
-イヤだよ!
-もっとアリスお姉ちゃんと
-あそんでたいよ!
-子供C
+No, I dun wanna! I wanna play
+more with you, Alice!
+Child C
 150088_5_a
-……そろそろ帰りますよ
-アリス
+Now, kids, it's time to head home.
+Alice
 150088_4_a
-ええっ!
-お花あつめがいいよー!
-子供B
+No, that's boring!
+I wanna go pick flowers!
+Child B
 150088_3_a
-アリス
+Alice
 150088_2_a
 bg_01_field
-じゃあこんどは鬼ごっこねー!
-子供A
+I wanna play tag next!
+Child A
 150088_1_a
-ああ!
-キリト
+And we'll help you do it!
+Kirito
 150087_24_a
-そっか、僕は……
-ちゃんと彼らを守らなくちゃ……!
-ユージオ
+I...didn't think of that...
+Oh no, what have I done!
+I have to find them!
+Eugeo
 150087_23_a
-……!
-ユージオ
+...
+Eugeo
 150087_22_a
-とはいえ子供たちが外に出て行った
-のはお前が面倒を見てなかったから
-だって考えることもできるんだぞ?
-キリト
+Yeah, but would those kids have
+gone missing if you were there
+to watch out for them?
+Kirito
 150087_21_a
-でも子供たちとの別れが
-辛くなるのは……僕も同じだから
-ユージオ
+My reasons don't change the fact
+that she was right...
+Eugeo
 150087_20_a
-うん、そうすれば
-アリスさんもわかってくれと思うよ
-アスナ
+Yeah, I'm sure she would've left
+you alone if she knew...
+Asuna
 150087_19_a
-そういう理由があるなら、
-アリスに伝えればよかったじゃないか
-キリト
+Oh, seriously? Why didn't you just
+tell Alice that?
+Kirito
 150087_18_a
-だから大人に構ってもらえなくて
-可哀想だと思って、代わりに僕が
-ちょっと遊んであげてたって感じかな
-ユージオ
+That's why they asked me to play
+with them and keep them company.
+Eugeo
 150087_17_a
-彼らの親がね
-最近クリスマスの準備で
-すごく忙しいらしいんだよ
-ユージオ
+Their parents were really busy
+getting ready for Christmas, so
+they couldn't keep an eye on them.
+Eugeo
 150087_16_a
 アスナ
 150087_15_a
-ちなみにユージオ……
-あの子供たちとはどうやって
-知り合ったんだ?
-キリト
+Hey Eugeo, I have a question...
+How did you meet those kids,
+anyway?
+Kirito
 150087_14_a
-ああ、もちろんだ!
-キリト
+I'm always ready!
+Kirito
 150087_13_a
-うん!
-二人ともすぐ行ける?
-アスナ
+Yeah! Are you both ready to head
+out, or do you need a minute?
+Asuna
 150087_12_a
-た、助けに行かなきゃ!
-ユージオ
+Come on, we've got to find them!
+Eugeo
 150087_11_a
-プレイヤーである俺とアスナに
-クエスト発生の告知が来たってことか
-キリト
+Asuna and I chatted with them, so
+that could explain why this just
+appeared in our quest log...
+Kirito
 150087_10_a
-これは……
-ユージオが仲良くしてた子供たちに
-関する新たなシナリオなのか……?
-キリト
+Hmm... Do you think this quest has
+something to do with those kids
+Eugeo was playing with?
+Kirito
 150087_9_a
-おっ……
-俺のほうにもクエスト発生してる!
-キリト
+Totally! And hey, the quest
+triggered for me too!
+Kirito
 150087_8_a
-子供たちってもしかして……!
-ユージオ
+Children have gone missing?!
+We have to save them!
+Eugeo
 150087_7_a
-クエストが?
-しかも街の子供?
-なんか漠然としてるな……
-キリト
+It's a quest to find lost kids?
+That's kind of...vague?
+Kirito
 150087_6_a
-さっき突然クエストが発生したの!
-街の子供たちがフィールドに出て
-行方不明になったって!
-アスナ
+A quest just popped up!
+Apparently, some kids left town,
+and no one's seen them since!
+Asuna
 150087_5_a
-アスナ?
-どうしたんだ?
-キリト
+What's the problem, Asuna?
+Kirito
 150087_4_a
-ユージオ
+Eugeo
 150087_3_a
-キリト
+Kirito
 150087_2_a
 bg_03_forest1
-た、大変よ!
-キリトくん、ユージオさん!
-アスナ
+Kirito, Eugeo! We've got trouble!
+Asuna
 150087_1_a
-あの子ら……
-アリス
+Where are those kids going...?
+Alice
 150085_20_a
-………………
-アリス
+...
+Alice
 150085_19_a
-そうだね!
-ユージオお兄ちゃんを
-さがしに行こう!
-子供C
+Yeah, and then we can play and
+play and play! It'll be great!
+Child C
 150085_18_a
-じゃああたしたちで
-むかえに行こうよ!
-子供B
+I know! Let's go find him!
+I bet he'll be so happy to see us!
+Child B
 150085_17_a
 bg_event_christmas_town
-ユージオお兄ちゃん……
-さいきん、
-あそびに来てくれないな……
-子供A
+Eugeo hasn't come to play with us
+in forever... Maybe he's really
+busy?
+Child A
 150085_16_a
-ユージオ
+Eugeo
 150085_15_a
-ユージオ……
-キリト
+Eugeo...
+Kirito
 150085_14_a
-でもいざ現実を突きつけられると
-改めて残念な気がするというか……
-ユージオ
+I guess I was trying to pretend
+that it would last forever...
+Eugeo
 150085_13_a
-そうだな……
-キリト
+Yeah...
+Kirito
 150085_12_a
-いずれはアリスと共に
-元の世界へと帰らなければ
-ならないからね
-ユージオ
+When that day comes, we'll have
+to bid all our friends here
+goodbye...
+Eugeo
 150085_11_a
-今は同じ世界の人間だという
-アリスに付き合って
-神器探しを手伝ってるけど、
-ユージオ
+One day, after we find all of the
+Divine Objects, Alice and I will
+have to go back to our own world.
+Eugeo
 150085_10_a
-確かにそのとおりだよね
-僕はこの世界の人間じゃない
-ユージオ
+And she's totally right.
+She and I, we don't belong here.
+Eugeo
 150085_9_a
-あ、ああ……
-キリト
+Uh, just now...?
+Kirito
 150085_8_a
-この前アリスにあまり子供たちと
-仲良くし過ぎないほうがいいって
-言われちゃったんだ
-ユージオ
+Alice scolded me the other day.
+She said I shouldn't get too
+friendly with the locals...
+Eugeo
 150085_7_a
-うん、実は……
-ユージオ
+No. The truth is...
+Eugeo
 150085_6_a
-今日はあの子供たちと
-遊ばないんだな?
-キリト
+You're not playing with those
+kids today?
+Kirito
 150085_5_a
-やあ、キリト……
-ユージオ
+Hey, Kirito...
+Eugeo
 150085_4_a
-あっ、ユージオ
-キリト
+Oh, hey there.
+Kirito
 150085_3_a
-キリト
+Kirito
 150085_2_a
 bg_03_forest1
-………………
-ユージオ
+...
+Eugeo
 150085_1_a
-あっ、アリスさん……!
-アスナ
+Alice, wait!
+Asuna
 150083_21_a
-今の言葉……
-直接ユージオに言ってきます
-アリス
+I...will share this epiphany with
+Eugeo posthaste.
+Alice
 150083_20_a
-………………
-アリス
+...
+Alice
 150083_19_a
-アリスは自分たちが去ったとき
-あの子供たちが悲しむ姿を
-見たくないんだな
-キリト
+So in short, you don't want those
+kids to be sad when you leave.
+How nice of you.
+Kirito
 150083_18_a
-自分の意思だけで生き抜くことも
-できず、その自由もない……
-だからこそむごいと言っているのです
-アリス
+That is why befriending them
+now is an act of reckless and
+self-serving cruelty.
+Alice
 150083_17_a
-いずれ来るその時が
-不可避であるということも……
-ですがあの子らは
-アリス
+Those children do not.
+Alice
 150083_16_a
-私たちはお互いの身上を
-理解し合っています
-アリス
+We understand each other's fates
+and why a day of parting must
+surely come.
+Alice
 150083_15_a
-アリスさんたちとの別れが来たら
-すごく悲しいよ
-アスナ
+I mean, I'm going to be really
+sad when Alice and Eugeo leave...
+Asuna
 150083_14_a
-でもそれを言うなら
-わたしたちだって……同じだよ?
-アスナ
+But we're no different, right?
+Asuna
 150083_13_a
-まぁ言いたいことはわかる
-仲良くなったらその分
-別れも悲しくなるからな……
-キリト
+Hmm... I see her point, though.
+The more they like him, the sadder
+they'll be when he leaves.
+Kirito
 150083_12_a
-そ、そんな……
-アスナ
+That's...a bit harsh,
+don't you think?
+Asuna
 150083_11_a
-子供たちにとって
-逆に辛い仕打ちとならなければ
-いいのですが
-アリス
+His befriending them now will
+only cause them undue suffering
+at a later date.
+Alice
 150083_10_a
-どうかと思います
-いずれ私たちは元いた世界へと
-帰る身……
-アリス
+It's troubling, is what it is.
+One day, we'll have to return
+to our own world.
+Alice
 150083_9_a
-ふふっ、ユージオさんらしいよね
-なんだか微笑ましくない?
-アスナ
+Hehe, I'm not surprised he has a
+little fan club. Isn't it so cute
+how all those kids just love him?
+Asuna
 150083_8_a
-あの者はあんなことを
-しているのですね……
-懐かれている様子ですが……
-アリス
+It...appears that he's made a
+number of very small friends.
+Alice
 150083_7_a
-どうしたんだ、アリス……
-ユージオのほうを見て……
-キリト
+Sorry, didn't notice... Everything
+okay? You're glaring at Eugeo
+pretty hard.
+Kirito
 150083_6_a
-はい……
-アリス
+I was standing right there.
+Alice
 150083_5_a
-あ、アリスさん
-アリスさんも来てたの
-アスナ
+Oh, hey Alice. I didn't know you
+were here.
+Asuna
 150083_4_a
-キリト
+Kirito
 150083_3_a
-アスナ
+Asuna
 150083_2_a
 bg_event_christmas_town
-キリト、アスナ
-アリス
+Hello.
+Alice
 150083_1_a
-ああ……
-キリト
+Yeah...
+Kirito
 150081_18_a
-でもそういったイレギュラーな状況は
-やっぱり二人に負荷をかけてることに
-なっちゃうってるんだよね……?
-アスナ
+I just hope that whatever weird
+power he's got, it doesn't cause
+him or Alice any trouble...
+Asuna
 150081_17_a
-そうかもしれないね……
-アスナ
+It sounds crazy, but I get that
+feeling too.
+Asuna
 150081_16_a
-もしくはその時点で新たなシナリオが
-書き加えられるとか……そんな感じか
-キリト
+I sort of get the feeling that the
+world just rewrites itself around
+him...
+Kirito
 150081_15_a
-ユージオっていう特異な存在が
-接触することでNPCにもある程度の
-AIが備わるのかもな
-キリト
+Maybe Eugeo's special somehow,
+and has the power to change
+AIs just by being near them.
+Kirito
 150081_14_a
-うん、それはわたしも感じてた
-簡単な反応しかしないはずのNPCも
-色々とおしゃべりし始めるよね
-アスナ
+I know what you mean. It's like
+basic NPCs are suddenly advanced
+AIs when they're with him.
+Asuna
 150081_13_a
-しっかし……妙だな
-ユージオが話しかけてるときだけ
-NPCたちの対応が柔軟な気がする
-キリト
+But it's weird, right? I feel like
+a lot of NPCs only ever act this
+naturally around Eugeo.
+Kirito
 150081_12_a
-ふふっ、どうでしょう
-アスナ
+Hehehe. There's always more
+where that came from.
+Asuna
 150081_11_a
-アスナさん……
-何気に酷いこと言ってません?
-キリト
+Low blow, Asuna. Low blow.
+Kirito
 150081_10_a
-あの社交性と子供に懐かれる性分は
-万年ソロの誰かさんには
-とてもないねぇ……
-アスナ
+Eugeo's got class, social skills,
+and is great with kids
+unlike a
+certain solo player I know.
+Asuna
 150081_9_a
-わあ……ホント
-すごいね
-アスナ
+I know, right? I can't believe
+he's so good with them!
+Asuna
 150081_8_a
-アスナ
+Asuna
 150081_7_a
-なんだ、ユージオの奴……
-街の子供たちと
-仲良くなってるじゃないか
-キリト
+Wow, Eugeo's crazy popular with
+the kids.
+Kirito
 150081_6_a
-あはは……
-順番にやっていこう
-別に僕は逃げたりしないから
-ユージオ
+Ahahaha... Easy now, kids,
+one at a time!
+Eugeo
 150081_5_a
-かくれんぼがいいよー!
-子供C
+Hide and seek!
+Child C
 150081_4_a
-おままごとしよー!
-子供B
+Let's play pretend!
+Child B
 150081_3_a
-ユージオ
+Eugeo
 150081_2_a
 bg_event_christmas_town
-ユージオお兄ちゃん
-次はなにして遊ぶ?
-子供A
+What do you wanna play next,
+Eugeo?!
+Child A
 150081_1_a
 Yes, ma'am!
 Kirito

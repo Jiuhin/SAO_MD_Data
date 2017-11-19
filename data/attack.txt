@@ -80,6 +80,7 @@ QCG
 >d3
 L>d3
 >d3
+>e3
 Be3
 Ae3
 QCG
@@ -766,6 +767,13 @@ Ga>
 Ga>e3
 Ga>
 Ga>
+djF
+>d3
+>d3
+>d3
+>d3
+>d3
+>d3
 >d3
 >d3
 >d3
@@ -1158,12 +1166,15 @@ Ik_
 >f3
 Vi_
 Ui_
+fE_
+eE_
 :D_
 9D_
 sC_
 rC_
 qC_
 L>d3
+GB_
 FB_
 EB_
 ?d3

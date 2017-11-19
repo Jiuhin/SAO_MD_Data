@@ -358,6 +358,9 @@ Battle Healing (HP) Lv. 2
 slot_skill_icon_battle_healing_hp
 Restores 600 HP every 10 seconds.
 Battle Healing (HP) Lv. 1
+slot_skill_icon_parry_healing_mp
+弱点部位への攻撃時に攻撃ヒット時のMP回復率が増加する
+弱点攻撃時MP回復率増加 Lv1
 slot_skill_icon_def_earth_1
 Reduces damage from Earth-elem. enemies by 30%
 Earth Resistance Lv2
@@ -1607,6 +1610,36 @@ Lance Skill Lv.2
 slot_skill_icon_job_9
 Raises attack and crit. rate by 50
 Lance Skill Lv.1
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が500上がる
+槍スキル Lv10
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が450上がる
+槍スキル Lv9
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が400上がる
+槍スキル Lv8
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が350上がる
+槍スキル Lv7
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が300上がる
+槍スキル Lv6
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が250上がる
+槍スキル Lv5
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が200上がる
+槍スキル Lv4
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が150上がる
+槍スキル Lv3
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が100上がる
+槍スキル Lv2
+slot_skill_icon_job_9
+バトル中 攻撃力と会心率が50上がる
+槍スキル Lv1
 slot_skill_icon_job_9
 Raises attack and crit. rate by 500
 Lance Skill Lv.10

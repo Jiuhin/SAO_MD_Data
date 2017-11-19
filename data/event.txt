@@ -430,6 +430,10 @@ images/event/4801/4801_name.png
 images/event/4801/4801_banner.png
 images/event/4801/4801_banner.png
 Shadowy Castle in the Night
+images/event/4073/4073_top.png
+images/event/4073/4073_banner.png
+images/event/4073/4073_banner.png
+Monsters in the Castle of Mirage
 Medal Scout
 images/event/4069/4069_top.png
 images/event/4069/4069_banner.png
@@ -735,7 +739,6 @@ images/event/4027/4027_top_1.png
 images/event/4027/4027_banner_1.png
 images/event/4027/4027_banner_1.png
 OS Episode 0 Ranking
-Medal Scout
 images/event/4027/4027_top_2.png
 images/event/4027/4027_banner_2.png
 images/event/4027/4027_banner_2.png

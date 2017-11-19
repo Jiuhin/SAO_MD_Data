@@ -157,37 +157,37 @@ Complete "The Gigantes Strikes Back (Expert)"
 8031001
 Complete "The Gigantes Strikes Back (Int.)"
 8030016
-Complete  "Enormous Monsters "The Gleam Eyes (Master +1)"
+Complete  "Enormous Monsters  - The Gleam Eyes (Master +1)"
 8030015
-Complete  "Enormous Monsters "The Gleam Eyes (Master)"
+Complete  "Enormous Monsters  - The Gleam Eyes (Master)"
 8030014
-Complete  "Enormous Monsters "The Gleam Eyes (EX)"
+Complete  "Enormous Monsters  - The Gleam Eyes (EX)"
 8030013
-Complete "Enormous Monsters "The Gleam Eyes (Expert)"
+Complete "Enormous Monsters  - The Gleam Eyes (Expert)"
 8030012
-Complete  "Enormous Monsters "The King of Lakes (Master +1)"
+Complete  "Enormous Monsters - The King of Lakes (Master +1)"
 8030011
-Complete  "Enormous Monsters "The King of Lakes (Master)"
+Complete  "Enormous Monsters - The King of Lakes (Master)"
 8030010
-Complete  "Enormous Monsters "The King of Lakes (EX)"
+Complete  "Enormous Monsters - The King of Lakes (EX)"
 8030009
-Complete "Enormous Monsters "The King of Lakes (Expert)"
+Complete "Enormous Monsters  - The King of Lakes (Expert)"
 8030008
-Complete  "Enormous Monsters "The Gleam Eyes (Master +1)"
+Complete  "Enormous Monsters  - The Gleam Eyes (Master +1)"
 8030007
-Complete  "Enormous Monsters "The Gleam Eyes (Master)"
+Complete  "Enormous Monsters  - The Gleam Eyes (Master)"
 8030006
-Complete  "Enormous Monsters "The Gleam Eyes (EX)"
+Complete  "Enormous Monsters  - The Gleam Eyes (EX)"
 8030005
-Complete "Enormous Monsters "The Gleam Eyes (Expert)"
+Complete "Enormous Monsters  - The Gleam Eyes (Expert)"
 8030004
-Complete  "Enormous Monsters "The King of Lakes (Master +1)"
+Complete  "Enormous Monsters - The King of Lakes (Master +1)"
 8030003
-Complete  "Enormous Monsters "The King of Lakes (Master)"
+Complete  "Enormous Monsters - The King of Lakes (Master)"
 8030002
-Complete  "Enormous Monsters "The King of Lakes (EX)"
+Complete  "Enormous Monsters - The King of Lakes (EX)"
 8030001
-Complete "Enormous Monsters "The King of Lakes (Expert)"
+Complete "Enormous Monsters  - The King of Lakes (Expert)"
 8029005,3,45
 Complete "The Abyss Rhinoceros Strikes Back (Master +1)" with guild members in Multi under 45 seconds.
 8029004,3,45
@@ -743,6 +743,12 @@ Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,
 Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
+4073005,2,45
+Complete "Monsters in the Castle of Mirage (Master +1)" under 45 Sec.
+4073004,2,45
+Complete "Monsters in the Castle of Mirage (Master)" under 45 Sec.
+4073003,2,45
+Complete "Monsters in the Castle of Mirage (EX)" under 45 Sec.
 <}5
 4069025,1,1,2
 Complete "Dungeon Assault Battle & Poker (Master +1)" with two sword characters.
