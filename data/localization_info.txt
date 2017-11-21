@@ -192,9 +192,12 @@ Notices
 Weapons
 Scout
 Quests
+Set a title
 Party {0}
 You cannot skip the stories of quests you
 have not completed.
+To play with the matching player, please go back to the start and re-enter.
+To play with the matching player, please update your App to the newest Ver.
 An event is set
 Set an event
 You've reached the limit. You will be able to invite in a minute.
@@ -263,6 +266,9 @@ So you wanna make friends, eh?
 Head to the Teleport Plaza.
 So you wanna make friends, eh?
 Try the Teleport Plaza.
+Would you like to sell the selected gift?
+Rarity 3+ equipment is selected. Are you sure you want to sell the selected gift?
+The item didn't sell.
 Some items could not be received.
 {0} replaced with {1}x {2}
 Back to Co-op Party

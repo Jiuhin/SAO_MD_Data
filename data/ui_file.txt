@@ -71,6 +71,8 @@ ui/blacksmith/blacksmith_exchange_s.csb
 ui/blacksmith/blacksmith_change_equipment.csb
 ui/blacksmith/blacksmith_popup_not_gold_confirm_s.csb
 ui/gift_box/gift_box_popup_s.csb
+ui/common/common_popup_ep_market.csb
+ui/common/common_list_ep_market.csb
 ui/common/common_evolution_message_s.csb
 ui/common/common_evolution_result_s.csb
 ui/common/common_guild_subscription_popup.csb
@@ -184,6 +186,7 @@ ui/tower/party_character_widget.csb
 ui/tower/button_character_slot_widget.csb
 ui/story_archive/story_archive_button_select_widget.csb
 ui/story_archive/story_archive_s.csb
+ui/result/result_ep_exchange_s.csb
 ui/result/result_user_rank_s.csb
 ui/result/result_treasure_popup.csb
 ui/result/result_submission_reward.csb
@@ -292,6 +295,8 @@ ui/diamond_shop/diamond_shop_list_s.csb
 ui/daily_mission/daily_mission_s.csb
 ui/controller/skill_info_purple.csb
 ui/controller/skill_info_blue.csb
+ui/common/common_rank_gauge_widget.csb
+ui/common/common_list_sell_s.csb
 ui/common/common_ranking_guild_s.csb
 ui/common/common_list_ranking_reward_guild.csb
 ui/common/common_list_ranking_guild_s.csb

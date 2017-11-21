@@ -53,7 +53,7 @@ Do you want to update the info?
 text_question
 Guild Home has been updated
 text_attention
-Effect On
+Buff Effect
 text_title_buff
 Do you want to set it up?
 text_attention_3
@@ -122,9 +122,9 @@ text_guild_col
 Only your Commander and Vice Commander can edit.
 text_attention
 text_rank
-Management
+Manage Guild
 text_tab_3_sub
-Management
+Manage Guild
 text_tab_3_active_sub
 Member
 text_tab_1_sub
@@ -409,6 +409,18 @@ received!
 text_received
 You already have this character. You received an item instead!
 text_replaced_item_title
+Total EP
+text_total_ep
+Complete!
+text_complete
+Limit cnt:
+text_limited_exchange
+Exchange
+text
+Until:
+text_deadline
+EP:
+text_ep
 [] has been upgraded.
 text_evolution
 Guild Search
@@ -439,11 +451,9 @@ Guild Score
 text_guild_score
 Update
 text_update
-text_all_player_score_plus_2
 text_all_player_score_plus_1
 All Player Score
 text_all_player_score
-text_top_player_score_plus_2
 text_top_player_score_plus_1
 text_top_player_score_times
 Top Player Score
@@ -822,6 +832,15 @@ Close
 text_watch
 Close
 text_close
+text_rank_ep
+Rank Bonus
+text_degree_of_difficulty_bonus
+Total EP
+text_get_total_ep
+Total EP
+text_total_ep
+Daily EP
+text_daily_ep
 Next
 text_exp
 Close
@@ -832,7 +851,7 @@ Event Points
 text_rank_ep
 Rank Bonus
 text_degree_of_difficulty_bonus
-Total Event Pts.
+Total EP
 text_total_ep
 Next Reward in
 text_total_eventpoint_0
@@ -1007,6 +1026,12 @@ Tap & hold for details.
 text_quest_detail
 Event Over
 text_dates_end
+EP Market
+text_ep_exchange
+Current Total EP
+text_possession_ep_exchange
+Event Details
+text_event_detail
 Anniversary Scout
 text_event_scout_s_story_ranking
 Medal Scout
@@ -1060,14 +1085,24 @@ text_event
 Ranking
 Rewards
 text_button_guild_ranking
+EP Market
+text_event_point_exchange
 Exchange Shop
 text_event_item_exchange
 Anniversary Scout
 text_event_scout_m
+Posted Until:
+text_date_ep_end
+This event has finished.
+text_ep_end
 This event has finished.
 text_end
+Current Total EP
+text_possession_ep
 Posted Until:
 text_date_end
+Event Details
+text_event_detail_end
 Ranking
 Rewards
 text_button_ranking_end
@@ -1349,6 +1384,18 @@ Items
 text_possession_item
 Help
 text_title
+Sell
+text_sell
+Total
+text_total
+Col:
+text_col
+You have no gifts.
+text_empty_gift_box
+Please select the items you wish to sell.
+text_info
+Sell gifts
+text_sell_item
 You cannot claim expired rewards.
 text_warning
 Unclaimed
