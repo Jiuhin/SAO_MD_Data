@@ -366,6 +366,8 @@ ss/unit/chara_6_finesword_w/skill_effect_63110.png
 ss/unit/chara_6_finesword_w/skill_effect_63109.png
 b15b64f8a64ed0a3190bbf41bee107c3
 ss/unit/chara_6_finesword_w/skill_effect_63108.png
+e29af7293473d298b9bd3520173dcd83
+ss/unit/chara_6_finesword_w/skill_effect_6310799.png
 04946d0834945014cf4d7709358efbeb
 ss/unit/chara_6_finesword_w/skill_effect_63107.png
 c99cbc1bbf4864f9945d91aa2f593e83
@@ -1058,6 +1060,8 @@ ff3ea6f04ace78c9f6a6966d96c7e5e8
 ss/unit/chara_18_lance_w/skill_effect_lance_1.png
 5c3ebc29814e343b0d50a38976aa3598
 ss/unit/chara_18_lance_w/skill_effect_184105.png
+3374078086cabe95fdcee392afcfacfc
+ss/unit/chara_18_lance_w/skill_effect_184104.png
 95afa645f9136e66ddd596e9fd4a36dd
 ss/unit/chara_18_lance_w/skill_effect_184103.png
 a4039243d9658249d1b325d0a9f83787
@@ -1226,7 +1230,7 @@ b150d37130ffc4bbadc7d0cc73aa69cf
 ss/unit/chara_14_bow_w/weapon07_0005.png
 2ea9051d30ba469baee6b3b9aca4aa08
 ss/unit/chara_14_bow_w/weapon07_0001.png
-4c97561e94ed259695a0258b27e0f518
+872d6bf6c4b1a015a3f5f3fc0d739449
 ss/unit/chara_14_bow_w/skill_effect_144104.png
 ce2f60e00b82f1a494518d45d57fdb94
 ss/unit/chara_14_bow_w/skill_effect_144103.png
@@ -1900,6 +1904,14 @@ images/lottery/500/15001_weapon_banner.png
 images/lottery/200/12001_weapon_top_s.png
 34343c96e7834b5b233a580d1a280e34
 images/lottery/200/12001_scout_top_s.png
+b1ac1c85f6364ce4ae0b641c9625ed87
+images/lottery/057/20571_scout_top_s.png
+50070cff230f8d581429fca86dc9c604
+images/lottery/057/20571_scout_banner.png
+608f15dc996c5b6e477d5097863171f3
+images/lottery/057/10571_weapon_top_s.png
+5efa86a1aa348dff68ac9bfb99e015e4
+images/lottery/057/10571_scout_weapon_banner.png
 d4c944edd08daef5fae0b6a9ac826121
 images/lottery/053/20533_scout_top_s.png
 641b369fba5e2dac07774a210ab09732

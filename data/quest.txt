@@ -3606,27 +3606,33 @@ Quest
 bg_thumbnail_2002
 Floor :1 
 -&>
+Two minotaurs 
 "Haagenti the Minotaurus" awaits 
 at the Castle of Mirage.
-Dodge their powerful attacks and defeat them!
+Parry one of them first to avoid, 
+then deal with the second one!
 Defeat All Enemies
 Quest
 bg_thumbnail_2029
 Quest 5
 Monsters in the Castle of Mirage (Master +1)
 ,&>
+Two minotaurs 
 "Haagenti the Minotaurus" awaits 
 at the Castle of Mirage.
-Dodge their powerful attacks and defeat them!
+Parry one of them first to avoid, 
+then deal with the second one!
 Defeat All Enemies
 Quest
 bg_thumbnail_2029
 Quest 4
 Monsters in the Castle of Mirage (Master)
 +&>
+Two minotaurs 
 "Haagenti the Minotaurus" awaits 
 at the Castle of Mirage.
-Dodge their powerful attacks and defeat them!
+Parry one of them first to avoid, 
+then deal with the second one!
 Defeat All Enemies
 Quest
 bg_thumbnail_2029
@@ -12928,27 +12934,33 @@ Quest
 bg_thumbnail_2002
 Floor :1 
 -&>
+Two minotaurs 
 "Haagenti the Minotaurus" awaits 
 at the Castle of Mirage.
-Dodge their powerful attacks and defeat them!
+Parry one of them first to avoid, 
+then deal with the second one!
 Defeat All Enemies
 Quest
 bg_thumbnail_2029
 Quest 5
 Monsters in the Castle of Mirage (Master +1)
 ,&>
+Two minotaurs 
 "Haagenti the Minotaurus" awaits 
 at the Castle of Mirage.
-Dodge their powerful attacks and defeat them!
+Parry one of them first to avoid, 
+then deal with the second one!
 Defeat All Enemies
 Quest
 bg_thumbnail_2029
 Quest 4
 Monsters in the Castle of Mirage (Master)
 +&>
+Two minotaurs 
 "Haagenti the Minotaurus" awaits 
 at the Castle of Mirage.
-Dodge their powerful attacks and defeat them!
+Parry one of them first to avoid, 
+then deal with the second one!
 Defeat All Enemies
 Quest
 bg_thumbnail_2029

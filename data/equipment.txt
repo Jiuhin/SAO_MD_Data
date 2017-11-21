@@ -1714,6 +1714,30 @@ TBD
 Small Rifle R1
 weapon06_0001
 TBD
+Promised Heart+1 R5
+weapon05_0056
+TBD
+Promised Heart+1 R4
+weapon05_0056
+TBD
+Perfect Lover+1 R5
+weapon05_0055
+TBD
+Perfect Lover+1 R4
+weapon05_0055
+TBD
+Elater+1 R5
+weapon05_0054
+TBD
+Elater+1 R4
+weapon05_0054
+TBD
+Sakura Mace+1 R5
+weapon05_0053
+TBD
+Sakura Mace+1 R4
+weapon05_0053
+TBD
 Planetary Mace R5
 weapon05_0049
 TBD

@@ -843,6 +843,10 @@ Increases MP gain 100.
 MP Recovery Ratio +100
 Increases MP gain 50.
 MP Recovery Ratio +50
+最大HPと防御力が15%増加する
+HP&防御+15%
+最大HPと防御力が10%増加する
+HP&防御+10%
 Increases Atk. and Defense by 15%.
 Atk. & Defense +15%
 Increases Atk. and Defense by 10%.

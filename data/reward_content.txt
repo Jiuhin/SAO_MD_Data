@@ -440,6 +440,11 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+チョーカーR3
+チョーカーR2
+916
+ケープマントR3
+ケープマントR2
 Bunny Hat R3
 9}!
 Bunny Hat R2
@@ -4429,6 +4434,14 @@ Christmas Stocking x20
 Christmas Stocking x18
 Christmas Stocking x15
 Christmas Stocking x12
+Christmas Choker R3
+Christmas Choker R2
+Christmas Cape R3
+Christmas Cape R2
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 Bunny Hat R3
 Bunny Hat R2
 Heart Dress R3
@@ -4808,6 +4821,14 @@ Girl's Treats x6
 Girl's Treats (Favorite) x1
 Girl's Treats x10
 Girl's Treats x3
+6/Q
+6/Q
+Christmas Choker R3
+5/Q
+5/Q
+Christmas Cape R3
+Christmas Choker R3
+Christmas Cape R3
 Bunny Hat R3
 Heart Dress R3
 Bunny Hat R3

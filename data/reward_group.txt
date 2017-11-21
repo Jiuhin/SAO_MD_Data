@@ -6,6 +6,8 @@ PQS
 OQS
 NQS
 MQS
+6/Q
+5/Q
 rDP
 qDP
 LYO
