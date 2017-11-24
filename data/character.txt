@@ -1,10 +1,19 @@
-t[4
-d?0
-XA.
-pz+
-$1%
-0Z"
-XF	
+HD4
+hi2
+,G2
+0l1
+lU/
+D!/
+(J.
+LE-
+t_,
+t2+
+Xv&
+< $
+,4"
+hZ!
+X[ 
+t 	
 walk
 wakeup
 wait
@@ -659,8 +668,8 @@ wakeup
 wait
 stun
 step
+skill_10312101
 skill_103121
-skill_10311701
 skill_102202
 skill_101101
 parry
@@ -1508,7 +1517,7 @@ wakeup
 wait
 stun
 step
-zDro
+zDvh
 skill_2313001
 	5	
 skill_23130
@@ -1984,7 +1993,7 @@ wakeup
 wait
 stun
 step
-zDj[
+zDnT
 skill_184101
 skill_182101
 skill_181101
@@ -2274,7 +2283,7 @@ wakeup
 wait
 stun
 step
-HDV{
+HDZt
 skill_18310101
 skill_183101
 skill_182101
@@ -2374,9 +2383,9 @@ down
 dead
 dash
 damage
-"Df
+"Dj
 charge_old
-"DR
+"DV
 charge
 back_step
 attack_3
@@ -2422,9 +2431,9 @@ down
 dead
 dash
 damage
-"D6
+"D:
 charge_old
-"D"
+"D&	
 charge
 back_step
 attack_3
@@ -2648,9 +2657,9 @@ down
 dead
 dash
 damage
-"DB
+"DF
 charge_old
-"D.
+"D2
 charge
 back_step
 attack_3
@@ -2695,7 +2704,6 @@ dead
 dash
 damage
 charge_old
-"Dz
 charge
 back_step
 attack_3
@@ -2814,7 +2822,7 @@ wakeup
 wait
 stun
 step
-zD>H
+zDBA
 skill_16310301
 skill_163103
 skill_161201
@@ -2830,9 +2838,9 @@ down
 dead
 dash
 damage
-"Dj
+"DnU
 charge_old
-"DV
+"DZW
 charge
 back_step
 attack_3
@@ -2968,9 +2976,8 @@ down
 dead
 dash
 damage
-"Dn
+"Dr
 charge_old
-"DZ
 charge
 back_step
 attack_3
@@ -3060,9 +3067,9 @@ down
 dead
 dash
 damage
-"Db
+"Df
 charge_old
-"DN 
+"DR
 charge
 back_step
 attack_3
@@ -3092,7 +3099,7 @@ wakeup
 wait
 stun
 step
-zDn/
+zDr(
 skill_16310101
 skill_163101
 skill_161201
@@ -3197,9 +3204,8 @@ down
 dead
 dash
 damage
-"Dz
 charge_old
-"Df
+"Dj
 charge
 back_step
 attack_3
@@ -3362,7 +3368,7 @@ wakeup
 wait
 stun
 step
-aDn
+aDr
 skill_144102
 skill_141201
 skill_141101
@@ -3772,7 +3778,6 @@ wakeup
 wait
 stun
 step
-D&X
 skill_143104
 skill_141202
 skill_141101
@@ -4886,7 +4891,7 @@ wakeup
 wait
 stun
 step
-zDJ
+zDN
 skill_104102
 skill_102201
 skill_101101
@@ -5098,7 +5103,7 @@ wait
 stun
 step
 m5	
-HDH
+HDL
 skill_103125
 skill_102202
 skill_101101
@@ -5183,8 +5188,8 @@ wakeup
 wait
 stun
 step
+skill_10312101
 skill_103121
-skill_10311701
 skill_102202
 skill_101101
 parry
@@ -8473,7 +8478,6 @@ wakeup
 wait
 stun
 step
-/DxV
 skill_64103
 skill_62101
 %&'
@@ -8768,6 +8772,7 @@ wakeup
 wait
 stun
 step
+/D(V
 skill_63131
 skill_62101
 %&'
@@ -10614,6 +10619,7 @@ wakeup
 wait
 stun
 step
+zD$M
 skill_34102
 skill_32202
 skill_31201
@@ -10696,7 +10702,6 @@ wakeup
 wait
 stun
 step
-HDj
 skill_33108
 skill_32202
 skill_31201
@@ -11033,7 +11038,6 @@ wakeup
 wait
 stun
 step
-DZ[
 skill_24109
 skill_22102
 skill_21201
@@ -11406,6 +11410,7 @@ wakeup
 wait
 stun
 step
+HD"
 skill_23146
 skill_22202
 skill_21201
@@ -11572,6 +11577,7 @@ wakeup
 wait
 stun
 step
+HD>c
 skill_23142
 skill_22102
 skill_21201
@@ -11613,6 +11619,7 @@ wakeup
 wait
 stun
 step
+Cp[
 skill_23137
 skill_22202
 skill_21201
@@ -11946,7 +11953,7 @@ stun
 step
 skill_2313001
 	5	
-zDJ
+zDn
 skill_23130
 skill_22202
 skill_21101
@@ -12487,6 +12494,7 @@ wakeup
 wait
 stun
 step
+skill_2311101
 skill_23111
 skill_22102
 skill_21201

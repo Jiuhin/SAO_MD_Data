@@ -430,6 +430,16 @@ images/event/4801/4801_name.png
 images/event/4801/4801_banner.png
 images/event/4801/4801_banner.png
 Shadowy Castle in the Night
+images/common/event_point.png
+images/event/4701/4701_top.png
+images/event/4701/4701_banner.png
+images/event/4701/4701_banner.png
+[Ended] Breakthrough in Sand
+images/common/event_point.png
+images/event/4701/4701_top.png
+images/event/4701/4701_banner.png
+images/event/4701/4701_banner.png
+Breakthrough in Sand
 images/event/4073/4073_top.png
 images/event/4073/4073_banner.png
 images/event/4073/4073_banner.png
@@ -752,6 +762,10 @@ images/event/4020/4020_top.png
 images/event/4020/4020_banner.png
 images/event/4020/4020_banner.png
 Survival Battle on Desert
+images/event/4015/4015_top.png
+images/event/4015/4015_banner.png
+images/event/4015/4015_banner.png
+Christmas Memories
 images/event/4008/4008_top.png
 images/event/4008/4008_banner.png
 images/event/4008/4008_banner.png

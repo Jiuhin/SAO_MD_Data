@@ -1738,6 +1738,9 @@ TBD
 Sakura Mace+1 R4
 weapon05_0053
 TBD
+Green Breeze Lantern R4
+weapon05_0050
+TBD
 Planetary Mace R5
 weapon05_0049
 TBD

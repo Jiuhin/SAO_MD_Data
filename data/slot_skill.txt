@@ -43,6 +43,12 @@ Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 10 seconds during standby.
 Emergency Heal (HP&MP) Lv.1
+slot_skill_icon_attack_healing_mp
+Restores 150 HP when attacking.
+MP Recovery Ratio Up Lv2
+slot_skill_icon_attack_healing_mp
+Restores 100 HP when attacking.
+MP Recovery Ratio Up Lv1
 slot_skill_icon_skill_damage
 Increases skill damage by 10% vs Water-elem. enemies.
 Skill Damage Up (vs. Water) Lv. 2
@@ -890,15 +896,14 @@ Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Increases attack and the bullet becomes a homing bullet.
 Sword Skill 3 Enhance Lv. 1
--q%
-slot_skill_icon_ss_enhance_3_4
+slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Reduces required MP. Enhance the effect of your increased speed.
 Sword Skill 3 Enhance Lv. 1
 -q%
-slot_skill_icon_ss_enhance_3_4
+slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Enhance the effect of your increased attack.
 Sword Skill 3 Enhance Lv. 1
 }S%
@@ -1046,6 +1051,9 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Reduces required MP. Extends the effect time period of increasing attack.
 Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_8
+Enhances Sword Skill 3. Enable to attack an enemy.
+Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Raises your speed.
 Sword Skill 3 Enhance Lv. 1
@@ -1097,6 +1105,36 @@ Battle Skill 3 Transform Lv. 2
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
+slot_skill_icon_job_8
+Raises attack and crit. rate by 500
+Sword Skill Lv. 10
+slot_skill_icon_job_8
+Raises attack and crit. rate by 450
+Sword Skill Lv. 9
+slot_skill_icon_job_8
+Raises attack and crit. rate by 400
+Sword Skill Lv. 8
+slot_skill_icon_job_8
+Raises attack and crit. rate by 350
+Sword Skill Lv. 7
+slot_skill_icon_job_8
+Raises attack and crit. rate by 300
+Sword Skill Lv. 6
+slot_skill_icon_job_8
+Raises attack and crit. rate by 250
+Sword Skill Lv. 5
+slot_skill_icon_job_8
+Raises attack and crit. rate by 200
+Sword Skill Lv. 4
+slot_skill_icon_job_8
+Raises attack and crit. rate by 150
+Sword Skill Lv. 3
+slot_skill_icon_job_8
+Raises attack and crit. rate by 100
+Sword Skill Lv. 2
+slot_skill_icon_job_8
+Raises attack and crit. rate by 50
+Sword Skill Lv. 1
 slot_skill_icon_job_8
 Raises attack and crit. rate by 500
 Earth Magic Skill Lv. 10
@@ -1157,6 +1195,12 @@ Dark Magic Skill Lv. 2
 slot_skill_icon_job_8
 Raises attack and crit. rate by 50
 Dark Magic Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max HP by 15%
 Battle Skill 2 Transform Lv. 2

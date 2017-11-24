@@ -6,6 +6,8 @@ PQS
 OQS
 NQS
 MQS
+V}Q
+U}Q
 6/Q
 5/Q
 rDP
@@ -221,6 +223,10 @@ $LL
 	LL
 !}?
 -{?
+lX?
+kX?
+jX?
+iX?
 uV?
 IU?
 Z1?

@@ -1,3 +1,9 @@
+Holy Yuletide Hacking Crystal x1
+Yuletide Hacking Crystal x2
+Yuletide Hacking Shard x5
+Yuletide Gift (L) x3
+Yuletide Gift (M) x13
+Yuletide Gift (S) x17
 Skill Shard x10
 Critical Shard x10
 Defense Shard x10
@@ -440,11 +446,69 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
-チョーカーR3
-チョーカーR2
+1月月初R3
+9%8
+1月月初R2
+1月月初R3
+9]7
+1月月初R2
+Holy Night Choker R3
+Holy Night Choker R2
 916
-ケープマントR3
-ケープマントR2
+Holy Night Cape R3
+Holy Night Cape R2
+9i5
+Green Breeze Lantern R4
+Lv. 80 Decryption Key x1
+Lv. 70 Decryption Key x1
+Lv. 60 Decryption Key x1
+Lv. 50 Decryption Key x1
+9U0
+Lv. 40 Decryption Key x1
+Lv. 30 Decryption Key x1
+Lv. 20 Decryption Key x1
+9)/
+Lv. 10 Decryption Key x1
+Holy Skill Crystal x10
+9a.
+Holy Critical Crystal x10
+Holy Defense Crystal x10
+Holy Attack Crystal x10
+95-
+Holy MP Crystal x10
+Holy HP Crystal x10
+9m,
+Skill Crystal x20
+9	,
+Critical Crystal x20
+Defense Crystal x20
+9A+
+Attack Crystal x20
+MP Crystal x20
+HP Crystal x20
+Skill Shard x50
+Critical Shard x50
+9M)
+Defense Shard x50
+Attack Shard x50
+MP Shard x50
+9!(
+HP Shard x50
+Earth Medallion x10
+9Y'
+Dark Medallion x10
+Holy Medallion x10
+Wind Medallion x10
+9-&
+Water Medallion x10
+Fire Medallion x10
+9e%
+Void Medallion x10
+Rainbow Essence x1
+Memory Diamond x5
+99$
+Memory Fragment x1
+Upgrade Crystal x1
 Bunny Hat R3
 9}!
 Bunny Hat R2
@@ -722,6 +786,12 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+?	8
+600EP
+5?	8
+300EP
+>	8
+200EP
 	8qs
 Earth Medallion x15
 	8qs
@@ -4417,6 +4487,14 @@ Col x6120
 Col x4012
 Col x2030
 Col x301
+1月月初R3
+1月月初R2
+1月月初R3
+1月月初R2
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 Christmas Stocking x10
 Christmas Stocking x50
 Christmas Stocking x48
@@ -4434,10 +4512,10 @@ Christmas Stocking x20
 Christmas Stocking x18
 Christmas Stocking x15
 Christmas Stocking x12
-Christmas Choker R3
-Christmas Choker R2
-Christmas Cape R3
-Christmas Cape R2
+Holy Night Choker R3
+Holy Night Choker R2
+Holy Night Cape R3
+Holy Night Cape R2
 Stardust (Small) x15
 Stardust (Small) x10
 Stardust (Small) x5
@@ -4821,14 +4899,20 @@ Girl's Treats x6
 Girl's Treats (Favorite) x1
 Girl's Treats x10
 Girl's Treats x3
+V}Q
+V}Q
+1月月初R3
+U}Q
+U}Q
+1月月初R3
 6/Q
 6/Q
-Christmas Choker R3
+Holy Night Choker R3
 5/Q
 5/Q
-Christmas Cape R3
-Christmas Choker R3
-Christmas Cape R3
+Holy Night Cape R3
+Holy Night Choker R3
+Holy Night Cape R3
 Bunny Hat R3
 Heart Dress R3
 Bunny Hat R3
@@ -4939,6 +5023,18 @@ Chef's Shard x6
 Chef's Crystal x1
 Chef's Shard x10
 Chef's Shard x3
+Holy Yuletide Hacking Crystal x10
+Yuletide Hacking Crystal x20
+Yuletide Hacking Shard x25
+Yuletide Gift (L) x15
+Yuletide Gift (M) x35
+Yuletide Gift (S) x45
+Holy Yuletide Hacking Crystal x8
+Yuletide Hacking Crystal x13
+Yuletide Hacking Shard x20
+Yuletide Gift (L) x15
+Yuletide Gift (M) x30
+Yuletide Gift (S) x40
 Holy Yuletide Hacking Crystal x3
 Yuletide Hacking Crystal x6
 Yuletide Hacking Shard x15
@@ -6550,6 +6646,23 @@ Chef's Shard x2
 -{?
 Chef's Shard x2
 Chef's Shard x2
+Lv. 80 Yuletide Key x1
+Lv. 70 Yuletide Key x1
+Lv. 60 Yuletide Key x1
+Lv. 50 Yuletide Key x1
+Lv. 40 Yuletide Key x1
+Lv. 30 Yuletide Key x1
+Lv. 20 Yuletide Key x1
+Lv. 10 Yuletide Key x1
+Yuletide Hacking Shard x15
+Yuletide Hacking Shard x10
+Yuletide Gift (L) x10
+Yuletide Gift (M) x20
+Yuletide Gift (M) x15
+Yuletide Gift (M) x10
+Yuletide Gift (S) x30
+Yuletide Gift (S) x20
+Yuletide Gift (S) x15
 Holy Yuletide Hacking Crystal x9
 Holy Yuletide Hacking Crystal x8
 Holy Yuletide Hacking Crystal x7
@@ -6604,6 +6717,28 @@ Yuletide Gift (S) x4
 Yuletide Gift (S) x3
 Yuletide Gift (S) x2
 Yuletide Gift (S) x1
+Holy Yuletide Hacking Crystal x1
+Yuletide Hacking Crystal x5
+Yuletide Hacking Shard x9
+Yuletide Gift (L) x5
+Yuletide Gift (M) x23
+Yuletide Gift (S) x30
+lX?
+lX?
+Holy Yuletide Hacking Crystal x1
+kX?
+kX?
+Yuletide Hacking Crystal x2
+jX?
+jX?
+Yuletide Hacking Shard x8
+iX?
+iX?
+Yuletide Gift (L) x4
+iX?
+Yuletide Gift (M) x17
+iX?
+Yuletide Gift (S) x26
 Holy Yuletide Hacking Crystal x6
 Yuletide Hacking Crystal x9
 Yuletide Hacking Shard x5

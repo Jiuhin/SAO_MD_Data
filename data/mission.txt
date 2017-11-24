@@ -1277,7 +1277,7 @@ Complete "Longing for Sailor Suit (Master)" in under 1 minute.
 4035024
 Complete "Longing for Sailor Suit (Master)" .
 4034025,2,50
-Complete "Stars Orbit the Hopes of Another World (Master +1)" with a 50-hit combo or higher.
+Complete "Stars Orbit the Hopes of Another World (Master +1)" with a 50-hit combo or more.
 4034025,2,45
 Complete "Stars Orbit the Hopes of Another World (Master +1)" under 45 secs.
 4034025
@@ -1345,6 +1345,15 @@ Complete "Final Battle (Master)".
 /Q"
 4020009
 Complete "Final Battle".
+/_ 
+]70
+4015010
+Complete "Just Floating Around".
+4015013
+Complete "The Moonlit Black Cats (EX)".
+/] 
+4015009
+Complete "The Moonlit Black Cats"
 4008009
 Complete "Flying Broomstick".
 4008012

@@ -28,6 +28,8 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+New Year Fore-end Equipment Creation
+Equip Event
 The Evils
 Weekly Event
 Christmas Equipment Creation
@@ -96,10 +98,6 @@ The Wandering Frost Giant
 Mini Event
 Fight Back: Ursula the Witch
 Equip Event
-キャラ紹介イベント１
-Chara Event
-キャラ紹介イベント２
-Chara Event
 CM Memorial Quest
 Chara Event
 [Summer Princess] Alice
@@ -154,10 +152,6 @@ NICONICO USE
 Test Event
 TEST USE
 Test
-ランキングイベント・テスト１
-TestEvent
-ランキングイベント・Tテスト２
-Event
 The Order of the Immortal
 Event
 The Beast Lords in League

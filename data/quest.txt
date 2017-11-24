@@ -3605,6 +3605,82 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+"The Dusty Reaper" is a giant skeletal boss. 
+Pulling off a Break on them is the key to defeat!
+Attack their tail and destroy them all!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 4-2
+Breakthrough in Sand (Master +1)
+"Cyclops the Dark Giant" appears
+with gleaming eyes. 
+Mace characters are advantageous 
+against them in Break Battles? 
+Survive their fierce attacks
+and strike them back swiftly!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 4-1
+Breakthrough in Sand (Master +1)
+"The Dusty Reaper" is a giant skeletal boss. 
+Pulling off a Break on them is the key to defeat!
+Attack their tail and destroy them all!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 3-2
+Breakthrough in Sand (Master)
+"Cyclops the Dark Giant" appears
+with gleaming eyes. 
+Mace characters are advantageous 
+against them in Break Battles? 
+Survive their fierce attacks
+and strike them back swiftly!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 3-1
+Breakthrough in Sand (Master)
+"The Dusty Reaper" is a giant skeletal boss. 
+Pulling off a Break on them is the key to defeat!
+Attack their tail and destroy them all!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 2-2
+Breakthrough in Sand (EX)
+"Cyclops the Dark Giant" appears
+with gleaming eyes. 
+Mace characters are advantageous 
+against them in Break Battles? 
+Survive their fierce attacks
+and strike them back swiftly!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 2-1
+Breakthrough in Sand (EX)
+"The Dusty Reaper" is a giant skeletal boss. 
+Pulling off a Break on them is the key to defeat!
+Attack their tail and destroy them all!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 1-2
+Breakthrough in Sand (Expert)
+"Cyclops the Dark Giant" appears
+with gleaming eyes. 
+Mace characters are advantageous 
+against them in Break Battles? 
+Survive their fierce attacks
+and strike them back swiftly!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 1-1
+Breakthrough in Sand (Expert)
 -&>
 Two minotaurs 
 "Haagenti the Minotaurus" awaits 
@@ -5044,25 +5120,37 @@ Story
 bg_thumbnail_0
 Story 1
 Human World
-"Belial the Terrible Kobold" the beast of Twilight Castle appears. Go full-out to attack back the enemy and win the battle!
+"Belial the Terrible Kobold" the beast of 
+Twilight Castle appears. 
+Go full-out to attack back the enemy
+and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2027
 Quest 4
 Beast of Twilight Castle (Master)
-"Belial the Terrible Kobold" the beast of Twilight Castle appears. Go full-out to attack back the enemy and win the battle!
+"Belial the Terrible Kobold" the beast of 
+Twilight Castle appears. 
+Go full-out to attack back the enemy
+and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2027
 Quest 3
 Beast of Twilight Castle (EX)
-"Belial the Terrible Kobold" the beast of Twilight Castle appears. Go full-out to attack back the enemy and win the battle!
+"Belial the Terrible Kobold" the beast of 
+Twilight Castle appears. 
+Go full-out to attack back the enemy
+and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2027
 Quest 2
 Beast of Twilight Castle (Exp.)
-"Belial the Terrible Kobold" the beast of Twilight Castle appears. Go full-out to attack back the enemy and win the battle!
+"Belial the Terrible Kobold" the beast of 
+Twilight Castle appears. 
+Go full-out to attack back the enemy
+and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2027
@@ -7724,6 +7812,95 @@ Story
 bg_thumbnail_0
 Story 1
 Worry of the Lord
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 15
+The Moonlit Black Cats (Master +1)
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 14
+The Moonlit Black Cats (Master)
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 13
+The Moonlit Black Cats (EX)
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 12
+The Moonlit Black Cats (Expert)
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 11
+The Moonlit Black Cats (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+That Time Of Year
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 9
+The Moonlit Black Cats
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 8
+It's Not Like That
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Quest 7
+I Will Protect You
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Quest 6
+Earning Income
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Small House, Big Heart
+Defeat All Enemies
+Quest
+bg_thumbnail_2002
+Quest 4
+Level Up
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Kirito's Counsel
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 2
+Training the Vanguard
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Unforgettable
 You've finally cornered this mischievous
 kobold, but now it's used the broom's
 power to transform into Leafa and attack
@@ -12933,6 +13110,82 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+"The Dusty Reaper" is a giant skeletal boss. 
+Pulling off a Break on them is the key to defeat!
+Attack their tail and destroy them all!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 4-2
+Breakthrough in Sand (Master +1)
+"Cyclops the Dark Giant" appears
+with gleaming eyes. 
+Mace characters are advantageous 
+against them in Break Battles? 
+Survive their fierce attacks
+and strike them back swiftly!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 4-1
+Breakthrough in Sand (Master +1)
+"The Dusty Reaper" is a giant skeletal boss. 
+Pulling off a Break on them is the key to defeat!
+Attack their tail and destroy them all!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 3-2
+Breakthrough in Sand (Master)
+"Cyclops the Dark Giant" appears
+with gleaming eyes. 
+Mace characters are advantageous 
+against them in Break Battles? 
+Survive their fierce attacks
+and strike them back swiftly!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 3-1
+Breakthrough in Sand (Master)
+"The Dusty Reaper" is a giant skeletal boss. 
+Pulling off a Break on them is the key to defeat!
+Attack their tail and destroy them all!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 2-2
+Breakthrough in Sand (EX)
+"Cyclops the Dark Giant" appears
+with gleaming eyes. 
+Mace characters are advantageous 
+against them in Break Battles? 
+Survive their fierce attacks
+and strike them back swiftly!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 2-1
+Breakthrough in Sand (EX)
+"The Dusty Reaper" is a giant skeletal boss. 
+Pulling off a Break on them is the key to defeat!
+Attack their tail and destroy them all!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 1-2
+Breakthrough in Sand (Expert)
+"Cyclops the Dark Giant" appears
+with gleaming eyes. 
+Mace characters are advantageous 
+against them in Break Battles? 
+Survive their fierce attacks
+and strike them back swiftly!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 1-1
+Breakthrough in Sand (Expert)
 -&>
 Two minotaurs 
 "Haagenti the Minotaurus" awaits 
@@ -14372,25 +14625,37 @@ Story
 bg_thumbnail_0
 Story 1
 Human World
-"Belial the Terrible Kobold" the beast of Twilight Castle appears. Go full-out to attack back the enemy and win the battle!
+"Belial the Terrible Kobold" the beast of 
+Twilight Castle appears. 
+Go full-out to attack back the enemy
+and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2027
 Quest 4
 Beast of Twilight Castle (Master)
-"Belial the Terrible Kobold" the beast of Twilight Castle appears. Go full-out to attack back the enemy and win the battle!
+"Belial the Terrible Kobold" the beast of 
+Twilight Castle appears. 
+Go full-out to attack back the enemy
+and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2027
 Quest 3
 Beast of Twilight Castle (EX)
-"Belial the Terrible Kobold" the beast of Twilight Castle appears. Go full-out to attack back the enemy and win the battle!
+"Belial the Terrible Kobold" the beast of 
+Twilight Castle appears. 
+Go full-out to attack back the enemy
+and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2027
 Quest 2
 Beast of Twilight Castle (Exp.)
-"Belial the Terrible Kobold" the beast of Twilight Castle appears. Go full-out to attack back the enemy and win the battle!
+"Belial the Terrible Kobold" the beast of 
+Twilight Castle appears. 
+Go full-out to attack back the enemy
+and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2027
@@ -17052,6 +17317,95 @@ Story
 bg_thumbnail_0
 Story 1
 Worry of the Lord
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 15
+The Moonlit Black Cats (Master +1)
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 14
+The Moonlit Black Cats (Master)
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 13
+The Moonlit Black Cats (EX)
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 12
+The Moonlit Black Cats (Expert)
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 11
+The Moonlit Black Cats (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+That Time Of Year
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 9
+The Moonlit Black Cats
+Cyclops the Dark Giant is the targeted monster.
+For the Black Cats, beat up the monster!
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 8
+It's Not Like That
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Quest 7
+I Will Protect You
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Quest 6
+Earning Income
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Small House, Big Heart
+Defeat All Enemies
+Quest
+bg_thumbnail_2002
+Quest 4
+Level Up
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Kirito's Counsel
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 2
+Training the Vanguard
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Unforgettable
 You've finally cornered this mischievous
 kobold, but now it's used the broom's
 power to transform into Leafa and attack

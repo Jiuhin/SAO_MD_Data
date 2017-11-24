@@ -61,9 +61,18 @@ Increase your attack power and fire a phantasmal gunshot at an enemy.
 Phantom Bullet+2
 Phantom Bullet+2
 skill_icon_mace_3_{}
+Hits mace, being surrounded petals of Sakura. Replenishes HP and reduces damage received temporarily.
+blossom Impact+
+Blossom Impact+
+skill_icon_mace_3_{}
 A sword skill that delivers combo like baton twirling, increasing attack of all party members and your own speed by cheering.
 Cheerful Upper+
 Cheerful Upper+
+-q%
+skill_icon_mace_3_{}
+Strike the ground and make an explosion giving successive hits. Increase your attack and auto heals HP.
+Augmented Smash+
+Augmented Smash+
 }S%
 skill_icon_mace_3_{}
 A sword skill that hammers the enemy with a club, as well as replenishing your HP and increasing your movement speed.
@@ -2393,7 +2402,7 @@ A sword skill. Enhance movement speed and imbue sword strikes with wind magic.
 Sylphish Thrust
 Sylphish Thrust
 skill_icon_rod_2_{}
-Partially recover your entire party's HP with the power of healing crystals and temporarily increase the defense of allies around you.
+Recover your entire party's HP and increase your attack with the power of the healing crystal for a certain amount of time.
 Healing Wish
 Healing Wish
 skill_icon_sword_3_{}
