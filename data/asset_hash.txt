@@ -298,6 +298,8 @@ d7595311191eb890c60c72fdb1b0bd54
 ss/unit/chara_6_finesword_w/skill_effect_finesword_2.png
 2e95cbe407104c35739b42111dfdd841
 ss/unit/chara_6_finesword_w/skill_effect_finesword_1.png
+049e381584bd0bf25e8f5c59b9df2a6c
+ss/unit/chara_6_finesword_w/skill_effect_64109.png
 557e27a5ab1a10a81305df2155f00325
 ss/unit/chara_6_finesword_w/skill_effect_64108.png
 9b549ed7fdf6287f583f9fd9e1f7146c
@@ -874,6 +876,10 @@ c33ecfe2af01021cf738fc2340c50b6d
 ss/unit/chara_1_sword_m/skill_effect_sword_2.png
 e8d35634d29b482c471876d8656509c2
 ss/unit/chara_1_sword_m/skill_effect_sword_1.png
+27380e2288eefb0d6ce1aa6e16471586
+ss/unit/chara_1_sword_m/skill_effect_14120.png
+4ec92c6886d28e24f22e4071cb27cb77
+ss/unit/chara_1_sword_m/skill_effect_14117.png
 dcd2c003764c6052bda2b143d15c2b64
 ss/unit/chara_1_sword_m/skill_effect_14115.png
 23c34008b9a2242d47fa9ecc15576d5b

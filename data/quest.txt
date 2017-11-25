@@ -3607,7 +3607,6 @@ bg_thumbnail_2002
 Floor :1 
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
-Attack their tail and destroy them all!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -3626,7 +3625,6 @@ Quest 4-1
 Breakthrough in Sand (Master +1)
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
-Attack their tail and destroy them all!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -3645,7 +3643,6 @@ Quest 3-1
 Breakthrough in Sand (Master)
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
-Attack their tail and destroy them all!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -3664,7 +3661,6 @@ Quest 2-1
 Breakthrough in Sand (EX)
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
-Attack their tail and destroy them all!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13112,7 +13108,6 @@ bg_thumbnail_2002
 Floor :1 
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
-Attack their tail and destroy them all!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13131,7 +13126,6 @@ Quest 4-1
 Breakthrough in Sand (Master +1)
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
-Attack their tail and destroy them all!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13150,7 +13144,6 @@ Quest 3-1
 Breakthrough in Sand (Master)
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
-Attack their tail and destroy them all!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13169,7 +13162,6 @@ Quest 2-1
 Breakthrough in Sand (EX)
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
-Attack their tail and destroy them all!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003

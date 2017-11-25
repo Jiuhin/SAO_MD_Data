@@ -166,6 +166,8 @@ Shadowy castle in the night
 Event
 砂塵の突破口
 Event
+秘密の同盟!? プレゼント大作戦
+Event
 Monsters in the Castle of Mirage
 Event
 Gifts from the Snowy Sky
