@@ -1,5 +1,5 @@
-,v	
-PR	
+PQ	
+0 	
 dead
 bullet_99907_pina_sweet_breath
 bullet_99914_pina_wonder_snowman
@@ -90,6 +90,8 @@ dead
 bullet_7034_wishing_star
 dead
 bullet_7033_death_hand
+dead
+bullet_7033_death_hand
 wait
 dead
 appear
@@ -112,6 +114,8 @@ bullet_7026_musoyonjin_2
 wait
 appear
 bullet_7025_musoyonjin_1
+dead
+bullet_7024_nue_lightning
 dead
 bullet_900003_impact_point_2
 dead
@@ -995,6 +999,9 @@ bullet_6019_cheery_fall_2
 dead
 bullet_6018_cheery_fall_1
 o.	
+dead
+bullet_6017_anger_voltex
+i.	
 dead
 bullet_6017_anger_voltex
 h.	

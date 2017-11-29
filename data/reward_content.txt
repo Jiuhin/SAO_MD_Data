@@ -49,6 +49,30 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+Arm:
+Out of the Frying Pan into the Fire
+qm:
+Tricky Move
+yqm:
+Our Chance
+qm:
+One After Another
+pm:
+An Unexpected Side
+Mpm:
+Want to run away!
+om:
+Like us...
+om:	
+Last Chance
+!om:
+Clueless 
+nm:
+The Secret Alliance
+Ynm:
+Real Socializing Event
+mm:
+Is it my imagination?
 !$m:H
 Race of the game
 m:G
@@ -446,12 +470,12 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
-1月月初R3
+1月月初 R3
 9%8
-1月月初R2
-1月月初R3
+1月月初 R2
+1月月初 R3
 9]7
-1月月初R2
+1月月初 R2
 Holy Night Choker R3
 Holy Night Choker R2
 916
@@ -787,6 +811,8 @@ The Red-Nosed Reindeer
 Beater
 The World of Swords
 ?	8
+Christmas Upgrade Crystal x2
+?	8
 600EP
 5?	8
 300EP
@@ -808,10 +834,24 @@ Fire Medallion x15
 Void Medallion x30
 	8qs
 Rainbow Essence x2
+	8ps
+Christmas Gold Medal x3
 	8ks
 600EP
 	8js
 SAO Survivor
+	8is
+Christmas Upgrade Crystal x1
+	8hs
+Christmas Gold Medal x2
+	8gs
+Christmas Gold Medal x1
+	8fs
+Merry Christmas!
+	8es
+The Carol Guardian
+	8ds
+Carol Under the Starry Sky
 	8cs
 [Dancing Rose Red] Asuna
 	8bs
@@ -952,6 +992,14 @@ Summer Ticket x20
 Summer Ticket x15
 Summer Ticket x10
 SD Gold Medal x1
+7V6'
+[Santa is coming] Seven
+6V6&
+Christmas Upgrade Crystal x3
+u6V6%
+Christmas Gold Medal x1
+6V6$
+Memory Diamond x125
 a1V6
 Upgrade Crystal x5
 0V6
@@ -2065,6 +2113,104 @@ MP Shard x20
 HP Shard x20
 2ee
 Stardust (Medium) x100
+Christmas Upgrade Crystal x1
+Christmas Gold Medal x4
+Christmas Upgrade Crystal x2
+Christmas Gold Medal x8
+Christmas Upgrade Crystal x2
+Christmas Gold Medal x12
+Christmas Upgrade Crystal x3
+Christmas Gold Medal x18
+Christmas Upgrade Crystal x3
+Christmas Gold Medal x19
+Christmas Upgrade Crystal x3
+Christmas Gold Medal x20
+EXP Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Assault Team: The Choir (Top 100)
+EXP Hi-Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Memory Diamond x5
+Christmas Upgrade Crystal x1
+Assault Team: The Choir (Top 50)
+EXP Hi-Potion x5
+Col x30000
+Memory Diamond x5
+Christmas Upgrade Crystal x1
+Christmas Bronze Medal x5
+Christmas Silver Medal x5
+Christmas Gold Medal x1
+Assault Team: The Choir (Top 20)
+EXP X-Potion x5
+Col x50000
+Memory Diamond x5
+Christmas Upgrade Crystal x2
+Christmas Bronze Medal x10
+Christmas Silver Medal x5
+Christmas Gold Medal x3
+Assault Team: The Choir (Top 10)
+EXP X-Potion x5
+Col x100000
+Memory Diamond x5
+Christmas Upgrade Crystal x3
+Christmas Bronze Medal x10
+Christmas Silver Medal x5
+Christmas Gold Medal x7
+Assault Team: The Choir (5th)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Christmas Upgrade Crystal x4
+Christmas Bronze Medal x10
+Christmas Silver Medal x10
+Christmas Gold Medal x11
+Assault Team: The Choir (4th)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Christmas Upgrade Crystal x4
+Christmas Bronze Medal x10
+Christmas Silver Medal x10
+Christmas Gold Medal x16
+Assault Team: The Choir (3rd)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Christmas Upgrade Crystal x5
+Christmas Bronze Medal x10
+Christmas Silver Medal x10
+Christmas Gold Medal x21
+Assault Team: The Choir (2nd)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x300000
+Memory Diamond x5
+Christmas Upgrade Crystal x5
+Christmas Bronze Medal x10
+Christmas Silver Medal x10
+Christmas Gold Medal x23
+Assault Team: The Choir (1st)
+Rainbow Essence x2
+EXP X-Potion x5
+Col x500000
+Memory Diamond x5
+Christmas Upgrade Crystal x6
+Christmas Bronze Medal x10
+Christmas Silver Medal x10
+Christmas Gold Medal x25
 EXP Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -4487,10 +4633,10 @@ Col x6120
 Col x4012
 Col x2030
 Col x301
-1月月初R3
-1月月初R2
-1月月初R3
-1月月初R2
+1月月初 R3
+1月月初 R2
+1月月初 R3
+1月月初 R2
 Stardust (Small) x15
 Stardust (Small) x10
 Stardust (Small) x5
@@ -4901,10 +5047,10 @@ Girl's Treats x10
 Girl's Treats x3
 V}Q
 V}Q
-1月月初R3
+1月月初 R3
 U}Q
 U}Q
-1月月初R3
+1月月初 R3
 6/Q
 6/Q
 Holy Night Choker R3
@@ -7445,6 +7591,16 @@ MP Shard x4
 HP Shard x4
 Heart Relic R3
 Heart Relic R2
+Christmas Upgrade Crystal x1
+Christmas Gold Medal x1
+Christmas Silver Medal x5
+Christmas Silver Medal x3
+Christmas Silver Medal x2
+Christmas Silver Medal x1
+Christmas Bronze Medal x5
+Christmas Bronze Medal x3
+Christmas Bronze Medal x2
+Christmas Bronze Medal x1
 h'8
 h'8
 uO/

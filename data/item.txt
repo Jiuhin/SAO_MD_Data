@@ -550,6 +550,12 @@ L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
+You can do the Christmas Leaf Gold Medal Scout.
+Christmas Gold Medal
+You can do the Christmas Leaf Silver Medal Scout.
+Christmas Silver Medal
+You can do the Christmas Bronze Medal Scout.
+Christmas Bronze Medal
 You can do the Colored Leaf Gold Medal Scout.
 Colored Leaf Gold Medal
 You can do the Colored Leaf Silver Medal Scout.
@@ -635,6 +641,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain at the "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20007
+Raises Seven and Rain's level cap.
+([Santa is coming] Seven, [Personal Santa] Rain only) 
+Rarity: High
+Christmas Upgrade Crystal
 item_m_evolution_20006
 Raises Asuna's level cap.
 ([Captive Princess] Asuna only) 
@@ -770,6 +781,9 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
+Raises Seven and Rain's level cap. ([tbd] Seven only) 
+Rarity: High
+Christmas Hacking Crystal
 Raises Strea's level cap. ([Abounding Spring Water] Strea only) 
 Rarity: High
 Colored Leaf Hacking Crystal

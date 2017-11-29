@@ -399,6 +399,10 @@ Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike
 skill_icon_lance_3_{}
+Emit light over a wide range. Attack with some holy power. 
+Luminous Garden
+Luminous Garden
+skill_icon_lance_3_{}
 Jump up high as swinging up a spear and unleash the dark force of the spear toward the ground.
 Demons Spear
 Demons Spear
@@ -494,6 +498,10 @@ skill_icon_lance_1_{}
 Thrust to stop the enemy's movement and rush rapidly.
 Sonic Charge
 Sonic Charge
+skill_icon_rod_3_{}
+A combination skill. Attack with shiny ornaments. Likely to stun an enemy. 
+Split Ornament
+Smashing Ornaments
 skill_icon_rod_3_{}
 Move instantly to the back of an enemy high up in the air. Produce a tornado and restore own HP. A combination skill.
 Cute Devil Tempest
@@ -1714,6 +1722,10 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
+A combination skill. Move instantly to the back of an enemy and attack with a large lucent wreath. Likely to stun an enemy. 
+Lucent Wreath
+Lucent Wreath
+skill_icon_finesword_3_{}
 A combination sword skill. Perform a consecutive attack swiftly and elegantly.
 Graceful Skirt
 Graceful Skirt
@@ -2035,6 +2047,10 @@ A basic rapier technique. Perform a fast twisting thrust.
 Linear
 Linear
 skill_icon_dualblade_3_{}
+Deliver a swift slash and attack with a sacred wreath.
+Sacred Wreath
+Sacred Wreath
+skill_icon_dualblade_3_{}
 Restores HP and reduces damage received for a certain period of time. After 6 consecutive hits, the hidden sword shoots off.
 Final Rain
 Final Rain
@@ -2252,6 +2268,10 @@ A sword skill unique to Dual Blades. Thrust with one sword
 slash with the other.
 Double Circular
 Double Circular
+skill_icon_sword_3_{}
+A combination skill. Release the memory of "Fragrant Olive Sword" and shoot out a streaming, powerful beam of energy.  Likely to stun an enemy. 
+Release Recollection
+Holy Light Fragrant Olive 
 skill_icon_sword_3_{}
 A combination skill. Perform an attack with a flaming playing card pyramid. Increase all the party members' attack.
 Ace Tower
@@ -2595,6 +2615,10 @@ skill_icon_sword_1_{}
 A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
+skill_icon_sword_3_{}
+A combination skill. Release the memory of "Blue Rose Sword" and change the background to snowy landscape. Likely to stun an enemy.
+Release Recollection
+Snow on Christmas Eve
 skill_icon_sword_3_{}
 A combination skill. Dropping a coin is not the way to begin!? Quick draw just like a gunfighter in a Western film.
 Beater the Kid

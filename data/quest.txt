@@ -928,6 +928,46 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 5
+Master Sahuagin in a gale (Master +1)
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 4
+Master Sahuagin in a gale (Master)
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 3
+Master Sahuagin in a gale (EX)
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 2
+Master Sahuagin in a gale (Expert)
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 1
+Master Sahuagin in a gale (Int.)
 "Gemini the Gigantes" appears!
 Dodge the powerful attacks and gain the victory!
 Defeat All Enemies
@@ -3727,6 +3767,104 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 15
+Carol Under the Starry Sky (Master +2)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 14
+Carol Under the Starry Sky (Master +1)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 13
+Carol Under the Starry Sky (Master)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 12
+Carol Under the Starry Sky (EX)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 11
+Carol Under the Starry Sky (Expert)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Unexpected Reward
+The Black Cape Man tamed 
+"          The Reindeer"
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Quest 9
+Carol Under the Starry Sky
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Quest 8
+Last Concert
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 7
+Power of Carol
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Kirito's Idea
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 5
+Severe Anxiety
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 4
+Choir in danger
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+A bother
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 2
+Seven's Choir
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Following the Noel
 The great enemy "Jack the Tricker"  
 appears in the dungeon.
 Memorize the playing card motifs and read  
@@ -10429,6 +10567,46 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 5
+Master Sahuagin in a gale (Master +1)
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 4
+Master Sahuagin in a gale (Master)
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 3
+Master Sahuagin in a gale (EX)
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 2
+Master Sahuagin in a gale (Expert)
+"Dagon the Master Sahuagin" makes an assault!
+Survive a sword battle with your peers 
+and beat up your enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8034
+Quest 1
+Master Sahuagin in a gale (Int.)
 "Gemini the Gigantes" appears!
 Dodge the powerful attacks and gain the victory!
 Defeat All Enemies
@@ -13228,6 +13406,104 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 15
+Carol Under the Starry Sky (Master +2)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 14
+Carol Under the Starry Sky (Master +1)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 13
+Carol Under the Starry Sky (Master)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 12
+Carol Under the Starry Sky (EX)
+The Black Cape Man tamed 
+"          The Reindeer" 
+They are more powerful than ever!
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 11
+Carol Under the Starry Sky (Expert)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Unexpected Reward
+The Black Cape Man tamed 
+"          The Reindeer"
+Figure out the best distance to parry and defeat it!
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Quest 9
+Carol Under the Starry Sky
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Quest 8
+Last Concert
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 7
+Power of Carol
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Kirito's Idea
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 5
+Severe Anxiety
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 4
+Choir in danger
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+A bother
+Defeat All Enemies
+Quest
+bg_thumbnail_8046
+Quest 2
+Seven's Choir
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Following the Noel
 The great enemy "Jack the Tricker"  
 appears in the dungeon.
 Memorize the playing card motifs and read  

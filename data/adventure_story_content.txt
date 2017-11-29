@@ -1,164 +1,149 @@
-X&z
-L{y
-lZy
-dCy
-P:y
-XZx
-,Kx
-p:x
-8fw
-T[w
-hDw
-L<w
-L(w
-pBv
-T.v
-< v
-Tft
-(wr
-hlr
-Dar
-tLr
-l&r
-Dyq
-0Uq
-X1q
-D}p
-,ep
-$Ap
-X+p
-,+o
-x}n
-d5n
-xSm
-tVl
-d2l
-T'l
-tak
-(Ak
-H1k
-8sj
-xti
-dpg
-p?f
-Dye
-Hce
-<9e
-lKd
-d0d
-Dwc
-XUc
-l!b
-(ga
-p<a
-PR_
-l6_
-d]]
-ht[
-8c[
-8U[
-0B[
-<qZ
-dYZ
-4vY
-LkY
-(_Y
-hUY
-HIY
-P5X
-8mW
-T/W
-DbU
-tUU
-DRT
-$SS
-xfR
-pBR
-HuQ
-P:P
-0jO
-0jN
-,1N
-($N
-0yM
-0?M
-t]L
-43L
-HWK
-(JK
-P<K
-(JJ
-x?J
-t{I
-PSI
-TDI
-<-I
-<yH
-$1H
-T$H
-LPG
-d%G
-TjF
-XJF
-D>E
-,qD
-hVD
-x9D
-8HC
-d7C
-p)C
-<pB
-DkA
-H7A
-pg?
-$0?
-L ?
-pR>
-db<
-TW<
-,4<
-<y:
-4D:
-0%:
-LK9
-4q8
-,G8
-(76
-<K5
-ht4
-le3
-4}2
-H11
-,k0
-tT0
-<J0
-P%0
-Hy/
-LK/
-45/
-hx.
-,_.
-lP.
-H".
-Dh-
-<M-
-<>-
-(I,
-pp+
-D<+
-L_)
-0B)
-XE(
-(b'
-HA'
-l+'
-d7&
-hh%
-lU!
-DA!
-T-!
-Pd	
-<-	
+tV{
+(({
+(zz
+pez
+H>z
+44y
+dSx
+XMx
+tXw
+$/w
+t!w
+Tuu
+tNu
+t(u
+PDt
+dWs
+PQs
+xEq
+P3q
+(1o
+Ptn
+l.n
+4"n
+<pm
+pkl
+(Gk
+<{j
+TRj
+D7j
+x_i
+P2i
+81h
+(gg
+hZg
+Hff
+pIe
+H!e
+t2c
+0Zb
+0!b
+dA_
+00_
+(W]
+L0]
+d&]
+$0[
+$&[
+(KZ
+h+Z
+TQX
+xnW
+$XW
+$JW
+x$W
+0)V
+HLU
+XtT
+0DT
+LbS
+dTS
+0ES
+P7S
+<xR
+4vQ
+,MQ
+4$P
+lFO
+l2M
+4XK
+LpJ
+hbJ
+h6J
+<TI
+(.I
+(zH
+pyG
+8QG
+pEG
+p4G
+P&G
+DKF
+lpE
+8]E
+0?E
+L0E
+TWD
+pFD
+d:D
+$IC
+P8C
+(qB
+0lA
+pVA
+HCA
+48A
+8!?
+Lu>
+t4>
+L+>
+po<
+Pc<
+Hj:
+Hz9
+4:9
+t$9
+pT8
+H28
+("8
+<_7
+tS7
+XM6
+,/6
+Ti5
+$<5
+<]4
+L84
+P!4
+pI3
+P?3
+Tf2
+tM2
+lD1
+8$1
+LT0
+p30
+(%0
+$K/
+DP.
+t9.
+Xz-
+pk,
+Hp+
+41)
+Dr(
+4o'
+lR'
+h}&
+Xp&
+LH%
+l5%
+8	%
+<a"
+D4"
+hu!
+Lp 
+(d	
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -1254,7 +1239,7 @@ no takebacks allowed!
 Seven
 407000801_46_a
 You bet we are, boss!
-新生KoBメンバー
+KoB Guild Member
 407000801_45_a
 You're all fine with that, right?
 Arianrhod
@@ -1310,7 +1295,7 @@ Arianrhod
 Our swords are always yours to
 command, Commander! Let's show
 'em what the new KoB is made of!
-新生KoBメンバー
+KoB Guild Member
 407000801_30_a
 Still, we've teamed up again for
 this escort quest of yours.
@@ -1686,9 +1671,9 @@ power to alter their default
 behavior patterns.
 Kirito
 407000601_20_a
-「邪魔な歌声で歌う妖精を
-排除しよう」という設定……で
-襲ってきているのだとしたら、
+If these monsters' orders are to
+attack "those stupid fairies
+singing their stupid songs,"
 Kirito
 407000601_19_a
 Well, I can see how that might
@@ -80110,11 +80095,16 @@ bg_16_pub
 Who's ready for the next song?!
 Nijika
 1840117_1_a
+So that's what was going on...
+Nanairo
+1840115_25_a
 Nanairo
 1840115_24_a
-そうだったのね……
 Kazuto
 1840115_23_a
+Well, looks like everyone's here!
+Sorry, Nanairo! We swore to Nijika
+that we'd keep it a secret from you.
 Asuna
 1840115_22_a
 Shut up, Klein.
@@ -80123,11 +80113,11 @@ Agil
 Yeah! This place is a dump!
 Klein
 1840115_20_a
-そうそう
-こんな小さなバーなんだし
-気にすんなって
 Klein
 1840115_19_a
+Heh, you didn't have to take it so
+seriously. This place is a dump,
+so just relax and have fun.
 Agil
 1840115_18_a
 Yup! I was rehearsing like crazy!
@@ -80135,8 +80125,6 @@ It IS my first real concert, after
 all. I wanted to do it right.
 Nijika
 1840115_17_a
-うん、こっちの練習でね
-なにせライブなんて初めてだし……
 Kazuto
 1840115_16_a
 So...you were busy getting ready
@@ -80153,21 +80141,19 @@ place a while back, so I finally
 took him up on the offer!
 Nijika
 1840115_13_a
-えっ!?
-ファーストライブ!?
-ここでやるの!?
 Kazuto
 1840115_12_a
 What?! THIS is your first concert?
 Here?! Now?!
 Nanairo
 1840115_11_a
-わっ……!
-これって……!
-Kazuto
-1840115_9_a
+Welcome, Nana, to my first ever
+official concert!
 Nijika
 1840115_10_a
+Kazuto
+1840115_9_a
+Whoa! What's going on?!
 Nanairo
 1840115_8_a
 Nijika set this all up?
@@ -83219,7 +83205,7 @@ intrusion! I guess I'm not coming
 inside, but still.
 Leafa
 1650037_17_a
-bg_05_danac
+bg_13_coral_lake
 Hey there, Leafa!
 Asuna
 1650037_16_a
@@ -130252,6 +130238,10 @@ Suguha, thanks for letting me have
 this one!
 Asuna
 650078_1_a
+I can't believe this is happening
+again.
+Asuna
+650077_22_a
 Don't tell me you're...here to buy
 a present for Kazuto?
 Suguha
@@ -130267,7 +130257,6 @@ Asuna
 Asuna?!
 Suguha
 650077_18_a
-あ、明日奈さん!?
 Suguha
 650077_17_a
 Yui
@@ -130385,6 +130374,9 @@ bg_os_town_1
 Ready to go, Yui?
 Asuna
 650075_1_a
+Yeah, I bet he'll love it!
+Leafa
+650073_20_a
 Yeah, Kirito ALWAYS wears black.
 You can't go wrong if you get him
 something dark and dreary.
@@ -130410,17 +130402,13 @@ have this one, Asuna? You were
 here first.
 Leafa
 650073_15_a
+bg_event_christmas_town
 Hehe, I can't believe we were
 both thinking of getting him the
 same present!
 Asuna
 650073_14_a
-bg_event_christmas_town
-ふふっ、
-まさか同じ商品をプレゼントに
-考えるなんてね～
-アスナ
-650073_13_a
+It...probably is. Ha ha...
 Leafa
 650073_12_a
 Hold up... It's not for who I
@@ -130437,8 +130425,6 @@ Asuna
 Asuna?!
 Leafa
 650073_8_a
-あれ?
-アスナさん!?
 Leafa
 650073_7_a
 Hey, I know that voice!
@@ -130467,6 +130453,9 @@ to see, ma'am. We have all three
 types in stock.
 Shopkeeper
 650073_1_a
+Well... Time to hit the market!
+Asuna
+650071_18_a
 But it's probably good he came
 home. I should be doing this in
 person, anyway...
@@ -130477,12 +130466,10 @@ was shopping for his Christmas
 present or anything...
 Asuna
 650071_16_a
+bg_event_christmas_town
 Phew... That was close...
 Asuna
 650071_15_a
-bg_event_christmas_town
-ふう……
-危なかったぁ……
 Asuna
 650071_14_a
 Oh...kay? Have fun, I guess.
@@ -145880,283 +145867,279 @@ bg_09_kob_office
 You wanted to see me, Commander?
 Asuna
 640011_1_a
-うん!
-ありがとう、キリト君!
+Yeah, maybe you're right.
+Thanks for the talk, Kirito!
 Seven
 440048_27_a
-これまで少し歪だった姉妹関係を
-普通にしていけばいいんだよ
+But I figured it might be nice for
+you two to straighten out your
+relationship as sisters.
 Kirito
 440048_26_a
-いやいや、ものは考えようさ
-二人はこれから姉妹として
+It's just something to think
+about!
 Kirito
 440048_25_a
-ふふっ、キリトくん
-相変わらず口が上手いんだから
+Hehe, Kirito's silver tongue
+strikes again.
 Asuna
 440048_24_a
-わあっ……そういうこと!?
-それってなんか素敵ね!
+Well, it sounds great when you put
+it like that!
 Seven
 440048_23_a
-これからは普通の姉妹として
-仲良くできるってことさ
+And that frees you up to just be
+her big sister.
 Kirito
 440048_22_a
-対してレインが自分の夢に向かって
-進み始めたのなら……
+While, on the other hand, Rain has
+just begun pursuing her dream.
 Kirito
 440048_21_a
-今セブンは博士として
-研究することに重きを置き、
-歌手のほうは引退した……
+But now you've retired from
+singing and are focused on your
+research.
 Kirito
 440048_20_a
-これまではレインにとってセブンは
-目標でもありライバルでもあったけど
+Up until now, you were everything
+Rain wanted to be, and also her
+main rival.
 Kirito
 440048_19_a
-えっ?
+What do you mean?
 Seven
 440048_18_a
-違う、違う
-逆だよ
+No, the exact opposite.
 Kirito
 440048_17_a
-でもそれってあんまり
-仲良くしないほうがいいってこと?
+Does that mean I can't be
+close to her anymore?
 Seven
 440048_16_a
-そ、そんなのわかってるわよ
-でも……うーん……うーん……
+I-I know that!
+But...
 Seven
 440048_15_a
-レインはこうして一歩踏み出したんだ
-多分あいつはもう一人でも
-歩いていけると思うぜ
+but now that she's taken her first
+step on this path, you might have
+to let her go her own way.
 Kirito
 440048_14_a
-セブンはレインにとってのある意味
-目標だからアドバイスも
-しやすい間柄なんだろうけど……
+I mean, you can pretty easily give
+her advice since your career is
+what she's after,
 Kirito
 440048_13_a
-ええっ!?
+Gah!!
 Seven
 440048_12_a
-はは、でもそろそろセブンも
-先輩歌手としての立場は
-卒業したほうがいいかもな
+You might even have to step aside
+as her mentor, too.
 Kirito
 440048_11_a
-も、もう泣かないわよ!
+I will not!
 Seven
 440048_10_a
-ライブが終わるころには
-クシャクシャにして
-泣いてるんじゃないかな?
+And by the end of her show, you'll
+be a teary-eyed mess. I'm calling
+it now!
 Asuna
 440048_9_a
-ふふっ、セブンちゃん
-また最初はそんなこと言って
+Ha ha, there you go again!
 Asuna
 440048_8_a
-そうね
-あとは自信がもっと付けば
-言うことなしなんだけどね～
+You've got that right. Now all
+she needs is a little more
+confidence!
 Seven
 440048_7_a
-現実でもこうやって
-自分を高められるものが
-あるんだからな……
+Some hobbies can push you to new
+heights in real life too.
 Kirito
 440048_6_a
-ああ、レインはやっぱりすごいよ
-プレイヤーとして
-実力があるだけじゃなく……
+Yeah, Rain's the real deal.
+As if being a top-tier player
+wasn't enough...
 Kirito
 440048_5_a
 Seven
 440048_4_a
 Kirito
 440048_3_a
-すごい盛り上がりだね……
+Wow, they're really into it!
 Asuna
 440048_2_a
 bg_event_idol_stage
-ヘイッ!　ヘイッ!
-フーッ!!
+WOOOOOO! Alright!!
 Audience
 440048_1_a
-行ってらっしゃい、お姉ちゃん!
-ファーストライブの追加公演、
-がんばってね!
+Good luck, sis! Shake off
+those second-show jitters!
 Seven
 440047_26_a
 Seven
 440047_25_a
-うん!
-じゃあ……行ってくるね!
+Got it!
+Okay, here I go!
 Rain
 440047_24_a
-はい!
-冒頭の音楽流しますね!
+I'll cue up the opening number!
 Silica
 440047_23_a
-レイン!
-ステージの準備は整ったわよ
+Hey Rain! The stage is all set!
 Liz
 440047_22_a
 Rain
 440047_21_a
-ふぅん、まぁいいわ
-時間の問題だと思うけどね～
+Okay, fine. Go ahead and delay
+the inevitable.
 Seven
 440047_20_a
-今はそれでいいと思うぜ
+You're making the right call.
 Kirito
 440047_19_a
 Asuna
 440047_18_a
-はは、そうだよな
-リアル割れは別の意味で
-色々問題を抱えてるし、
+Ha ha, I knew you'd say that.
+Revealing your identity online
+is pretty risky.
 Kirito
 440047_17_a
-そ、それはまだダメ!
-ちゃんと変装するつもりだからね!
+Are you insane?!
+No, I'm still changing!
 Rain
 440047_16_a
-ふふっ、じゃあやっぱり
-そのままのアバターで出ちゃう?
+Hehe... So are you gonna go out
+there in your real avatar after
+all?
 Seven
 440047_15_a
-みんなには感謝してるよ
+I'm just so grateful!
 Rain
 440047_14_a
-また歌える機会がもらえて……
-それはすごく……嬉しいな……
+But here I am, with another huge
+opportunity to sing for a crowd...
 Rain
 440047_13_a
 Seven
 440047_12_a
-そうだね……あのクリスマスライブ、
-一回きりで燃え尽きるつもり
-だったけど……
+You're right. I thought that
+Christmas show would be
+a one-time thing...
 Rain
 440047_11_a
-ふふっ、でも嬉しいね
-みんなあの動画を見て
-こうして駆けつけてくれたのよね
+Hehe, you should be thrilled!
+They're all here because they
+saw your video.
 Asuna
 440047_9_a
 Kirito
 440047_10_a
-なにを言ってるのよ!
-ここまでお膳立てしたんだから
-今更ジタバタしないで
+Keep it together! You've been
+cool as a cucumber so far!
 Seven
 440047_8_a
 Seven
 440047_7_a
-わわっ……ホントだ
-緊張させないでよぉ……
+Oh my gosh! Don't make me
+freak out now!
 Rain
 440047_6_a
-あんなにプレイヤーが集まってるぜ
+All of these people are here to
+see you.
 Kirito
 440047_5_a
 Asuna
 440047_4_a
-おっ、レイン
-ステージ袖から見てみろよ
+Take a peek from the side of the
+stage, Rain.
 Kirito
 440047_3_a
 Seven
 440047_2_a
-bg_event_christmas_town
-………………
+bg_event_idol_stage
+...
 Rain
 440047_1_a
-お姉ちゃん、ここまでやったなら
-後は前のめりに行くだけよ!
-色々と考えてみましょう!
+We'll think of something!
+You've come too far not to
+take this next step!
 Nanairo
 440045_33_a
 Nanairo
 440045_32_a
 Rika
 440045_31_a
-……な、なるほど
+Th-That's a good point...
 Nijika
 440045_30_a
-うん、変身魔法とかでも
-やりようあるんじゃないかな?
+They're right. We can even use
+transformation magic if you
+want.
 Asuna
 440045_29_a
 Asuna
 440045_28_a
 Keiko
 440045_27_a
-ALOで変装したいなら
-もっと色々変えられるだろ
+You could change up your look
+even more in ALO.
 Kazuto
 440045_26_a
-あくまで現実の歌手として
-勝負したいの?
-うーん、じゃあ仮面でも付けるとか?
+You'd rather stick to real-world
+stages, huh? Why don't you wear
+a mask, then?
 Nanairo
 440045_25_a
-最近レインの名前のほうはALOでは
-知られてきてるから、
-売名になりそうだし……
+And Rain is finally getting some
+name recognition in ALO. It'll
+look like self-promotion.
 Nijika
 440045_24_a
-うーん、それでもこのライブの新人、
-イコール、レインだとは
-まだ知られなくないな……
+Still, I don't know that I want
+people associating Rain with
+an amateur singer...
 Nijika
 440045_23_a
-でもさっき映像であたしと
-一緒にいるところ映っちゃったでしょ
+Well, it's a little late now.
+You just appeared on a live
+stream with me.
 Nanairo
 440045_22_a
-で、でもわたし……
-ナナと違ってリアル割れしてないから
-それは難しいよ?
+B-But people in VR don't know my
+true identity like they know
+Nana's! I don't know about this...
 Nijika
 440045_21_a
 Rika
 440045_20_a
 Nijika
 440045_19_a
-あはは～
-ゴメンね、マスター
+Ha ha, oops! Sorry...
 Nanairo
 440045_18_a
-はいはい、悪かったな……
-マスター
+I'll pretend I didn't hear that...
+Agil
 440045_17_a
 Rika
 440045_16_a
 Nijika
 440045_15_a
-音響設備や観客席だって
-ここよりもっと充実してるし
+You'll have enough seats for
+everyone, and the audio equipment
+will be way better.
 Nanairo
 440045_14_a
-仮想世界ならステージの
-キットがあるから
-ライブするなんて簡単よ
+Ah, c'mon! I've got a stage kit
+you can use. It'll be a cinch!
 Nanairo
 440045_13_a
-えっ!?
+No way?!
 Nijika
 440045_12_a
-そんなの簡単よ
-仮想世界で同じセットリストで
-やればいいのよ!
+We can do that easily!
+Just do a show with the
+same setlist in VR!
 Nanairo
 440045_9_a
 Rika
@@ -146167,17 +146150,17 @@ Asuna
 440045_8_a
 Keiko
 440045_7_a
-なるほど……まぁそうなるか
+That makes sense.
 Kazuto
 440045_6_a
-意見ってのはこれだけすごい
-ライブならもっとオープンな所で
-やって欲しかったって希望ね
+Which is actually a good sign,
+if you think about it! They want
+you to play bigger places!
 Rika
 440045_5_a
-この会場って小さいし、
-ほとんど身内のライブみたいな
-ものでしょう?
+People thought the venue was a
+bit small and filled with all your
+friends.
 Rika
 440045_4_a
 Nanairo
@@ -146185,95 +146168,91 @@ Nanairo
 Nijika
 440045_2_a
 bg_16_pub
-あっ、いやそんな否定的な
-意見ってわけじゃないんだけど
+I mean, they're not personal
+attacks or anything.
 Rika
 440045_1_a
-えっ……?
+Really?
 Nijika
 440043_36_a
-うーん、でもちょっと
-不満コメントがあるわね……
+Hmm, not all the comments are
+positive, though.
 Rika
 440043_35_a
-ふふっ、ありがとう
+Heh, thanks for saying so.
 Nijika
 440043_34_a
-そんなことないわ!
-今のライブを盛り上げたのは
-明らかにお姉ちゃんの力よ!
+No way! They were obviously all
+excited to see you!
 Nanairo
 440043_33_a
 Rika
 440043_32_a
 Nanairo
 440043_31_a
-まぁ知名度が全然違うし、
-元プロが突如無名の新人のライブに
-乱入すれば、そりゃあね
+I get it, though. You'd be excited
+too if a former pro showed up
+at some no-name's show.
 Nijika
 440043_30_a
 Asuna
 440043_29_a
 Keiko
 440043_28_a
-やっ、やっぱりそうか……
+I thought that might be why...
 Kazuto
 440043_27_a
 Rika
 440043_26_a
 Nanairo
 440043_25_a
-ああ、わかってるよ
-途中でナナが飛び入り参加したのが
-一番盛り上がった理由だよね
+I know. Everyone got really
+excited when Nana suddenly
+showed up.
 Nijika
 440043_24_a
-なあ、このコメントとか見てるとさ
-ちょっと水を差すようで
-悪いんだけど……
+I hate to say this, but looking at
+these comments...
 Kazuto
 440043_23_a
 Asuna
 440043_22_a
 Keiko
 440043_21_a
-………………
+...
 Kazuto
 440043_20_a
-は、恥ずかしいのは
-変わらないけどねぇ……
+That doesn't make it any less
+difficult, though.
 Nijika
 440043_19_a
-おおっ、奥手のお姉ちゃんが
-成長したねぇ～
+My late-blooming sister's getting
+pretty savvy!
 Nanairo
 440043_18_a
-やっぱりこうして広めていく
-努力をしないとプロの歌手なんて
-とてもなれないからね
+I figured I couldn't make it big
+without putting in the effort to
+expand my audience.
 Nijika
 440043_17_a
 Rika
 440043_16_a
 Nanairo
 440043_15_a
-あっ、うん
-わたしがOKしたんだよ
+Hm? Uh, yeah, I gave the okay.
 Nijika
 440043_14_a
 Kazuto
 440043_13_a
 Keiko
 440043_12_a
-配信してたの!?
-いいの?
+There was a live stream?
+Is that okay with you?
 Asuna
 440043_11_a
 Nanairo
 440043_9_a
-えっ……わわっ!
-確かに……
+Oh wow, they really are!
 Nijika
 440043_8_a
 Rika
@@ -146282,12 +146261,12 @@ Asuna
 440043_7_a
 Kazuto
 440043_6_a
-さっきのライブの様子を
-生配信してた映像ですね……わっ!
-閲覧数とコメントがすごいことに……
+Ooh, it's a live stream of your
+show. And the viewer and comment
+numbers are through the roof!
 Keiko
 440043_5_a
-どうしたの、里香っち
+What's up, Rika?
 Nijika
 440043_4_a
 Nanairo
@@ -146295,89 +146274,86 @@ Nanairo
 Nijika
 440043_2_a
 bg_16_pub
-ちょっとちょっと～
-これ見て!
+Hey, hey! Look at this!
 Rika
 440043_1_a
-うん!
-最高だったよ!
+Yeah, great job out there!
 Asuna
 440041_24_a
 Asuna
 440041_23_a
 Keiko
 440041_22_a
-虹架の歌声、良かったぜ
+Of course. You sounded great!
 Kazuto
 440041_21_a
 Nanairo
 440041_20_a
-ナナ、ありがとう
-みんなも声援ありがとう
+Thanks, Nana! And thanks for
+cheering me on, guys.
 Nijika
 440041_19_a
-お姉ちゃん～
-お疲れさま～
-うわ～ん～
+You did such a great job, sis!
+Waaaaah!
 Nanairo
 440041_18_a
-ふふっ、みんな
-うちの妹をあんまり虐めないであげて
+Hehe, go easy on my little sister!
 Nijika
 440041_17_a
-う、うるさいわねー!
+Oh, shut up!
 Nanairo
 440041_16_a
 Nanairo
 440041_15_a
+I guess there are some nice side
+effects to you acting grown-up
+all the time.
 Kazuto
 440041_14_a
-ああ、普段の大人ぶってるのも
-これくらいなら可愛いんだけどなぁ
 Asuna
 440041_13_a
-ふふっ、七色さん
-姉想いのイイ子ですね～
+Hehe, you've got a soft spot for
+your sister, huh, Nanairo?
 Keiko
 440041_12_a
-でしょうね
-想いが溢れて堰を切ったように
-感動が表に飛び出しちゃったとか
+Me too! But then the dam burst
+and all those emotions just came
+flooding out.
 Rika
 440041_11_a
 Rika
 440041_9_a
-ふふっ、最初は
-意地張ってたんじゃないのかな?
+Hehe, I seem to recall a bit of
+complaining at the start...
 Asuna
 440041_8_a
 Keiko
 440041_10_a
-いや、良かったとは思うけど……
+I did, but that's not the point...
 Kazuto
 440041_7_a
-お姉ちゃんのライブ!
-すごい良かったでしょ!
+What, you didn't think my sister's
+show was amazing?
 Nanairo
 440041_6_a
-おいおい……
-ライブ始まった頃は辛らつだったのに
-いつのまに涙腺崩壊してんだよ……
+Wait, where's all this coming
+from? You were super salty at
+the start of the show.
 Kazuto
 440041_5_a
 Kazuto
 440041_4_a
-お姉ちゃん……
-お姉ちゃん……
-サイコーだったぁ……えぐっ……
+Oh my gosh, sis...
+That was... 
+sniff
+That was incredible!
 Nanairo
 440041_3_a
-ひゅーっ!
-良かったよーっ!!
+Wooo! We love you!
 Audience
 440041_2_a
 bg_16_pub
-ありがとうございましたー!
+Thank you so much!
 Nijika
 440041_1_a
 Right!
@@ -152997,13 +152973,53 @@ Ahem, I mean, Joker!
 That's totally who you are!
 Yuuki
 250121_1_a
-ふふっ、そうだったのかもしれないね
-アスナ
-250088_30_a
-なるほど、そうですね
-だからあのお家も扉が
-閉まっていたんですね
-250088_29_a
+Hehe, maybe!
+Asuna
+250089_11_a
+Ah, I see. Perhaps that had
+something to do with why
+the door was locked?
+Yui
+250089_10_a
+It is Christmas, after all.
+Someone's always willing
+to play Santa!
+Asuna
+250089_9_a
+I'm sure someone would have
+discovered it eventually and
+brought that medicine.
+Asuna
+250089_8_a
+But if Alice never approached that
+child, would the quest ever have
+been finished?
+Yui
+250089_7_a
+I personally was surprised that
+they managed to complete that
+NPC's quest.
+Yui
+250089_6_a
+Yeah... I didn't want to butt in,
+but I did want to keep an eye on
+Alice to make sure she was okay.
+Asuna
+250089_5_a
+You were checking on Alice and
+Eugeo, right, Mommy?
+Yui
+250089_4_a
+But all's well that ends well,
+huh?
+Asuna
+250089_3_a
+Yui
+250089_2_a
+bg_event_christmas_town
+Well, that was unexpected...
+Asuna
+250089_1_a
 Hehe, maybe!
 Asuna
 250088_28_a
@@ -153037,12 +153053,13 @@ especially during that long talk
 on the nature of the divine...
 Asuna
 250088_22_a
+You were checking on Alice and
+Eugeo, right, Mommy?
 Yui
 250088_21_a
 But I guess it all ended up okay?
 Asuna
 250088_20_a
-そうだね
 Yui
 250088_19_a
 sigh
@@ -153086,16 +153103,18 @@ Alice... You planned on doing this
 from the beginning, didn't you?
 Eugeo
 250088_10_a
-bg_11_church_alley
 It's too early to know if that
 medicine will help. I'll return
 soon to check in on them.
 Alice
 250088_9_a
+Hehe... That kid seemed pretty
+happy, huh?
 Eugeo
 250088_8_a
 Eugeo
 250088_7_a
+bg_11_church_alley
 ...
 Alice
 250088_6_a
@@ -153112,6 +153131,9 @@ What's that on the ground...
 Medicine?!
 Child
 250088_3_a
+Hmm, is someone at the door?
+Hey, there's no one here...
+Child
 250088_2_a
 bg_21_alne_inn
 Daddy... Get better soon, okay?
@@ -153194,6 +153216,54 @@ bg_12_church_lounge
 You there, child.
 Alice
 250087_1_a
+Come on, Alice. You said it
+earlier, right? Kids should be
+able to believe in miracles.
+Eugeo
+250086_11_a
+Besides...people should forge
+their own destinies, not place
+faith in fairytales.
+Alice
+250086_10_a
+Probably quite shocked, yes...
+But this is just one of the many
+duties of an Integrity Knight.
+Alice
+250086_9_a
+I see... Heh. Bet that kid'd be
+surprised to learn that you were
+Santa today, huh?
+Eugeo
+250086_8_a
+I merely thought that children
+should be able to believe in
+miracles. That is all.
+Alice
+250086_7_a
+Th-That is of no importance.
+Alice
+250086_6_a
+You left that medicine by the door
+because you wanted that kid to
+believe in Santa, didn't you?
+Eugeo
+250086_5_a
+It's too early to know if that
+medicine will help. I'll return
+soon to check in on them.
+Alice
+250086_4_a
+Hehe... That kid seemed pretty
+happy, huh?
+Eugeo
+250086_3_a
+Eugeo
+250086_2_a
+bg_event_christmas_town
+...
+Alice
+250086_1_a
 ...
 Alice
 250085_23_a
@@ -153289,6 +153359,69 @@ what it was like in our world. So,
 forgive me if I offend...
 Eugeo
 250085_1_a
+Oh, thank you so much, Santa!
+I knew you were real!
+Child 3
+250084_16_a
+Wait a sec... Is this from Santa?!
+Santa gave me a present?!
+Child 3
+250084_15_a
+This is just what Mommy needs!
+Now she'll get better for sure!
+Child 3
+250084_14_a
+Hey, what's that on the ground?
+It's...medicine?!
+Child 3
+250084_13_a
+Huh? Is that someone at the door?
+...Hello? Wait a sec, no one's
+there...
+Child 3
+250084_12_a
+bg_04_inn_bed
+Mommy...
+Get better, please...
+Child 3
+250084_11_a
+...
+Alice
+250084_9_a
+Eugeo
+250084_10_a
+If she could just get better, I'm
+sure she would have already.
+I feel bad for that child...
+Eugeo
+250084_8_a
+That...sounds like a pretty tough
+gift for "Santa" to give. That
+kid's mom must be really sick...
+Eugeo
+250084_7_a
+...!
+Alice
+250084_6_a
+I... I asked him to help my sick
+mommy get better! But he didn't
+help at all!
+Child 3
+250084_5_a
+Well, I didn't get anything from
+him!
+Child 3
+250084_4_a
+They appear to be arguing over the
+existence of this Santa character.
+Alice
+250084_3_a
+Alice
+250084_2_a
+bg_event_christmas_town
+Are those kids fighting?
+Eugeo
+250084_1_a
 Er... Maybe you shouldn't leap
 to conclusions?
 Eugeo
@@ -153397,6 +153530,73 @@ bg_10_kob_room
 Hey, Alice. What are you up to?
 Eugeo
 250083_1_a
+Eugeo
+250082_19_a
+...
+Alice
+250082_18_a
+Yeah! Santa brought me a present
+last year!
+Child 2
+250082_17_a
+What are you talking about?
+Of course Santa exists!
+Child 1
+250082_16_a
+Santa...
+Santa doesn't exist!!
+Child 3
+250082_15_a
+What about you?
+Child 1
+250082_14_a
+I want a picture book!
+Child 1
+250082_13_a
+I want a toy sword!
+Child 2
+250082_12_a
+bg_event_christmas_town
+Hey! What are you gonna ask Santa
+for?
+Child 1
+250082_11_a
+Asuna
+250082_9_a
+...
+Alice
+250082_8_a
+Eugeo
+250082_10_a
+So, in short, parents pretend to
+be a fairy tale to make children
+happy? How wonderful!
+Eugeo
+250082_7_a
+Wow...
+I didn't know that part of it!
+Eugeo
+250082_6_a
+Adults keep it a secret from their
+kids out of love. Santa makes
+children happy, after all!
+Asuna
+250082_5_a
+Kids think he actually exists, but
+eventually everyone realizes
+that Santa's just a tall tale.
+Asuna
+250082_4_a
+Alice
+250082_3_a
+Eugeo
+250082_2_a
+bg_11_home_lounge
+Actually, Santa Claus is kinda
+just an old legend. It's really
+parents who give their kids gifts.
+Asuna
+250082_1_a
 Hmm... I suppose that while I'm
 here, I might as well learn more
 about their customs and beliefs.
@@ -153456,6 +153656,79 @@ Asuna, I need to go outside and
 take in the air.
 Alice
 250081_1_a
+But...why would this Santa Claus
+be so charitable? What does he
+stand to gain?
+Alice
+250080_19_a
+It's the most wonderful and unique
+part about the whole holiday!
+Eugeo
+250080_18_a
+I found out that on Christmas Day,
+Santa Claus brings presents to all
+the good little children!
+Eugeo
+250080_17_a
+I wanted to learn about Christmas,
+so I've been asking around.
+Eugeo
+250080_16_a
+Eugeo? What are you doing here?
+Alice
+250080_15_a
+Alice
+250080_14_a
+They're talking about Santa Claus,
+Alice.
+Eugeo
+250080_13_a
+Santa? Who is this "Santa"
+these children speak of?
+Alice
+250080_12_a
+I need to write a letter to Santa
+and ask for all the things I want!
+Child 2
+250080_11_a
+Yay! Yippee! Woohoo!
+It's Christmas! I wonder
+what I'll get this year!
+Child 1
+250080_10_a
+bg_event_christmas_town
+...
+Alice
+250080_9_a
+Asuna
+250080_8_a
+I will be sure not to push myself.
+Alice
+250080_7_a
+Okay, I'm just glad you're not
+coming down with a cold. Have
+fun, but take it easy!
+Asuna
+250080_6_a
+A relaxing walk outside might help
+restore strength to my tired
+limbs.
+Alice
+250080_5_a
+I am healthy, merely a bit weary
+from our many battles.
+Alice
+250080_4_a
+Are you feeling okay, Alice?
+Asuna
+250080_3_a
+Asuna
+250080_2_a
+bg_11_home_lounge
+Asuna, I need to go outside and
+take in the air.
+Alice
+250080_1_a
 Ha ha, of course. Duh?
 Kirito
 250078_29_a
@@ -172468,8 +172741,6 @@ getting ready for Christmas, so
 they couldn't keep an eye on them.
 Eugeo
 150087_16_a
-アスナ
-150087_15_a
 Hey Eugeo, I have a question...
 How did you meet those kids,
 anyway?

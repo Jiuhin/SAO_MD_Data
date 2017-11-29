@@ -1,4 +1,13 @@
 TBD
+Holy Night Choker R4
+accessory01_0056
+TBD
+Holy Night Choker R3
+accessory01_0056
+TBD
+Holy Night Choker R2
+accessory01_0056
+TBD
 Bunny Hat R4
 accessory01_0054
 TBD
@@ -811,6 +820,15 @@ TBD
 Insane Armor R3
 armor02_0004
 TBD
+Holy Night Cape R4
+armor01_0061
+TBD
+Holy Night Cape R3
+armor01_0061
+TBD
+Holy Night Cape R2
+armor01_0061
+TBD
 Wolf Coat R4
 armor01_0060
 TBD
@@ -1194,6 +1212,12 @@ weapon09_0001
 TBD
 Libra Hastam R4
 weapon09_0001
+TBD
+Wreath on Chimney R5
+weapon08_0036
+TBD
+Wreath on Chimney R4
+weapon08_0036
 TBD
 Nightmare Wand R5
 weapon08_0035
@@ -2262,6 +2286,12 @@ TBD
 Light Dagger R1
 weapon04_0001
 TBD
+Present for You R5
+weapon03_0056
+TBD
+Present for You R4
+weapon03_0056
+TBD
 Burning Heart R5
 weapon03_0055
 TBD
@@ -2746,6 +2776,18 @@ weapon01_0106
 TBD
 June Blade+1 R4
 weapon01_0106
+TBD
+Twinkle Christmas Eve R5
+weapon01_0099
+TBD
+Twinkle Christmas Eve R4
+weapon01_0099
+TBD
+Reindeer Horn R5
+weapon01_0098
+TBD
+Reindeer Horn R4
+weapon01_0098
 TBD
 Jackpot Spada R5
 weapon01_0097

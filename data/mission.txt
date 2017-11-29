@@ -131,6 +131,38 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+8032005,3
+Complete "Master Sahuagin in a gale (Master +1)" without down.
+8032005,3,50
+Complete "Master Sahuagin in a gale (Master +1)"  with a 50-hit combo or more.
+8032004,3,1,2
+Complete "Master Sahuagin in a gale (Master)" with at least two sword characters in your party.
+8032003,3,3,1
+Complete  "Master Sahuagin in a gale (EX)" with a rapier character in your party.
+8032002,2,7,1
+Complete "Master Sahuagin in a gale (Expert)" with a bow character in your party.
+8032001,2,8,1
+Complete "Master Sahuagin in a gale (Int.)" with a rod character in your party.
+8032005,3,45
+Complete "Master Sahuagin in a gale (Master +1)" with guild members in Multi under 45 seconds.
+8032004,3,45
+Complete "Master Sahuagin in a gale (Master)" with guild members in Multi under 45 seconds.
+8032003,3
+Complete "Master Sahuagin in a gale (EX)" with guild members in Multi.
+3010048-3010049-3010050-3010051-3010052,50
+Defeat 50 of Dagon the Master Sahuagin in the guild. 
+8032004,3,45
+Complete "Master Sahuagin in a gale (Master)" under 45 sec. 
+8032004,3
+Complete "Master Sahuagin in a gale (Master)" without down.
+8032003,3
+Complete "Master Sahuagin in a gale (EX)" without down.
+8032003
+Complete  "Master Sahuagin in a gale (EX)"
+8032002
+Complete "Master Sahuagin in a gale (Expert)"
+8032001
+Complete "Master Sahuagin in a gale (Int.)"
 H&A
 8031005,3,45
 Complete "The Gigantes Strikes Back (Master +1)" with guild members in Multi under 45 seconds.
@@ -806,6 +838,22 @@ Complete "Monsters in the Castle of Mirage (Master +1)" under 45 Sec.
 Complete "Monsters in the Castle of Mirage (Master)" under 45 Sec.
 4073003,2,45
 Complete "Monsters in the Castle of Mirage (EX)" under 45 Sec.
+4070014,1,1,2
+「星空の下で 聖なる歌を 絶級+1」を、自分のパーティに片手剣キャラを2人以上入れてクリア
+4070015,1,8,1
+「星空の下で 聖なる歌を 絶級+2」を、自分のパーティに杖キャラを1人以上入れてクリア
+4070015,1,3,1
+「星空の下で 聖なる歌を 絶級+2」を、自分のパーティに細剣キャラを1人以上入れてクリア
+4070014,1,60
+Complete "Carol Under the Starry Sky (Master+2)" under 1 min.
+407001,2500000
+Earn a score of 3,000,000 in Carol Under the Starry Sky
+407001,5500000
+Earn a score of 4,000,000 in Carol Under the Starry Sky
+4070014
+Complete "Carol Under the Starry Sky (Master+1)"
+4070009
+Complete "Carol Under the Starry Sky"
 <}5
 4069025,1,1,2
 Complete "Dungeon Assault Battle & Poker (Master +1)" with two sword characters.

@@ -644,7 +644,10 @@ L>e3
 L>e3
 L>e3
 L>e3
-L>e3
+Ga>e3
+<e3
+<e3
+<e3
 <e3
 <e3
 L>e3
@@ -778,12 +781,6 @@ djF
 >d3
 >d3
 >d3
->d3
->d3
->d3
->d3
->d3
->d3
 djF
 >d3
 djF
@@ -906,8 +903,10 @@ L?d3
 >d3
 >d3
 djF
+L>d3
 djF
 djF
+L>d3
 L>d3
 L>d3
 L>d3
@@ -1044,10 +1043,9 @@ L>d3
 >d3
 >f3
 >d3
-QCG
 L>d3
 QCG
-QCG
+L>d3
 QCG
 L>d3
 QCG
@@ -1159,6 +1157,8 @@ L>d3
 >d3
 >d3
 >d3
+L>f3
+L>f3
 L>f3
 L>f3
 ?f3

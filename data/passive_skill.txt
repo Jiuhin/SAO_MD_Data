@@ -189,8 +189,8 @@ Lower MP required by 5% when HP is above 50%.
 Required MP -5% (HP Above 50%)
 Attack +6% when HP is below 90%.
 Attack +6% (HP Below 90%)
-HP80%以上で闇属性の敵に攻撃力が6%増加する。
-HP80%以上で対闇属性の攻撃+6%
+Increases Attack by 6% vs Dark-elem. enemies when HP is above 80%.
+Attack +6% vs Dark-elem. (HP Above 80%)
 Increases Attack by 6% vs Wind-elem. enemies when HP is above 80%.
 Attack +6% vs Wind-elem. (HP Above 80%)
 Increases Attack by 6% vs Earth-elem. enemies when HP is above 80%.
@@ -504,6 +504,8 @@ Attack +3% on Attack Weak Points (Earth-elem.)
 oE3
 Increases Dark-elem. character's Attack by 3% when they attack  weak points.
 Attack +3% on Attack Weak Points (Dark-elem.)
+Increases Holy-elem. character's Attack by 3% when they attack weak points.
+Attack +3% on Attack Weak Points (Holy-elem.)
 Increases Wind-elem. character's Attack by 3% when they attack weak points.
 Attack +3% on Attack Weak Points (Wind-elem.)
 Increases Water-elem. character's Attack by 3% when they attack weak points.
@@ -629,8 +631,8 @@ Reduces Holy-elem. character's Required MP by -10%, increases Critical damage by
 Required MP -10% / Critical damage +10% (Holy)
 Increases Holy-elem. character's MP & def. by 3%.
 MP & Def. +3% (Holy)
-聖属性が装備すると防御力が6%増加する
-聖属性の防御+6%
+Increases Holy-elem. character's MP & def. by 6%.
+MP & Def. +6% (Holy)
 Increases Holy-elem. character's attack by 3%.
 Atk +3% (Holy)
 Increases Holy-elem. character's MP by 3%.

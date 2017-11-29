@@ -156,6 +156,8 @@ The Order of the Immortal
 Event
 The Beast Lords in League
 Event
+聖夜の暗黒城
+Event
 The Pristine Floating Castle
 Event
 The Castle of Mirage
@@ -166,7 +168,8 @@ Shadowy castle in the night
 Event
 砂塵の突破口
 Event
-秘密の同盟!? プレゼント大作戦
+The Secret Alliance 
+Christmas Gift Mission
 Event
 Monsters in the Castle of Mirage
 Event
