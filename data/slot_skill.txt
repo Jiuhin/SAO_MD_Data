@@ -838,6 +838,9 @@ slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_ss_enhance_3_9
+Enhances Sword Skill 3. Becomes powerful. Increases stun and fastens the trigger of the combination skill.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_9
 Enhances Sword Skill 3. Reduces required MP.  Becomes powerful.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_9
@@ -1002,6 +1005,9 @@ Enhances Sword Skill 3. Becomes more powerful. Increases own attack and critical
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Raises your speed.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_2
+Enhances Sword Skill 3. Becomes powerful. Increases stun and fastens the trigger of the combination skill.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_2
 Enhances Sword Skill 3. Increases own attack.

@@ -483,6 +483,16 @@ Holy Night Cape R3
 Holy Night Cape R2
 9i5
 Green Breeze Lantern R4
+Col Boost (2x) x1
+EXP Boost (2x) x1
+Ritual Rapier R3
+Starry Night R3
+9u3
+Miracle Bringer R3
+Rainbow Essence x1
+Exchange Sword R2
+9I2
+Christmas Gold Medal x1
 Lv. 80 Decryption Key x1
 Lv. 70 Decryption Key x1
 Lv. 60 Decryption Key x1
@@ -7589,6 +7599,16 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+クリスマスの進化結晶
+クリスマスのゴールドメダル
+クリスマスのシルバーメダル
+クリスマスのシルバーメダル
+クリスマスのシルバーメダル
+クリスマスのシルバーメダル
+クリスマスのブロンズメダル
+クリスマスのブロンズメダル
+クリスマスのブロンズメダル
+クリスマスのブロンズメダル
 Heart Relic R3
 Heart Relic R2
 Christmas Upgrade Crystal x1

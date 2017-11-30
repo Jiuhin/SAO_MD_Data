@@ -550,9 +550,9 @@ L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
-You can do the Christmas Leaf Gold Medal Scout.
+You can do the Christmas Gold Medal Scout.
 Christmas Gold Medal
-You can do the Christmas Leaf Silver Medal Scout.
+You can do the Christmas Silver Medal Scout.
 Christmas Silver Medal
 You can do the Christmas Bronze Medal Scout.
 Christmas Bronze Medal
@@ -644,7 +644,6 @@ Yukata Night Record Crystal
 item_m_evolution_20007
 Raises Seven and Rain's level cap.
 ([Santa is coming] Seven, [Personal Santa] Rain only) 
-Rarity: High
 Christmas Upgrade Crystal
 item_m_evolution_20006
 Raises Asuna's level cap.
@@ -676,6 +675,8 @@ Upgrades characters
 [Holy Sword] Heathcliff 
 Rarity: High
 Cross Swords Upgrade Crystal
+At the Exchange Shop, exchangeable with various items and so on.
+Christmas Stocking
 At the Exchange Shop, exchangeable with various items and so on.
 Sundust (Small)
 At the Exchange Shop, exchangeable with various equipment and so on.
@@ -781,8 +782,7 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
-Raises Seven and Rain's level cap. ([tbd] Seven only) 
-Rarity: High
+Raises [Santa is coming] Seven and [Presonal Santa] Rain's level cap.
 Christmas Hacking Crystal
 Raises Strea's level cap. ([Abounding Spring Water] Strea only) 
 Rarity: High

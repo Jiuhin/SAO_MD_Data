@@ -81,6 +81,7 @@ QCG
 L>d3
 >d3
 >e3
+>e3
 djF
 L>e3
 djF
@@ -773,6 +774,7 @@ Ga>
 Ga>e3
 Ga>
 Ga>
+djF
 djF
 >d3
 >d3

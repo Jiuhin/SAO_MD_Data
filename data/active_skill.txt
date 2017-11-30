@@ -1,4 +1,8 @@
 skill_icon_lance_3_{}
+Emit light over a wide range. Attack with some holy power. Likely to stun an enemy. 
+Luminous Garden+
+Luminous Garden+
+skill_icon_lance_3_{}
 Dives into the enemy with a thrust and continues the attack with Libra magic. Likely to stun an enemy.
 Libra Spark+
 Libra Spark+
@@ -196,6 +200,11 @@ skill_icon_finesword_3_{}
 Enhance your speed and unleash a blinding eight-hit combo.
 Star Splash+
 Star Splash+
+!LC
+skill_icon_dualblade_3_{}
+Deliver a swift slash and attack with a sacred wreath. Likely to stun an enemy. 
+Sacred Wreath+
+Sacred Wreath+
 skill_effect_33103
 skill_effect_33103
 skill_icon_dualblade_3_{}

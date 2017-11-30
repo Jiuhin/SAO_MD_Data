@@ -928,6 +928,226 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 28
+"Enormous Monsters "The Evils Black Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 27
+"Enormous Monsters "The Evils Black Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 26
+"Enormous Monsters "The Evils Black Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 25
+"Enormous Monsters "The Evils Black Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 24
+"Enormous Monsters "The Evils Blue Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 23
+"Enormous Monsters "The Evils Blue Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 22
+"Enormous Monsters "The Evils Blue Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 21
+"Enormous Monsters "The Evils Blue Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 20
+"Enormous Monsters "The Evils Yellow Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 19
+"Enormous Monsters "The Evils Yellow Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 18
+"Enormous Monsters "The Evils Yellow Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 17
+"Enormous Monsters "The Evils Yellow Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 16
+"Enormous Monsters "The Evils Red Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 15
+"Enormous Monsters "The Evils Red Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 14
+"Enormous Monsters "The Evils Red Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 13
+"Enormous Monsters "The Evils Red Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 12
+"Enormous Monsters "The Evils Orange Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 11
+"Enormous Monsters "The Evils Orange Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 10
+"Enormous Monsters "The Evils Orange Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 9
+"Enormous Monsters "The Evils Orange Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 8
+"Enormous Monsters "The Evils Green Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 7
+"Enormous Monsters "The Evils Green Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 6
+"Enormous Monsters "The Evils Green Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 5
+"Enormous Monsters "The Evils Green Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree.
+Win the battle in the dark!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 4
+"Enormous Monsters "The Evils Joulupukki (Master +1)" 
+"Santa Claus" appears under a Christmas tree.
+Win the battle in the dark!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 3
+"Enormous Monsters "The Evils Joulupukki (Master)" 
+"Santa Claus" appears under a Christmas tree.
+Win the battle in the dark!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 2
+"Enormous Monsters "The Evils Joulupukki (EX)" 
+"Santa Claus" appears under a Christmas tree.
+Win the battle in the dark!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 1
+"Enormous Monsters "The Evils Joulupukki (Expert)" 
 "Dagon the Master Sahuagin" makes an assault!
 Survive a sword battle with your peers 
 and beat up your enemy!
@@ -3767,46 +3987,41 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
 Quest 15
 Carol Under the Starry Sky (Master +2)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
 Quest 14
 Carol Under the Starry Sky (Master +1)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
 Quest 13
 Carol Under the Starry Sky (Master)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
 Quest 12
 Carol Under the Starry Sky (EX)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
@@ -3818,8 +4033,9 @@ bg_thumbnail_0
 Story 10
 Unexpected Reward
 The Black Cape Man tamed 
-"          The Reindeer"
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer"
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8015
@@ -10567,6 +10783,226 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 28
+"Enormous Monsters "The Evils Black Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 27
+"Enormous Monsters "The Evils Black Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 26
+"Enormous Monsters "The Evils Black Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 25
+"Enormous Monsters "The Evils Black Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 24
+"Enormous Monsters "The Evils Blue Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 23
+"Enormous Monsters "The Evils Blue Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 22
+"Enormous Monsters "The Evils Blue Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 21
+"Enormous Monsters "The Evils Blue Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 20
+"Enormous Monsters "The Evils Yellow Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 19
+"Enormous Monsters "The Evils Yellow Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 18
+"Enormous Monsters "The Evils Yellow Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 17
+"Enormous Monsters "The Evils Yellow Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 16
+"Enormous Monsters "The Evils Red Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 15
+"Enormous Monsters "The Evils Red Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 14
+"Enormous Monsters "The Evils Red Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 13
+"Enormous Monsters "The Evils Red Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 12
+"Enormous Monsters "The Evils Orange Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 11
+"Enormous Monsters "The Evils Orange Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 10
+"Enormous Monsters "The Evils Orange Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 9
+"Enormous Monsters "The Evils Orange Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 8
+"Enormous Monsters "The Evils Green Joulu (Master +1)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 7
+"Enormous Monsters "The Evils Green Joulu (Master)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 6
+"Enormous Monsters "The Evils Green Joulu (EX)" 
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be careful with his parry attacks and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 5
+"Enormous Monsters "The Evils Green Joulu (Expert)" 
+"Santa Claus" appears under a Christmas tree.
+Win the battle in the dark!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 4
+"Enormous Monsters "The Evils Joulupukki (Master +1)" 
+"Santa Claus" appears under a Christmas tree.
+Win the battle in the dark!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 3
+"Enormous Monsters "The Evils Joulupukki (Master)" 
+"Santa Claus" appears under a Christmas tree.
+Win the battle in the dark!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 2
+"Enormous Monsters "The Evils Joulupukki (EX)" 
+"Santa Claus" appears under a Christmas tree.
+Win the battle in the dark!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Quest 1
+"Enormous Monsters "The Evils Joulupukki (Expert)" 
 "Dagon the Master Sahuagin" makes an assault!
 Survive a sword battle with your peers 
 and beat up your enemy!
@@ -13406,46 +13842,41 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
 Quest 15
 Carol Under the Starry Sky (Master +2)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
 Quest 14
 Carol Under the Starry Sky (Master +1)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
 Quest 13
 Carol Under the Starry Sky (Master)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
 Quest 12
 Carol Under the Starry Sky (EX)
-The Black Cape Man tamed 
-"          The Reindeer" 
-They are more powerful than ever!
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer" is back and more powerful.
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8046
@@ -13457,8 +13888,9 @@ bg_thumbnail_0
 Story 10
 Unexpected Reward
 The Black Cape Man tamed 
-"          The Reindeer"
-Figure out the best distance to parry and defeat it!
+"Guardolf The Reindeer"
+Be careful when it starts swingging its horns around!
+Figure out where to parry right away and defeat it!
 Defeat All Enemies
 Quest
 bg_thumbnail_8015

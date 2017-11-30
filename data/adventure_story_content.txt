@@ -1,43 +1,47 @@
-tV{
-(({
-(zz
-pez
-H>z
-44y
-dSx
-XMx
-tXw
-$/w
-t!w
-Tuu
-tNu
-t(u
-PDt
-dWs
-PQs
-xEq
-P3q
-(1o
-Ptn
-l.n
-4"n
-<pm
-pkl
-(Gk
-<{j
-TRj
-D7j
-x_i
-P2i
-81h
-(gg
-hZg
-Hff
-pIe
-H!e
-t2c
-0Zb
-0!b
+pV{
+$({
+$zz
+lez
+D>z
+04y
+TMx
+x!x
+Xow
+pXw
+p!w
+Xzv
+Puu
+pNu
+p(u
+LDt
+LQs
+tEq
+L3q
+$1o
+Ltn
+h.n
+0"n
+8pm
+lkl
+$Gk
+X,k
+8{j
+<nj
+PRj
+x$j
+t_i
+L2i
+41h
+X'h
+$gg
+dZg
+X-g
+Dff
+lIe
+D!e
+p2c
+,Zb
+,!b
 dA_
 00_
 (W]
@@ -80092,7 +80096,8 @@ WOOO! ME! ME! I AM!!
 Klein
 1840117_2_a
 bg_16_pub
-Who's ready for the next song?!
+Who's ready for
+the next song?!
 Nijika
 1840117_1_a
 So that's what was going on...
@@ -130251,7 +130256,7 @@ Suguha
 650077_20_a
 What are you doing in an
 electronics store in the middle
-Oh no...
+of--Oh no...
 Asuna
 650077_19_a
 Asuna?!
@@ -130376,38 +130381,38 @@ Asuna
 650075_1_a
 Yeah, I bet he'll love it!
 Leafa
-650073_20_a
+650073_19_a
 Yeah, Kirito ALWAYS wears black.
 You can't go wrong if you get him
 something dark and dreary.
 Asuna
-650073_19_a
+650073_18_a
 Yeah, seriously! This scarf suits
 him to a T. Black, but with just
 a hint of a stylish design to it.
 Leafa
-650073_18_a
+650073_17_a
 Still, I'm impressed we both
 picked out the same thing! I guess
 we know our audience, huh?
 Asuna
-650073_17_a
+650073_16_a
 It's okay, I don't mind. I'll just
 have to think of something else
 to give him.
 Asuna
-650073_16_a
+650073_15_a
 Are you sure you want to let me
 have this one, Asuna? You were
 here first.
 Leafa
-650073_15_a
+650073_14_a
 bg_event_christmas_town
 Hehe, I can't believe we were
 both thinking of getting him the
 same present!
 Asuna
-650073_14_a
+650073_13_a
 It...probably is. Ha ha...
 Leafa
 650073_12_a
@@ -153446,8 +153451,7 @@ Eugeo
 250083_20_a
 No, they don't. Especially this
 Christmas. For a sacred event, it
-seems rather loud
-and commercial.
+seems rather loud--and commercial.
 Alice
 250083_19_a
 Yeah... Their rituals don't seem
@@ -172607,7 +172611,7 @@ just a liiittle bit longer, right?
 Asuna
 150088_26_a
 H-Hey, I thought I said it was
-time to go home! Where are you
+time to go home! Where are you--
 Come back here this instant!
 Alice
 150088_25_a
@@ -172670,7 +172674,7 @@ Child A
 150088_12_a
 Alice
 150088_11_a
-Kids, we've been looking all over
+Kids, we've been looking all over--
 ALICE?! What are you doing here?!
 Eugeo
 150088_10_a
@@ -172706,41 +172710,41 @@ Child A
 150088_1_a
 And we'll help you do it!
 Kirito
-150087_24_a
+150087_23_a
 I...didn't think of that...
 Oh no, what have I done!
 I have to find them!
 Eugeo
-150087_23_a
+150087_22_a
 ...
 Eugeo
-150087_22_a
+150087_21_a
 Yeah, but would those kids have
 gone missing if you were there
 to watch out for them?
 Kirito
-150087_21_a
+150087_20_a
 My reasons don't change the fact
 that she was right...
 Eugeo
-150087_20_a
+150087_19_a
 Yeah, I'm sure she would've left
 you alone if she knew...
 Asuna
-150087_19_a
+150087_18_a
 Oh, seriously? Why didn't you just
 tell Alice that?
 Kirito
-150087_18_a
+150087_17_a
 That's why they asked me to play
 with them and keep them company.
 Eugeo
-150087_17_a
+150087_16_a
 Their parents were really busy
 getting ready for Christmas, so
 they couldn't keep an eye on them.
 Eugeo
-150087_16_a
+150087_15_a
 Hey Eugeo, I have a question...
 How did you meet those kids,
 anyway?
@@ -172990,8 +172994,7 @@ Low blow, Asuna. Low blow.
 Kirito
 150081_10_a
 Eugeo's got class, social skills,
-and is great with kids
-unlike a
+and is great with kids--unlike a
 certain solo player I know.
 Asuna
 150081_9_a

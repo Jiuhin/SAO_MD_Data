@@ -644,6 +644,8 @@ e8d35634d29b482c471876d8656509c2
 ss/unit/chara_2_sword_w/skill_effect_sword_1.png
 6a1b49c8b0059247b22c896af3bdfa75
 ss/unit/chara_2_sword_w/skill_effect_24121.png
+fc6469f70da324f8f64222f9b5f7ada3
+ss/unit/chara_2_sword_w/skill_effect_24119.png
 73b0a7c20b43b5ffb939c386b84cc10c
 ss/unit/chara_2_sword_w/skill_effect_24116.png
 f9e05538f81de59175c1f4238ffadfa5
@@ -1178,8 +1180,6 @@ ss/unit/chara_16_rod_w/4_seven_164007.png
 ss/unit/chara_16_rod_w/4_seven_164001.png
 3c032a253bec42acfcdfc6dfc7945035
 ss/unit/chara_16_rod_w/4_leafa_24001.png
-5e44447e47e1bed9476f6ac25b3fce3a
-ss/unit/chara_16_rod_w/4_leafa_164102.png
 8d0b2565bb7cf52e2229f0a915e836ab
 ss/unit/chara_16_rod_w/4_leafa_164013.png
 95b14c91fef04cc70aeb41cc95ee204b
@@ -1948,7 +1948,7 @@ images/lottery/057/10571_scout_weapon_banner.png
 images/lottery/055/20551_scout_top_s.png
 690acdc56aded0ec3d9f2ae05f54674d
 images/lottery/055/20551_scout_banner.png
-8ec59b9cb962ad302b4c45b01aec172f
+232770decc65b007c949a8b18c5bcec3
 images/lottery/055/10551_weapon_top_s.png
 1e8bf5b4c6bea24a9e62189eb96ad3f4
 images/lottery/055/10551_weapon_banner.png
@@ -2832,6 +2832,10 @@ images/event/9002/9002_banner.png
 images/event/9001/9001_top.png
 f9cbc601493ad89a88fd1601cc5fd29e
 images/event/9001/9001_banner.png
+18d4e28b1f5ca6e3614a116ab63d0eff
+images/event/8033/8033_top.png
+c304ef5ebd9883367d4c929a5da70a3b
+images/event/8033/8033_banner.png
 3ae09d6a2a7bdf364f2e6e18b917148b
 images/event/8032/8032_top.png
 2b930908c41021b50f2504265c04ea9c
