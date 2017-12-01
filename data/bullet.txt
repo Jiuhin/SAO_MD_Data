@@ -1,5 +1,6 @@
-pw	
-<H	
+TH	
+xA	
+4)	
 dead
 bullet_99907_pina_sweet_breath
 bullet_99914_pina_wonder_snowman
@@ -3056,6 +3057,8 @@ dead
 bullet_1999_damage
 dead
 bullet_1999_damage
+wait
+ground
 bullet_1106_darkness_smoke
 dead
 bullet_1104_xmas_gift_1

@@ -1,17 +1,22 @@
-h{6
-p_4
-pz-
-T/-
-$W,
-H1+
-pl)
-Pu'
-l}%
-XK%
-tz"
-hp!
-(I!
-TB 
+P{6
+(k5
+X_4
+lh3
+(/1
+dn.
+Xz-
+</-
+p5,
+01+
+ll)
+Lu'
+h}%
+TK%
+<N$
+pz"
+dp!
+$I!
+PB 
 walk
 wakeup
 wait
@@ -176,7 +181,7 @@ dead
 dash
 damage
 charge_old
-"DB
+"DZ
 charge
 back_step
 attack_3
@@ -534,7 +539,7 @@ wait
 stun
 step
 skill_16310101
-zDls
+zDps
 skill_163101
 skill_161201
 skill_161102
@@ -1517,7 +1522,7 @@ wakeup
 wait
 stun
 step
-zDV
+zDn
 skill_2313001
 	5	
 skill_23130
@@ -1952,6 +1957,7 @@ wakeup
 wait
 stun
 step
+HD 
 skill_184102
 skill_182101
 skill_181101
@@ -2035,6 +2041,7 @@ wakeup
 wait
 stun
 step
+zDB!
 skill_184101
 skill_182101
 skill_181101
@@ -2160,7 +2167,6 @@ wakeup
 wait
 stun
 step
-TDf
 skill_183108
 skill_182101
 skill_181101
@@ -2326,7 +2332,6 @@ wakeup
 wait
 stun
 step
-HDvS
 skill_183103
 skill_182101
 skill_181101
@@ -2511,7 +2516,9 @@ down
 dead
 dash
 damage
+"DB
 charge_old
+"D.
 charge
 back_step
 attack_3
@@ -2531,7 +2538,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_165003
-ALP player, Sylph.Sakuya summons Leafa to their manor and informs her that the Christmas tree on the the grounds is withering. Leaf sets out to find a new tree with Rekon...
+ALO player, Sylph.Sakuya summons Leafa to their manor and informs her that the Christmas tree on the grounds is withering. Leaf sets out to find a new tree with Rekon...
 serif
 5_leafa_165003
 Leafa
@@ -2690,9 +2697,9 @@ down
 dead
 dash
 damage
-"D6
+"DJ
 charge_old
-"D"
+"D6
 charge
 back_step
 attack_3
@@ -2827,6 +2834,7 @@ down
 dead
 dash
 damage
+"D>
 charge_old
 charge
 back_step
@@ -3006,9 +3014,8 @@ down
 dead
 dash
 damage
-"Dn
 charge_old
-"DZ
+"Dn
 charge
 back_step
 attack_3
@@ -3052,9 +3059,9 @@ down
 dead
 dash
 damage
-"DZ
+"Dn
 charge_old
-"DF
+"DZ
 charge
 back_step
 attack_3
@@ -3147,7 +3154,6 @@ dead
 dash
 damage
 charge_old
-"Dn
 charge
 back_step
 attack_3
@@ -3177,7 +3183,7 @@ wakeup
 wait
 stun
 step
-D8(
+DL(
 skill_163113
 skill_161201
 skill_161102
@@ -3238,9 +3244,9 @@ down
 dead
 dash
 damage
-"DBf
+"DVf
 charge_old
-"D.h
+"DBh
 charge
 back_step
 attack_3
@@ -3270,7 +3276,7 @@ wakeup
 wait
 stun
 step
-zDVw
+zDjw
 skill_16310101
 skill_163101
 skill_161201
@@ -3375,8 +3381,9 @@ down
 dead
 dash
 damage
-"D.
+"DB
 charge_old
+"D.
 charge
 back_step
 attack_3
@@ -3420,9 +3427,9 @@ down
 dead
 dash
 damage
-"Df
+"Dz
 charge_old
-"DR
+"Df
 charge
 back_step
 attack_3
@@ -3466,9 +3473,8 @@ down
 dead
 dash
 damage
-"Dv
 charge_old
-"Db
+"Dv
 charge
 back_step
 attack_3
@@ -3498,7 +3504,7 @@ wakeup
 wait
 stun
 step
-aDP
+aDd
 skill_144102
 skill_141201
 skill_141101
@@ -3817,6 +3823,7 @@ wait
 stun
 step
 skill_14310601
+D2/
 skill_143106
 skill_141202
 %(	
@@ -4360,6 +4367,7 @@ wakeup
 wait
 stun
 step
+zD2
 skill_123112
 skill_121202
 skill_121101
@@ -4936,7 +4944,7 @@ wakeup
 wait
 stun
 step
-zDN
+zDb
 skill_104101
 skill_102201
 skill_101101
@@ -5022,7 +5030,6 @@ wakeup
 wait
 stun
 step
-zD,
 skill_104102
 skill_102201
 skill_101101
@@ -5404,7 +5411,7 @@ wakeup
 wait
 stun
 step
-HDZX
+HDnX
 skill_103122
 skill_102201
 skill_101101
@@ -8658,8 +8665,8 @@ wakeup
 wait
 stun
 step
-/DX
-/D<
+/Dl
+/DP
 skill_64103
 skill_62101
 %&'
@@ -10966,6 +10973,7 @@ wakeup
 wait
 stun
 step
+HD>m
 skill_33108
 skill_32202
 skill_31201
@@ -11343,7 +11351,7 @@ wakeup
 wait
 stun
 step
-zDj7
+zD>7
 skill_24116
 skill_22102
 skill_21201

@@ -132,61 +132,61 @@ Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
 8033028
-Complete  "The Evils - Black Joulu (Master +1)"
+Complete  "The Renegades' gathering - Black Joulu (Master +1)"
 8033027
-Complete "The Evils - Black Joulu (Master)"
+Complete "The Renegades' gathering - Black Joulu (Master)"
 8033026
-Complete  "The Evils - Black Joulu (EX)"
+Complete  "The Renegades' gathering - Black Joulu (EX)"
 8033025
-Complete "The Evils - Black Joulu (Expert)"
+Complete "The Renegades' gathering - Black Joulu (Expert)"
 8033024
-Complete  "The Evils - Blue Joulu (Master +1)"
+Complete  "The Renegades' gathering - Blue Joulu (Master +1)"
 8033023
-Complete "The Evils - Blue Joulu (Master)"
+Complete "The Renegades' gathering - Blue Joulu (Master)"
 8033022
-Complete  "The Evils - Blue Joulu (EX)"
+Complete  "The Renegades' gathering - Blue Joulu (EX)"
 8033021
-Complete "The Evils - Blue Joulu (Expert)"
+Complete "The Renegades' gathering - Blue Joulu (Expert)"
 8033020
-Complete  "The Evils - Yellow Joulu (Master +1)"
+Complete  "The Renegades' gathering - Yellow Joulu (Master +1)"
 8033019
-Complete "The Evils - Yellow Joulu (Master)"
+Complete "The Renegades' gathering - Yellow Joulu (Master)"
 8033018
-Complete  "The Evils - Yellow Joulu (EX)"
+Complete  "The Renegades' gathering - Yellow Joulu (EX)"
 8033017
-Complete "The Evils - Yellow Joulu (Expert)"
+Complete "The Renegades' gathering - Yellow Joulu (Expert)"
 8033016
-Complete  "The Evils - Red Joulu (Master +1)"
+Complete  "The Renegades' gathering - Red Joulu (Master +1)"
 8033015
-Complete "The Evils - Red Joulu (Master)"
+Complete "The Renegades' gathering - Red Joulu (Master)"
 8033014
-Complete  "The Evils - Red Joulu (EX)"
+Complete  "The Renegades' gathering - Red Joulu (EX)"
 8033013
-Complete "The Evils - Red Joulu (Expert)"
+Complete "The Renegades' gathering - Red Joulu (Expert)"
 8033012
-Complete  "The Evils - Orange Joulu (Master +1)"
+Complete  "The Renegades' gathering - Orange Joulu (Master +1)"
 8033011
-Complete "The Evils - Orange Joulu (Master)"
+Complete "The Renegades' gathering - Orange Joulu (Master)"
 8033010
-Complete  "The Evils - Orange Joulu (EX)"
+Complete  "The Renegades' gathering - Orange Joulu (EX)"
 8033009
-Complete "The Evils - Orange Joulu(Expert)"
+Complete "The Renegades' gathering - Orange Joulu(Expert)"
 8033008
-Complete  "The Evils - Green Joulu (Master +1)"
+Complete  "The Renegades' gathering - Green Joulu (Master +1)"
 8033007
-Complete "The Evils - Green Joulu (Master)"
+Complete "The Renegades' gathering - Green Joulu (Master)"
 8033006
-Complete  "The Evils - Green Joulu (EX)"
+Complete  "The Renegades' gathering - Green Joulu (EX)"
 8033005
-Complete "The Evils - Green Joulu (Expert)"
+Complete "The Renegades' gathering - Green Joulu (Expert)"
 8033004
-Complete  "The Evils - Joulupukk (Master +1)"
+Complete "The Renegades' gathering - Joulupukki (Master +1)"
 8033003
-Complete "The Evils - Joulupukk (Master)"
+Complete "The Renegades' gathering - Joulupukki (Master)"
 8033002
-Complete  "The Evils - Joulupukk (EX)"
+Complete "The Renegades' gathering - Joulupukki (EX)"
 8033001
-Complete "The Evils - Joulupukki (Expert)"
+Complete "The Renegades' gathering - Joulupukki (Expert)"
 8032005,3
 Complete "Master Sahuagin in a gale (Master +1)" without down.
 8032005,3,50

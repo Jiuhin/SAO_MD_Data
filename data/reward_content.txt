@@ -7599,16 +7599,16 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
-クリスマスの進化結晶
-クリスマスのゴールドメダル
-クリスマスのシルバーメダル
-クリスマスのシルバーメダル
-クリスマスのシルバーメダル
-クリスマスのシルバーメダル
-クリスマスのブロンズメダル
-クリスマスのブロンズメダル
-クリスマスのブロンズメダル
-クリスマスのブロンズメダル
+Christmas Upgrade Crystal x1
+Christmas Gold Medal x1
+Christmas Silver Medal x5
+Christmas Silver Medal x3
+Christmas Silver Medal x2
+Christmas Silver Medal x1
+Christmas Bronze Medal x5
+Christmas Bronze Medal x3
+Christmas Bronze Medal x2
+Christmas Bronze Medal x1
 Heart Relic R3
 Heart Relic R2
 Christmas Upgrade Crystal x1

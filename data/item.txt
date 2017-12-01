@@ -642,21 +642,21 @@ item_m_record_crystal_emerald
 You can attain at the "YUKATA Night" Scout
 Yukata Night Record Crystal
 item_m_evolution_20007
-Raises Seven and Rain's level cap.
+Upgrades characters
 ([Santa is coming] Seven, [Personal Santa] Rain only) 
 Christmas Upgrade Crystal
 item_m_evolution_20006
-Raises Asuna's level cap.
+Upgrades characters
 ([Captive Princess] Asuna only) 
 Rarity: High
 Birdcage Upgrade Crystal
 item_m_evolution_20005
-Raises Strea's level cap.
+Upgrades characters
 ([Abounding Spring Water] Strea only) 
 Rarity: High
 Colored Leaf Upgrade Crystal
 item_m_evolution_20004
-Raises Leafa's level cap.
+Upgrades characters
 ([Rejoicing Witch] Leafa only) 
 Rarity: High
 Festival Upgrade Crystal
@@ -782,7 +782,7 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
-Raises [Santa is coming] Seven and [Presonal Santa] Rain's level cap.
+Raises [Santa is coming] Seven and [Personal Santa] Rain's level cap.
 Christmas Hacking Crystal
 Raises Strea's level cap. ([Abounding Spring Water] Strea only) 
 Rarity: High

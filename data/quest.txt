@@ -930,224 +930,228 @@ Quest 2017
 Asuna's Birthday Quest
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 28
-"Enormous Monsters "The Evils Black Joulu (Master +1)" 
+The Renegades' gathering - Black Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 27
-"Enormous Monsters "The Evils Black Joulu (Master)" 
+The Renegades' gathering - Black Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 26
-"Enormous Monsters "The Evils Black Joulu (EX)" 
+The Renegades' gathering - Black Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 25
-"Enormous Monsters "The Evils Black Joulu (Expert)" 
+The Renegades' gathering - Black Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 24
-"Enormous Monsters "The Evils Blue Joulu (Master +1)" 
+The Renegades' gathering - Blue Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 23
-"Enormous Monsters "The Evils Blue Joulu (Master)" 
+The Renegades' gathering - Blue Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 22
-"Enormous Monsters "The Evils Blue Joulu (EX)" 
+The Renegades' gathering Blue Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 21
-"Enormous Monsters "The Evils Blue Joulu (Expert)" 
+The Renegades' gathering - Blue Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 20
-"Enormous Monsters "The Evils Yellow Joulu (Master +1)" 
+The Renegades' gathering - Yellow Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 19
-"Enormous Monsters "The Evils Yellow Joulu (Master)" 
+The Renegades' gathering - Yellow Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 18
-"Enormous Monsters "The Evils Yellow Joulu (EX)" 
+The Renegades' gathering - Yellow Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 17
-"Enormous Monsters "The Evils Yellow Joulu (Expert)" 
+The Renegades' gathering - Yellow Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 16
-"Enormous Monsters "The Evils Red Joulu (Master +1)" 
+The Renegades' gathering - Red Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 15
-"Enormous Monsters "The Evils Red Joulu (Master)" 
+The Renegades' gathering - Red Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 14
-"Enormous Monsters "The Evils Red Joulu (EX)" 
+The Renegades' gathering - Red Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 13
-"Enormous Monsters "The Evils Red Joulu (Expert)" 
+The Renegades' gathering - Red Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 12
-"Enormous Monsters "The Evils Orange Joulu (Master +1)" 
+The Renegades' gathering - Orange Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 11
-"Enormous Monsters "The Evils Orange Joulu (Master)" 
+The Renegades' gathering - Orange Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 10
-"Enormous Monsters "The Evils Orange Joulu (EX)" 
+The Renegades' gathering - Orange Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 9
-"Enormous Monsters "The Evils Orange Joulu (Expert)" 
+The Renegades' gathering - Orange Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 8
-"Enormous Monsters "The Evils Green Joulu (Master +1)" 
+The Renegades' gathering - Green Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 7
-"Enormous Monsters "The Evils Green Joulu (Master)" 
+The Renegades' gathering - Green Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 6
-"Enormous Monsters "The Evils Green Joulu (EX)" 
+The Renegades' gathering - Green Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 5
-"Enormous Monsters "The Evils Green Joulu (Expert)" 
-"Santa Claus" appears under a Christmas tree.
-Win the battle in the dark!
+The Renegades' gathering - Green Joulu (Expert)
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be aware of darkness and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 4
-"Enormous Monsters "The Evils Joulupukki (Master +1)" 
-"Santa Claus" appears under a Christmas tree.
-Win the battle in the dark!
+The Renegades' gathering - Joulupukki (Master +1)
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be aware of darkness and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 3
-"Enormous Monsters "The Evils Joulupukki (Master)" 
-"Santa Claus" appears under a Christmas tree.
-Win the battle in the dark!
+The Renegades' gathering - Joulupukki (Master)
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be aware of darkness and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 2
-"Enormous Monsters "The Evils Joulupukki (EX)" 
-"Santa Claus" appears under a Christmas tree.
-Win the battle in the dark!
+The Renegades' gathering - Joulupukki (EX)
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be aware of darkness and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 1
-"Enormous Monsters "The Evils Joulupukki (Expert)" 
+The Renegades' gathering - Joulupukki (Expert)
 "Dagon the Master Sahuagin" makes an assault!
 Survive a sword battle with your peers 
 and beat up your enemy!
@@ -10785,224 +10789,228 @@ Quest 2017
 Asuna's Birthday Quest
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 28
-"Enormous Monsters "The Evils Black Joulu (Master +1)" 
+The Renegades' gathering - Black Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 27
-"Enormous Monsters "The Evils Black Joulu (Master)" 
+The Renegades' gathering - Black Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 26
-"Enormous Monsters "The Evils Black Joulu (EX)" 
+The Renegades' gathering - Black Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 25
-"Enormous Monsters "The Evils Black Joulu (Expert)" 
+The Renegades' gathering - Black Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 24
-"Enormous Monsters "The Evils Blue Joulu (Master +1)" 
+The Renegades' gathering - Blue Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 23
-"Enormous Monsters "The Evils Blue Joulu (Master)" 
+The Renegades' gathering - Blue Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 22
-"Enormous Monsters "The Evils Blue Joulu (EX)" 
+The Renegades' gathering Blue Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 21
-"Enormous Monsters "The Evils Blue Joulu (Expert)" 
+The Renegades' gathering - Blue Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 20
-"Enormous Monsters "The Evils Yellow Joulu (Master +1)" 
+The Renegades' gathering - Yellow Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 19
-"Enormous Monsters "The Evils Yellow Joulu (Master)" 
+The Renegades' gathering - Yellow Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 18
-"Enormous Monsters "The Evils Yellow Joulu (EX)" 
+The Renegades' gathering - Yellow Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 17
-"Enormous Monsters "The Evils Yellow Joulu (Expert)" 
+The Renegades' gathering - Yellow Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 16
-"Enormous Monsters "The Evils Red Joulu (Master +1)" 
+The Renegades' gathering - Red Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 15
-"Enormous Monsters "The Evils Red Joulu (Master)" 
+The Renegades' gathering - Red Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 14
-"Enormous Monsters "The Evils Red Joulu (EX)" 
+The Renegades' gathering - Red Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 13
-"Enormous Monsters "The Evils Red Joulu (Expert)" 
+The Renegades' gathering - Red Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 12
-"Enormous Monsters "The Evils Orange Joulu (Master +1)" 
+The Renegades' gathering - Orange Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 11
-"Enormous Monsters "The Evils Orange Joulu (Master)" 
+The Renegades' gathering - Orange Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 10
-"Enormous Monsters "The Evils Orange Joulu (EX)" 
+The Renegades' gathering - Orange Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 9
-"Enormous Monsters "The Evils Orange Joulu (Expert)" 
+The Renegades' gathering - Orange Joulu (Expert)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 8
-"Enormous Monsters "The Evils Green Joulu (Master +1)" 
+The Renegades' gathering - Green Joulu (Master +1)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 7
-"Enormous Monsters "The Evils Green Joulu (Master)" 
+The Renegades' gathering - Green Joulu (Master)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 6
-"Enormous Monsters "The Evils Green Joulu (EX)" 
+The Renegades' gathering - Green Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
-Be careful with his parry attacks and win the battle!
+Figure out his attacks and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 5
-"Enormous Monsters "The Evils Green Joulu (Expert)" 
-"Santa Claus" appears under a Christmas tree.
-Win the battle in the dark!
+The Renegades' gathering - Green Joulu (Expert)
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be aware of darkness and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 4
-"Enormous Monsters "The Evils Joulupukki (Master +1)" 
-"Santa Claus" appears under a Christmas tree.
-Win the battle in the dark!
+The Renegades' gathering - Joulupukki (Master +1)
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be aware of darkness and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 3
-"Enormous Monsters "The Evils Joulupukki (Master)" 
-"Santa Claus" appears under a Christmas tree.
-Win the battle in the dark!
+The Renegades' gathering - Joulupukki (Master)
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be aware of darkness and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 2
-"Enormous Monsters "The Evils Joulupukki (EX)" 
-"Santa Claus" appears under a Christmas tree.
-Win the battle in the dark!
+The Renegades' gathering - Joulupukki (EX)
+"Santa Claus" appears under a Christmas tree. 
+Don't be excited about gifts from Santa! 
+Be aware of darkness and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 1
-"Enormous Monsters "The Evils Joulupukki (Expert)" 
+The Renegades' gathering - Joulupukki (Expert)
 "Dagon the Master Sahuagin" makes an assault!
 Survive a sword battle with your peers 
 and beat up your enemy!
