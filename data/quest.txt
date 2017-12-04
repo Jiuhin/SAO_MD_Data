@@ -983,7 +983,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 22
-The Renegades' gathering Blue Joulu (EX)
+The Renegades' gathering - Blue Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
 Figure out his attacks and win the battle!
@@ -10842,7 +10842,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2012
 Quest 22
-The Renegades' gathering Blue Joulu (EX)
+The Renegades' gathering - Blue Joulu (EX)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
 Figure out his attacks and win the battle!

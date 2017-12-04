@@ -133,6 +133,8 @@ Q8>
 Q8>
 QCG
 L>e3
+FCu
+L>e3
 >e3
 QCG
 >e3
@@ -1159,7 +1161,7 @@ L>d3
 >d3
 >d3
 >d3
-L>f3
+>f3
 L>f3
 L>f3
 L>f3

@@ -1,150 +1,135 @@
-D	}
-DM{
-hPy
-$Zx
-4gw
-0Qw
-PEw
-Lhv
-H,v
-T}u
-(Du
-Xat
-tKt
-Los
-tcs
-p1s
-4	s
-tgr
-T+r
-twp
-Pmo
-hfo
-LZo
-0No
-<$o
-Pfn
-,/n
-PXm
-t+m
-Xpl
-HNj
-d8h
-Hvg
-H6f
-Hve
-pPd
-L'c
-H{b
-xpb
-4ab
-L0b
-p3a
-4O]
-(5]
-TX[
-H!Y
-({X
-poX
-h:X
-8 X
-ptW
-4}V
-$pV
-dBU
-4&U
-hzS
-lBS
-p7S
-HzR
-PlR
-,aR
-PtP
-pQP
-PNO
-4BO
-X7O
-t-O
-PjN
-TAN
-X.N
-h N
-T[M
-xAM
-$ M
-HwK
-pHK
-$wJ
-,MJ
-t,J
-h"J
-xRI
-(,I
-PRH
-$.H
-(cG
-lQG
-0rF
-(UF
-0CF
-XQE
-X2E
-LwD
-,eD
-xUD
-(BD
-LeC
-pUC
-T)C
-4"B
-HqA
-0+A
-X}?
-(:?
-(T>
-4%>
-DU<
-L1<
-PV:
-8J:
-Lv9
-Td9
-<T8
-T 8
-$x7
-$j3
-lG3
-Dd2
-8}1
-pp1
-LX1
-(B1
-H61
-0h0
-(Q0
-490
-,	0
-DU/
-h:/
-8q.
-0I.
-H..
-p2,
-d]+
-lN+
-X>+
-,E(
-TA'
-p{&
-L7%
-DI$
-<P"
-0p!
-l/!
-8"!
-${ 
-Ti 
-L>	
+0_}
+H(}
+xp{
+dm{
+diz
+(8z
+hUx
+DJw
+LXv
+L<v
+$$v
+H4u
+Lrs
+XXr
+PJr
+4)q
+$pp
+$dp
+DIp
+,wo
+Hno
+$mo
+Hfo
+Ddo
+Tao
+0_o
+$3n
+P n
+xrm
+XFm
+(sk
+l2k
+X5j
+4Yi
+$yh
+Hmh
+0_h
+P4h
+(Ng
+(,g
+0Fe
+hZd
+,Ld
+D3d
+X}c
+PWc
+hFc
+,Eb
+(1b
+d'b
+Lva
+LKa
+T0a
+Te_
+<M_
+$X]
+PC[
+<NY
+<CY
+h&Y
+hAW
+hBV
+$!V
+tuU
+45U
+T'U
+lsT
+0UT
+dJT
+H T
+xYR
+lNR
+L1R
+HkP
+D>O
+$'O
+DqN
+0.N
+h&M
+P_L
+LhI
+d'I
+<.G
+8AF
+,/F
+HgE
+XqD
+8jC
+tPC
+H<B
+4 A
+L6?
+,-?
+X(>
+X&<
+P%:
+4v9
+xL9
+x28
+dk6
+D96
+0:5
+xf4
+PZ4
+xK4
+xR3
+,?3
+D23
+Xb2
+XK2
+432
+lx1
+0Y1
+,00
+l$0
+(v/
+0	/
+(J-
+t},
+L8,
+T),
+XV'
+xC'
+,$%
+D}$
+$&$
+pk"
+Lf!
+<D!
+( !
+pT 
+DJ 
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -398,1668 +383,3509 @@ You deserve some reward.
 bg_black
 ???
 480404801_1_a
-スフィカ
+N-No, c'mon!
+Augh... Looks like our suffering
+continues...
+Kirito
+407401201_21_a
+Good talk!
+Agil
+407401201_20_a
+But w-w-wait!
+Kirito
+407401201_19_a
+Be sure to tell Rain and Sinon
+and the gang, okay?
+Agil
+407401201_18_a
+B-But...!
+Kirito
+407401201_17_a
+Heroes who save lives deserve to
+be celebrated! Just be grateful.
+Agil
+407401201_16_a
+For one, it's not a bad thing.
+For two, this is how it works.
+Agil
+407401201_15_a
+Hey, wait a minute!
+What if we don't want to?
+We don't like all the attention!
+Kirito
+407401201_14_a
+And once the party kicks off again,
+you'll all be guests of honor, so
+get pumped up!
+Agil
+407401201_13_a
+The what?!
+Kirito
+407401201_12_a
+Oh, and by the way, you're all
+going to be up on stage giving
+the toast that restarts the party.
+Agil
+407401201_11_a
+Well, on the other hand, we saw
+our one chance to make a mark.
+Kirito
+407401201_10_a
+You, Rain, Yuuki, Alicia's guards,
+and Sinon's crew. All heroes.
+Agil
+407401201_9_a
+I kept hearing them call you guys
+heroes, too.
+Agil
+407401201_8_a
+Even after that battle? Heh, this
+group really has some stamina.
+Kirito
+407401201_7_a
+Eh, we can replace all of that.
+Everyone actually seems pretty
+excited about redoing the party.
+Agil
+407401201_6_a
+It wasn't pretty, but it worked.
+It's a shame we lost all the food,
+though.
+Kirito
+407401201_5_a
+You three really saved us there.
+Hell, I can't believe the three of
+you took out all those monsters.
+Agil
+407401201_4_a
+You too, Agil.
+Kirito
+407401201_3_a
+Kirito
+407401201_2_a
+bg_event_tree_snow_christmas
+Nice work, Kirito.
+Agil
+407401201_1_a
+Exactly!
+Kirito
+407401101_34_a
+Nooow I get it! Get them all in
+one place so we can wreck their
+faces!
+Yuuki
+407401101_33_a
+Makes sense! All of us have pretty
+powerful sword skills as well.
+Rain
+407401101_32_a
+The kind that rounds the monsters
+up for easy killing!
+Kirito
+407401101_31_a
+Huh? What kind of plan is that?
+Yuuki
+407401101_30_a
+Quick, guys. Gather all the food
+and ingredients in one place!
+Kirito
+407401101_29_a
+Is that it? Then let's use that to
+our advantage.
+Kirito
+407401101_28_a
+Ah, that must be why there are so
+many of them.
+Rain
+407401101_27_a
+They're after all our party food!
+They must have smelled it and
+come running.
+Yuuki
+407401101_26_a
+How are they different?
+Kirito
+407401101_25_a
+They're also not ordinary
+monsters, so watch out!
+Yuuki
+407401101_24_a
+In their defense, these monsters
+rained on their parade.
+Yuuki
+407401101_23_a
+Aren't there any players left who
+can actually fight?
+Rain
+407401101_22_a
+Kirito
+407401101_21_a
+It's total chaos, despite the
+number of players around.
+Rain
+407401101_20_a
+Never better!
+Yuuki
+407401101_19_a
+You okay, Yuuki?
+Kirito
+407401101_18_a
+Kirito! Rain!
+Yuuki
+407401101_17_a
+So how do you explain all this?
+Rain
+407401101_16_a
+Yeah, that's why he wanted to
+have the gift swap here.
+Kirito
+407401101_15_a
+I thought Agil said enemy spawns
+were pretty rare here...
+Rain
+407401101_14_a
+These enemies are pretty intense.
+Rain
+407401101_13_a
+W-Well...
+Player B
+407401101_12_a
+Stay back if you're too tired
+to fight! We've got this!
+Kirito
+407401101_11_a
+Oh... 'Scuse me.
+Player B
+407401101_10_a
+Gryaaaaagh!
+Monster
+407401101_9_a
+Rrraaaagh!
+Rain
+407401101_8_a
+Rain
+407401101_7_a
+HYAAAAAH!
+Kirito
+407401101_6_a
+Kirito
+407401101_5_a
+Urgh, so tired...
+I can't get my...
+Player B
+407401101_4_a
+Graaaagh!
+Monster
+407401101_3_a
+What?!
+Player B
+407401101_2_a
+bg_event_tree_snow_christmas
+Augh!
+Player B
+407401101_1_a
+)rH
+)rH
+Konechno! Right behind you!
+Rain
+407401001_30_a
+)rH
+I'm pumped just thinking about it!
+Time to shine, Rain! C'mon!
+Kirito
+407401001_29_a
+)rH
+Really?
+Liz
+407401001_28_a
+)rH
+Yep!
+Rain
+407401001_27_a
+)rH
+Then that means it's up to us!
+Kirito
+407401001_26_a
+)rH
+Oh yeah...
+Kirito
+407401001_25_a
+)rH
+People are really in no shape
+to fight right now!
+Rain
+407401001_24_a
+)rH
+Now combine that with all the
+dancing Agil's been encouraging!
+Rain
+407401001_23_a
+)rH
+The attack was so sudden that
+it caught a lot of people off
+guard!
+Liz
+407401001_22_a
+)rH
+You have a point there, but most
+people came here for a party.
+Liz
+407401001_21_a
+)rH
+Right. Are there really enough
+monsters here to overwhelm
+all these players?
+Kirito
+407401001_20_a
+)rH
+Yuuki's single-handedly fending
+them off, but that won't last!
+Liz
+407401001_19_a
+)rH
+The monsters are too strong!
+The front line's collapsing!
+Liz
+407401001_18_a
+)rH
+Rain
+407401001_17_a
+)rH
+Kirito
+407401001_16_a
+)rH
+Kirito! Rain! This way!
+Liz
+407401001_15_a
+)rH
+You got it!
+Silica
+407401001_14_a
+)rH
+Rain
+407401001_13_a
+)rH
+Kirito
+407401001_12_a
+)rH
+Okay! Let's hurry over to Alicia!
+Sinon
+407401001_11_a
+)rH
+Sinon! A bunch of monsters
+just appeared!
+Silica
+407401001_10_a
+)rH
+Sinon
+407401001_9_a
+)rH
+Kirito
+407401001_8_a
+)rH
+It could be a monster attack.
+We're outside the safe zone
+after all!
+Rain
+407401001_7_a
+)rH
+Do you think something's happened?
+Sinon
+407401001_6_a
+)rH
+Was that someone screaming?
+Kirito
+407401001_5_a
+)rH
+Rain
+407401001_4_a
+)rH
+Sinon
+407401001_3_a
+)rH
+Kirito
+407401001_2_a
+)rH
+bg_event_tree_snow_christmas
+Ahhhhhhhhh!
+Players
+407401001_1_a
+Heh...
+Rain
+407400901_37_a
+I think our presents made us look
+even more out of place in the end.
+Kirito
+407400901_36_a
+Say something, Kirito!
+This is getting depressing!
+Sinon
+407400901_35_a
+...
+Kirito
+407400901_34_a
+I got a magic thing that makes
+shaved ice. Not that I need it
+at this time of year.
+Rain
+407400901_33_a
+I don't know why anyone would
+ever want that, though...
+Sinon
+407400901_32_a
+I got an umbrella that apparently
+rains on you from the inside
+when you open it...
+Sinon
+407400901_31_a
+I got glasses that give you a
+funny face when you equip them.
+Kirito
+407400901_30_a
+If you say so. So, what'd
+everybody get in return?
+Kirito
+407400901_29_a
+Eh, it happens. Don't worry about
+it. I'm fine.
+Rain
+407400901_28_a
+That's just rude!
+Sinon
+407400901_27_a
+What?! Who says that at a gift
+swap?!
+Kirito
+407400901_26_a
+She was pretty happy with it.
+Said she could sell it for a lot
+of money...
+Rain
+407400901_25_a
+Sinon
+407400901_24_a
+Oh, a woman got my present.
+Rain
+407400901_23_a
+What did the person who got your
+gift say, Rain?
+Kirito
+407400901_22_a
+Heh...
+Rain
+407400901_21_a
+What? You thought I'd fall for
+his obvious ploy to talk to me?
+It's the oldest trick in the book.
+Sinon
+407400901_20_a
+Aw, that's a shame.
+Rain
+407400901_19_a
+I shot him down, of course.
+Sinon
+407400901_18_a
+Well, that's a Christmas party
+for you.
+Rain
+407400901_17_a
+He what?!
+Kirito
+407400901_15_a
+Rain
+407400901_16_a
+Then he used the present as an
+excuse to hit on me.
+Sinon
+407400901_14_a
+Oh yeah?
+Rain
+407400901_13_a
+The player who got my gift found
+me.
+Sinon
+407400901_12_a
+Something wrong, Sinon?
+Rain
+407400901_11_a
+sigh
+...
+Sinon
+407400901_10_a
+Yeah. It's a good thing I didn't
+give them a mundane in-game
+item after all.
+Kirito
+407400901_9_a
+Heh, good stuff! They really
+seemed to like that gift.
+Rain
+407400901_8_a
+G-Great!
+Kirito
+407400901_7_a
+Oh, that's crazy, man! I'm gonna
+put this up in my house right
+away!
+Player A
+407400901_6_a
+In a small village of craftsmen
+between the Cait Sith and Pooka
+territories.
+Kirito
+407400901_5_a
+It's incredible! Where'd you find
+it?
+Player A
+407400901_4_a
+W-Well...
+Kirito
+407400901_3_a
+Kirito
+407400901_2_a
+bg_event_tree_snow_christmas
+Did you give me this antique?
+Player A
+407400901_1_a
+aqH
+aqH
+Finally. Let's get this over with.
+Sinon
+407400801_38_a
+aqH
+Rain
+407400801_37_a
+aqH
+Sinon
+407400801_36_a
+aqH
+It's starting!
+Kirito
+407400801_35_a
+aqH
+Here comes the beat!
+Agil
+407400801_34_a
+aqH
+Rain
+407400801_33_a
+aqH
+Sinon
+407400801_32_a
+aqH
+Interesting. I guess using VR can
+also be useful for showing you
+what you don't like.
+Kirito
+407400801_31_a
+aqH
+I think I'd just die if I went
+to a club in real life.
+Sinon
+407400801_30_a
+aqH
+Me neither. I get the feeling I'm
+getting off easy, having only
+experienced this virtual club.
+Sinon
+407400801_29_a
+aqH
+I never think to go to clubs
+in real life.
+Rain
+407400801_28_a
+aqH
+Ha ha, I don't think so. It's been
+an interesting experience, though.
+Rain
+407400801_27_a
+aqH
+but I'm not sure we'll ever catch
+party fever.
+Kirito
+407400801_26_a
+aqH
+He really does. Liz, Silica, and
+Yuuki all seem to be having fun,
+Kirito
+407400801_25_a
+aqH
+Because he looks like a totally
+different person up there.
+Sinon
+407400801_24_a
+aqH
+Is this the same Agil that tends
+the quiet little cafe we go to?
+Sinon
+407400801_23_a
+aqH
+Rain
+407400801_22_a
+aqH
+Sinon
+407400801_21_a
+aqH
+So these are the "party people"
+I keep hearing about.
+Kirito
+407400801_20_a
+aqH
+Agil
+407400801_19_a
+aqH
+Alriiiiiight!
+Players
+407400801_18_a
+aqH
+And we've got a little club area
+for anyone who wants to keep
+the party rolling after the swap!
+Agil
+407400801_17_a
+aqH
+That's not all, though! We've got
+food, drinks, and performances
+coming your way too!
+Agil
+407400801_16_a
+aqH
+Woooooooo!
+Players
+407400801_15_a
+aqH
+Is the present you get! It's just
+that simple. Now get ready to
+have a blast!
+Agil
+407400801_14_a
+aqH
+The rule is that whichever present
+you're holding when this funky
+Christmas jam stops...
+Agil
+407400801_13_a
+aqH
+Yuuki
+407400801_12_a
+aqH
+Ha ha, everyone's having such a
+good time! This was totally worth
+it!
+Alicia
+407400801_11_a
+aqH
+Whoa, Silica! Way to just come out
+and say it!
+Yuuki
+407400801_9_a
+aqH
+Alicia
+407400801_10_a
+aqH
+I know it's a long shot, but I
+hope I get Kirito's gift! Hehe...
+Silica
+407400801_8_a
+aqH
+Silica
+407400801_7_a
+aqH
+Hehe, I can't wait!
+Liz
+407400801_6_a
+aqH
+Agil
+407400801_5_a
+aqH
+Yeaaaaaah!!
+Players
+407400801_4_a
+aqH
+It's time for the gift swap!
+Agil
+407400801_3_a
+aqH
+Let's move on to today's main
+event!
+Agil
+407400801_2_a
+aqH
+bg_event_tree_snow_christmas
+Ladies and gentlemen!
+Agil
+407400801_1_a
+Hnnng. Out. I want out.
+Sinon
+407400701_54_a
+Can't they wait for the event
+to start? I can even see a mob
+of couples forming.
+Rain
+407400701_53_a
+They'll probably play it during
+the event too... Ugh, people
+are already dancing.
+Rain
+407400701_52_a
+Because I'm thinking they really
+shouldn't have...
+Sinon
+407400701_51_a
+Are they trying to get everyone
+fired up for this event?
+Sinon
+407400701_50_a
+I guess it's basically an amp now.
+Rain
+407400701_49_a
+It sounds like club music...
+They're using magic to boost
+the sound from that, uh...thing.
+Rain
+407400701_48_a
+Rain
+407400701_47_a
+What is that music?
+I'm just noticing it now.
+Sinon
+407400701_46_a
+Liz
+407400701_45_a
+W-Well...
+Kirito
+407400701_44_a
+Liz
+407400701_43_a
+Kirito
+407400701_42_a
+There's plenty to help out with,
+too! Cooking, tent construction,
+you name it!
+Agil
+407400701_41_a
+Just come help us get ready!
+Silica
+407400701_40_a
+Sinon
+407400701_39_a
+Rain
+407400701_38_a
+Yeah, now's not the time
+for jokes, you guys!
+Silica
+407400701_37_a
+Alicia
+407400701_36_a
+Whoa, guys! Don't kid
+around like that!
+Yuuki
+407400701_35_a
+Rain
+407400701_34_a
+I, uh...just remembered I have
+a thing to do...in real life...
+Sinon
+407400701_33_a
+Silica
+407400701_32_a
+Sinon
+407400701_31_a
+An event with 150 people...
+My stomach is tying itself
+in knots...
+Rain
+407400701_30_a
+Agil
+407400701_29_a
+Liz
+407400701_28_a
+Not many, maybe, but more than
+enough.
+Kirito
+407400701_27_a
+Yuuki
+407400701_26_a
+It should be around 150 in total.
+That's not many for a cross-race
+event, though.
+Alicia
+407400701_25_a
+Liz
+407400701_24_a
+Including you guys, that's a safe bet.
+Agil
+407400701_23_a
+Whoa! That's a ton of people...
+There must be almost a hundred!
+Kirito
+407400701_22_a
+Liz
+407400701_21_a
+Kirito
+407400701_20_a
+They're all in that tent over
+there. See 'em?
+Agil
+407400701_19_a
+Rain
+407400701_18_a
+Silica
+407400701_17_a
+So where's everyone else?
+Sinon
+407400701_16_a
+Liz
+407400701_15_a
+Kirito
+407400701_14_a
+She's right! Just leave it to me!
+Agil
+407400701_13_a
+That's for sure. He's great at
+cooking in real life too!
+Rain
+407400701_12_a
+Be nice, Liz. At least we know the
+food will be tasty!
+Silica
+407400701_9_a
+Sinon
+407400701_11_a
+Rain
+407400701_10_a
+What'd you say?
+Agil
+407400701_8_a
+Or when you need to offload a job
+nobody else wants to do...
+Liz
+407400701_7_a
+Who else are you gonna call when
+you need a popular guy who can
+also cook?
+Agil
+407400701_6_a
+Part of it? I'm organizing this
+on behalf of the Gnomes!
+Agil
+407400701_5_a
+Agil, you're part of the gift swap
+too?
+Kirito
+407400701_4_a
+Liz
+407400701_3_a
+Kirito
+407400701_2_a
+bg_event_tree_snow_christmas
+Hey, you finally made it!
+We've been waiting for you.
+Agil
+407400701_1_a
+Sinon
+407400601_53_a
+Kirito
+407400601_52_a
+Heh...
+Rain
+407400601_51_a
+Alicia
+407400601_50_a
+What's with all the whispering?
+Liz
+407400601_49_a
+Rain
+407400601_48_a
+S-Sorry 'bout that...
+Kirito
+407400601_47_a
+whisper
+whisper
+Geez! What
+do you think will happen if they
+find out!
+Sinon
+407400601_46_a
+Oh, you know, nothing really!
+Ha ha!
+Kirito
+407400601_45_a
+Kirito
+407400601_44_a
+Rain
+407400601_43_a
+Kirito!
+Sinon
+407400601_42_a
+Alicia
+407400601_41_a
+People like us? What's that
+supposed to mean?
+Liz
+407400601_40_a
+Rain
+407400601_39_a
+Rain
+407400601_38_a
+Sinon
+407400601_37_a
+No, she's right! This kind of
+thing's a big deal for people
+like us!
+Kirito
+407400601_36_a
+Alicia
+407400601_35_a
+Ha ha, what are you talking
+about? That sounds like a bit
+of an exaggeration.
+Liz
+407400601_34_a
+Sinon
+407400601_33_a
+Kirito
+407400601_32_a
+You're telling me...
+It feels like we just survived a
+fight by the skin of our teeth!
+Rain
+407400601_31_a
+Hehe, I'm just glad you all found
+gifts!
+Silica
+407400601_30_a
+Silica
+407400601_29_a
+Ahaha, I guess not...
+Yuuki
+407400601_28_a
+Rain
+407400601_27_a
+Kirito
+407400601_26_a
+Rain
+407400601_25_a
+Do you really want us to spoil
+the surprise?
+Sinon
+407400601_24_a
+Silica
+407400601_23_a
+Oh, really? What'd you get?
+Yuuki
+407400601_22_a
+Rain
+407400601_21_a
+Rain
+407400601_20_a
+Sinon
+407400601_19_a
+Yeah, we're all set.
+Kirito
+407400601_18_a
+Liz
+407400601_17_a
+More importantly, do you have
+your presents?
+Alicia
+407400601_16_a
+Sinon
+407400601_15_a
+Kirito
+407400601_14_a
+Whew! That's a relief.
+Rain
+407400601_13_a
+Alicia
+407400601_12_a
+Yup. Not a single monster or enemy
+player in sight.
+Liz
+407400601_11_a
+Kirito
+407400601_9_a
+Rain
+407400601_8_a
+Is everything okay here?
+Sinon
+407400601_7_a
+Rain
+407400601_10_a
+Welcome back!
+Yuuki
+407400601_6_a
+Yuuki
+407400601_5_a
+Oh, hi guys!
+Silica
+407400601_4_a
+Rain
+407400601_3_a
+Sinon
+407400601_2_a
+bg_05_danac_sunset
+We're back.
+Kirito
+407400601_1_a
+5pH
+5pH
+Okay!
+Kirito
+407400501_55_a
+5pH
+Understood. Let's head for the
+village, then.
+Sinon
+407400501_54_a
+5pH
+Yeah, I think that was Asuna's
+point too.
+Kirito
+407400501_53_a
+5pH
+You'd have to get something
+that people could easily use.
+Rain
+407400501_52_a
+5pH
+Everyone uses in-game items
+differently, though.
+Rain
+407400501_51_a
+5pH
+Ha ha, I hear you.
+Kirito
+407400501_50_a
+5pH
+I dunno. I'd still just be happy
+with something I can use in-game.
+Sinon
+407400501_49_a
+5pH
+or at the very least not be
+a total disappointment.
+Kirito
+407400501_48_a
+5pH
+But I figure it'll do in a pinch
+for a gift swap,
+Kirito
+407400501_47_a
+5pH
+Right? Though I'd probably be
+a little confused if I got one
+myself, to be honest.
+Kirito
+407400501_46_a
+5pH
+They don't sound like fair or
+festival prizes, but they're
+gifts for everyone!
+Rain
+407400501_45_a
+5pH
+Antique furniture, eh?
+Sounds like it's worth a shot.
+Sinon
+407400501_44_a
+5pH
+The town sprang up around these
+craftsmen, and they sell rare
+antique furniture too.
+Kirito
+407400501_43_a
+5pH
+It's a small village on the
+countryside that sells lots
+of handmade crafts.
+Kirito
+407400501_42_a
+5pH
+Good-looking?
+Rain
+407400501_41_a
+5pH
+Yeah. I found a good-looking
+town around here.
+Kirito
+407400501_40_a
+5pH
+Are we going to be able to find
+decent presents somewhere in
+this giant map?
+Sinon
+407400501_39_a
+5pH
+bg_03_forest1_sunset
+Does "let's go" mean
+"I have a plan"?
+Sinon
+407400501_38_a
+5pH
+Okay.
+Rain
+407400501_37_a
+5pH
+Rain
+407400501_36_a
+5pH
+Sinon
+407400501_35_a
+5pH
+Ha ha, believe me, I know!
+Let's go, you two!
+Kirito
+407400501_34_a
+5pH
+You can't participate without a
+present, you know!
+Liz
+407400501_33_a
+5pH
+Hurry up, guys!
+Liz
+407400501_32_a
+5pH
+Totally! Silica and the others
+will be staying behind.
+Alicia
+407400501_30_a
+5pH
+Liz
+407400501_31_a
+5pH
+Kirito
+407400501_29_a
+5pH
+Sinon
+407400501_28_a
+5pH
+That means I'll be leaving your
+side, Alicia. Is that okay?
+Rain
+407400501_27_a
+5pH
+Silica
+407400501_26_a
+5pH
+Oh right! You guys haven't done
+that yet.
+Yuuki
+407400501_25_a
+5pH
+Kirito
+407400501_24_a
+5pH
+Rain
+407400501_23_a
+5pH
+We have to, um...get our gifts...
+Sinon
+407400501_22_a
+5pH
+Yuuki
+407400501_21_a
+5pH
+Is something wrong?
+Silica
+407400501_20_a
+5pH
+Rain
+407400501_19_a
+5pH
+Rain
+407400501_18_a
+5pH
+Sinon
+407400501_17_a
+5pH
+Sorry, guys, would you mind if we
+stepped out for a second?
+Kirito
+407400501_16_a
+5pH
+Ha ha! Is that so?
+Liz
+407400501_15_a
+5pH
+Liz
+407400501_14_a
+5pH
+Which makes this crew my security
+detail! So, protect me, okay?
+Alicia
+407400501_13_a
+5pH
+There were a lot of people from
+other races headed for Gnome
+territory too!
+Silica
+407400501_12_a
+5pH
+Yuuki
+407400501_11_a
+5pH
+Liz is right!
+Silica
+407400501_10_a
+5pH
+There's gotta be at least one
+more good cook around!
+Liz
+407400501_9_a
+5pH
+Alicia
+407400501_8_a
+5pH
+I wouldn't worry about it.
+There are a ton of people here!
+Liz
+407400501_7_a
+5pH
+Agreed! Though, without Asuna
+here, I'm not so confident we'll
+be able to cook what we catch.
+Yuuki
+407400501_6_a
+5pH
+Yuuki
+407400501_5_a
+5pH
+Yep! Maybe we should go find some
+more ingredients.
+Silica
+407400501_4_a
+5pH
+It's just a little further to
+Gnome territory.
+Liz
+407400501_3_a
+5pH
+Liz
+407400501_2_a
+5pH
+bg_05_danac_sunset
+We'll be camping here for the
+night. You're free to do as you
+please!
+Alicia
+407400501_1_a
+sigh
+...
+That doesn't really help...
+Sinon
+407400401_43_a
+Asuna said gifts anyone can use
+are more appropriate. Like prizes
+you'd get at a fair or festival.
+Kirito
+407400401_42_a
+I just don't get what's so bad
+about useful in-game items!
+Rain
+407400401_41_a
+And don't forget the part where
+she told us all we think about is
+how to beat games.
+Sinon
+407400401_40_a
+but she said they were all too
+practical, too expensive, or both.
+Kirito
+407400401_39_a
+Well, we tried to think of things
+that'd be useful in-game,
+Kirito
+407400401_38_a
+Asuna rejected every last idea
+we managed to cobble together.
+Sinon
+407400401_37_a
+We're screwed.
+Sinon
+407400401_36_a
+Ugh, what are we gonna do, you
+guys? We're the only ones who
+aren't ready yet!
+Rain
+407400401_35_a
+Kirito
+407400401_34_a
+Rain
+407400401_33_a
+We will.
+Sinon
+407400401_32_a
+Silica
+407400401_31_a
+O-Oh... Okay. Well, you'd better
+hurry up and get it together!
+Liz
+407400401_30_a
+Sinon
+407400401_29_a
+Kirito
+407400401_28_a
+Uh, yeah, don't worry about us.
+We're working on them.
+Rain
+407400401_27_a
+Alicia
+407400401_26_a
+Are you gonna be ready in time?
+We've gotta go!
+Yuuki
+407400401_25_a
+Silica
+407400401_24_a
+Say what? You guys don't have
+gifts yet?!
+Liz
+407400401_23_a
+Rain
+407400401_22_a
+We just need to get our presents
+together. Then we'll be all set.
+Kirito
+407400401_21_a
+Rain
+407400401_20_a
+Sinon
+407400401_19_a
+Yeah, of course.
+Kirito
+407400401_18_a
+We're doing the gift swap in
+snowy Gnome territory, so we'd
+better leave soon!
+Silica
+407400401_17_a
+Liz
+407400401_16_a
+Hey, Kirito! Are you guys ready
+to head out?
+Silica
+407400401_15_a
+Heh...
+Rain
+407400401_14_a
+Yep...
+Sinon
+407400401_13_a
+Rain
+407400401_12_a
+Sinon
+407400401_11_a
+Seems like everyone's having a
+blast.
+Kirito
+407400401_10_a
+Silica
+407400401_9_a
+Sounds good. It's just not
+Christmas without some
+sort of roasted bird!
+Liz
+407400401_8_a
+Alright then, I'll keep an eye
+out for some along the way.
+Yuuki
+407400401_7_a
+Thank you all for helping with
+the prep. We'll head out to
+Gnome territory soon!
+Alicia
+407400401_6_a
+Alicia
+407400401_5_a
+I'm sorry, did you say "hunt some
+chicken-like monsters"? Because
+I'm totally down for that!
+Yuuki
+407400401_4_a
+I-It's not just you! We still need
+to get a lot of ingredients!
+Silica
+407400401_3_a
+Silica
+407400401_2_a
+bg_event_alne_christmas
+Is it me, or are we really low on
+chicken?
+Liz
+407400401_1_a
+moH
+moH
+That's why I told you not to make
+it sound like some genius idea!
+We're gonna crash and burn!
+Sinon
+407400301_34_a
+moH
+We can't let the people at the
+swap know we were panicking about
+this either! That'd be worse!
+Kirito
+407400301_33_a
+moH
+I don't think this crew could plot
+its way out of a paper bag...
+Sinon
+407400301_32_a
+moH
+Let's put our heads together so
+we don't totally embarrass
+ourselves!
+Rain
+407400301_31_a
+moH
+Then come on!
+You have to help us!
+Rain
+407400301_30_a
+moH
+Shh, keep your voice down.
+...And no, I haven't.
+Sinon
+407400301_29_a
+moH
+Wait, are you saying you have?!
+Kirito
+407400301_28_a
+moH
+This sounds like the kind of thing
+someone who's never attended a
+gift swap would come up with.
+Sinon
+407400301_27_a
+moH
+Don't make this sound like a great
+idea. You're roping me into a
+harebrained scheme.
+Sinon
+407400301_26_a
+moH
+Heh...
+Rain
+407400301_25_a
+moH
+That's why I think the three of us
+should form an alliance.
+Kirito
+407400301_24_a
+moH
+bg_04_field_bridge
+Ah, I see where you're going
+with this.
+Sinon
+407400301_23_a
+moH
+Rain
+407400301_22_a
+moH
+Kirito
+407400301_21_a
+moH
+I've got an idea for you, me,
+and Sinon.
+Kirito
+407400301_20_a
+moH
+Uh, sure? What's up?
+Rain
+407400301_19_a
+moH
+Rain
+407400301_18_a
+moH
+Can I talk to you, Rain?
+Kirito
+407400301_17_a
+moH
+Yuuki
+407400301_16_a
+moH
+W-Well...
+Kirito
+407400301_15_a
+moH
+You've been invited to this super
+fun-looking event, but you're
+both dragging your heels!
+Liz
+407400301_14_a
+moH
+Rain
+407400301_13_a
+moH
+Alright, Kirito. What's going on
+with you and Rain?
+Liz
+407400301_12_a
+moH
+Ha ha, I could see that happening!
+Yuuki
+407400301_11_a
+moH
+Though it kind of feels like
+Alicia didn't give them a choice.
+Kirito
+407400301_10_a
+moH
+Yuuki
+407400301_9_a
+moH
+Silica and Sinon are going too,
+since they're Cait Sith.
+Kirito
+407400301_8_a
+moH
+O-Okay.
+Rain
+407400301_7_a
+moH
+Of course you are! C'mon, live
+a little!
+Liz
+407400301_6_a
+moH
+Liz
+407400301_5_a
+moH
+Are you sure I'm allowed to go
+to this thing?
+Rain
+407400301_4_a
+moH
+No problem! I'm really excited
+for this gift swap!
+Yuuki
+407400301_3_a
+moH
+Yuuki
+407400301_2_a
+moH
+bg_02_fountain
+Thanks for responding to my
+invitation, guys.
+Kirito
+407400301_1_a
+	oH
+	oH
+Uh, so... Who should we invite?
+Kirito
+407400201_37_a
+	oH
+Yeah, I like that idea.
+Kirito
+407400201_36_a
+	oH
+Maybe you should ask whoever
+you're going to invite?
+Yui
+407400201_35_a
+	oH
+I-I see what you mean, and I do
+not have a perfect solution.
+Yui
+407400201_34_a
+	oH
+But how are you supposed to buy
+a gift when you don't know who
+you're giving it to?
+Kirito
+407400201_33_a
+	oH
+Giving gifts to someone special
+is easy, because you already know
+what they like.
+Kirito
+407400201_32_a
+	oH
+You give Mommy presents all the
+time, don't you?
+Yui
+407400201_31_a
+	oH
+What kind of gift can I give
+that just anyone would like?
+Kirito
+407400201_30_a
+	oH
+I've never done a gift swap like
+this before.
+Kirito
+407400201_29_a
+	oH
+What's wrong, Daddy?
+Yui
+407400201_28_a
+	oH
+Nah, that's not very good.
+Kirito
+407400201_27_a
+	oH
+bg_11_road_to_coral
+...
+Kirito
+407400201_26_a
+	oH
+Yui
+407400201_25_a
+	oH
+Asuna
+407400201_24_a
+	oH
+Sure thing!
+Kirito
+407400201_23_a
+	oH
+Please do!
+Say hi to Alicia for me!
+Asuna
+407400201_22_a
+	oH
+I'll invite someone else and be
+our representative at the event.
+Kirito
+407400201_21_a
+	oH
+Yeah... Me too.
+Asuna
+407400201_20_a
+	oH
+But you should probably stay here.
+I'm worried about those two.
+Kirito
+407400201_19_a
+	oH
+That sounds like something she'd
+come up with. It sounds fun...
+Asuna
+407400201_18_a
+	oH
+She wanted me to come in exchange
+for her continuing to look into
+that NPC.
+Kirito
+407400201_17_a
+	oH
+Yeah. Alicia wanted to have a
+Christmas party with all the
+races.
+Kirito
+407400201_16_a
+	oH
+What's that?
+A Cait Sith Christmas event?
+Asuna
+407400201_15_a
+	oH
+Which means we'd better not
+invite them to this event,
+I guess.
+Kirito
+407400201_14_a
+	oH
+Agreed.
+Asuna
+407400201_13_a
+	oH
+We should let them rest for now,
+and keep this between us so we
+don't upset them.
+Kirito
+407400201_12_a
+	oH
+And that says nothing of the fact
+that we have no idea how to send
+them home.
+Asuna
+407400201_11_a
+	oH
+But they can't return home unless
+they collect every Divine Object.
+Alice won't rest until they do.
+Kirito
+407400201_10_a
+	oH
+I believe the only way to save
+them is to return them to their
+home world.
+Yui
+407400201_9_a
+	oH
+This is terrible! How can we help
+them?
+Asuna
+407400201_8_a
+	oH
+all this foreign data was bound
+to throw it off balance sooner
+or later.
+Kirito
+407400201_7_a
+	oH
+No matter how good the Cardinal
+System is at handling things
+automatically,
+Kirito
+407400201_6_a
+	oH
+Then it's just as we feared.
+It's because they're not of
+this world.
+Kirito
+407400201_5_a
+	oH
+I think it's been happening slowly
+ever since they came to ALO.
+Yui
+407400201_4_a
+	oH
+Asuna
+407400201_3_a
+	oH
+Kirito
+407400201_2_a
+	oH
+bg_11_home_lounge
+Their avatar data is corrupt,
+but I don't think this was a
+sudden development.
+Yui
+407400201_1_a
+How can you be sure, Yui?
+Asuna
+407400101_21_a
+That appears to be the case,
+Mommy. It's not just you.
+Yui
+407400101_20_a
+Maybe it's just me, but it seems
+like they're sleeping a bit longer
+every day.
+Asuna
+407400101_19_a
+Really?
+Kirito
+407400101_18_a
+You can say that again. But
+they have been acting pretty
+strange lately.
+Asuna
+407400101_17_a
+Well, that Divine Object quest
+WAS pretty rough.
+Kirito
+407400101_16_a
+They're sleeping like babies.
+Asuna
+407400101_15_a
+Yeah, and that's all we know.
+How are Alice and Eugeo?
+Kirito
+407400101_14_a
+Or, at the very least, someone
+unaffiliated with the Cait Sith
+players.
+Asuna
+407400101_13_a
+No. That Cait Sith NPC must've
+been a specially-created boss
+for the Divine Object quest.
+Kirito
+407400101_12_a
+bg_11_home_lounge
+So Alicia didn't have any
+information?
+Asuna
+407400101_9_a
+Yui
+407400101_11_a
+Kirito
+407400101_10_a
+You do...?
+Kirito
+407400101_8_a
+Ooh! Actually, you may not have
+to. I've got an idea...
+Alicia
+407400101_7_a
+Oh, er, yeah. I'll be sure to
+repay the favor.
+Kirito
+407400101_6_a
+Though I think it's safe to say
+you owe me one, wouldn't you
+agree?
+Alicia
+407400101_5_a
+No problem! Wouldn't do it for
+anyone but you, Kirito.
+Alicia
+407400101_4_a
+Huh, okay. Well, thanks for
+checking.
+Kirito
+407400101_3_a
+Kirito
+407400101_2_a
+bg_event_alne_christmas
+Hmm... Nope, never seen that
+Cait Sith NPC before.
+Alicia
+407400101_1_a
+Sphica
 407101201_41_a
-セブン
+Seven
 407101201_40_a
-……うん!
-フェリチ
+...Sure!
+Feliz
 407101201_39_a
-フェリチ……!
-さあ、行こう!
-キリト
+Sure! Feliz, you want to come
+with us?
+Kirito
 407101201_38_a
+Yui
 407101201_37_a
-キリト
+Kirito
 407101201_36_a
-それなら
-ウンディーネ首都が一番近いわ!
-早速行きましょう!
-アスナ
+Well, the Undine capital is the
+closest, so let's head there!
+Asuna
 407101201_35_a
-フェリチ
+Feliz
 407101201_34_a
-スフィカ
+Sphica
 407101201_33_a
-種族の首都の掲示板とかで
-掲載されてるって話よね!
-セブン
+Apparently, they posted the scores
+up on the quest boards in every
+races' capital!
+Seven
 407101201_32_a
-さあ、パパ、ママ!
-集計結果を見に行きましょう!
+Mommy, Daddy, come on! I want to
+go check the quest rankings!
+Yui
 407101201_31_a
-ああ……!
-キリト
+Glad to hear it!
+Kirito
 407101201_30_a
-そうだね、それって
-NPCとの交流全般に言える
-ことかもしれないね
-アスナ
+Hmm. Well, that applies to pretty
+much every NPC, but I think I get
+what you're trying to say...
+Asuna
 407101201_29_a
-仮に柔軟に反応できなくても、きっと
-心の中では全部聴いててくれてる……
-それだけでも十分だと思うからさ
-キリト
+I'm sure that somewhere in her
+heart, she'll understand. And
+that's enough for me.
+Kirito
 407101201_28_a
-たとえ言葉はわからなくても
-嘘偽りのない俺の正直な気持ちを
-その都度語ろうって……
-キリト
+Even if she can't comprehend my
+words, as long as I'm honest with
+her and share my feelings...
+Kirito
 407101201_27_a
-それは……どんな?
-アスナ
+And... those are?
+Asuna
 407101201_26_a
-それにこの件で俺なりの
-フェリチとの向き合い方……
-なんとなくわかった気がするんだ
-キリト
+Well, regardless, I think I've
+come to terms with some of
+my feelings about Feliz now.
+Kirito
 407101201_25_a
-確かに……そうだったな
-キリト
+Heh. Maybe you're right.
+Kirito
 407101201_24_a
-奇跡みたいなものを
-体験させてくれるから……
-アスナ
+wonderful miracles in VR already.
+Besides, it's a nice sentiment.
+Asuna
 407101201_23_a
-そうかもしれないね
-この世界では時々わたしたちが
-想像もしないような……
-アスナ
+You know, maybe Sachi was watching
+over her. We've experienced so
+many seemingly impossible,
+Asuna
 407101201_22_a
-少しサチと被るところが
-あったんだ……
-キリト
+But Feliz sounded just like her
+for a minute back there...
+Kirito
 407101201_21_a
-ああ、まぁ俺の妄想だと思うけど
-あのときのフェリチの言葉には……
-キリト
+Yeah... I mean, not really.
+I know that's impossible.
+Kirito
 407101201_20_a
-彼女……もしかしてサチさん?
-アスナ
+She? You mean... Sachi?
+Asuna
 407101201_19_a
-どこかで彼女が見守ってくれて
-力を貸してくれたのかもしれないな
-キリト
+That she was watching over Feliz
+from somewhere. Keeping her safe
+and helping her understand...
+Kirito
 407101201_18_a
-そうなんだ……
-もしかしてあのときのフェリチは……
-キリト
+Yeah... This might sound insane,
+but I had the feeling...
+Kirito
 407101201_17_a
-ああ……この前の話ね
-洞窟の中のフェリチちゃんが
-妙に柔軟な会話をしていたっていう
-アスナ
+Oh, right. You did say that she
+was strangely articulate when
+you rescued her from that cave.
+Asuna
 407101201_16_a
-いや、今のフェリチの
-無反応な感じが……
-普通なんだろうなって思ってさ
-キリト
+Yeah, it's nothing. I was just
+thinking that she's back to
+normal. Well, NPC normal.
+Kirito
 407101201_15_a
-キリトくん、どうしたの?
-アスナ
+Kirito, are you sure you're okay?
+Asuna
 407101201_14_a
-アスナ
+Asuna
 407101201_13_a
-………………
-キリト
+...
+Kirito
 407101201_12_a
-フェリチ
+Feliz
 407101201_11_a
-はいなのです!
-スフィカ
+Yay! Let's do it!
+Sphica
 407101201_10_a
+Yui
 407101201_9_a
-スフィカ、今のフェリチには
-まだわからないだろうけど、
-すぐに理解してもらえるようになるわ
-セブン
+Sphica, Feliz still can't follow
+our conversations that well,
+but she will soon.
+Seven
 407101201_8_a
-……?
-フェリチ
+I...
+Feliz
 407101201_7_a
-フェリチ
+Feliz
 407101201_6_a
-良かったのです!
-ね、フェリチ!
-スフィカ
+That's great to hear!
+Right, Feliz?
+Sphica
 407101201_5_a
-集計を見ないと確証は得られませんが
-恐らく上位ランカーには
-入れているはずです!
+We won't know for certain if we
+made it until the results are out,
+but I think we did!
+Yui
 407101201_4_a
-はい、期間限定で
-ポイントを貯め続ける
-このマラソンイベント……
+It really was a lot of work to
+earn so many points in so short
+a time!
+Yui
 407101201_3_a
+Yui
 407101201_2_a
 bg_event_alne_field_christmas
-やったわ!
-これで上位者になれるはずよ!
-セブン
+Yay! After this, we're sure to
+make it into the rankings and
+get that prize!
+Seven
 407101201_1_a
-キミには理解してもらえないと思って
-俺は嘘をついてしまっていたんだ……
-キリト
+Sorry I lied to you, but I didn't
+think you'd be able to understand.
+So, here's the deal...
+Kirito
 407101101_25_a
-まずユイとの関係を言っておくよ
-前はゴメンな……
-キリト
+So first, a confession and an
+apology. I want to tell you the
+truth about Yui and me.
+Kirito
 407101101_24_a
-………………
-フェリチ
+...
+Feliz
 407101101_23_a
-近い将来、報酬を無事に手に入れて
-キミが言語モジュールを実装して
-一緒に戦えることを願ってさ……
-キリト
+And so you know, I truly hope that
+we can beat this quest, upgrade
+your AI, and fight side by side...
+Kirito
 407101101_22_a
-そうか……わかったよ
-じゃあ少し話そうか
-キリト
+Feliz... I'd like that. And okay,
+you won me over! I'll tell you a
+bit about what's bothering me.
+Kirito
 407101101_21_a
-私、そう思ってるの
-フェリチ
+And I'll work hard so that I can.
+I promise.
+Feliz
 407101101_20_a
-今は守られてるばかりの私だけど
-いつかキリトとも肩を並べて
-戦えるようになりたい……
-フェリチ
+I know I can't help much now,
+but one day, I'd like to be able
+to fight by your side...
+Feliz
 407101101_19_a
-フェリチ……!
-キリト
+Feliz...
+Kirito
 407101101_18_a
-いつかきっと私……
-キリトの言葉……
-全部わかるようになるから……
-フェリチ
+And one day, maybe I'll be able
+to understand...
+Feliz
 407101101_17_a
-私にはわからないかもしれないけど
-キリト……言いたいことがあったら
-なんでも教えてね
-フェリチ
+Yeah. If there's something you
+want to tell me, maybe I won't
+get it, but I'm listening.
+Feliz
 407101101_16_a
-えっ……?
-キリト
+I am?
+Kirito
 407101101_15_a
-キリト……
-なんか様子がおかしいよ?
-フェリチ
+Kirito... You're acting strange.
+Feliz
 407101101_14_a
-なんでもないよ……
-キリト
+Yeah, don't worry about it.
+Kirito
 407101101_13_a
-キリト、どうしたの?
-フェリチ
+Kirito, is everything all right?
+Feliz
 407101101_12_a
-あっ、いや……ゴメンな
-今のキミに色々言っても
-わかるわけないのにな……
-キリト
+Oh... Sorry, I bet you couldn't
+follow that. You wouldn't
+understand, anyway...
+Kirito
 407101101_11_a
-……?
-フェリチ
+I...
+Feliz
 407101101_10_a
-それはこれから
-気をつけてくれ……
-キリト
+So please, promise me you won't
+do anything dangerous like this
+again.
+Kirito
 407101101_9_a
-でも……だからって危険な目に
-遭ってママを悲しませたら
-元も子もないだろう?
-キリト
+But listen to me... You need to be
+careful, okay? If you get hurt,
+you'll only make your mom sad.
+Kirito
 407101101_8_a
-ああ、わかってる
-フェリチはママのために
-がんばって集めてたんだもんな
-キリト
+You're a good girl for thinking
+of your mom like that, Feliz.
+Kirito
 407101101_7_a
-それで波にさらわれちゃって……
-気づいたらこの洞窟にいたの……
-フェリチ
+It hit me, and I felt myself
+getting pulled out to sea... The
+next thing I knew, I was here...
+Feliz
 407101101_6_a
-一人で浜辺に行ったの……
-そしたら暗かったせいで
-高波が来てるのに気づかなくて……
-フェリチ
+But it was really dark, and I
+didn't notice this really big
+wave come in...
+Feliz
 407101101_5_a
-あのね、キリト……
-私、昨日の夜にもう少しママへの
-プレゼントの宝石を集めておきたくて
-フェリチ
+Kirito... Last night, I went to
+the beach to look for gems for
+my mom's present...
+Feliz
 407101101_4_a
-そろそろ落ち着いたか
-フェリチ……
-キリト
+Are you feeling better, Feliz?
+Kirito
 407101101_3_a
-キリト
+Kirito
 407101101_2_a
 bg_event_limestone_cave
-えっく、えっく……
-フェリチ
+sniff
+...
+Feliz
 407101101_1_a
-……しばらくは
-泣き止むまで待ったほうが
-良さそうだな
-キリト
+(I...should probably let her cry
+it out before I get her out of
+here...)
+Kirito
 407101001_39_a
-うわーん!
-キリト、キリトぉーー!!
-フェリチ
+Waaah! Kirito!
+I was so scared!!
+Feliz
 407101001_38_a
-でも安心してくれ
-必ず君をここから救い出すから……
-キリト
+But you're safe now. I'll get you
+out of here, I promise!
+Kirito
 407101001_37_a
-こんな場所で夜を明かしたんだもんな
-寒かったろうに……
-キリト
+You've been here since last night,
+haven't you? You must be
+freezing...
+Kirito
 407101001_36_a
-無事で良かっ……
-いや、無事じゃないよな
-キリト
+I'm so glad you're okay...
+Kirito
 407101001_35_a
-キリトぉーーっ!!
-フェリチ
+Kiritooo!!
+Feliz
 407101001_34_a
-キリト
+Kirito
 407101001_33_a
-えっ……キリト?
-キリトなの!?
-フェリチ
+Huh? Kirito? Is that you?!
+Feliz
 407101001_32_a
-フェリチか!?
-キリト
+Feliz?! Are you there?!
+Kirito
 407101001_31_a
-えっ!?
-そ、その声は……!
-キリト
+Wait, is that who I think it is?!
+Kirito
 407101001_30_a
-ううっ……ううっ……
+sniff
+... 
+sob
+...
 ???
 407101001_29_a
-なんだここは……
-海底洞窟……?
-キリト
+But...what is this place?
+An underwater grotto, with air?
+Kirito
 407101001_28_a
-幸いこんな場所を見つけられて
-HP減らずに済んだけど……
-キリト
+At least I found this place before
+I lost all my HP...
+Kirito
 407101001_27_a
-はぁ、はぁ……
-水中呼吸魔法が切れて……
-ビビったぜ……
-キリト
+pant
+pant
+... Phew,
+I seriously panicked when that
+waterbreathing spell wore off...
+Kirito
 407101001_26_a
 bg_event_limestone_cave
-ぷはっ……!
-キリト
+gasp
+Kirito
 407101001_25_a
-アスナ
+Asuna
 407101001_24_a
-ママ……
+Mommy...
+Yui
 407101001_23_a
-きっと今のキリトくんの感情は
-彼にしかわからないものだと
-思うから……
-アスナ
+I can't imagine what he's going
+through right now... I think he
+needs to do this...
+Asuna
 407101001_22_a
+Yui
 407101001_21_a
-うん……そうかもしれないね
-でも……今はキリトくんのやりたい
-ようにさせてあげたい……
-アスナ
+He is... But I think we should
+leave him be...
+Asuna
 407101001_20_a
-スフィカ
+Sphica
 407101001_19_a
-キリト君……あたしたちには
-散々無理するなとか言っておいて
-自分が無理してるんじゃない!
-セブン
+That idiot! He told us not to go
+overboard, and he's out there
+pushing himself!
+Seven
 407101001_18_a
-アスナ
+Asuna
 407101001_17_a
-それがまだパパは戻っていないのです
+He's still out searching...
+Yui
 407101001_16_a
-スフィカ
+Sphica
 407101001_15_a
-それよりも……キリト君は?
-セブン
+So...where's Kirito?
+Seven
 407101001_14_a
+Yui
 407101001_13_a
-そう……
-アスナ
+...
+Asuna
 407101001_12_a
-スフィカ
+Sphica
 407101001_11_a
-ええ、残念ながら
-フェリチの手がかりになりそうな
-ものは見つけられなかったわ……
-セブン
+Nope, no sign of her anywhere.
+Seven
 407101001_10_a
-アスナ
+Asuna
 407101001_9_a
-その様子だと……
+You...didn't find her, did you?
+Yui
 407101001_8_a
-スフィカ
+Sphica
 407101001_7_a
-ふぇぇ、サムイ……
-ロシアの海に匹敵するわ……
-セブン
+Brrr, it's FREEZING!
+It's just like the ocean in
+Russia during winter...
+Seven
 407101001_6_a
+Yui
 407101001_5_a
-セブンちゃん……
-アスナ
+...
+Asuna
 407101001_4_a
-あっ、セブンも
-上がってきたのです
-スフィカ
+Seven's back!
+Sphica
 407101001_3_a
-ぷはっ!
-セブン
+gasp
+Seven
 407101001_2_a
 bg_event_north_sea
-スフィカ
+Sphica
 407101001_1_a
-フェリチ……
-無事でいてくれ……!
-キリト
+Please be all right, Feliz...
+Please...
+Kirito
 407100901_56_a
-ああ、アスナ頼む……
-キリト
+Good idea, Asuna. Thanks!
+Kirito
 407100901_55_a
-キリト
+Kirito
 407100901_54_a
+Yui
 407100901_53_a
-待ってみんな
-一応水中呼吸魔法をかけるわ
-アスナ
+Hold up, everyone. I'm going to
+cast waterbreathing spells on you.
+Asuna
 407100901_52_a
-スフィカ
+Sphica
 407100901_51_a
-じゃあ行きましょうか
-セブン
+Well, let's get searching.
+Seven
 407100901_50_a
-アスナ
+Asuna
 407100901_49_a
-キリト
+Kirito
 407100901_48_a
-はい、パパ!
+Got it, Daddy!
+Yui
 407100901_47_a
-セブン
+Seven
 407100901_46_a
-わかったのです!
-スフィカ
+Got it!
+Sphica
 407100901_45_a
-アスナ
+Asuna
 407100901_44_a
-みんなあまり長時間の潜水は控えて
-程々にやってくれ
-キリト
+but I don't want anyone staying in
+too long. If you're uncomfortable,
+get out.
+Kirito
 407100901_43_a
-でも確かに今の水中はかなり冷える
-VRMMO内でも多少体感的に寒いと
-感じる以上は無理はできない
-キリト
+The water's freezing, and VRMMOs
+like ALO recreate that sensation.
+We can't freeze to death,
+Kirito
 407100901_42_a
+Yui
 407100901_41_a
-アスナ
+Asuna
 407100901_40_a
-ああ……
-よし海に潜って捜索してみよう
-キリト
+Yeah... Let's check the ocean,
+above and below water.
+But be careful.
+Kirito
 407100901_39_a
-そうね……
-でも陸上で見当たらないと来れば
-もう探すしかないかもしれないわね
-セブン
+Yeah, that'd be real bad. But if
+we can't find her on land, the
+ocean's our best bet.
+Seven
 407100901_38_a
-こんな寒空の冬の海に落とされて
-子供が無事に済むわけないのです!
-スフィカ
+No one could survive in the water
+for long in this weather!
+She'll freeze to death!
+Sphica
 407100901_37_a
-セブン
+Seven
 407100901_36_a
-それはマズイのです!
-スフィカ
+No! That'd be really bad!
+Sphica
 407100901_35_a
-アスナ
+Asuna
 407100901_34_a
-あまり考えたくはありませんが
-波に流されたとも考えられます
+So, where is she? Unfortunately,
+the most likely conclusion is that
+she was swept out to sea.
+Yui
 407100901_33_a
-ですが、パパ、ママ
-これだけ浜辺を探しても
-見つからないということは、
+Let's think about this rationally.
+We've searched every inch of this
+beach and can't find her.
+Yui
 407100901_32_a
-い、いやアスナが悪いわけじゃない
-俺のほうこそ熱くなり過ぎた……
-悪い……
-キリト
+I'm sorry... I'm just scared, and
+I was taking it out on you.
+I shouldn't have done that.
+Kirito
 407100901_31_a
-……!
-キリト
+I...
+Kirito
 407100901_30_a
-そ、そういう意味じゃなくて……
-でもごめんなさい……
-キリトくんの考えはわかってるのに
-アスナ
+H-Hey, I'm not saying we should
+just give up! But... sorry. I know
+how you must feel right now.
+Asuna
 407100901_29_a
-制限内にフェリチを探せなかったら
-ただのクエスト未達成扱いになる……
-そんな結果はごめんだ
-キリト
+I don't want to fail the quest
+just because we took it easy!
+Kirito
 407100901_28_a
-時間制限つきの
-イベントって可能性もある……
-キリト
+What if this is a timed event?!
+What if something happens if we
+don't find her fast enough?!
+Kirito
 407100901_27_a
-だからって放置してる
-わけにはいかないだろ?
-キリト
+Yeah, but we can't just sit on
+our hands here!
+Kirito
 407100901_26_a
-つまりなにも起こらずに
-フェリチが帰ってこないなんて
-シナリオはさすがにないと思うの
-アスナ
+It's likely this is just part of
+the script. If we can figure out
+what to do, she'll be fine.
+Asuna
 407100901_25_a
-キリトくん、落ち着いて
-これはサブシナリオ……
-アスナ
+Kirito, calm down!
+This is a side quest, remember?
+Asuna
 407100901_24_a
+Yui
 407100901_23_a
-アスナ
+Asuna
 407100901_22_a
-くっ……これだけ探しても
-見当たらないなんて……
-キリト
+No, no, no!
+We've looked everywhere!
+If something happened to her...
+Kirito
 407100901_21_a
-どこに行ったのよーっ!
-セブン
+Where is that girl!
+Seven
 407100901_20_a
-セブン
+Seven
 407100901_19_a
 bg_event_north_sea
-おーい!
-フェリチーッ!
-スフィカ
+Helllooo! Fellliiizzz!
+Are you there?
+Sphica
 407100901_18_a
+Yui
 407100901_17_a
-キリト
+Kirito
 407100901_16_a
-うん、もちろん!
-アスナ
+Of course it is, silly!
+Asuna
 407100901_15_a
-あの浜辺に行こう!
-フェリチを探すんだ!
-キリト
+Let's go find her!
+To the beach!
+Kirito
 407100901_14_a
-ああ、一人で
-宝石を集めに行ったのかもしれない
-キリト
+That's probably it!
+Kirito
 407100901_13_a
-キリト
+Kirito
 407100901_12_a
-アスナ
+Asuna
 407100901_11_a
-フェリチはもしかして……
+Do you think she went to look for
+gems?
+Yui
 407100901_10_a
-村のNPCたちに話を聞いてみたら
-フェリチが海に一人で行くのを見て
-それ以降行方が知れないって!
-スフィカ
+We asked the villagers if they'd
+seen her, and they said she went
+to the beach and never came back!
+Sphica
 407100901_9_a
-フェリチを昨夜から
-見かけてないってフェリチの
-ママが言ってて……
-セブン
+And she's gone! Her mom told us
+she's been missing since last
+night!
+Seven
 407100901_8_a
-スフィカ
+Sphica
 407100901_7_a
-今日もクエストに行こうと思って
-フェリチの住んでる村に誘いに
-行ってみたら……
-セブン
+We swung by Feliz's village to
+work on her quest today...
+Seven
 407100901_6_a
-アスナ
+Asuna
 407100901_5_a
+Yui
 407100901_4_a
-どうしたんだ……?
-キリト
+What's the problem?
+Kirito
 407100901_3_a
-スフィカ
+Sphica
 407100901_2_a
 bg_event_alne_christmas
-た、大変よ
-キリト君、アスナちゃん!
-セブン
+Kirito! Asuna! We've got trouble!
+Seven
 407100901_1_a
-宝石集めか……
-そうだな!
-キリト
+Right! So let's go look for some
+gems!
+Kirito
 407100801_26_a
-はい、それにフェリチの
-サブクエストもクリアしてあげたい
-ですしね
+Agreed! And I'd also like to do
+Feliz's side quest while we're
+at it.
+Yui
 407100801_25_a
-ああ、そうだな
-その意味でもこのクエスト……
-なんとかクリアしなきゃな
-キリト
+Yeah, I think so too. That just
+makes it doubly important that
+we beat this quest.
+Kirito
 407100801_24_a
-わたしたちの関係性だって
-理解してもらえると思うよ
-アスナ
+I bet she'll understand then.
+Asuna
 407100801_23_a
-きっとフェリチちゃんが
-会話できるようになれば、
-アスナ
+Well, we can tell her the truth
+once she's got her advanced AI.
+Asuna
 407100801_22_a
-はい、そうですね
-あそこは無理に真実を説明せず
-流して正解だったと思います
+You're right, and I understand.
+We don't have to explain our
+history to everyone we meet.
+Yui
 407100801_21_a
-でも説明しても俺たちの関係性は
-NPCが理解できる
-範疇を越えてると思ってさ
-キリト
+But I kind of doubt she would be
+able to really get it, if I did...
+Kirito
 407100801_20_a
-ユイの父親だって自己紹介はしたけど
-関係性についてはフェリチに
-まだ伝えてなかっただろ?
-キリト
+I told her I'm your father too,
+but maybe I should have explained
+exactly how we're related...?
+Kirito
 407100801_19_a
-あ、いえ……平気です
+Oh. No, it's okay. I don't mind.
+Yui
 407100801_18_a
-さっきはゴメンな
-毎年クリスマスプレゼントを
-あげてるなんて言っちゃってさ
-キリト
+Sorry I lied and told them I get
+you a present every year...
+Kirito
 407100801_17_a
-パパ、どうしました?
+What is it, Daddy?
+Yui
 407100801_16_a
-ええと……
-ユイ……
-キリト
+Hey, Yui...?
+Kirito
 407100801_15_a
-はは、そうだな……
-キリト
+Ha ha, for sure.
+Kirito
 407100801_14_a
+Yui
 407100801_13_a
-キリト
+Kirito
 407100801_12_a
-ふふっ、三人ともはしゃいでるね
-アスナ
+Hehe, those three look like
+they're having a good time.
+Asuna
 407100801_11_a
-あはは、二人とも
-ほおばり過ぎだよ
-フェリチ
+Ahahaha, you ate too much at once.
+Feliz
 407100801_10_a
-酸っぱあああいいーーーっ!!
-セブン
+IT'S SO SOUR, AHHHHHH!!!
+Seven
 407100801_9_a
-んぐっ、んぐぐぐっ……!
-す、すううっ……!!
-スフィカ
+Gngh! 
+splutter
+...!
+S-S-Sour...!
+Sphica
 407100801_8_a
-あたしもあたしも!
-もぐもぐ……!
-セブン
+I wanna try one too!
+nom nom nom
+Seven
 407100801_7_a
-面白いのです!
-青色のイチゴなのです!
-さっそく食べてみるのです!
-スフィカ
+It looks so cool! Like a blue
+strawberry! I'm gonna gobble
+it up!
+Sphica
 407100801_6_a
-その果物は
-《マーキュリー・ベリー》だよ
-酸味があるけど爽やかで美味しいわ
-フェリチ
+It's called a "Mercury Berry."
+It's a bit tart, but it's really
+tasty.
+Feliz
 407100801_5_a
-冬なのにすごいわね!
-なんて果物かしら?
-セブン
+Wow! And in the middle of winter,
+too! What sort of fruit is it?
+Seven
 407100801_4_a
-フェリチ
+Feliz
 407100801_3_a
-セブン
+Seven
 407100801_2_a
 bg_event_north_sea
-こっちに果物がなってるのです!
-スフィカ
+This fruit's ripe!
+Sphica
 407100801_1_a
-スフィカ
+Sphica
 407100701_73_a
-セブン
+Seven
 407100701_72_a
-ふふっ、そうなのね
-フェリチ
+Hehe, that's nice of you.
+Feliz
 407100701_71_a
-あ、ああ……そうだよ
-キリト
+Yes. Let's go with yes.
+Kirito
 407100701_70_a
+Yui
 407100701_69_a
-アスナ
+Asuna
 407100701_68_a
-えっ……ええと……それは……
-キリト
+Ah. Well, actually...
+Kirito
 407100701_67_a
-キリトもユイには毎年
-プレゼントをあげてきたの?
-フェリチ
+Do you give Yui presents every
+year?
+Feliz
 407100701_66_a
-スフィカ
+Sphica
 407100701_65_a
-セブン
+Seven
 407100701_64_a
-……キリト
-あなたはユイのパパだと言ってたわね
-フェリチ
+Kirito... You're Yui's father,
+right?
+Feliz
 407100701_63_a
-キリト
+Kirito
 407100701_62_a
+Yui
 407100701_61_a
-あはは……
-アスナ
+Ahaha...
+Asuna
 407100701_60_a
-フェリチ
+Feliz
 407100701_59_a
-スフィカ
+Sphica
 407100701_58_a
-なるほどね!
-セブン
+Ahh, so it's just an Undine
+tradition here? I can see that.
+Seven
 407100701_57_a
+Yui
 407100701_56_a
-アスナ
+Asuna
 407100701_55_a
-えーと……きっとALOのこの地方だと
-サンタさんじゃなくて両親から
-もらう風習とかなんじゃないかな?
-キリト
+Err... Did you consider that Santa
+doesn't exist...? In ALO, I mean.
+Kirito
 407100701_54_a
-そうなのですよ、キリト!
-うちにも毎年サンタさんが
-来てくれるのです!
-スフィカ
+That's right, Kirito! Santa brings
+good kids Christmas presents!
+Sphica
 407100701_53_a
-フェリチ
+Feliz
 407100701_52_a
-スフィカ
+Sphica
 407100701_51_a
-クリスマスプレゼント?
-それはサンタさんから
-もらうんじゃないの?
-セブン
+cough
+Kirito, Christmas presents
+are brought by SANTA, and no one
+else...right?
+Seven
 407100701_50_a
-毎年この時期ってことは……
-クリスマスプレゼントなのかもな
-キリト
+Think this is supposed to be a
+Christmas present? 'Tis the
+season, after all.
+Kirito
 407100701_49_a
-はい、フェリチのお家は
-お父さんがいない……
-母子家庭設定のようです
+Most assuredly. Feliz's background
+states that she was raised by a
+single mother.
+Yui
 407100701_48_a
-キリト
+Kirito
 407100701_47_a
+Yui
 407100701_46_a
-……やっぱりクエストみたいね
-アスナ
+Yeaaah, this is a quest.
+Asuna
 407100701_45_a
-だから今年はこれまでのお礼を込めて
-ママのために宝石を集めて
-アクセサリを作りたかったの
-フェリチ
+So I thought that this year, I'd
+get something for her. And with
+gems, I can make her some jewelry.
+Feliz
 407100701_44_a
-セブン
+Seven
 407100701_43_a
-スフィカ
+Sphica
 407100701_42_a
-ママはこの時期になると
-毎年私のためにプレゼントを
-用意してくれるわ
-フェリチ
+Yeah. Mom always gets me a present
+around this time of year.
+Feliz
 407100701_41_a
+Yui
 407100701_40_a
-キリト
+Kirito
 407100701_39_a
-ママ?
-アスナ
+Your mother?
+Asuna
 407100701_38_a
-セブン
+Seven
 407100701_37_a
-スフィカ
+Sphica
 407100701_36_a
-これは自分のためじゃないの
-……ママのためのものなのよ
-フェリチ
+No... I wanted to give it to my
+mom...
+Feliz
 407100701_35_a
+Yui
 407100701_34_a
-アスナ
+Asuna
 407100701_33_a
-フェリチはその石が
-欲しかったのか?
-キリト
+You wanted one of those rocks
+for yourself, Feliz?
+Kirito
 407100701_32_a
-わー、いいのです!
-スフィカも欲しいのです!
-スフィカ
+Wow, it really is pretty!
+I want one too!
+Sphica
 407100701_31_a
-ここで綺麗な石が採れるって話を
-思い出して探してみることにしたの
-フェリチ
+I remembered that pretty rocks
+like this can be found here,
+so I wanted to look for some.
+Feliz
 407100701_30_a
-わあ、綺麗な鉱石ね!
-ダイヤモンドみたい!
-セブン
+Wow, what a nice rock!
+It sparkles like a diamond!
+Seven
 407100701_29_a
-ほら、見て
-これ……
-フェリチ
+Look...
+Feliz
 407100701_28_a
-セブン
+Seven
 407100701_27_a
-フェリチ
+Feliz
 407100701_26_a
-フェリチ～!
-どーしたのです?
-スフィカ
+Feliiiz!
+Everything okay?
+Sphica
 407100701_25_a
-ああ、そうだな
-キリト
+Good point. Let's do it.
+Kirito
 407100701_24_a
-もし今フェリチが流暢によどみなく
-会話し始めれば
-それは恐らくクエストかと
+So if she starts an eloquent
+monologue, we'll know it's
+quest-related.
+Yui
 407100701_23_a
-彼女に話を聞いてみればわかると
-思います……わたしたちと遊ぶ彼女は
-基本単純な受け答えしかできません
+Well, let's ask her! When we were
+playing, she could only ever react
+to us using simple sentences.
+Yui
 407100701_22_a
-……サブクエ発生かもしれないな
-キリト
+Maybe it's a side quest, or some
+sort of special event?
+Kirito
 407100701_21_a
+Yui
 407100701_20_a
-キリト
+Kirito
 407100701_19_a
-AIのないNPCの彼女が
-独自に動くということは……
-アスナ
+It's strange that an AI-less NPC
+like her would head off on her
+own...
+Asuna
 407100701_18_a
-ホントね……
-どうしたのかしら?
-セブン
+Wow, she is. What's up with that?
+Seven
 407100701_17_a
-セブン
+Seven
 407100701_16_a
-あーっ、あんなところで
-しゃがみ込んでるのです!
-スフィカ
+There she is! She's crouching over
+there for some reason!
+Sphica
 407100701_15_a
-………………
-フェリチ
+...
+Feliz
 407100701_14_a
-アスナ
+Asuna
 407100701_13_a
+Yui
 407100701_12_a
-ああ……ん?
-フェリチはどこに行ったんだ?
-キリト
+You got it, Yui...
+Hey, where's Feliz?
+Kirito
 407100701_11_a
-アスナ
+Asuna
 407100701_9_a
-皆さん、厚着をしたり、
-保温用のアイテムを使ったり、
-防寒は怠らないようにしてください
+Everyone, be sure to wear warm
+clothes, dress in layers, and use
+heating items!
+Yui
 407100701_8_a
-キリト
+Kirito
 407100701_10_a
-スフィカ
+Sphica
 407100701_7_a
-冬の海って風が冷たくて寒いよねぇ!
-ううっ、うえっくしょん!
-セブン
+Yeah, the wind by the ocean
+in the winter is freezing!
+Ah, ah... achoo!
+Seven
 407100701_6_a
-キリト
+Kirito
 407100701_5_a
+Yui
 407100701_4_a
-ウンディーネ領にも
-冬が訪れてるからね……
-アスナ
+Undine territory winters are
+pretty chilly...
+Asuna
 407100701_3_a
-セブン
+Seven
 407100701_2_a
 bg_event_north_sea
-ううっ……サブいのです!
-スフィカ
+Brrr, it's freezing!
+Sphica
 407100701_1_a
-フェリチ
+Feliz
 407100601_64_a
-キリト
+Kirito
 407100601_63_a
-………………
-アスナ
+...
+Asuna
 407100601_62_a
-セブン
+Seven
 407100601_61_a
+Yui
 407100601_60_a
-りょーかいなのです!
-スフィカ
+Me! I do! Let's go!
+Sphica
 407100601_59_a
-アスナ
+Asuna
 407100601_58_a
-フェリチ
+Feliz
 407100601_57_a
-い、いやなんでもない
-さあ……
-それよりも攻略を続けようぜ!
-キリト
+It's nothing... So! Who wants to
+get back to questing!
+Kirito
 407100601_56_a
+Yui
 407100601_55_a
-スフィカ
+Sphica
 407100601_54_a
-んー?
-なんか神妙そうだけど
-一体どうしたの?
-セブン
+Heeey, you're acting reaaally
+weird. What's the deal here?
+Seven
 407100601_53_a
-アスナ
+Asuna
 407100601_52_a
-フェリチ
+Feliz
 407100601_51_a
-それもわかってる……
-キリト
+I know, but...
+Kirito
 407100601_50_a
-スフィカ
+Sphica
 407100601_49_a
-セブン
+Seven
 407100601_48_a
-ですがNPCキャラクターは仮にHPを
-ゼロにされても、SA:Oと異なり
-このALOでは復活することはできます
+But this is ALO. Unlike SA:O, NPCs
+can be resurrected here even
+if they die.
+Yui
 407100601_47_a
-ああ……戦って
-敗北してしまうこともありえる……
-キリト
+Then someday she might fight,
+lose, and die...
+Kirito
 407100601_46_a
-ユイちゃんのように戦うことも
-できるようになるってことは
-つまり……
-アスナ
+And if, like Yui, she gains the
+ability to participate in
+combat...
+Asuna
 407100601_45_a
-………………
-キリト
+...
+Kirito
 407100601_44_a
-その……今後は……
-本人の意思で本格参戦するようになる
-かもしれないよ?
-アスナ
+In other words... Someday
+she might want to fight too.
+Asuna
 407100601_43_a
-逆にNPCとして言語モジュールを
-備えることでよりキャラクターとして
-意思が確立されていくことになって
-アスナ
+But once she gets her AI upgraded,
+she'll have her own needs and
+desires.
+Asuna
 407100601_42_a
-キリトくん……フェリチは今のところ
-システム的に守られてるから
-戦闘時に危険はないけど、
-アスナ
+Kirito... The system's protecting
+Feliz now, so she isn't in any
+danger during combat...
+Asuna
 407100601_41_a
-アスナ
+Asuna
 407100601_40_a
-フェリチ
+Feliz
 407100601_39_a
-ははは……
-キリト
+Sorry... I guess I am being
+overprotective...
+Kirito
 407100601_38_a
-ホントなのです!
-スフィカも守ってほしいのです!
-スフィカ
+Seven's right! Besides, I want you
+to protect me, okay?
+Sphica
 407100601_37_a
+Yui
 407100601_36_a
-スフィカ
+Sphica
 407100601_35_a
-もーっ
-なんかフェリチに対しては
-過保護よねぇ、キリト君!
-セブン
+Ugh, why are you such a wuss
+when it comes to Feliz, Kirito?
+She's not a baby.
+Seven
 407100601_34_a
-アスナ
+Asuna
 407100601_33_a
-フェリチ
+Feliz
 407100601_32_a
-それはわかってるけど
-なんか気になっちゃてさ……
-キリト
+I know that, but...
+I'm just worried, that's all.
+Kirito
 407100601_31_a
-ウンディーネNPCとして近くから
-魔法で援護してくれるだけの
-サポートキャラなので……
+She may be in our party, but she's
+set to cast close-range Undine
+support magic on us, that's all.
+Yui
 407100601_30_a
-スフィカ
+Sphica
 407100601_29_a
-セブン
+Seven
 407100601_28_a
-パパ……今のフェリチを
-パーティに加えても
-キルされることはないと思います
+We don't have to worry about that.
+The system is treating her as a
+non-combat character.
+Yui
 407100601_27_a
-逆に前線に出しすぎると、
-敵に攻撃されるんじゃないかって
-心配が付きまとうからな……
-キリト
+So... can you please stay back?
+I'm terrified that the monsters
+are going to hurt you...
+Kirito
 407100601_26_a
-時々バフ魔法をかけてくれるって
-だけ十分ありがたいけど
-キリト
+And I'm really grateful for those
+buffs you give us here and there.
+Kirito
 407100601_25_a
-ああ、気にするな
-フェリチは今のところ
-戦闘には参加できないからな
-キリト
+Hey, don't worry about it.
+You can't fight, and I'm happy
+to handle them all.
+Kirito
 407100601_24_a
-さっきはありがとう、キリト
-フェリチ
+Thank you very much, Kirito.
+Feliz
 407100601_23_a
-そうだな……
-キリト
+Yeah...
+Kirito
 407100601_22_a
-うん……
-やっぱり報酬が特殊なだけあって
-登場する敵もなかなか強いね……
-アスナ
+Yeah... We should've known the
+monsters would be scary strong
+with a reward this amazing...
+Asuna
 407100601_21_a
-ふう、なんとかなったな……
-キリト
+Phew... That was close...
+Kirito
 407100601_20_a
-アスナ
+Asuna
 407100601_19_a
-フェリチ
+Feliz
 407100601_18_a
-うおおおおっ!
-キリト
+Hraaagggh!!
+Kirito
 407100601_17_a
-セブン
+Seven
 407100601_16_a
-スフィカ
+Sphica
 407100601_15_a
-は、はい!
-わかりました!
+O-Okay! We'll do it!
+Yui
 407100601_14_a
-ああ、平気だ!
-ユイたちは当初話し合ったとおり、
-あっちの群れをなんとかしてくれ!
-キリト
+I'll be fine, I can handle this!
+You guys handle the monsters
+over there, just like we planned!
+Kirito
 407100601_13_a
-フェリチ
+Feliz
 407100601_12_a
-キリト
+Kirito
 407100601_11_a
-………………
-アスナ
+...
+Asuna
 407100601_10_a
-ホントよ!
-大丈夫なの、キリト君!?
-セブン
+Seriously! What are you thinking,
+Kirito?!
+Seven
 407100601_9_a
-無謀なのです!
-スフィカ
+That's crazy! You're crazy!
+Sphica
 407100601_8_a
-セブン
+Seven
 407100601_7_a
-スフィカ
+Sphica
 407100601_6_a
-パパ!?
-あの数のモンスターを支援なしで
-一人でどうにかするつもりですか!?
+Daddy?! Are you really planning
+on taking all those monsters
+by yourself?!
+Yui
 407100601_5_a
-うん!
-フェリチ
+Okay!
+Feliz
 407100601_4_a
-アスナ
+Asuna
 407100601_3_a
-フェリチ
+Feliz
 407100601_2_a
-bg_18_mountain_snow
-フェリチ!
-ここは下がれ!
-俺に任せるんだ!
-キリト
+bg_event_alne_field_christmas
+Feliz! Get back! I'll handle this!
+Kirito
 407100601_1_a
-はい!
+Yeah!
+Yui
 407100501_42_a
-うん、もちろん!
-アスナ
+Of course it is, silly!
+Asuna
 407100501_41_a
-それを信じて
-二人とも付いてきてくれないか?
-キリト
+So, I'd like to come along on this
+one. Is that okay?
+Kirito
 407100501_40_a
-この心のわだかまりは
-きっと俺自身で解いていくしか
-ないと思うから
-キリト
+Besides, this is something I'm
+going to have to just deal with.
+Kirito
 407100501_39_a
-ああ……もちろん割り切れずに
-戸惑うことは
-あるかもしれないけど……
-キリト
+Yeah. It's going to be weird for
+me at first, but I'll get over it.
+Kirito
 407100501_38_a
-大丈夫?
-アスナ
+Are you sure?
+Asuna
 407100501_37_a
-い、いやそういうつもりじゃないんだ
-もちろん……協力はするさ
-キリト
+No, I'm not trying to wriggle out
+of this one. I'll help.
+Kirito
 407100501_36_a
-わたしたちだけでも
-クエスト攻略に挑戦することは
-可能ですし
+It'd be nice having you along,
+but we can do the quest ourselves.
+Yui
 407100501_35_a
-でもそれなら無理に
-パパに協力してもらうことは
-ないと思います
+But if that's the case, you don't
+have to help us, Daddy. You can
+sit this one out.
+Yui
 407100501_34_a
-別人だとわかっていても……
-そんな簡単に割り切れる
-ものじゃないと思うよ
-アスナ
+I sympathize. Even if you know
+she's not Sachi, she looks just
+like her. That must be tough.
+Asuna
 407100501_33_a
-どんな顔で
-あの子と向き合えばいいんだ……
-とか考えちゃってさ
-キリト
+I... just don't know if I can cope
+with that.
+Kirito
 407100501_32_a
-……あの子が会話する力を
-手に入れて、そしてサチの顔で
-表情豊かにしゃべり始めたとき……
-キリト
+But when I think about what it'll
+be like to see Feliz laughing and
+talking with that face, I...
+Kirito
 407100501_31_a
-ユイたちのために協力したいと思う
-気持ちに嘘はない……だからこれは
-ただの俺の気分の問題でしかない
-キリト
+And I really do want to help.
+I just need some time to sort
+out my feelings.
+Kirito
 407100501_30_a
-ああ、別にユイたちを
-責めたりはしてないよ
-キリト
+No, not at all.
+I'm not upset with you, Yui.
+Kirito
 407100501_29_a
-ううん
-ユイちゃんたちはなにも悪くないよ
-アスナ
+No, you don't have to feel bad,
+Yui. You didn't do anything wrong.
+Right, Kirito?
+Asuna
 407100501_28_a
-パパは困った顔をされていたんですね
-ごめんなさい、ママ……わたしは
-それを知らず協力を要請してしまって
+Sorry, Daddy. I didn't realize
+helping us with this would cause
+you so much pain.
+Yui
 407100501_27_a
-bg_18_mountain_snow
-そういうことでしたか……
-フェリチがそのサチさんという人と
-似ているから
+I see... So Daddy looked so
+troubled because Feliz looks like
+this girl he once knew, Sachi.
+Yui
 407100501_26_a
+Yui
 407100501_25_a
-キリト
+Kirito
 407100501_24_a
-………………
-アスナ
+...
+Asuna
 407100501_23_a
-絶対に報酬ゲットしてみせるわよ!
-セブン
+You can bet we're gonna win this
+thing! No one can stop us!
+Seven
 407100501_22_a
-セブン
+Seven
 407100501_21_a
-フェリチ
+Feliz
 407100501_20_a
-はいなのです!
-スフィカ
+Yay! Let's do it!
+Sphica
 407100501_19_a
-フェリチのためにも
-がんばろうな、みんな!
-キリト
+Okay, everyone! Feliz is counting
+on us! Let's win this!
+Kirito
 407100501_18_a
-あ、ああ……もちろん……
-キリト
+Yeah... Sure, of course...
+Kirito
 407100501_17_a
-キリトくん……?
-アスナ
+Kirito...?
+Asuna
 407100501_16_a
-………………
-キリト
+...
+Kirito
 407100501_15_a
+Yui
 407100501_14_a
-キリト
+Kirito
 407100501_13_a
-ふふっ、そういうことなら
-もちろん協力するよ
-ね、キリトくん?
-アスナ
+Hehe, glad to hear it. And we'd
+love to help you out, right,
+Kirito?
+Asuna
 407100501_12_a
-私も、みんなと
-もっと仲良くなりたいわ
-フェリチ
+I also want to get closer to all
+of you.
+Feliz
 407100501_11_a
-フェリチ
+Feliz
 407100501_9_a
-もっとたくさんおしゃべりして、
-もっとフェリチと
-仲良くなりたいのです
-スフィカ
+I wanna talk about stuff and play
+lotsa fun games with her!
+Sphica
 407100501_8_a
-セブン
+Seven
 407100501_10_a
-はい!
+Yeah!
+Yui
 407100501_7_a
-ユイちゃんたちは
-フェリチちゃんともっと色々な
-会話をしたいって思ってるのよね
-アスナ
+Well, you'll have to work hard to
+get it. You want to chat more with
+Feliz, right, girls?
+Asuna
 407100501_6_a
-上位者だけに限定して報酬として
-与えるってのは正解な気がするな
-キリト
+I think the decision to only award
+it to the quest's top rankers is
+a smart one.
+Kirito
 407100501_5_a
-確かにそんなすごい機能を
-大盤振る舞いすると
-色々問題が起きそうだから
-キリト
+That's a pretty amazing reward.
+No wonder the devs don't want
+to give it out to just anyone.
+Kirito
 407100501_4_a
+Yui
 407100501_3_a
-アスナ
+Asuna
 407100501_2_a
 bg_event_alne_field_christmas
-なるほど……
-NPC用の言語モジュール機能を
-クエスト報酬にしたってことか
-キリト
+Interesting... So in short, the
+quest reward is an advanced
+communication module for NPCs.
+Kirito
 407100501_1_a
-フェリチ
+Feliz
 407100401_39_a
-そうですね!
-パパとママに相談してみましょう
+Yeah, I agree! I'll ask Mommy
+and Daddy for some advice too!
+Yui
 407100401_38_a
-セブン
+Seven
 407100401_37_a
-それはすごいのです!
-挑戦したいのです!
-スフィカ
+That's amazing! Let's do it!
+Sphica
 407100401_36_a
-わたしも前に似たようなクエストで
-戦闘アバターにアレンジして
-もらえました
+I undertook a similar quest not
+long ago that granted me a
+combat-capable avatar.
+Yui
 407100401_35_a
-フェリチ
+Feliz
 407100401_34_a
-はい、きっとそうです
+Yes, I believe that's correct.
+Yui
 407100401_33_a
-フェリチに高いAIを
-実装できるってこと!?
-セブン
+Feliz will get an advanced AI?!
+Seven
 407100401_32_a
-セブン
+Seven
 407100401_31_a
-ってことは……
-そのクエストで上位者になれば……
-スフィカ
+So... If we do this quest,
+and do it well...
+Sphica
 407100401_30_a
-そのプレイヤーに対して
-近くのNPCから言葉を投げかける形で
-新しいクエストを告知したんですよ
+and if they are eligible for this
+special quest, it causes a nearby
+NPC to tell them about it.
+Yui
 407100401_29_a
-フェリチ
+Feliz
 407100401_28_a
-これは……運営からの通達ですね
-プレイ履歴を自動で読み込んで
-クエストに適したプレイヤーを識別し
+This is... a special directive
+programmed into the game. The
+system analyzes players' actions,
+Yui
 407100401_27_a
-スフィカ
+Sphica
 407100401_26_a
-ななっ……フェリチ?
-突然なにを言い出すの?
-セブン
+What the hell?! Where did Feliz
+pull that info from?!
+Seven
 407100401_25_a
-少数のこの世界の住人である妖精に
-もっと柔軟にやり取りする権限を
-与えることができるのよ
-フェリチ
+there is a good chance that I
+will be granted the ability to
+interact with you more naturally.
+Feliz
 407100401_24_a
-とある特殊クエストで
-成功上位者だけが
-その報酬を得られるんだけど……
-フェリチ
+There's a special quest we can
+do to help me overcome my
+limitations. If we complete it,
+Feliz
 407100401_23_a
-えっ?
+I... am?
+Yui
 407100401_22_a
-一つ解決する方法があるの
-フェリチ
+There's something we can do that
+will solve this problem.
+Feliz
 407100401_21_a
-………………
-フェリチ
+...
+Feliz
 407100401_20_a
-確かにこれ以上は
-難しいかもしれませんね……
+So Seven, Sphica... Let's try to
+tone things down when we're
+with her, okay?
+Yui
 407100401_19_a
-フェリチには日常会話以外
-受け答えできるような高い知能は
-組み込まれていません……
+It must be hard for you to
+interact with us like this.
+Yui
 407100401_18_a
-……そうですね
+No, it's okay, Feliz.
+Yui
 407100401_17_a
+Yui
 407100401_16_a
-ごめんなさい……
-フェリチ
+I'm sorry...
+Feliz
 407100401_15_a
-うーん……
-これ以上簡潔に説明するのは
-ちょっと難しいわねぇ……
-セブン
+Hmmm... It's going to be hard
+to explain this in any simpler
+terms.
+Seven
 407100401_14_a
-セブン
+Seven
 407100401_13_a
-そ、そう言われても……
-スフィカ
+But...
+Sphica
 407100401_12_a
-もう少しわかりやすく
-説明してあげないと……
+You need to simplify things,
+or she won't understand.
+Yui
 407100401_11_a
-スフィカ、セブン
-フェリチの理解が追いついていません
+Sphica, Seven, your explanation
+is too complex for Feliz.
+Yui
 407100401_10_a
+Yui
 407100401_9_a
-……わからないよ
-フェリチ
+...I don't understand.
+Feliz
 407100401_8_a
-ダイアンサス・モール……
-ピンク色のモグラさん!
-早く捕まえたいのです!
-スフィカ
+Dianthus Moles are pink, right?
+They sound so cute! I wanna
+catch a whole bunch!
+Sphica
 407100401_7_a
-そこで酔っぱらったところを
-捕まえるの……今回のターゲット
-《ダイアンサス・モール》をね!
-セブン
+And one of the species it affects
+are Dianthus Moles--our targets!
+So catch 'em while they're woozy!
+Seven
 407100401_6_a
-そうよ、泥の上に置くことで
-化学変化を起こして動物にだけ一種の
-泥酔状態になる匂いが発生するの
-セブン
+Exactly! It simulates a real world
+chemical reaction that has an
+intoxicating effect on animals.
+Seven
 407100401_5_a
-セブン
+Seven
 407100401_4_a
-フェリチ、このエサはちゃんと
-この泥の上に置いておかないと
-おびき出せる罠にならないのです
-スフィカ
+No, Feliz. You need to put this
+bait on top of the mud, or you
+can't lure them out.
+Sphica
 407100401_3_a
+Yui
 407100401_2_a
 bg_event_alne_field_christmas
-……わからないよ
-フェリチ
+...I don't understand.
+Feliz
 407100401_1_a
-そうだったんだね……
-アスナ
+I can see how it would be...
+Asuna
 407100301_29_a
-でも一瞬……
-彼女が目の前に現れたような
-気がして……戸惑ったんだ
-キリト
+Still, for a second... I thought
+Sachi was back... It was pretty
+shocking...
+Kirito
 407100301_28_a
-似た素材を使っているし、
-サチと似ていることは……偶然さ
-キリト
+but it's probably just that the
+avatar data the game uses is
+similar, that's all.
+Kirito
 407100301_27_a
-いや、さすがにそれはないだろうさ
-ALOはSAOサーバーを元に作られて
-いるからアバターパーツも
-キリト
+No, I'm not going that far. ALO
+was built off of SAO's server,
+Kirito
 407100301_26_a
-フェリチちゃんとサチさん……
-なにか関係があると?
-アスナ
+So... you think Feliz and Sachi are
+linked somehow?
+Asuna
 407100301_25_a
-いや、歳は全然違うな
-サチは当時の俺より少し上……
-くらいだったと思う
-キリト
+Well, kinda. Sachi was older than
+me, but Feliz is quite a bit
+younger. But other than that...
+Kirito
 407100301_24_a
-全く同じ姿なの?
-アスナ
+They really look that alike?
+Asuna
 407100301_23_a
-知らずにフェリチと仲良くしていても
-それは無理がないと思う
-キリト
+But they really are similar...
+Kirito
 407100301_22_a
-ユイもアスナもサチの顔までは
-知らないもんな……
-キリト
+Yeah. You and Yui never met her,
+so there's no way you could've
+made that connection...
+Kirito
 407100301_21_a
-えっ……!?
-アスナ
+Really?
+Asuna
 407100301_20_a
-あのときに話した、
-俺が助けられなかったサチって子……
-フェリチはその子に似てるんだ
-キリト
+That girl I told you about,
+the one I couldn't save... Sachi.
+She looked just like Feliz.
+Kirito
 407100301_19_a
-うん……
-アスナ
+Yeah...
+Asuna
 407100301_18_a
-俺が前にSAOで月夜の黒猫団って
-ギルドに入っていたときのこと……
-話しただろ?
-キリト
+So... serious talk time. It's about
+the Moonlit Black Cats. You
+remember them, right?
+Kirito
 407100301_17_a
-はは……敵わないな
-キリト
+Ha ha, I'll keep that in mind...
+Kirito
 407100301_16_a
-ふふっ、わたしの目は誤魔化せないよ
-アスナ
+Hehe, nope. And you better
+remember you can't hide
+anything from me!
+Asuna
 407100301_15_a
-まさかアスナ……
-それを訊くためにわざわざ
-出題する役を買って出たのか?
-キリト
+Wow, nothing gets past you...
+Kirito
 407100301_14_a
-フェリチちゃんを見てからというもの
-様子がなんだかおかしいよ?
-アスナ
+Yeah. When you saw Feliz, you got
+this super shocked look, then
+seemed really sad.
+Asuna
 407100301_13_a
-えっ?
-キリト
+I... am?
+Kirito
 407100301_12_a
-で、キリトくん?
-一体なにがあったのかな?
-アスナ
+Okay, Kirito, what's wrong?
+You're acting seriously weird.
+Asuna
 407100301_11_a
-ああ……
-キリト
+Yeah...
+Kirito
 407100301_10_a
-キリト
+Kirito
 407100301_9_a
-ふふっ、四人とも
-楽しそうだね
-アスナ
+Hehe, looks like those four are
+having fun.
+Asuna
 407100301_8_a
-スフィカ
+Sphica
 407100301_7_a
-だ、大丈夫よこれくらい!
-独りでも倒せるわ!
-セブン
+I-I'll be fine! I can beat a
+single stupid gross bug!
+Seven
 407100301_6_a
-フェリチ
+Feliz
 407100301_5_a
-スフィカ、笑ってないで
-助けましょう!
+Stop pointing and laughing,
+Sphica! We should help her!
+Yui
 407100301_4_a
-あはは!
-セブンが襲われてるのです!
-スフィカ
+Ahahaha! Seven's under attack by
+an icky bug army!
+Sphica
 407100301_3_a
-スフィカ
+Sphica
 407100301_2_a
 bg_event_alne_field_christmas
-ぎゃーっ!
-土を掘ったら
-変な芋虫が出てきたわー!
-セブン
+Eeek! A weird caterpillar thing
+just popped out of the ground!
+Seven
 407100301_1_a
-えーとね……
-じゃあ問題は……
-アスナ
+Hmm, let's see...
+What mission to give you...?
+Asuna
 407100201_50_a
-アスナ
+Asuna
 407100201_49_a
-キリト
+Kirito
 407100201_48_a
-はい、フェリチ
-がんばりましょう!
+Yeah! Let's try hard and win it,
+Feliz!
+Yui
 407100201_47_a
-私はユイと組むの?
-よろしくね、ユイ
-フェリチ
+I'm on Yui's team? Okay.
+Let's do our best.
+Feliz
 407100201_46_a
-ユイにも負けないのです!
-スフィカ
+I'll beat you, Yui!
+Just you watch!
+Sphica
 407100201_45_a
-フェリチ
+Feliz
 407100201_44_a
-スフィカ
+Sphica
 407100201_43_a
-いいわね、それ!
-アスナちゃん、頼むわ!
-セブン
+The more, the merrier!
+Let's do it, Asuna!
+Seven
 407100201_42_a
-ふふっ、もちろんだよ
-だってユイちゃんも挑戦するほうで
-参加したいでしょ?
-アスナ
+Hehe, totally! You want to play
+too, right, Yui?
+Asuna
 407100201_41_a
-いいんですか、ママ?
+Are you sure, Mommy?
+Yui
 407100201_40_a
-ユイちゃんはフェリチちゃんと
-一緒にコンビを組んでもらって……
-問題はわたしから出すね
-アスナ
+I'll come up with a quest for you,
+to make it fair.
+Asuna
 407100201_39_a
-あっ、そうだ
-じゃあ今度はユイちゃんも
-参加したらどうかな?
-アスナ
+Oh, I have an idea! How about Yui
+plays this time too? She can team
+up with Feliz!
+Asuna
 407100201_38_a
-アスナ
+Asuna
 407100201_37_a
-キリト
+Kirito
 407100201_36_a
-ふふっ、了解です
+Hehe, sure thing!
+Yui
 407100201_35_a
-さっきはスフィカにやられたけど
-今度こそ負けないんだから!
-セブン
+Sphica beat me last time, but I am
+going to wipe the floor with her
+on the next one!
+Seven
 407100201_34_a
-さあ、ユイちゃん
-次のクエストを言ってちょうだい!
-セブン
+Great! Now that that's out of
+the way, give us the next quest,
+Yui!
+Seven
 407100201_33_a
-スフィカ
+Sphica
 407100201_32_a
-セブン
+Seven
 407100201_31_a
-フェリチ
+Oh... Okay. Hi.
+Feliz
 407100201_30_a
-は、はじめましてフェリチ
-俺はキリト……ユイの父親なんだ
-よろしくな
-キリト
+N-Nice to meet you, Feliz...
+I'm Kirito. Yui's dad.
+Kirito
 407100201_29_a
-あっ、いや……
-なんでも……ない
-キリト
+Yeah, I...
+It's...nothing...
+Kirito
 407100201_28_a
-キリトくん?
-アスナ
+Kirito? Is everything okay?
+Asuna
 407100201_27_a
-サ……
-キリト
+Sa...chi...?
+Kirito
 407100201_26_a
+Yui
 407100201_25_a
-アスナ
+Asuna
 407100201_24_a
-……!!
-キリト
+gasp
+...!!
+Kirito
 407100201_23_a
-こんにちは……
-フェリチ
+Hi...
+Feliz
 407100201_22_a
-こんにちはなのです!
-スフィカ
+Hello there!
+Sphica
 407100201_21_a
-フェリチ
+Feliz
 407100201_20_a
-スフィカ
+Sphica
 407100201_19_a
-あっ、アスナちゃんに
-キリト君じゃない!
-セブン
+Oh, look who it is!
+What's up, guys?
+Seven
 407100201_18_a
-ふふっ、みんな
-こんにちは
-アスナ
+Hehe. Hi there, everyone!
+Asuna
 407100201_17_a
-あっ、三人とも
-帰ってきましたよ
+Oh, looks like they finished!
+Yui
 407100201_16_a
-私も……残念
-フェリチ
+Me...too...
+Feliz
 407100201_15_a
-もーっ!
-あと少しだったのにぃ!
-セブン
+Aw man, I was so close too!
+Seven
 407100201_14_a
-ユーイ!
-いっちばーん!
-に、見つけたのです!
-スフィカ
+Yuuui! I finished!
+Yay! I'm number one!!
+Sphica
 407100201_13_a
-そうなんだな
-キリト
+Oh, okay. That's good to hear!
+Kirito
 407100201_12_a
-スフィカとセブンにも
-助けてもらいながら
-なんとか一緒に挑戦してるんです!
+So I asked Sphica and Seven to
+help her with my quests! Now
+she's doing great!
+Yui
 407100201_11_a
-はい……ですが
-せっかく仲良くなったので
-仲間はずれにはしたくありませんし
+Well, no... But she's a bit shy,
+and I don't want her to feel
+excluded...
+Yui
 407100201_10_a
-細かい会話とか
-複雑なやり取りは……
-できないんじゃないのか?
-キリト
+What I'm trying to say is, can she
+handle complex conversations and
+really engage you guys?
+Kirito
 407100201_9_a
-はは、そうか
-でもさっきのフェリチって子は
-ただのNPCなんだろ……?
-キリト
+Ha ha, cool! But this new friend
+of yours, Feliz... Is she just a
+normal NPC?
+Kirito
 407100201_8_a
-ふふっ、最近みんな上達してるので
-こちらも頭の捻りようがあります!
+Hehe, everyone's gotten really
+good at beating my quests, so I
+thought I'd make a hard one!
+Yui
 407100201_7_a
-うん、声を聞いてたよ
-なんか一筋縄では
-いかなそうなクエストだったね
-アスナ
+Yeah, I overheard you giving out
+the quest description. Sounds
+tough!
+Asuna
 407100201_6_a
-はい! 今日も皆さんに
-わたしからクエストを
-出させてもらっていました!
+You bet! Everyone's playing a
+quest I made!
+Yui
 407100201_5_a
-ユイちゃん
-今日も四人で遊んでたんだね
-アスナ
+Hi Yui! We're just passing by.
+Having fun today?
+Asuna
 407100201_4_a
-キリト
+Kirito
 407100201_3_a
-アスナ
+Asuna
 407100201_2_a
 bg_event_alne_field_christmas
-パパ、ママ!
-来てたんですね!
+Mommy! Daddy!
+You came to play with us?
+Yui
 407100201_1_a
-へぇ……
-キリト
+Feliz? Cute name.
+Kirito
 407100101_28_a
-名前はフェリチちゃんって
-言ったかな?
-アスナ
+Her name is...Feliz, I think it
+was?
+Asuna
 407100101_27_a
-うん、最近ユイちゃんたちが
-ウンディーネ領で知り合った
-NPCの女の子なんだって
-アスナ
+Oh yeah, her. She's an NPC Yui
+befriended recently in Undine
+territory.
+Asuna
 407100101_26_a
-もう一人いる……
-キリト
+Hey, who's that other girl?
+Kirito
 407100101_25_a
-へえ……
-なんかほのぼのしてていいな
-ユイにセブンにスフィカに……
-キリト
+Huh... How cute. So who are her
+playmates? Let's see, there's
+Seven and Sphica...
+Kirito
 407100101_24_a
-おママゴト的に楽しんでるって
-感じかな?
-アスナ
+It's kinda like playing pretend,
+but with quests? Whatever it is,
+she's enjoying herself.
+Asuna
 407100101_23_a
-だからユイちゃんが簡単なものを
-作ってそれ以外が試すっていう……
-アスナ
+So Yui's been making these easy
+but fun ones for them to play.
+Asuna
 407100101_22_a
-小さな子たちだけだと
-大きなクエストを攻略するのは
-さすがに大変でしょう?
-アスナ
+I think kids their age have more
+fun doing shorter, simpler quests.
+ALO tends to be epic and complex.
+Asuna
 407100101_21_a
-最近ユイちゃんが小さなクエストを
-作って、その課題を解くっていう
-ごっこ遊びをやってるの
-アスナ
+Yui found a new hobby. She's been
+making mini-quests, and having
+her younger friends do them.
+Asuna
 407100101_20_a
-アスナ
+Asuna
 407100101_19_a
-ん……ユイたち
-あそこでなにをしてるんだ?
-キリト
+Hey, look, it's Yui.
+What's she doing over there?
+Kirito
 407100101_18_a
+Yui
 407100101_17_a
 ???
 407100101_16_a
-わーーい、なのです!
-スフィカ
+Yaaay!
+Sphica
 407100101_15_a
-はい、それでは三人ともいきますよ
-採集クエスト……スタートです!
+Great! Everyone seems ready,
+so let's get this flower gathering
+quest started!
+Yui
 407100101_14_a
-私も……がんばるね
+I'll...do my best too...
 ???
 407100101_13_a
-ううっ、相変わらず
-ユイちゃんのクエストは
-容赦ないんだから!
-セブン
+Ugh, why are Yui's quests always
+so merciless?
+Seven
 407100101_12_a
-わかったのです!
-スフィカ
+Got it!
+Sphica
 407100101_11_a
-ふふっ、軽度の毒効果がありますよ
-そのため採取にもひと手間必要です
-気をつけてくださいね!
+Hehe, yeah, but only a little bit.
+That's why they take so long to
+harvest. Be careful with them!
+Yui
 407100101_10_a
-ベノムって……毒でもあるの?
-セブン
+Venom lilies?
+Are they poisonous?
+Seven
 407100101_9_a
-《ブラッド・リリィ・ベノム》と
-言われているものです
-花弁に黒のラインがあるのが特徴です
+They're called "venom lilies".
+You can identify them by the
+black stripes in their petals.
+Yui
 407100101_8_a
-いえ、見た目的には
-ブラッド・リリィですが、
-これはその中でもレアな品種……
+That's not exactly correct. They
+resemble normal blood lilies, but
+they're actually a rare variety.
+Yui
 407100101_7_a
-その画像は確か……
-《ブラッド・リリィ》って花よね
-セブン
+Hmm... From the picture, it looks
+like we need to find blood lilies.
+Seven
 407100101_6_a
-よーし、リストに載っている
-その赤い花なのですね!
-負けないのです!
-スフィカ
+We're gathering the red ones on
+this list, right? No problem!
+I'm gonna win this contest!
+Sphica
 407100101_5_a
-誰が一番最初に見つけられるか
-競争ですよ
+I'd like to make it a competition!
+Who can collect the most?
+Yui
 407100101_4_a
-セブン
+Seven
 407100101_3_a
-スフィカ
+Sphica
 407100101_2_a
 bg_event_alne_field_christmas
-では今度はあちらで
-この花を採集しましょう
+We're going to be gathering
+flowers over here today.
+Yui
 407100101_1_a
 qXB
 qXB
@@ -80712,346 +82538,384 @@ bg_08_calmdead
 Kii-boy. Hey, Kii-boy!
 Argo
 400200101_1_a
-うん!
-お願いするね!
+Yeah! I'm ready!
+Sachi
 1850048_15_a
-はは、そうだな
-よし、じゃあ短剣からの
-間合い慣れ作戦、やってみるか
-キリト
+Ha ha, you bet! So on that note,
+let's get to training!
+Kirito
 1850048_14_a
-ふふっ、そこはキリトが
-ちゃんと守ってくれるんでしょ
+Hehe, maybe! But you'll keep me
+safe until I'm a dagger master,
+right?
+Sachi
 1850048_13_a
-慣れるだけで時間がかかると思う
-キリト
+It'll probably take you a while to
+get used to them.
+Kirito
 1850048_12_a
-な、なるほど……でも気をつけろよ
-短剣は片手剣とも槍とも
-また持つ感覚が違うから
-キリト
+I... see. Well, just be careful.
+Daggers feel totally different
+from swords or spears.
+Kirito
 1850048_11_a
-それでもこれくらいのショック療法
-すればいつの間にか
-治ることもあるんじゃないかって
+But maybe if I face my fears head
+on, I won't be so scared anymore.
+Sachi
 1850048_10_a
-私は臆病だから弱い自分を
-そうそう変えられないけど……
+I'm not that brave, and I don't
+think I'll ever be...
+Sachi
 1850048_9_a
-この前のキリトの話を聞いて
-私思ったんだ……みんな同じように
-恐怖と戦ってるんだって
+During our chat the other day, I
+realized something: everyone's
+struggling with fear, not just me.
+Sachi
 1850048_8_a
-うん、だからこそこの短剣で
-無理やりにでも前に出ようと
-思って……
+Well, that's exactly why I want
+to use it. I thought I could just
+force myself, like you do.
+Sachi
 1850048_7_a
-だからどうして短くするんだよ?
-ただでさえ片手剣でも
-間合いが足りてないのに……
-キリト
+But weren't you having trouble
+fighting in close already? The
+dagger's only going to be worse...
+Kirito
 1850048_6_a
-片手剣よりも更に短いのを
-選ぼうと思って
+I thought I'd try using something
+really close-ranged.
+Sachi
 1850048_5_a
-それって短剣じゃないか!
-なんでいきなり!?
-キリト
+That's a dagger, not a sword!
+Kirito
 1850048_4_a
-えっ……
-なっ!?
-キリト
+Okay... Hey, hold on a sec!
+Kirito
 1850048_3_a
-キリト
+Kirito
 1850048_2_a
 bg_03_forest1
-キリト!
-今日の訓練はこの剣を
-使ってみようと思うの!
+Kirito! I want to try using this
+for today's training!
+Sachi
 1850048_1_a
-ううん……
-そんなことないよ
+No... Not at all...
+Sachi
 1850047_25_a
-な、なんかゴメン
-偉そうな言い方をしちゃったな
-キリト
+Sorry... I must've sounded pretty
+self-important just now...
+Kirito
 1850047_24_a
-……明日を
+...
+Sachi
 1850047_23_a
-剣を振ったその先に……
-明日を……未来を見られるんじゃない
-かってさ……
-キリト
+I want to live to see tomorrow
+and to do that, I've got to fight.
+So, I fight.
+Kirito
 1850047_22_a
-恐怖で身体が硬直しそうな中でも
-ギリギリの中で無理やりにでも
-腕を振り足を動かしてるんだ……
-キリト
+When terror's about to overwhelm
+you, you just force yourself to
+keep moving, you know?
+Kirito
 1850047_21_a
-うーん、そこが説明が
-難しいんだけどさ
-キリト
+Hmm...
+It's kind of hard to explain...
+Kirito
 1850047_20_a
-じゃあ、どうやって……?
+Really? How do you deal with it?
+Sachi
 1850047_19_a
-俺たちだってどんな弱いモンスターを
-前にしても、それなりに怖い……
-心臓だってバクバク言ってる……
-キリト
+I know my heart starts pounding
+when I see a monster, even if it's
+just a weak one.
+Kirito
 1850047_18_a
-でも別に恐怖に勝って怖くないから
-とか、そういうわけじゃないんだ
-キリト
+but I don't think anyone really
+conquers their fears and marches
+into battle completely unafraid.
+Kirito
 1850047_17_a
-俺やケイタたちは確かにサチよりは
-戦えてるかもしれない
-キリト
+Nope. Maybe the rest of us have
+a little more combat experience
+under our belts,
+Kirito
 1850047_16_a
-えっ?
+It... isn't?
+Sachi
 1850047_15_a
-別に恐怖に勝てないことが
-異端だなんてことはないんだ
-キリト
+It's not like being frightened is
+bad, or even unusual.
+Kirito
 1850047_14_a
-そうだな……
-でも……
-キリト
+Well, I wouldn't go that far.
+Kirito
 1850047_13_a
-キリト……
-私って見込みないんじゃないかな……
+Kirito, let's be honest.
+I'm hopeless.
+Sachi
 1850047_12_a
-さて、サチ
-訓練に戻るか?
-キリト
+So, Sachi... Now that he's gone,
+want to get back to training?
+Kirito
 1850047_11_a
-う、うん……
+Thanks...
+Sachi
 1850047_9_a
-ケイタ
+Keita
 1850047_10_a
-おう、だからサチも訓練がんばれよ
-ケイタ
+No worries! Good luck with your
+training!
+Keita
 1850047_8_a
-黒猫団のみんなによろしくね……
+Sorry I can't join the rest of the
+guild this time...
+Sachi
 1850047_7_a
-ああ、でも時間空いたら
-また戻ってくるよ
-ケイタ
+Sure... But I'll swing by again
+when I have a minute.
+Keita
 1850047_6_a
-今はそっちのクエストを
-優先させてくれ
-キリト
+We'll be fine here, so you can get
+back to that quest you're working
+on.
+Kirito
 1850047_5_a
-いや、ケイタも忙しいのに
-訓練付き合ってくれてありがとう
-キリト
+No, it's okay. Thanks for trying
+to help out.
+Kirito
 1850047_4_a
+Sachi
 1850047_3_a
-キリト
+Kirito
 1850047_2_a
 bg_03_forest1_sunset
-ということなんだ
-ごめんな、サチ、キリト
-ケイタ
+So, uh...
+Sorry about that.
+Keita
 1850047_1_a
-………………
-キリト
+...
+Kirito
 1850045_22_a
-だ、だってぇ～!
+B-But it's SCARY!
+Sachi
 1850045_21_a
-だ、だからそんな
-へっぴり腰じゃ当たんないって!
-ケイタ
+What are you doing? You're never
+going to hit anything from that
+far away!
+Keita
 1850045_20_a
-え、えい!
-えいっ!
+Fine... T-Take that!
+And that...I guess.
+Sachi
 1850045_19_a
-さあ、行け!
-その片手剣でぶちかましてやれ!
-ケイタ
+Come on, it'll be a breeze!
+Smack it in the face with
+your sword!
+Keita
 1850045_18_a
-う、ううっ……
+B-But...
+Sachi
 1850045_17_a
-サチ!
-ほら、出たぞ!
-弱っちいモンスターだ!
-ケイタ
+Sachi, we've got a real weak
+monster over here! Come get it!
+Keita
 1850045_16_a
-ギャウガウッ!
-モンスター
+Grawwwrrr!
+Monster
 1850045_15_a
+Sachi
 1850045_14_a
-キリト
+Kirito
 1850045_13_a
-ケイタ
+Keita
 1850045_12_a
-とりあえずやってみようぜ!
-絶対にこのほうがうまく行くって!
-ケイタ
+Well, anyway, I'm hanging around
+and you can't stop me! Besides,
+it'll help! Promise!
+Keita
 1850045_11_a
-ひっどいなぁ!
-ケイタ
+Ouch. That was uncalled for.
+Keita
 1850045_10_a
-えー、どうかなぁ?
-ケイタにいてもらって
-ホントに安心するのかなぁ～
+Yeah, but he counts as, like,
+minus seven people.
+Sachi
 1850045_9_a
-安心感……か
-確かに二人より三人のほうが
-何かと心強いとは思うけど……
-キリト
+Hmm... That's a good idea.
+There's safety in numbers.
+Kirito
 1850045_8_a
-と来れば、仲間を増やして、
-よりサチに安心感を持ってもらう
-ことしかできないじゃないか
-ケイタ
+In other words...I can't really
+help that much! But I can try
+to offer moral support.
+Keita
 1850045_7_a
-だからといって現時点で
-相当レベルの低い相手と戦ってる
-わけだから、これ以上下げようがない
-ケイタ
+but you're fighting super under-
+leveled mobs already. We can't
+lower the difficulty here.
+Keita
 1850045_6_a
-ああ、モンスター相手にしなきゃ
-恐怖に打ち勝つ訓練にならないだろ?
-ケイタ
+Yeah! I know you're trying to
+conquer your fears by fighting
+real monsters,
+Keita
 1850045_5_a
-えっ?
-ケイタも加わるってこと?
+Really? Are you sure?
+Sachi
 1850045_4_a
-キリト
+Kirito
 1850045_3_a
+Sachi
 1850045_2_a
 bg_03_forest1
-よし、じゃあ三人で訓練しよう!
-ケイタ
+Alright, you two, I have an idea!
+Let's train together!
+Keita
 1850045_1_a
-サチ……
-キリト
+Sachi...
+Kirito
 1850043_22_a
-恐怖……
-だって怖いもん……
-当たり前だよ
+Of course I'm scared! Getting
+close to a monster is terrifying!
+Sachi
 1850043_21_a
-敵前のここぞというタイミングで
-一歩前に出せてないんだ……
-キリト
+She always freezes at the worst
+possible moment...
+Kirito
 1850043_20_a
-その無意識下の恐怖が
-サチの足をすくませてるんだろう
-キリト
+That fear, subconscious or
+otherwise, is probably holding
+her back.
+Kirito
 1850043_19_a
-いわゆる恐怖心ってやつだな
-敵に近づきたくない…
-キリト
+It could just be fear holding her
+back. It's scary to get up close
+and personal with a monster.
+Kirito
 1850043_18_a
-ということは……?
-ケイタ
+Then...?
+Keita
 1850043_17_a
-そうじゃないということは……
-キリト
+Of course, if it's not that...
+Kirito
 1850043_16_a
-稀にそういう人がダイブしたときに
-空間把握能力に障害が出るって
-ケースもあるんだけど……
-キリト
+Well, it's uncommon, but some
+people with eye problems have
+trouble perceiving things in VR.
+Kirito
 1850043_15_a
-うん……
+Yeah...
+Sachi
 1850043_14_a
-サチは現実で乱視とか
-なかったよな?
-キリト
+Did you have bad eyesight in
+the real world, Sachi?
+Kirito
 1850043_13_a
-あとは現実世界での視力の問題とか
-フルダイブ不適合……
-FNCとかが考えられるけど……
-キリト
+Your vision might be part of the
+problem too. It could be an FNC:
+a FullDive Nonconformity.
+Kirito
 1850043_12_a
-うーん、そうだな
-まだ槍を装備してたときの感覚が
-抜けないって感じなんだろうけど……
-キリト
+Well, to tell you the truth,
+I think she's having trouble
+unlearning her old habits.
+Kirito
 1850043_11_a
-キリト、そうなのか?
-ケイタ
+Kirito, what do you think?
+Keita
 1850043_10_a
-別にむくれてませんー
+I'm not angry. Hmph.
+Sachi
 1850043_9_a
-おいおい
-なにむくれてるんだよ……
-ケイタ
+Hey Sachi, chill out.
+You don't have to get angry...
+Keita
 1850043_8_a
-全然ダメですよー
-片手剣の長さが全然把握できなくて
-敵に攻撃を当てられませんー
+I know I'm terrible. I can't even
+hit anything! I'm just swinging
+my sword around like an idiot.
+Sachi
 1850043_7_a
-キリト、別に無理しなくていいよ
+What part of this is
+"pretty good"?
+Sachi
 1850043_6_a
-あ、ああ……
-まぁまぁ、だな
-キリト
+Oh, uh...
+Pretty good, I guess.
+Kirito
 1850043_5_a
-ケイタ……
+Hi Keita...
+Sachi
 1850043_4_a
-キリト
+Kirito
 1850043_3_a
+Sachi
 1850043_2_a
 bg_03_forest1
-二人とも
-サチの片手剣訓練の調子はどうだ?
-ケイタ
+Hey you two, how's Sachi's sword
+training going?
+Keita
 1850043_1_a
-そう……だね
+Yeah... I guess...
+Sachi
 1850041_17_a
-最初は慣れないだろうけど
-弱い敵たちをタゲッて
-少しずつ身体に覚えさせていこうぜ
-キリト
+It takes time to get accustomed
+to a new weapon, but you'll get
+there.
+Kirito
 1850041_16_a
-そうだな
-使ってみて初めてわかることもある
-キリト
+Yeah, it is. Feels weird in your
+hand, huh?
+Kirito
 1850041_15_a
-……槍よりもだいぶ短いんだね
-この武器……
+This weapon's waaay shorter than
+a spear...
+Sachi
 1850041_14_a
-得物の長さ……敵との距離感を
-掴めなくても仕方ないよ
-キリト
+First things first: you need to
+get used to the length of your
+weapon and work on distancing.
+Kirito
 1850041_13_a
-仕方ないさ
-まだ槍から片手剣に持ち替えた
-ばっかりだからな
-キリト
+Don't worry about it, okay? You're
+still getting used to the sword.
+Kirito
 1850041_12_a
-う、うん……
-ごめんね……キリト
+Y-Yeah... Thanks, Kirito...
+Sachi
 1850041_11_a
-大丈夫か、サチ?
-キリト
+Are you all right, Sachi?
+Kirito
 1850041_10_a
-わっ!
+Ahh!
+Sachi
 1850041_9_a
-ギアアッーー!
-モンスター
+Grrrk!
+Monster
 1850041_8_a
-キリト
+Kirito
 1850041_7_a
-くっ……ダメか!
-はああっ!
-キリト
+Uh oh, this looks bad!
+Hraaagh!!
+Kirito
 1850041_6_a
-グガアアッ!!
-モンスター
+Grawwwrgh!!
+Monster
 1850041_5_a
-えっ、ええっ!?
-もっと……?
+C-Closer?!
+But I'm already REALLY close!!
+Sachi
 1850041_4_a
-もうちょっと近づくんだ、サチ!
-キリト
+You need to get a little closer,
+Sachi!
+Kirito
 1850041_3_a
-キリト
+Kirito
 1850041_2_a
 bg_03_forest1
-え、えいっ!
+T-Take this!
+Sachi
 1850041_1_a
 Hehe, I like the way you think!
 Asuna
@@ -93368,6 +95232,376 @@ bg_event_wonderland
 Take THIS!
 Yuuki
 1450041_1_a
+Yuuki
+1450028_20_a
+Try me.
+Sinon
+1450028_19_a
+Silica
+1450028_18_a
+Oh yeah? We'll see if you're still
+talking a big game once we stuff
+your mouths full of snow!
+Liz
+1450028_17_a
+Ha ha, you can say that again!
+Even if you do, we'll know how
+to counter it!
+Yuuki
+1450028_16_a
+But you won't be able to pull the
+same stunt on us. Right, Yuuki?
+Sinon
+1450028_15_a
+Yuuki
+1450028_14_a
+Heh, have it your way.
+Sinon
+1450028_13_a
+Then we'll have all the walls
+and trenches!
+Liz
+1450028_12_a
+Hey, I know! Let's swap bases!
+Liz
+1450028_11_a
+Argh, I'm still bitter! I lost
+the snowball fight that I came
+up with in the first place!
+Liz
+1450028_10_a
+Not even a firefight prepares you
+for a snowman attack, though...
+Silica
+1450028_9_a
+Silica
+1450028_8_a
+Those walls and trenches...
+I should've known you can't bring
+snowballs to a Sinon firefight.
+Liz
+1450028_7_a
+She's right. We made the right
+call, putting that trench where
+we did.
+Sinon
+1450028_6_a
+Sinon
+1450028_5_a
+Hehe, we might not have won if we
+hadn't taken you out, Silica!
+Yuuki
+1450028_4_a
+Oh, okay...
+Silica
+1450028_3_a
+Silica
+1450028_2_a
+bg_04_field_flower_snow
+Aw man, we lost.
+Liz
+1450028_1_a
+Pina
+1450027_21_a
+AHHHHHHHH!
+Silica
+1450027_20_a
+Oh, and everything in its path
+too.
+Sinon
+1450027_19_a
+If I had to guess, I'd say it'd
+pick up more snow as it rolls...
+Sinon
+1450027_18_a
+N-No! Don't!
+Silica
+1450027_17_a
+Now what do you think would
+happen if I just rolled it down
+this trench?
+Sinon
+1450027_16_a
+From the snowman Yuuki and I
+were making a little while ago.
+Sinon
+1450027_15_a
+Wh-What?! Where'd you get that
+giant snowball from?
+Silica
+1450027_14_a
+But what if I use this?
+Sinon
+1450027_13_a
+Say what?
+Silica
+1450027_12_a
+You're right. I won't be able
+to hit you with a snowball.
+Sinon
+1450027_11_a
+Chirp!
+Pina
+1450027_10_a
+You won't be able to hit me before
+I make it to you!
+Silica
+1450027_9_a
+Don't act like you've won, Sinon.
+You know I can get out of here
+in a flash!
+Silica
+1450027_8_a
+Our flag is at the end of this
+trench.
+Sinon
+1450027_7_a
+Whoa! Sinon!
+Silica
+1450027_6_a
+There you are, Silica.
+Sinon
+1450027_5_a
+If we just follow this trench,
+we should find Sinon's flag...
+Silica
+1450027_4_a
+Chirp!
+Pina
+1450027_3_a
+Pina
+1450027_2_a
+bg_03_west_mountain_top
+Okay, Pina! We've managed
+to make it pretty far!
+Silica
+1450027_1_a
+I see what you mean.
+Alright, leave the flag to me!
+Yuuki
+1450025_27_a
+Not to mention she's got Pina,
+who can alert her that you're
+coming.
+Sinon
+1450025_26_a
+You're plenty fast, but she's
+tiny. She'll outmaneuver you.
+Sinon
+1450025_25_a
+They're packed in close, too.
+That puts you at a disadvantage.
+Sinon
+1450025_24_a
+Silica's weaving her way through
+all of the walls and trenches
+we've made.
+Sinon
+1450025_23_a
+Sure? I mean, I know I've got the
+speed for it.
+Yuuki
+1450025_22_a
+No, you should run around all of
+this and grab Team Liz's flag.
+Think you can handle that?
+Sinon
+1450025_21_a
+Then maybe I should get out there?
+Yuuki
+1450025_20_a
+She's pretty agile. We'll have
+trouble hitting her.
+Sinon
+1450025_19_a
+Yep.
+Yuuki
+1450025_18_a
+Yuuki
+1450025_17_a
+There's Silica.
+Sinon
+1450025_16_a
+Liz
+1450025_15_a
+Absolutely!
+Silica
+1450025_14_a
+That's a great idea, Silica!
+Liz
+1450025_13_a
+I'll make a break for it, then!
+I've got speed!
+Silica
+1450025_12_a
+Snowballs or not, we're up against
+someone with unparalleled accuracy
+and control at a distance!
+Liz
+1450025_11_a
+Stay sharp, Team Liz! Team Sinon's
+namesake is a seasoned archer!
+Liz
+1450025_9_a
+Silica
+1450025_10_a
+They're throwing from behind that
+wall! They've got us pinned!
+Player A
+1450025_8_a
+Ungf!
+Player D
+1450025_7_a
+Gyah!
+Player C
+1450025_6_a
+Player D
+1450025_5_a
+Player C
+1450025_4_a
+Urf! Ptthhbtbtbt!
+Player B
+1450025_3_a
+Player A
+1450025_2_a
+bg_04_field_flower_snow
+C'mon, let's take that flag right
+out from under Team Sinon's nose!
+Player A
+1450025_1_a
+That's my line!
+Liz
+1450023_19_a
+Let's split everyone up into
+teams and get throwing! Oh,
+and Liz... You're going down!
+Sinon
+1450023_18_a
+Sinon
+1450023_17_a
+Ha ha, looks like we're getting
+a nice big group together!
+Liz
+1450023_16_a
+Hey, we'd love to join in!
+Players
+1450023_15_a
+Yes! Me too!
+Silica
+1450023_14_a
+Silica
+1450023_13_a
+That sounds awesome!
+I'm totally down for that!
+Yuuki
+1450023_12_a
+Let's do it!
+Sinon
+1450023_11_a
+Sounds like you're on board, then!
+Let's get the others in on it!
+Liz
+1450023_10_a
+Not to mention snowball fights are
+just another form of long-range
+squad-based combat.
+Sinon
+1450023_9_a
+Yeah, you're on to something.
+There aren't that many open fields
+where we are in real life, either.
+Sinon
+1450023_8_a
+We're already in Gnome territory
+anyway. Why not play like they do?
+Liz
+1450023_7_a
+Oh. Yeah, now I get it. Heh.
+Sinon
+1450023_6_a
+I figured we should work with what
+we have! The wall won't stop
+bullets, but it'll stop snow!
+Liz
+1450023_5_a
+Hey, whoa! Why'd you throw a
+snowball at me?
+Sinon
+1450023_4_a
+Agh!
+Sinon
+1450023_3_a
+Sinon
+1450023_2_a
+bg_04_field_flower_snow
+Pack it down like so...
+And then... Hmph!
+Liz
+1450023_1_a
+Hm?
+Sinon
+1450021_16_a
+Oh yeah...
+Wait, I know! Just do this!
+Liz
+1450021_15_a
+Ha ha! Okay, Liz, now show me how
+that soft snow is supposed to stop
+a bullet.
+Sinon
+1450021_14_a
+Like this!
+See? There's your snow wall!
+Liz
+1450021_13_a
+Say what?
+Sinon
+1450021_12_a
+So make them yourself!
+Liz
+1450021_11_a
+There isn't even a change in
+elevation. They could've at least
+put in some walls or trenches.
+Sinon
+1450021_10_a
+Well, I can't argue about the
+lack of cover.
+Liz
+1450021_9_a
+Heh, you've got it.
+Sinon
+1450021_8_a
+Ah, I see what you mean.
+You're evaluating this map
+like a GGO player would.
+Liz
+1450021_7_a
+You'd be a sitting duck, which
+doesn't make for great firefights.
+Sinon
+1450021_6_a
+Ah, sorry. I was just thinking
+about how little cover there
+is out here.
+Sinon
+1450021_5_a
+What do you mean "stick out like
+a sore thumb?"
+Liz
+1450021_4_a
+You can't help but stick out like
+a sore thumb when you're in a
+giant snow-covered plain.
+Sinon
+1450021_3_a
+Liz
+1450021_2_a
+bg_04_field_flower_snow
+Still, it's nothing but snow and
+ice out here...
+Sinon
+1450021_1_a
 Yeah! Now let's use it to go out
 there and kick some monster tail!
 Leafa
@@ -103933,6 +106167,352 @@ bg_s2_06_highway
 Hey, Sinon.
 Kirito
 1240011_1_a
+Absolutely!
+Sinon
+1050048_18_a
+You'll help, right?
+Liz
+1050048_17_a
+No use crying over smashed
+sculptures, though! It's time
+to make more!
+Liz
+1050048_16_a
+I appreciate your concern, Sinon.
+Liz
+1050048_15_a
+Liz?
+Sinon
+1050048_14_a
+In fact, it's probably better that
+these got wrecked...
+Liz
+1050048_13_a
+This was the risk I took when I
+made these sculptures outside
+the safe zone.
+Liz
+1050048_12_a
+Don't worry about it! You were
+fighting off monsters, and I can
+just redo the sculptures later.
+Liz
+1050048_11_a
+I'm sorry, Liz. You worked so hard
+on all of these.
+Sinon
+1050048_10_a
+...
+Liz
+1050048_9_a
+Were they supposed to be
+people or something? They're so
+busted I can't even tell anymore.
+Sinon
+1050048_8_a
+Me? N-No, of course not.
+Sinon
+1050048_7_a
+Oh no... You didn't...happen to
+see any of them, did you, Sinon?
+Before they broke, I mean.
+Liz
+1050048_6_a
+Monsters just attacked, and these
+sculptures got smashed in the
+ensuing fight.
+Sinon
+1050048_5_a
+Bad news, Liz...
+Sinon
+1050048_4_a
+Wh-What...?! Sinon!
+Liz
+1050048_3_a
+Oh no...
+They got smashed!
+Sinon
+1050048_2_a
+bg_event_christmas_town
+Are the little Kirito and Liz
+sculptures okay?
+Sinon
+1050048_1_a
+Hm?
+Player
+1050047_22_a
+Ah!
+Sinon
+1050047_21_a
+Yeah. I'll have to break the news
+to Liz...
+Sinon
+1050047_20_a
+The players are safe, sure,
+but the ice sculptures didn't
+fare so well...
+Player
+1050047_19_a
+Don't mention it.
+I'm glad everyone's safe.
+Sinon
+1050047_18_a
+Thank you, archer!
+Player
+1050047_17_a
+Whew. That's the last of them.
+Sinon
+1050047_16_a
+Graaaaaagh!
+Monster
+1050047_15_a
+Just one left!
+Sinon
+1050047_14_a
+Sinon
+1050047_13_a
+Graaaawwwwwrrrrr!
+Monster
+1050047_12_a
+Great. Sounds like we didn't get
+them all the first time around.
+Sinon
+1050047_11_a
+The monsters are attacking again!
+Lots of them! Somebody help!
+Player
+1050047_10_a
+Yes, that's it!
+Sinon
+1050047_9_a
+Help!
+???
+1050047_8_a
+Are they supposed to be...
+Kirito and Liz?!
+Sinon
+1050047_7_a
+The exaggerated proportions are
+cute, but what's the motif here?
+Sinon
+1050047_6_a
+Heh, cute. They're little
+ice sculpture caricatures.
+Sinon
+1050047_5_a
+Wait, what're these little things
+behind the larger sculptures?
+Sinon
+1050047_4_a
+What is she mumbling about?
+Liz, are you okay?
+Sinon
+1050047_3_a
+...
+Liz
+1050047_2_a
+bg_event_christmas_town
+...
+Liz
+1050047_1_a
+Heh heh heh...
+Liz
+1050045_19_a
+Oh, wow! I'll go take a look.
+Kirito
+1050045_18_a
+Sure is! We're making a castle and
+a demon too. They're lined up
+over there.
+Liz
+1050045_17_a
+What do you mean by "pretty much
+done"? Is there something besides
+the dragon?
+Kirito
+1050045_16_a
+I will, but we're pretty much done
+already.
+Liz
+1050045_15_a
+Heh, I see. Well, let me know if
+there's anything I can do to help.
+Kirito
+1050045_14_a
+I did the initial chiseling and
+helped out with other small tasks.
+Sinon
+1050045_13_a
+What we ended up with is
+simplified, but no less labor-
+intensive.
+Sinon
+1050045_12_a
+Well, it is impressive.
+Kirito
+1050045_11_a
+Sinon, bookworm that she is,
+researched dragons so I'd be
+sure to get the look right.
+Liz
+1050045_10_a
+That's true...
+Kirito
+1050045_9_a
+Besides, who doesn't love a cool
+dragon?
+Liz
+1050045_8_a
+We figured ice sculptures work
+best with beasts and characters
+from fantasy stories.
+Liz
+1050045_7_a
+Made is a strong word. I helped.
+Sinon
+1050045_6_a
+You guys shoved me in front of
+them! But whatever. You made
+this ice sculpture, right, Sinon?
+Kirito
+1050045_5_a
+Oh, good! Kirito finally escaped
+his adoring fans.
+Sinon
+1050045_4_a
+Say what?
+Kirito
+1050045_3_a
+Kirito
+1050045_2_a
+bg_event_christmas_town
+Oh, and Sinon helped too.
+Liz
+1050045_1_a
+Wow...
+Kirito
+1050043_18_a
+We get buffs that raise our chance
+of crafting success, making it
+easier to craft what we envision!
+Liz
+1050043_17_a
+You'd think that. But, as a
+blacksmith, I've got a leg up.
+Liz
+1050043_16_a
+Even so, there's no way this
+was easy.
+Kirito
+1050043_15_a
+Sure did! I'm good with my hands.
+Liz
+1050043_14_a
+Did you make this?
+Kirito
+1050043_13_a
+Whaddya think? It's a pretty
+good dragon, right?
+Liz
+1050043_12_a
+Liz?
+Kirito
+1050043_11_a
+Hey, Kirito!
+Liz
+1050043_10_a
+Is that an ice sculpture?
+Kirito
+1050043_9_a
+What the heck?!
+Kirito
+1050043_8_a
+Did one of the dragons I just
+fought survive?!
+Kirito
+1050043_7_a
+What?!
+Kirito
+1050043_6_a
+Dragon! It's a dragon!!
+???
+1050043_5_a
+Wait, where DID everyone go?
+Kirito
+1050043_4_a
+But now they're gone just as fast
+as they rushed up to me.
+Kirito
+1050043_3_a
+What was it about this fight
+that got everyone's attention?
+Kirito
+1050043_2_a
+bg_event_christmas_town
+Man, all I did was get rid of the
+same monsters as always.
+Kirito
+1050043_1_a
+Great! I'll go get started.
+Liz
+1050041_16_a
+Well, yeah, it won't take as long
+as the real thing, but...
+Sinon
+1050041_15_a
+We're already pretty strong,
+and we can even fly!
+Liz
+1050041_14_a
+Almost no time at all. This is VR!
+We can take shortcuts! Probably!
+Liz
+1050041_13_a
+You do know how long that would
+take, don't you?
+Sinon
+1050041_12_a
+Exactly!
+Liz
+1050041_11_a
+You mean you want to make
+giant snow and ice sculptures?
+Sinon
+1050041_10_a
+Let's see, what can we do...?
+Ooh! Let's pretend it's the
+Sapporo Snow Festival!
+Liz
+1050041_9_a
+I just want to make the most out
+of this place. We don't get to do
+this every day!
+Liz
+1050041_8_a
+You've got stamina, I'll say that.
+Sinon
+1050041_7_a
+You think? I could totally go
+another round!
+Liz
+1050041_6_a
+We could always have one more
+match, but I think I need a break.
+Sinon
+1050041_5_a
+I can't believe the whole thing
+ended in a 5-5 tie!
+Liz
+1050041_4_a
+Hehe, it sure was.
+Sinon
+1050041_3_a
+Sinon
+1050041_2_a
+bg_event_christmas_town
+Man, that was so much fun!
+Liz
+1050041_1_a
 Hahaha! Okay, then.
 That's enough for me!
 Silica
@@ -117023,6 +119603,423 @@ bg_05_agil_shop
 Hey, Agil.
 Kirito
 940011_1_a
+Ha ha, I guess so!
+Silica
+850058_27_a
+And now we know where they live!
+The poachers were good for
+something after all.
+Yuuki
+850058_26_a
+Yuuki
+850058_25_a
+Whew! I'm so glad we were able to
+save the reindeer!
+Silica
+850058_24_a
+Sinon
+850058_23_a
+Nice work, guys! Now we just need
+to report these jerks to one of
+the Gnomes.
+Liz
+850058_22_a
+Pina
+850058_21_a
+That's Pina's new sticky bubble
+attack for you! You're not going
+anywhere!
+Silica
+850058_20_a
+Gah, hey! I-I can't move!
+NPC
+850058_19_a
+Chirp!!
+Pina
+850058_18_a
+You're up, Pina!
+Silica
+850058_17_a
+Yuuki
+850058_16_a
+They're on to us! Run!
+NPC
+850058_15_a
+That's why you were using hiding
+magic and stealth skills.
+Sinon
+850058_14_a
+Liz
+850058_13_a
+You didn't want to be found out,
+did you?
+Sinon
+850058_12_a
+Yuuki
+850058_11_a
+Where the hell did you guys
+come from?!
+NPC
+850058_10_a
+Liz
+850058_9_a
+That was pretty amazing, Yuuki.
+Sinon
+850058_8_a
+Whew! I thought chopping arrows
+out of the sky was easier than
+magic, but it's no joke!
+Yuuki
+850058_7_a
+I did it! Oh man, I must've looked
+like Kirito just now!
+Yuuki
+850058_6_a
+What the hell?!
+NPC
+850058_5_a
+HYAH!
+Yuuki
+850058_4_a
+Yuuki
+850058_3_a
+Say goodnight!
+NPC
+850058_2_a
+bg_04_field_flower_snow
+Don't you worry, I've got my
+paralyzing arrow ready to go...!
+NPC
+850058_1_a
+Let's kill 'em and get outta this
+frozen wasteland!
+NPC
+850057_20_a
+Heh heh... Those antlers and that
+meat'll fetch a pretty penny on
+the black market!
+NPC
+850057_19_a
+Alright, we've found our herd!
+NPC
+850057_18_a
+Yuuki
+850057_17_a
+Right! They seemed to be on the
+trail of one. Let's follow them!
+Silica
+850057_16_a
+Then we better find a herd,
+quick!
+Liz
+850057_15_a
+Liz
+850057_14_a
+We can't prove they're poachers
+unless we catch them in the act.
+Sinon
+850057_13_a
+Aw yeah, stuff like this really
+gets the blood pumping!
+But how do we stop them?
+Yuuki
+850057_12_a
+Yuuki
+850057_11_a
+I won't let those poachers get
+away with this! We Cait Sith share
+a bond with all living creatures!
+Silica
+850057_10_a
+Sounds like we've found ourselves
+a quest. How about it, guys?
+Liz
+850057_9_a
+Liz
+850057_8_a
+That makes them poachers.
+Sinon
+850057_7_a
+There aren't that many of them.
+Silica
+850057_6_a
+No. Agil says reindeer hunting is
+forbidden in Gnome territory.
+Silica
+850057_5_a
+Can they do that?
+Yuuki
+850057_4_a
+They must be. Their faces lit up
+when we told them that's what
+we were here to see.
+Silica
+850057_3_a
+Silica
+850057_2_a
+bg_04_field_flower_snow
+Wait, so they're out here hunting
+reindeer?
+Yuuki
+850057_1_a
+They were checking out sight lines
+and trying to conceal themselves.
+Sinon
+850055_35_a
+Liz
+850055_34_a
+I'm a sniper, remember?
+It takes one to know one.
+Sinon
+850055_33_a
+Yuuki
+850055_32_a
+H-How could you tell?!
+Silica
+850055_31_a
+They're hunters.
+Sinon
+850055_30_a
+Sinon
+850055_29_a
+Okay, good. I'm glad I'm not the
+only one who thought they were
+super shady.
+Liz
+850055_28_a
+There they go.
+Some "travelers," huh?
+Yuuki
+850055_27_a
+Oh, okay...
+Silica
+850055_26_a
+They travel in packs, so keep an
+eye out and keep your distance.
+They're pretty dangerous.
+NPC
+850055_25_a
+Hehe, is that so?
+Well then...
+NPC
+850055_24_a
+Oho!
+NPC
+850055_23_a
+Oh, no, not really. We've just
+come to see the reindeer!
+Silica
+850055_22_a
+Are you on a journey of your own?
+NPC
+850055_21_a
+Silica
+850055_20_a
+Uh, us? We're just travelers.
+NPC
+850055_19_a
+Liz
+850055_18_a
+If I had to guess...
+No, you know what? Let's
+just go talk to them.
+Sinon
+850055_17_a
+Sinon
+850055_16_a
+They're not players, though.
+They're NPCs, which makes
+this whole thing weirder.
+Liz
+850055_15_a
+Do you think they've come to
+see the reindeer too?
+Silica
+850055_14_a
+It looks like they're hiding in
+the bushes and checking their
+surroundings.
+Silica
+850055_13_a
+Silica
+850055_12_a
+Really? Where?
+Ah, now I see them.
+Yuuki
+850055_11_a
+Not a reindeer. A person.
+Three... No, four of them.
+Sinon
+850055_9_a
+Liz
+850055_10_a
+Did you find a reindeer?
+Silica
+850055_8_a
+Silica
+850055_7_a
+What is it, Sinon?
+Yuuki
+850055_6_a
+Liz
+850055_5_a
+...Hold up.
+Sinon
+850055_4_a
+Me neither.
+We've looked all over, too.
+Yuuki
+850055_3_a
+Yuuki
+850055_2_a
+bg_04_field_flower_snow
+Huh. I don't see any reindeer.
+Silica
+850055_1_a
+Sinon
+850053_21_a
+Oh man, now I really can't wait!
+Yuuki
+850053_20_a
+Liz
+850053_19_a
+Absolutely!
+Silica
+850053_18_a
+Yuuki
+850053_17_a
+Heh, fair point. We'll just have
+to observe them in their natural
+habitat.
+Sinon
+850053_16_a
+ALO's a fantasy world, though.
+These reindeer might fly, for all
+we know.
+Liz
+850053_15_a
+Liz
+850053_14_a
+Oh yeah, ha ha. I knew that...
+Silica
+850053_13_a
+Only in stories about Santa Claus.
+Real reindeer remain firmly on
+the ground.
+Sinon
+850053_12_a
+Sinon
+850053_11_a
+They fly, though, don't they?
+Yuuki
+850053_10_a
+Uh, no, because they're real!
+Liz
+850053_9_a
+Liz
+850053_8_a
+Wait, they're not like unicorns?
+Or Pegasus?
+Silica
+850053_7_a
+They're just one of those animals
+people hear about all the time
+but rarely get to see.
+Sinon
+850053_6_a
+Sinon
+850053_5_a
+Liz is right. I can't help but get
+excited, though! I've never
+seen reindeer before!
+Yuuki
+850053_4_a
+Luckily we're not in any hurry!
+Liz
+850053_3_a
+Liz
+850053_2_a
+bg_04_field_flower_snow
+I think we still have a ways to go
+before we reach the reindeer...
+Silica
+850053_1_a
+Good idea!
+Silica
+850051_23_a
+Silica
+850051_22_a
+Well, then we'd better check in
+with them and get the okay to go.
+Yuuki
+850051_21_a
+Rain's helping Agil out since the
+food got ruined 'n' all.
+Liz
+850051_20_a
+Liz
+850051_19_a
+Heh, who knew he'd get so popular?
+Sinon
+850051_18_a
+Kirito's tied up with his fans
+after his latest great
+performance.
+Silica
+850051_17_a
+Silica
+850051_16_a
+Sounds good to me!
+But what about Kirito
+and Rain? Or even Agil?
+Yuuki
+850051_15_a
+Besides, a nice long trip could
+be fun!
+Liz
+850051_14_a
+Might as well! 'Tis the season,
+right?
+Liz
+850051_13_a
+Liz
+850051_12_a
+Sure, I'll go.
+Sinon
+850051_11_a
+This is our chance to see some
+wild reindeer! Don't you want
+to go?
+Silica
+850051_9_a
+Yuuki
+850051_10_a
+Raises to pull his sleigh,
+you mean.
+Sinon
+850051_8_a
+Sinon
+850051_7_a
+Reindeer? Like, the kind that
+Santa raises?
+Liz
+850051_6_a
+Agil just told me all about it!
+Silica
+850051_5_a
+There are reindeer living in the
+southern part of Gnome territory!
+Silica
+850051_4_a
+What's up, Silica?
+Yuuki
+850051_3_a
+Yuuki
+850051_2_a
+bg_04_field_flower_snow
+Guys, guys, guys!
+Silica
+850051_1_a
 Chirp!!
 Pina
 850048_28_a
@@ -150344,440 +153341,467 @@ So, we managed to finish the 3D
 Labyrinth...
 Kirito
 350061_1_a
+Yui
 350048_39_a
-うん、ありがとう!
-フェリチ
+That means a lot to me.
+Thanks, everyone!
+Feliz
 350048_38_a
-きっとみんなフェリチのために
-命を賭して戦ってくれるはずさ
-キリト
+I'm sure they'll all happily risk
+their lives for you.
+Kirito
 350048_37_a
-でもまたもし怖くなったら、
-その仲間たちを頼ればいい
-キリト
+But if you ever get scared or
+overwhelmed, you can always
+rely on your friends.
+Kirito
 350048_36_a
-フェリチ、戦う道を選んだキミは
-これから色んな障害が待っている
-かもしれない……
-キリト
+You've decided to choose the life
+of a warrior, Feliz. It can be a
+rough path...
+Kirito
 350048_35_a
-スフィカ
+Sphica
 350048_34_a
-セブン
+Seven
 350048_33_a
-そうだな
-しかと見させてもらったよ
-キリト
+Yeah, I saw! You did pretty good
+out there.
+Kirito
 350048_32_a
+Yui
 350048_31_a
-キリト……ありがとう
-でも大丈夫、もう私……戦えそう
-フェリチ
+Thank you, Kirito... But I want
+you to know I'm fine now.
+I can fight.
+Feliz
 350048_30_a
-キリト
+Kirito
 350048_29_a
-キリトもフェリチを心配して
-見に来てくれてたのですね!
-スフィカ
+So you came to check on Feliz?
+That's nice of you!
+Sphica
 350048_28_a
-スフィカ
+Sphica
 350048_27_a
-セブン
+Seven
 350048_26_a
-あ、ああ
-でも心配は無用だったみたいだな
-キリト
+Well... yeah. But it looks like
+I didn't need to worry.
+Kirito
 350048_25_a
-フェリチ
+Feliz
 350048_24_a
-パパ、見てたんですか?
+You were watching this whole time,
+Daddy?
+Yui
 350048_23_a
-バレてたか……
-キリト
+So you noticed, huh?
+Kirito
 350048_22_a
-………………
+...
 ???
 350048_21_a
-ねー、キリト君?
-セブン
+Wouldn't you agree... Kirito?
+Seven
 350048_20_a
-スフィカ
+Sphica
 350048_19_a
-ふふっ、いいこと言うじゃない!
-セブン
+Hehe, that's for sure!
+Seven
 350048_18_a
+Yui
 350048_17_a
-まだ、ちょっとだけ怖いけど……
-でもみんなと一緒だから
-力をもらえる……そんな気がするの
-フェリチ
+It's still pretty frightening,
+but with all of you at my side,
+I think I'm fine!
+Feliz
 350048_16_a
-セブン
+Seven
 350048_15_a
-もう怖くないですか?
-スフィカ
+You're not scared anymore?
+Sphica
 350048_14_a
-はい!
-とても勇敢でしたよ
+You sure did, Feliz!
+You were very brave.
+Yui
 350048_13_a
+Yui
 350048_12_a
-た、倒したぁ……
-ふふっ、私も戦えたよ
-みんな!
-フェリチ
+I... I did it! I beat a monster,
+guys!
+Feliz
 350048_11_a
-ガアアアーッ!!
-モンスター
+Graaaark!!
+Monster
 350048_10_a
-やあっ!
-セブン
+Yah!
+Seven
 350048_9_a
-ふふっ、やるじゃない
-じゃあトドメはあたしで……
-セブン
+Heh, not bad! Now, let me just
+slip in there and finish it off!
+Seven
 350048_8_a
-セブン
+Seven
 350048_7_a
-イイ感じなのです!
-片手剣のクリティカルヒットです!
-スフィカ
+It really was!
+That was a critical hit!
+Sphica
 350048_6_a
-フェリチ!
-その調子です!
+Nice one, Feliz!
+Yui
 350048_5_a
-グオアッ!?
-モンスター
+Grawr?!
+Monster
 350048_4_a
-フェリチ
+Feliz
 350048_3_a
+Yui
 350048_2_a
 bg_04_field_flower_snow
-せいやっ!
-フェリチ
+Hiyah!
+Feliz
 350048_1_a
-今はそれが大切なのかもしれない
-キリト
+Besides, I think they've got
+something good, and I don't
+want to ruin that.
+Kirito
 350047_20_a
-あの子たちの和を
-無理に崩そうとはせずに、
-長い目で見守る……
-キリト
+I don't want to leap into their
+social circle and mess things up
+either. I'll back off.
+Kirito
 350047_19_a
-……そうかもな
-キリト
+...Yeah.
+Kirito
 350047_18_a
-彼女たちの成長を見守る……
-それが正しいんじゃないかな
-アスナ
+We need to let them live their own
+lives. We can keep an eye on them,
+but we can't smother them.
+Asuna
 350047_17_a
-フェリチちゃんには今
-同世代の仲間たちが付いてるんだし
-アスナ
+Feliz has friends her own age to
+be with now.
+Asuna
 350047_16_a
-キリトくんが言わなかったことも
-正解だと思うよ
-アスナ
+And you're right. You didn't say
+it, but you thought it, and you're
+right.
+Asuna
 350047_15_a
-アスナ……
-キリト
+Asuna...
+Kirito
 350047_14_a
-でもわたしにだけそうやって
-想いのたけを吐き出してくれて……
-嬉しいよ
-アスナ
+It makes me glad to know that you
+feel like you can trust me enough
+to tell me what's bothering you.
+Asuna
 350047_13_a
-だってキリトくんは
-普段愚痴なんて言わないから……
-アスナ
+Well, you never complain to anyone
+about anything, usually... except
+me.
+Asuna
 350047_12_a
-えっ?
-なんでそこでその言葉が?
-キリト
+Huh? "Thank you"?
+Where did that come from?
+Kirito
 350047_11_a
-ふふっ、ありがとう
-アスナ
+Hehehe. Thank you.
+Asuna
 350047_10_a
-そうは思われたくないからさ……
-踏み止まったんだ……
-キリト
+I know I'm just projecting my
+feelings of insecurity onto her,
+but I can't help it...
+Kirito
 350047_9_a
-でもそれは俺の押し付けでしかない
-俺が守れなかった子の姿を
-フェリチに重ねているだけ……
-キリト
+I'm only saying that because she
+reminds me so much of Sachi.
+Kirito
 350047_8_a
-本当はもう戦わなくてもいいって
-言いたかったんだ……
-キリト
+I wanted to tell her she doesn't
+have to, but...
+Kirito
 350047_7_a
-ああ、バトルのときに
-怖がって戦えなかったって話?
-ユイちゃんから聞いたよ……
-アスナ
+Oh... Yui told me what happened.
+She got scared and couldn't fight,
+right?
+Asuna
 350047_6_a
-ああ、フェリチのことを
-考えててさ……
-キリト
+I...was just thinking about Feliz.
+Kirito
 350047_5_a
-キリトくん、どうかしたの?
-アスナ
+You look upset, Kirito.
+What's wrong?
+Asuna
 350047_4_a
-アスナ
+Asuna
 350047_3_a
 bg_05_danac
-………………
-キリト
+...
+Kirito
 350047_2_a
-戦うのが……怖いの……
+Fighting is really...scary...
+Sachi
 350047_1_a
-………………
-キリト
+...
+Kirito
 350045_34_a
-キリト
+Kirito
 350045_33_a
+Yui
 350045_32_a
-う、うん……
-みんな、ありがとう……
-フェリチ
+O-Okay... Thanks for the support,
+everyone...
+Feliz
 350045_31_a
-どうしても怖くなったら
-すぐにスフィカたちの後ろに
-隠れればいいのです!
-スフィカ
+And if you get really scared, you
+can always hide behind me!
+I'll protect you!
+Sphica
 350045_30_a
-あんまり気負わずに行きましょう!
-セブン
+You'll be a fighter in no time
+you just need practice!
+Seven
 350045_29_a
-スフィカ
+Sphica
 350045_28_a
-そうよそうよ!
-何事も慣れが肝心!
-セブン
+Yeah! Don't let it get to you!
+Seven
 350045_27_a
-平気ですよ
-フェリチ、最初は誰でも
-そう思ってしまうものです
+It's okay, Feliz. It happens to
+everyone their first time.
+Yui
 350045_26_a
-モンスターを前にしたら、
-急に動けなくなっちゃった……
-フェリチ
+When that monster got close,
+I just froze...
+Feliz
 350045_25_a
-う、うん……
-でも、ごめんなさい……
-フェリチ
+Y-Yeah... Sorry...
+Feliz
 350045_24_a
-フェリチ!　大丈夫か!?
-キリト
+Feliz! Are you okay?
+Kirito
 350045_23_a
+Yui
 350045_22_a
-フェリチ
+Feliz
 350045_21_a
-グガアーッ!!
-モンスター
+Grk!!
+Monster
 350045_20_a
-キリト
+Kirito
 350045_19_a
-スフィカ
+Sphica
 350045_18_a
-セブン
+Seven
 350045_17_a
-くっ……おおおっ!!
-キリト
+Nngh... Hrraaagh!!
+Kirito
 350045_16_a
-やっ、やっぱり怖い……
-フェリチ
+It's really scary...
+Feliz
 350045_15_a
+Yui
 350045_14_a
-うっ……うっ……
-フェリチ
+B-But...
+Feliz
 350045_13_a
-その片手剣を一振りすれば
-すぐに倒せちゃうから
-さっさとやっちゃいなさい!
-セブン
+Just whack it with your sword and
+it'll fall over in no time flat.
+Seven
 350045_12_a
-フェリチ!
-そいつはすんごく弱いわよ!
-セブン
+That thing's a total pushover.
+Seven
 350045_9_a
-スフィカ
+Sphica
 350045_11_a
-キリト
+Kirito
 350045_10_a
-スフィカ
+Sphica
 350045_8_a
-セブン
+Seven
 350045_7_a
-フェリチ……!
-キリト
+...
+Kirito
 350045_6_a
-う、うん!
-フェリチ
+O-Okay!
+Feliz
 350045_5_a
-フェリチ!
-モンスターが出ましたよ!
+Feliz! We found a monster!
+Yui
 350045_4_a
+Yui
 350045_3_a
-フェリチ
+Feliz
 350045_2_a
 bg_04_field_flower_snow
-グオオッ!
-モンスター
+Graaawr!
+Monster
 350045_1_a
-全然わかってない……
-アスナ
+Ugh, what were we JUST
+talking about?
+Asuna
 350043_19_a
-あっ、でも俺も最初は
-付いていっていいか!?
-キリト
+Oh, but can I tag along on her
+first fight?! Please?!
+Kirito
 350043_18_a
-わかりました
+Great! Glad to hear you say that.
+Yui
 350043_17_a
-まぁ……そもそも俺に確認すること
-じゃないよな……
-全て本人の意思に任せるよ
-キリト
+I'm not exactly sure why you're
+asking me. In the end, it's all
+her decision.
+Kirito
 350043_16_a
-じゃあパパ
-フェリチを戦いに出しても
-いいですか?
+So Daddy, is it all right for
+Feliz to go fight?
+Yui
 350043_15_a
-はい、すみません……
-承知しました……
-キリト
+Yeah, I know...
+Sorry, I'll stop...
+Kirito
 350043_14_a
-同じ立場のユイちゃんだって
-今や、ちゃんと戦えてるんだからね!
-アスナ
+Think about it! Yui's in the same
+boat as Feliz, right? You're not
+making a fuss over her!
+Asuna
 350043_13_a
-ちょっとフェリチちゃんに対して
-過保護すぎじゃない?
-アスナ
+You're being WAY too
+overprotective.
+Asuna
 350043_12_a
-もーっ
-キリトくん前にも言われてたけど
-アスナ
+Ugh, this again?
+I thought we talked this over.
+Asuna
 350043_11_a
-とはいえ……
-なんだか不安だ……
-キリト
+I know that, but...
+I'm still worried about her.
+Kirito
 350043_10_a
-いわゆる死んでしまって
-アバターデータが消失するような
-ことはありえません
+In other words, we don't have to
+worry about her dying for good,
+or getting deleted.
+Yui
 350043_9_a
-前も言いましたが、
-ALOのNPCはたとえキルされても
-復活することが可能です
+As I mentioned before, NPCs killed
+in ALO can be resurrected.
+Yui
 350043_8_a
-パパ、ママ
-どうしましょう?
+I agree.
+Yui
 350043_7_a
-そういうものに興味を持つのは
-仕方がないことだと思うよ
-アスナ
+And I think that's great. She's
+her own person now
+she can
+do what she likes.
+Asuna
 350043_6_a
-やっぱり……
-元々AIが無かったNPCが
-AIを持って自我を芽生えさせたら……
-アスナ
+I guess that shiny new AI she got
+is already having an effect on her
+personality.
+Asuna
 350043_5_a
-は、はい
+Yes, that's correct.
+Yui
 350043_4_a
-アスナ
+Asuna
 350043_3_a
+Yui
 350043_2_a
 bg_05_danac
-なに!?
-フェリチが戦いたいって
-言ってる!?
-キリト
+Feliz wants to fight?!
+Kirito
 350043_1_a
-スフィカ
+Sphica
 350041_28_a
-あはは……
+Ahaha...
+Yui
 350041_27_a
-フェリチ
+Feliz
 350041_26_a
-うっ、うるさいわね!
-スフィカだって
-壁タイプじゃないでしょ
-セブン
+Oh, shut up! You're not a tank
+either, you know!
+Seven
 350041_25_a
+Yui
 350041_24_a
-セブンは他人を守ってあげるほど
-強くないのです!
-スフィカ
+Rescue her? You're not strong
+enough to rescue anyone, Seven!
+Sphica
 350041_23_a
-いいじゃない
-いざという時はみんなで
-守ってあげればいいんだし
-セブン
+Hey, let her do what she wants.
+Besides, we can always swoop in
+and rescue her in a pinch.
+Seven
 350041_22_a
-セブン
+Seven
 350041_21_a
-うーん、でもいつも
-守られてばかりだと
-なんだかみんなに悪いし……
-フェリチ
+Well... I feel bad that I'm always
+relying on everyone to protect me.
+Feliz
 350041_20_a
-無理に戦うことはないのですよ?
-スフィカ
+Why do you want to go and fight?
+Sphica
 350041_19_a
+Yui
 350041_18_a
-フェリチはウンディーネとして
-元々魔法での後方支援ができるのです
-スフィカ
+But you're an Undine, right? You
+guys specialize in support magic.
+Sphica
 350041_17_a
-フェリチ
+Feliz
 350041_16_a
-おおっ……フェリチやるわね
-なかなかアクティブね
-セブン
+Ooh, that's what I like to hear!
+Go get 'em, girl!
+Seven
 350041_15_a
-スフィカ
+Sphica
 350041_14_a
-えっ!?
+Really?
+Yui
 350041_13_a
-セブン
+Seven
 350041_12_a
-あっ、そうだ
-なら私……戦ってみたい
-フェリチ
+Oh... Actually, if it's all right,
+I'd... like to try fighting.
+Feliz
 350041_11_a
-そうですね……
-せっかくフェリチにAIが付いたので
-なにか新しいことを……
+Is there anything you want to try,
+Feliz? Now that your AI has been
+upgraded, you should experiment!
+Yui
 350041_9_a
-スフィカ
+Sphica
 350041_10_a
-私はどれでもいいよ
-全部楽しそう
-フェリチ
+I think both of your ideas
+sound fun.
+Feliz
 350041_8_a
-確か今回お姉ちゃんが
-出場してたのよ!
-セブン
+Guess what?! My sister's going
+to be in the next one! Cool,
+right?
+Seven
 350041_7_a
-次はデュエル・トーナメントに
-行って観戦しましょうよ!
-セブン
+I want to head to the arena and
+watch some tournaments!
+Seven
 350041_6_a
-フェリチ
+Feliz
 350041_5_a
-かくれんぼはもう飽きたわ
-いつもスフィカが勝つんだもの!
-セブン
+I'm so over hide and seek.
+And you always win anyway, Sphica.
+Seven
 350041_4_a
-かくれんぼできる場所が
-いいのです!
-スフィカ
+Somewhere we can play hide
+and seek!
+Sphica
 350041_3_a
-スフィカ
+Sphica
 350041_2_a
 bg_event_christmas_town
-では今日は
-どこに行きましょうか?
+Where should we go today?
+Yui
 350041_1_a
 Sounds good.
 Eugeo
@@ -155412,6 +158436,427 @@ Ahem, I mean, Joker!
 That's totally who you are!
 Yuuki
 250121_1_a
+This is the best Christmas present
+ever... Heh heh heh!
+Yuuki
+250098_28_a
+sniff
+Ran...!
+Yuuki
+250098_27_a
+One look at this scarf tells me
+that you're right here by my side.
+Yuuki
+250098_26_a
+Thank you, Ran.
+Yuuki
+250098_25_a
+...
+Yuuki
+250098_24_a
+Siune
+250098_23_a
+That's a good idea.
+Silica
+250098_22_a
+We should give her--well, them--
+some time alone.
+Siune
+250098_21_a
+Really? Okay...
+Silica
+250098_20_a
+We should take our leave...
+Siune
+250098_19_a
+Aw, Yuuki...
+Say, Silica...
+Siune
+250098_18_a
+Hehe. You know, this is making me
+feel all warm and fuzzy inside.
+Yuuki
+250098_17_a
+Of course I do. Wow... A Christmas
+present from Ran, huh?
+Yuuki
+250098_16_a
+So you believe us?
+Silica
+250098_15_a
+Heh, he would say that.
+Yuuki
+250098_14_a
+Even Kirito says VR can make
+miracles happen.
+Silica
+250098_13_a
+That's what I want to believe.
+Something that could only
+happen in VR.
+Silica
+250098_12_a
+So Ran wanted me to have this...
+Yuuki
+250098_11_a
+...
+Yuuki
+250098_10_a
+Yuuki, you're not going to
+believe this, but...
+Silica
+250098_9_a
+What's going on here, Silica?
+What's Siune talking about?
+Yuuki
+250098_8_a
+sniff
+Oh, Ran...!
+Siune
+250098_7_a
+Wait... Ran? My sister?
+Yuuki
+250098_6_a
+She said she wanted you to have
+this scarf, Yuuki.
+Siune
+250098_5_a
+This is what Ran was talking
+about. There's no mistaking it.
+Siune
+250098_4_a
+Silica
+250098_3_a
+Siune
+250098_2_a
+bg_04_town_inn
+It's this one, Siune.
+Yuuki
+250098_1_a
+Yes. Yes, you're right.
+Siune
+250097_27_a
+Siune, you should see it for
+yourself. Then you'll know
+if any of that is true.
+Silica
+250097_26_a
+Yes, that's it!
+Siune
+250097_25_a
+Ran must have sent it to ALO
+because she wanted Yuuki
+to have it!
+Silica
+250097_24_a
+N-No, I believe you!
+Silica
+250097_23_a
+Forget I ever brought it up. There
+must be another explanation.
+Siune
+250097_22_a
+And you know what, something
+like that isn't even possible.
+Siune
+250097_21_a
+I'm sorry. That got really serious
+and sullen for a moment.
+Siune
+250097_20_a
+Wow...
+Silica
+250097_19_a
+This is adorable! I need to find
+the materials to make it so I can
+give one to Yuuki! She'd love it.
+Siune
+250097_18_a
+When that scarf was first
+introduced to the game, she said,
+Siune
+250097_17_a
+I know... But she played Asuka
+Empire when she was alive.
+Siune
+250097_16_a
+H-How can that be?
+Ran is...
+Silica
+250097_15_a
+Are you serious?!
+Silica
+250097_14_a
+...a Christmas present from
+Yuuki's sister, Ran.
+Siune
+250097_13_a
+I think that scarf might be...
+Siune
+250097_12_a
+Silica, you may not believe this,
+but I have to say it.
+Siune
+250097_11_a
+Are you all right, Siune?
+Silica
+250097_10_a
+But... There's no way...
+Siune
+250097_9_a
+Oh, sure. I think Yuuki would
+show it to you if you asked.
+Silica
+250097_8_a
+Do you think I could have a look
+at that scarf?
+Siune
+250097_7_a
+Uh, yeah, she is. Why do you ask?
+Silica
+250097_6_a
+Yuuki's here, isn't she?
+Siune
+250097_5_a
+Do you know anything about this,
+Siune?
+Silica
+250097_4_a
+...
+Siune
+250097_3_a
+Siune
+250097_2_a
+bg_05_marten_inn
+So, that's what I know.
+Silica
+250097_1_a
+You're right!
+I'll go ask her!
+Silica
+250095_21_a
+Ooh, speak of the devil!
+Siune's right over there.
+Liz
+250095_20_a
+Ah, that makes sense!
+Liz
+250095_19_a
+so we're wondering if it's an item
+from Asuka Empire!
+Silica
+250095_18_a
+The scarf that Yuuki got in the
+swap has a really Japanese design,
+Silica
+250095_17_a
+Why so curious?
+Liz
+250095_16_a
+You know, I'm not sure.
+She'd probably tell you
+if you asked!
+Liz
+250095_15_a
+Does that mean she's been playing
+that Japanese-themed VRMMO,
+Asuka Empire?
+Silica
+250095_14_a
+Wait, Siune's a member of the
+Sleeping Knights, right?
+Silica
+250095_13_a
+She said she was pretty shocked
+to see us there too.
+Liz
+250095_12_a
+Oh, wow.
+Silica
+250095_11_a
+Apparently she didn't even have
+time to tell Yuuki.
+Liz
+250095_10_a
+Well, she said she got invited by
+a friend at the last second and
+just barely made it in!
+Liz
+250095_9_a
+Yeah, and here's the crazy part!
+You know how guest lists for these
+events get pretty crazy?
+Liz
+250095_8_a
+You did?!
+Silica
+250095_7_a
+I see. Oh, you know, I just saw
+Siune.
+Liz
+250095_6_a
+Which is why I'm asking you!
+Silica
+250095_5_a
+so I'm trying to help her figure
+out what's going on.
+Silica
+250095_4_a
+Yeah, Yuuki feels really weird
+about the whole thing,
+Silica
+250095_3_a
+Silica
+250095_2_a
+bg_04_town_inn
+Wow, that's really odd...
+Liz
+250095_1_a
+Exactly.
+Yuuki
+250093_19_a
+Right?
+Silica
+250093_18_a
+The problem is how that item got
+mixed in with the items at a
+player-run event, though.
+Silica
+250093_17_a
+So it's technically possible to
+bring items here from other
+games.
+Yuuki
+250093_16_a
+I've heard that you can bring a
+limited number of items with you
+when you convert your avatar.
+Yuuki
+250093_15_a
+Not that crazy, really. Kirito
+said all games connected by the
+Seed Nexus share basic systems.
+Yuuki
+250093_14_a
+And you think one of the items
+from that game made its way
+here? That's pretty crazy.
+Silica
+250093_13_a
+Yeah, and it's all Japanese-
+themed. Maybe I saw it there.
+Yuuki
+250093_12_a
+Isn't that the VRMMO you played
+with the Sleeping Knights?
+Silica
+250093_11_a
+Asuka Empire...
+Silica
+250093_10_a
+Japanese style... Oh!
+Maybe I saw it in Asuka Empire?
+Yuuki
+250093_9_a
+That's pretty unusual for a scarf,
+if you ask me.
+Silica
+250093_8_a
+It's got a lot of little
+chrysanthemums arranged in
+a kind of fish-scale pattern.
+Silica
+250093_7_a
+It looks like a pretty classic
+Japanese design.
+Silica
+250093_6_a
+Where would I have seen it,
+though? In virtual reality,
+or in the real world?
+Yuuki
+250093_5_a
+Really? I don't think I've seen
+anything like it.
+Silica
+250093_4_a
+I'm pretty sure I've seen it
+somewhere before.
+Yuuki
+250093_3_a
+Silica
+250093_2_a
+bg_04_town_inn
+You know something?
+The design on this scarf...
+Yuuki
+250093_1_a
+Hmmm...
+Yuuki
+250091_16_a
+You're right...
+So how did this happen?
+Silica
+250091_15_a
+Only someone like Rain could
+hide her name anyway, like
+she did at the start.
+Yuuki
+250091_14_a
+But the people holding the event
+set up name displays on a system
+level, so it should've shown up.
+Yuuki
+250091_13_a
+Maybe whoever made it is just shy?
+Silica
+250091_12_a
+but so far nobody's admitted
+to it.
+Yuuki
+250091_11_a
+Yeah. I've been asking around
+to see if I could figure out
+who gave this to me,
+Yuuki
+250091_10_a
+Seriously?!
+Silica
+250091_9_a
+See, that's the thing...
+This was the only gift
+with no name on it.
+Yuuki
+250091_8_a
+Yeah, you should have seen the
+gifting player's name pop up when
+you got your gift.
+Silica
+250091_7_a
+Yeah, it does, but... Look, this
+gift swap was set up so you'd know
+who you got gifts from, right?
+Yuuki
+250091_6_a
+Ooh, a scarf!
+It looks really warm and comfy.
+Silica
+250091_5_a
+Oh, hey Silica.
+It's the present I got
+at the gift swap.
+Yuuki
+250091_4_a
+What's wrong, Yuuki?
+You look pretty out of it.
+Silica
+250091_3_a
+Silica
+250091_2_a
+bg_04_town_inn
+...
+Yuuki
+250091_1_a
 Hehe, maybe!
 Asuna
 250089_11_a

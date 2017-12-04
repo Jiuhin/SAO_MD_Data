@@ -614,32 +614,32 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_emerald
-You can attain at  "The Crimson Trump
+You can attain in "The Crimson Trump
 Card"
 Crimson Trump Card Crystal
 item_m_record_crystal_emerald
-You can attain at the "Steamy Beauty Bath Time"
+You can attain in the "Steamy Beauty Bath Time"
 Steamy Beauty Bath Time Record Crystal
 item_m_record_crystal_emerald
-You can attain at the "Baton of Friendship! Sports Festival Scout"
+You can attain in the "Baton of Friendship! Sports Festival Scout"
 Sports Festival Record Crystal
 item_m_record_crystal_emerald
-You can attain at the "Happy Halloween Night Scout"
+You can attain in the "Happy Halloween Night Scout"
 Happy Halloween Night Record Crystal
 item_m_record_crystal_emerald
-You can attain at the "Moonlight Halloween Parade Scout"
+You can attain in the "Moonlight Halloween Parade Scout"
 Moonlight Halloween Record Crystal
 item_m_record_crystal_silhouette
 ???
 ???
 item_m_record_crystal_emerald
-You can attain at the "Jolly Roger in the Stormy Sea" Scout
+You can attain in the "Jolly Roger in the Stormy Sea" Scout
 Pirate Record Crystal
 item_m_record_crystal_emerald
-You can attain at the "Summer Girl" Scout
+You can attain in the "Summer Girl" Scout
 Summer Girl Record Crystal
 item_m_record_crystal_emerald
-You can attain at the "YUKATA Night" Scout
+You can attain in the "YUKATA Night" Scout
 Yukata Night Record Crystal
 item_m_evolution_20007
 Upgrades characters
