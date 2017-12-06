@@ -445,6 +445,9 @@ UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
+slot_skill_icon_reseve_healing_mp
+Restores 10 MP every 10 seconds during standby.
+Emergency Heal (MP) Lv.1
 slot_skill_icon_reseve_healing_hp
 Restores 1200 HP every 5 seconds during standby.
 Emergency Heal (HP) Lv.2
@@ -1111,34 +1114,34 @@ Battle Skill 3 Transform Lv. 2
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 500
 Sword Skill Lv. 10
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 450
 Sword Skill Lv. 9
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 400
 Sword Skill Lv. 8
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 350
 Sword Skill Lv. 7
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 300
 Sword Skill Lv. 6
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 250
 Sword Skill Lv. 5
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 200
 Sword Skill Lv. 4
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 150
 Sword Skill Lv. 3
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 100
 Sword Skill Lv. 2
-slot_skill_icon_job_8
+slot_skill_icon_job_1
 Raises attack and crit. rate by 50
 Sword Skill Lv. 1
 slot_skill_icon_job_8

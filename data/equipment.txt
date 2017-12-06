@@ -1,4 +1,13 @@
 TBD
+Benedictory Broach R4
+accessory01_0057
+TBD
+Benedictory Broach R3
+accessory01_0057
+TBD
+Benedictory Broach R2
+accessory01_0057
+TBD
 Holy Night Choker R4
 accessory01_0056
 TBD
@@ -820,6 +829,15 @@ TBD
 Insane Armor R3
 armor02_0004
 TBD
+Snow Fairy Cape R4
+armor01_0062
+TBD
+Snow Fairy Cape R3
+armor01_0062
+TBD
+Snow Fairy Cape R2
+armor01_0062
+TBD
 Holy Night Cape R4
 armor01_0061
 TBD
@@ -1119,6 +1137,12 @@ armor01_0001
 TBD
 Steel Chest Plate R1
 armor01_0001
+TBD
+Eiszapfen R5
+weapon09_0016
+TBD
+Eiszapfen R4
+weapon09_0016
 TBD
 Sanctified Beauteous Spear R5
 weapon09_0015
@@ -2587,6 +2611,12 @@ weapon03_0002
 TBD
 Small Rapier R1
 weapon03_0001
+TBD
+Dual Schneesturm R5
+weapon02_0100
+TBD
+Dual Schneesturm R4
+weapon02_0100
 TBD
 Dual Melodious Twins+1 R5
 weapon02_0029

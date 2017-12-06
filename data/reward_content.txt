@@ -73,6 +73,30 @@ Ynm:
 Real Socializing Event
 mm:
 Is it my imagination?
+1Km:
+Gifts from the Sky
+Jm:
+Warmth
+iJm:
+In the Seafloor Cave
+Jm:
+Unexplained Disappearance
+Im:
+Regret
+Im:
+Gift for Mom
+Hm:
+During a War
+uHm:
+Confusion
+Hm:
+New Quest
+Gm:
+Unforgettable Person
+IGm:
+With Feliz
+Fm:
+Undine Girl
 !$m:H
 Race of the game
 m:G
@@ -470,12 +494,12 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
-1月月初 R3
+- R3
 9%8
-1月月初 R2
-1月月初 R3
+- R2
+- R3
 9]7
-1月月初 R2
+- R2
 Holy Night Choker R3
 Holy Night Choker R2
 916
@@ -659,6 +683,8 @@ Twinkling Comet
 Pumpkin Bomb
 Trick or Treat
 Starburst Stream
+8x{
+Gifts from the Snowy Sky
 8w{
 Flowers in the Wilderness
 8v{
@@ -820,6 +846,11 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+A	8
+600イベントpt
+)A	8
+300イベントpt
+200イベントpt
 ?	8
 Christmas Upgrade Crystal x2
 ?	8
@@ -4643,10 +4674,10 @@ Col x6120
 Col x4012
 Col x2030
 Col x301
-1月月初 R3
-1月月初 R2
-1月月初 R3
-1月月初 R2
+- R3
+- R2
+- R3
+- R2
 Stardust (Small) x15
 Stardust (Small) x10
 Stardust (Small) x5
@@ -5057,10 +5088,10 @@ Girl's Treats x10
 Girl's Treats x3
 V}Q
 V}Q
-1月月初 R3
+- R3
 U}Q
 U}Q
-1月月初 R3
+- R3
 6/Q
 6/Q
 Holy Night Choker R3
@@ -5141,6 +5172,18 @@ Half Fox Mask x6
 White and Black Fox Mask x1
 Half Fox Mask x10
 Half Fox Mask x3
+New Spring Holy Hacking Crystal x10
+New Spring Hacking Crystal x20
+New Spring Hacking Shard x25
+New Year's Cuisine: Exquisite x15
+New Year's Cuisine: Fine x35
+New Year's Cuisine: Standard x45
+New Spring Holy Hacking Crystal x8
+New Spring Hacking Crystal x13
+New Spring Hacking Shard x20
+New Year's Cuisine: Exquisite x15
+New Year's Cuisine: Fine x30
+New Year's Cuisine: Standard x40
 New Spring Holy Hacking Crystal x3
 New Spring Hacking Crystal x10
 New Spring Hacking Shard x20
@@ -7611,6 +7654,10 @@ Christmas Bronze Medal x2
 Christmas Bronze Medal x1
 Heart Relic R3
 Heart Relic R2
+Benedictory Broach R3
+Benedictory Broach R2
+Snow Fairy Cape R3
+Snow Fairy Cape R2
 Christmas Upgrade Crystal x1
 Christmas Gold Medal x1
 Christmas Silver Medal x5

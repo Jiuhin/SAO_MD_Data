@@ -1,124 +1,150 @@
-0_}
-H(}
-xp{
-dm{
-diz
-(8z
-hUx
-DJw
-LXv
-L<v
-$$v
-H4u
-Lrs
-XXr
-PJr
-4)q
-$pp
-$dp
-DIp
-,wo
-Hno
-$mo
-Hfo
-Ddo
-Tao
-0_o
-$3n
-P n
-xrm
-XFm
-(sk
-l2k
-X5j
-4Yi
-$yh
-Hmh
-0_h
-P4h
-(Ng
-(,g
-0Fe
-hZd
-,Ld
-D3d
-X}c
-PWc
-hFc
-,Eb
-(1b
-d'b
-Lva
-LKa
-T0a
-Te_
-<M_
-$X]
-PC[
-<NY
-<CY
-h&Y
-hAW
-hBV
-$!V
-tuU
-45U
-T'U
-lsT
-0UT
-dJT
-H T
-xYR
-lNR
-L1R
-HkP
-D>O
-$'O
-DqN
-0.N
-h&M
-P_L
-LhI
-d'I
-<.G
-8AF
-,/F
-HgE
-XqD
-8jC
-tPC
-H<B
-4 A
-L6?
-,-?
-X(>
-X&<
-P%:
-4v9
-xL9
-x28
-dk6
-D96
-0:5
-xf4
-PZ4
-xK4
-xR3
-,?3
-D23
-Xb2
-XK2
-432
-lx1
-0Y1
-,00
-l$0
-(v/
-0	/
-(J-
-t},
-L8,
-T),
+hm}
+<G}
+pU{
+pQz
+THz
+4 z
+(8y
+hvx
+P2w
+,(w
+X$v
+<ot
+(_t
+XZs
+,gr
+hYr
+L"r
+,nq
+8}p
+0Xp
+0Lp
+P1p
+,do
+hco
+Lao
+8_o
+L]o
+TVo
+0Uo
+LPo
+TNo
+PLo
+,Ko
+<Go
+lnn
+(Vn
+d.m
+Tol
+,Hl
+(ok
+4ck
+x"k
+l}j
+d%j
+0ih
+T]h
+<Oh
+L]g
+4>g
+x{f
+lkf
+l4f
+hPe
+<6e
+pqd
+tJd
+8<d
+dmc
+t6c
+85b
+4!b
+0xa
+Xfa
+(Fa
+D+a
+H-_
+0H]
+l8]
+<nZ
+hEZ
+h7Z
+<wY
+H>Y
+H3Y
+XPW
+t1W
+t2V
+LFU
+xcT
+<ET
+p:T
+,XS
+,IS
+(7S
+HrR
+hgR
+x>R
+X!R
+T[P
+$>P
+P.O
+PaN
+l0K
+,?J
+$0J
+XXI
+l3I
+h	H
+l,G
+PNF
+D1F
+8zE
+TWE
+lIE
+$<E
+l}D
+daD
+DZC
+HLC
+lrB
+T,B
+hSA
+h:A
+LU?
+(>?
+D0?
+X&?
+T0<
+D09
+Li8
+Dv7
+l67
+lr6
+p[6
+P)6
+py5
+8l5
+8l4
+8/3
+P"3
+dR2
+,H2
+8w1
+xh1
+<I1
+$31
+Xv0
+8 0
+px/
+4f/
+,K/
+,</
+4:-
+T	-
+X(,
+L	,
+L/+
 XV'
 xC'
 ,$%
@@ -67414,1189 +67440,1277 @@ This is SO good!
 I'm in heaven!
 Lisbeth
 401600101_1_a
-ははっ、ちげーねえな
-クライン
+Ha ha, I guess not.
+Klein
 401501301_33_a
-はは、止めてくれよ
-さっきまでの顔の俺を見てた奴に
-言われたくない
-キリト
+Ha ha, leave off Klein. I can't
+imagine I'd make a very merry
+Santa right now.
+Kirito
 401501301_32_a
-キリスト様ならぬ、
-凛々しい英雄キリト様復活だな
-クライン
+So go on! Have a jolly Christmas!
+Just do me a favor and don't try
+to slide down any chimneys.
+Klein
 401501301_31_a
-そうか
-へっ、なんかさっきよりもいい顔に
-なった気がするぜ
-クライン
+Great! Heh, you look much happier
+than you did a minute ago, know
+that?
+Klein
 401501301_30_a
-いやもう大丈夫だ
-俺はもう……ウジウジ悩んだりは
-しないよ
-キリト
+Nah, I think I'm good. I won't
+mope about anymore or let it
+drag me down.
+Kirito
 401501301_29_a
-へへっ、ここで泣いてもいいんだぜ
-アスナ達には黙っておくからよ
-クライン
+Heh, good. Now if you've gotta
+weep, I'm here for you, man.
+I won't tell Asuna, promise.
+Klein
 401501301_28_a
-ありがとう
-なんか目が覚めた気がする
-はは……
-キリト
+Thanks. I feel like a weight's
+been lifted off my chest here,
+ha ha...
+Kirito
 401501301_27_a
-クライン……
-ああ、そうかもしれないな
-キリト
+Klein...
+Yeah, you might just be right...
+Kirito
 401501301_26_a
-心が死んでしまった……あの日とよ
-クライン
+A part of you died with them,
+and you're here to acknowledge
+that, and move on.
+Klein
 401501301_25_a
-お前ェ自身が決別すべきだって
-思ってるからじゃねーのか?
-クライン
+You're here to make a break from
+your past, aren't you?
+Klein
 401501301_24_a
-お前ェが黒猫団の命日じゃなく、
-こうしてクリスマスに手向けの花を
-添えるのも……
-クライン
+They died on this day, that's
+true. But you're not just here to
+lay flowers on their graves...
+Klein
 401501301_23_a
-……!
-キリト
+...
+Kirito
 401501301_22_a
-ならオレと同じはずだぜ
-お前ェのあんな顔は
-二度と見たくねーってな
-クライン
+Then I'm sure they feel the same
+way I do. They don't want to see
+you like that ever again.
+Klein
 401501301_21_a
-……少なくとも当時はな
-キリト
+They...were once, at least...
+Kirito
 401501301_20_a
-キリの字……
-黒猫団の奴らだって、
-ダチだったんだろ?
-クライン
+And K-dawg...
+They were your friends too, right?
+Klein
 401501301_19_a
-………………
-キリト
+...
+Kirito
 401501301_18_a
-お前ェはオレのダチだからよ
-クライン
+You're my friend.
+I want you to be happy.
+Klein
 401501301_17_a
-言わせてもらうがよ
-キリトをあんな廃人の顔にさせる
-奴らはオレは許さねえってな
-クライン
+But I'm gonna say this. They got
+no right to make you look like
+you did back then, got it?!
+Klein
 401501301_16_a
-死んだ奴らがどう思ってるかは、
-オレにゃわからねぇ……
-仏サンに失礼を承知で
-クライン
+I don't know what your friends
+would say if they were here,
+or what they'd think of you...
+Klein
 401501301_15_a
-クライン……
-キリト
+Klein...
+Kirito
 401501301_14_a
-あの背教者を討伐した後で見せた、
-お前ェのあの死んだ目だけは……
-ぜってーもう見たくねぇってな
-クライン
+The way you looked after you beat
+Nicholas the Renegade... I never
+want to see you like that again.
+Klein
 401501301_13_a
-だけどよ……
-オレはこれだけは言えるぜ
-クライン
+But listen... There's one thing
+I want you to know...
+Klein
 401501301_12_a
-お前ェの傷はよ……
-癒えたように見えても、時々
-古傷みてーにジクジク痛むんだろ?
-クライン
+I get it, Kirito. Those scars you
+got: you think they're healed, but
+they still hurt from time to time.
+Klein
 401501301_11_a
-すまない、クライン
-はは、全然割り切れてないな、
-俺は……
-キリト
+Sorry, Klein. Ha ha, I guess
+I'm not over it after all...
+Kirito
 401501301_10_a
-キリト……
-クライン
+Kirito...
+Klein
 401501301_9_a
-あのとき……嫌われてでも、
-ケイタに真実を言っておくべきじゃ
-なかったのかって……
-キリト
+I should have told Keita the
+truth, even if it hurt...
+I should have
+Kirito
 401501301_8_a
-サチは本当は戦うプレイヤーに
-なりたくないって気づいていながら、
-それを言ってやれなかった……
-キリト
+I knew Sachi never wanted to
+fight, yet I never said anything.
+I never let her know how I felt...
+Kirito
 401501301_7_a
-フラグMobなんて調べなければ
-良かった……アルゴに頼んで
-半減させなきゃ良かった……
-キリト
+What if I never found that stupid
+event mob? Or asked Argo to help
+bring it to half health?
+Kirito
 401501301_6_a
-サチの武器変更をとめるべきだった
-ギルドハウスなんて
-求めなきゃ良かった……
-キリト
+What if I'd convinced Keita not to
+make Sachi switch weapons? Or
+didn't back the guild house idea?
+Kirito
 401501301_5_a
-でもやっぱり時々浮かんでくるんだ
-俺には彼らを救う選択のチャンスが
-いくつもあったんだって……
-キリト
+But still, I think about it now
+and then... I had so many
+opportunities to change things...
+Kirito
 401501301_4_a
-今更言っても仕方ない
-後悔は腐るほどしたし、自分を
-罵倒するのは飽きるくらいやった
-キリト
+Nothing I do now can change the
+past. As much as I hate myself for
+it, I have to live with that.
+Kirito
 401501301_3_a
-キリト
+Kirito
 401501301_2_a
 bg_03_dungeon
-なるほどな
-んなことがあったのか……
-クライン
+I see...
+So that's what happened...
+Klein
 401501301_1_a
-ケイタ……
-キリト
+Keita...
+Kirito
 401501201_32_a
-さ、さあ明日も早いしもう寝るかな!
-キリト、お休み!
-ケイタ
+W-Well, we got a long day ahead of
+us tomorrow! Good night, Kirito!
+Keita
 401501201_31_a
-……で、でも
-キリト
+B-But...it sounded important...
+Kirito
 401501201_30_a
-ああっ、い、いや!
-なんでもないんだ!
-忘れてくれ!
-ケイタ
+Ah, nothing! Nevermind!
+Forget it, seriously!
+Keita
 401501201_29_a
-ん……?
-もう一度言ってくれるか?
-キリト
+Huh? Sorry, I didn't catch that.
+What did you say?
+Kirito
 401501201_28_a
-サチは……本当は……キミのこと……
-ケイタ
+Well, the thing is...
+Sachi, she...
+Uh, she's interested in you...
+Keita
 401501201_27_a
-ケイタ達と同じく
-自分のギルドの大切な仲間だと……
-キリト
+I mean, you all are.
+You're my guildies.
+Kirito
 401501201_26_a
-えっ?
-サチ……?
-仲間だと思ってるけど……
-キリト
+Huh? Sachi...? I think she's
+a great person. Why?
+Kirito
 401501201_25_a
-あ、あとさ……
-キミはサチのこと……
-どう思ってるんだい?
-ケイタ
+O-Oh, and one other thing... It's
+about Sachi... What do you think
+of her?
+Keita
 401501201_24_a
-ケイタ……?
-キリト
+Keita...?
+Kirito
 401501201_23_a
-キリトの言うことはいつでも
-正しいから……
-ケイタ
+You're always right, after all...
+Keita
 401501201_22_a
-そうか……
-うん、キミが言うなら
-そうなんだろうね
-ケイタ
+I see... Well, if you say so...
+Keita
 401501201_21_a
-直前に別パーティが来てたか……
-それともケイタの予想どおり
-ああいう仕様だったかのどちらかさ
-キリト
+I bet another party just finished
+tangling with it when we showed
+up, or it was just made that way.
+Kirito
 401501201_20_a
-大したもんだと思うけど……
-あれをやったのは俺じゃないよ
-キリト
+I'm not THAT good... So whoever
+did it, it wasn't me.
+Kirito
 401501201_19_a
-半分削るなんて無理だよ
-はは、それが真実であれば
-カッコ良いし、
-キリト
+take out half of that thing's HP
+on my own? Ha ha, I guess I'd have
+to be awesome if it were true!
+Kirito
 401501201_18_a
-だって俺のレベルって
-ケイタ達よりも少し高いくらいだろ?
-そもそもソロで
-キリト
+I mean, my level's not that much
+higher than yours, right? How
+could I, going solo...
+Kirito
 401501201_17_a
-キリト……
-ケイタ
+Kirito...
+Keita
 401501201_16_a
-ち、違うよ
-それは買い被りだよ
-キリト
+N-No.
+Not at all.
+You're imagining things.
+Kirito
 401501201_15_a
-………………
-ケイタ
+...
+Keita
 401501201_14_a
-そ、それは……
-キリト
+W-Well...
+Kirito
 401501201_13_a
-もしかしてキミが前もってあそこに
-行って、半分まで削ってくれたんじゃ
-ないのかい?
-ケイタ
+Did you secretly go on ahead of us
+and take out half of that thing's
+HP on your own?
+Keita
 401501201_12_a
-みんなも必死で
-気付いていないみたいだった
-でも……
-ケイタ
+Everyone was too worked up to
+really think about it... But I got
+to wondering...
+Keita
 401501201_11_a
-あれは最初仕様かと思った
-ケイタ
+That was you, wasn't it?
+Keita
 401501201_10_a
-……!
-キリト
+What!
+Kirito
 401501201_9_a
-今回の大量コルを落とす
-フラグMob……ゲージが最初から
-半分削られてただろ……?
-ケイタ
+Remember how that event monster
+we fought was at half health when
+we found it?
+Keita
 401501201_8_a
-……?
-確認……なにを?
-キリト
+There...is?
+What, exactly?
+Kirito
 401501201_7_a
-ひ、一つだけ確認したかったんだ……
-ケイタ
+K-Kirito... There's something
+I need to know.
+Keita
 401501201_6_a
-もう寝た方が
-いいんじゃないのか……?
-キリト
+Shouldn't we be, you know...
+sleeping?
+Kirito
 401501201_5_a
-明日確かはじまりの街で
-不動産仲介プレイヤーに会って、
-ギルドハウスを購入するんだよな?
-キリト
+Wasn't the plan to meet up in the
+Town of Beginnings tomorrow and
+talk to the real-estate player?
+Kirito
 401501201_4_a
-ケイタ?
-どうしたんだ、こんな夜遅くに
-呼び出して
-キリト
+Keita, what's wrong? Why did you
+call me out here this late at
+night?
+Kirito
 401501201_3_a
-キリト
+Kirito
 401501201_2_a
 bg_03_bed_light
-キリト……
-ケイタ
+Kirito...
+Keita
 401501201_1_a
-い、いいから忘れてくれー!
-キリト
+H-Hey, I said forget it! Never
+happened! So, uh...bye!
+Kirito
 401501101_24_a
-気になるよ!
-ちょっとキリト、
-最後まで言ってよー!
+Oh, that is just SO mean! I'm not
+letting you off the hook! Finish
+that thought RIGHT NOW!
+Sachi
 401501101_23_a
-うーん、はは……
-聞かなかったことにしてくれ
-キリト
+Ha ha... Weeelll... Can we pretend
+this conversation never happened?
+Kirito
 401501101_22_a
-な、なによ!
-普通そこで止めないでしょ?
+H-Hey! What gives?! Don't just cut
+off like that?! What were you
+going to say?!
+Sachi
 401501101_21_a
-あっ、ええと……いや
-なんでもない
-キリト
+Uh, umm... Nevermind.
+It's nothing.
+Kirito
 401501101_20_a
-えっ?
+Hmm? I what?
+Sachi
 401501101_19_a
-サチはもしかして……
-はじまりの……
-キリト
+Sachi...
+Don't tell me you...?
+Kirito
 401501101_18_a
-もーっ、そんな突っ込み
-欲しかったわけじゃないのにー!
+Ugh, you idiot! That's not what
+I'm talking about at all! You just
+don't get it!
+Sachi
 401501101_17_a
-はは、まあ現実じゃないしな
-キリト
+Ha ha, well, this isn't real,
+right?
+Kirito
 401501101_16_a
-現実感がないというか、
-フワフワしてるというか……
-そんな感じ
+Like we're somewhere we don't
+belong, somewhere we were never
+meant to be. It...bothers me...
+Sachi
 401501101_15_a
-それは……もちろん嬉しいけど、
-なんだか最近すごく……
-遠いところに来ちゃった気がして……
+Well, I am happy, but...recently
+I get the weirdest feelings...
+Like none of this is real...
+Sachi
 401501101_14_a
-サチは……嬉しくないのか?
-これでギルドハウスが持てるんだぞ?
-キリト
+Sachi...aren't you happy? Now
+we can finally get that guild
+house everyone wanted.
+Kirito
 401501101_13_a
-……子供みたいにはしゃいじゃって
+Ick, look at him... He's acting
+like a kid in a candy shop...
+Sachi
 401501101_12_a
-ササマル達もお疲れー!
-ちゃんと回復しておくんだよ!
-ケイタ
+Sasamaru! Everyone! Nice work!
+Make sure to heal up before we
+leave!
+Keita
 401501101_11_a
-ああ……
-キリト
+No need to thank me...
+Kirito
 401501101_10_a
-本当にありがとう……キリト!
-ケイタ
+Really, I mean it. Thank you.
+Keita
 401501101_9_a
-僕らは全てにおいて
-うまく事が進んでる気がするよ!
-ケイタ
+It feels like everything's been
+going our way since you showed up!
+Keita
 401501101_8_a
-うん、
-キリトが加入してからというもの、
-ケイタ
+Seriously, Kirito, thanks for
+joining our guild!
+Keita
 401501101_7_a
-そ、そうだよな……
-や、やったな!
-キリト
+Y-Yeah, you're right...
+W-Woohoo...
+Kirito
 401501101_6_a
-おめでとうじゃないよ!
-キリトだって黒猫団の一員
-なんだから!
-ケイタ
+What do you mean, "congrats"?!
+You're one of us! This is your
+victory too, man!
+Keita
 401501101_5_a
-おめでとう、ケイタ
-キリト
+We certainly do. Congrats, Keita.
+Kirito
 401501101_4_a
+Sachi
 401501101_3_a
-キリト
+Kirito
 401501101_2_a
 bg_03_field_wolf
-やった、ついにやったよ!
-ギルド資金、目標コル達成したよ!
-ケイタ
+We did it... We actually did it!
+Now we've finally got enough Col
+to buy a guild house!
+Keita
 401501101_1_a
-………………
-キリト
+...
+Kirito
 401501001_14_a
-わ、わかったよ……
+O-Okay... Got it...
+Sachi
 401501001_13_a
-ササマル達も行くよ!
-慌てないで、いつもどおりに
-やるんだよ!
-ケイタ
+Sasamaru, bring your group in!
+Take it slow and steady,
+same tactics as always!
+Keita
 401501001_12_a
-ほら、サチ!
-ぼやぼやしない!
-ケイタ
+Come on, Sachi! Get your head
+in the game!
+Keita
 401501001_11_a
-ほ、ホントかなぁ……?
+R-Really...?
+Sachi
 401501001_10_a
-あ、ああ!
-必ず倒せる!
-キリト
+Y-Yeah!
+We'll take it down for sure!
+Kirito
 401501001_9_a
-キリト、そうだよね!?
-ケイタ
+Right, Kirito?!
+Keita
 401501001_8_a
-幸いゲージがなぜか半減してるし、
-いつもの戦術を冷静にこなして
-いけば、必ず倒せるはずさ!
-ケイタ
+But we lucked out! It's only at
+half health for some reason!
+We can take it if we stay calm!
+Keita
 401501001_7_a
-だ、大丈夫だ!
-確かにステータスは僕らがこれまで
-戦ってきた中で一番高いけど……
-ケイタ
+D-Don't worry! We got it! I know
+it's stronger than anything we've
+fought before...
+Keita
 401501001_6_a
-こ、こいつすごく強いよ……!
+Th-This thing's really strong!
+Sachi
 401501001_5_a
-キリト
+Kirito
 401501001_4_a
-ケイタ
+Keita
 401501001_3_a
+Sachi
 401501001_2_a
 bg_03_field_wolf
-グロアアアアッ!!
-モンスター
+Graaawr!!
+Monster
 401501001_1_a
-ああ、助かる
-キリト
+Thanks, Argo.
+Kirito
 401500901_21_a
-オレっちは与えられた仕事を
-こなすだけダ
-アルゴ
+I'll do what yer payin' me ta do.
+But I won't like it.
+Argo
 401500901_20_a
-はぁ……ハイハイ
-わかったヨ、依頼主サマ
-アルゴ
+Yeah, got it. Whatever.
+The customer's always right,
+'n' all that garbage.
+Argo
 401500901_19_a
-あとは俺が黒猫団と一緒に
-また来て倒すから
-キリト
+Then I'll sweep in with the
+Moonlit Black Cats and finish it
+off. Got it?
+Kirito
 401500901_18_a
-と、とにかく半分くらい削ったら、
-それで退却だ
-キリト
+L-Look, just do it, okay? Help me
+bring it to half health and then
+get out of there.
+Kirito
 401500901_17_a
-オイオイ……大丈夫カ?
-アルゴ
+Kii-boy, dude... Get a grip.
+Argo
 401500901_16_a
-そんなんじゃない……
-いや……そうなのかも……な
-キリト
+No, that's not it at all...
+Well...maybe it is...a little...
+Kirito
 401500901_15_a
-中堅プレイヤー達のママゴトに
-付き合って、悦に浸るのが
-楽しくなっちまったのカ?
-アルゴ
+Ya enjoyin' babysittin' those
+noobs? Or does helpin' 'em make ya
+feel good about yerself?
+Argo
 401500901_14_a
-なんだソリャ?
-キー坊は知らぬ間に
-アルゴ
+The hell? Since when did ya
+become such a goody two-shoes?
+Argo
 401500901_13_a
-そ、それじゃダメなんだ
-あいつらが自分たちの力で
-やらないと……
-キリト
+N-No, that's not good enough.
+They need to do it themselves...
+To believe in themselves...
+Kirito
 401500901_12_a
-お前たちじゃ実力不足だから、
-こっちで退治しといてやるってサ
-アルゴ
+If yer buddies ain't up to the
+task, just let me handle it.
+Argo
 401500901_11_a
-その黒ナントカ団に
-正直に言えばいいダロ
-アルゴ
+Why not just tell those Moony
+Black whatever ya call 'em the
+truth?
+Argo
 401500901_10_a
-なんでこの間オレっちが調べてやった
-Mobの所に行って、
-二人してゲージを削っておくんダ?
-アルゴ
+Why ya hirin' me ta help ya work
+over that monster ya had me look
+into before the team shows up?
+Argo
 401500901_9_a
-どうも腑に落ちないナ
-アルゴ
+It just doesn't add up.
+Argo
 401500901_8_a
-な、なんだよ……
-まだなにかあるのか?
-キリト
+Wh-What? What's got you so out
+of sorts?
+Kirito
 401500901_7_a
-ムーっ……
-アルゴ
+Grr...
+Argo
 401500901_6_a
-わかってるって
-キリト
+I know that too.
+Kirito
 401500901_5_a
-オネーサンの本業は情報屋ダ
-用心棒でも殺し屋でもないんだからナ
-アルゴ
+Listen, kid. I'm an info broker.
+Not a merc or an assassin.
+Argo
 401500901_4_a
-わかってる
-キリト
+Yeah, I know.
+Kirito
 401500901_3_a
-キリト
+Kirito
 401500901_2_a
 bg_03_field_wolf
-キー坊……
-こいつは高くつくゾ
-アルゴ
+Uh, Kii-boy... This is gonna cost
+ya an arm and a leg, ya know...
+Argo
 401500901_1_a
-キリト……
+Kirito...
+Sachi
 401500801_19_a
-ああ、心配しなくても大丈夫だ
-キミのことも黒猫団全員も……
-俺が守ってみせるから
-キリト
+Of course we can. And don't worry,
+Sachi. I'll protect you...and all
+the Moonlit Black Cats.
+Kirito
 401500801_18_a
-ねえ……キリト
-このフラグMobって……
-本当に私たちでも倒せるの?
+Hey...Kirito? This event monster...
+Can we really beat it?
+Sachi
 401500801_17_a
-………………
-キリト
+...
+Kirito
 401500801_16_a
-………………
+...
+Sachi
 401500801_15_a
-あ、ああ、頼む
-キリト
+S-Sure...
+Kirito
 401500801_14_a
-やったね!
-テツオ達にも言ってくるよ!
-ケイタ
+This is great! I'll go tell Tetsuo
+and the others right now!
+Keita
 401500801_13_a
-確かにこれだけあれば、
-ギルドハウス用の貯金と合わせて、
-なんとか目標値を達成できそうだよ!
-ケイタ
+You're right, Kirito. With this
+much Col, our dreams of a guild
+house of our own aren't far off.
+Keita
 401500801_12_a
-ふむふむ……
-なるほど……確かに強そうだね
-報酬は……おおっ!
-ケイタ
+Hmm... Interesting. It is tough,
+but... WHOA! It drops crazy cash!
+Keita
 401500801_11_a
-これなんだが……
-キリト
+Sure. Right here...
+Kirito
 401500801_10_a
-キリトがそう言うなら安心だね
-でも念のため、
-そいつのデータを見せてもらえる?
-ケイタ
+I trust your judgment. If you say
+we can beat it, we can. But can I
+see its stats, just in case?
+Keita
 401500801_9_a
-強いは強いんだが……
-なんとか俺たちでも倒せると思う
-そこは安心してくれ
-キリト
+Yeah, it is powerful... But don't
+worry! I'm positive that we're
+strong enough to beat it.
+Kirito
 401500801_8_a
-そ、それって
-強いやつってことだよね?
-なんか不安……
+A-Aren't those like...really,
+really powerful? I'm not too
+sure about this...
+Sachi
 401500801_7_a
-本当かい!?
-でもフラグMob……?
-ケイタ
+Really?!
+But...event monster?
+Keita
 401500801_6_a
-ついに見つけたぞ!
-大金をゲットできる
-フラグMobの居場所を!
-キリト
+I finally got it! Our big break!
+An event monster that drops
+a mountain of Col!
+Kirito
 401500801_5_a
-キリト、どうしたんだい?
-ケイタ
+Kirito, what's up?
+Keita
 401500801_4_a
+Sachi
 401500801_3_a
-ケイタ
+Keita
 401500801_2_a
 bg_03_pub
-ケイタ、サチ!
-キリト
+Keita, Sachi!
+Kirito
 401500801_1_a
-じゃあ、行ってくるから
-待っててくれ
-キリト
+Okay, I'll go see if I can learn
+anything. Be back in a bit.
+Kirito
 401500701_26_a
-ふーん……
+Reeeaaally now...
+Sachi
 401500701_25_a
-あ、ああ
-ダイブしたばっかりの頃からの
-腐れ縁みたいなやつでな……
-キリト
+Uh, yeah... Just someone I met
+right after I first dived in.
+Kind of a love-hate relationship.
+Kirito
 401500701_24_a
-情報屋?
-そんな知り合いいるんだ
+An info broker?
+Kirito, you know one?
+Sachi
 401500701_23_a
-おおっ、キリト頼んだ!
-ケイタ
+Good idea, Kirito!
+Keita
 401500701_22_a
-なにか効率良く
-集金できそうなクエでもないか、
-ちょっと情報屋に聞いてみるよ
-キリト
+But I'll ask an info broker if
+they know any quests that can help
+us make a bundle quick.
+Kirito
 401500701_21_a
-はは……まあ地道にMobを狩って、
-貯めるしかないと思うが……
-キリト
+Ha ha... I think our only option's
+to keep beating up monsters.
+Kirito
 401500701_20_a
-えっ……えーと、その……忘れた!
-ケイタ
+Uh... I did? Riiight.
+Must have forgotten.
+Keita
 401500701_19_a
-ケイタ私の歌、知ってるでしょ?
-結構上手いって前
-言ってくれたじゃない!
+Keita, how dare you! You know how
+good I am! You said so a while
+back!
+Sachi
 401500701_18_a
-む～っ!
+Grrr!
+Sachi
 401500701_17_a
-サチの歌なんか誰もお金出さないだろ
-ケイタ
+Sachi, your singing voice is like
+nails on a chalkboard.
+Keita
 401500701_16_a
-あっ、歌を歌って披露するとかどう?
-私、歌っちゃうよ?
+Oh! Another idea! I could sing,
+like a bard! I'm an AWESOME
+singer!
+Sachi
 401500701_15_a
-やっぱそうだよなぁ……
-ケイタ
+Yeah, I guess you're right...
+Keita
 401500701_14_a
-後発で挑んでも
-一山当てるのは難しいと思う……
-キリト
+It'd be tough to compete against
+the horde of already established
+businesses...
+Kirito
 401500701_13_a
-その辺の商売は既に結構な規模の
-市場ができあがってる
-キリト
+The economy in SAO's already
+pretty saturated...
+Kirito
 401500701_12_a
-そうそう!
+Yeah, totally! That sounds great!
+Sachi
 401500701_11_a
-商売を始めるってこと?
-アイテム屋とか武器職人とか?
-ケイタ
+You mean like starting a business?
+An item or weapon shop or
+something?
+Keita
 401500701_10_a
-なにか効率的に
-お金儲けができないのかな?
+Isn't there some way we can
+earn tons of cash?
+Sachi
 401500701_9_a
-どんなに小さくても、
-現実で言うところの一軒家を買う
-ってことだからな……
-キリト
+No matter how small it is, a house
+is still a house. Just like in the
+real world, that's expensive.
+Kirito
 401500701_8_a
-まあそうなるよな……
-キリト
+Yeah, I don't doubt it.
+Kirito
 401500701_7_a
-う、うん
-やっぱりどれも高いんだよなぁ……
-ケイタ
+Y-Yeah... All these houses are
+just WAY too expensive...
+Keita
 401500701_6_a
-あっ……もしかして、
-ギルドハウスの件か?
-キリト
+Wait, let me guess. It's the house
+for our guild, right?
+Kirito
 401500701_5_a
-どうしたの、ケイタ?
+Keita, what's with all the
+groaning?
+Sachi
 401500701_4_a
-キリト
+Kirito
 401500701_3_a
+Sachi
 401500701_2_a
 bg_03_pub
-う、うーん……
-ケイタ
+Ugh... Hmm...
+Keita
 401500701_1_a
-サチ……悪いけど、
-そんな感覚でいられる場所じゃ
-ないんだ……この世界は……
-キリト
+Sachi... Sorry, but this world
+just isn't that sort of place...
+Kirito
 401500601_26_a
-………………
-キリト
+...
+Kirito
 401500601_25_a
-えっ?
-お、おいサチ……!
-キリト
+Huh? S-Sachi?! What gives?!
+Kirito
 401500601_24_a
-もういいです～
-キリトなんて知りませんから～
+Ugh! Forget it! Whatever, Kirito.
+What. Ever.
+Sachi
 401500601_23_a
-………………
-キリト
+...
+Kirito
 401500601_22_a
-私はただ現実の部室みたいに、
-みんなでワイワイやってたかっただけ
-なんだけどなぁ……
+All I wanted was to have a room
+like I did back home, and hang out
+with everyone...
+Sachi
 401500601_21_a
-あ～あ
+Ah, whatever.
+Sachi
 401500601_20_a
-い、いやそんなことは……!
-キリト
+N-No, not at all!
+Kirito
 401500601_19_a
-なんだかさ、私が駄々をこねて
-嫌がってるみたいだね、
-これじゃあ……
+I kinda feel like I've been
+throwing a stupid temper tantrum
+over this whole thing now...
+Sachi
 401500601_18_a
-サチ……?
-キリト
+You...do?
+Kirito
 401500601_17_a
-そっか……
+I see...
+Sachi
 401500601_16_a
-………………
+...
+Sachi
 401500601_15_a
-最終的にはリーダーに従おうって
-思っただけだよ
-キリト
+It's the leader's decision to
+make, and I have to respect that.
+Kirito
 401500601_14_a
-確かに俺は最初は賛成じゃなかった
-ただ……新人の俺がもの申し過ぎる
-のも、なんかイヤだったから……
-キリト
+It's true. I was against it at
+first. But...honestly, I'm new
+here. I was out of line.
+Kirito
 401500601_13_a
-そ、そうか
-いや聞かれちまったなら仕方ないさ
-キリト
+O-Oh... Well, I guess there's
+no denying it, then.
+Kirito
 401500601_12_a
-う、うん
-ごめんね……
+W-Well... Kinda, yeah.
+Sorry...
+Sachi
 401500601_11_a
-……!
+Urk...!
+Sachi
 401500601_10_a
-サチ……
-もしかしてこの前俺とケイタが
-話してたの、聞いてたのか……?
-キリト
+Sachi... You, uh, didn't happen to
+overhear me and Keita talking,
+did you?
+Kirito
 401500601_9_a
-そういうことじゃないよ
-私は……キリトがどう考えてるのか、
-聞いてるんだよ
+I'm not talking about that.
+What I want to know is how
+YOU feel about it, personally.
+Sachi
 401500601_8_a
-それにケイタが決めたことだから……
-従うつもりだ……
-キリト
+Besides, Keita made the call.
+I'm not going to question him...
+Kirito
 401500601_7_a
-ええと……役割分担としては、
-効率的だとは思ってるよ
-キリト
+Umm, how do I put this... From a
+team makeup standpoint,
+it does make sense...
+Kirito
 401500601_6_a
-えっ……!?
-キリト
+Urk...!
+Kirito
 401500601_5_a
-キリトは私が
-バトルの前衛を務めるの……
-どう思ってるの?
+How do you really feel about me
+shifting to the front lines?
+Sachi
 401500601_4_a
-ん、どうした?
-キリト
+Yeah, what is it?
+Kirito
 401500601_3_a
-キリト
+Kirito
 401500601_2_a
 bg_event_dungeon_sao
-キリト……
+Kirito...
+Sachi
 401500601_1_a
-ははは……
-キリト
+Hahaha...
+Kirito
 401500501_30_a
-そ、そんなことないもん!
+N-No, I'm not! Hmph!
+Sachi
 401500501_29_a
-サチ……ワガママだなぁ～
-ケイタ
+Wow, Sachi, you are one demanding
+person.
+Keita
 401500501_28_a
-どうせならみんなで見られる
-モニターも欲しいわ
+Well, I want a monitor that we
+can all look at.
+Sachi
 401500501_27_a
-おおっ、キリト!
-ナイスアイディア!
-ケイタ
+Oh yeah, nice idea, Kirito!
+Keita
 401500501_26_a
-はは、気分だけでも味わいたいなら、
-ホロキーボードでも立ち上げれば
-いいじゃないか
-キリト
+Heh, well, why not just pull up a
+hollow keyboard?
+Kirito
 401500501_25_a
-いやいやSAOのアイテムで
-PCはさすがにないだろ?
-ケイタ
+Um, Sachi? I'm pretty sure SAO
+doesn't have computers...
+Keita
 401500501_24_a
-あっ、あとリビングには
-パソコンを用意したいわ
-現実の部室みたいに
+Oh, idea! Let's get a computer for
+the living room! To make it feel
+like home. A real world home.
+Sachi
 401500501_23_a
-キリト
+Have fun.
+Kirito
 401500501_22_a
-キリトもそう思うかい?
-よーし、
-じゃあちょっと調べてみよう
-ケイタ
+You do?! Alright! I'm going to go
+look into it right now!
+Keita
 401500501_21_a
-でもまあこの人数がゆっくりできる
-サイズでいいなら、
-多少は現実的かもな
-キリト
+But honestly, if you're just
+thinking of getting us a place to
+hang out, I think it's doable.
+Kirito
 401500501_20_a
-ははは……
-キリト
+Hahaha...
+Kirito
 401500501_19_a
-全然されてないー!
+You are, huh?! Well, you could've
+fooled me!
+Sachi
 401500501_18_a
-こ、これまでもちゃんと
-女子扱いしてきただろ?
-ケイタ
+H-Hey, I'm aware that you're a
+girl! Sheesh!
+Keita
 401500501_17_a
-みんな忘れてるかもしれないけど、
-私だけ女の子なんですからね～!
+Maybe you've forgotten, but I am
+the only girl in the guild! I need
+my privacy!
+Sachi
 401500501_16_a
-あっ、でもどうせなら
-一人一部屋は欲しいわ
+Oh! If we're getting a house,
+I demand a room of my own!
+Sachi
 401500501_15_a
-僕ら数人だけでも
-仲良く団らんできそうな、
-小さな家で構わないからさ
-ケイタ
+I'm just thinking we get a small,
+cozy house somewhere. Something
+that fits our guild.
+Keita
 401500501_14_a
-大手ギルドみたいなドでかいお屋敷を
-作るわけじゃないんだ
-ケイタ
+Anyway, I'm not saying we build
+our own massive HQ like the big
+guilds have.
+Keita
 401500501_13_a
-ふーん……
+Uh-huh. Right.
+Sachi
 401500501_12_a
-えっ?
-そ、それはその……
-知り合いから聞いたんだよ
-キリト
+Um... W-Well, you see...
+I have this friend... He told me.
+Kirito
 401500501_11_a
-キリト、なんで知ってるの?
-ギルドに加入したことないんでしょ?
+But, Kirito, you've never been in
+a guild before, right? How do you
+know that?
+Sachi
 401500501_10_a
-俺も詳しくは知らないけど、
-相当なコルを用意しなきゃいけない
-はずだ……
-キリト
+I don't know the details, but I'm
+sure it costs a ridiculous amount
+of Col...
+Kirito
 401500501_9_a
-うーん、簡単じゃないと思う
-キリト
+It would be cool, but it's not
+going to be easy...
+Kirito
 401500501_8_a
-ああ、そうさ
-それを我が月夜の黒猫団も
-用意できないかと思ってさ!
-ケイタ
+Exactly! And that's why I thought
+that the Moonlit Black Cats needed
+one of their very own too!
+Keita
 401500501_7_a
-攻略組に参加してるギルドなら、
-みんな持ってるって
-聞いたことあるけど……
+I heard that every guild in the
+Assault Team had one of their
+own...
+Sachi
 401500501_6_a
-それってギルドの基地みたいな
-やつだよね
+You mean like a headquarters for
+our guild, right?
+Sachi
 401500501_5_a
-うん、
-テツオ達が話してるのを聞いたんだ
-ケイタ
+Yeah. I heard Tetsuo and the
+others talking about it.
+Keita
 401500501_4_a
+Sachi
 401500501_3_a
-ケイタ
+Keita
 401500501_2_a
 bg_03_pub
-ギルドハウス……?
-キリト
+You want to buy a house for the
+guild?
+Kirito
 401500501_1_a
-………………
+...
+Sachi
 401500401_31_a
-キリト
+Kirito
 401500401_30_a
-うん!
-ケイタ
+Yeah!
+Keita
 401500401_29_a
-ああ、これからも頑張ろう
-キリト
+No problem! Now let's go kick
+some more monster butt!
+Kirito
 401500401_28_a
-キリト……!
-ありがとう、すごく心強いよ!
-ケイタ
+Thanks, Kirito! I'm really happy
+to hear that!
+Keita
 401500401_27_a
-リーダーが決めたことを、
-俺も全力でサポートするからさ
-キリト
+So whatever you think is best,
+know that you'll have my full
+support.
+Kirito
 401500401_26_a
-最終的には
-ケイタの思うとおりに
-やるのが一番だと思う
-キリト
+You're the one who should decide
+what's right for the guild.
+Kirito
 401500401_25_a
-ケイタはこの月夜の黒猫団の
-リーダーだ
-キリト
+You're the leader of the Moonlit
+Black Cats.
+Kirito
 401500401_24_a
-わかったよ
-俺もちょっとしつこく言い過ぎた
-かもしれない
-キリト
+I understand. I think I was a bit
+too sure that I was right, too.
+Kirito
 401500401_23_a
-ケイタ……
-キリト
+Keita...
+Kirito
 401500401_22_a
-あいつにもちゃんとギルドに……
-仲間に貢献できてるって、
-思ってほしいだけなんだ……
-ケイタ
+And...I want her to know she's
+contributing. That she's important
+to the guild
+and to her friends.
+Keita
 401500401_21_a
-だから僕はちゃんと戦闘の役割を
-効率的にしたいだけなんだよ
-ケイタ
+All I want is to make us more
+effective as a team.
+Keita
 401500401_20_a
-一概にそうは言い切れないな
-キリト
+It's foolish to just assume that
+the back's the safest place to be.
+Kirito
 401500401_19_a
-後衛が急に攻め込まれる
-ことだってある
-キリト
+And sometimes the people in back
+get rushed by hordes of monsters.
+Kirito
 401500401_18_a
-前衛は当然耐久値が高いプレイヤーが
-なるものだし
-キリト
+I know. Frontline players tend
+to have a lot more health and
+defense, so they're tougher.
+Kirito
 401500401_17_a
-別に前衛だから死にやすいわけ
-じゃないし、後衛だから絶対安心な
-わけでもないでしょ?
-ケイタ
+the danger's the same.
+Front or back, there's no
+real safe spot, you know?
+Keita
 401500401_16_a
-ただキリトは分かってるだろうけど、
-こういうMMORPGのロールって、
-ケイタ
+But I think you understand that
+no matter what role you play in an
+MMO,
+Keita
 401500401_15_a
-う、うん
-もちろん彼女を危険な目に遭わせたい
-わけじゃない……
-ケイタ
+Y-Yeah... It's not that I want to
+put her in danger or anything...
+Keita
 401500401_14_a
-まだサチの前衛担当転向に
-こだわってるのか?
-キリト
+You want to talk about putting
+her up front again, right?
+Kirito
 401500401_13_a
-……サチのことか?
-キリト
+It's Sachi, right?
+Kirito
 401500401_12_a
-いや、キミの意見はいつも
-参考にさせてもらってるし、
-正しいとも思ってる……けど
-ケイタ
+Well... I really value your
+advice, and it's always spot on,
+but...
+Keita
 401500401_11_a
-……どうしたんだ?
-キリト
+Everything all right?
+Kirito
 401500401_10_a
-………………
-ケイタ
+...
+Keita
 401500401_9_a
-そうか、
-キミの賛同も得られて良かったよ
-ケイタ
+You do? Great! I'm glad you're
+on board with it.
+Keita
 401500401_8_a
-ああ、大丈夫だと思う
-キリト
+Hmm... I think it should be okay.
+Kirito
 401500401_7_a
-一つ上げたいって
-思ってるんだけど……
-キリトはどう思う?
-ケイタ
+I want to move our primary
+leveling spot up a level.
+What do you think, Kirito?
+Keita
 401500401_6_a
-はは、謙遜しなくてもいいのに
-あっ、そうそう
-メインの狩り場の階層を
-ケイタ
+Ha ha, don't be so modest!
+Oh yeah, I have a proposal!
+Keita
 401500401_5_a
-いや……
-みんなそれぞれががんばってるからさ
-俺はなにもしてないよ
-キリト
+Hey, no need for that...
+I didn't do anything.
+You all worked for it.
+Kirito
 401500401_4_a
-ありがとう!
-ケイタ
+We owe you big time!
+Keita
 401500401_3_a
-キリト
+Kirito
 401500401_2_a
 bg_01_field
-キリト!
-キリトのおかげで
-またみんなのレベルが上がったよ!
-ケイタ
+Kirito! It's all thanks to you
+that we've leveled again!
+Keita
 401500401_1_a
-………………
-キリト
+...
+Kirito
 401500301_23_a
-明らかに僕らの中では
-一番の実力者だよ
-忠告にも説得力があるよ……
-ケイタ
+you're obviously the strongest one
+here. Besides, you make a good
+point...
+Keita
 401500301_22_a
-キリトはレベルはそんなに
-変わらなくても、
-ケイタ
+Even if your level's only a bit
+higher than ours,
+Keita
 401500301_21_a
-あっ、いや……大丈夫だよ
-ケイタ
+No... No, it's okay.
+Keita
 401500301_20_a
-あっ、ご、ごめん
-新人の俺が偉そうに言っちゃって……
-キリト
+Oh, uh... Sorry... I'm new here.
+I shouldn't have gone and run
+my mouth like that...
+Kirito
 401500301_19_a
-………………
-ケイタ
+...
+Keita
 401500301_18_a
-ギルド全員がそれを望んでるとも
-限らないだろ?
-キリト
+And besides, did you ever think
+that the rest of the guild might
+not want that?
+Kirito
 401500301_17_a
-一朝一夕で攻略組の仲間入りなんて、
-さすがに難しいし……
-キリト
+I think making it into the Assault
+Team with just a bit of hard work
+is unrealistic.
+Kirito
 401500301_16_a
-えっ?
-ケイタ
+What are you talking about?
+Keita
 401500301_15_a
-上昇志向は悪くないけど、
-上ばかり見て足元だけは
-すくわれないようにな
-キリト
+You're shooting for the stars, and
+that's great. Just don't sacrifice
+what you have to get there.
+Kirito
 401500301_14_a
-ケイタ……
-キリト
+Keita, listen...
+Kirito
 401500301_13_a
-いや僕らの戦い方的にだよ
-ケイタ
+No, I mean it might be better for
+our strategy in general.
+Keita
 401500301_12_a
-それは本人の希望って意味か?
-キリト
+Is that what you think she wants?
+Kirito
 401500301_11_a
-じゃあ
-あいつはやっぱり槍に戻した方が
-いいのかな?
-ケイタ
+So I guess we should have her
+switch back to the spear, huh?
+Keita
 401500301_10_a
-キリト……
-そうか、わかったよ
-ケイタ
+Yeah...
+You're right, Kirito.
+Keita
 401500301_9_a
-むしろサチが前衛だとプレッシャーを
-感じるのか、動きがあんまり良くない
-気がするんだ
-キリト
+And I think Sachi's under too much
+pressure up front. She's not
+handling it well.
+Kirito
 401500301_8_a
-俺は今のままでも全然大丈夫だし、
-キリト
+Keita, I'm fine keeping our party
+setup the way it is.
+Kirito
 401500301_7_a
-う、うん
-ケイタ
+W-Well...yeah.
+Keita
 401500301_6_a
-ケイタ達の気持ちは嬉しいよ
-今の戦列の組み方だと俺に負担が
-かかってるって思ってるんだろ?
-キリト
+Listen, I get it. You're concerned
+that you're counting too much on
+me, right?
+Kirito
 401500301_5_a
-でも……
-ケイタ
+But still...
+Keita
 401500301_4_a
-い、いやそこまでは言ってないけど、
-焦る必要はないんじゃないかって……
-キリト
+N-No, that's not what I meant.
+I'm just saying we don't need to
+rush it. Let's take it slow.
+Kirito
 401500301_3_a
-キリト
+Kirito
 401500301_2_a
 bg_03_forest1
-えっ……?
-サチを前衛にする必要が……ない?
-ケイタ
+Huh...? You're saying Sachi
+shouldn't fight up front?
+Keita
 401500301_1_a
-………………
+...
+Sachi
 401500201_22_a
-あ、ああ
-キリト
+Yeah, sounds good.
+Kirito
 401500201_21_a
-そろそろ訓練を一休みしない?
-みんなもこっちに来てるんだ
-ケイタ
+How 'bout taking a break from all
+the practice? Everyone's hanging
+out nearby.
+Keita
 401500201_20_a
-ケイタ
-キリト
+Keita
+Kirito
 401500201_19_a
+Sachi
 401500201_18_a
-おっ、いたいた
-ケイタ
+Oh, there they are!
+Keita
 401500201_17_a
-それなのに私怯えちゃって……
-全然うまく動けないんだもん……
+Yeah, but I wasn't even fighting.
+I was so scared, I couldn't even
+move...
+Sachi
 401500201_16_a
-あ、ああ……
-新しい武器に慣れるためには、
-力の差のあるMobの方がいいだろ?
-キリト
+Well, it was weak... But that's
+just how it is when you're
+learning a new weapon.
+Kirito
 401500201_15_a
-だって今のモンスターって、
-すごく弱い奴なんでしょ?
+That monster was really low-level,
+right? But I couldn't even handle
+it...
+Sachi
 401500201_14_a
-そ、そうかな……
-私やっぱり素質ないんだよ
+Y-Yeah, I hope... But I just don't
+think I'm cut out for this.
+Sachi
 401500201_13_a
-まだまだこれからだよ
-キリト
+You'll get there eventually.
+Kirito
 401500201_12_a
-いや別にいいさ
-まだ片手剣の扱いにも
-慣れてないだろ?
-キリト
+Hey, don't worry about it.
+You just switched to the
+one-handed sword.
+Kirito
 401500201_11_a
-ご、ごめんなさい
-キリト……
+S-Sorry about that, Kirito...
+Sachi
 401500201_10_a
-……ふぅ
-キリト
+Phew...
+Kirito
 401500201_9_a
-ギャアアーーーッ!
-モンスター
+Grrrnk!
+Monster
 401500201_8_a
-わっ!?
+Huh?!
+Sachi
 401500201_7_a
-ゼヤアアッ!
-キリト
+Hrrragh!
+Kirito
 401500201_6_a
+Sachi
 401500201_5_a
-くっ、間に合わないか!
-キリト
+I'm not going to make it in time!
+Kirito
 401500201_4_a
-ギルアアアッ!
-モンスター
+Graaawr!
+Monster
 401500201_3_a
-えっ、ええっ……?
-えと……あれっ?
+Wait, I should do what...?
+Uh...huh?!
+Sachi
 401500201_2_a
 bg_03_forest1
-サチ!
-そこでスイッチだ!
-キリト
+Sachi! Now! Switch!
+Kirito
 401500201_1_a
-お、おう……
-クライン
+Oh... Right, sure I am.
+Klein
 401500101_22_a
-もし良ければ聞いてくれるか?
-キリト
+If you're willing to listen,
+I'm willing to talk.
+Kirito
 401500101_21_a
-クラインにも……そうか
-かいつまんでしか話してなかったな
-キリト
+And Klein... I haven't really told
+you the whole story either, huh?
+Kirito
 401500101_20_a
-軽くは話してるよ
-……でもすまん、これからは
-そうするよ
-キリト
+I spoke to her about it...briefly.
+But you're right... I'll be more
+open with her.
+Kirito
 401500101_19_a
-それともアスナにあの事は
-話してねーのか?
-クライン
+Or have you not told her about
+what happened at all?
+Klein
 401500101_18_a
-アスナくらいには、
-出かける場所言っておけよ
-あんまり心配かけるんじゃねーぞ
-クライン
+If you have to run off, at least
+tell Asuna where you're going.
+She's worried sick.
+Klein
 401500101_17_a
-そうか、ならいいけどよ
-まあ……その、なんだ
-クライン
+If you insist... Just don't beat
+yourself up, okay? And, umm...
+Well...
+Klein
 401500101_16_a
-俺も……わかってるつもりだ
-キリト
+I... I'm just trying to deal with
+it in my own way.
+Kirito
 401500101_15_a
-クライン、ありがとう
-でもその先は言わなくても大丈夫だ
-キリト
+Thanks, Klein.
+But...I'm okay, really.
+Kirito
 401500101_14_a
-月夜の黒猫団……だったか?
-そいつらはよ、別に
-お前ェのことを……
-クライン
+The "Moonlit Black Cats," right?
+Kirito... I don't think they
+Klein
 401500101_13_a
-でも……一度この時期に、
-ここに来ておきたいと思ったんだ
-キリト
+Still...I wanted to come here...
+To remember them...
+Kirito
 401500101_12_a
-景観は同じでも
-俺の知ってるあの場所じゃない
-キリト
+It may look similar, but it's not
+the same. Not the place where
+they...
+Kirito
 401500101_11_a
-ああ……
-ここはALOに作られた
-新生アインクラッド
-キリト
+Yeah... New Aincrad is just a copy:
+a recreation of Aincrad in ALO.
+Kirito
 401500101_10_a
-その花……手向けってやつか?
-クライン
+Those flowers... They're for them,
+huh?
+Klein
 401500101_9_a
-そ、そうだったのか……
-キリト
+I...see...
+Kirito
 401500101_8_a
-アスナ達から聞いたもんだからよ
-オレなりに頭働かせてみた
-っつーわけよ
-クライン
+Asuna and the others said you were
+missing. So I thought, if I was
+Kirito, where would I be?
+Klein
 401500101_7_a
-世の中クリスマスだって
-騒いでる時期に、突然お前ェと
-連絡取れなくなったって
-クライン
+It's Christmas, dude. Everyone's
+partying, but I couldn't reach
+you. I was worried, man.
+Klein
 401500101_6_a
-えっ……ク、クライン?
-どうしてここに
-キリト
+Wha
+? K-Klein? What are you
+doing here?
+Kirito
 401500101_5_a
-キリの字
-やっぱここにいたか
-クライン
+There you are, K-dawg. I thought
+I'd find you here.
+Klein
 401500101_4_a
-そして……
-キリト
+And...
+Kirito
 401500101_3_a
-ケイタ、テツオ、
-ダッカー、ササマル……
-キリト
+Keita, Tetsuo, Ducker, Sasamaru...
+Kirito
 401500101_2_a
 bg_03_dungeon
-………………
-キリト
+...
+Kirito
 401500101_1_a
 ああ、わかったよ
 キリト
@@ -173662,428 +173776,443 @@ bg_18_inn_restaurant_morning
 キリの字よぉ!
 クライン
 240131_1_a
-ありがとうな、サチ……
-キリト
+Thank you, Sachi...
+Kirito
 240128_22_a
-………………
-キリト
+...
+Kirito
 240128_21_a
-さて、明日も早いし、
-とっととログアウトして
-寝るとするかな……
-キリト
+Well, I've got an early start
+tomorrow. Time to log out
+and get some sleep.
+Kirito
 240128_20_a
-いや、気のせいかな?
-キリト
+Or was it my imagination?
+Kirito
 240128_19_a
-今……
-なんか歌が聞こえたような……
-キリト
+But...I could've sworn I heard
+a song...
+Kirito
 240128_18_a
-あ、ああ……
-俺……ログアウトするつもりで
-寝ちまってたのか……
-キリト
+O-Oh, yeah... I must have fallen
+asleep before I logged out...
+Kirito
 240128_17_a
-えっ……?
-キリト
+Huh...?
+Kirito
 240128_16_a
+humming Christmas tune
 ???
 240128_15_a
-………………
-キリト
+...
+Kirito
 240128_14_a
-照らしてあげられるような
-存在に……
-なれてるのかな?
-キリト
+And encourage them to reach
+higher... What do you think,
+Sachi?
+Kirito
 240128_13_a
-誰かを励ましてあげられるような
-存在……暗い夜道の足元を
-キリト
+I hope I've become someone who can
+shine a light on people's lives...
+Kirito
 240128_12_a
-俺は……
-キミが言ってくれたような……
-キリト
+I...hope I've proved you right...
+Kirito
 240128_11_a
-またこの時期が来たよ……
-キリト
+Tis this season again, huh?
+Kirito
 240128_10_a
-………………
-キリト
+...
+Kirito
 240128_9_a
-ああ、お休み
-キリト
+Goodnight, Yui.
+Kirito
 240128_8_a
-おやすみなさい……パパ
+Goodnight, Daddy.
+Yui
 240128_7_a
-じゃあお言葉に甘えて
-スリープモードに
-入らせていただきますね……
+I guess I will.
+Sleep mode, activate!
+Yui
 240128_6_a
-はい……ふぁぁ
+Okay, Daddy. 
+yawn
+Yui
 240128_5_a
-ユイは俺のことは構わず、
-そろそろ寝ていいんだぞ?
-キリト
+Yui, don't worry about me.
+Head to bed if you want.
+Kirito
 240128_4_a
-あ、ああ
-もう少ししたら現実に帰るよ
-キリト
+Oh, just another minute or two.
+I'll go back soon.
+Kirito
 240128_3_a
-パパ、まだログアウト
-しないんですか?
-ママはもうしちゃいましたよ
+Daddy? Why haven't you logged out
+yet? Mommy's already gone.
+Yui
 240128_2_a
 bg_11_home_bedroom_night
-………………
-キリト
+...
+Kirito
 240128_1_a
-もしかしたらあの時立ち直れた
-きっかけはそういう事だったのかも
-しれないな……
-キリト
+But maybe it was her words that
+helped me get back on my feet and
+move on...
+Kirito
 240127_23_a
-アスナ……いや、ありがとう
-正直あの塞ぎ込んでた頃のことは
-もうあんまり思い出せないけど……
-キリト
+Asuna... Thank you. Honestly,
+I can't remember much from when
+I locked myself away anymore...
+Kirito
 240127_22_a
-えと……ごめんね
-なんか勝手にベラベラ言っちゃって
-アスナ
+Umm... Sorry. I kinda got preachy
+there.
+Asuna
 240127_21_a
-………………
-キリト
+...
+Kirito
 240127_20_a
-虜囚となった人たちにとっての
-光になれるよう、また戦う
-決意をしたんじゃないのかな?
-アスナ
+You'd keep fighting so that one
+day you could be that sort of
+person to others in need.
+Asuna
 240127_19_a
-今はそんな存在じゃなくても、
-これからはそうなれるように……
-アスナ
+Yeah. You decided that even if you
+couldn't be the person she thought
+you were now...
+Asuna
 240127_18_a
-えと……サンタのことか?
-キリト
+Umm... You mean the Santa thing?
+Kirito
 240127_17_a
-キリトくんがきっと、その人に
-言われた言葉の意味をちゃんと
-思い出したからじゃないのかな……?
-アスナ
+It was what she said to you that
+broke you out of your shell,
+wasn't it?
+Asuna
 240127_16_a
-今話を聞いてようやく
-わかった気がする
-キリトくんがまた歩き出せたのは……
-アスナ
+After what you just told me,
+I think I finally understand why
+you were able to move on.
+Asuna
 240127_15_a
-アスナ……
-キリト
+Asuna...
+Kirito
 240127_14_a
-うつろな目に悲し気な表情……
-でも必死に戦おうとしてたね
-絶対に忘れられないよ
-アスナ
+You seemed lost, and there was an
+incredible sadness in your eyes.
+But you fought harder than ever.
+Asuna
 240127_13_a
-その後攻略組に戻ってきた
-キミのこともよく覚えてるからよ
-アスナ
+I remember that, you know? When
+you came back to the Assault
+Team...
+Asuna
 240127_12_a
-えっ……あ、ああ
-キリト
+I... Yeah, I guess I did.
+Kirito
 240127_11_a
-泣いて苦しんで……苦しみ抜いた後で
-キリトくんはまた……
-一歩踏み出したんだよね
-アスナ
+You cried, you suffered, and you
+moved on. You continued to live
+your life.
+Asuna
 240127_10_a
-えっ……?
-キリト
+Yeah...?
+Kirito
 240127_9_a
-でも……
-アスナ
+But Kirito...
+Asuna
 240127_8_a
-はは、その後俺はしばらく
-ずっと街の中で塞ぎ込んでたよ
-キリト
+Ha ha... After that I locked myself
+in my room in town for days...
+Kirito
 240127_7_a
-キリトくん……
-アスナ
+Kirito...
+Asuna
 240127_6_a
-どこにもないんだって……
-俺はそう考えてた
-キリト
+How worthless I am... How I have
+no right to protect anyone...
+Kirito
 240127_5_a
-それを思い出すたびに……俺はお前を
-守ってやれなかったのに、そんな風に
-言ってもらえる資格なんて……
-キリト
+Every time I remember what she
+said...all I can think of is how I
+failed to protect her...
+Kirito
 240127_4_a
-ダメな自分を励ましてくれる
-温かいサンタみたいだって……
-キリト
+That I was a warm and caring
+person who encouraged her to try
+harder...
+Kirito
 240127_3_a
-キリトは……
-赤鼻のトナカイって歌に出てくる……
-サンタクロースみたいだって
-キリト
+She said that...that I was like
+Santa from that song about the
+red-nosed reindeer...
+Kirito
 240127_2_a
 bg_03_forest_snow
-月夜の黒猫団……
-その仲間の一人は最後に……
-俺にこう言ったんだ
-キリト
+The Moonlit Black Cats... One of
+them...left me a message.
+Kirito
 240127_1_a
-どこかであいつらとまた出会って
-話がしたい……そう思ってる自分が
-いるのかもしれない
-キリト
+But there's still a part of me
+that wants to find them again,
+to talk with them...
+Kirito
 240125_21_a
-もう吹っ切れた……
-ちゃんと前に進めてる……
-そうは思っていても……
-キリト
+I thought I had moved on.
+I thought I could forget them...
+Kirito
 240125_20_a
-どうなんだろうな……
-キリト
+I don't know...
+Kirito
 240125_19_a
-キリトくんは……
-今でもその人たちに会いたい?
-アスナ
+Kirito...
+Do you still want to see them?
+Asuna
 240125_18_a
-そうだったんだね
-アスナ
+So that's what was bothering you.
+Asuna
 240125_17_a
-また会えるんじゃないかって、
-そんな気がしたんだ
-キリト
+Maybe I can see them again...
+Or at least, I get that feeling.
+Kirito
 240125_16_a
-つまり俺が救えなかった
-あいつらと……
-キリト
+Maybe the people I couldn't save
+are here somewhere too...
+Kirito
 240125_15_a
-もしかしたら
-ここにホロウ・データ……
-キリト
+And if...if SAO's Hollow Data
+is here...
+Kirito
 240125_14_a
-なにも関連性がない……
-なかなかそういう風には
-割り切れなくて……
-キリト
+So I'm having trouble accepting
+it... It can't just be pure
+coincidence...
+Kirito
 240125_13_a
-このALOはSAOと
-同基幹プログラムで動く世界
-キリト
+But ALO shares the same core
+system as SAO.
+Kirito
 240125_12_a
-さっき倒したホロウ・アニマって
-モンスター、確かに名前が一致してた
-だけなのかもしれないけど……
-キリト
+That Hollow Anima monster... maybe
+it was coincidence its name was so
+similar to the Hollow Area.
+Kirito
 240125_11_a
-………………
-アスナ
+...
+Asuna
 240125_10_a
-アバターが消去されてナーヴギアが
-脳を焼き切るまでのラグ……
-それが10秒ってことだろうな
-キリト
+I guess...ten seconds is how long
+it took for the NerveGear to fry
+your brain after your avatar died.
+Kirito
 240125_9_a
-蘇生アイテムは手に入れた……
-でもその効果は死んでから10秒
-以内っていう制限つきだったんだ
-キリト
+I found the revival item...and
+learned it only worked on someone
+dead for less than ten seconds.
+Kirito
 240125_8_a
-そんなアイテムが……
-そ、それでどうなったの?
-アスナ
+I never heard about that...
+So...what happened?
+Asuna
 240125_7_a
-そのMobを倒すと、プレイヤー蘇生
-アイテムが手に入る……
-そんな噂があってな
-キリト
+There was a rumor that this boss
+dropped an item that could revive
+a player.
+Kirito
 240125_6_a
-えっ?
-アスナ
+Was that even possible?
+Asuna
 240125_5_a
-死んだプレイヤーが生き返るかどうか
-試してみたことがあったんだ……
-キリト
+I wanted to see if defeating it
+would really let me bring a dead
+player back to life...
+Kirito
 240125_4_a
-俺はその後このクリスマスの時期に
-現れるフラグMobを倒して、
-キリト
+The Christmas after it happened,
+I went in search of a special
+monster.
+Kirito
 240125_3_a
-アスナ
+I do.
+Asuna
 240125_2_a
 bg_03_forest_snow
-昔SAOでギルドに入って、
-大事な人達を失ってしまったって……
-言ってただろ?
-キリト
+A long time ago, I joined a guild
+in SAO and lost people very
+special to me. Remember?
+Kirito
 240125_1_a
-はは、そうか……アスナには
-前少し話したことだけど……
-キリト
+Ha ha, nice one...
+Asuna... I told you about
+this briefly once before...
+Kirito
 240123_18_a
-ふふっ、パートナーの心境の変化は
-つぶさに見逃さないのが、
-恋人のユニークスキルってやつだよ
-アスナ
+Hehe, reading my boyfriend's heart
+is my very own unique skill!
+Unlocked at love level a million!
+Asuna
 240123_17_a
-はは……アスナには敵わないな
-どうしてわかったんだ?
-キリト
+Ha ha, I give up. You can see
+right through me, Asuna.
+What tipped you off?
+Kirito
 240123_16_a
-……!
-キリト
+I...
+Kirito
 240123_15_a
-このクリスマスという時期に
-対して……かな?
-アスナ
+I think it's the Christmas season
+that's got you upset. So, am I
+right?
+Asuna
 240123_14_a
-ああ、ちょっと正確じゃなかったね
-ホロウって言葉に
-対してというよりも……
-アスナ
+No, I'm not talking about that
+anymore. I don't think it's the
+Hollow Area that's bothering you.
+Asuna
 240123_13_a
-俺は別に……
-ホロウ・エリアに対して
-特にそんな感情は……
-キリト
+What are you talking about? The
+Hollow Area didn't traumatize me
+that much...
+Kirito
 240123_12_a
-えっ?
-俺……!?
-キリト
+Wait a second!
+Me...?!
+Kirito
 240123_11_a
-そっか……
-じゃあまだ囚われてるのは……
-キリトくんなのかもね
-アスナ
+I see... So I guess the only one
+still imprisoned by their past is
+you.
+Asuna
 240123_10_a
-フィリアはもう過去の辛い
-思い出に囚われないくらい、
-強くなってるよ……
-キリト
+Philia's grown stronger.
+She won't let a painful past
+dictate her future anymore.
+Kirito
 240123_9_a
-い、いや……最初は俺も
-そうなってるんじゃないかって
-心配したんだけど……杞憂だったよ
-キリト
+Actually...no, she wasn't.
+I was worried about her at first
+too, but she seemed fine.
+Kirito
 240123_8_a
-フィリア……ホロウって言葉に
-やっぱりセンシティブになってた?
-アスナ
+It's about Philia... She was pretty
+shaken when she heard the
+word "Hollow," wasn't she?
+Asuna
 240123_7_a
-なあ、アスナ
-突然散歩だなんてどうしたんだ?
-キリト
+Hey Asuna... What's up? Why the
+sudden urge for an evening stroll?
+Kirito
 240123_6_a
-………………
-アスナ
+...
+Asuna
 240123_5_a
-今は冬……ALOは実際の季節感が
-ある程度反映されてるから……
-キリト
+And it's winter now... ALO's
+seasons are based somewhat
+on the real world.
+Kirito
 240123_4_a
-ああ、針葉樹林って
-元々寒い気候のところに
-生える樹だからな
-キリト
+Yeah, it would be. Coniferous
+trees like these only grow in
+cold climates.
+Kirito
 240123_3_a
-わーっ、やっぱりちょっと寒いね
-アスナ
+Brrr!
+It's kinda cold out here, huh?
+Asuna
 240123_2_a
 bg_03_forest_snow
-………………
-キリト
+...
+Kirito
 240123_1_a
-えっ……?
-キリト
+Huh...?
+Kirito
 240121_24_a
-ねえ、キリトくん
-もうちょっとだけ、
-夜のお散歩、いいかな?
-アスナ
+Hey Kirito? Can we stay on a bit
+longer? I want to go for a walk
+together.
+Asuna
 240121_23_a
-………………
-アスナ
+...
+Asuna
 240121_22_a
-ああ……
-キリト
+Right... Good...
+Kirito
 240121_21_a
-そ、そうなんだ……
-アスナ
+I...see...
+Asuna
 240121_20_a
-い、いやフィリアも一瞬それを連想
-したんだけど、結局名前が近かった
-だけで、特になにもなかったよ
-キリト
+N-No, Philia thought so for a
+second too, but it seems like it's
+just the name that's similar.
+Kirito
 240121_19_a
-ホロウ……
-SAOのホロウ・エリアと
-なにか関係が……?
-アスナ
+Hollow... Like the Hollow Area
+back in SAO? Are they related?
+Asuna
 240121_18_a
-パパとフィリアさんで、森で
-ホロウ・アニマというモンスターを
-倒して素材を手に入れただけですよ
+Daddy and Philia fought a big
+monster called a Hollow Anima
+and got materials. That's all.
+Yui
 240121_17_a
+Mommy.
+Yui
 240121_16_a
-森でなにかあったの……?
-アスナ
+Did something happen in the woods?
+Asuna
 240121_15_a
-えっ、そんなことは……
-キリト
+I have? N-No, that's...
+Kirito
 240121_14_a
-なんか戻ってきてからのキリトくん
-ちょっと変かも……
-アスナ
+Ever since you got back, you've
+been acting kinda weird...
+Asuna
 240121_13_a
-ん、なんだ?
-キリト
+Huh? What is it?
+Kirito
 240121_12_a
-キリトくん……?
-アスナ
+Kirito...?
+Asuna
 240121_11_a
-ああ……
-キリト
+I had fun too...
+Kirito
 240121_10_a
-うん、そうだね
-今日のクリスマスパーティ、
-すっごく楽しかったね、キリトくん
-アスナ
+Yeah, let's. But just so you know,
+I had a lot of fun at the Christmas
+party with you today.
+Asuna
 240121_9_a
-はは、すまん
-さてそろそろ俺たちも落ちるか
-キリト
+Ha ha, sorry. Anyway, it's getting
+late. Want to log out?
+Kirito
 240121_8_a
-もーっ、キリトくん
-わざわざ言わなくてもいいでしょ!
-アスナ
+Oh, cut it out, Kirito!
+Stop rubbing it in!
+Asuna
 240121_7_a
-はは、
-相変わらずアスナは怖い物が
-苦手だな
-キリト
+Ha ha, I see you're still a
+scaredy-cat when it comes
+to the paranormal.
+Kirito
 240121_6_a
-そ、そっか……
-良かった～
-アスナ
+W-Well... Good...
+That's a relief...
+Asuna
 240121_5_a
-はい、
-ママも怖がらなくていいんですよ
+That's correct. So you don't have
+to be scared, Mommy.
+Yui
 240121_4_a
-い、いやそいつはもう倒したよ
-だからもう大丈夫だって
-キリト
+Y-Yeah, there was...but I took
+care of it. It's gone now.
+Kirito
 240121_3_a
-この近くの森で幽霊が出た!?
-アスナ
+Th-There's a ghost in the woods?!
+Asuna
 240121_2_a
 bg_13_home_lounge_sunset
-えっ!?
-アスナ
+Wh-Wh-What?!
+Asuna
 240121_1_a
 アイアイサ～!
 ストレア

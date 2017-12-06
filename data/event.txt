@@ -476,6 +476,11 @@ images/event/4073/4073_top.png
 images/event/4073/4073_banner.png
 images/event/4073/4073_banner.png
 Monsters in the Castle of Mirage
+images/event/4071/event_item_4071.png
+images/event/4071/4071_top.png
+images/event/4071/4071_banner.png
+images/event/4071/4071_banner.png
+Gifts from the Snowy Sky
 Medal Scout
 images/event/4070/4070_top.png
 images/event/4070/4070_banner.png

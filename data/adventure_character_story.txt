@@ -1,4 +1,14 @@
 Character Story
+[Snow Blessings] Sachi Lv.80
+Character Story
+[Snow Blessings] Sachi Lv.70
+Character Story
+[Snow Blessings] Sachi Lv.50
+Character Story
+[Snow Blessings] Sachi Lv.30
+Character Story
+[Snow Blessings] Sachi Lv.10
+Character Story
 [Looking Back Beauty] Sinon Lv.80
 Character Story
 [Looking Back Beauty] Sinon Lv.70
@@ -1088,6 +1098,16 @@ Character Story
 [The King of Poker] Kirito Lv.30
 Character Story
 [The King of Poker] Kirito Lv.10
+Character Story
+[Guide in Snow] Kirito Lv.80
+Character Story
+[Guide in Snow] Kirito Lv.70
+Character Story
+[Guide in Snow] Kirito Lv.50
+Character Story
+[Guide in Snow] Kirito Lv.30
+Character Story
+[Guide in Snow] Kirito Lv.10
 Character Story
 [Offer Lifeblood] Kirito Lv.80
 Character Story

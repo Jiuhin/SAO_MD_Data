@@ -894,6 +894,27 @@ Complete "Monsters in the Castle of Mirage (Master +1)" under 45 Sec.
 Complete "Monsters in the Castle of Mirage (Master)" under 45 Sec.
 4073003,2,45
 Complete "Monsters in the Castle of Mirage (EX)" under 45 Sec.
+<E6
+4071024,2,9,1
+Complete "Gifts from the Snowy Sky (Master +1)" with at least one spear character.
++D6
+4071025,2
+Complete "Gifts from the Snowy Sky (Master +1)" without down.
++C6
+4071024,2
+Complete "Gifts from the Snowy Sky (Master)" without down.
+4071025,2,45
+Complete "Gifts from the Snowy Sky (Master +1)" under 45 Sec.
+4071025,2,60
+Complete "Gifts from the Snowy Sky (Master +1)" in under 1min.
+4071025
+Complete "Gifts from the Snowy Sky (Master +1)".
+4071024,2,45
+Complete "Gifts from the Snowy Sky (Master)" under 45 Sec.
+4071024,2,60
+Complete "Gifts from the Snowy Sky (Master)" in under 1min.
+4071024
+Complete "Gifts from the Snowy Sky (Master)".
 4070014,1,1,2
 Complete "Carol Under the Starry Sky (Master+1)" with at least two sword characters.
 4070015,1,8,1
@@ -1508,23 +1529,23 @@ Complete "Final Battle (Master)".
 Complete "Final Battle".
 Of 
 401501,55000
-イベント「クリスマスの記憶」でイベントポイントを55000ポイント以上獲得する
+Earn a score of 5,500,000 in the "Memories of Christmas" event.
 Oe 
 401501,45000
-イベント「クリスマスの記憶」でイベントポイントを45000ポイント以上獲得する
+Earn a score of 4,500,000 in the "Memories of Christmas" event.
 Jd 
 2020021-2020022-2020061-2020062-2020063-2020064-2020065,50
-ギルドでイベント「クリスマスの記憶」の闇の巨人 サイクロプスを50体討伐する
-4015015,3,60
-「月夜の黒猫団 絶級+1」を60秒未満でクリア
+Defeat 50 of Cyclops the Dark Giant from "Memories of Christmas" in the guild. 
+4015015,3,45
+Complete "The Moonlit Black Cats (Master +1)" in under 45 secs.
 /b 
 4015015
-「月夜の黒猫団 絶級+1」クリア
+Complete "The Moonlit Black Cats (Master +1)".
 +a 
 4015014,3
-「月夜の黒猫団 絶級」を一度もダウンしないでクリア
+Complete "The Moonlit Black Cats (Master)" without down.
 4015014
-「月夜の黒猫団 絶級」クリア
+Complete "The Moonlit Black Cats (Master)".
 /_ 
 ]70
 4015010

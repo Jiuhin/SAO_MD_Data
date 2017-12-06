@@ -3991,6 +3991,106 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 25
+Carol Under the Starry Sky (Master +1)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 24
+Carol Under the Starry Sky (Master)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 23
+Carol Under the Starry Sky (EX)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 22
+Carol Under the Starry Sky (Expert)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 21
+Carol Under the Starry Sky (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Gifts from the Sky
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Warmth
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+In the Seafloor Cave
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Unexplained Disappearance
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Regret
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Gift for Mom
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+During a War
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Confusion
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+New Quest
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Unforgettable Person
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+With Feliz
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Undine Girl
 "Guardolf The Reindeer" is back and more powerful.
 Be careful when it starts swingging its horns around!
 Figure out where to parry right away and defeat it!
@@ -13850,6 +13950,106 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 25
+Carol Under the Starry Sky (Master +1)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 24
+Carol Under the Starry Sky (Master)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 23
+Carol Under the Starry Sky (EX)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 22
+Carol Under the Starry Sky (Expert)
+"Weihnachten hermit" hidden in the Seafloor Cave
+Make a brave try and tackle the enemy
+right after dodging their powerful attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 21
+Carol Under the Starry Sky (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Gifts from the Sky
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Warmth
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+In the Seafloor Cave
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Unexplained Disappearance
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Regret
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Gift for Mom
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+During a War
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Confusion
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+New Quest
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Unforgettable Person
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+With Feliz
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Undine Girl
 "Guardolf The Reindeer" is back and more powerful.
 Be careful when it starts swingging its horns around!
 Figure out where to parry right away and defeat it!

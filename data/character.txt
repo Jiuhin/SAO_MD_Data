@@ -1,22 +1,14 @@
-P{6
-(k5
-X_4
-lh3
-(/1
-dn.
-Xz-
-</-
-p5,
-01+
-ll)
-Lu'
-h}%
-TK%
-<N$
-pz"
-dp!
-$I!
-PB 
+T65
+d}3
+<U3
+<v2
+,82
+Le,
+dW(
+Pz&
+4Q&
+,G%
+p}"
 walk
 wakeup
 wait
@@ -181,7 +173,6 @@ dead
 dash
 damage
 charge_old
-"DZ
 charge
 back_step
 attack_3
@@ -539,7 +530,6 @@ wait
 stun
 step
 skill_16310101
-zDps
 skill_163101
 skill_161201
 skill_161102
@@ -631,6 +621,7 @@ wait
 stun
 step
 m5	
+HDl
 skill_103125
 skill_102202
 skill_101101
@@ -717,6 +708,7 @@ wakeup
 wait
 stun
 step
+HD:%
 skill_103122
 skill_102201
 skill_101101
@@ -1522,7 +1514,6 @@ wakeup
 wait
 stun
 step
-zDn
 skill_2313001
 	5	
 skill_23130
@@ -1947,7 +1938,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184011
-Pooka in ALO. She asks her sister, Rain, why she didn't join her in the choir concert but Rain doesn't tell her sister why. After the talk, Seven gets invited to Agil's bar in the real world.
+A Pooka in ALO. Seven is upset at her sister, Rain, for skipping Seven's Concert of the Carols. When she asks why, Rain dodges the question, but Seven soon finds herself invited to Agil's cafe in the real world...
 serif
 4_seven_184011
 Seven
@@ -1957,7 +1948,48 @@ wakeup
 wait
 stun
 step
-HD 
+skill_184104
+skill_182101
+skill_181101
+parry
+parried
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_184104
+skill_182101
+skill_181101
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_185004
+An SAO player. Sachi is asked to switch weapons from a spear to a sword after Kirito joins the Moonlit Black Cats. However, she's having trouble learning how to fight up close...
+serif
+5_sachi_185004
+Sachi
+[Snow Blessings] Sachi
+walk
+wakeup
+wait
+stun
+step
+HD8
 skill_184102
 skill_182101
 skill_181101
@@ -2041,7 +2073,7 @@ wakeup
 wait
 stun
 step
-zDB!
+zDZ
 skill_184101
 skill_182101
 skill_181101
@@ -2073,7 +2105,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_185001
-Leprechaun in ALO. Before the athletic festival, Lisbeth and Leafa realize that they are not good enough as they check the list of the group members. They attempt to use some buff effect to swing the balance in their favor.
+A Leprechaun in ALO. Before the athletic festival, Lisbeth and Leafa realize that they are not good enough as they check the list of the group members. They attempt to use some buff effect to swing the balance in their favor.
 serif
 5_lisbeth_185001
 Lisbeth
@@ -2115,7 +2147,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184011
-Pooka in ALO. She asks her sister, Rain, why she didn't join her in the choir concert but Rain doesn't tell her sister why. After the talk, Seven gets invited to Agil's bar in the real world.
+A Pooka in ALO. Seven is upset at her sister, Rain, for skipping Seven's Concert of the Carols. When she asks why, Rain dodges the question, but Seven soon finds herself invited to Agil's cafe in the real world...
 serif
 4_seven_184011
 Seven
@@ -2198,7 +2230,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184008
-OS player. Seven joins the local karaoke competition which uses the AR function of Augma. The old crowd flatters her but soon, people realize who she is. 
+An OS player. Seven joins the local karaoke competition which uses the AR function of Augma. The old crowd flatters her but soon, people realize who she is. 
 serif
 4_seven_184008
 Seven
@@ -2239,7 +2271,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184007
-SAO Player who belongs to a guild called "Moonlit Black Cats". She continues this game with close friends to buy a home of their guild, fighting against the fear of death.
+A SAO Player who belongs to a guild called "Moonlit Black Cats". She continues this game with close friends to buy a home of their guild, fighting against the fear of death.
 serif
 2_sachi_22002
 Sachi
@@ -2281,7 +2313,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184006
-OS player. She tries surfing in the wave pool and somehow pulls off riding a wave though it's her very first time. Kirito understands that she's fine if she stays out of water. Then he hears a scream.
+An OS player. She tries surfing in the wave pool and somehow pulls off riding a wave though it's her very first time. Kirito understands that she's fine if she stays out of water. Then he hears a scream.
 serif
 4_leafa_184006
 Suguha
@@ -2373,6 +2405,7 @@ wakeup
 wait
 stun
 step
+HDBN
 skill_18310101
 skill_183101
 skill_182101
@@ -2472,7 +2505,9 @@ down
 dead
 dash
 damage
+"DR
 charge_old
+"D>
 charge
 back_step
 attack_3
@@ -2516,9 +2551,8 @@ down
 dead
 dash
 damage
-"DB
 charge_old
-"D.
+"Dj
 charge
 back_step
 attack_3
@@ -2538,7 +2572,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_165003
-ALO player, Sylph.Sakuya summons Leafa to their manor and informs her that the Christmas tree on the grounds is withering. Leaf sets out to find a new tree with Rekon...
+A Sylph in ALO. The Sylph lord, Sakuya, sends Leafa an urgent message. Sylvain's beloved Christmas tree rotted in storage, so Leafa grabs Recon and rushes out to find a replacement...
 serif
 5_leafa_165003
 Leafa
@@ -2564,6 +2598,7 @@ down
 dead
 dash
 damage
+"D.
 charge_old
 charge
 back_step
@@ -2697,9 +2732,7 @@ down
 dead
 dash
 damage
-"DJ
 charge_old
-"D6
 charge
 back_step
 attack_3
@@ -2790,7 +2823,9 @@ down
 dead
 dash
 damage
+"D:
 charge_old
+"D&
 charge
 back_step
 attack_3
@@ -2834,8 +2869,8 @@ down
 dead
 dash
 damage
-"D>
 charge_old
+"Dr
 charge
 back_step
 attack_3
@@ -2954,6 +2989,7 @@ wakeup
 wait
 stun
 step
+zD6
 skill_16310301
 skill_163103
 skill_161201
@@ -2969,7 +3005,9 @@ down
 dead
 dash
 damage
+"DbQ
 charge_old
+"DNS
 charge
 back_step
 attack_3
@@ -3015,7 +3053,6 @@ dead
 dash
 damage
 charge_old
-"Dn
 charge
 back_step
 attack_3
@@ -3059,9 +3096,7 @@ down
 dead
 dash
 damage
-"Dn
 charge_old
-"DZ
 charge
 back_step
 attack_3
@@ -3108,7 +3143,9 @@ down
 dead
 dash
 damage
+"Df
 charge_old
+"DR
 charge
 back_step
 attack_3
@@ -3183,7 +3220,6 @@ wakeup
 wait
 stun
 step
-DL(
 skill_163113
 skill_161201
 skill_161102
@@ -3199,7 +3235,9 @@ down
 dead
 dash
 damage
+"DZ
 charge_old
+"DF
 charge
 back_step
 attack_3
@@ -3229,6 +3267,7 @@ wakeup
 wait
 stun
 step
+zDf$
 skill_16310101
 skill_163101
 skill_161201
@@ -3244,9 +3283,7 @@ down
 dead
 dash
 damage
-"DVf
 charge_old
-"DBh
 charge
 back_step
 attack_3
@@ -3276,7 +3313,6 @@ wakeup
 wait
 stun
 step
-zDjw
 skill_16310101
 skill_163101
 skill_161201
@@ -3336,6 +3372,7 @@ down
 dead
 dash
 damage
+"Dr
 charge_old
 charge
 back_step
@@ -3381,9 +3418,8 @@ down
 dead
 dash
 damage
-"DB
 charge_old
-"D.
+"Dv
 charge
 back_step
 attack_3
@@ -3427,9 +3463,7 @@ down
 dead
 dash
 damage
-"Dz
 charge_old
-"Df
 charge
 back_step
 attack_3
@@ -3474,7 +3508,6 @@ dead
 dash
 damage
 charge_old
-"Dv
 charge
 back_step
 attack_3
@@ -3504,7 +3537,7 @@ wakeup
 wait
 stun
 step
-aDd
+aDf
 skill_144102
 skill_141201
 skill_141101
@@ -3823,7 +3856,6 @@ wait
 stun
 step
 skill_14310601
-D2/
 skill_143106
 skill_141202
 %(	
@@ -4367,7 +4399,7 @@ wakeup
 wait
 stun
 step
-zD2
+zDz
 skill_123112
 skill_121202
 skill_121101
@@ -4944,7 +4976,6 @@ wakeup
 wait
 stun
 step
-zDb
 skill_104101
 skill_102201
 skill_101101
@@ -5030,6 +5061,7 @@ wakeup
 wait
 stun
 step
+zDB
 skill_104102
 skill_102201
 skill_101101
@@ -5062,7 +5094,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_105001
-Imp in ALO. Yuuki tries to solve the case of the Vampire with Leafa. She hears that a vampire gets a full nelson on a woman and sucks her blood but she wonders if that's actually happening in ALO.
+An Imp in ALO. Yuuki tries to solve the case of the Vampire with Leafa. She hears that a vampire gets a full nelson on a woman and sucks her blood but she wonders if that's actually happening in ALO.
 serif
 5_yuuki_105001
 Yuuki
@@ -5411,7 +5443,6 @@ wakeup
 wait
 stun
 step
-HDnX
 skill_103122
 skill_102201
 skill_101101
@@ -6922,7 +6953,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84035
-Imp in ALO. Yuuki is assigned to do night watch during the pirate quest. She easily gets sleepy in the dark, so asks for some advices to others.
+An Imp in ALO. Yuuki is assigned to do night watch during the pirate quest. She easily gets sleepy in the dark, so asks for some advices to others.
 serif
 4_yuuki_84035
 Yuuki
@@ -7503,7 +7534,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84018
-ALO player. Cait Sith kitty cat. In the Dogfight-Bout, Silica gets her Fire-Fox equipment and she likes it. She wants her friend Liz to agree with her but Liz does not understand, and at last it turns into a quarrel.
+An ALO player. Cait Sith kitty cat. In the Dogfight-Bout, Silica gets her Fire-Fox equipment and she likes it. She wants her friend Liz to agree with her but Liz does not understand, and at last it turns into a quarrel.
 serif
 4_silica_84018
 Silica
@@ -8507,7 +8538,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_65007
-Undine in ALO. Ausna is shopping for a special Christmas gift for kirito. While shopping she bumps into Leaf and finds out they are both looking for the same item!
+An Undine in ALO. Asuna is out looking for an in-game Christmas gift for Kirito. She runs into Leafa at a shop, but Leafa has the same present in mind...
 serif
 5_asuna_65007
 Asuna
@@ -8665,8 +8696,6 @@ wakeup
 wait
 stun
 step
-/Dl
-/DP
 skill_64103
 skill_62101
 %&'
@@ -8961,6 +8990,7 @@ wakeup
 wait
 stun
 step
+/D8
 skill_63131
 skill_62101
 %&'
@@ -9099,7 +9129,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64029
-ALO player, Cait Sith. After Star Festival Quest, Silica heads to Another Quest which is based on Finnish traditional star festival. The story unfolds as the old couple became stars after their deaths.
+An ALO player, Cait Sith. After Star Festival Quest, Silica heads to Another Quest which is based on Finnish traditional star festival. The story unfolds as the old couple became stars after their deaths.
 serif
 4_silica_64029
 Silica
@@ -9148,7 +9178,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64028
-Imp in ALO. After enjoying her vacation on the beach, Yuuki learns fishing from Kirito. She's too impatient and ends up jumping into the sea to catch fish. 
+An Imp in ALO. After enjoying her vacation on the beach, Yuuki learns fishing from Kirito. She's too impatient and ends up jumping into the sea to catch fish. 
 serif
 4_yuuki_64028
 Yuuki
@@ -10632,7 +10662,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44004
-Leprechaun in ALO. Nijika has success with her concert in her reality and receives a lot of feedback because it went on live. She gets to do another concert in ALO but Seven feels a little left out.
+ALO player, Leprechaun. Nijika's real-world Christmas concert is streamed live and goes viral. She's booked to perform another one in ALO, but Seven starts feeling a little down...
 serif
 4_rain_44004
 Rain
@@ -10674,7 +10704,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44004
-Leprechaun in ALO. Nijika has success with her concert in her reality and receives a lot of feedback because it went on live. She gets to do another concert in ALO but Seven feels a little left out.
+ALO player, Leprechaun. Nijika's real-world Christmas concert is streamed live and goes viral. She's booked to perform another one in ALO, but Seven starts feeling a little down...
 serif
 4_rain_44004
 Rain
@@ -10849,6 +10879,47 @@ wakeup
 wait
 stun
 step
+skill_34105
+skill_32202
+skill_31201
+parry
+parried
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_34105
+skill_32202
+skill_31201
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_10001
+battle_cutin_35004
+An SAO survivor, Spriggan in ALO. Now that Feliz has an advanced AI, she decides she wants to fight alongside Yui and her other friends. Kirito panics, fearing for the Sachi look-alike's safety, but Asuna urges him to calm down...
+serif
+5_kirito_35004
+Kirito
+[Guide in Snow] Kirito
+walk
+wakeup
+wait
+stun
+step
 skill_34104
 skill_32201
 skill_31201
@@ -10973,7 +11044,6 @@ wakeup
 wait
 stun
 step
-HD>m
 skill_33108
 skill_32202
 skill_31201
@@ -11351,7 +11421,7 @@ wakeup
 wait
 stun
 step
-zD>7
+zD<	
 skill_24116
 skill_22102
 skill_21201
@@ -11383,7 +11453,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_25008
-A mysterious knight from another world named Alice. While researching the origins of Christmas in this world with Eugeo she enters a church and comes across a girl praying to god.
+A mysterious knight from another world. Alice decides to learn about the origins of Christmas. After having an in-depth discussion about theology with Eugeo, she sees a girl praying in a church...
 serif
 5_alice_25008
 Alice
@@ -11724,7 +11794,7 @@ wakeup
 wait
 stun
 step
-HDr
+HD>
 skill_23146
 skill_22202
 skill_21201
@@ -11891,6 +11961,7 @@ wakeup
 wait
 stun
 step
+HDZA
 skill_23142
 skill_22102
 skill_21201
@@ -11932,7 +12003,7 @@ wakeup
 wait
 stun
 step
-Czg
+CFg
 skill_23137
 skill_22202
 skill_21201
@@ -12181,9 +12252,8 @@ wakeup
 wait
 stun
 step
-zD.b
 skill_2313101
-zDbd
+zD.d
 skill_23131
 skill_22102
 skill_21201
@@ -12266,7 +12336,6 @@ wakeup
 wait
 stun
 step
-zD6
 skill_2313001
 	5	
 skill_23130
@@ -12934,7 +13003,6 @@ wakeup
 wait
 stun
 step
-HD,T
 skill_23107
 skill_22202
 skill_21201
@@ -13391,7 +13459,6 @@ wakeup
 wait
 stun
 step
-DJ'
 skill_14117
 skill_12101
 skill_11201
@@ -13424,7 +13491,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_15008
-A mysterious knight from another world. Eugeo makes friends with the kids in the city. Alice warns him not to get too close with the kids since they will have to leave sooner or later.
+A mysterious knight from another world. Eugeo makes friends with a group of local children, but Alice advises him not to get too close. Sooner or later, they'll have to leave this world, and the fewer attachments here the better...
 serif
 5_eugeo_15008
 Eugeo

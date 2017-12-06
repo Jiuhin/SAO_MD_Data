@@ -412,6 +412,10 @@ Emit light over a wide range. Attack with some holy power.
 Luminous Garden
 Luminous Garden
 skill_icon_lance_3_{}
+A combination skill. Attack an enemy from the back using a spear with some cold air. Restores your HP.
+Slash Spur
+Slash Spur
+skill_icon_lance_3_{}
 Jump up high as swinging up a spear and unleash the dark force of the spear toward the ground.
 Demons Spear
 Demons Spear
@@ -2134,6 +2138,10 @@ A sword skill unique to Dual Blades. Thrust with one sword
 slash with the other.
 Double Circular
 Double Circular
+skill_icon_dualblade_3_{}
+A combination skill. Deliver slashes by moving two swords like drawing a snowflake. Restores your HP.
+White Cleave
+White Cleave
 skill_icon_dualblade_3_{}
 Wield two swords in both hands swiftly. After making a cross in the air and fall rapidly. Attack an enemy using the impact of the fall.
 Raging Fall
