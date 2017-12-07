@@ -1060,7 +1060,7 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Reduces required MP. Extends the effect time period of increasing attack.
 Sword Skill 3 Enhance Lv. 1
-slot_skill_icon_ss_enhance_3_8
+slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Enable to attack an enemy.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1

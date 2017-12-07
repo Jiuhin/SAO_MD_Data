@@ -3998,7 +3998,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 25
-Carol Under the Starry Sky (Master +1)
+Gifts from the Snowy Sky (Master +1)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -4006,7 +4006,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 24
-Carol Under the Starry Sky (Master)
+Gifts from the Snowy Sky (Master)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -4014,7 +4014,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 23
-Carol Under the Starry Sky (EX)
+Gifts from the Snowy Sky (EX)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -4022,7 +4022,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 22
-Carol Under the Starry Sky (Expert)
+Gifts from the Snowy Sky (Expert)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -4030,7 +4030,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 21
-Carol Under the Starry Sky (Int.)
+Gifts from the Snowy Sky (Int.)
 Finish Story
 Story
 bg_thumbnail_0
@@ -13957,7 +13957,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 25
-Carol Under the Starry Sky (Master +1)
+Gifts from the Snowy Sky (Master +1)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -13965,7 +13965,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 24
-Carol Under the Starry Sky (Master)
+Gifts from the Snowy Sky (Master)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -13973,7 +13973,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 23
-Carol Under the Starry Sky (EX)
+Gifts from the Snowy Sky (EX)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -13981,7 +13981,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 22
-Carol Under the Starry Sky (Expert)
+Gifts from the Snowy Sky (Expert)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -13989,7 +13989,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8004
 Quest 21
-Carol Under the Starry Sky (Int.)
+Gifts from the Snowy Sky (Int.)
 Finish Story
 Story
 bg_thumbnail_0

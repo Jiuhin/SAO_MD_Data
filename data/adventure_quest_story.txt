@@ -2206,50 +2206,70 @@ A Strange Campaign Quest
 Memory Defrag
 Memory Defrag
 《メモリー・デフラグ》
-Kirito is having peaceful days but still bothered by the Death Gun problem that Seijirou Kikuoka introduces to him.
-Decision
-Silica and Lisbeth transfer from SAO to ALO. They begin to interact with Leafa.
-Gerbera Again
-Sinon jumps off from a building. Her left leg disappears because of a minigun shot. When she is about to fall off, her gun fires...
-The End
-The targetted group was all defeated except for Behemoth. Sinon attemps a secret move running though blind angles and ruined buildings but fails to trick him.
-Blind Corner
-Sinon backs up others and attack at the same time. Dyne is shot by ブラスターBlaster? but still throwing a grenade as he's almost done.
-Dyne's Spirit
-Sinon counts 3 to 0. The field gets all covered with fire.
-Attack Together
-Behemoth, the minigun user, is a game changer. Dyne feels defeated in their attempt to win the battle and wants to surrender. However, Sinon doesn't give up and awake the team's fighting spirit. 
-Behemoth
-Sinon and her friends make a miscalculation. The cape guy was hired by their target. They fall into a trap.
-Bodyguard
-Friends are agitated to bear down the enemies  
-but minigun shootings are getting brutal. Sinon starts is swept by a sense of crisis  
-and decides to bring the cape guy down by herself.
-I'll do it
-After the target group scatters, the cape man takes off his cape  
-and reveals a minigun on his back...
-Man in a Cape
-One guy gets shot and logs out. The cape man dodges the second shot. 
-It's now all starting at the word of command...
-The Second Target
-Sinon keeps watching the target but her anxiety reminds her 
-of the terrible past.  
-She tries to shake her feeling.
-Shooting Up
-One day in December, Sinon and her friends ambush a tageted group 
-in wilderness. She recognizes a big guy in a cape 
-and feels uneasy.
-Ambush in Wilderness
-Sinon, a GGO player, gets her favorite weapon, PGM H
-cate II in the dungeon of SBC Glocken.
-Hecate II
+ALOでの穏やかな日々の中、
+キリトの頭の片隅に引っ掛かりを感じていた
+それは菊岡誠二郎に聞かされていた「死銃」事件……
+ALO内草原フィールド、SAOからコンバートした
+シリカとリズペットもALOに参加し、
+リーファとも打ち解け始めていた
+ガーベラ再び
+ビルから跳躍するシノン
+ミニガンの弾丸により消失する左足
+落下の刹那の攻防、彼女の銃口が敵を捉える……
+ジ・エンド
+標的達一群はベヒモスを残し壊滅
+シノンは死角を駆け、廃ビルから背後へ迂回するが
+奇襲は気取られていた……
+死角狙い
+援護と同時にシノンが特攻をかける
+ブラスターの凶弾に倒れるダインだったが
+散り際の榴弾投擲で漢を魅せる……！
+ダインのガッツ
+左翼に展開するアタッカー
+シノンの静かな3カウント
+3、2、1……フィールドが戦火に包まれる
+全員でアタック
+ミニガン使い《ベヒモス》の出現は彼我戦力差を逆転
+させ、窮状を憂えたダインは撤退を具申する
+しかし、シノンの恫喝が仲間達に攻勢を決意させ……
+ベヒモス
+シノンと仲間達の誤算
+マントの男は標的達が雇った用心棒であり
+たちまち窮地に陥る……
+用心棒
+高揚し制圧する仲間達を、ミニガンの斉射が襲う
+激しい弾幕に危機感を覚えたシノンは
+マントの男を自身が相手取る事を決意する
+私が殺す
+標的の部隊メンバーが散開する中
+男がマントを脱ぎ去ると
+露出した背中に担がれたミニガンが……
+マントの男の正体
+1射目の狙撃が着弾、標的の1人がログアウト
+次ぐ2射目はマントの男に避けられ
+仲間の号令の下、状況が開始される……
+第二ターゲット
+標的達を観測し続けるシノンは、マントの男に
+言い知れぬ恐怖を胸中に抱えていた
+過去を想起し、不安を振り払おうとする……
+狙撃開始
+荒野フィールドで標的を待ち伏せるシノン達
+マントを被った謎の巨漢の男に、シノンは嫌な
+感じを受けるが……
+荒野の待ち伏せ
+シノンは地下ダンジョンで一人、ボスの討伐に挑む
+ボスを倒すためには、一発のミスもなく、弱点に
+命中させなくてはならないが……
+ヘカート
 )/%
-A year after the SAO case, Seijirou Kikuoka from VR World Division introduces the Death Gun problem to Kirito.
-The World of Guns
-During the MMO show, the best player in GGO, 
-XeXeeD is shot by a man in a cape. 
-This man calls himself "Death Gun".
-Me, and this gun's name
+SAO事件から一年後、キリトは菊岡誠二郎に
+呼び出され、「死銃」事件の捜査依頼を受ける
+仮想世界での殺人にSAO事件が重なるキリトは……
+銃の世界
+Mストの番組画面に向かい、突如発砲するマントの男
+その時、画面内のゼクシードの身に異変が……
+男は自身を《デス・ガン》と名乗った
+俺と、この銃の名は
 Kirito reactivates ALO using "The Seed" which  
 Kayaba hands over to him 
 and goes back there with others.

@@ -896,7 +896,7 @@ Complete "Monsters in the Castle of Mirage (Master)" under 45 Sec.
 Complete "Monsters in the Castle of Mirage (EX)" under 45 Sec.
 <E6
 4071024,2,9,1
-Complete "Gifts from the Snowy Sky (Master +1)" with at least one spear character.
+Complete "Gifts from the Snowy Sky (Master)" with at least one lance character.
 +D6
 4071025,2
 Complete "Gifts from the Snowy Sky (Master +1)" without down.

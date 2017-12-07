@@ -1,3 +1,4 @@
+<		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -847,10 +848,10 @@ The Red-Nosed Reindeer
 Beater
 The World of Swords
 A	8
-600イベントpt
+600EP
 )A	8
-300イベントpt
-200イベントpt
+300EP
+200EP
 ?	8
 Christmas Upgrade Crystal x2
 ?	8
