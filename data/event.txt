@@ -462,11 +462,13 @@ images/event/4801/4801_name.png
 images/event/4801/4801_banner.png
 images/event/4801/4801_banner.png
 Shadowy Castle in the Night
+EP交換所
 images/common/event_point.png
 images/event/4701/4701_top.png
 images/event/4701/4701_banner.png
 images/event/4701/4701_banner.png
 [Ended] Breakthrough in Sand
+EP交換所
 images/common/event_point.png
 images/event/4701/4701_top.png
 images/event/4701/4701_banner.png

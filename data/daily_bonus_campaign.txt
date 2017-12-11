@@ -1,3 +1,5 @@
+Vpd
+Fan Event Bonus
 daily_bonus_xmas_bg
 daily_bonus_text_xmas
 Xmas Login Bonus

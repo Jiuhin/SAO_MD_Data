@@ -1,4 +1,5 @@
-<		
+H!	
+4 	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -495,6 +496,10 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+9Q9
+ホーリーセイバー
+ナイトブレードR4
+Polaris Spear R4
 - R3
 9%8
 - R2
@@ -660,6 +665,8 @@ Wind Medallion x10
 Water Medallion x10
 Fire Medallion x10
 Void Medallion x10
+Rainbow Essence x1
+Christmas Record Crystal x10
 Rainbow Essence x1
 ??? x10
 Memory Defrag All Stars
@@ -847,6 +854,8 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+A	8
+Memory Diamond x100
 A	8
 600EP
 )A	8
@@ -1054,6 +1063,16 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+Christmas Record Crystal x10
+Christmas Record Crystal x9
+Christmas Record Crystal x8
+Christmas Record Crystal x7
+Christmas Record Crystal x6
+Christmas Record Crystal x5
+Christmas Record Crystal x4
+Christmas Record Crystal x3
+Christmas Record Crystal x2
+Christmas Record Crystal x1
 Crimson Trump Card Crystal x10
 5]Y
 Crimson Trump Card Crystal x9
@@ -4675,6 +4694,17 @@ Col x6120
 Col x4012
 Col x2030
 Col x301
+1000EP
+750EP
+500EP
+300EP
+250EP
+200EP
+150EP
+100EP
+75EP
+50EP
+25EP
 - R3
 - R2
 - R3
@@ -6685,6 +6715,25 @@ Half Fox Mask x3
 Half Fox Mask x2
 Red Coral Dirk R3
 Red Coral Dirk R2
+New Spring Hacking Crystal x25
+New Spring Hacking Crystal x10
+Lv. 80 New Spring Key x1
+Lv. 70 New Spring Key x1
+Lv. 60 New Spring Key x1
+Lv. 50 New Spring Key x1
+Lv. 40 New Spring Key x1
+Lv. 30 New Spring Key x1
+Lv. 20 New Spring Key x1
+Lv. 10 New Spring Key x1
+New Spring Hacking Shard x15
+New Spring Hacking Shard x10
+New Year's Cuisine: Exquisite x10
+New Year's Cuisine: Fine x20
+New Year's Cuisine: Fine x15
+New Year's Cuisine: Fine x10
+New Year's Cuisine: Standard x30
+New Year's Cuisine: Standard x20
+New Year's Cuisine: Standard x15
 New Spring Holy Hacking Crystal x9
 New Spring Holy Hacking Crystal x8
 New Spring Holy Hacking Crystal x7
@@ -6739,12 +6788,18 @@ New Year's Cuisine: Standard x4
 New Year's Cuisine: Standard x3
 New Year's Cuisine: Standard x2
 New Year's Cuisine: Standard x1
+New Year's Cuisine: Exquisite x5
+New Year's Cuisine: Fine x23
+New Year's Cuisine: Standard x30
+New Year's Cuisine: Exquisite x4
+New Year's Cuisine: Fine x17
+New Year's Cuisine: Standard x26
 New Spring Holy Hacking Crystal x7
 New Spring Hacking Crystal x9
 New Spring Hacking Shard x5
 New Year's Cuisine: Exquisite x3
 New Year's Cuisine: Fine x12
-New Year's Cuisine: Standard x21
+New Year's Cuisine: Standard x17
 New Spring Holy Hacking Crystal x1
 New Spring Hacking Crystal x1
 New Spring Hacking Shard x1

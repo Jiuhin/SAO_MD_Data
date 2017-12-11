@@ -613,6 +613,9 @@ Silver Medal
 Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
+item_m_record_crystal_xmas
+You can use in Christmas Record Crystal Scout
+Christmas Record Crystal
 item_m_record_crystal_emerald
 You can attain in "The Crimson Trump
 Card"
@@ -642,26 +645,26 @@ item_m_record_crystal_emerald
 You can attain in the "YUKATA Night" Scout
 Yukata Night Record Crystal
 item_m_evolution_20007
-Upgrades characters
+Upgrades character
 ([Santa is coming] Seven, [Personal Santa] Rain only) 
 Christmas Upgrade Crystal
 item_m_evolution_20006
-Upgrades characters
+Upgrades character
 ([Captive Princess] Asuna only) 
 Rarity: High
 Birdcage Upgrade Crystal
 item_m_evolution_20005
-Upgrades characters
+Upgrades character
 ([Abounding Spring Water] Strea only) 
 Rarity: High
 Colored Leaf Upgrade Crystal
 item_m_evolution_20004
-Upgrades characters
+Upgrades character
 ([Rejoicing Witch] Leafa only) 
 Rarity: High
 Festival Upgrade Crystal
 item_m_evolution_20003
-Upgrades characters
+Upgrades character
 [Wacky Happy Halloween] Lisbeth only
 Rarity: High
 Halloween Upgrade Crystal

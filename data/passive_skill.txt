@@ -107,6 +107,10 @@ Attack of all party members increase by 6% when you are a leader.
 P-Members' Attack +6% (P-Leader)
 Attack of all party members increase by 3% when you are a leader.
 P-Members' Attack +3% (P-Leader)
+自分のパーティの闇属性キャラの攻撃とMPが1%増加する
+自パーティの闇属性の攻撃とMP+1%
+自分のパーティの闇属性キャラの攻撃とMPが3%増加する
+自パーティの闇属性の攻撃とMP+3%
 MP of all party members increase by 1%.
 Party Members' MP +1%
 MP of all party members increase by 3%.
@@ -153,6 +157,10 @@ Atk +10% (YUNA)
 MP Recovery on Kill (Premiere)
 Increases attack by 10% when equipped by Sachi.
 Atk +10% (Sachi)
+Increases attack by 10% when equipped by Seven.
+Atk +10% (Seven)
+レインが装備すると攻撃力が10%増加する
+レインの攻撃+10%
 Increases attack by 10% when equipped by Strea.
 Atk +10% (Strea)
 Increases attack by 3% when equipped by Silica.
@@ -629,6 +637,8 @@ Increases Holy-elem. character's HP & MP by 3%.
 HP & MP +3% (Holy)
 Reduces Holy-elem. character's Required MP by -10%, increases Critical damage by 10%
 Required MP -10% / Critical damage +10% (Holy)
+Reduces Holy-elem. character's Required MP by -10%.
+Required MP -10% (Holy)
 Increases Holy-elem. character's MP & def. by 3%.
 MP & Def. +3% (Holy)
 Increases Holy-elem. character's MP & def. by 6%.

@@ -3997,7 +3997,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 25
+Quest 5
 Gifts from the Snowy Sky (Master +1)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
@@ -4005,7 +4005,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 24
+Quest 4
 Gifts from the Snowy Sky (Master)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
@@ -4013,7 +4013,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 23
+Quest 3
 Gifts from the Snowy Sky (EX)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
@@ -4021,7 +4021,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 22
+Quest 2
 Gifts from the Snowy Sky (Expert)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
@@ -4029,7 +4029,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 21
+Quest 1
 Gifts from the Snowy Sky (Int.)
 Finish Story
 Story
@@ -13956,7 +13956,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 25
+Quest 5
 Gifts from the Snowy Sky (Master +1)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
@@ -13964,7 +13964,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 24
+Quest 4
 Gifts from the Snowy Sky (Master)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
@@ -13972,7 +13972,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 23
+Quest 3
 Gifts from the Snowy Sky (EX)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
@@ -13980,7 +13980,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 22
+Quest 2
 Gifts from the Snowy Sky (Expert)
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
@@ -13988,7 +13988,7 @@ right after dodging their powerful attack!
 Defeat All Enemies
 Quest
 bg_thumbnail_8004
-Quest 21
+Quest 1
 Gifts from the Snowy Sky (Int.)
 Finish Story
 Story

@@ -43,12 +43,9 @@ Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 10 seconds during standby.
 Emergency Heal (HP&MP) Lv.1
-slot_skill_icon_attack_healing_mp
-Restores 150 HP when attacking.
-MP Recovery Ratio Up Lv2
-slot_skill_icon_attack_healing_mp
-Restores 100 HP when attacking.
-MP Recovery Ratio Up Lv1
+slot_skill_icon_parry_healing_mp
+Gains 5 MP on a successful parry
+MP Recovery on Parry
 slot_skill_icon_skill_damage
 Increases skill damage by 10% vs Water-elem. enemies.
 Skill Damage Up (vs. Water) Lv. 2

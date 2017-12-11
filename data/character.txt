@@ -1,22 +1,15 @@
-lw6
-<S6
-(/6
-Tv4
-p14
-843
-$W2
-d31
-4P.
-4<,
-Hm)
-l?)
-DF'
-Xy%
-PB$
-pL"
-(w!
-Pp 
-XA	
+047
+pW2
+dh0
+xP.
+DX-
+<h+
+0q'
+8,&
+Tw!
+pp 
+(p	
+pA	
 walk
 wakeup
 wait
@@ -181,6 +174,7 @@ dead
 dash
 damage
 charge_old
+"DFH
 charge
 back_step
 attack_3
@@ -537,9 +531,8 @@ wakeup
 wait
 stun
 step
-zD"
 skill_16310101
-zDlE
+zDTE
 skill_163101
 skill_161201
 skill_161102
@@ -555,7 +548,6 @@ dead
 dash
 damage
 charge_old
-"DJ
 charge
 back_step
 attack_3
@@ -1063,7 +1055,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64034
-OS player, Asuna Yuuki. Whatever happens, she never loses her resolve or strength.
+An OS player, Asuna Yuuki. Whatever happens, she never loses her resolve or strength.
 serif
 4_asuna_64012
 Asuna
@@ -1261,7 +1253,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44003
-OS player. Rain is debating whether to continue playing in OS as Asuna asks her. She once answers that she has no time for that but Asuna's words change her mind.
+An OS player. Rain is debating whether to continue playing in OS as Asuna asks her. She once answers that she has no time for that but Asuna's words change her mind.
 serif
 4_rain_44003
 Rain
@@ -1303,7 +1295,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44002
-ALO player, Imp. After the Star Festival main quest, Yuuki tries another quest which is based on the Chinese legend. She initially feels of disgust for the main character, cattle herder.
+An ALO player, Imp. After the Star Festival main quest, Yuuki tries another quest which is based on the Chinese legend. She initially feels of disgust for the main character, cattle herder.
 serif
 4_yuuki_44002
 Yuuki
@@ -1344,7 +1336,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44001
-ALO player, Leprechaun. She brings her sister, Seven, and Seven's friend, Sphica to her area. Rain teaches Leprechaun way of smithing as those two girls have nothing to do. 
+An ALO player, Leprechaun. She brings her sister, Seven, and Seven's friend, Sphica to her area. Rain teaches Leprechaun way of smithing as those two girls have nothing to do. 
 serif
 4_rain_44001
 Rain
@@ -1386,7 +1378,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_34008
-Spriggan in ALO. Kirito doesn't leave the tent as Asuna and others are having fun on the beach. Even the girls cannot get him out of the tent but somehow he ends up getting out...
+A Spriggan in ALO. Kirito doesn't leave the tent as Asuna and others are having fun on the beach. Even the girls cannot get him out of the tent but somehow he ends up getting out...
 serif
 4_kirito_34008
 Kirito
@@ -1523,9 +1515,9 @@ wakeup
 wait
 stun
 step
+zDn
 skill_2313001
 	5	
-zD:
 skill_23130
 skill_22202
 skill_21101
@@ -1557,7 +1549,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24029
-ALO Player. Water fairy, Undine. While Asuna and friends are exploring Grimms' island, Cinderella's story begins and she is selected as Cinderella. Asuna get bullied by her stepmother and get fed up with. She, however, knows that the prince is Kirito...
+An ALO Player. Water fairy, Undine. While Asuna and friends are exploring Grimms' island, Cinderella's story begins and she is selected as Cinderella. Asuna get bullied by her stepmother and get fed up with. She, however, knows that the prince is Kirito...
 serif
 4_asuna_24029
 Asuna
@@ -1999,7 +1991,6 @@ wakeup
 wait
 stun
 step
-HD8
 skill_184102
 skill_182101
 skill_181101
@@ -2083,7 +2074,6 @@ wakeup
 wait
 stun
 step
-zDZ
 skill_184101
 skill_182101
 skill_181101
@@ -2209,6 +2199,7 @@ wakeup
 wait
 stun
 step
+TDr{
 skill_183108
 skill_182101
 skill_181101
@@ -2415,7 +2406,6 @@ wakeup
 wait
 stun
 step
-HDBN
 skill_18310101
 skill_183101
 skill_182101
@@ -2515,9 +2505,7 @@ down
 dead
 dash
 damage
-"DR
 charge_old
-"D>
 charge
 back_step
 attack_3
@@ -2561,8 +2549,8 @@ down
 dead
 dash
 damage
+"D>
 charge_old
-"Dj
 charge
 back_step
 attack_3
@@ -2608,7 +2596,6 @@ down
 dead
 dash
 damage
-"D.
 charge_old
 charge
 back_step
@@ -2742,7 +2729,9 @@ down
 dead
 dash
 damage
+"DRh
 charge_old
+"D>j
 charge
 back_step
 attack_3
@@ -2833,9 +2822,7 @@ down
 dead
 dash
 damage
-"D:
 charge_old
-"D&
 charge
 back_step
 attack_3
@@ -2879,8 +2866,9 @@ down
 dead
 dash
 damage
+"DF
 charge_old
-"Dr
+"D2
 charge
 back_step
 attack_3
@@ -2999,7 +2987,6 @@ wakeup
 wait
 stun
 step
-zD6
 skill_16310301
 skill_163103
 skill_161201
@@ -3015,9 +3002,8 @@ down
 dead
 dash
 damage
-"DbQ
+"D"Q
 charge_old
-"DNS
 charge
 back_step
 attack_3
@@ -3063,6 +3049,7 @@ dead
 dash
 damage
 charge_old
+"Dv
 charge
 back_step
 attack_3
@@ -3106,7 +3093,9 @@ down
 dead
 dash
 damage
+"Dv
 charge_old
+"Db
 charge
 back_step
 attack_3
@@ -3153,9 +3142,8 @@ down
 dead
 dash
 damage
-"Df
+"D&
 charge_old
-"DR
 charge
 back_step
 attack_3
@@ -3245,9 +3233,7 @@ down
 dead
 dash
 damage
-"DZ
 charge_old
-"DF
 charge
 back_step
 attack_3
@@ -3277,7 +3263,7 @@ wakeup
 wait
 stun
 step
-zDf$
+zD&$
 skill_16310101
 skill_163101
 skill_161201
@@ -3294,6 +3280,7 @@ dead
 dash
 damage
 charge_old
+"DJ
 charge
 back_step
 attack_3
@@ -3323,6 +3310,7 @@ wakeup
 wait
 stun
 step
+zDrJ
 skill_16310101
 skill_163101
 skill_161201
@@ -3382,7 +3370,7 @@ down
 dead
 dash
 damage
-"Dr
+"D2
 charge_old
 charge
 back_step
@@ -3428,8 +3416,9 @@ down
 dead
 dash
 damage
+"DJ
 charge_old
-"Dv
+"D6
 charge
 back_step
 attack_3
@@ -3474,6 +3463,7 @@ dead
 dash
 damage
 charge_old
+"Dn
 charge
 back_step
 attack_3
@@ -3547,7 +3537,8 @@ wakeup
 wait
 stun
 step
-aDf
+aDt
+aD&
 skill_144102
 skill_141201
 skill_141101
@@ -4002,6 +3993,7 @@ wakeup
 wait
 stun
 step
+Fbr
 skill_141202
 skill_141201
 skill_141101
@@ -4409,7 +4401,7 @@ wakeup
 wait
 stun
 step
-zDz
+zD:
 skill_123112
 skill_121202
 skill_121101
@@ -4986,6 +4978,7 @@ wakeup
 wait
 stun
 step
+zDji
 skill_104101
 skill_102201
 skill_101101
@@ -5071,7 +5064,7 @@ wakeup
 wait
 stun
 step
-zDB
+zDP
 skill_104102
 skill_102201
 skill_101101
@@ -5453,6 +5446,7 @@ wakeup
 wait
 stun
 step
+HDv+
 skill_103122
 skill_102201
 skill_101101
@@ -7586,7 +7580,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84017
-ALO player. Dark fairy, Imp. During the dual quest in the new area "Japanese Castle", Yuuki gets ran away from the opponent. As she decides to learn the complicated structure of the castle,  she starts training in the mood of as if he was a Ninja.
+An ALO player. Dark fairy, Imp. During the dual quest in the new area "Japanese Castle", Yuuki gets ran away from the opponent. As she decides to learn the complicated structure of the castle,  she starts training in the mood of as if he was a Ninja.
 serif
 4_yuuki_84017
 Yuuki
@@ -8597,7 +8591,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_65006
-SAO player. Vice Commander of the Knights of the Blood Oath and one o the top players in the Assault Team. Her ethnic costume is the reason for her shiny smile?
+An SAO player. Vice Commander of the Knights of the Blood Oath and one o the top players in the Assault Team. Her ethnic costume is the reason for her shiny smile?
 serif
 5_asuna_65006
 Asuna
@@ -8695,7 +8689,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_65004
-Undine in ALO. Asuna goes to the store to get some drinks during the athletic festival and finds Argo there. He is working there and getting some information talking with their customers.
+An Undine in ALO. Asuna goes to the store to get some drinks during the athletic festival and finds Argo there. He is working there and getting some information talking with their customers.
 serif
 5_asuna_65004
 Asuna
@@ -8706,6 +8700,7 @@ wakeup
 wait
 stun
 step
+/DX
 skill_64103
 skill_62101
 %&'
@@ -8745,7 +8740,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_65003
-Sylph in ALO. An NPC smith asks her to kill a monster. After doing some research, she suspects that the monster is created by the NPC and wonders if she should kill the monster.
+A Sylph in ALO. An NPC smith asks her to kill a monster. After doing some research, she suspects that the monster is created by the NPC and wonders if she should kill the monster.
 serif
 5_leafa_65003
 Leafa
@@ -8794,7 +8789,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_65002
-A Undine in ALO. Yuuki ends up learning Asuna's new technique that she developed during the SAO monster conquest quest. Somehow, many of powerful enemies appear, probably because of the sacred treasure Asuna has.
+An Undine in ALO. Yuuki ends up learning Asuna's new technique that she developed during the SAO monster conquest quest. Somehow, many of powerful enemies appear, probably because of the sacred treasure Asuna has.
 serif
 5_asuna_65002
 Asuna
@@ -8892,7 +8887,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64034
-OS player, Asuna Yuuki. Whatever happens, she never loses her resolve or strength.
+An OS player, Asuna Yuuki. Whatever happens, she never loses her resolve or strength.
 serif
 4_asuna_64012
 Asuna
@@ -8941,7 +8936,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64033
-Undine in ALO. Asuna is asked to be a cook during the pirate quest. She cooks using her cooking skills and the kitchen chef recognizes her skills. However, all of a sudden, some problem occurs.
+An Undine in ALO. Asuna is asked to be a cook during the pirate quest. She cooks using her cooking skills and the kitchen chef recognizes her skills. However, all of a sudden, some problem occurs.
 serif
 4_asuna_64033
 Asuna
@@ -8990,7 +8985,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64032
-Sylph in ALO. They are short on staff to carry the portable shrine at the festival. Leafa come by but she doesn't seem to be a big help.
+A Sylph in ALO. They are short on staff to carry the portable shrine at the festival. Leafa come by but she doesn't seem to be a big help.
 serif
 4_leafa_64032
 Leafa
@@ -9000,7 +8995,6 @@ wakeup
 wait
 stun
 step
-/D8
 skill_63131
 skill_62101
 %&'
@@ -9040,7 +9034,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64031
-OS player. Girls ask Asuna how she keeps her body in good shape since she's growing more beautiful. She tells that she works out playing OS and enjoys it.  
+An OS player. Girls ask Asuna how she keeps her body in good shape since she's growing more beautiful. She tells that she works out playing OS and enjoys it.  
 serif
 4_asuna_64031
 Asuna
@@ -9089,7 +9083,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64030
-OS player. At the festival, Asuna and Kirito find some monster that doesn't attack. As they are following the monster, they start thinking it might be steering them.
+An OS player. At the festival, Asuna and Kirito find some monster that doesn't attack. As they are following the monster, they start thinking it might be steering them.
 serif
 4_asuna_64030
 Asuna
@@ -9238,7 +9232,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64027
-OS player. Asuna is now recognized as a strategy genius. She gets some info that clearing the new quest requires sacrifice of NPC but she tries to find a way.
+An OS player. Asuna is now recognized as a strategy genius. She gets some info that clearing the new quest requires sacrifice of NPC but she tries to find a way.
 serif
 4_asuna_64027
 Asuna
@@ -9495,7 +9489,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64021
-ALO player. Dark fairy, Imp. Sphica is anxious about returning to school. Kirito asked Yui and Seven to look after and become friends with her. Therefore, Sphica is being really shy...
+An ALO player. Dark fairy, Imp. Sphica is anxious about returning to school. Kirito asked Yui and Seven to look after and become friends with her. Therefore, Sphica is being really shy...
 serif
 4_sphica_64021
 Sphica
@@ -9544,7 +9538,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64020
-ALO player. Wind fairy Sylph. Leafa's job is dairy maid. When she was milking a cow, she got her outfit dirty. Strea says that she is happy to give maid cloth made by her...
+An ALO player. Wind fairy Sylph. Leafa's job is dairy maid. When she was milking a cow, she got her outfit dirty. Strea says that she is happy to give maid cloth made by her...
 serif
 4_leafa_64020
 Leafa
@@ -9593,7 +9587,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64019
-NPC of ALO as a navigation pixie. When explored Anderson island, "The Last Pearl" event of Anderson fairy story occurred. Yui was selected as one of the fairies in the story.
+An NPC of ALO as a navigation pixie. When explored Anderson island, "The Last Pearl" event of Anderson fairy story occurred. Yui was selected as one of the fairies in the story.
 serif
 4_yui_64019
 Yui
@@ -9893,7 +9887,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64010
-ALO player. Water fairy, Undine. Asuna, Kirito and friends hides and seeks for a good player, but the player won't appear easily. One day, Asuna feels like she has been watched. It seems like there is a stalker...
+An ALO player. Water fairy, Undine. Asuna, Kirito and friends hides and seeks for a good player, but the player won't appear easily. One day, Asuna feels like she has been watched. It seems like there is a stalker...
 serif
 4_asuna_64010
 Asuna
@@ -10672,7 +10666,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44004
-ALO player, Leprechaun. Nijika's real-world Christmas concert is streamed live and goes viral. She's booked to perform another one in ALO, but Seven starts feeling a little down...
+An ALO player, Leprechaun. Nijika's real-world Christmas concert is streamed live and goes viral. She's booked to perform another one in ALO, but Seven starts feeling a little down...
 serif
 4_rain_44004
 Rain
@@ -10714,7 +10708,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44004
-ALO player, Leprechaun. Nijika's real-world Christmas concert is streamed live and goes viral. She's booked to perform another one in ALO, but Seven starts feeling a little down...
+An ALO player, Leprechaun. Nijika's real-world Christmas concert is streamed live and goes viral. She's booked to perform another one in ALO, but Seven starts feeling a little down...
 serif
 4_rain_44004
 Rain
@@ -10755,7 +10749,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44003
-OS player. Rain is debating whether to continue playing in OS as Asuna asks her. She once answers that she has no time for that but Asuna's words change her mind.
+An OS player. Rain is debating whether to continue playing in OS as Asuna asks her. She once answers that she has no time for that but Asuna's words change her mind.
 serif
 4_rain_44003
 Rain
@@ -10797,7 +10791,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44002
-ALO player, Imp. After the Star Festival main quest, Yuuki tries another quest which is based on the Chinese legend. She initially feels of disgust for the main character, cattle herder.
+An ALO player, Imp. After the Star Festival main quest, Yuuki tries another quest which is based on the Chinese legend. She initially feels of disgust for the main character, cattle herder.
 serif
 4_yuuki_44002
 Yuuki
@@ -10838,7 +10832,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_44001
-ALO player, Leprechaun. She brings her sister, Seven, and Seven's friend, Sphica to her area. Rain teaches Leprechaun way of smithing as those two girls have nothing to do. 
+An ALO player, Leprechaun. She brings her sister, Seven, and Seven's friend, Sphica to her area. Rain teaches Leprechaun way of smithing as those two girls have nothing to do. 
 serif
 4_rain_44001
 Rain
@@ -11003,7 +10997,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_35002
-Spriggan in ALO. He heads to the hollow cavity in the castle of the demon with Eugeo. They find some evil magic speller puts a spell on the demons and make them their servants. Kirito and Eugeo try to beat them up.
+A Spriggan in ALO. He heads to the hollow cavity in the castle of the demon with Eugeo. They find some evil magic speller puts a spell on the demons and make them their servants. Kirito and Eugeo try to beat them up.
 serif
 5_kirito_35002
 Kirito
@@ -11085,7 +11079,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_34009
-Spriggan in ALO. Kirito is selected to be a helmsman of the pirate ship during the pirate quest. Kirito initially has a hard time with the work but gets into it as he finds it fun to play.
+A Spriggan in ALO. Kirito is selected to be a helmsman of the pirate ship during the pirate quest. Kirito initially has a hard time with the work but gets into it as he finds it fun to play.
 serif
 4_kirito_34009
 Kirito
@@ -11127,7 +11121,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_34008
-Spriggan in ALO. Kirito doesn't leave the tent as Asuna and others are having fun on the beach. Even the girls cannot get him out of the tent but somehow he ends up getting out...
+A Spriggan in ALO. Kirito doesn't leave the tent as Asuna and others are having fun on the beach. Even the girls cannot get him out of the tent but somehow he ends up getting out...
 serif
 4_kirito_34008
 Kirito
@@ -11804,7 +11798,7 @@ wakeup
 wait
 stun
 step
-HD>
+HD6
 skill_23146
 skill_22202
 skill_21201
@@ -11836,7 +11830,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24043
-Sylph in ALO. Leafa teaches sword fighting to the pirates during the pirate quest. She realizes there is some educational mistake as she uses the method of Japanese art of fencing. 
+A Sylph in ALO. Leafa teaches sword fighting to the pirates during the pirate quest. She realizes there is some educational mistake as she uses the method of Japanese art of fencing. 
 serif
 4_leafa_24043
 Leafa
@@ -11961,7 +11955,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24040
-ALO player and  blacksmith fairy Leprechaun. At the festival, Lisbeth finds a stall where some old player sells crafts. The shop is ordinary, no different from the real world. The stop owner has a brooding look.
+An ALO player and blacksmith fairy Leprechaun. At the festival, Lisbeth finds a stall where some old player sells crafts. The shop is ordinary, no different from the real world. The stop owner has a brooding look.
 serif
 4_lisbeth_24040
 Lisbeth
@@ -11971,7 +11965,7 @@ wakeup
 wait
 stun
 step
-HDZA
+HDVA
 skill_23142
 skill_22102
 skill_21201
@@ -12003,7 +11997,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24039
-NPC of ALO as a navigation pixie. Yui was converted into a fairy in OS, however, she tells Kirito that she's ready to play and battle in OS. Kirito makes that happen but some problem occurs.
+An NPC in ALO. Yui was converted into a fairy in OS, however, she tells Kirito that she's ready to play and battle in OS. Kirito makes that happen but some problem occurs.
 serif
 4_yui_24039
 Yui
@@ -12013,7 +12007,7 @@ wakeup
 wait
 stun
 step
-CFg
+C.g
 skill_23137
 skill_22202
 skill_21201
@@ -12263,7 +12257,6 @@ wait
 stun
 step
 skill_2313101
-zD.d
 skill_23131
 skill_22102
 skill_21201
@@ -12336,7 +12329,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24030
-ALO Player. Earth fairy, Gnome. Strea loved sailor suits and equipped it regardless of place. The Quality, however, was not the greatest. Strea drags Kirito and party members down on difficult Quests.
+An ALO Player. Earth fairy, Gnome. Strea loved sailor suits and equipped it regardless of place. The Quality, however, was not the greatest. Strea drags Kirito and party members down on difficult Quests.
 serif
 4_strea_24030
 Strea
@@ -12348,6 +12341,7 @@ stun
 step
 skill_2313001
 	5	
+zDr
 skill_23130
 skill_22202
 skill_21101
@@ -12379,7 +12373,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24029
-ALO Player. Water fairy, Undine. While Asuna and friends are exploring Grimms' island, Cinderella's story begins and she is selected as Cinderella. Asuna get bullied by her stepmother and get fed up with. She, however, knows that the prince is Kirito...
+An ALO Player. Water fairy, Undine. While Asuna and friends are exploring Grimms' island, Cinderella's story begins and she is selected as Cinderella. Asuna get bullied by her stepmother and get fed up with. She, however, knows that the prince is Kirito...
 serif
 4_asuna_24029
 Asuna
@@ -12585,7 +12579,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24024
-OS player. Kirigaya Suguha. ALO Sylph,Sakuya tells her that there are not enough players in their regular tournament in Sylph's tribe while she's into OS. 
+An OS player. Kirigaya Suguha. ALO Sylph,Sakuya tells her that there are not enough players in their regular tournament in Sylph's tribe while she's into OS. 
 serif
 4_leafa_24024
 Suguha
@@ -12668,7 +12662,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24018
-ALO player. Wind fairy, Sylph. Leafa tries to clear the quest in new area which demands players to get the treasure back from Japanese castle. However, enemies are too strong that she struggles going further. In the occasion, Kirito comes up with a plan.
+An ALO player. Wind fairy, Sylph. Leafa tries to clear the quest in new area which demands players to get the treasure back from Japanese castle. However, enemies are too strong that she struggles going further. In the occasion, Kirito comes up with a plan.
 serif
 4_leafa_24018
 Leafa
@@ -13669,7 +13663,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_15004
-OS player. Salamander in ALO. He comes across Seven and Agil who are going to participate the song creation quest, and tells them he would like to help Seven and gets surprised by the song he listens to.
+An OS player. Salamander in ALO. He comes across Seven and Agil who are going to participate the song creation quest, and tells them he would like to help Seven and gets surprised by the song he listens to.
 serif
 5_klein_15004
 Klein
@@ -13679,7 +13673,7 @@ wakeup
 wait
 stun
 step
-HDF
+HD>
 skill_14111
 skill_12101
 skill_11201
@@ -13839,7 +13833,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_14019
-SAO player. He's the best of the best in the Assault Team. The ethnic costume he's wearing might be a quest reward.
+An SAO player. He's the best of the best in the Assault Team. The ethnic costume he's wearing might be a quest reward.
 serif
 4_kirito_14019
 Kirito
@@ -14092,7 +14086,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_14006
-ALO player. Fire fairy, Salamander. He is a mandatory man who uses katana and believes in his own bushi-do spirit.
+An ALO player. Fire fairy, Salamander. He is a mandatory man who uses katana and believes in his own bushi-do spirit.
 serif
 4_klein_14006
 Klein
