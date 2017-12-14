@@ -8266,36 +8266,41 @@ Story
 bg_thumbnail_0
 Story 1
 Worry of the Lord
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 15
 The Moonlit Black Cats (Master +1)
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 14
 The Moonlit Black Cats (Master)
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 13
 The Moonlit Black Cats (EX)
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 12
 The Moonlit Black Cats (Expert)
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
@@ -8306,15 +8311,17 @@ Story
 bg_thumbnail_0
 Story 10
 That Time Of Year
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 9
 The Moonlit Black Cats
 Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Beat up the monster and 
+let the Black Cats finish it off!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
@@ -18225,36 +18232,41 @@ Story
 bg_thumbnail_0
 Story 1
 Worry of the Lord
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 15
 The Moonlit Black Cats (Master +1)
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 14
 The Moonlit Black Cats (Master)
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 13
 The Moonlit Black Cats (EX)
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 12
 The Moonlit Black Cats (Expert)
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
@@ -18265,15 +18277,17 @@ Story
 bg_thumbnail_0
 Story 10
 That Time Of Year
-Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Cyclops the Dark Giant is the targeted monster. 
+For the dream guild house, defeat the monster
+with the Black Cats!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007
 Quest 9
 The Moonlit Black Cats
 Cyclops the Dark Giant is the targeted monster.
-For the Black Cats, beat up the monster!
+Beat up the monster and 
+let the Black Cats finish it off!
 Defeat All Enemies
 Quest
 bg_thumbnail_2007

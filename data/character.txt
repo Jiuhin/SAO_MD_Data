@@ -1,15 +1,15 @@
-047
-pW2
-dh0
-xP.
-DX-
-<h+
-0q'
-8,&
-Tw!
-pp 
-(p	
-pA	
+t[5
+0V4
+Tz3
+4[/
+lO.
+P$-
+,?)
+xW(
+Xz&
+<Q&
+4G%
+l}"
 walk
 wakeup
 wait
@@ -174,7 +174,6 @@ dead
 dash
 damage
 charge_old
-"DFH
 charge
 back_step
 attack_3
@@ -531,8 +530,8 @@ wakeup
 wait
 stun
 step
+zDb
 skill_16310101
-zDTE
 skill_163101
 skill_161201
 skill_161102
@@ -624,6 +623,7 @@ wait
 stun
 step
 m5	
+HDP
 skill_103125
 skill_102202
 skill_101101
@@ -1515,7 +1515,6 @@ wakeup
 wait
 stun
 step
-zDn
 skill_2313001
 	5	
 skill_23130
@@ -2074,6 +2073,7 @@ wakeup
 wait
 stun
 step
+zD"
 skill_184101
 skill_182101
 skill_181101
@@ -2199,7 +2199,7 @@ wakeup
 wait
 stun
 step
-TDr{
+TDzV
 skill_183108
 skill_182101
 skill_181101
@@ -2549,8 +2549,9 @@ down
 dead
 dash
 damage
-"D>
+"DF
 charge_old
+"D2
 charge
 back_step
 attack_3
@@ -2729,9 +2730,9 @@ down
 dead
 dash
 damage
-"DRh
+"DZC
 charge_old
-"D>j
+"DFE
 charge
 back_step
 attack_3
@@ -2866,9 +2867,9 @@ down
 dead
 dash
 damage
-"DF
+"DN
 charge_old
-"D2
+"D:
 charge
 back_step
 attack_3
@@ -3002,7 +3003,6 @@ down
 dead
 dash
 damage
-"D"Q
 charge_old
 charge
 back_step
@@ -3049,7 +3049,6 @@ dead
 dash
 damage
 charge_old
-"Dv
 charge
 back_step
 attack_3
@@ -3093,9 +3092,8 @@ down
 dead
 dash
 damage
-"Dv
 charge_old
-"Db
+"Dj
 charge
 back_step
 attack_3
@@ -3142,7 +3140,7 @@ down
 dead
 dash
 damage
-"D&
+"D.
 charge_old
 charge
 back_step
@@ -3233,6 +3231,7 @@ down
 dead
 dash
 damage
+"D"
 charge_old
 charge
 back_step
@@ -3263,7 +3262,7 @@ wakeup
 wait
 stun
 step
-zD&$
+zD.
 skill_16310101
 skill_163101
 skill_161201
@@ -3279,8 +3278,9 @@ down
 dead
 dash
 damage
+"Df
 charge_old
-"DJ
+"DR
 charge
 back_step
 attack_3
@@ -3310,7 +3310,7 @@ wakeup
 wait
 stun
 step
-zDrJ
+zDz%
 skill_16310101
 skill_163101
 skill_161201
@@ -3370,8 +3370,9 @@ down
 dead
 dash
 damage
-"D2
+"D:
 charge_old
+"D&
 charge
 back_step
 attack_3
@@ -3416,9 +3417,9 @@ down
 dead
 dash
 damage
-"DJ
+"DR}
 charge_old
-"D6
+"D>
 charge
 back_step
 attack_3
@@ -3463,7 +3464,7 @@ dead
 dash
 damage
 charge_old
-"Dn
+"Dv
 charge
 back_step
 attack_3
@@ -3537,8 +3538,7 @@ wakeup
 wait
 stun
 step
-aDt
-aD&
+aD.
 skill_144102
 skill_141201
 skill_141101
@@ -3993,7 +3993,7 @@ wakeup
 wait
 stun
 step
-Fbr
+FjM
 skill_141202
 skill_141201
 skill_141101
@@ -4357,6 +4357,7 @@ wakeup
 wait
 stun
 step
+DZ]
 skill_124101
 skill_121202
 skill_121101
@@ -4401,7 +4402,7 @@ wakeup
 wait
 stun
 step
-zD:
+zDB}
 skill_123112
 skill_121202
 skill_121101
@@ -4978,7 +4979,7 @@ wakeup
 wait
 stun
 step
-zDji
+zDrD
 skill_104101
 skill_102201
 skill_101101
@@ -5064,7 +5065,7 @@ wakeup
 wait
 stun
 step
-zDP
+zDXe
 skill_104102
 skill_102201
 skill_101101
@@ -5446,7 +5447,6 @@ wakeup
 wait
 stun
 step
-HDv+
 skill_103122
 skill_102201
 skill_101101
@@ -8700,7 +8700,6 @@ wakeup
 wait
 stun
 step
-/DX
 skill_64103
 skill_62101
 %&'
@@ -11379,6 +11378,48 @@ serif
 4_kirito_34001
 Kirito
 [Black Swordsman] Kirito
+walk
+wakeup
+wait
+stun
+step
+skill_2311101
+skill_23111
+skill_22102
+skill_21201
+parry
+parried
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_23111
+skill_22102
+skill_21201
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_24012
+An SAO player and a member of Kirito's former guild, the Moonlit Black Cats, Sachi perished during a dungeon expedition. Her death was one of a series of events that left permanent scars on Kirito's psyche.
+serif
+4_sachi_24012
+Sachi
+[Happy Memories] Sachi
 walk
 wakeup
 wait

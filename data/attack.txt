@@ -74,6 +74,8 @@ L>f3
 >f3
 >f3
 >f3
+>e3
+>e3
 QCG
 >d3
 QCG
@@ -1621,7 +1623,9 @@ iZA
 [3A
 Z3A
 Y3A
+-2A
 HBd3
+fff?
 >f3
 >d3
 >d3

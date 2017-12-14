@@ -1534,8 +1534,8 @@ Oe
 401501,45000
 Earn a score of 4,500,000 in the "Memories of Christmas" event.
 Jd 
-2020021-2020022-2020061-2020062-2020063-2020064-2020065,50
-Defeat 50 of Cyclops the Dark Giant from "Memories of Christmas" in the guild. 
+2020064-2020065,50
+Defeat 50 of Cyclops the Dark Giant from "The Moonlit Black Cats Master/Master +1" in the guild. 
 4015015,3,45
 Complete "The Moonlit Black Cats (Master +1)" in under 45 secs.
 /b 
@@ -1549,7 +1549,7 @@ Complete "The Moonlit Black Cats (Master)".
 /_ 
 ]70
 4015010
-Complete "Just Floating Around".
+Complete "That Time Of Year".
 4015013
 Complete "The Moonlit Black Cats (EX)".
 /] 

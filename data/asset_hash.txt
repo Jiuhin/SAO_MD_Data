@@ -1048,6 +1048,10 @@ ss/unit/chara_19_shield_m/skill_effect_shield_3.png
 ss/unit/chara_19_shield_m/skill_effect_shield_2.png
 43edf8a36b570d50c5abc2f179977355
 ss/unit/chara_19_shield_m/skill_effect_shield_1.png
+c584bb8c2a601221be732f1dda4b821f
+ss/unit/chara_19_shield_m/skill_effect_194103.png
+083cf3000c3743e8bb68438d9ff9ddf6
+ss/unit/chara_19_shield_m/skill_effect_194102.png
 fc664a9ef7e56e69faae122ec3081556
 ss/unit/chara_19_shield_m/skill_effect_193301.png
 50dc8504c76523cc377073c673dccef3
@@ -3500,11 +3504,11 @@ images/event/4016/4016_top.png
 images/event/4016/4016_banner.png
 5c8dc2db92bdbfdb2c6bb1d1278f0ef3
 images/event/4016/4016_announce.png
-a9692305014c327b1d989a6d0b2f3438
+49841e1e19178a44a9f4620c41619802
 images/event/4015/4015_top.png
-1b283840848a568d947c724198f40959
+a977200caa5c46ccce9db98b15bc4af3
 images/event/4015/4015_banner.png
-a8fc4ba43e040b69fe04625057549054
+d14889cc64f72cd5c0cd8446c95d6a48
 images/event/4015/4015_announce.png
 d6935188a9e84959553c848ea303a366
 images/event/4014/4014_top.png

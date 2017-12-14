@@ -410,7 +410,7 @@ images/lottery/003/10034_weapon_banner.png
 images/lottery/003/10034_weapon_banner.png
 images/lottery/003/10034_weapon_banner.png
 images/lottery/003/10034_weapon_banner.png
-BNEI0271_tier.40package2,saomd_tier.40package2,jp.co.bandainamcoent.BNEI0294_PackageB,com.bandainamcoent.saomdas_package_b,jp.co.bandainamcoent.BNEI0292_PackageB,com.bandainamcoent.saomdna_package_b,jp.co.bandainamcoent.BNEI0293_PackageB,com.bandainamcoent.saomdeu_package_2
+BNEI0271_tier.40package2,saomd_tier.40package2,jp.co.bandainamcoent.BNEI0294_PackageB,com.bandainamcoent.saomdas_package_b,jp.co.bandainamcoent.BNEI0292_PackageB,com.bandainamcoent.saomdna_package_b,jp.co.bandainamcoent.BNEI0293_PackageB,com.bandainamcoent.saomdeu_package_b
 images/announcement/201712_sale_diamond_xmas_2.png
 BNEI0271_tier.18sale2,BNEI0271_tier.45sale2,BNEI0271_tier.56sale,saomd_tier.18sale2,saomd_tier.45sale2,saomd_tier.56sale2,jp.co.bandainamcoent.BNEI0294_SaleA,jp.co.bandainamcoent.BNEI0294_SaleB,jp.co.bandainamcoent.BNEI0294_SaleC,com.bandainamcoent.saomdas_sale_a,com.bandainamcoent.saomdas_sale_b,com.bandainamcoent.saomdas_sale_c,jp.co.bandainamcoent.BNEI0292_SaleA,jp.co.bandainamcoent.BNEI0292_SaleB,jp.co.bandainamcoent.BNEI0292_SaleC,com.bandainamcoent.saomdna_sale_a,com.bandainamcoent.saomdna_sale_b,com.bandainamcoent.saomdna_sale_c,jp.co.bandainamcoent.BNEI0293_SaleA,jp.co.bandainamcoent.BNEI0293_SaleB,jp.co.bandainamcoent.BNEI0293_SaleC,com.bandainamcoent.saomdeu_sale_1,com.bandainamcoent.saomdeu_sale_2,com.bandainamcoent.saomdeu_sale_3
 images/announcement/201712_sale_diamond_xmas.png

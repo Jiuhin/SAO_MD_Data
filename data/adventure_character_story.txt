@@ -1459,6 +1459,16 @@ Character Story
 Character Story
 [Void Runner] Leafa Lv.10
 Character Story
+[Happy Memories] Sachi Lv.80
+Character Story
+[Happy Memories] Sachi Lv.70
+Character Story
+[Happy Memories] Sachi Lv.50
+Character Story
+[Happy Memories] Sachi Lv.30
+Character Story
+[Happy Memories] Sachi Lv.10
+Character Story
 [Multi-Wielder] Rain Lv.80
 Character Story
 [Multi-Wielder] Rain Lv.70

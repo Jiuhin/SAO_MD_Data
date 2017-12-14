@@ -644,6 +644,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain in the "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20008
+Upgrades character
+([Happy Memories] Sachi only) 
+Rarity: High
+Holy Night Upgrade Crystal 
 item_m_evolution_20007
 Upgrades character
 ([Santa is coming] Seven, [Personal Santa] Rain only) 

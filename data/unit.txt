@@ -491,6 +491,7 @@ weapon_1_effect
 skill_effect_sword
 weapon_effect_sword_m
 chara_19_man
+weapon_shield
 head
 weapon_effect_sword_m
 weapon_sword_before

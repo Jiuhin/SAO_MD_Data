@@ -1,5 +1,8 @@
-H!	
-4 	
+p"	
+,"	
+L 	
+x		
+(		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -497,15 +500,14 @@ SA:O
 zi:爕
 White Knight Jacket R4
 9Q9
-ホーリーセイバー
-ナイトブレードR4
+Holy Saber x Night Blade R4
 Polaris Spear R4
-- R3
+厄除けの髪飾りR3
 9%8
-- R2
-- R3
+厄除けの髪飾りR2
+緋色の盛装R3
 9]7
-- R2
+緋色の盛装R2
 Holy Night Choker R3
 Holy Night Choker R2
 916
@@ -791,7 +793,7 @@ Made With Love
 8F{
 The Moonlit Black Cats
 8E{
-Christmas Memories
+Memories of Christmas
 8D{
 The Heroes Seven
 8C{
@@ -4705,10 +4707,10 @@ Col x301
 75EP
 50EP
 25EP
-- R3
-- R2
-- R3
-- R2
+厄除けの髪飾りR3
+厄除けの髪飾りR2
+緋色の盛装R3
+緋色の盛装R2
 Stardust (Small) x15
 Stardust (Small) x10
 Stardust (Small) x5
@@ -5119,10 +5121,10 @@ Girl's Treats x10
 Girl's Treats x3
 V}Q
 V}Q
-- R3
+厄除けの髪飾りR3
 U}Q
 U}Q
-- R3
+緋色の盛装R3
 6/Q
 6/Q
 Holy Night Choker R3
@@ -6918,6 +6920,12 @@ Yuletide Gift (M) x10
 Yuletide Gift (S) x30
 Yuletide Gift (S) x20
 Yuletide Gift (S) x15
+&[?
+&[?
+Holy Night Upgrade Crystal  x2
+%[?
+%[?
+Holy Night Upgrade Crystal  x1
 Holy Yuletide Hacking Crystal x9
 Holy Yuletide Hacking Crystal x8
 Holy Yuletide Hacking Crystal x7

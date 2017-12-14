@@ -1,4 +1,4 @@
-プレゼント争奪クエスト!!
+Gift Frenzy Quest
 Present
 SAO Game Complete Memorial CP
 Challenge
@@ -168,14 +168,20 @@ Twilight Castle in Akasha
 Event
 Shadowy castle in the night
 Event
+One Lap Behind
+Event
 The Archenemy
 Event
 砂塵の突破口
+Event
+海外1周年テスト
 Event
 The Secret Alliance 
 Christmas Gift Mission
 Event
 Monsters in the Castle of Mirage
+Event
+和の国に 流るる星と 友の声
 Event
 Gifts from the Snowy Sky
 Event

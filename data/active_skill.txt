@@ -280,6 +280,10 @@ A sword skill. Enhance attack and movement speed. Imbue sword strikes with wind 
 Sylphish Thrust+
 Sylphish Thrust+
 skill_icon_sword_3_{}
+Recover your entire party's HP and increase your attack with the power of the enhanced healing crystal. It creates an area that deals damage to enemies but recovers your allies automatically.
+Healing Wish+
+Healing Wish+
+skill_icon_sword_3_{}
 Increases Atk and Speed.Strikes the enemy from all directions. Restores damage dealt as health.
 Starry Sky+
 Starry Sky+

@@ -462,13 +462,13 @@ images/event/4801/4801_name.png
 images/event/4801/4801_banner.png
 images/event/4801/4801_banner.png
 Shadowy Castle in the Night
-EP交換所
+EP Market
 images/common/event_point.png
 images/event/4701/4701_top.png
 images/event/4701/4701_banner.png
 images/event/4701/4701_banner.png
 [Ended] Breakthrough in Sand
-EP交換所
+EP Market
 images/common/event_point.png
 images/event/4701/4701_top.png
 images/event/4701/4701_banner.png
@@ -814,7 +814,7 @@ Survival Battle on Desert
 images/event/4015/4015_top.png
 images/event/4015/4015_banner.png
 images/event/4015/4015_banner.png
-Christmas Memories
+Memories of Christmas
 images/event/4008/4008_top.png
 images/event/4008/4008_banner.png
 images/event/4008/4008_banner.png

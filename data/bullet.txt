@@ -1,8 +1,8 @@
-hl	
-xW	
-4G	
-$D	
-H4	
+4t	
+xo	
+df	
+TG	
+<$	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -1446,6 +1446,8 @@ dead
 bullet_5023_rising_blossom_2
 dead
 bullet_5022_rising_blossom_1
+dead
+bullet_5021_ground_smoke
 "ZC
 "ZC
 "ZC

@@ -107,10 +107,10 @@ Attack of all party members increase by 6% when you are a leader.
 P-Members' Attack +6% (P-Leader)
 Attack of all party members increase by 3% when you are a leader.
 P-Members' Attack +3% (P-Leader)
-自分のパーティの闇属性キャラの攻撃とMPが1%増加する
-自パーティの闇属性の攻撃とMP+1%
-自分のパーティの闇属性キャラの攻撃とMPが3%増加する
-自パーティの闇属性の攻撃とMP+3%
+Attack & MP of party members (Dark-elem.) increase by 1%.
+P-Members' (Dark-elem.) Atk&MP +1% 
+Attack & MP of party members (Dark-elem.) increase by 3%.
+P-Members' (Dark-elem.) Atk&MP +3% 
 MP of all party members increase by 1%.
 Party Members' MP +1%
 MP of all party members increase by 3%.
@@ -159,8 +159,8 @@ Increases attack by 10% when equipped by Sachi.
 Atk +10% (Sachi)
 Increases attack by 10% when equipped by Seven.
 Atk +10% (Seven)
-レインが装備すると攻撃力が10%増加する
-レインの攻撃+10%
+Increases attack by 10% when equipped by Rain.
+Atk +10% (Rain)
 Increases attack by 10% when equipped by Strea.
 Atk +10% (Strea)
 Increases attack by 3% when equipped by Silica.
@@ -183,6 +183,10 @@ Increases MP by 3% when equipped by Kirito.
 MP +3% (Kirito)
 Increases MP gain when attacked weak points.
 MP Recovery on Attack Weak Points
+20コンボ以上で攻撃力が15%増加し、クリティカル時のダメージが10%増加する
+20コンボ以上で攻撃+15%&クリティカルダメージ+10%
+20コンボ以上で攻撃力とクリティカル時のダメージが10%増加する
+20コンボ以上で攻撃とクリティカルダメージ+10%
 Lower MP required by 10% when HP is below 60%.
 Required MP -5% (HP Below 60%)
 Increases Attack by 6% vs Holy-elem. enemies when HP is above 80%.
@@ -217,6 +221,8 @@ Increases damage by 10% when HP is above 80%.
 Damage +10% (HP Above 80%)
 Lower MP required by 10% when HP is above 80%.
 Required MP -10% (HP Above 80%)
+消費MPが10%減少する
+消費MP-10%
 Increases max MP and Crit. by 3%.
 MP & Crit. +3%
 Increases max HP & MP by 3%.

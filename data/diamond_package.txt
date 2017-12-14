@@ -27,7 +27,7 @@ com.bandainamcoent.saomdna_package_b
 201708_announce_pack
 com.bandainamcoent.saomdna_package_a
 201712_announce_pack
-com.bandainamcoent.saomdeu_package_2
+com.bandainamcoent.saomdeu_package_b
 201708_announce_pack
 com.bandainamcoent.saomdeu_package_1
 201712_announce_pack
