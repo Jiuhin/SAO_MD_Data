@@ -688,6 +688,10 @@ A low-level fire spell. Fire a small fireball at a target.
 Fireball
 Fireball
 skill_icon_bow_3_{}
+A combination skill. Perform attacks with shooting stars moving at very high speed. High chance of stunning an enemy.
+Rapid Star Shot
+Rapid Star Shot
+skill_icon_bow_3_{}
 A combination skill. Perform attacks with the Joker card and a flaming arrow. Increase all the party members' attack.
 Joker's trick
 Joker's trick
@@ -1013,6 +1017,10 @@ skill_icon_gun_1_{}
 Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
 Prone Shot
 Prone Shot
+skill_icon_mace_3_{}
+A combination skill. It makes shiny Santa and his reindeer sledge appear. High chance of stunning an enemy.
+Sleigh Drive
+Sleigh Drive
 skill_icon_mace_3_{}
 A sword skill. Move to the back of an enemy while unleashing a spin attack. By wind energy, drop wash basins from the sky swiftly.
 Barrel Panic
@@ -1446,6 +1454,10 @@ skill_icon_mace_1_{}
 Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
+skill_icon_dagger_3_{}
+A combination skill. Slash through an enemy's back swiftly, create a giant snowman.  High chance of stunning an enemy.
+Wonder Snowman
+Wonder Snowman
 skill_icon_dagger_3_{}
 A combination skill. Activate a damage canceling barrier and create a geyser and attack an enemy with the super hot water.
 Heat Upper
@@ -2289,6 +2301,10 @@ A sword skill unique to Dual Blades. Thrust with one sword
 slash with the other.
 Double Circular
 Double Circular
+skill_icon_sword_3_{}
+A combination skill. Performs a spinning slash and give away presents.  High chance of stunning an enemy.
+Precious Present
+Precious Present
 skill_icon_sword_3_{}
 A combination skill. Release the memory of "Fragrant Olive Sword" and shoot out a streaming, powerful beam of energy.  Likely to stun an enemy. 
 Release Recollection

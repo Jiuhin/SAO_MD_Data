@@ -1429,6 +1429,12 @@ TBD
 Small Rod R1
 weapon08_0001
 TBD
+Priere de noel R5
+weapon07_0032
+TBD
+Priere de noel R4
+weapon07_0032
+TBD
 Destiny Rosso R5
 weapon07_0031
 TBD
@@ -1786,6 +1792,12 @@ TBD
 Sakura Mace+1 R4
 weapon05_0053
 TBD
+Mistletoe Kiss R5
+weapon05_0051
+TBD
+Mistletoe Kiss R4
+weapon05_0051
+TBD
 Green Breeze Lantern R4
 weapon05_0050
 TBD
@@ -2040,6 +2052,12 @@ weapon05_0002
 TBD
 Small Mace R1
 weapon05_0001
+TBD
+Little Star Edge R5
+weapon04_0053
+TBD
+Little Star Edge R4
+weapon04_0053
 TBD
 Red Lacquer Sword R5
 weapon04_0052
@@ -2806,6 +2824,12 @@ weapon01_0106
 TBD
 June Blade+1 R4
 weapon01_0106
+TBD
+Miracle Impact R5
+weapon01_0101
+TBD
+Miracle Impact R4
+weapon01_0101
 TBD
 Twinkle Christmas Eve R5
 weapon01_0099

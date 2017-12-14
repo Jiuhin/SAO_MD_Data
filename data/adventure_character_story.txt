@@ -209,6 +209,16 @@ Character Story
 Character Story
 [The Wild Joker] Sinon Lv.10
 Character Story
+[Snow Sniper] Sinon Lv.80
+Character Story
+[Snow Sniper] Sinon Lv.70
+Character Story
+[Snow Sniper] Sinon Lv.50
+Character Story
+[Snow Sniper] Sinon Lv.30
+Character Story
+[Snow Sniper] Sinon Lv.10
+Character Story
 [The Archer - overcoming the past] Sinon Lv.80
 Character Story
 [The Archer - overcoming the past] Sinon Lv.70
@@ -378,6 +388,16 @@ Character Story
 [Goddess of Death] Sinon Lv.30
 Character Story
 [Goddess of Death] Sinon Lv.10
+Character Story
+[Thoughts on Snowfall] Lisbeth Lv.80
+Character Story
+[Thoughts on Snowfall] Lisbeth Lv.70
+Character Story
+[Thoughts on Snowfall] Lisbeth Lv.50
+Character Story
+[Thoughts on Snowfall] Lisbeth Lv.30
+Character Story
+[Thoughts on Snowfall] Lisbeth Lv.10
 Character Story
 [Harmony Keeper] Lisbeth Lv.80
 Character Story
@@ -568,6 +588,16 @@ Character Story
 [Brawny Axeman] Agil Lv.30
 Character Story
 [Brawny Axeman] Agil Lv.10
+Character Story
+[Holy Tamer] Silica Lv.80
+Character Story
+[Holy Tamer] Silica Lv.70
+Character Story
+[Holy Tamer] Silica Lv.50
+Character Story
+[Holy Tamer] Silica Lv.30
+Character Story
+[Holy Tamer] Silica Lv.10
 Character Story
 [Autumn Leaf Bath Beauty] Silica Lv.80
 Character Story
@@ -1178,6 +1208,16 @@ Character Story
 [The Bunny Ace] Yuuki Lv.30
 Character Story
 [The Bunny Ace] Yuuki Lv.10
+Character Story
+[Christmas Miracle] Yuuki Lv.80
+Character Story
+[Christmas Miracle] Yuuki Lv.70
+Character Story
+[Christmas Miracle] Yuuki Lv.50
+Character Story
+[Christmas Miracle] Yuuki Lv.30
+Character Story
+[Christmas Miracle] Yuuki Lv.10
 Character Story
 [Excitement on Christmas Eve] Alice Lv.80
 Character Story

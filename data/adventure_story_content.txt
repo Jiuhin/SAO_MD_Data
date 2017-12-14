@@ -1,147 +1,141 @@
-4_}
-L[{
-lSz
-4Lz
-H%z
-,,x
-Hsu
-LMu
-hzt
-,6s
-D$s
-h:r
-0 r
-,eq
-pop
-,_p
-8Sp
-Xno
-P8o
-0+o
-Tyn
-xZn
-DKn
-Dhm
-HYm
-0Ol
-HNk
-TVi
-XVh
-l4h
-4Rf
-<Ff
-lUe
-,0e
-hkc
-l/c
-DVb
-(Pa
-x5a
-$T_
-h+_
-P:]
-$x[
-xR[
-P)[
-0WZ
-P.Z
-HzY
-0rX
-0sW
-PeW
-L6W
-H4V
-,{U
-(4U
-0&U
-0<T
-t(T
-LQS
-0.S
-L{R
-8lR
-dnQ
-0$Q
-hbP
-0LP
-l2P
-dGO
-0WN
-xEN
-(1N
-LhM
-8PM
-(qL
-pWL
-xXK
-$>K
-(tJ
-hbJ
-,XJ
-08J
-ppI
-X]I
-$JI
-(mH
-P'H
-lUG
-tHG
-<%G
-dYE
-h%E
-hgD
-T:D
-l{B
-DQB
-hY?
-ts>
-xM>
-t?>
-p0>
-DD<
-l1<
-Hq:
-pw8
-Tj7
-P+6
-(N5
-T/5
-8p4
-Pc4
-D/4
-<B3
-x+3
-$t2
-(E2
-8a1
-xU1
-,}0
-$U0
-<:0
-4{.
-TJ.
-d>.
-Xi-
-LJ-
-Lp,
-$],
-0'+
-<])
-H<)
-DX(
-X0(
-4S'
-,e&
-dS&
-$g%
-d>%
-$l$
-<7$
-(a"
-h "
-Lz 
-,/ 
-hd	
+TI}
+p0{
+8){
+$vz
+(vy
+0	y
+4tv
+LPv
+lWu
+4[r
+0Br
+hzq
+,yq
+dxq
+8wq
+prq
+(qq
+$lq
+Xfq
+Pdq
+tLq
+0<q
+<0q
+XVo
+H(o
+HEn
+L6n
+4,m
+L+l
+dbj
+DPj
+X3j
+<rh
+pch
+8/g
+p2f
+hxe
+pUd
+<Dd
+L3d
+8$d
+,rc
+4kb
+XDb
+p:b
+pwa
+dXa
+d3a
+tt_
+4&_
+8e]
+$W]
+hwZ
+$lZ
+P$W
+PgV
+,HV
+XTU
+,IU
+D.U
+XdT
+laS
+pAS
+$,Q
+t<P
+08O
+p+O
+4nN
+X.N
+LzM
+l-L
+D-K
+tZJ
+$MI
+4SH
+L,H
+hlG
+$}F
+4QF
+hGD
+p<D
+HbC
+4LC
+$3C
+8	C
+$dB
+dXB
+tMB
+(cA
+,/A
+0O?
+X??
+t}>
+pB>
+H->
+dg<
+HT<
+PB:
+8f9
+089
+8o8
+t68
+${6
+$k6
+p26
+8X5
+0w4
+H/4
+t53
+(S2
+tD2
+,52
+dT1
+4Q0
+h.0
+0{/
+po/
+<]/
+hB/
+x{-
+0j-
+0h,
+t3,
+0_+
+,9+
+Xm)
+8Q(
+8,(
+P%'
+4v&
+4e&
+d<%
+,.%
+(0$
+l	$
+,8!
+<< 
+X( 
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -2149,2041 +2143,2127 @@ Hmm... Nope, never seen that
 Cait Sith NPC before.
 Alicia
 407400101_1_a
-………………
-キリト
+...
+Kirito
 407201201_53_a
-キリト
+Kirito
 407201201_52_a
-………………
-アスナ
+...
+Asuna
 407201201_51_a
-そ、それは……!
-ユージオ
+A-Alice!! You can't mean that!
+Eugeo
 407201201_50_a
-この世界での記憶が無くなったとして
-困ることはないはずです
-アリス
+Though our time here was well
+spent, our memories of this place
+are unnecessary in our world.
+Alice
 407201201_49_a
-むろん気分の良いことではありません
-ですが私たちはいずれ
-元いた世界へと帰る身……
-アリス
+Of course, this does not sit well
+with me. But we must return to
+our world eventually...
+Alice
 407201201_48_a
-アリスは記憶を失ってもいいの?
-ユージオ
+You're just going to give up,
+Alice? Sit back and let our
+memories be destroyed?
+Eugeo
 407201201_47_a
-そればかりは私たちには
-どうすることもできないでしょう
-アリス
+In which case, there is truly
+nothing we can do.
+Alice
 407201201_46_a
-ユージオ
+Eugeo
 407201201_45_a
-……この世界の
-禁則事項ということですね
-アリス
+So...this is one of the rules
+of this world...
+Alice
 407201201_44_a
 z66
-遠い昔この神器が創生されし時に
-決められていたことなのです……
-ウルズ
+This was decided long ago, when
+the Divine Objects were first
+forged...
+Urdr
 407201201_43_a
 z66
-そなたたちには感謝しています
-ですがこれは私の一存でどうにか
-なることではない
-ウルズ
+I am eternally grateful to you.
+However, there is no changing
+your sad fate.
+Urdr
 407201201_42_a
-アリス
+Alice
 407201201_41_a
-そんな!
-どうにかすることはできないの?
-ユージオ
+I don't want to have my memory
+erased! Is there nothing we can
+do?
+Eugeo
 407201201_40_a
-アスナ
+Asuna
 407201201_39_a
-い、いやなんでもない……
-キリト
+U-Uh, nothing, Alice...
+Kirito
 407201201_38_a
-ユージオ
+Eugeo
 407201201_37_a
-なにを言っているのです?
-アリス
+AmuSphere? Augma?
+What are you two talking about?
+Alice
 407201201_36_a
-アミュスフィアにそんな危険な
-機能はないはずだ……
-キリト
+but the AmuSphere shouldn't be
+able to do anything dangerous
+like that...
+Kirito
 407201201_35_a
-あ、ああ……
-オーグマーには一部そういう力が
-あったけど、
-キリト
+Y-Yeah... The Augma could kinda
+do that,
+Kirito
 407201201_34_a
-キリト
+Kirito
 407201201_33_a
-えと……プレイヤーたちの記憶を
-消すなんてアミュスフィアには
-できないよね?
-アスナ
+Umm... Kirito? The AmuSphere can't
+erase a person's memory...right?
+Asuna
 407201201_32_a
 y66
-そういうことです
-ウルズ
+That is correct.
+Urdr
 407201201_31_a
-アスナ
+Asuna
 407201201_30_a
-それは……神器のことを忘れて
-今回みたいな事態を防ぐって意味か?
-キリト
+So in other words, if our memory
+of the Divine Objects is wiped,
+this won't happen again?
+Kirito
 407201201_29_a
-すべからく……?
-僕たちもってこと?
-ユージオ
+You mean...
+Eugeo
 407201201_28_a
-ユージオ
+Eugeo
 407201201_27_a
-なっ……?
-アリス
+Wh-What speed!!
+Alice
 407201201_26_a
 z66
-よってこの神器に関わった者たちは
-すべからく記憶を失うことに
-なっているのです
-ウルズ
+Thus, we gods ensure that all
+those who come into contact with
+it have their memories erased.
+Urdr
 407201201_25_a
 {66
-その力は絶大なる厄災を
-呼び起こす危険をはらんでいる
-ウルズ
+Even mere knowledge of this power
+can lead to calamity.
+Urdr
 407201201_24_a
-アスナ
+Asuna
 407201201_23_a
-あ、ああ……
-キリト
+Y-Yeah, go on...
+Kirito
 407201201_22_a
 y66
-既に皆は知っているように
-この神器には神すらも恐れる
-強大な力が込められています
-ウルズ
+As you know, the Divine Objects
+contain a power so terrible,
+even we gods fear it.
+Urdr
 407201201_21_a
-キリト
+Kirito
 407201201_20_a
-えっ……?
-アスナ
+There is?
+Asuna
 407201201_19_a
 y66
-最後になりますが、
-一つ……伝えるべきことがあります
-ウルズ
+Lastly...there is one thing
+I feel I must tell you...
+Urdr
 407201201_18_a
-アスナ
+Asuna
 407201201_17_a
-任せてくれ
-キリト
+You can count on us!
+Kirito
 407201201_16_a
 x66
-では妖精の戦士……
-そして異世界の戦士たちよ
-残る一つもお願いします
-ウルズ
+Please, brave fairies and warriors
+from another world, recover the
+final Divine Object.
+Urdr
 407201201_15_a
-アスナ
+Asuna
 407201201_14_a
-ああ!
-キリト
+Yeah!
+Kirito
 407201201_13_a
-キリト
+Kirito
 407201201_12_a
-ふふっ
-今度また時間がある時に行きましょう
-アスナ
+Hehe, if we have time, we can
+always go back.
+Asuna
 407201201_11_a
-はは、そうだね
-僕らずっと百人一首ばかり
-やっていたもんね
-ユージオ
+Ha ha, yeah. We played karuta the
+whole time and barely even got
+to see the sights!
+Eugeo
 407201201_9_a
-アリス
+Alice
 407201201_10_a
-アスナ
+Asuna
 407201201_8_a
-でもちょっと残念だったな
-あんまり見て回れなくてさ
-キリト
+I'm just sad we didn't have more
+time to look around over there.
+Kirito
 407201201_7_a
-ユージオ
+Eugeo
 407201201_6_a
-ええ、まさか世界を飛び越えて探す
-羽目になるとは思いませんでしたが
-アリス
+I second that. Who would have
+thought we'd have to chase our
+quarry across multiple worlds?
+Alice
 407201201_5_a
-無事にH-I-Mobを倒せて
-良かったよね
-アスナ
+Well, I for one am happy we
+were finally able to finish off
+that Hi-Mob.
+Asuna
 407201201_4_a
-アスナ
+Asuna
 407201201_3_a
-これで残るはあと一つだ
-キリト
+Yup! Only one left to go.
+Kirito
 407201201_2_a
 x66
 bg_event_urtharbrunnr
-おおっ……
-これもまさしく神器……
-ウルズ
+You have found another Divine
+Object...
+Urdr
 407201201_1_a
 MeE
 MeE
-アスナ
+Asuna
 407201101_54_a
 MeE
-シノン
+Sinon
 407201101_53_a
 MeE
-おおっ!!
-キリト
+Attaaack!!
+Kirito
 407201101_52_a
 MeE
+Liz
 407201101_51_a
 MeE
-ユージオ
+Eugeo
 407201101_50_a
 MeE
-叩くなら今ですよ!
-アリス
+Strike him down, now!
+While we have the chance!
+Alice
 407201101_49_a
 MeE
-ぐっ……ワープが……
-できない……
-H-I-Mob
+M-My warp portal...
+Y-You ruined it...!
+Hi-Mob
 407201101_48_a
 MeE
-シノン
+Sinon
 407201101_47_a
 MeE
-奴が逃げられないように
-ALOで量産して
-みんなに持たせてたんだ
-キリト
+Asuna and I made a ton of them
+back in ALO after he escaped the
+first time, just in case.
+Kirito
 407201101_46_a
 MeE
-前にコンバートした時に
-うまくストレージに残せたから
-もしかしたら使えるかなと思って
-キリト
+I dropped it in my inventory and,
+luckily, it somehow managed to
+convert over with my character.
+Kirito
 407201101_45_a
 MeE
-ああ、元はSAOのアイテムなんだ
-転移結晶を無効化するやつ
-なんだけどさ
-キリト
+Yeah. It was originally an SAO
+item that nullified teleportation
+crystals.
+Kirito
 407201101_44_a
 MeE
-元は転移禁止用のアイテムなの
-前に一度やられちゃってるから
-対策として準備をしてたんだよ
-アスナ
+He got away from us once, so we
+decided to come prepared this
+time!
+Asuna
 407201101_43_a
 MeE
-キリト
+Kirito
 407201101_42_a
 MeE
-アスナ
+Asuna
 407201101_41_a
 MeE
-アスナ?
-今使ったアイテムは……?
-シノン
+What did you just do, Asuna?
+Was that an item?!
+Sinon
 407201101_40_a
 MeE
-ぬあっ……!
-H-I-Mob
+What?! How...?!
+Hi-Mob
 407201101_39_a
 MeE
-キリト
+Kirito
 407201101_38_a
 MeE
-シノン
+Sinon
 407201101_37_a
 MeE
-うん……えいっ!!
-アスナ
+Got it! Haaah!!
+Asuna
 407201101_36_a
 MeE
-アスナ!
-キリト
+Asuna! You're up!
+Kirito
 407201101_35_a
 MeE
-アスナ
+Asuna
 407201101_34_a
 MeE
-キリト
+Kirito
 407201101_33_a
 MeE
-あれってまた
-逃げるつもりじゃないの!?
-シノン
+He's trying to run!
+Sinon
 407201101_32_a
 MeE
-ユージオ
+Eugeo
 407201101_31_a
 MeE
-アリス
+Alice
 407201101_30_a
 MeE
-あっ!
-もしかして……!
+Ah!
+Is that what I think it is?!
+Liz
 407201101_29_a
 MeE
-H-I-Mob
+Hi-Mob
 407201101_28_a
 MeE
-くうっ……!
-H-I-Mob
+Gngh...!
+Hi-Mob
 407201101_27_a
 MeE
-シノン
+Sinon
 407201101_26_a
 MeE
-おおっ!
-キリト
+Yeah!
+Kirito
 407201101_25_a
 MeE
-キリト
+Kirito
 407201101_24_a
 MeE
-シノン
+Sinon
 407201101_23_a
 MeE
-みんな、今度こそ
-神器を取り返しましょう!
-アスナ
+Come on, everyone! Let's beat this
+guy and get that Divine Object!
+Asuna
 407201101_22_a
 MeE
-よし、もう逃がさないぞ!
-ユージオ
+Well, enough talking! We've got
+him cornered this time!
+Eugeo
 407201101_21_a
 MeE
+Liz
 407201101_20_a
 MeE
-ユージオ
+Eugeo
 407201101_19_a
 MeE
-い、いえ……
-アリス
+Y-You're welcome, I suppose...
+Alice
 407201101_18_a
 MeE
-シノン
+Sinon
 407201101_17_a
 MeE
-アスナ
+Asuna
 407201101_16_a
 MeE
-なるほどな
-アリス、補足説明サンキューな
-キリト
+Cool. Thanks for the follow-up,
+Alice.
+Kirito
 407201101_15_a
 MeE
-もしや奴はここでそれを学び、
-使ったのかもしれません
-アリス
+Perhaps our quarry used these
+"Spirit Skills" to create those
+copies.
+Alice
 407201101_14_a
 MeE
-先ほど別の参加者と話をして
-この世界には妖術のような類の
-神聖術があると聞きました
-アリス
+I spoke to another player earlier,
+and she told me that there are
+Sacred Arts in this world too.
+Alice
 407201101_13_a
 MeE
-ユージオ
+Eugeo
 407201101_12_a
 MeE
-アリス
+Alice
 407201101_11_a
 MeE
-なんかズルいわね
-一人じゃなくて分裂してたって
-ことでしょ?
+Well, that's pretty cheap.
+No one told me he could
+make copies of himself.
+Liz
 407201101_10_a
 MeE
-正体がわかり言葉で見破ったことを
-発言すると真の姿になるようにってな
-キリト
+So shouting out the answer forced
+him to take his true form.
+Kirito
 407201101_9_a
 MeE
-ああ、いわゆるクエスト達成条件で
-そういう風に設定されてたんだろ
-キリト
+Yeah, I think the quest was set to
+resolve when one of us revealed
+the bad guy's secret.
+Kirito
 407201101_8_a
 MeE
-キリトが叫んだ瞬間、
-何人もプレイヤーたちが集まって
-一つの姿になったわよ?
-シノン
+After you shouted, a bunch of
+players all sprinted at each
+other and merged into one person.
+Sinon
 407201101_7_a
 MeE
-でもどういうこと?
-シノン
+Explanation, please?
+Sinon
 407201101_6_a
 MeE
-キリトくん!
-アスナ
+Kirito!
+Asuna
 407201101_5_a
 MeE
-シノン
+Sinon
 407201101_4_a
 MeE
-アスナ
+Asuna
 407201101_3_a
 MeE
-ようやくまた会えたな……!
-キリト
+There you are! We've been looking
+for you!
+Kirito
 407201101_2_a
 MeE
 bg_event_japan_castle_inside
-見破られたか……
-H-I-Mob
+So you saw through my
+plot, did you?!
+Hi-Mob
 407201101_1_a
-一つの姿になっていくわよ!!
+Am I seeing things?
+They're merging into one
+person! That's crazy!
+Liz
 407201001_32_a
+Liz
 407201001_31_a
-どういうこと?
-プレイヤーたちが集まって……?
-シノン
+Hey, a bunch of these players just
+started sprinting at each other...
+That's...weird.
+Sinon
 407201001_30_a
-くっ……!
-プレイヤーB
+Curses!
+Player B
 407201001_29_a
-えっ?
-あの……どうかしました?
-アスナ
+Huh...? Kirito...?
+Do you need to lie down?
+Asuna
 407201001_28_a
-……!
-プレイヤーB
+Good point...
+Player B
 407201001_27_a
-ユージオ
+Eugeo
 407201001_26_a
-アリス
+Alice
 407201001_25_a
-お前たちは一人じゃない!
-複数の姿に分かれて
-この大会に潜んでいたんだ!!
-キリト
+We've seen through your scheme!
+You've made copies of yourself
+and are hiding in this tournament!
+Kirito
 407201001_24_a
-えっ?
-突然どうしたの?
-ユージオ
+Um, Kirito? Are you okay?
+Eugeo
 407201001_23_a
-おい!
-H-I-Mob……いや……
-元・黒マントのケットシー!
-キリト
+Hey! Hi-Mob! I mean, originally
+cloaked Cait Sith bad guy dude!
+Kirito
 407201001_22_a
-そうか……俺たちと対戦させて負かし
-早めにリーグ戦から引きずり落とす
-算段だったみたいだな
-キリト
+So that was his plan... He wanted
+to beat us all quick and force us
+out of the tournament...
+Kirito
 407201001_21_a
-僕ら負けちゃったよ
-相手はやっぱりさっきと同じような
-感じだったよ
-ユージオ
+Alice and I lost pretty bad just
+now. Our opponents were really
+similar again, too.
+Eugeo
 407201001_20_a
-キリト
+Kirito
 407201001_19_a
-ユージオ
+Eugeo
 407201001_18_a
-キリト?
-どうしたのです?
-アリス
+Kirito...? You're muttering to
+yourself. Is everything all right?
+Alice
 407201001_17_a
-別の何者かが一人だと決めつけていた
-だけだったんだ……!
-キリト
+But there was nothing stopping
+him from assuming more than
+one form!
+Kirito
 407201001_16_a
-H-I-Mobはこの世界に
-コンバートすることで別の何者かの姿に
-なったと思っていたが……違ったんだ
-キリト
+I was positive he had assumed
+another form when he converted
+over...
+Kirito
 407201001_15_a
-いや……これは……そうか
-俺は思い違いをしていた……
-キリト
+Wait... Of course! One of my key
+assumptions was wrong!
+Kirito
 407201001_14_a
-どういうことだ……?
-怪しげな奴らが何人もいる……?
-キリト
+So, there are a bunch of
+suspicious characters here...
+What can that mean...?
+Kirito
 407201001_13_a
-さっき後ろから見てた限り……
-リズやシノンの相手たちも
-どこか機械的な行動パターンだったな
-キリト
+But I've been keeping an eye on
+Liz and Sinon's opponents too, and
+they both seem pretty robotic...
+Kirito
 407201001_12_a
-聴く力も身体の動きも凄いのに、
-今のアスナみたいな一種の賭けの
-ような行動を一切取らない
-キリト
+He's fast, smart, and has amazing
+reactions, but he's not trying
+anything to counter Asuna's strat.
+Kirito
 407201001_11_a
-アスナの相手……
-アイツもなんだか怪しいな
-キリト
+Asuna's opponent is pretty
+fishy...
+Kirito
 407201001_10_a
-「ざ」の濁音を読む際に
-一瞬声がこもる感じを聞き取って
-先に手を伸ばして正解だったね……
-アスナ
+but only the one with that dip in
+intonation at the end of "winter"
+is followed by "loneliness"!
+Asuna
 407201001_9_a
-山で始まる上の句は
-「山里は」と「山川に」が
-あるから……
-アスナ
+There are two poems that start
+with "winter,"
+Asuna
 407201001_8_a
-ざとは……冬ぞさびしさ……
-まさりける……
-読み手
+...loneliness in a mountain
+village grows only deeper...
+Reciter
 407201001_7_a
-………………
-プレイヤーB
+...
+Player B
 407201001_6_a
-はい!
-アスナ
+Got it!
+Asuna
 407201001_5_a
-やま……
-読み手
+Winter...
+Reciter
 407201001_4_a
-………………
-アスナ
+...
+Asuna
 407201001_3_a
-アスナ
+Asuna
 407201001_2_a
 bg_event_japan_castle_inside
-………………
-プレイヤーB
+...
+Player B
 407201001_1_a
-キリト
+Kirito
 407200901_63_a
-うん!
-アスナ
+Yep! He's as good as caught!
+Asuna
 407200901_62_a
-そうね
-H-I-Mobがどいつなのか、
-絶対に突き止めましょう
-シノン
+Oh, yeah. He won't escape us.
+Sinon
 407200901_61_a
-シノン
+Sinon
 407200901_60_a
-なるほどね
-よーし、光明が見えてきたわね
+Huh. Well, I think we're close.
+We'll get that dastardly fiend.
+Liz
 407200901_59_a
-悪知恵は働くけど、
-応用はできないってのが
-H-I-Mobの限界なんだろう
-キリト
+Sure, it can be devious and
+clever, but it's not adaptable.
+That's its biggest weakness.
+Kirito
 407200901_58_a
-カーディナルでもさすがに
-そんな複雑なAIは作れないからな……
-キリト
+But I think even Cardinal can't
+replicate an AI of their level
+of complexity.
+Kirito
 407200901_57_a
-アスナ
+Asuna
 407200901_56_a
-ああ、でもあの二人の思考回路は
-俺たち現実世界の人間と
-なにも変わらない……
-キリト
+That's right. And those two are
+effectively no different from a
+human from the real world.
+Kirito
 407200901_55_a
+Liz
 407200901_54_a
-ねえ、H-I-Mobって
-二人を参考にカーディナルが
-作成したって言ってたわよね?
-シノン
+Hey... This "Hi-Mob" of yours...
+You said Cardinal made him from
+Alice and Eugeo's data, right?
+Sinon
 407200901_53_a
-アスナ
+Asuna
 407200901_52_a
-………………
-キリト
+...
+Kirito
 407200901_51_a
-ユージオ
+Eugeo
 407200901_50_a
-ではまた
-アリス
+Good luck.
+Alice
 407200901_49_a
-アリス
+Alice
 407200901_48_a
+Liz
 407200901_47_a
-了解だよ
-じゃあ僕らまた試合だから行くね
-ユージオ
+Roger that! Alice and I will get
+back to playing, then!
+Eugeo
 407200901_46_a
-トーナメント戦じゃないし
-また当たる可能性はあるからね
-アスナ
+Since it's not an elimination
+tournament, we still could
+play one of them again.
+Asuna
 407200901_45_a
-アスナ
+Asuna
 407200901_44_a
-シノン
+Sinon
 407200901_43_a
-みんなもそいつらと対戦したら
-注意してくれ
-キリト
+Yeah. Everyone, keep a close eye
+on those guys if you get another
+chance to play them.
+Kirito
 407200901_42_a
+Liz
 407200901_41_a
-ユージオ
+Eugeo
 407200901_40_a
-なるほど、確かにそういう意味では
-あの相手は怪しいかもしれませんね
-アリス
+Interesting. I did get that sense
+from our quarry as well. In that
+case, I agree with you here.
+Alice
 407200901_39_a
-柔軟な対応が効かないというか
-応用力に欠けるというか……
-そういう特徴があるんだ
-キリト
+However, he lacks... How do I put
+this...? Adaptability? He's not
+very flexible, I think.
+Kirito
 407200901_38_a
-アスナ
+Asuna
 407200901_37_a
-シノン
+Sinon
 407200901_36_a
-ええと、それは……
-奴らは頭もいいし能力値も高いけど
-キリト
+Okay, let me see if I can explain
+it... Our enemy is smart, strong,
+and fast.
+Kirito
 407200901_35_a
-アリス
+Alice
 407200901_34_a
+Liz
 407200901_33_a
-そうなんだ……
-でも変わった戦法ってだけで
-どうしてそう思うのかな?
-ユージオ
+Okay, but why? Sure, they play
+odd, but how's that tie in to our
+Hi-Mob?
+Eugeo
 407200901_32_a
-アスナ
+Asuna
 407200901_31_a
-シノン
+Sinon
 407200901_30_a
-ああ、そうだ
-キリト
+Exactly.
+Kirito
 407200901_29_a
+Liz
 407200901_28_a
-ユージオ
+Eugeo
 407200901_27_a
-その中に例のH-I-Mobが
-いるかもしれないということですか?
-アリス
+You believe our quarry is among
+their number?
+Alice
 407200901_26_a
-なるほど
-可能性は高いね
-アスナ
+Interesting. I think we've got
+a nice lead on our enemy.
+Asuna
 407200901_25_a
-実力はあるのに……
-どこか人間的でなく
-駆け引きのできない相手……
-シノン
+They were all good, but they all
+seemed inhuman and didn't have
+any unique tricks or strategies...
+Sinon
 407200901_24_a
-そういう動きをしない奴らが……
-何人かいるってことか……
-キリト
+So there were a bunch of different
+players who all played the same
+way, huh...
+Kirito
 407200901_23_a
-わざと身体の動きを誤魔化して
-相手にお手付きを狙わせたりする
-戦法とかもあるからね
-アスナ
+or how to fake them out and get
+them to slap the wrong card,
+and so on.
+Asuna
 407200901_22_a
-うん、どの札を相手の陣に送るかとか
-作戦を練ることも必要だし、
-アスナ
+Yeah... Like which cards to give
+them,
+Asuna
 407200901_21_a
-それよりも対戦相手との
-駆け引きが重要だなんて
-言われているものね
-シノン
+but you also need to come up with
+strategies or unique playstyles to
+counter each opponent.
+Sinon
 407200901_20_a
-キリト
+Kirito
 407200901_19_a
-アスナ
+Asuna
 407200901_18_a
-百人一首はもちろん運動能力や
-知識量がないことにはできない
-競技だけど、
-シノン
+You need physical speed and mental
+agility to play karuta well,
+Sinon
 407200901_17_a
-妙に冷静でなんか動きも
-人間味に欠けるというか、
-システマチックな感じがしたのよね
+He was really...cold and
+calculating. He kinda didn't
+even seem human.
+Liz
 407200901_16_a
-あっ……あたしもそういう相手と
-さっき当たったわ
+Oh... I played someone like that
+just now too.
+Liz
 407200901_15_a
-百人一首ならではの
-駆け引きを全くしないんだ
-ユージオ
+In addition, their senses were
+superhuman. Finally, none had
+a unique playing style.
+Eugeo
 407200901_14_a
-アリス
+Alice
 407200901_13_a
+Liz
 407200901_12_a
-特徴としては反応速度や句の覚え方、
-視力や聴力といったものは
-完璧なんだけど、
-ユージオ
+All of them had inhumanly-fast
+reaction speeds and had perfectly
+memorized every card.
+Eugeo
 407200901_11_a
-シノン
+Sinon
 407200901_9_a
-同様の動き?
-どういうこと?
-アスナ
+Similar? What is that supposed to
+mean?
+Asuna
 407200901_8_a
-キリト
+Kirito
 407200901_10_a
-同様の動きをする参加者が
-いるようです
-アリス
+In fact, there were a number
+of competitors who seemed
+suspiciously similar.
+Alice
 407200901_7_a
+Liz
 407200901_6_a
-ユージオ
+Eugeo
 407200901_5_a
-はい、私とユージオの対戦相手も
-そうでしたが、それ以外にも何人か
-アリス
+Correct. The opponents both Eugeo
+and I faced, along with a few
+others.
+Alice
 407200901_4_a
-シノン
+Sinon
 407200901_3_a
-アスナ
+Asuna
 407200901_2_a
 bg_event_japan_castle
-怪しい奴らが何人かいる?
-キリト
+So you played some suspicious
+characters?
+Kirito
 407200901_1_a
 !dE
 !dE
-う、うん……
-ユージオ
+O-Okay, if you're sure...
+Eugeo
 407200801_45_a
 !dE
-いえ、なんでもありません
-キリトたちの元に戻りましょう
-アリス
+Nothing. Forget it.
+Let us find Kirito.
+Alice
 407200801_44_a
 !dE
-アリス、どうしたの?
-ユージオ
+What is it, Alice?
+Eugeo
 407200801_43_a
 !dE
-……?
-アリス
+Good point...
+Alice
 407200801_42_a
 !dE
-筋力、瞬発力、反射神経、
-そして視力、聴力……
-なにもかもが……
-アリス
+He was strong, fast, and quick to
+react. Additionally, his senses
+were all superhuman...
+Alice
 407200801_41_a
 !dE
-私の相手も同様に
-恐ろしいまでの実力者でした
-アリス
+I encountered a similarly fearsome
+foe. His abilities were almost
+frightening.
+Alice
 407200801_40_a
 !dE
-実は僕も負けちゃったんだ
-相手は句の覚え方も完璧だったし、
-反応速度も凄かったよ……
-ユージオ
+I lost too. My opponent had
+all the cards memorized perfectly
+and was really quick.
+Eugeo
 407200801_39_a
 !dE
-はい、強敵でした
-アリス
+Yes. My opponent was extremely
+skilled.
+Alice
 407200801_38_a
 !dE
-あっ、アリス
-負けちゃったんだね……
-ユージオ
+You lost, Alice?
+Eugeo
 407200801_37_a
 !dE
-……はい
-アリス
+...Yes, you do.
+Alice
 407200801_36_a
 !dE
-アリス
+Alice
 407200801_35_a
 !dE
 bg_event_japan_castle_inside
-俺の勝ちだな
-プレイヤーA
+I win.
+Player A
 407200801_34_a
 !dE
-シノン
+Sinon
 407200801_33_a
 !dE
-ええ、そうね
-がんばりましょう
+Sure, fine. Let's go play some
+cards.
+Liz
 407200801_32_a
 !dE
-まぁバトルはどちらにしろ
-しばらくは控えめにしなきゃだけどな
-今はかるた大会に集中だ
-キリト
+Well, we're not going to be
+fighting for a while yet. We need
+to focus on this tournament now.
+Kirito
 407200801_31_a
 !dE
-どっちにしようか迷ったんだけど
-やっぱりわたしも剣がいいかなって
-アスナ
+War Maidens fight bare-handed and
+are really acrobatic, but I feel
+more comfortable with a sword.
+Asuna
 407200801_30_a
 !dE
-わたしは刀巫女だね
-戦巫女っていうのにしたら
-徒手空拳で跳躍力が上がるみたいで
-アスナ
+I was debating going War Maiden,
+but I ended up picking Blade
+Priestess.
+Asuna
 407200801_29_a
 !dE
-アスナ
+Asuna
 407200801_28_a
 !dE
-二人とも合ってるな
-俺はこれまでの経験が活かせそうな
-二刀侍ってのにしてみた
-キリト
+Yeah, those classes fit you two
+like gloves. I went with a dual-
+wielding samurai: the Swordmaster.
+Kirito
 407200801_27_a
 !dE
-あたしはもちろん刀鍛冶よ
-刀鍛冶といえば鍛冶職人としては
-憧れの象徴だもの
+I HAD to go with Bladesmith.
+Every blacksmith dreams about
+being able to forge katanas.
+Liz
 407200801_26_a
 !dE
-和風の世界観だけど
-一応銃が使えるらしいし
-シノン
+I was pretty surprised to learn
+that a game set in old Japan let
+you use guns.
+Sinon
 407200801_25_a
 !dE
-そうね
-私は火縄士っていうのにしたわ
-シノン
+Yeah. I picked Gunner myself,
+and I'd love to try it out.
+Sinon
 407200801_24_a
 !dE
-じゃああたしたちも参戦しましょうか
-本来だとまずはこのジョブとやらを
-試したいトコだけどね
+Well, normally I'd spend a couple
+hours tinkering with my new job
+skills, but let's get our game on!
+Liz
 407200801_23_a
 !dE
+Liz
 407200801_22_a
 !dE
-ふふっ、それは心強いわね
-シノン
+Hehe, good to hear.
+Sinon
 407200801_21_a
 !dE
-はは、俺も顔負けって感じで……
-キリト
+Ha ha, they beat me a bunch
+already. They're really making
+me look bad.
+Kirito
 407200801_20_a
 !dE
-キリト
+Kirito
 407200801_19_a
 !dE
-二人とも根が真面目だからね
-百首あっという間に覚えて
-今ではかなりの実力者なの
-アスナ
+They both take things really
+seriously, so they've already
+mastered it and are kicking butt.
+Asuna
 407200801_18_a
 !dE
-シノン
+Sinon
 407200801_17_a
 !dE
-ホントね、でも二人って
-当然百人一首は初心者でしょ?
-大丈夫なの?
+They're really playing karuta?
+That game's super hard to pick up.
+Are they getting creamed?
+Liz
 407200801_16_a
 !dE
-アスナ
+Asuna
 407200801_15_a
 !dE
-ほら、あっちで大会に出てるぜ
-キリト
+Over there, at the tournament.
+They're doing great.
+Kirito
 407200801_14_a
 !dE
+Liz
 407200801_13_a
 !dE
-あら、ユージオとアリスは?
-シノン
+Where's Eugeo and Alice?
+Sinon
 407200801_12_a
 !dE
-キリト
+Kirito
 407200801_11_a
 !dE
-ううん、十分助かるよ
-アスナ
+Seriously, we owe you big time!
+You're lifesavers!
+Asuna
 407200801_10_a
 !dE
-まぁ結局都合がついたのは
-この二人だけだったけどね
-シノン
+Well, at least you and I had time
+today, Liz. No one else was free.
+Sinon
 407200801_9_a
 !dE
-シノン
+Sinon
 407200801_8_a
 !dE
-別にいいわよ
-むしろ最初から呼んでよ
-水臭いじゃない
+Eh, it only took like two minutes.
+And why didn't you call earlier?
+I thought we were friends.
+Liz
 407200801_7_a
 !dE
-ありがとう、二人とも
-アスカ・エンパイアに
-コンバートしてくれて
-キリト
+Thanks for converting over to
+Asuka Empire to help us.
+Kirito
 407200801_6_a
 !dE
-キリト
+Kirito
 407200801_5_a
 !dE
-わあ、リズにシノのん
-カワイイね～
-アスナ
+Wow, you two look SO cute!!
+Asuna
 407200801_4_a
 !dE
-来たわよ
-シノン
+You called?
+Sinon
 407200801_3_a
 !dE
-シノン
+Sinon
 407200801_2_a
 !dE
 bg_event_japan_castle
-やっほー、二人とも
+Hey-ho! What's up, guys?
+Liz
 407200801_1_a
-そうだな
-人手は多いに越したことはないからな
-キリト
+Great thinking! The more people we
+have, the better our chances.
+Kirito
 407200701_51_a
-ちょっとシノのんたちに
-声をかけてみようか
-来てくれるかもしれないし
-アスナ
+Hmm... I have an idea! Let's call
+in backup! I'll see if Sinonon
+and Liz and everyone can come!
+Asuna
 407200701_50_a
-そしてH-I-Mobかどうかを
-見定めることにあるからな
-キリト
+and discover if our Hi-Mob is
+hiding here.
+Kirito
 407200701_49_a
-勝ち進んでより多くの相手と
-面と向かうこと……
-そこからソイツの動向を窺うこと……
-キリト
+but to play a lot of different
+people, observe them up close,
+Kirito
 407200701_48_a
-アスナ
+Asuna
 407200701_47_a
-ああ、俺たちの目的は
-勝ち進むことじゃない……
-キリト
+Yeah... Our purpose here isn't to
+win this tournament,
+Kirito
 407200701_46_a
-仮に四人で勝ち進んでも、
-多くの相手を見極めることは
-難しいかもしれませんね
-アリス
+Even if all four of us win many
+matches, it has become difficult
+to play all the contestants.
+Alice
 407200701_45_a
-アリス
+Alice
 407200701_44_a
-本当だね、人が増え続けてる……
-ユージオ
+Wow, you're right.
+Look at all of them.
+Eugeo
 407200701_43_a
-ほら、あそこに追加の参加者たちが
-並んでるだろ……?
-キリト
+Look, over there. There's a ton
+of people lining up to join the
+tournament.
+Kirito
 407200701_42_a
-どういうこと?
-アスナ
+Why's that?
+Asuna
 407200701_41_a
-とはいえ……こうして
-のんびり四人で練習を続けても
-ちょっと心配になってきたな
-キリト
+Then again...I'm a bit worried.
+I don't know if it's a great idea
+for us to sit here practicing...
+Kirito
 407200701_40_a
-アスナ
+Asuna
 407200701_39_a
-はは、もちろんだ
-キリト
+Ha ha, I'd be happy to.
+Kirito
 407200701_38_a
-いいでしょう
-その辺りの応用技術も
-私に教えなさい、キリト
-アリス
+Very well! Teach me all these
+sly tricks and devilish secrets,
+Kirito!
+Alice
 407200701_37_a
-くっ……百人一首……
-覚えればよいというほど
-単純ではないようですね……
-アリス
+Grr... This game is far more
+complex than I anticipated...
+Memorization is not enough, is it?
+Alice
 407200701_36_a
-アリス
+Alice
 407200701_35_a
-そこまで聴き分けるなんて
-さすがに僕には無理そうだな……
-ユージオ
+Yeah, there's no way I could pick
+out slight variations in tone like
+that...
+Eugeo
 407200701_34_a
-あ、あはは……
-さすが超反応で二刀流スキルを
-手に入れただけあるね……
-アスナ
+W-Wow... Ha ha... "Easy," he says.
+If you're a crazy, superhuman,
+dual-wielding ninja master.
+Asuna
 407200701_33_a
-まぁ読み手の声質にもよるけど
-その機微を理解すればどちらの
-「か」なのか判断できるって話さ
-キリト
+I'll admit it depends on the
+reciter, but if you know what
+to listen for, it's easy.
+Kirito
 407200701_32_a
-続く言葉によって「か」の
-イントネーションが
-微妙に変わるんだよ
-キリト
+The intonation of the word is
+slightly different depending on
+what word follows.
+Kirito
 407200701_31_a
-いや、さっき教わったんだけどさ
-「かささぎの」と「かくとだに」で
-確かに最初は同じ「か」なんだけど
-キリト
+Nope. No luck here! It was a
+simple trick someone just taught
+me.
+Kirito
 407200701_30_a
-キリト
+Kirito
 407200701_29_a
-確かに……
-今のは当てずっぽうなの?
-アスナ
+Good point. I think he rushed it
+and got lucky.
+Asuna
 407200701_28_a
-「か」から続く句はもう一つ
-「かくとだに」があるのに……?
-アリス
+There are two poems that start
+with "if"...
+Alice
 407200701_27_a
-なぜキリトは一文字目で
-下の句、「白きをみれば」だと
-わかったのですか!?
-アリス
+How did he know it would be "made
+white with a deep-laid frost"?!
+We only heard one syllable!
+Alice
 407200701_26_a
-……ささぎの～
-読み手
+...I see that bridge...
+Reciter
 407200701_25_a
-ユージオ
+Eugeo
 407200701_24_a
-えっ?
-アリス
+Huh?!
+Alice
 407200701_23_a
-アスナ
+Asuna
 407200701_22_a
-これだ!
-キリト
+This one!
+Kirito
 407200701_21_a
-か……
-読み手
+If...
+Reciter
 407200701_20_a
-ユージオ
+Eugeo
 407200701_19_a
-褒めてもなにも出ませんよ
-さあ、次の句が読まれるようです
-アリス
+Sweet words will earn you nothing
+but hard stares from me, Kirito.
+Now, quiet. The next card comes...
+Alice
 407200701_18_a
-なんとなく覚えてる句も
-あるけど……今日始めたばかりで
-その記憶はすごいと思う
-キリト
+But the speed at which she's
+mastering every word and phrase
+is incredible.
+Kirito
 407200701_17_a
-ああ、大したもんだな
-俺やアスナなんかは小さい頃に
-学校で少し習ってるから
-キリト
+Yeah, she's really impressive.
+You and I played this when we were
+kids, so we remember a bunch...
+Kirito
 407200701_16_a
-キリト
+Kirito
 407200701_15_a
-ふふっ、覚えるのは
-アリスさんの方が早そうだね
-アスナ
+Hehe... Alice seems better than
+Eugeo when it comes to memorizing
+things.
+Asuna
 407200701_14_a
-は、はい……
-ユージオ
+Y-Yes, ma'am...
+Eugeo
 407200701_13_a
-ユージオ
+Eugeo
 407200701_12_a
-ユージオ
-それは先ほど学んだことです
-そろそろ覚えなさい
-アリス
+Eugeo, we already went over this
+earlier. I expected better of you.
+Alice
 407200701_11_a
-決まり字が
-最初の五文字じゃないから
-気をつけるんだぞ
-キリト
+In karuta, there are a number of
+sets of poems that start the same.
+You need to be careful.
+Kirito
 407200701_10_a
-アスナ
+Asuna
 407200701_9_a
-はは、朝ぼらけから始まる句は
-二つあるんだ
-キリト
+Ha ha, there are two poems that
+begin with "in the early dawn."
+Kirito
 407200701_8_a
-あれ?
-続く言葉は、有明の月じゃないの?
-ユージオ
+Wait, really?
+I thought the next part was
+"as the moon comes into view"...?
+Eugeo
 407200701_7_a
-いえ、これですね
-アリス
+Incorrect. This one.
+Alice
 407200701_6_a
-宇治の川霧たえだえに～
-読み手
+When the mists on the Uji River
+slowly lift and clear...
+Reciter
 407200701_5_a
-これだ!
-ユージオ
+This one!
+Eugeo
 407200701_4_a
-アリス
+Alice
 407200701_3_a
-ユージオ
+Eugeo
 407200701_2_a
 bg_event_japan_castle_inside
-あさぼらけ～
-読み手
+In the early dawn...
+Reciter
 407200701_1_a
 YcE
 YcE
-キリト
+Kirito
 407200601_37_a
 YcE
-そうしましょう
-アスナ
+Great! Let's get playing!
+Asuna
 407200601_36_a
 YcE
-うん、遠回りかもしれないけど、
-今やれることを一つずつ
-確実にやっていこうか
-ユージオ
+Yeah. It might not be the most
+efficient plan we've come up with,
+but it's a start.
+Eugeo
 407200601_35_a
 YcE
-H-I-Mobが
-見つかるとは思えません
-アリス
+Then again, it's better than
+having no plan, I suppose.
+Alice
 407200601_34_a
 YcE
-ユージオ
+Eugeo
 407200601_33_a
 YcE
-仕方ありませんね
-このまま無作為に探し続けても
-アリス
+sigh
+Fine. But I do not think
+that we'll find our quarry here.
+Alice
 407200601_32_a
 YcE
-アスナ
+Asuna
 407200601_31_a
 YcE
-百人一首の遊び方とか
-基本的なところから
-教えてくれるらしい
-キリト
+It looks like they'll teach you
+all the basics of the game.
+Kirito
 407200601_30_a
 YcE
-と、とりあえず
-あそこの練習場に行ってみよう
-キリト
+H-Hey, is that a practice area?
+Let's go check it out!
+Kirito
 407200601_29_a
 YcE
-キリト
+Kirito
 407200601_28_a
 YcE
-あはは……
-アスナ
+Ahaha, yeah...
+Asuna
 407200601_27_a
 YcE
-うん……
-ユージオ
+It was so obvious.
+Eugeo
 407200601_26_a
 YcE
-ユージオ
+Eugeo
 407200601_25_a
 YcE
-やっぱり楽しもうとしてますね……
-アリス
+Fun? I knew it. You're just here
+to fool around, Kirito.
+Alice
 407200601_24_a
 YcE
-実力つけて勝ち進んだほうが
-色んなプレイヤーと当たれるし、
-そのほうが楽しいだろ
-キリト
+I know how smart you guys are
+you'll figure it out quick and
+have a lot of fun!
+Kirito
 407200601_23_a
 YcE
-アスナ
+Asuna
 407200601_22_a
 YcE
-確かにな、でもこの大会
-連日行われてるらしいから
-時間をかけてでも覚えてみようぜ
-キリト
+True... But this is a multi-day
+tournament! Just learn as you
+go, okay? You'll be fine.
+Kirito
 407200601_21_a
 YcE
-アリス
+Alice
 407200601_20_a
 YcE
-さっき一応やり方を教わったけど
-上の句と下の句を百個も覚えるなんて
-とても即興では無理だよ
-ユージオ
+You did teach us how to play, but
+there's no way we can memorize all
+those word combinations that fast!
+Eugeo
 407200601_19_a
 YcE
-アスナ
+Asuna
 407200601_18_a
 YcE
-さあ、みんな
-今日は見てるだけじゃないぞ
-俺たちも参加するんだからな
-キリト
+Well, we're not just here to
+watch! Come on, guys! Let's
+join the tournament!
+Kirito
 407200601_17_a
 YcE
-ユージオ
+Eugeo
 407200601_16_a
 YcE
-はい……
-あの反応速度は確かに
-学ぶべきところがあるかもしれません
-アリス
+Yes, I concur... I believe I could
+learn much from watching them...
+Alice
 407200601_15_a
 YcE
-一瞬のうちに勝負が決まって……
-すごい見ごたえあるよね……
-アスナ
+Each match is decided in the blink
+of an eye... These players are
+incredible!
+Asuna
 407200601_14_a
 YcE
-前の句を聞いて決まり字の瞬間に
-みんなああやって飛び出して
-かるたを取るんだよ
-アスナ
+The second they hear the first
+phrase, they leap forward and
+snatch the right card...
+Asuna
 407200601_13_a
 YcE
-アスナ
+Asuna
 407200601_12_a
 YcE
-あっちは本格的なかるた……
-百人一首の大会みたいだな
-キリト
+That group over there is playing
+the real deal: hyakunin isshu.
+Kirito
 407200601_11_a
 YcE
-みんなすごい速さだね……
-俊敏性の高さなら
-キリト以上なんじゃ……
-ユージオ
+They're really fast...
+Their reaction speed might
+even beat Kirito's!
+Eugeo
 407200601_10_a
 YcE
-ユージオ
+Eugeo
 407200601_9_a
 YcE
-なっ……!
-アリス
+Wh-What speed!!
+Alice
 407200601_8_a
 YcE
-ひさかたの～
-読み手
+The days grow warmer, yet...
+Reciter
 407200601_7_a
 YcE
-あそこは簡単な子供向けかるたの
-コーナーって感じだね
-アスナ
+I think that's a karuta corner
+for kids.
+Asuna
 407200601_6_a
 YcE
-おおっ、やってるな
-キリト
+Ooh, nice!
+Kirito
 407200601_5_a
 YcE
-はい!!
-プレイヤー
+This one!!
+Player
 407200601_4_a
 YcE
-アスナ
+Asuna
 407200601_3_a
 YcE
-キリト
+Kirito
 407200601_2_a
 YcE
 bg_event_japan_castle_inside
-犬も歩けば～
-読み手
+Every time a dog goes on a
+stroll...
+Reciter
 407200601_1_a
-アスナ
+Asuna
 407200501_45_a
-ああ!
-キリト
+Yeah!
+Kirito
 407200501_44_a
-さ、さあ今はそれよりも
-そのかるた大会の会場へと
-急ぎましょう!
-アリス
+N-Now come, we have important work
+to do! To Ayakashi Alley!
+Alice
 407200501_43_a
-ユージオ
+Eugeo
 407200501_42_a
-わ、笑ってなどいません!
-なにを呆けたことを!
-アリス
+N-No I didn't! I most certainly
+did not laugh! I merely...cleared
+my throat.
+Alice
 407200501_41_a
-キリト
+Kirito
 407200501_40_a
-あっ、アリスさんが笑った!
-アスナ
+Oh my gosh! Alice just laughed!!
+Asuna
 407200501_39_a
-ふっ……
-アリス
+...
+snicker
+Alice
 407200501_38_a
-アリス
+Alice
 407200501_37_a
-あはは!
-ユージオ
+Ahaha!
+Eugeo
 407200501_36_a
-アスナまで勘弁してくれよ～
-キリト
+Asuna, you too? Give me a break!
+Kirito
 407200501_35_a
-ふふっ、二人とも
-キリトくんのこと
-かなり分かってきてるね～
-アスナ
+Hehe... You two have learned how
+to read Kirito pretty well. I'd say
+you're on to something.
+Asuna
 407200501_34_a
-アスナ
+Asuna
 407200501_33_a
-お、おいおい!
-そんなことないって!
-今は神器奪取が優先だろ!?
-キリト
+H-Hey, hold it! Priorities! I have
+'em! I know getting that Divine
+Object comes first!
+Kirito
 407200501_32_a
-いつもその場所の珍しいことを
-なにか試したくなる性質だし
-ユージオ
+you just HAVE to try anything
+and everything. Especially games.
+Eugeo
 407200501_31_a
-アリス
+Alice
 407200501_30_a
-なるほど、アリスの言葉は一理あるね
-キリトって新しい場所に行くと
-ユージオ
+Alice has a very good point.
+Every time you go somewhere new,
+Eugeo
 407200501_29_a
-アスナ
+Asuna
 407200501_28_a
-えっ、ええっ!?
-キリト
+N-No, not at all! Honest!
+Kirito
 407200501_27_a
-ユージオ
+Eugeo
 407200501_26_a
-キリト……
-そういう理由にかこつけて
-本当はその大会に出たいだけでは?
-アリス
+Kirito... You have purposefully
+formulated a paper-thin excuse to
+play this karuta game. Admit it.
+Alice
 407200501_25_a
-ああ、だからこそ近くで相対して
-疑ってみるべきだと思う……
-キリト
+Exactly. So we join the tournament
+and give each and every player a
+close look over. Sound good?
+Kirito
 407200501_24_a
-うん、活躍してるプレイヤーほど
-怪しく見えないだろうし
-アスナ
+Hmm, that kinda makes sense. We
+wouldn't expect him to be standing
+in the spotlight.
+Asuna
 407200501_23_a
-さっきの木の葉理論でいくなら、
-大会会場で一番怪しまれないのは……
-選手自身だ
-キリト
+or playing himself. What better
+place for him to hide in plain
+sight than on stage?
+Kirito
 407200501_22_a
-アスナ
+Asuna
 407200501_21_a
-その大会の観客に紛れてる
-可能性もあるけど、
-キリト
+I bet you our elusive enemy is
+in Ayakashi Alley. Either watching
+the tournament,
+Kirito
 407200501_20_a
-アリス
+Alice
 407200501_19_a
-どうして?
-ユージオ
+Why?
+Eugeo
 407200501_18_a
-アスナ
+Asuna
 407200501_17_a
-いや、参加した方がいいかもって
-俺は思ってる……
-キリト
+Well, hold on a sec. It might be
+a good idea to join the karuta
+tournament.
+Kirito
 407200501_16_a
-ユージオ
+Eugeo
 407200501_15_a
-別に私は遊ぶとは一言も……
-アリス
+I have no desire to waste my time
+playing this game.
+Alice
 407200501_14_a
-単純な遊びだから
-すぐに覚えられると思うよ
-アスナ
+The rules are pretty simple, so
+it's quite easy to pick up.
+Asuna
 407200501_13_a
-キリト
+Kirito
 407200501_12_a
-カード……えと絵札を使った遊びだね
-日本……いえ、アスカ・エンパイアの
-古くからの伝統的な行事みたい
-アスナ
+It's a game you play with picture
+cards. It's sort of a tradition in
+Japan... I mean, the Asuka Empire.
+Asuna
 407200501_11_a
-かるたとは何ですか?
-アリス
+What is this "karuta" you speak of?
+Alice
 407200501_9_a
-ユージオ
+Eugeo
 407200501_10_a
-アスナ
+Asuna
 407200501_8_a
-ああ、かるた大会らしいな
-そこがこの正月イベントの中でも
-今一番盛り上がってるらしい……
-キリト
+Supposedly, it's karuta. That game
+is the most popular one here
+during the New Year's season.
+Kirito
 407200501_7_a
-アリス
+Alice
 407200501_6_a
-あの人の話によると、この
-《あやかし横丁》で今ある伝統的な
-遊戯大会が行われてるんだよね
-ユージオ
+Well, we know that there's a big,
+traditional game tournament going
+on today in Ayakashi Alley.
+Eugeo
 407200501_5_a
-キリト
+Kirito
 407200501_4_a
-三つ葉探偵事務所……
-一応評判はいいみたいだから
-大丈夫じゃないかな?
-アスナ
+The Mitsuba Detective Agency has
+a good reputation, so I think so.
+Asuna
 407200501_3_a
-ユージオ
+Eugeo
 407200501_2_a
 bg_event_festival
-先ほどの探偵とやら……
-随分と怪しげな雰囲気でしたが
-信用して良いのでしょうか?
-アリス
+That detective seemed extremely
+unreliable. Do you really think we
+can trust someone like that?
+Alice
 407200501_1_a
-なるほど……!
-キリト
+Ahh, interesting theory!
+Kirito
 407200401_36_a
-つまり……今この町で一番
-人だかりができている所を
-調べればいいんじゃないかな?
-アスナ
+My guess is, he found the most
+crowded place in town and is
+hiding out there.
+Asuna
 407200401_35_a
-更にそこから裏をかくことはできない
-と思うの
-アスナ
+But I highly doubt he had the time
+to come up with an even sneakier
+or more ingenious plan.
+Asuna
 407200401_34_a
-木の葉を隠すなら森の中ってことを
-発想できるのはわかったけど
-アスナ
+He came here so that he could hide
+in plain sight, right? Like a tree
+in the forest.
+Asuna
 407200401_33_a
-ん、アスナ
-どういうことだ?
-キリト
+Why do you say that, Asuna?
+Kirito
 407200401_32_a
-でもそこまで考えることが
-わたしは彼にできる限界だと思うよ
-アスナ
+Well, I think we won't have to
+worry about any other deceptions
+or tricks.
+Asuna
 407200401_31_a
-敵は想像以上に賢いな……
-キリト
+He's way smarter than we
+anticipated...
+Kirito
 407200401_30_a
-一つはコンバートして姿を変えるため
-そしてもう一つはこの正月イベントに
-紛れて身を隠すため……
-キリト
+Converting let him change his
+appearance and lose us in this
+holiday crowd.
+Kirito
 407200401_29_a
-なるほど……奴がここを選んだ
-理由は幾つかあるみたいだな
-キリト
+I wouldn't be surprised. He really
+thought of everything, huh?
+Kirito
 407200401_28_a
-まさか……H-I-Mobは
-この騒ぎに紛れるためにわざと……?
-アスナ
+Do you think that's why he came
+here? To hide from us in all this
+chaos?
+Asuna
 407200401_27_a
-アスナ
+Asuna
 407200401_26_a
-……!
-キリト
+Good point...
+Kirito
 407200401_25_a
-アリス
+Alice
 407200401_24_a
-これだけ喧噪に溢れた場所に
-H-I-Mobが隠れたとなると
-見つけるのは至難の業だよ
-ユージオ
+All this commotion will make it
+nearly impossible to find our
+Hi-Mob.
+Eugeo
 407200401_23_a
-アスナ
+Asuna
 407200401_22_a
-……なにがだ?
-キリト
+About what?
+Kirito
 407200401_21_a
-うーん、僕は平気だけど……
-ちょっと心配だね
-ユージオ
+Well, I like it here. It's fun!
+But I am a bit worried...
+Eugeo
 407200401_20_a
-ユージオ
+Eugeo
 407200401_19_a
-なるほど……新年ですか
-人々が活気づくのも頷けますが
-騒がしいのは少々気に障ります
-アリス
+I see. That explains why they are
+all reveling so, but I find it a
+bit too loud for my tastes.
+Alice
 407200401_18_a
-キリト
+Kirito
 407200401_17_a
-新年を迎えて記念の行事が
-沢山行われてるってことだね
-アスナ
+Yup! And they apparently celebrate
+it in style!
+Asuna
 407200401_16_a
-アリス
+Alice
 407200401_15_a
-正月?
-ユージオ
+It's New Year's here?
+Eugeo
 407200401_14_a
-なにせ今このアスカ・エンパイアは
-正月イベントの真っ最中だからな
-キリト
+Asuka Empire's right in the middle
+of celebrating the New Year!
+Kirito
 407200401_13_a
-アスナ
+Asuna
 407200401_12_a
-お祭りっぽいのは
-もう一つ理由があると思うぜ
-キリト
+Well, I don't think it's "like"
+a festival, I think it IS a
+festival!
+Kirito
 407200401_11_a
-どこもかしこもお祭りって感じだ
-ユージオ
+It's like a festival!
+Eugeo
 407200401_10_a
-アリス
+Alice
 407200401_9_a
-町の作りや装飾もそうだけど、
-ここで暮らしてる人や怪物たちも
-なんだか見た目が派手だよね
-ユージオ
+You know, looking around,
+this place is pretty flashy.
+Everything's so...lively!
+Eugeo
 407200401_8_a
-キリト
+Kirito
 407200401_7_a
-う、うん、あれくらいなら……ね
-わたしが嫌いなのはもうちょっと
-ホラーな感じだから……
-アスナ
+Not really. I can take these kinds
+of ghosts and goblins. It's the
+horror stuff I can't deal with.
+Asuna
 407200401_6_a
-ユージオ
+Eugeo
 407200401_5_a
-アスナはああいった
-怪物に恐怖することはないのですか?
-アリス
+You are not terrified by these
+fearsome apparitions, Asuna?
+Alice
 407200401_4_a
-すごいね
-まさに魑魅魍魎の跋扈する
-世界観って感じね
-アスナ
+Yeah, it's like all the monsters
+and demons of Japanese folklore
+are everywhere here!
+Asuna
 407200401_3_a
-アスナ
+Asuna
 407200401_2_a
 bg_event_festival
-おおっ……
-侍に交じって妖怪が歩いてるぞ……
-キリト
+Whoa! Samurai and Japanese
+monsters are all just walking
+around town! So cool!
+Kirito
 407200401_1_a
 -bE
 -bE
-アスナ
+Asuna
 407200301_52_a
 -bE
-よし、んじゃあ
-新たな世界の探索開始だ!
-キリト
+Great! Now, let's take a look
+around and see what this new
+world's like!
+Kirito
 407200301_51_a
 -bE
-ユージオ
+Eugeo
 407200301_50_a
 -bE
-分かりました
-ではそのように呼び合うことに
-しましょう
-アリス
+Understood. From here on, we shall
+call our enemy "Hi-Mob."
+Alice
 407200301_49_a
 -bE
-そういう言い方するしか
-ないねって話してたの
-アスナ
+I guess that's a good enough way
+to refer to him for now.
+Asuna
 407200301_48_a
 -bE
-キリト
+Kirito
 407200301_47_a
 -bE
-賢い敵って感じかな
-姿で特徴を表現することが
-できないから
-アスナ
+It means "a very smart enemy."
+Since we don't know what he looks
+like anymore,
+Asuna
 407200301_46_a
 -bE
-アリス
+Alice
 407200301_45_a
 -bE
-ハイモブ……
-えと、どういう意味かな?
-ユージオ
+Hi-Mob? What's that supposed
+to mean?
+Eugeo
 407200301_44_a
 -bE
-High Intelligence Mob
-略して《H-I-Mob》だ
-キリト
+Highly Intelligent Mob,
+or "Hi-Mob" for short.
+Kirito
 407200301_43_a
 -bE
-アスナ
+Asuna
 407200301_42_a
 -bE
-そのとおりだ
-そこで今から奴をこう呼ぼうと思う
-キリト
+Exactly. Hey, I've got an idea.
+Since he's no longer a Cait Sith,
+let's give him a new name.
+Kirito
 407200301_41_a
 -bE
-ユージオ
+Eugeo
 407200301_40_a
 -bE
-既に猫妖精ではなくなっていると?
-アリス
+So he no longer appears to be a
+Cait Sith?
+Alice
 407200301_39_a
 -bE
-……むしろそれも世界を移動した
-理由の一つかもしれないな
-キリト
+Hmm... Maybe disguising himself
+was one of the reasons why he
+jumped worlds...
+Kirito
 407200301_38_a
 -bE
-アスナ
+Asuna
 407200301_37_a
 -bE
-ああ、この世界の人物として
-ふさわしい姿になっている
-かもしれない
-キリト
+Yeah, and it's likely he assumed
+the clothes and form of a local
+to blend in.
+Kirito
 407200301_36_a
 -bE
-アリス
+Alice
 407200301_35_a
 -bE
-姿を……?
-そんなことができるの?
-ユージオ
+He can do that?
+Eugeo
 407200301_34_a
 -bE
-いえ、自分自身の姿を変えてる
-可能性があるの
-アスナ
+I mean, when he came to this
+world, he may have changed
+his appearance.
+Asuna
 407200301_33_a
 -bE
-キリト
+Kirito
 407200301_32_a
 -bE
-それなんだけど……
-彼はこの世界に来たことで
-コンバートして……
-アスナ
+About that...
+When he converted...
+Asuna
 407200301_31_a
 -bE
-わ、忘れてないよ
-あの黒マントの猫妖精を
-見つけることだよね
-ユージオ
+S-Sorry, Alice. I know...
+We're here to find that
+cloaked Cait Sith...
+Eugeo
 407200301_30_a
 -bE
-ユージオ、お前はのんきすぎます
-我々がここに来た目的を
-忘れたのですか?
-アリス
+Eugeo, this is not a leisurely
+outing. We have a purpose here,
+or have you forgotten?
+Alice
 407200301_29_a
 -bE
-アリス
+Alice
 407200301_28_a
 -bE
-なんか楽しそうだね
-ちょっと見て回りたい気分だよ
-ユージオ
+Well, I like it here! It seems
+like a fun place! Can we go
+explore now?
+Eugeo
 407200301_27_a
 -bE
-歴史や文明の成り立ちがだいぶ違う
-そのせいで町の景観や人々の暮らしも
-異なってるってわけさ
-キリト
+It has its own history and
+culture. That's why the people and
+buildings look totally different.
+Kirito
 407200301_26_a
 -bE
-アスナ
+Asuna
 407200301_25_a
 -bE
-お、おう……そうだ
-この世界はアルヴヘイムとは
-完全に隔離されてるから
-キリト
+Y-Yeah, that's right. This world
+is completely separate from
+Alfheim.
+Kirito
 407200301_24_a
 -bE
-ユージオ
+Eugeo
 407200301_23_a
 -bE
-それにしてもここがあの黒い空間の
-先の世界……アルヴヘイムとは別の
-異空間というのは本当なのですか?
-アリス
+We're done speaking of fashion. Is
+this truly the world beyond that
+void? Are we no longer in Alfheim?
+Alice
 407200301_22_a
 -bE
-アスナ
+Asuna
 407200301_21_a
 -bE
-ぐっ……
-キリト
+Ouch...
+Kirito
 407200301_20_a
 -bE
-ユージオ
+Eugeo
 407200301_19_a
 -bE
-キリトは
-あまり変わり映えしませんね……
-アリス
+Kirito, the change in your
+appearance is barely worth noting.
+Alice
 407200301_18_a
 -bE
-アスナ
+Asuna
 407200301_17_a
 -bE
-へへっ、カッコいいだろ?
-キリト
+Hehe. I look pretty cool, right?
+Kirito
 407200301_16_a
 -bE
-アリス
+Alice
 407200301_15_a
 -bE
-へえ、二人とも装備も変わってるね
-ユージオ
+Hmm, you both are wearing pretty
+unique new outfits.
+Eugeo
 407200301_14_a
 -bE
-キリト
+Kirito
 407200301_13_a
 -bE
-ええと、気分転換に
-少し髪色を変えてみたの
-アスナ
+Well... I thought like changing my
+hair color might feel nice, that's
+all!
+Asuna
 407200301_12_a
 -bE
-ユージオ
+Eugeo
 407200301_11_a
 -bE
-イメチェ……なんですか?
-アリス
+Mix...what up?
+Alice
 407200301_10_a
 -bE
-キリト
+Kirito
 407200301_9_a
 -bE
-あ、ええと……うん
-イメチェンかな?
-アスナ
+Yup, it's me! I guess I just felt
+like it was time for a change.
+Mix it up a little, you know?
+Asuna
 407200301_8_a
 -bE
-ユージオ
+Eugeo
 407200301_7_a
 -bE
-お前……もしやアスナですか?
-毛髪の色が違うようですが
-アリス
+You are...Asuna? Your hair is a
+different color, but...
+Alice
 407200301_6_a
 -bE
-キリト
+Kirito
 407200301_5_a
 -bE
-二人とも、おはよう
-身体にどこかおかしな所とかは
-ないかな?
-アスナ
+Good morning, guys!
+How are you feeling?
+Asuna
 407200301_4_a
 -bE
-わっ……なんだか奇抜な世界だね
-ユージオ
+Wow! This world is so...bizarre!
+Eugeo
 407200301_3_a
 -bE
-ユージオ
+Eugeo
 407200301_2_a
 -bE
 bg_event_japan_castle
-……ここは
-アリス
+Where...are we?
+Alice
 407200301_1_a
-ガイドブックに書かれてたな
-よし、じゃあ俺は……
-キリト
+Let me just check the class
+descriptions... Hmm, let's go
+with...this one.
+Kirito
 407200201_26_a
-これは……《ジョブ》か
-なるほど、そういや職業みたいなのを
-最初に決めるって
-キリト
+It wants me to pick a job?
+I guess I need to set a class
+before joining...
+Kirito
 407200201_25_a
-最後に選択する項目があるな……
-キリト
+Huh, what's this?
+Kirito
 407200201_24_a
-よし、これでコンバートは
-ほぼ完了だな……
-キリト
+The character conversion's almost
+complete...
+Kirito
 407200201_23_a
 bg_white
-………………
-キリト
+...
+Kirito
 407200201_22_a
-明日奈
+Asuna
 407200201_21_a
-ああ!
+Yeah!
+Kazuto
 407200201_20_a
-二人も早く起こしてくれって
-待ってると思うよ!
-明日奈
+I bet Alice and Eugeo can't wait
+for us to get there and wake them
+up!
+Asuna
 407200201_19_a
-うん、そうだね
-よーし、じゃあ行きましょう
-新たな世界へ!
-明日奈
+Yeah, you're right.
+Well, let's get to it!
+To a new world!
+Asuna
 407200201_18_a
-そこから奴の行く先を読み、
-追い詰める……今できることは
-それしかないと思う
+We just need to predict his next
+move, set a trap, and corner him.
+Easy as that.
+Kazuto
 407200201_17_a
-カーディナルがたとえ模倣しても
-そこには限界があるはずだ
+Well, their minds work just like
+ours. In other words, AI or not,
+he's got human limitations.
+Kazuto
 407200201_16_a
-でも逆にそれが弱点にもなるだろう
-アスナも理解してると思うけど
-アリス達の思考は人間と全く同じ
+But that's also his weakness.
+Cardinal based that Cait Sith off
+Alice and Eugeo's data, right?
+Kazuto
 407200201_15_a
-さすがはカーディナルが
-アリスさんたちを模倣して作り出した
-AIなだけはあるね
-明日奈
+Still, I'm amazed he thought to
+jump VRMMOs. Cardinal really
+knows how to build an AI bad guy.
+Asuna
 407200201_14_a
-でもそこまで思考が働くなんて……
-明日奈
+I suppose that makes sense...
+Asuna
 407200201_13_a
-それはNPCであっても一緒なのは
-同じなんだと思う
+Player character data or NPC.
+Either way, the format's the same.
+Kazuto
 407200201_12_a
-ああ、ザ・シードネクサスで
-繋がったVRMMOならコンバートや
-データ移管は可能……
+Yeah. It's connected to the Seed
+Nexus, just like ALO, so data can
+be transferred between the two.
+Kazuto
 407200201_11_a
-アスカ・エンパイア……
-前にユウキが遊んでたって
-言ってたゲームだよね
-明日奈
+Yuuki used to play Asuka Empire,
+right?
+Asuna
 407200201_10_a
-《アスカ・エンパイア》の見た目に
-そっくりだったんだ
+And it's got to be Asuka Empire.
+It looked just like it.
+Kazuto
 407200201_9_a
-アスナも見ただろ?
-あの町の景観……あれはザ・シードで
-作られた和風VRMMO
+Well, you saw it, right? That town
+was definitely not from ALO. It
+was a Japanese-themed VRMMO.
+Kazuto
 407200201_8_a
-でも本当なのかな?
-あのケットシー……ALOから出て
-別のVRMMOに逃げたなんて……
-明日奈
+But...did that Cait Sith really
+leave ALO and travel to another
+VRMMO? It seems impossible...
+Asuna
 407200201_7_a
-ああ……
+Yeah, that wouldn't have gone
+over well...
+Kazuto
 407200201_6_a
-仕方ないよ……これからALOじゃない
-別のVRMMOに行くなんて言っても
-信じてもらえないだろうし
-明日奈
+And they were right to be. Not
+like they would've believed us if
+we said we're switching VRMMOs...
+Asuna
 407200201_5_a
-二人はだいぶ怪訝な感じだったけどな
+They were pretty suspicious about
+the whole affair.
+Kazuto
 407200201_4_a
-うん、アリスさんとユージオさんの
-アバターデータをコンバート用に
-マージできたよ
-明日奈
+I'm just glad we were able to
+format Alice and Eugeo's data so
+they could be converted over.
+Asuna
 407200201_3_a
-明日奈
+Asuna
 407200201_2_a
-bg_os_town_1
-よし、これで準備万端だな
+bg_18_school
+Looks like we're all ready to go.
+Kazuto
 407200201_1_a
 eaE
 eaE
-なにかわかったの、キリトくん……?
-アスナ
+Couldn't be what, Kirito?
+Asuna
 407200101_51_a
 eaE
-こいつはもしかして……?
-キリト
+Hmm... No, it couldn't be...
+Kirito
 407200101_50_a
 eaE
-でも今ALOでは
-そんなイベントはやってないし……
-キリト
+But I haven't heard of any
+Japanese-themed events
+happening in ALO now...
+Kirito
 407200101_49_a
 eaE
-……これまで節分とか七夕とか
-季節物とかでやってきたような
-イベント限定エリアって感じがするね
-アスナ
+Maybe it's a special event area,
+like what we had for Setsubun
+or Tanabata?
+Asuna
 407200101_48_a
 eaE
-アスナ
+Asuna
 407200101_47_a
 eaE
-あ、ええと……なんというか
-建物の文化が違うというか……
-キリト
+Oh, uh...how do I explain this...?
+The buildings look like they're
+from a different culture.
+Kirito
 407200101_46_a
 eaE
-ユージオ
+Eugeo
 407200101_45_a
 eaE
-和風……?
-アリス
+Japanese...?
+Alice
 407200101_44_a
 eaE
-町には違いないみたいだけど……
-んん? なんか和風というか……
-アルヴヘイムっぽくないな
-キリト
+It definitely is a town, but it
+doesn't look like any I've seen
+in Alfheim. It's very...Japanese.
+Kirito
 407200101_43_a
 eaE
-キリト
+Kirito
 407200101_42_a
 eaE
-あっ、ホントだね
-あれは……町?
-アスナ
+Hey, you're right!
+I think it's a town!
+Asuna
 407200101_41_a
 eaE
-アリス
+Alice
 407200101_40_a
 eaE
-ねえ、あれを見て
-黒い空間の向こう側に……
-なにか見えるよ!
-ユージオ
+I can see something on the other
+side of that black void!
+Eugeo
 407200101_39_a
 eaE
-アスナ
+Asuna
 407200101_38_a
 eaE
-どうした、ユージオ?
-キリト
+What is it, Eugeo?
+Kirito
 407200101_37_a
 eaE
-残念だね……あれ?
-ユージオ
+Well, we tried... Huh?
+Eugeo
 407200101_36_a
 eaE
-ここまで来てみすみす見逃すとは……
-アリス
+I can't believe we let him
+escape us like that...
+Alice
 407200101_35_a
 eaE
-ユージオ
+Eugeo
 407200101_34_a
 eaE
-あの猫妖精が残る二つのうち一つの
-神器を所有していることまで
-分かったというのに、
-アリス
+There's only two Divine Objects
+left, and we know now that this
+Cait Sith has one of them...
+Alice
 407200101_33_a
 eaE
-そうみたいだな……
-くそっ……せっかくここまで
-追い詰めたのに……!
-キリト
+Apparently...
+Damn! And we were so close too!
+Kirito
 407200101_32_a
 eaE
-キリト
+Kirito
 407200101_31_a
 eaE
-どこかへ通じてるのは
-間違いなさそうだけど、
-あの人しか入れないってことなの?
-アスナ
+It's a portal to
+another place, Eugeo, but one
+that only he can use.
+Asuna
 407200101_30_a
 eaE
-アリス
+Alice
 407200101_29_a
 eaE
-これは一体……?
-ユージオ
+Just what is this thing?
+Eugeo
 407200101_28_a
 eaE
-俺たちも無理そうだな……
-キリト
+I don't think we can either.
+Kirito
 407200101_27_a
 eaE
-アスナ
+Asuna
 407200101_26_a
 eaE
-………………
-キリト
+...
+Kirito
 407200101_25_a
 eaE
-ユージオ
+Eugeo
 407200101_24_a
 eaE
-この空間……
-私では入れない……?
-アリス
+I...can't enter this strange
+void?
+Alice
 407200101_23_a
 eaE
-アリスさん!
-アスナ
+Alice!
+Asuna
 407200101_22_a
 eaE
-アスナ
+Asuna
 407200101_21_a
 eaE
-アリス!
-キリト
+Alice!
+Kirito
 407200101_20_a
 eaE
-なっ……!?
-アリス
+What?!
+Alice
 407200101_19_a
 eaE
-アリス
+Alice
 407200101_18_a
 eaE
-くっ、あの黒い空間へと
-入っていきました!
-我々も行きましょう……!
-アリス
+He fled into that black void!
+Quickly now, after him!
+Alice
 407200101_17_a
 eaE
-アリス
+Alice
 407200101_16_a
 eaE
-bg_event_alne_field
-あ、待て!!
-ユージオ
+bg_event_dungeon_sao
+Wait!
+Eugeo
 407200101_15_a
 eaE
 bg_black
-さらばだ
-妖精たち……!
-黒マント
+Farewell, foolish fairies!
+Cloaked Cait Sith
 407200101_14_a
 eaE
-キリト
+Kirito
 407200101_13_a
 eaE
-どこかへ逃げようとしてる……?
-アスナ
+Oh no! He's going to get away!
+Asuna
 407200101_12_a
 eaE
-あれはワープゾーン?
-アイツが作り出したのか?
-キリト
+Did he just summon a portal?!
+Kirito
 407200101_11_a
 eaE
-えっ!?
-あ……あれを見て!
-アスナ
+Huh?!
+Look, over there!
+Asuna
 407200101_9_a
 eaE
-キリト
+Kirito
 407200101_10_a
 eaE
-黒マント
+Cloaked Cait Sith
 407200101_8_a
 eaE
-仕方ない……
-黒マント
+Hmph, they've forced my hand...
+Cloaked Cait Sith
 407200101_7_a
 eaE
-アスナ
+Asuna
 407200101_6_a
 eaE
-ああ!
-キリト
+Yeah!
+Kirito
 407200101_5_a
 eaE
-ここまで追い詰めたんだ!
-絶対に逃がさないぞ!
-ユージオ
+We've tracked him this far!
+We won't let him get away!
+Eugeo
 407200101_4_a
 eaE
-ユージオ
+Eugeo
 407200101_3_a
 eaE
-待ちなさい!!
-アリス
+Stop right there!!
+Alice
 407200101_2_a
 eaE
-bg_event_alne_field
-くっ……!
-黒マント
+bg_event_dungeon_sao
+Curses!
+Cloaked Cait Sith
 407200101_1_a
 Sphica
 407101201_41_a
@@ -97368,6 +97448,382 @@ bg_event_wonderland
 Take THIS!
 Yuuki
 1450041_1_a
+Liz
+1450038_19_a
+Of course. Let's show the world
+that you don't need levels to win:
+just brains and talent.
+Sinon
+1450038_18_a
+Yeah...to their deaths!
+Let's crush these suckers!
+Liz
+1450038_17_a
+I... Th-That's... Er...
+Sinon
+1450038_16_a
+TO VICTORY!!
+CHAAARGEEE!!!
+???
+1450038_15_a
+Love ya too, Sinon. Seriously,
+though, we make the perfect
+team for this quest!
+Liz
+1450038_14_a
+Heh. I'm glad you're on my side.
+Sinon
+1450038_13_a
+That's why it only took me the
+blink of an eye to make a field's
+worth of stockades!
+Liz
+1450038_12_a
+Bingo! I know my job's
+"Bladesmith," but I can make
+all sorts of cool stuff!
+Liz
+1450038_11_a
+That means we don't have to worry
+about a massed charge. One enemy
+at a time.
+Sinon
+1450038_10_a
+Aha. Only one horse should be able
+to go through at once.
+Sinon
+1450038_9_a
+Notice how I left little openings
+between the fences at staggered
+intervals? That's on purpose.
+Liz
+1450038_8_a
+Fantastic. These will slow the
+enemy down and break their ranks,
+and let me kill them one by one.
+Sinon
+1450038_7_a
+Yup! These should really help us
+limit the enemy cavalry's
+mobility.
+Liz
+1450038_6_a
+A wooden stockade?
+Sinon
+1450038_5_a
+And that's a wrap.
+Hold your applause, please.
+Liz
+1450038_4_a
+Wow...
+Sinon
+1450038_3_a
+Sinon
+1450038_2_a
+bg_event_field
+Heave HO!
+Liz
+1450038_1_a
+Just watch, Sinon!
+I'll have them up in a jiffy!
+Liz
+1450037_16_a
+...What is?
+Sinon
+1450037_15_a
+Hehe... Aww yeah! This is right
+up my alley! It's Liz time!
+Liz
+1450037_14_a
+And that is?
+Sinon
+1450037_13_a
+I just remembered the other thing
+Nobunaga used to beat Takeda's
+cavalry!
+Liz
+1450037_12_a
+However...what?
+Sinon
+1450037_11_a
+YES! How did you not realize
+that?! I mean... Oh!
+Liz
+1450037_10_a
+Hm... Perhaps I was a bit reckless
+in choosing this quest...
+Sinon
+1450037_9_a
+Yeah, but not indefinitely!
+There's at least a couple dozen
+angry guys with swords over there!
+Liz
+1450037_8_a
+Exactly. Luckily, my gun can lay
+down sustained fire.
+Sinon
+1450037_7_a
+Reloading guns from this era takes
+a while, so he set up rotating
+ranks to fire continuous volleys.
+Liz
+1450037_6_a
+But Nobunaga only won Nagashino
+because he had defenses, a genius
+plan, and a whole army.
+Liz
+1450037_5_a
+Okay, historically, guns made
+cavalry obsolete, and I get
+that...
+Liz
+1450037_4_a
+You bet. I'm a Gunner, right?
+I was looking for a quest that
+would let me shine.
+Sinon
+1450037_3_a
+Sinon
+1450037_2_a
+bg_event_field
+Hold on a sec, Sinon. You're going
+to try to recreate Nobunaga's
+tactics...by yourself?
+Liz
+1450037_1_a
+Hehe, now you get it.
+Sinon
+1450035_17_a
+Uh...yeah, actually. Oda Nobunaga
+fought Takeda Shingen's son,
+Katsuyori, right? Oh! Ohhh!!
+Liz
+1450035_16_a
+Have you ever heard of the
+Battle of Nagashino?
+Sinon
+1450035_15_a
+Okay, so you DO have a plan.
+Liz
+1450035_14_a
+I'm smiling in anticipation.
+And, by the way, "sniper" is your
+hint on how we'll win this.
+Sinon
+1450035_13_a
+Ugh, how could I forgot. You're
+Sinon: ice-cold sniper and total
+lunatic. How are you smiling?!
+Liz
+1450035_12_a
+Hehe... Well, we'll just have to
+try and see, won't we?
+Sinon
+1450035_11_a
+We just started this game!
+How are we supposed to take down
+an army of mounted samurai?!
+Liz
+1450035_10_a
+There are ONLY TWO OF US!!
+Liz
+1450035_9_a
+So? This battle is based off one
+from the Warring States period.
+Of course there's lots of enemies.
+Sinon
+1450035_8_a
+Because I see a small army of
+enemy cavalry facing off against
+us here!!
+Liz
+1450035_7_a
+Interesting?!
+Are you blind?!
+Liz
+1450035_6_a
+Yes? It seemed like an interesting
+quest.
+Sinon
+1450035_5_a
+THIS is what you meant by killing
+time?
+Liz
+1450035_4_a
+Huh? What's wrong?
+Sinon
+1450035_3_a
+Sinon
+1450035_2_a
+bg_event_field
+Ugh, Sinon, what are we
+doing here?
+Liz
+1450035_1_a
+I suppose.
+Let's go kill some time.
+Sinon
+1450033_18_a
+Eh, I guess we don't have any
+other choice. Waiting it is.
+Liz
+1450033_17_a
+If you don't mind waiting, two
+kimonos should be returned in
+three or four hours.
+Dry Goods Shopkeep
+1450033_16_a
+Still, you got to hand it to Asuna
+and Alice. It only took them a day
+to become fashion celebrities.
+Liz
+1450033_15_a
+Raising demand by artificially
+limiting supply? I know why they
+do it, but I hate them for it.
+Sinon
+1450033_14_a
+Well, not me, personally. It was
+the developers. They made us do
+it!
+Dry Goods Shopkeep
+1450033_13_a
+So that's why you came up with
+this ridiculous idea of stock and
+limiting rental numbers?
+Liz
+1450033_12_a
+They looked so good, people posted
+about them in forums, and they
+even made it onto MMO Today!
+Dry Goods Shopkeep
+1450033_11_a
+Exactly! We rented kimonos to two
+girls the other day, and they
+really caused a stir!
+Dry Goods Shopkeep
+1450033_10_a
+A kimono craze. In a Japanese
+VRMMO. Surprise.
+Sinon
+1450033_9_a
+Rare outfits make headlines, start
+fads, and bring in customers!
+We hope to start a kimono craze!
+Dry Goods Shopkeep
+1450033_8_a
+Actually, we did this on purpose.
+You see, we're aiming to keep
+stock down and rarity up!
+Dry Goods Shopkeep
+1450033_7_a
+Yeah! It's like a digital library
+running out of books! I'm gonna
+call management!
+Liz
+1450033_6_a
+How does that even work?
+It's an in-game shop. It's data!
+How do they run out of stock?
+Sinon
+1450033_5_a
+What?!
+You're out of stock?!
+Liz
+1450033_4_a
+Sinon
+1450033_3_a
+Liz
+1450033_2_a
+bg_02_fountain_sunset
+We're deeply sorry, but we don't
+have any more kimonos available
+for rental...
+Dry Goods Shopkeep
+1450033_1_a
+Yup. Let's head in.
+Sinon
+1450031_19_a
+Hey, there it is! That's the store
+Alice and Asuna rented their
+kimonos from!
+Liz
+1450031_18_a
+Maybe.
+Sinon
+1450031_17_a
+Maybe they were aiming for a more
+realistic experience?
+Liz
+1450031_16_a
+Kimonos are insanely expensive
+in the real world too.
+Liz
+1450031_15_a
+Yeah, that'd probably get a bunch
+of people pumped to join. Still,
+I suppose they had their reasons.
+Liz
+1450031_14_a
+It'd be great PR to have players
+posting screenshots of their
+kimono-clad characters online.
+Sinon
+1450031_13_a
+I'm surprised, though. As a Japan-
+themed VRMMO, I thought they'd
+be giving the things away.
+Sinon
+1450031_12_a
+Yeah. Then again, we're new here
+and basically penniless, so cheap
+or not, it feels like a lot...
+Sinon
+1450031_11_a
+You're talking about the kimono
+rental service they used, right?
+Liz
+1450031_10_a
+Still, I'm surprised we can get
+our hands on kimonos that cheaply.
+Sinon
+1450031_9_a
+Ugh... But thanks for the
+compliment.
+Sinon
+1450031_8_a
+Come on, Sinon! You're beautiful,
+and you'll look amazing! Why d'ya
+think I forced you to tag along?!
+Liz
+1450031_7_a
+sigh
+... They did look great in
+those kimonos. I doubt I can wear
+one so well.
+Sinon
+1450031_6_a
+That was a CHALLENGE! We're gonna
+find awesome kimonos and look so
+good we'll blow them away!
+Liz
+1450031_5_a
+Of course we are! You saw the pic
+Asuna sent us of her and Alice,
+right?!
+Liz
+1450031_4_a
+I'll go at my own pace.
+We're not in a rush, are we?
+Sinon
+1450031_3_a
+Sinon
+1450031_2_a
+bg_01_starting_city_abnormal
+Sinon! Over here!
+Come on, hurry up!
+Liz
+1450031_1_a
 Yuuki
 1450028_20_a
 Try me.
@@ -108303,6 +108759,412 @@ bg_s2_06_highway
 Hey, Sinon.
 Kirito
 1240011_1_a
+...Thanks, Sinon. I think I've got
+a bit of my confidence back!
+Liz
+1050058_25_a
+Heh, looks like all your years of
+hard crafting work weren't a waste
+after all, huh?
+Sinon
+1050058_24_a
+Th-Thank you very much!
+Liz
+1050058_23_a
+You've got the skills and the
+talent to be one of the best!
+Master Bladesmith
+1050058_22_a
+You looked down just now, but I
+wouldn't feel bad if I were you.
+Master Bladesmith
+1050058_21_a
+I... Th-That's... Er...
+Liz
+1050058_20_a
+You've got the heart of a master
+smith in you. I'm sure the game
+gave you some sort of hidden buff.
+Master Bladesmith
+1050058_19_a
+You spent a long, long time as a
+smith in other VRMMOs, right?
+Master Bladesmith
+1050058_18_a
+It's not all skill points. I could
+tell by the look in your eye when
+you held that hammer...
+Master Bladesmith
+1050058_17_a
+But I just made this character...
+My skill levels are still really
+low...
+Liz
+1050058_16_a
+My guess is that we hit the
+lottery, and your smithing skill
+massively buffed mine somehow.
+Master Bladesmith
+1050058_15_a
+I'm positive. I could never have
+made it by myself.
+Master Bladesmith
+1050058_14_a
+Are...you sure? I just helped you
+out a bit
+I don't think I deserve
+it...
+Liz
+1050058_13_a
+Hey Lisbeth. I'm giving this
+blade to you.
+Master Bladesmith
+1050058_12_a
+For sure. Still, I've worked here
+for a long time, and I've never
+seen a rare blade of this quality.
+Master Bladesmith
+1050058_11_a
+Interesting. I guess game systems
+like this need a worthwhile
+reward to justify all the labor.
+Sinon
+1050058_10_a
+Otherwise, it wouldn't be worth
+all the extra work and effort we
+put into making swords this way.
+Master Bladesmith
+1050058_9_a
+Thing is, occasionally we produce
+an extra-rare, unique blade here.
+Master Bladesmith
+1050058_8_a
+You do?
+Liz
+1050058_7_a
+It's truly an original masterwork!
+Master Bladesmith
+1050058_6_a
+This blade came out incredibly
+well. It doesn't even have a name
+yet.
+Master Bladesmith
+1050058_5_a
+What is it?
+Liz
+1050058_4_a
+Sinon
+1050058_3_a
+Liz
+1050058_2_a
+bg_03_bed_light
+Whoa!
+This is a surprise!
+Master Bladesmith
+1050058_1_a
+Yeah, I guess...
+Liz
+1050057_23_a
+But it's a game, right? Of course
+it's all simplified and easy.
+That makes it more fun.
+Sinon
+1050057_22_a
+I think I let that go to my head.
+I'm so embarrassed with myself...
+Liz
+1050057_21_a
+The rest is just watching the
+chance of success and hoping
+for the best.
+Liz
+1050057_20_a
+In most VRMMOs, smithing is just
+raising your levels, getting mats,
+and smacking them with a hammer.
+Liz
+1050057_19_a
+Liz...
+Sinon
+1050057_18_a
+But a real swordsmith's on a whole
+different level!
+Liz
+1050057_17_a
+I made a name for myself as a
+smith in SAO and ALO, so I have
+some confidence in my skill...
+Liz
+1050057_16_a
+I'm amazed that this sort of
+technique was passed down in
+Japan for over a thousand years.
+Liz
+1050057_15_a
+It's WAY harder work than
+I thought, and requires a
+meticulous eye for detail.
+Liz
+1050057_14_a
+Liz
+1050057_13_a
+How's it going, Liz?
+Sinon
+1050057_12_a
+Y-Yes, sir!
+Liz
+1050057_11_a
+Great, now we fold it over.
+Don't let any air in.
+Master Bladesmith
+1050057_10_a
+Understood!
+Liz
+1050057_9_a
+Liz
+1050057_8_a
+Each spot needs a different sort
+of swing! Pay close attention!
+Master Bladesmith
+1050057_7_a
+Looks like a tough job...
+Sinon
+1050057_6_a
+S-Sorry!
+Liz
+1050057_5_a
+That was too weak! Harder!
+Master Bladesmith
+1050057_4_a
+Y-Yes, sir!
+Liz
+1050057_3_a
+You're hitting too hard!
+Ease up a little!
+Master Bladesmith
+1050057_2_a
+bg_03_bed_light
+Hyah!
+Liz
+1050057_1_a
+Yes, sir!
+Liz
+1050055_18_a
+Listen up! I'll teach you as we
+go, but don't screw up!
+Master Bladesmith
+1050055_17_a
+Ehehe, was it that obvious?
+Liz
+1050055_16_a
+I'm happy for you, Liz. You
+looked like you were itching to
+grab a hammer this whole time.
+Sinon
+1050055_15_a
+Great.
+Master Bladesmith
+1050055_14_a
+Y-Yes! Yes yes yes!
+I'd love to help!!
+Liz
+1050055_13_a
+Truth is, I was looking for an
+apprentice to back me up today.
+Looks like you're it.
+Master Bladesmith
+1050055_12_a
+I need you to be my assistant.
+Swing the second hammer on
+my order.
+Master Bladesmith
+1050055_11_a
+Yeah. I can't do it all myself.
+This is a two-person job.
+Master Bladesmith
+1050055_10_a
+What?! Really?!
+You mean it?!
+Liz
+1050055_9_a
+Oh, I've got an idea.
+Want to help me out?
+Master Bladesmith
+1050055_8_a
+Liz...? You okay?
+Sinon
+1050055_7_a
+Yeah...
+Liz
+1050055_6_a
+The clang-clang smash it with a
+hammer part, right?
+Sinon
+1050055_5_a
+The whole process is so
+incredible... And all this
+leads to the final forging.
+Master Bladesmith
+1050055_4_a
+Liz
+1050055_3_a
+Sinon
+1050055_2_a
+bg_03_bed_light
+So next, we cool the iron and
+break it into chunks...
+Master Bladesmith
+1050055_1_a
+Sure thing. This way.
+Master Bladesmith
+1050053_21_a
+Is it all right if we moved on to
+the next part of the process?
+I want to see it all!
+Liz
+1050053_20_a
+O-Okay, I'll hold my applause.
+Sinon
+1050053_19_a
+We've only just brushed the
+surface here. Making a katana is
+an intricate and amazing process!
+Master Bladesmith
+1050053_18_a
+Well, girls, it's still too early
+to be shocked and awed.
+Master Bladesmith
+1050053_17_a
+I'm glad to see it recreated so
+accurately. Traditional crafts are
+disappearing in the real world.
+Sinon
+1050053_16_a
+I've read a bit about how all this
+works, but I never realized just
+how dangerous it was...
+Liz
+1050053_15_a
+Wow... So working here doesn't
+just put you at risk of burns,
+but also a searing, melty death...
+Liz
+1050053_14_a
+A th-thousand?!
+Sinon
+1050053_13_a
+It's bearable because this is VR,
+but in the real world it gets to
+over 1,000 degrees. Celsius.
+Master Bladesmith
+1050053_12_a
+Yup. We chuck in iron sand and
+melt it into tamahagane. That's
+the stuff we use to make katanas.
+Master Bladesmith
+1050053_11_a
+That huge furnace-thing there is
+used to melt down iron?
+Sinon
+1050053_10_a
+Be my guest.
+Master Bladesmith
+1050053_9_a
+Whoa! You're already my hero!
+Mind if I watch you guys work?!
+Liz
+1050053_8_a
+I'm the guy in charge of this
+furnace! The resident Master
+Bladesmith, at your service!
+???
+1050053_7_a
+Hello there. And you are?
+Sinon
+1050053_6_a
+Of course it's hot!
+What were you expecting?
+???
+1050053_5_a
+Means it's solar flare-level
+hot in here!
+Liz
+1050053_4_a
+For sure! Heat sensitivity is
+turned way down in VR, so for
+us to be feeling it like this...
+Liz
+1050053_3_a
+Liz
+1050053_2_a
+bg_03_bed_light
+It's hot in here...
+Sinon
+1050053_1_a
+Thanks!
+Liz
+1050051_15_a
+Well, I'm happy to keep you
+company. Let's go.
+Sinon
+1050051_14_a
+Liz
+1050051_13_a
+In the real world, good katanas
+are priceless antiques valued by
+collectors all over the globe.
+Liz
+1050051_12_a
+Oh, totally. They make katanas
+there! Katanas aren't just
+weapons, they're art!
+Liz
+1050051_11_a
+Heh, I can see you
+hyperventilating over the
+chance to play with it.
+Sinon
+1050051_10_a
+Yup! But this is a Japanese-themed
+VRMMO. I bet it's much more
+detailed and realistic here!
+Liz
+1050051_9_a
+Sounds interesting. Wasn't there
+something like that in Leprechaun
+territory in ALO, though?
+Sinon
+1050051_8_a
+I'm a Bladesmith here, so I just
+HAVE to go check it out!
+Liz
+1050051_7_a
+You got it! It's this traditional
+Japanese design they used
+waaay back in the day.
+Liz
+1050051_6_a
+A tatara furnace? Is that some
+sort of specialized thing for
+blacksmithing?
+Sinon
+1050051_5_a
+Great! It's a smithy with a tatara
+furnace a little ways up this
+mountain.
+Liz
+1050051_4_a
+Sure. I don't mind.
+Sinon
+1050051_3_a
+Sinon
+1050051_2_a
+bg_01_starting_city_abnormal
+Hey Sinon, there's this place I
+want to check out. Mind if we
+head there for a bit?
+Liz
+1050051_1_a
 Absolutely!
 Sinon
 1050048_18_a
@@ -137297,6 +138159,387 @@ bg_event_minotaur
 Is Asuna here?
 Queen
 650111_1_a
+Yeah! I'm ready to go!
+Asuna
+650088_14_a
+Let's hurry on with our search
+and find our quarry.
+Alice
+650088_13_a
+Hmph. Anyway, we can only wear
+these for a limited time.
+Alice
+650088_12_a
+Ahaha... Hah...
+Y-You're just imagining it?
+Asuna
+650088_11_a
+I feel like I'm getting more
+attention now...
+Alice
+650088_10_a
+Gah... I think your plan to avoid
+notice backfired, Asuna...
+Alice
+650088_9_a
+I didn't know they made avatars
+like that! I wish I looked like
+her!
+Player B
+650088_8_a
+Whoa! Look at that blonde beauty
+over there! She's a knockout!
+Player A
+650088_7_a
+Hehe, thank you!
+Asuna
+650088_6_a
+But I must say, you look
+fantastic in a kimono.
+Alice
+650088_5_a
+It is? I-I mean, physical
+appearance is of no concern
+to an Integrity Knight...
+Alice
+650088_4_a
+Wow, it looks SO good on you!
+It's pretty...
+No... It's BEAUTIFUL!
+Asuna
+650088_3_a
+Asuna
+650088_2_a
+bg_01_starting_city_abnormal
+So this is a kimono...
+Alice
+650088_1_a
+Excellent! Then I shall don this
+strange robe. We can afford it,
+right?
+Alice
+650087_26_a
+I...agree with you?
+Maybe it'll help in some way?
+Asuna
+650087_25_a
+What was that? Speak up.
+Alice
+650087_24_a
+It's kinda more that it affects
+in-game mechanics and whatnot...
+mumble
+mumble
+Asuna
+650087_23_a
+Oh, well... Actually...
+Asuna
+650087_22_a
+Perhaps this garment's powers to
+alter chance and fate will aid us
+in our search.
+Alice
+650087_21_a
+We're looking for someone, right?
+Alice
+650087_20_a
+R-Really?! You will?!
+Asuna
+650087_19_a
+Fine. I will deign to don this
+kimono.
+Alice
+650087_18_a
+...
+Alice
+650087_17_a
+It's New Year's, so everyone's
+looking for a little bit of good
+fortune.
+Asuna
+650087_16_a
+Like, maybe the person you're
+waiting for will show up,
+or you'll find treasure...
+Asuna
+650087_15_a
+Umm... It's a lucky outfit,
+so good things will happen
+if you wear it?
+Asuna
+650087_14_a
+Asuna, she speaks in tongues.
+Do her ramblings make sense
+to you?
+Alice
+650087_13_a
+Of course, it's only available
+during the New Year's celebration!
+Get it while it's hot!
+Dry Goods Shopkeep
+650087_12_a
+It increases your evasion,
+accuracy, and item drop rate.
+Really, it pays for itself!
+Dry Goods Shopkeep
+650087_11_a
+Excuse me! I thought you might
+like this kimono. It raises your
+luck!
+Dry Goods Shopkeep
+650087_10_a
+Asuna...
+Alice
+650087_9_a
+I need to forget clothes and get
+my priorities straight...
+Asuna
+650087_8_a
+But we've got an important task
+we need to focus on now, don't we?
+Asuna
+650087_7_a
+And I suppose I just got carried
+away...
+Asuna
+650087_6_a
+It's just that you're so pretty,
+I thought you'd look amazing
+in a kimono...
+Asuna
+650087_5_a
+I guess I sorta got sidetracked...
+Sorry...
+Asuna
+650087_4_a
+Oh... That's a good question,
+actually...
+Asuna
+650087_3_a
+Asuna
+650087_2_a
+bg_02_fountain_sunset
+Asuna... Why are you so fixated on
+forcing me to wear some sort of
+flamboyant garment?
+Alice
+650087_1_a
+I want all the details, please!
+Asuna
+650085_19_a
+It's a New Year's celebration
+special!
+Dry Goods Shopkeep
+650085_18_a
+You do?
+Asuna
+650085_17_a
+I have a suggestion! If you cannot
+afford to buy, how about renting?
+We offer that service as well.
+Dry Goods Shopkeep
+650085_16_a
+I see. Then our choice is simple.
+The cheapest outfit is sufficient.
+Can we go now?
+Alice
+650085_15_a
+We just got here, so we're
+basically broke...
+Asuna
+650085_14_a
+Not in this game... Er, I mean,
+this world. The currency is
+different.
+Asuna
+650085_13_a
+You're worried about the price?
+Aren't you and Kirito wealthy
+beyond compare?
+Alice
+650085_12_a
+Y-Yeep!
+So many zeroes...
+Asuna
+650085_11_a
+Those? Most of them fall into this
+price range.
+Dry Goods Shopkeep
+650085_10_a
+How much are those pretty kimonos?
+Asuna
+650085_9_a
+But...
+Excuse me, miss!
+Asuna
+650085_8_a
+I repeat: stop wasting time.
+Looking good has nothing to
+do with our purpose here.
+Alice
+650085_7_a
+Don't rush me! I'm comparing
+fabrics and designs. I want to
+find something that suits you!
+Asuna
+650085_6_a
+Asuna, stop wasting time.
+Just pick something already.
+Alice
+650085_5_a
+Hmmm...
+Asuna
+650085_4_a
+Alice
+650085_3_a
+Asuna
+650085_2_a
+bg_02_fountain_sunset
+The outfit on this shelf is in
+the latest fashion and quite
+affordable!
+Dry Goods Shopkeep
+650085_1_a
+Asuna...?
+Alice
+650083_18_a
+This is an old-timey setting, so
+we'll need a dry goods store...
+Heh heh heh...
+Asuna
+650083_17_a
+Okay, Alice, we're buying you a
+new outfit! No arguments! Let's
+find a local clothing shop!
+Asuna
+650083_16_a
+Y-Yeah, it'll be fine. Probably.
+Asuna
+650083_15_a
+What is it, Asuna?
+Is everything all right?
+Alice
+650083_14_a
+Oh... Wait...
+Asuna
+650083_13_a
+You don't like being the center of
+attention, right? Switch outfits
+and they'll leave you alone.
+Asuna
+650083_12_a
+B-But I have no desire to don
+the local garb!
+Alice
+650083_11_a
+Let's go buy you some local
+clothes. That way you'll blend in
+and people will stop staring...
+Asuna
+650083_10_a
+C-Calm down, Alice! You don't have
+to get so violent!
+Asuna
+650083_9_a
+Fah! You there, all of you!!
+I am not some object on display!
+Look elsewhere, or face my blade!
+Alice
+650083_8_a
+No wonder you stand out.
+Asuna
+650083_7_a
+Ah, of course! I'm a Blade Maiden,
+but you're still dressed like a
+European knight.
+Asuna
+650083_6_a
+Huh? Oh... Yeah, I guess so.
+Everyone's staring at you...
+Asuna
+650083_5_a
+Am I imagining it, or are the eyes
+of the masses lingering upon me?
+Alice
+650083_4_a
+However...what?
+Asuna
+650083_3_a
+Asuna
+650083_2_a
+bg_01_starting_city_abnormal
+However...
+Alice
+650083_1_a
+Hehe... Yeah, you're right!
+Let's go!
+Asuna
+650081_16_a
+Bah. Enough of that. We must
+begin our search for the Hi-Mob.
+Alice
+650081_15_a
+Alice...
+Asuna
+650081_14_a
+It...seems like an eternity ago
+that Eugeo and I came to your
+land.
+Alice
+650081_13_a
+Hehe, don't worry! None of us hold
+it against you. It was just a
+misunderstanding!
+Asuna
+650081_12_a
+W-Well...
+Alice
+650081_11_a
+Alice, you're not still feeling
+bad about what happened when
+you first got to Alfheim, are you?
+Asuna
+650081_10_a
+True... And your point is taken.
+Leaping about wildly here could
+lead to unnecessary conflict.
+Alice
+650081_9_a
+For example, look at me. I don't
+have wings here, so I can't fly.
+Asuna
+650081_8_a
+Well... Maybe. This world probably
+operates on different principles,
+so it's not the same at all.
+Asuna
+650081_7_a
+but at its heart, this world is
+the same as yours or mine...
+correct?
+Alice
+650081_6_a
+Of course. But this is merely a
+different culture. The customs
+and manners may be different,
+Alice
+650081_5_a
+You say that, but we just got
+here. There's so much we don't
+know... Let's be careful.
+Asuna
+650081_4_a
+Our plan to split into groups to
+search for the Hi-Mob was a wise
+one. We will be successful.
+Alice
+650081_3_a
+Alice
+650081_2_a
+bg_01_starting_city_abnormal
+Alright! Let's get started!
+Asuna
+650081_1_a
 Ha ha, I can totally see it!
 Suguha
 650078_19_a
@@ -160573,6 +161816,423 @@ Ahem, I mean, Joker!
 That's totally who you are!
 Yuuki
 250121_1_a
+Definitely!
+Asuna
+250108_22_a
+We'll find our quarry this time
+for sure!
+Alice
+250108_21_a
+Now, come. Let's return these
+kimonos and reunite with our
+comrades.
+Alice
+250108_20_a
+You are?
+Hehe, that's good to hear!
+Asuna
+250108_19_a
+It's fine. I'm used to it at this
+point.
+Alice
+250108_18_a
+Yeah, I guess so... Sorry. Hehe.
+Asuna
+250108_17_a
+Asuna. Kirito's penchant for
+trivial leisure has rubbed off
+on you.
+Alice
+250108_16_a
+And it was a rare opportunity to
+dress up, walk around, and goof
+off with you, Alice!
+Asuna
+250108_15_a
+But I had a lot of fun today!
+And I think we understand
+this world more now, too.
+Asuna
+250108_14_a
+And these fortune-boosting kimonos
+didn't help at all, either.
+Alice
+250108_13_a
+sigh
+...
+All that effort for naught.
+Alice
+250108_12_a
+Yeah.
+Asuna
+250108_11_a
+I just hope the others had better
+luck than we did...
+Alice
+250108_10_a
+We spent too long chasing down
+that thief... Ah well. It was a
+worthy cause.
+Alice
+250108_9_a
+After we return our kimonos,
+let's contact them and pick a
+place to meet.
+Asuna
+250108_8_a
+Hold up, Alice. It's time to
+meet with Kirito and Eugeo.
+Asuna
+250108_7_a
+Indeed. Now, we've wasted enough
+time. Let's head out of town.
+Alice
+250108_6_a
+Yeah, for sure. The parents' sins
+are their own
+kids shouldn't
+have to suffer for them.
+Asuna
+250108_5_a
+I'm happy we could help.
+Alice
+250108_4_a
+Asuna
+250108_3_a
+Alice
+250108_2_a
+bg_01_starting_city_abnormal
+Wow! My allowance!
+You got it back!
+Child
+250108_1_a
+You would speak on his behalf?
+Very well
+then I shall sheathe
+my blade.
+Alice
+250107_15_a
+Oh, uh... Actually, Alice, he's
+seen the error of his ways.
+Come on, let's forgive him.
+Asuna
+250107_14_a
+Asuna, what are you whispering
+about with that scoundrel?
+Alice
+250107_13_a
+Eh. It's a high-risk, high-reward
+profession. It's just part of the
+charm of it.
+Noble Thief
+250107_12_a
+Really? Life must be hard for a
+Fallen Noble Thief.
+Asuna
+250107_11_a
+Besides, failing this quest means
+I get a pretty harsh punishment
+already...
+Noble Thief
+250107_10_a
+H-Hey, stop! Seriously, I don't
+want to deal with the death
+penalty!
+Noble Thief
+250107_9_a
+Of course you will. After I take
+it from your cold, dead corpse.
+Alice
+250107_8_a
+H-Hold it! Stop! I give up!
+I'll return the cash!!
+Noble Thief
+250107_7_a
+Your head is mine, villain!
+Alice
+250107_6_a
+Oof!!
+Noble Thief
+250107_5_a
+Take thiiis!
+Asuna
+250107_4_a
+An ambush?! Blegh!
+Noble Thief
+250107_3_a
+Alice! Leave this to me!
+Asuna
+250107_2_a
+bg_03_forest1
+Asuna!
+Alice
+250107_1_a
+I see...
+Asuna
+250105_29_a
+Do too many bad deeds and you
+become a "Fallen Noble Thief."
+Player A
+250105_28_a
+Totally. Lots of Noble Thieves try
+to cut their moral lines too close
+and get slapped with a penalty.
+Player A
+250105_27_a
+But, whatever the motive, stealing
+from kids feels like it's going
+too far.
+Asuna
+250105_26_a
+They all dig the romance of being
+a swashbuckling hero.
+Player A
+250105_25_a
+Yeah. Most of the people who go
+for Noble Thief love playing the
+virtuous rogue.
+Player A
+250105_24_a
+Well, okay... I guess the player
+has at least some potentially
+noble ulterior motive...
+Asuna
+250105_23_a
+Yeah. All the kids who were
+robbed? Their parents were
+corrupt nobles and merchants.
+Player A
+250105_22_a
+But "Noble Thief" makes me think
+of Robin Hood characters, like
+Nezumi Kozo.
+Asuna
+250105_21_a
+So the person who stole that kid's
+money wasn't an NPC, but a player?
+Asuna
+250105_20_a
+I guess they wanted to add a dash
+of historical realism to the game
+by putting them in.
+Player A
+250105_19_a
+Yeah. That character archetype
+pops up a lot in Japanese history,
+and this is a Japanese VRMMO.
+Player A
+250105_18_a
+Really?
+Asuna
+250105_17_a
+Well, in Asuka Empire, you can job
+change to a Noble Thief class if
+you meet the requirements.
+Player A
+250105_16_a
+Y-Yeah, actually...
+Asuna
+250105_15_a
+Yeah, you didn't know? Oh man,
+are you a noob or something?
+Player A
+250105_14_a
+Wait, what?
+"Player"?
+Asuna
+250105_13_a
+Hey there. So you're looking
+for that thief player too, huh?
+???
+250105_12_a
+...
+Asuna
+250105_11_a
+Of course!
+Alice
+250105_10_a
+Can you search that maze of
+tiny alleys on the west side of
+town?
+Asuna
+250105_9_a
+Actually, forget it.
+I'll go check the main street.
+Asuna
+250105_8_a
+But...?
+Alice
+250105_7_a
+Y-Yeah, I'm down with that...
+I feel bad for the kids and all
+too. But...
+Asuna
+250105_6_a
+Asuna! We must find this villain,
+bring them to justice, and
+recover these gifts!
+Alice
+250105_5_a
+Stealing from the weak...
+That unscrupulous fiend!
+Alice
+250105_4_a
+someone's going around stealing
+the allowance of kids from wealthy
+families.
+Asuna
+250105_3_a
+Alice
+250105_2_a
+bg_01_starting_city_abnormal
+So from what that guy and some
+other people in town told us,
+Asuna
+250105_1_a
+Thief...?
+Alice
+250103_18_a
+I'm this child's father! And
+I tell you, it was that thief! The
+one everyone's talking about!
+???
+250103_17_a
+Umm, hi. Who are you?
+Asuna
+250103_16_a
+It was them, I tell you!
+It had to be!
+???
+250103_15_a
+Yeah, you said it.
+Asuna
+250103_14_a
+But regardless, anyone who would
+steal a gift from a child is a
+true villain. I demand justice.
+Alice
+250103_13_a
+These customs and feelings are
+unfathomable for an Integrity
+Knight such as I.
+Alice
+250103_12_a
+For parents in any world, kids are
+like little treasures, and they
+show their love through presents.
+Asuna
+250103_11_a
+Y-Yeah? But there's no harm in
+that, right? Parents love their
+kids, and vice versa.
+Asuna
+250103_10_a
+A gift... Did we not just see a
+similar custom for Christmas
+only a few days past?
+Alice
+250103_9_a
+Well...yeah? Kids can't work, so
+it's a gift. You know, to make
+them happy?
+Asuna
+250103_8_a
+This valuable commodity is simply
+GIVEN to children just because
+it's New Year's?
+Alice
+250103_7_a
+Money? Money is earned through
+hard labor and the sweat of one's
+brow, or exchanged for goods.
+Alice
+250103_6_a
+Well... In this culture, parents
+and older relatives give children
+money as a New Year's present.
+Asuna
+250103_5_a
+New Year's allowance?
+What is that?
+Alice
+250103_4_a
+My New Year's allowance!
+It was stolen!
+Child
+250103_3_a
+Asuna
+250103_2_a
+bg_01_starting_city_abnormal
+Is everything all right, child?
+Alice
+250103_1_a
+Hmm... I think that kid's an
+NPC... Maybe we triggered
+some event...
+Asuna
+250101_17_a
+Let us see what's wrong.
+Alice
+250101_16_a
+Waaah! Waaaaaah!!
+Child
+250101_15_a
+That child is crying.
+Alice
+250101_14_a
+What's wrong, Alice?
+Asuna
+250101_13_a
+I... Th-That's... Er...
+Alice
+250101_12_a
+Who cares about that! Now come on!
+We must return these kimonos.
+Alice
+250101_11_a
+I... Th-That's... Er...
+Alice
+250101_10_a
+Hehe. We blended in, but you
+were just too beautiful to go
+unnoticed!
+Asuna
+250101_9_a
+And regardless, these kimonos
+definitely did not help us blend
+in. Not at all.
+Alice
+250101_8_a
+I concur. We do not need to worry
+about drawing unwanted attention
+out there.
+Alice
+250101_7_a
+That might be a good idea...
+We should return these kimonos
+first.
+Asuna
+250101_6_a
+But we've searched every corner
+of this town and found nothing.
+Should we try the wilds?
+Alice
+250101_5_a
+Well, that Hi-Mob's here
+somewhere, and he's got
+a Divine Object.
+Asuna
+250101_4_a
+We have been unable to find any
+particularly helpful information.
+Alice
+250101_3_a
+Alice
+250101_2_a
+bg_01_starting_city_abnormal
+Hmmm...
+Asuna
+250101_1_a
 This is the best Christmas present
 ever... Heh heh heh!
 Yuuki

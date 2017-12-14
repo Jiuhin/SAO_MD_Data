@@ -474,6 +474,16 @@ images/event/4701/4701_top.png
 images/event/4701/4701_banner.png
 images/event/4701/4701_banner.png
 Breakthrough in Sand
+Medal Scout
+images/event/4074/4074_top.png
+images/event/4074/4074_banner.png
+images/event/4074/4074_banner.png
+[Ended] The Secret Alliance - Christmas Gift Mission
+Medal Scout
+images/event/4074/4074_top.png
+images/event/4074/4074_banner.png
+images/event/4074/4074_banner.png
+The Secret Alliance - Christmas Gift Mission
 images/event/4073/4073_top.png
 images/event/4073/4073_banner.png
 images/event/4073/4073_banner.png

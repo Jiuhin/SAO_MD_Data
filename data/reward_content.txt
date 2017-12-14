@@ -1,8 +1,28 @@
+D9	
+p8	
+,8	
+H6	
+p5	
+(5	
+H4	
+d3	
+42	
+P1	
+t0	
+,0	
+T/	
+4.	
+<,	
+H)	
+d(	
+4'	
+L&	
+h%	
+8$	
 p"	
-,"	
-L 	
-x		
-(		
+$"	
+P 	
+4		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -502,12 +522,12 @@ White Knight Jacket R4
 9Q9
 Holy Saber x Night Blade R4
 Polaris Spear R4
-厄除けの髪飾りR3
+Apotropaic Hairpin R3
 9%8
-厄除けの髪飾りR2
-緋色の盛装R3
+Apotropaic Hairpin R2
+Scarlet Party Dress R3
 9]7
-緋色の盛装R2
+Scarlet Party Dress R2
 Holy Night Choker R3
 Holy Night Choker R2
 916
@@ -911,6 +931,14 @@ Carol Under the Starry Sky
 Wonder Ruler
 	8as
 Dungeon Assault Battle & Poker
+Christmas Gold Medal x1
+	8_s
+Christmas Upgrade Crystal x1
+Christmas Gold Medal x1
+	8]s
+The Party Master
+The Secret Alliance 
+Christmas Gift Mission
 	8[s
 Colored Leaf Gold Medal x3
 	8Zs
@@ -2176,6 +2204,178 @@ MP Shard x20
 HP Shard x20
 2ee
 Stardust (Medium) x100
+2rI
+EXP Potion x5
+2rI
+Skill Shard x20
+2rI
+Critical Shard x20
+2rI
+Defense Shard x20
+2rI
+Attack Shard x20
+2rI
+MP Shard x20
+2rI
+HP Shard x20
+2qI
+Assault Team: Holy Night Festival Top 100
+2qI
+EXP Hi-Potion x5
+2qI
+Skill Shard x20
+2qI
+Critical Shard x20
+2qI
+Defense Shard x20
+2qI
+Attack Shard x20
+2qI
+MP Shard x20
+2qI
+HP Shard x20
+2qI
+Memory Diamond x5
+2qI
+Christmas Upgrade Crystal x1
+2pI
+Assault Team: Holy Night Festival Top 50
+2pI
+EXP Hi-Potion x5
+2pI
+Col x30000
+2pI
+Memory Diamond x5
+2pI
+Christmas Upgrade Crystal x1
+2pI
+Christmas Bronze Medal x5
+2pI
+Christmas Silver Medal x5
+2pI
+Christmas Gold Medal x1
+2oI
+Assault Team: Holy Night Festival Top 20
+2oI
+EXP Hi-Potion x5
+2oI
+Col x50000
+2oI
+Memory Diamond x5
+2oI
+Christmas Upgrade Crystal x2
+2oI
+Christmas Bronze Medal x10
+2oI
+Christmas Silver Medal x5
+2oI
+Christmas Gold Medal x3
+2nI
+Assault Team: Holy Night Festival Top 10
+2nI
+EXP Hi-Potion x5
+2nI
+Col x100000
+2nI
+Memory Diamond x5
+2nI
+Christmas Upgrade Crystal x3
+2nI
+Christmas Bronze Medal x10
+2nI
+Christmas Silver Medal x5
+2nI
+Christmas Gold Medal x7
+2mI
+Assault Team: Holy Night Festival 5th
+2mI
+Rainbow Essence x1
+2mI
+EXP X-Potion x5
+2mI
+Col x200000
+2mI
+Memory Diamond x5
+2mI
+Christmas Upgrade Crystal x4
+2mI
+Christmas Bronze Medal x10
+2mI
+Christmas Silver Medal x10
+2mI
+Christmas Gold Medal x11
+2lI
+Assault Team: Holy Night Festival 4th
+2lI
+Rainbow Essence x1
+2lI
+EXP X-Potion x5
+2lI
+Col x200000
+2lI
+Memory Diamond x5
+2lI
+Christmas Upgrade Crystal x4
+2lI
+Christmas Bronze Medal x10
+2lI
+Christmas Silver Medal x10
+2lI
+Christmas Gold Medal x16
+2kI
+Assault Team: Holy Night Festival 3rd
+2kI
+Rainbow Essence x1
+2kI
+EXP X-Potion x5
+2kI
+Col x200000
+2kI
+Memory Diamond x5
+2kI
+Christmas Upgrade Crystal x5
+2kI
+Christmas Bronze Medal x10
+2kI
+Christmas Silver Medal x10
+2kI
+Christmas Gold Medal x21
+2jI
+Assault Team: Holy Night Festival 2nd
+2jI
+Rainbow Essence x1
+2jI
+EXP X-Potion x5
+2jI
+Col x300000
+2jI
+Memory Diamond x5
+2jI
+Christmas Upgrade Crystal x5
+2jI
+Christmas Bronze Medal x10
+2jI
+Christmas Silver Medal x10
+2jI
+Christmas Gold Medal x23
+2iI
+Assault Team: Holy Night Festival 1st
+2iI
+Rainbow Essence x2
+2iI
+EXP X-Potion x5
+2iI
+Col x500000
+2iI
+Memory Diamond x5
+2iI
+Christmas Upgrade Crystal x6
+2iI
+Christmas Bronze Medal x10
+2iI
+Christmas Silver Medal x10
+2iI
+Christmas Gold Medal x25
 Christmas Upgrade Crystal x1
 Christmas Gold Medal x4
 Christmas Upgrade Crystal x2
@@ -4707,10 +4907,10 @@ Col x301
 75EP
 50EP
 25EP
-厄除けの髪飾りR3
-厄除けの髪飾りR2
-緋色の盛装R3
-緋色の盛装R2
+Apotropaic Hairpin R3
+Apotropaic Hairpin R2
+Scarlet Party Dress R3
+Scarlet Party Dress R2
 Stardust (Small) x15
 Stardust (Small) x10
 Stardust (Small) x5
@@ -5121,10 +5321,10 @@ Girl's Treats x10
 Girl's Treats x3
 V}Q
 V}Q
-厄除けの髪飾りR3
+Apotropaic Hairpin R3
 U}Q
 U}Q
-緋色の盛装R3
+Scarlet Party Dress R3
 6/Q
 6/Q
 Holy Night Choker R3

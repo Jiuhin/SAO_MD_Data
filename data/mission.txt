@@ -888,6 +888,28 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
++q7
+4074032,1
+Complete "Christmas Gift Mission (Master +2) Part 1" without down.
++p7
+4074031,1
+Complete "Christmas Gift Mission (Master +1) Part 1" without down.
+>n7
+4074031,1,100
+Complete "Christmas Gift Mission (Master+2) Part 1" with a 100-hit combo or more.
+:m7
+407401,9000000
+Earn a score of 9,000,000 in The Secret Alliance - Christmas Gift Mission
+4074030,1,60
+Complete "Christmas Gift Mission (Master+1) Part 2" in under 1 min.
+4074029,1,60
+Complete "Christmas Gift Mission (Master +1) Part 1"  in under 1 min
+/j7
+4074030
+Complete "Christmas Gift Mission (Master +1) Part 2".
+/i7
+4074022
+Complete "Christmas Gift Mission (Int.)".
 4073005,2,45
 Complete "Monsters in the Castle of Mirage (Master +1)" under 45 Sec.
 4073004,2,45
@@ -1529,10 +1551,10 @@ Complete "Final Battle (Master)".
 Complete "Final Battle".
 Of 
 401501,55000
-Earn a score of 5,500,000 in the "Memories of Christmas" event.
+Earn 55,000 EP in the "Memories of Christmas" event.
 Oe 
 401501,45000
-Earn a score of 4,500,000 in the "Memories of Christmas" event.
+Earn 45,000 EP in the "Memories of Christmas" event.
 Jd 
 2020064-2020065,50
 Defeat 50 of Cyclops the Dark Giant from "The Moonlit Black Cats Master/Master +1" in the guild. 
