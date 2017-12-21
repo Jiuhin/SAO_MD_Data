@@ -1,141 +1,128 @@
-TI}
-p0{
-8){
-$vz
-(vy
-0	y
-4tv
-LPv
-lWu
-4[r
-0Br
-hzq
-,yq
-dxq
-8wq
-prq
-(qq
-$lq
-Xfq
-Pdq
-tLq
-0<q
-<0q
-XVo
-H(o
-HEn
-L6n
-4,m
-L+l
-dbj
-DPj
-X3j
-<rh
-pch
-8/g
-p2f
-hxe
-pUd
-<Dd
-L3d
-8$d
-,rc
-4kb
-XDb
-p:b
-pwa
-dXa
-d3a
-tt_
-4&_
-8e]
-$W]
-hwZ
-$lZ
-P$W
-PgV
-,HV
-XTU
-,IU
-D.U
-XdT
-laS
-pAS
-$,Q
-t<P
-08O
-p+O
-4nN
-X.N
-LzM
-l-L
-D-K
-tZJ
-$MI
-4SH
-L,H
-hlG
-$}F
-4QF
-hGD
-p<D
-HbC
-4LC
-$3C
-8	C
-$dB
-dXB
-tMB
-(cA
-,/A
-0O?
-X??
-t}>
-pB>
-H->
-dg<
-HT<
-PB:
-8f9
-089
-8o8
-t68
-${6
-$k6
-p26
-8X5
-0w4
-H/4
-t53
-(S2
-tD2
-,52
-dT1
-4Q0
-h.0
-0{/
-po/
-<]/
-hB/
-x{-
-0j-
-0h,
-t3,
-0_+
-,9+
-Xm)
-8Q(
-8,(
-P%'
-4v&
-4e&
-d<%
-,.%
-(0$
-l	$
-,8!
-<< 
-X( 
+dw{
+He{
+x/{
+,uz
+0uy
+<sv
+TOv
+X)v
+tVu
+$Fu
+Hjt
+<Zr
+8Ar
+p{q
+pyq
+4xq
+lwq
+xqq
+0pq
+,kq
+Xcq
+D/q
+dJp
+P'o
+PDn
+T5n
+hTm
+<+m
+$ql
+(Wk
+laj
+LOj
+d2i
+Dqh
+xbh
+H"g
+x1f
+pwe
+T+e
+PUc
+xCc
+Pub
+L[b
+xda
+xKa
+p[Z
+XOZ
+D-Z
+t Z
+lcY
+0JY
+XpX
+$YW
+x1W
+hvV
+8]V
+<RV
+80V
+(oU
+HnT
+l&T
+<lS
+lOS
+,)S
+$RR
+d<R
+P.R
+P	R
+$IQ
+tgP
+TiO
+hJO
+<cN
+l,L
+D,K
+tYJ
+$LI
+4RH
+T:H
+L+H
+hkG
+l/G
+d/F
+TFD
+h1D
+XqB
+0rA
+hJA
+8s<
+lR<
+(6<
+T69
+$K8
+$p7
+D 7
+Hy6
+Hi6
+D)5
+Tu4
+l-4
+(<3
+,a2
+LQ2
+P32
+XO0
+Ty/
+82/
+$Q.
+t9.
+Th-
+Tf,
+T]+
+,J+
+P7+
+4z)
+,Z)
+Xt&
+Xc&
+D &
+P,%
+L.$
+4W"
+<U!
+P6!
+8O 
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -823,6 +810,8 @@ give them a mundane in-game
 item after all.
 Kirito
 407400901_9_a
+キリト
+407400901_8_a_1
 Heh, good stuff! They really
 seemed to like that gift.
 Rain
@@ -1330,7 +1319,7 @@ Rain
 407400601_3_a
 Sinon
 407400601_2_a
-bg_05_danac_sunset
+bg_event_alne_christmas
 We're back.
 Kirito
 407400601_1_a
@@ -1423,7 +1412,7 @@ this giant map?
 Sinon
 407400501_39_a
 5pH
-bg_03_forest1_sunset
+bg_07_snow_mountain
 Does "let's go" mean
 "I have a plan"?
 Sinon
@@ -1571,7 +1560,7 @@ Liz
 Liz
 407400501_2_a
 5pH
-bg_05_danac_sunset
+bg_event_alne_field_christmas
 We'll be camping here for the
 night. You're free to do as you
 please!
@@ -1781,7 +1770,7 @@ should form an alliance.
 Kirito
 407400301_24_a
 moH
-bg_04_field_bridge
+bg_event_alne_christmas
 Ah, I see where you're going
 with this.
 Sinon
@@ -1872,7 +1861,7 @@ moH
 Yuuki
 407400301_2_a
 moH
-bg_02_fountain
+bg_event_alne_christmas
 Thanks for responding to my
 invitation, guys.
 Kirito
@@ -1932,7 +1921,7 @@ Nah, that's not very good.
 Kirito
 407400201_27_a
 	oH
-bg_11_road_to_coral
+bg_event_alne_christmas
 ...
 Kirito
 407400201_26_a
@@ -2056,7 +2045,7 @@ Asuna
 Kirito
 407400201_2_a
 	oH
-bg_11_home_lounge
+bg_11_home_bedroom_morning
 Their avatar data is corrupt,
 but I don't think this was a
 sudden development.
@@ -2103,7 +2092,7 @@ been a specially-created boss
 for the Divine Object quest.
 Kirito
 407400101_12_a
-bg_11_home_lounge
+bg_11_home_bedroom_morning
 So Alicia didn't have any
 information?
 Asuna
@@ -2138,7 +2127,7 @@ Kirito
 407400101_3_a
 Kirito
 407400101_2_a
-bg_event_alne_christmas
+bg_20_butterfly_valley_meeting
 Hmm... Nope, never seen that
 Cait Sith NPC before.
 Alicia
@@ -2549,7 +2538,7 @@ for you!
 Kirito
 407201101_2_a
 MeE
-bg_event_japan_castle_inside
+bg_event_ayakashi_street
 So you saw through my
 plot, did you?!
 Hi-Mob
@@ -2670,7 +2659,7 @@ Asuna
 407201001_3_a
 Asuna
 407201001_2_a
-bg_event_japan_castle_inside
+bg_event_ayakashi_street
 ...
 Player B
 407201001_1_a
@@ -2876,7 +2865,7 @@ Sinon
 407200901_3_a
 Asuna
 407200901_2_a
-bg_event_japan_castle
+bg_event_ayakashi_street
 So you played some suspicious
 characters?
 Kirito
@@ -2934,7 +2923,6 @@ Alice
 Alice
 407200801_35_a
 !dE
-bg_event_japan_castle_inside
 I win.
 Player A
 407200801_34_a
@@ -3084,7 +3072,7 @@ Sinon
 Sinon
 407200801_2_a
 !dE
-bg_event_japan_castle
+bg_event_ayakashi_street
 Hey-ho! What's up, guys?
 Liz
 407200801_1_a
@@ -3271,7 +3259,7 @@ Alice
 407200701_3_a
 Eugeo
 407200701_2_a
-bg_event_japan_castle_inside
+bg_event_ayakashi_street
 In the early dawn...
 Reciter
 407200701_1_a
@@ -3433,7 +3421,7 @@ YcE
 Kirito
 407200601_2_a
 YcE
-bg_event_japan_castle_inside
+bg_event_ayakashi_street
 Every time a dog goes on a
 stroll...
 Reciter
@@ -3583,7 +3571,7 @@ Asuna
 407200501_3_a
 Eugeo
 407200501_2_a
-bg_event_festival
+bg_event_ayakashi_street
 That detective seemed extremely
 unreliable. Do you really think we
 can trust someone like that?
@@ -3713,7 +3701,7 @@ Asuna
 407200401_3_a
 Asuna
 407200401_2_a
-bg_event_festival
+bg_event_ayakashi_street
 Whoa! Samurai and Japanese
 monsters are all just walking
 around town! So cool!
@@ -3941,7 +3929,7 @@ Eugeo
 Eugeo
 407200301_2_a
 -bE
-bg_event_japan_castle
+bg_event_ayakashi_street
 Where...are we?
 Alice
 407200301_1_a
@@ -97735,7 +97723,7 @@ Sinon
 1450033_3_a
 Liz
 1450033_2_a
-bg_02_fountain_sunset
+bg_event_ayakashi_street
 We're deeply sorry, but we don't
 have any more kimonos available
 for rental...
@@ -97819,7 +97807,7 @@ Sinon
 1450031_3_a
 Sinon
 1450031_2_a
-bg_01_starting_city_abnormal
+bg_event_ayakashi_street
 Sinon! Over here!
 Come on, hurry up!
 Liz
@@ -97889,7 +97877,7 @@ Silica
 1450028_3_a
 Silica
 1450028_2_a
-bg_04_field_flower_snow
+bg_event_alne_field_christmas
 Aw man, we lost.
 Liz
 1450028_1_a
@@ -97963,7 +97951,7 @@ Pina
 1450027_3_a
 Pina
 1450027_2_a
-bg_03_west_mountain_top
+bg_event_alne_field_christmas
 Okay, Pina! We've managed
 to make it pretty far!
 Silica
@@ -98056,7 +98044,7 @@ Player B
 1450025_3_a
 Player A
 1450025_2_a
-bg_04_field_flower_snow
+bg_event_alne_field_christmas
 C'mon, let's take that flag right
 out from under Team Sinon's nose!
 Player A
@@ -98125,7 +98113,7 @@ Sinon
 1450023_3_a
 Sinon
 1450023_2_a
-bg_04_field_flower_snow
+bg_event_alne_field_christmas
 Pack it down like so...
 And then... Hmph!
 Liz
@@ -98189,7 +98177,7 @@ Sinon
 1450021_3_a
 Liz
 1450021_2_a
-bg_04_field_flower_snow
+bg_event_alne_field_christmas
 Still, it's nothing but snow and
 ice out here...
 Sinon
@@ -108857,7 +108845,7 @@ Sinon
 1050058_3_a
 Liz
 1050058_2_a
-bg_03_bed_light
+bg_07_lisbeth_smith_work
 Whoa!
 This is a surprise!
 Master Bladesmith
@@ -108943,7 +108931,7 @@ You're hitting too hard!
 Ease up a little!
 Master Bladesmith
 1050057_2_a
-bg_03_bed_light
+bg_07_lisbeth_smith_work
 Hyah!
 Liz
 1050057_1_a
@@ -109010,7 +108998,7 @@ Liz
 1050055_3_a
 Sinon
 1050055_2_a
-bg_03_bed_light
+bg_07_lisbeth_smith_work
 So next, we cool the iron and
 break it into chunks...
 Master Bladesmith
@@ -109097,7 +109085,7 @@ Liz
 1050053_3_a
 Liz
 1050053_2_a
-bg_03_bed_light
+bg_07_lisbeth_smith_work
 It's hot in here...
 Sinon
 1050053_1_a
@@ -109159,7 +109147,7 @@ Sinon
 1050051_3_a
 Sinon
 1050051_2_a
-bg_01_starting_city_abnormal
+bg_event_ayakashi_street
 Hey Sinon, there's this place I
 want to check out. Mind if we
 head there for a bit?
@@ -122684,7 +122672,7 @@ Yuuki
 Say goodnight!
 NPC
 850058_2_a
-bg_04_field_flower_snow
+bg_03_forest_snow
 Don't you worry, I've got my
 paralyzing arrow ready to go...!
 NPC
@@ -122755,7 +122743,7 @@ Silica
 850057_3_a
 Silica
 850057_2_a
-bg_04_field_flower_snow
+bg_03_forest_snow
 Wait, so they're out here hunting
 reindeer?
 Yuuki
@@ -122870,7 +122858,7 @@ Yuuki
 850055_3_a
 Yuuki
 850055_2_a
-bg_04_field_flower_snow
+bg_03_forest_snow
 Huh. I don't see any reindeer.
 Silica
 850055_1_a
@@ -122937,7 +122925,7 @@ Liz
 850053_3_a
 Liz
 850053_2_a
-bg_04_field_flower_snow
+bg_03_forest_snow
 I think we still have a ways to go
 before we reach the reindeer...
 Silica
@@ -123014,7 +123002,7 @@ Yuuki
 850051_3_a
 Yuuki
 850051_2_a
-bg_04_field_flower_snow
+bg_event_tree_snow_christmas
 Guys, guys, guys!
 Silica
 850051_1_a
@@ -138210,7 +138198,7 @@ Asuna
 650088_3_a
 Asuna
 650088_2_a
-bg_01_starting_city_abnormal
+bg_event_ayakashi_street
 So this is a kimono...
 Alice
 650088_1_a
@@ -138318,7 +138306,7 @@ Asuna
 650087_3_a
 Asuna
 650087_2_a
-bg_02_fountain_sunset
+bg_event_ayakashi_street
 Asuna... Why are you so fixated on
 forcing me to wear some sort of
 flamboyant garment?
@@ -138394,7 +138382,7 @@ Alice
 650085_3_a
 Asuna
 650085_2_a
-bg_02_fountain_sunset
+bg_event_ayakashi_street
 The outfit on this shelf is in
 the latest fashion and quite
 affordable!
@@ -138467,7 +138455,7 @@ Asuna
 650083_3_a
 Asuna
 650083_2_a
-bg_01_starting_city_abnormal
+bg_event_ayakashi_street
 However...
 Alice
 650083_1_a
@@ -138536,7 +138524,7 @@ Alice
 650081_3_a
 Alice
 650081_2_a
-bg_01_starting_city_abnormal
+bg_event_ayakashi_street
 Alright! Let's get started!
 Asuna
 650081_1_a
@@ -161901,7 +161889,7 @@ Asuna
 250108_3_a
 Alice
 250108_2_a
-bg_01_starting_city_abnormal
+bg_event_ayakashi_street
 Wow! My allowance!
 You got it back!
 Child
@@ -161963,7 +161951,7 @@ Noble Thief
 Alice! Leave this to me!
 Asuna
 250107_2_a
-bg_03_forest1
+bg_event_ayakashi_street
 Asuna!
 Alice
 250107_1_a
@@ -162084,7 +162072,7 @@ Asuna
 250105_3_a
 Alice
 250105_2_a
-bg_01_starting_city_abnormal
+bg_event_ayakashi_street
 So from what that guy and some
 other people in town told us,
 Asuna
@@ -162162,7 +162150,7 @@ Child
 250103_3_a
 Asuna
 250103_2_a
-bg_01_starting_city_abnormal
+bg_event_ayakashi_street
 Is everything all right, child?
 Alice
 250103_1_a
@@ -162229,7 +162217,7 @@ Alice
 250101_3_a
 Alice
 250101_2_a
-bg_01_starting_city_abnormal
+bg_event_ayakashi_street
 Hmmm...
 Asuna
 250101_1_a
@@ -162326,7 +162314,7 @@ Silica
 250098_3_a
 Siune
 250098_2_a
-bg_04_town_inn
+bg_event_tree_snow_christmas
 It's this one, Siune.
 Yuuki
 250098_1_a
@@ -162424,7 +162412,7 @@ Siune
 250097_3_a
 Siune
 250097_2_a
-bg_05_marten_inn
+bg_event_tree_snow_christmas
 So, that's what I know.
 Silica
 250097_1_a
@@ -162505,7 +162493,7 @@ Silica
 250095_3_a
 Silica
 250095_2_a
-bg_04_town_inn
+bg_event_tree_snow_christmas
 Wow, that's really odd...
 Liz
 250095_1_a
@@ -162583,7 +162571,7 @@ Yuuki
 250093_3_a
 Silica
 250093_2_a
-bg_04_town_inn
+bg_event_tree_snow_christmas
 You know something?
 The design on this scarf...
 Yuuki
@@ -162650,7 +162638,7 @@ Silica
 250091_3_a
 Silica
 250091_2_a
-bg_04_town_inn
+bg_event_tree_snow_christmas
 ...
 Yuuki
 250091_1_a

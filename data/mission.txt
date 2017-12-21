@@ -41,6 +41,17 @@ Complete "Yuuki's Birthday Quest".
 Complete "Liz's Birthday Quest".
 9009001
 Complete "Leafa's Birthday Quest".
+1240027-1240028,10
+1220037-1220038-1220039-1220040,1
+1220037-1220038-1220039-1220040,1
+1220037-1220038-1220039-1220040,1
+1220037-1220038-1220039-1220040,1
+1220037-1220038-1220039-1220040,1
+1220037-1220038-1220039-1220040,1
+1220037-1220038-1220039-1220040,1
+1220037-1220038-1220039-1220040,1
+1220037-1220038-1220039-1220040,1
+1220037-1220038-1220039-1220040,1
 9007126,2,30
 Complete "Vanguard & Rearguard (Master)" in under 30 secs.
 9007125,2,40
@@ -890,10 +901,13 @@ EU,
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
 +q7
 4074032,1
-Complete "Christmas Gift Mission (Master +2) Part 1" without down.
+Complete "Christmas Gift Mission (Master +2) Part 2" without down.
 +p7
 4074031,1
-Complete "Christmas Gift Mission (Master +1) Part 1" without down.
+Complete "Christmas Gift Mission (Master +2) Part 1" without down.
+>o7
+4074032,1,100
+Complete "Christmas Gift Mission (Master+2) Part 2" with a 100-hit combo or more.
 >n7
 4074031,1,100
 Complete "Christmas Gift Mission (Master+2) Part 1" with a 100-hit combo or more.
@@ -909,7 +923,7 @@ Complete "Christmas Gift Mission (Master +1) Part 1"  in under 1 min
 Complete "Christmas Gift Mission (Master +1) Part 2".
 /i7
 4074022
-Complete "Christmas Gift Mission (Int.)".
+Complete "Christmas Gift Mission (Int.) Part 2".
 4073005,2,45
 Complete "Monsters in the Castle of Mirage (Master +1)" under 45 Sec.
 4073004,2,45

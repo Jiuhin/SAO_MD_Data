@@ -1540,6 +1540,36 @@ Shieldblade Skill Lv.2
 slot_skill_icon_job_10
 Raises attack and crit. rate by 50
 Shieldblade Skill Lv.1
+slot_skill_icon_job_10
+Raises attack and crit. rate by 500
+Shieldblade Skill Lv.10
+slot_skill_icon_job_10
+Raises attack and crit. rate by 450
+Shieldblade Skill Lv.9
+slot_skill_icon_job_10
+Raises attack and crit. rate by 400
+Shieldblade Skill Lv.8
+slot_skill_icon_job_10
+Raises attack and crit. rate by 350
+Shieldblade Skill Lv.7
+slot_skill_icon_job_10
+Raises attack and crit. rate by 300
+Shieldblade Skill Lv.6
+slot_skill_icon_job_10
+Raises attack and crit. rate by 250
+Shieldblade Skill Lv.5
+slot_skill_icon_job_10
+Raises attack and crit. rate by 200
+Shieldblade Skill Lv.4
+slot_skill_icon_job_10
+Raises attack and crit. rate by 150
+Shieldblade Skill Lv.3
+slot_skill_icon_job_10
+Raises attack and crit. rate by 100
+Shieldblade Skill Lv.2
+slot_skill_icon_job_10
+Raises attack and crit. rate by 50
+Shieldblade Skill Lv.1
 slot_skill_icon_job_9
 Raises attack and crit. rate by 500
 Lance Skill Lv.10

@@ -53,7 +53,7 @@ Do you want to update the info?
 text_question
 Guild Home has been updated
 text_attention
-Buff Effect
+Effect On
 text_title_buff
 Do you want to set it up?
 text_attention_3
@@ -701,10 +701,15 @@ Used
 text_use_detail_title
 Date
 text_use_time_title
+Total:
+text_sum_title
 Gift Balance:
 text_free_title
 Purchase Balance:
 text_charge_title
+Complimentary ones are taken first.
+Purchased ones are taken in chronological order.
+text_description
 History Buy
 text_history_buy
 Shikinkessaihou
@@ -1193,6 +1198,8 @@ Edit Party
 text_button_party_edit
 Characters
 text_butto_character_list
+Title Effect :
+text_title_effect
 Close
 text_button_close
 Done
@@ -1206,6 +1213,10 @@ text_not_character_2
 Select a
 character
 text_not_character_1
+Change
+text_user_title_change
+Title Effect :
+text_title_effect
 Characters
 text_possession_character
 Close

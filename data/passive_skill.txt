@@ -108,9 +108,9 @@ P-Members' Attack +6% (P-Leader)
 Attack of all party members increase by 3% when you are a leader.
 P-Members' Attack +3% (P-Leader)
 Attack & MP of party members (Dark-elem.) increase by 1%.
-P-Members' Dark-elem. Atk&MP+1% 
+P-Members' Dark-elem. Atk&MP+1%
 Attack & MP of party members (Dark-elem.) increase by 3%.
-P-Members' Dark-elem. Atk&MP+3% 
+P-Members' Dark-elem. Atk&MP+3%
 MP of all party members increase by 1%.
 Party Members' MP +1%
 MP of all party members increase by 3%.
@@ -173,6 +173,10 @@ Increases attack by 3% when equipped by Leafa.
 Attack +3% (Leafa)
 50% chance Leafa gains 5 MP on enemy kill.
 MP Recovery on Kill (Leafa)
+Redecues Required MP by 10% and increases attack by 10% when equipped by Asuna.
+Required MP -10%, Attack +10% (Asuna)
+Increases attack by 10% when equipped by Asuna.
+Attack +10% (Asuna)
 Increases attack by 3% when equipped by Asuna.
 Attack +3% (Asuna)
 Increases HP by 6% when equipped by Asuna.
@@ -553,6 +557,12 @@ MP Recovery Ratio Up (vs. Fire)
 WQ/
 Increases MP gain vs Non-elem. enemies.
 MP Recovery Ratio Up (vs.Non-elem.)
+_J)
+土属性のキャラに対してダメージが減少する
+対土属性キャラでダメージ減少
+wF)
+土属性のキャラに対してダメージが増加する
+対土属性キャラでダメージ増加
 Increases damage vs Earth-elem. enemies when using skills at switch
 Switch Skill Damage Up (vs. Earth-elem.)
 Increases critical damage vs Earth-elem. enemies from 1.5x to 2x.
@@ -561,6 +571,10 @@ Increases critical damage vs Earth-elem. enemies by 10%
 Crit. Damage + 10% (vs. Earth)
 Increases dmg. vs Earth-elem. enemies by 1.5x.
 Damage Up (vs. Earth)
+闇属性のキャラに対してダメージが減少する
+対闇属性キャラでダメージ減少
+闇属性のキャラに対してダメージが増加する
+対闇属性キャラでダメージ増加
 Increases damage vs Dark-elem. enemies when using skills at switch
 Switch Skill Damage Up (vs. Dark.)
 Increases critical damage vs Dark-elem. enemies from 1.5x to 2x.
@@ -569,6 +583,11 @@ Increases critical damage vs Dark-elem. enemies by 10%
 Crit. Damage + 10% (vs. Dark)
 Increases dmg. vs Dark-elem. enemies by 1.5x.
 Damage Up (vs. Dark)
+聖属性のキャラに対してダメージが減少する
+対聖属性キャラでダメージ減少
+79&
+聖属性のキャラに対してダメージが増加する
+対聖属性キャラでダメージ増加
 g1&
 Increases damage vs Holy-elem. enemies when using skills at switch
 Switch Skill Damage Up (vs. Holy.)
@@ -579,6 +598,10 @@ Increases critical damage vs Holy-elem. enemies by 10%
 Crit. Damage + 10% (vs. Holy)
 Increases dmg. vs Holy-elem. enemies by 1.5x.
 Damage Up (vs. Holy)
+風属性のキャラに対してダメージが減少する
+対風属性キャラでダメージ減少
+風属性のキャラに対してダメージが増加する
+対風属性キャラでダメージ増加
 Increases damage vs Wind-elem. enemies when using skills at switch
 Switch Skill Damage Up (vs. Wind)
 Increases critical damage vs Wind-elem. enemies from 1.5x to 2x.
@@ -587,6 +610,10 @@ Increases critical damage vs Wind-elem. enemies by 10%
 Crit. Damage + 10% (vs. Wind)
 Increases dmg. vs Wind-elem. enemies by 1.5x.
 Damage Up (vs. Wind)
+水属性のキャラに対してダメージが減少する
+対水属性キャラでダメージ減少
+水属性のキャラに対してダメージが増加する
+対水属性キャラでダメージ増加
 Increases Attack for 30-hit+ combos by 6%. (Water-elem.)
 30+ Combo: Attack +6% (Water)
 Increases damage vs Water-elem. enemies when using skills at switch
@@ -597,6 +624,10 @@ Increases critical damage vs Water-elem. enemies by 10%
 Crit. Damage + 10% (vs. Water)
 Increases dmg. vs Water-elem. enemies by 1.5x.
 Damage Up (vs. Water)
+火属性のキャラに対してダメージが減少する
+対火属性キャラでダメージ減少
+火属性のキャラに対してダメージが増加する
+対火属性キャラでダメージ増加
 Increases damage vs Fire-elem. enemies when using skills at switch
 Switch Skill Damage Up (vs. Fire.)
 Increases critical damage vs Fire-elem. enemies from 1.5x to 2x.
@@ -605,6 +636,10 @@ Increases critical damage vs Fire-elem. enemies by 10%
 Crit. Damage + 10% (vs. Fire)
 Increases dmg. vs Fire-elem. enemies by 1.5x.
 Damage Up (vs. Fire)
+無属性のキャラに対してダメージが減少する
+対無属性キャラでダメージ減少
+無属性のキャラに対してダメージが増加する
+対無属性キャラでダメージ増加
 Increases damage vs Non-elem. enemies when using skills at switch
 Switch Skill Damage Up (vs. Non-elem.)
 Increases critical damage vs Non-elem. enemies from 1.5x to 2x.
@@ -615,10 +650,14 @@ Increases dmg. vs Non-elem. enemies by 1.5x.
 Damage Up (vs. Non-elem.)
 Reduces Earth-elem. character's Required MP by -10%, increases Critical damage by 10%
 Required MP -10% / Critical damage +10% (Earth)
+Reduces Earth-elem. character's Required MP by -10%
+Required MP -10% (Earth)
 Increases Earth-elem. character's MP & def. by 3%.
 MP & Def. +3% (Earth)
 Increases Earth-elem. character's defense by 6%.
 Def +6% (Earth)
+Increases Earth-elem. character's attack by 10%.
+Atk +10% (Earth)
 Increases Earth-elem. character's attack by 3%.
 Atk +3% (Earth)
 Increases Earth-elem. character's MP by 3%.

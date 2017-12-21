@@ -741,8 +741,9 @@ Unlocks skill slots.
 Rarity: High
 Void Medallion
 Exchangeable with 
-5 evolving 
-equipments at the exchange shop.
+5 upgradable equipments
+and limited 
+4 weapons at the exchange shop.
 Memory Fragment
 Upgrades rarity level 4
 equipment.

@@ -41,6 +41,7 @@ se_system_ch_gacha_idol
 se_system_ch_sign_idol
 se_system_ch_gacha_idol_pre
 se_system_os_appear
+se_enemy_karakuri_attack
 se_enemy_demon_dead
 se_enemy_demon_damage
 se_enemy_demon_appear
@@ -67,6 +68,17 @@ se_enemy_griffin_appear
 se_enemy_kagachi_dead
 se_enemy_kagachi_damage
 se_enemy_kagachi_appear
+se_action_raise_your_glass
+se_action_shuntou
+se_action_peony
+se_action_bounce_the_ball
+se_action_mastiff
+se_action_oonusa
+se_action_kagura_suzu
+se_action_ggo_grenade_launcher
+se_action_dog_run
+se_action_butterfly
+se_action_folding_fan
 se_action_ggo_dead
 se_action_raygun
 se_action_smg

@@ -1138,6 +1138,9 @@ TBD
 Steel Chest Plate R1
 armor01_0001
 TBD
+Polaris Spear R4
+weapon09_0017
+TBD
 Eiszapfen R5
 weapon09_0016
 TBD
@@ -2819,6 +2822,12 @@ Dual Short Swords
 2 R1
 weapon02_0001
 TBD
+Elucidator Rouge R5
+weapon01_0110
+TBD
+Elucidator Rouge R4
+weapon01_0110
+TBD
 June Blade+1 R5
 weapon01_0106
 TBD
@@ -3196,6 +3205,12 @@ weapon01_0026
 TBD
 Storm Slicer R4
 weapon01_0026
+TBD
+Insane Ruler R5
+weapon01_0025
+TBD
+Insane Ruler R4
+weapon01_0025
 TBD
 Frost Blade R4
 weapon01_0023

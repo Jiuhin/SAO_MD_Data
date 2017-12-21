@@ -352,6 +352,14 @@ Increase your attack and swing your club violently, delivering a blow with meteo
 Meteor Impact+
 Meteor Impact+
 skill_icon_shield_3_{}
+A combination skill. Jump toward an enemy's back guarding yourself and bear down the enemy by performing a combo attack. Restores your HP.
+Acute Blast
+Acute Blast
+skill_icon_shield_3_{}
+A combination skill. Rush foward guarding yourself and perform a combo attack. Restores your HP.
+Aerial Revelation
+Aerial Revelation
+skill_icon_shield_3_{}
 A sword skill. Call the judgement thunder and strike an enemy with lightning.
 Judgement Slash
 Judgement Slash

@@ -196,8 +196,8 @@ Set a title
 Party {0}
 You cannot skip the stories of quests you
 have not completed.
-To play with the matching player, please go back to the start and re-enter.
-To play with the matching player, please update your App to the newest Ver.
+You and your matching player are not using the same asset version. To continue, either you or the matching player needs to go back to the start and re-enter.
+You and your matching player are not using the same Ver. of the app. To continue, either you or the matching player needs to update the app to the newest Ver.
 An event is set
 Set an event
 You've reached the limit. You will be able to invite in a minute.
@@ -366,6 +366,7 @@ Rapier
 Dual Blades
 Sword
 {} acquired!
+Party Num. +{}UP
 Top {} Players' Score
 Do you want to evacuate?
 You have an exhausted character.

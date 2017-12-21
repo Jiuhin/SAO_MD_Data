@@ -1,28 +1,48 @@
-D9	
+dQ	
+LP	
+8O	
+hN	
+HM	
+hL	
+8K	
+TJ	
+pI	
+$I	
+LH	
+tG	
+,G	
+TF	
+4E	
+0C	
+LB	
+hA	
+T?	
+l>	
+X<	
+D:	
 p8	
-,8	
-H6	
-p5	
-(5	
-H4	
-d3	
-42	
-P1	
-t0	
-,0	
-T/	
-4.	
-<,	
-H)	
-d(	
-4'	
-L&	
-h%	
-8$	
-p"	
-$"	
-P 	
-4		
+07	
+H5	
+L4	
+T3	
+d2	
+41	
+x/	
+,/	
+P.	
+x-	
+$-	
+(,	
+,+	
+4)	
+8(	
+<'	
+D%	
+H$	
+P"	
+T!	
+X 	
+D		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -937,8 +957,7 @@ Christmas Upgrade Crystal x1
 Christmas Gold Medal x1
 	8]s
 The Party Master
-The Secret Alliance 
-Christmas Gift Mission
+The Secret Alliance - Christmas Gift Mission
 	8[s
 Colored Leaf Gold Medal x3
 	8Zs
@@ -1586,6 +1605,109 @@ Rainbow Essence x2
 Col x500000
 Memory Diamond x50
 Memory Fragment x10
+Supreme ruler of the Dark Castle
+Skill Crystal x30
+Critical Crystal x30
+Defense Crystal x30
+Attack Crystal x30
+MP Crystal x30
+HP Crystal x30
+Col x300000
+Memory Fragment x5
+Skill Shard x40
+Critical Shard x40
+Defense Shard x40
+Attack Shard x40
+MP Shard x40
+HP Shard x40
+Stardust (Medium) x600
+Holy Skill Crystal x15
+Holy Critical Crystal x15
+Holy Defense Crystal x15
+Holy Attack Crystal x15
+Holy MP Crystal x15
+Holy HP Crystal x15
+Rainbow Essence x1
+Skill Crystal x30
+Critical Crystal x30
+Defense Crystal x30
+Attack Crystal x30
+MP Crystal x30
+HP Crystal x30
+Stardust (Medium) x600
+Holy Skill Crystal x15
+Holy Critical Crystal x15
+Holy Defense Crystal x15
+Holy Attack Crystal x15
+Holy MP Crystal x15
+Holy HP Crystal x15
+Stardust (Medium) x300
+Skill Shard x40
+Critical Shard x40
+Defense Shard x40
+Attack Shard x40
+MP Shard x40
+HP Shard x40
+Col x150000
+Memory Fragment x5
+Skill Crystal x30
+Critical Crystal x30
+Defense Crystal x30
+Attack Crystal x30
+MP Crystal x30
+HP Crystal x30
+Rainbow Essence x1
+Skill Shard x40
+Critical Shard x40
+Defense Shard x40
+Attack Shard x40
+MP Shard x40
+HP Shard x40
+Stardust (Medium) x300
+Challenger of the Dark Castle
+Holy Skill Crystal x15
+Holy Critical Crystal x15
+Holy Defense Crystal x15
+Holy Attack Crystal x15
+Holy MP Crystal x15
+Holy HP Crystal x15
+Col x150000
+Memory Fragment x4
+Skill Crystal x30
+Critical Crystal x30
+Defense Crystal x30
+Attack Crystal x30
+MP Crystal x30
+HP Crystal x30
+Rainbow Essence x1
+Skill Shard x40
+Critical Shard x40
+Defense Shard x40
+Attack Shard x40
+MP Shard x40
+HP Shard x40
+Memory Fragment x4
+Holy Skill Crystal x15
+Holy Critical Crystal x15
+Holy Defense Crystal x15
+Holy Attack Crystal x15
+Holy MP Crystal x15
+Holy HP Crystal x15
+Stardust (Medium) x200
+Skill Crystal x30
+Critical Crystal x30
+Defense Crystal x30
+Attack Crystal x30
+MP Crystal x30
+HP Crystal x30
+Memory Fragment x2
+Skill Shard x40
+Critical Shard x40
+Defense Shard x40
+Attack Shard x40
+MP Shard x40
+HP Shard x40
+Stardust (Medium) x100
 Supreme ruler of the Floating Castle
 Skill Crystal x30
 Critical Crystal x30
@@ -4896,9 +5018,9 @@ Col x6120
 Col x4012
 Col x2030
 Col x301
-1000EP
-750EP
 500EP
+500EP
+400EP
 300EP
 250EP
 200EP
@@ -4906,7 +5028,6 @@ Col x301
 100EP
 75EP
 50EP
-25EP
 Apotropaic Hairpin R3
 Apotropaic Hairpin R2
 Scarlet Party Dress R3
@@ -5325,6 +5446,8 @@ Apotropaic Hairpin R3
 U}Q
 U}Q
 Scarlet Party Dress R3
+厄除けの髪飾りR3
+緋色の盛装R3
 6/Q
 6/Q
 Holy Night Choker R3

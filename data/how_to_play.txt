@@ -785,12 +785,10 @@ you can upgrade, evolve, and sell equipment.
 　[Rewards of Floor Clearing Event]
 Floor Complete Rewards
 　  You can get Fragments. You can exchange Fragments for
-　  limited 
-4 equipment. This 
-4 equipment can evolve to
 　  
-5 equipment. Create 
-5 equipment!
+5 upgradable equipment and limited 
+4 weapons. 
+　  Try to upgrade the equipment!
 Pt Rewards
 　  You can get Stardust(medium).
 　  At Exchange market, you can exchange Stardust(medium)

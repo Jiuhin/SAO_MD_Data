@@ -2631,6 +2631,313 @@ bg_thumbnail_2005
 Quest 1
 The Beast Lords in League (Exp.)
 Enemy Lv: 120
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :100
+Enemy Lv: 120
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Floor :96 
+Enemy Lv: 120
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :94 
+Enemy Lv: 120
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Floor :91 
+Enemy Lv: 120
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :89 
+Enemy Lv: 110
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8024
+Floor :86 
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :84 
+Enemy Lv: 110
+Better for: Dark
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Floor :81 
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :80
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :78 
+Enemy Lv: 110
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Floor :76 
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2020
+Floor :74 
+Enemy Lv: 110
+Better for: Earth
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Floor :71 
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :69 
+Enemy Lv: 100
+Better for: Wind
+Better for: Slash & Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :66 
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8024
+Floor :64 
+Enemy Lv: 100
+Better for: Holy
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :61 
+Enemy Lv: 100
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :60
+Enemy Lv: 100
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Floor :58 
+Enemy Lv: 100
+Better for: Dark
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_8013
+Floor :56 
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :54 
+Enemy Lv: 100
+Better for: Thurst & Strike
+Better for: Fire
+Defeat All Enemies
+Quest
+bg_thumbnail_3001
+Floor :51 
+Enemy Lv: 100
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2020
+Floor :49 
+Enemy Lv: 100
+Appears: Non-Attr.
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :46 
+Enemy Lv: 100
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :44 
+Enemy Lv: 100
+Better for: Dark
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :41 
+Enemy Lv: 100
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :40
+Enemy Lv: 90
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :38 
+Enemy Lv: 90
+Better for: Fire
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_3001
+Floor :36 
+Enemy Lv: 90
+Better for: Holy
+Better for: Strike
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :34 
+Enemy Lv: 90
+Better for: Wind
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :31 
+Enemy Lv: 90
+Better for: Dark
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Floor :29 
+Enemy Lv: 90
+Better for: Earth
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :26 
+Enemy Lv: 90
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :24 
+Enemy Lv: 90
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Floor :21 
+Enemy Lv: 80
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :20
+Enemy Lv: 80
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :18 
+Enemy Lv: 80
+Better for: Water
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Floor :16 
+Enemy Lv: 80
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :14 
+Enemy Lv: 80
+Better for: Holy
+Better for: Thurst & Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Floor :11 
+Enemy Lv: 70
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Floor :9 
+Enemy Lv: 70
+Appears: Non-Attr.
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :6 
+Enemy Lv: 70
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :4 
+Enemy Lv: 70
+Better for: Holy
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Floor :1 
+Enemy Lv: 120
 Appears: Non-Attr.
 DANGER!!
 Defeat All Enemies
@@ -2985,7 +3292,7 @@ Quest
 bg_thumbnail_2020
 Floor :98 
 Enemy Lv: 120
-・LUCKY!!
+LUCKY!!
 Defeat All Enemies
 Quest
 bg_thumbnail_2026
@@ -3593,7 +3900,7 @@ bg_thumbnail_2004
 Floor :1 
 Enemy Lv: 120
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2020
@@ -3608,7 +3915,7 @@ bg_thumbnail_2026
 Floor :96 
 Enemy Lv: 120
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -3622,21 +3929,21 @@ bg_thumbnail_2024
 Floor :91 
 Enemy Lv: 120
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :89 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_3004
 Floor :86 
 Enemy Lv: 110
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -3651,7 +3958,7 @@ bg_thumbnail_2024
 Floor :81 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2020
@@ -3665,7 +3972,7 @@ bg_thumbnail_2026
 Floor :76 
 Enemy Lv: 110
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -3679,21 +3986,21 @@ bg_thumbnail_2024
 Floor :71 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :69 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_3004
 Floor :66 
 Enemy Lv: 100
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -3707,7 +4014,7 @@ bg_thumbnail_2024
 Floor :61 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
@@ -3721,7 +4028,7 @@ bg_thumbnail_3004
 Floor :56 
 Enemy Lv: 100
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -3735,7 +4042,7 @@ bg_thumbnail_2024
 Floor :51 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2017
@@ -3776,7 +4083,7 @@ bg_thumbnail_3004
 Floor :36 
 Enemy Lv: 90
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -3790,7 +4097,7 @@ bg_thumbnail_2024
 Floor :31 
 Enemy Lv: 90
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2017
@@ -3941,7 +4248,7 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -3950,13 +4257,14 @@ bg_thumbnail_8018
 Quest 6-2
 Christmas Gift Mission (Master +2)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 6-1
 Christmas Gift Mission (Master +2)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -3965,13 +4273,14 @@ bg_thumbnail_8018
 Quest 5-2
 Christmas Gift Mission (Master +1)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 5-1
 Christmas Gift Mission (Master +1)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -3980,13 +4289,14 @@ bg_thumbnail_8018
 Quest 4-2
 Christmas Gift Mission (Master)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 4-1
 Christmas Gift Mission (Master)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -3995,13 +4305,14 @@ bg_thumbnail_8018
 Quest 3-2
 Christmas Gift Mission (EX)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 3-1
 Christmas Gift Mission (EX)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -4010,13 +4321,14 @@ bg_thumbnail_8018
 Quest 2-2
 Christmas Gift Mission (Expert)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 2-1
 Christmas Gift Mission (Expert)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -4025,7 +4337,8 @@ bg_thumbnail_8018
 Quest 1-2
 Christmas Gift Mission (Int.)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
@@ -12747,6 +13060,313 @@ bg_thumbnail_2005
 Quest 1
 The Beast Lords in League (Exp.)
 Enemy Lv: 120
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :100
+Enemy Lv: 120
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Floor :96 
+Enemy Lv: 120
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :94 
+Enemy Lv: 120
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Floor :91 
+Enemy Lv: 120
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :89 
+Enemy Lv: 110
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8024
+Floor :86 
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :84 
+Enemy Lv: 110
+Better for: Dark
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Floor :81 
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :80
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :78 
+Enemy Lv: 110
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Floor :76 
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2020
+Floor :74 
+Enemy Lv: 110
+Better for: Earth
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Floor :71 
+Enemy Lv: 110
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :69 
+Enemy Lv: 100
+Better for: Wind
+Better for: Slash & Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :66 
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8024
+Floor :64 
+Enemy Lv: 100
+Better for: Holy
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :61 
+Enemy Lv: 100
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :60
+Enemy Lv: 100
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Floor :58 
+Enemy Lv: 100
+Better for: Dark
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_8013
+Floor :56 
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :54 
+Enemy Lv: 100
+Better for: Thurst & Strike
+Better for: Fire
+Defeat All Enemies
+Quest
+bg_thumbnail_3001
+Floor :51 
+Enemy Lv: 100
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2020
+Floor :49 
+Enemy Lv: 100
+Appears: Non-Attr.
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :46 
+Enemy Lv: 100
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :44 
+Enemy Lv: 100
+Better for: Dark
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :41 
+Enemy Lv: 100
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :40
+Enemy Lv: 90
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :38 
+Enemy Lv: 90
+Better for: Fire
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_3001
+Floor :36 
+Enemy Lv: 90
+Better for: Holy
+Better for: Strike
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :34 
+Enemy Lv: 90
+Better for: Wind
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :31 
+Enemy Lv: 90
+Better for: Dark
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Floor :29 
+Enemy Lv: 90
+Better for: Earth
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :26 
+Enemy Lv: 90
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :24 
+Enemy Lv: 90
+Better for: Holy
+Beware of Darkness
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Floor :21 
+Enemy Lv: 80
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2012
+Floor :20
+Enemy Lv: 80
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :18 
+Enemy Lv: 80
+Better for: Water
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Floor :16 
+Enemy Lv: 80
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :14 
+Enemy Lv: 80
+Better for: Holy
+Better for: Thurst & Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Floor :11 
+Enemy Lv: 70
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Floor :9 
+Enemy Lv: 70
+Appears: Non-Attr.
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :6 
+Enemy Lv: 70
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :4 
+Enemy Lv: 70
+Better for: Holy
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Floor :1 
+Enemy Lv: 120
 Appears: Non-Attr.
 DANGER!!
 Defeat All Enemies
@@ -13101,7 +13721,7 @@ Quest
 bg_thumbnail_2020
 Floor :98 
 Enemy Lv: 120
-・LUCKY!!
+LUCKY!!
 Defeat All Enemies
 Quest
 bg_thumbnail_2026
@@ -13709,7 +14329,7 @@ bg_thumbnail_2004
 Floor :1 
 Enemy Lv: 120
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2020
@@ -13724,7 +14344,7 @@ bg_thumbnail_2026
 Floor :96 
 Enemy Lv: 120
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13738,21 +14358,21 @@ bg_thumbnail_2024
 Floor :91 
 Enemy Lv: 120
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :89 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_3004
 Floor :86 
 Enemy Lv: 110
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13767,7 +14387,7 @@ bg_thumbnail_2024
 Floor :81 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2020
@@ -13781,7 +14401,7 @@ bg_thumbnail_2026
 Floor :76 
 Enemy Lv: 110
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13795,21 +14415,21 @@ bg_thumbnail_2024
 Floor :71 
 Enemy Lv: 110
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
 Floor :69 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_3004
 Floor :66 
 Enemy Lv: 100
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13823,7 +14443,7 @@ bg_thumbnail_2024
 Floor :61 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8001
@@ -13837,7 +14457,7 @@ bg_thumbnail_3004
 Floor :56 
 Enemy Lv: 100
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13851,7 +14471,7 @@ bg_thumbnail_2024
 Floor :51 
 Enemy Lv: 100
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2017
@@ -13892,7 +14512,7 @@ bg_thumbnail_3004
 Floor :36 
 Enemy Lv: 90
 Better for: Wind
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -13906,7 +14526,7 @@ bg_thumbnail_2024
 Floor :31 
 Enemy Lv: 90
 Better for: Earth
-Better for: Slash & Strike
+Better for: Thurst & Strike
 Defeat All Enemies
 Quest
 bg_thumbnail_2017
@@ -14057,7 +14677,7 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -14066,13 +14686,14 @@ bg_thumbnail_8018
 Quest 6-2
 Christmas Gift Mission (Master +2)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 6-1
 Christmas Gift Mission (Master +2)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -14081,13 +14702,14 @@ bg_thumbnail_8018
 Quest 5-2
 Christmas Gift Mission (Master +1)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 5-1
 Christmas Gift Mission (Master +1)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -14096,13 +14718,14 @@ bg_thumbnail_8018
 Quest 4-2
 Christmas Gift Mission (Master)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 4-1
 Christmas Gift Mission (Master)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -14111,13 +14734,14 @@ bg_thumbnail_8018
 Quest 3-2
 Christmas Gift Mission (EX)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 3-1
 Christmas Gift Mission (EX)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -14126,13 +14750,14 @@ bg_thumbnail_8018
 Quest 2-2
 Christmas Gift Mission (Expert)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
 Quest 2-1
 Christmas Gift Mission (Expert)
-Santa the Kobold Lord breaks into a party. 
+"Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
 Defeat All Enemies
@@ -14141,7 +14766,8 @@ bg_thumbnail_8018
 Quest 1-2
 Christmas Gift Mission (Int.)
 "Santa the Kobold Lord" breaks into a party. 
-Don't miss out a chance to parry, stun the enemy!
+Don't miss out a chance to parry,
+stun the enemy!
 Defeat All Enemies
 Quest
 bg_thumbnail_8018
