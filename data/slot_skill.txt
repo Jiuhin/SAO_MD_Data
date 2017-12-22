@@ -457,6 +457,12 @@ Water Resistance Lv2
 slot_skill_icon_def_water_1
 Reduces damage from Water-elem. enemies by 15%
 Water Resistance Lv1
+slot_skill_icon_reseve_healing_hp_mp
+控えにいるとき5秒ごとにHPが600、MPが5回復する
+応急回復(HP&MP) Lv2
+slot_skill_icon_reseve_healing_hp_mp
+控えにいるとき10秒ごとにHPが600、MPが5回復する
+応急回復(HP&MP) Lv1
 slot_skill_icon_skill_defense
 Decreases damage attained during sword skills by 50%
 Damage Down during Skill Lv2

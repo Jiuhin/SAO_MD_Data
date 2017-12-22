@@ -38,6 +38,10 @@ images/event/4001/4001_01_top_monday.png
 images/event/4001/4001_01_banner_monday.png
 images/event/4001/4001_01_banner_monday.png
 Mon. Defense
+images/event/9016/9016_top.png
+images/event/9016/9016_banner.png
+images/event/9016/9016_banner.png
+Gift Frenzy Quest
 images/event/9015/9015_top.png
 images/event/9015/9015_banner.png
 images/event/9015/9015_banner.png

@@ -1,3 +1,11 @@
+Merry Christmas!
+Defeat those men in this battle and
+receive a Christmas gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 1
+Merry Christmas!
 Floor 75's boss is a giant skeletal
 centipede with a humanoid head and giant,
 deadly scythe claws. Its attacks are truly
@@ -10427,6 +10435,14 @@ Quest
 bg_thumbnail_2002
 Quest 1-1
 Horunka
+Merry Christmas!
+Defeat those men in this battle and
+receive a Christmas gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 1
+Merry Christmas!
 Floor 75's boss is a giant skeletal
 centipede with a humanoid head and giant,
 deadly scythe claws. Its attacks are truly

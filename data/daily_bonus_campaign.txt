@@ -1,5 +1,14 @@
 Vpd
 Fan Event Bonus
+B?Z_,dZ
+daily_bonus_new_years_eve_bg
+daily_bonus_text_new_years_eve
+TVCM Bonus
+Vpd
+Fan Event Bonus
+comeback_bg
+tvcm_comeback_text
+Comeback Bonus
 daily_bonus_xmas_bg
 daily_bonus_text_xmas
 Xmas Login Bonus

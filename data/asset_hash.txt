@@ -1906,6 +1906,8 @@ c61f1e2b2b0af5046b2a890e0cb5a7f2
 images/lottery/event/130012_event_top.png
 886eeee706d6a3f14ca627d503630e0a
 images/lottery/event/130011_event_top.png
+b92982dbc8b543dc12a5c6c1f7f9fb49
+images/lottery/crystal/140111_crystal_top.png
 95dd5298be29c5ec33d01516e4e1ef50
 images/lottery/crystal/140101_crystal_top.png
 3e8f02123bc611ad589d3d27fa463146
@@ -2882,6 +2884,10 @@ images/event/ranking/badge/image_ranking_badge_01.png
 images/event/banner/event_quest_banner_m_6.png
 126171a6b0bd32b0bb3dc43a43bc885f
 images/event/banner/event_quest_banner_m_5.png
+2622c2d3c838dbc4ed5ffb396993abf8
+images/event/9016/9016_top.png
+dc614d7cd1c0042252e74f150152bc9c
+images/event/9016/9016_banner.png
 f1c626979a10db5d070b560f7024b945
 images/event/9015/9015_top.png
 5bf1d5606db19b64e14e9672ad46d90d
@@ -4242,6 +4248,8 @@ f912c10b8779898d525e50ef9d952cb4
 images/character/party/party_113001.png
 0dbb21154e7784664bb8fd527d7077ec
 images/character/party/party_11001.png
+fa3affccddf95c53f069dcfa6b2b4cb4
+images/character/party/party_105008.png
 6c6fc8aaa8b6ddc9efb5b87872b9a3ee
 images/character/party/party_105004.png
 04f40df486b8fa464c5ef565207e4d96
@@ -4936,6 +4944,8 @@ images/character/character_113002.png
 images/character/character_113001.png
 701025fa32f9a85b1e625bb029a0d9ab
 images/character/character_11001.png
+4dd75f0f695b981d0a1aced3c9877153
+images/character/character_105008.png
 e238e8920046534f8fe849043d6d4670
 images/character/character_105004.png
 7495ac4b30af717f1124adfae6407d2e

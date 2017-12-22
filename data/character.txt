@@ -1,16 +1,21 @@
-<H5
-Xl4
-8O3
-lr2
-dx0
-(M0
-l0,
-tj(
-08(
-tC%
-0p$
-H>"
-d7!
+,T8
+8n7
+TO6
+tp5
+8N5
+,s4
+pw3
+T03
+Lr2
+,/1
+hD/
+4h.
+x>.
+xR+
+pD$
+l: 
+Xl	
+,B	
 walk
 wakeup
 wait
@@ -532,6 +537,7 @@ wait
 stun
 step
 skill_16310101
+zDT
 skill_163101
 skill_161201
 skill_161102
@@ -709,6 +715,7 @@ wakeup
 wait
 stun
 step
+HDj
 skill_103122
 skill_102201
 skill_101101
@@ -1516,6 +1523,7 @@ stun
 step
 skill_2313001
 	5	
+zDrc
 skill_23130
 skill_22202
 skill_21101
@@ -1844,7 +1852,7 @@ weapon_shield_194001
 attack_1
 skill_cutin_10001
 battle_cutin_195003
-tbd
+An SAO player. Heathcliff is the commander of the best guild "The Knights of the Blood". Nobody has seen his HP drops below 50%.
 serif
 4_heathcliff_194001
 Heathcliff
@@ -1886,7 +1894,7 @@ weapon_shield_195002
 attack_1
 skill_cutin_10001
 battle_cutin_195002
-tbd
+An SAO player. Kirito challenges Heathcliff in order to release Asuna and fights a duel with him.  However, Kirito lose the fight and ends up joining the Knights of the Blood.
 serif
 5_kirito_195002
 Kirito
@@ -2073,6 +2081,7 @@ wakeup
 wait
 stun
 step
+HD8
 skill_184102
 skill_182101
 skill_181101
@@ -2156,7 +2165,6 @@ wakeup
 wait
 stun
 step
-zDf4
 skill_184101
 skill_182101
 skill_181101
@@ -2282,6 +2290,7 @@ wakeup
 wait
 stun
 step
+TD"
 skill_183108
 skill_182101
 skill_181101
@@ -2447,6 +2456,7 @@ wakeup
 wait
 stun
 step
+HD:?
 skill_183103
 skill_182101
 skill_181101
@@ -2488,8 +2498,8 @@ wakeup
 wait
 stun
 step
-HDN
 skill_18310101
+HDBk
 skill_183101
 skill_182101
 skill_181101
@@ -2589,7 +2599,6 @@ dead
 dash
 damage
 charge_old
-"DJ
 charge
 back_step
 attack_3
@@ -2634,7 +2643,6 @@ dead
 dash
 damage
 charge_old
-"Dv 
 charge
 back_step
 attack_3
@@ -2680,9 +2688,7 @@ down
 dead
 dash
 damage
-"D:C
 charge_old
-"D&E
 charge
 back_step
 attack_3
@@ -2713,7 +2719,7 @@ wakeup
 wait
 stun
 step
-Dx&
+Dr,
 skill_164101
 skill_161201
 skill_161102
@@ -2728,6 +2734,7 @@ down
 dead
 dash
 damage
+"Dr>
 charge_old
 charge
 back_step
@@ -2772,6 +2779,7 @@ down
 dead
 dash
 damage
+"Dr
 charge_old
 charge
 back_step
@@ -2862,6 +2870,7 @@ dead
 dash
 damage
 charge_old
+"Dj
 charge
 back_step
 attack_3
@@ -2907,9 +2916,7 @@ down
 dead
 dash
 damage
-"DF
 charge_old
-"D2
 charge
 back_step
 attack_3
@@ -2997,7 +3004,9 @@ down
 dead
 dash
 damage
+"Df"
 charge_old
+"DR$
 charge
 back_step
 attack_3
@@ -3042,7 +3051,9 @@ down
 dead
 dash
 damage
+"DfE
 charge_old
+"DRG
 charge
 back_step
 attack_3
@@ -3072,8 +3083,8 @@ wakeup
 wait
 stun
 step
-zDB}
 skill_16310301
+zDvX
 skill_163103
 skill_161201
 skill_161102
@@ -3088,9 +3099,7 @@ down
 dead
 dash
 damage
-"Dn
 charge_old
-"DZ
 charge
 back_step
 attack_3
@@ -3135,7 +3144,9 @@ down
 dead
 dash
 damage
+"D:
 charge_old
+"D&
 charge
 back_step
 attack_3
@@ -3179,6 +3190,7 @@ down
 dead
 dash
 damage
+"D&
 charge_old
 charge
 back_step
@@ -3226,7 +3238,6 @@ down
 dead
 dash
 damage
-"Dr
 charge_old
 charge
 back_step
@@ -3272,7 +3283,9 @@ down
 dead
 dash
 damage
+"DN
 charge_old
+"D:
 charge
 back_step
 attack_3
@@ -3317,9 +3330,7 @@ down
 dead
 dash
 damage
-"DfS
 charge_old
-"DRU
 charge
 back_step
 attack_3
@@ -3349,7 +3360,6 @@ wakeup
 wait
 stun
 step
-zDrd
 skill_16310101
 zDt
 skill_163101
@@ -3396,6 +3406,7 @@ wakeup
 wait
 stun
 step
+zD"c
 skill_16310101
 skill_163101
 skill_161201
@@ -3411,7 +3422,9 @@ down
 dead
 dash
 damage
+"Dnx
 charge_old
+"DZz
 charge
 back_step
 attack_3
@@ -3456,7 +3469,6 @@ dead
 dash
 damage
 charge_old
-"Dj
 charge
 back_step
 attack_3
@@ -3545,6 +3557,7 @@ down
 dead
 dash
 damage
+"D2
 charge_old
 charge
 back_step
@@ -3589,7 +3602,9 @@ down
 dead
 dash
 damage
+"DB
 charge_old
+"D.
 charge
 back_step
 attack_3
@@ -3619,7 +3634,6 @@ wakeup
 wait
 stun
 step
-aDr6
 skill_144102
 skill_141201
 skill_141101
@@ -3711,7 +3725,6 @@ wakeup
 wait
 stun
 step
-DNx
 skill_144101
 skill_141201
 skill_141101
@@ -5099,6 +5112,48 @@ serif
 2_sinon_122001
 Sinon
 Sinon
+walk
+wakeup
+wait
+stun
+step
+skill_104107
+skill_102201
+skill_101101
+parry
+parried
+levelup_common
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_104107
+skill_102201
+skill_101101
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_105008
+An Undine in ALO. Asuna is converted into an SAO avatar, having special dog equipment. Her favorite parts are the ears and the tail. 
+serif
+5_asuna_105008
+Asuna
+[Constant Love] Asuna
 walk
 wakeup
 wait

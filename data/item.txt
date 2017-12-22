@@ -632,9 +632,9 @@ Happy Halloween Night Record Crystal
 item_m_record_crystal_emerald
 You can attain in the "Moonlight Halloween Parade Scout"
 Moonlight Halloween Record Crystal
-item_m_record_crystal_silhouette
-???
-???
+item_m_record_crystal_guaranteed
+You can use in the "Assault Team Record Crystal" Scout
+Assault Team Record Crystal
 item_m_record_crystal_emerald
 You can attain in the "Jolly Roger in the Stormy Sea" Scout
 Pirate Record Crystal

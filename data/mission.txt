@@ -21,6 +21,8 @@ Korean Ver is Released! Special Character Present!
 Complete OS Episode 0 "Someone's Requiem"
 Skill Slot material present!
 Join a Guild
+9016001
+Receive a gift with "Merry Christmas!" in Gift Frenzy Quest
 9015004
 Complete SAO Game! (Complete SAO Game Complete Memorial Quest)
 9015003,1,12004
@@ -1804,6 +1806,22 @@ Upgrade your equipment 1 time.
 Follow 10 players.
 Follow 5 players.
 Follow 1 player.
+480
+Log in for a total of 480 days.
+400
+Log in for a total of 400 days.
+300
+Log in for a total of 300 days.
+150
+Log in for a total of 150 days.
+480
+Log in for a total of 480 days.
+400
+Log in for a total of 400 days.
+300
+Log in for a total of 300 days.
+150
+Log in for a total of 150 days.
 Log in for a total of 14 days.
 Log in for a total of 7 days.
 365

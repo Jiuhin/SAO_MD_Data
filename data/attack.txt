@@ -74,13 +74,13 @@ L>f3
 >f3
 >f3
 >f3
-L>d3
-L>d3
-L>d3
-L>d3
 >d3
->d3
->d3
+L>d3
+L>d3
+L>d3
+L>d3
+L>d3
+L>d3
 QCG
 >d3
 QCG
@@ -142,6 +142,8 @@ QCG
 <e3
 QCG
 L>e3
+L>e3
+QCG
 QCG
 >e3
 >e3
@@ -1459,6 +1461,7 @@ Y!D
 >d3
 L>f3
 L>f3
+Bf3
 >d3
 L>d3
 >d3

@@ -1,3 +1,5 @@
+tJ	
+d,	
 zD,
 pAF
 pAF
@@ -15,10 +17,13 @@ pAc
 pAc
 12 
 pAZ
+0Ab
+pAZ
 pAZ
 0Ab
 GtL
 FtL
+?33
 ?33
 GtL
 FtL
@@ -64,6 +69,7 @@ pAa
 暴走ダッシュ後ろ
 暴走ダッシュ前
 右から左に進む
+pAb
 PAZ
 PAP
 333

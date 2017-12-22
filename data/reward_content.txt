@@ -1,48 +1,49 @@
-dQ	
-LP	
-8O	
-hN	
-HM	
-hL	
+PT	
+8S	
+hR	
+$R	
+TQ	
+4P	
+TO	
+pN	
+$N	
 8K	
-TJ	
-pI	
-$I	
-LH	
-tG	
-,G	
-TF	
-4E	
-0C	
-LB	
-hA	
-T?	
-l>	
-X<	
-D:	
-p8	
-07	
-H5	
-L4	
-T3	
+hH	
+HG	
+hF	
+8E	
+TD	
+pC	
+$C	
+XA	
+D?	
+L<	
+l:	
+,9	
+48	
+87	
+P5	
+h4	
+H3	
 d2	
-41	
-x/	
-,/	
-P.	
-x-	
-$-	
-(,	
-,+	
-4)	
-8(	
-<'	
-D%	
-H$	
-P"	
-T!	
-X 	
-D		
+<1	
+d0	
+h/	
+l.	
+p-	
+t,	
+x+	
+$+	
+,)	
+0(	
+4'	
+8&	
+<%	
+H"	
+L!	
+L 	
+t		
+,		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -710,7 +711,7 @@ Void Medallion x10
 Rainbow Essence x1
 Christmas Record Crystal x10
 Rainbow Essence x1
-??? x10
+Assault Team Record Crystal x10
 Memory Defrag All Stars
 Fall Festival 2016
 Blaze Slash
@@ -897,7 +898,7 @@ The Red-Nosed Reindeer
 Beater
 The World of Swords
 A	8
-Memory Diamond x100
+Memory Diamond x50
 A	8
 600EP
 )A	8
@@ -1020,11 +1021,11 @@ Assault! The Revenant
 Real Game Master
 	8<s
 An INCarnating RewArD
-??? x4
+Assault Team Record Crystal x4
 	8:s
-??? x2
+Assault Team Record Crystal x2
 	89s
-??? x1
+Assault Team Record Crystal x1
 	88s
 Anniversary Ticket VIP x2
 	87s
@@ -1112,6 +1113,14 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+)G6
+Memory Diamond x25
+)G6
+Dog Paw R4
+V)G6
+Memory Diamond x25
+U)G6
+[Constant Love] Asuna
 Christmas Record Crystal x10
 Christmas Record Crystal x9
 Christmas Record Crystal x8
@@ -1190,25 +1199,25 @@ Moonlight Halloween Record Crystal x3
 Moonlight Halloween Record Crystal x2
 Moonlight Halloween Record Crystal x1
 5jW
-??? x10
+Assault Team Record Crystal x10
 5iW
-??? x9
+Assault Team Record Crystal x9
 5hW
-??? x8
+Assault Team Record Crystal x8
 5gW
-??? x7
+Assault Team Record Crystal x7
 5fW
-??? x6
+Assault Team Record Crystal x6
 5eW
-??? x5
+Assault Team Record Crystal x5
 5dW
-??? x4
+Assault Team Record Crystal x4
 5cW
-??? x3
+Assault Team Record Crystal x3
 5bW
-??? x2
+Assault Team Record Crystal x2
 5aW
-??? x1
+Assault Team Record Crystal x1
 Pirate Record Crystal x10
 Pirate Record Crystal x9
 Pirate Record Crystal x8
@@ -5446,8 +5455,8 @@ Apotropaic Hairpin R3
 U}Q
 U}Q
 Scarlet Party Dress R3
-厄除けの髪飾りR3
-緋色の盛装R3
+Apotropaic Hairpin R3
+Scarlet Party Dress R3
 6/Q
 6/Q
 Holy Night Choker R3
@@ -10595,7 +10604,7 @@ Memory Diamond x1
 Memory Diamond x25
 Memory Diamond x25
 e<n
-??? x10
+Assault Team Record Crystal x10
 	<n
 Holy Skill Crystal x50
 Skill Crystal x100
@@ -10636,8 +10645,9 @@ Asuna's Kitchen Knife R2
 EXP Potion x10
 [Nightwear] Asuna
 [Intrepid Detective] Eugeo
-??? x2
-??? x1
+Assault Team Record Crystal x2
+Assault Team Record Crystal x1
+Rainbow Essence x2
 Earth Medallion x10
 Dark Medallion x10
 Holy Medallion x10

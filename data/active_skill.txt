@@ -1026,6 +1026,10 @@ Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed rig
 Prone Shot
 Prone Shot
 skill_icon_mace_3_{}
+A combination skill. Move to the back of an enemy while performing attacks. Give a command to call up dogs.
+Dog Run
+Dog Run
+skill_icon_mace_3_{}
 A combination skill. It makes shiny Santa and his reindeer sledge appear. High chance of stunning an enemy.
 Sleigh Drive
 Sleigh Drive
