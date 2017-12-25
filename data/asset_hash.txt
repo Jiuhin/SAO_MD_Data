@@ -1106,6 +1106,8 @@ ss/unit/chara_18_lance_w/skill_effect_lance_3.png
 ss/unit/chara_18_lance_w/skill_effect_lance_2.png
 ff3ea6f04ace78c9f6a6966d96c7e5e8
 ss/unit/chara_18_lance_w/skill_effect_lance_1.png
+915bcc70ab0520385453c127a186866d
+ss/unit/chara_18_lance_w/skill_effect_184106.png
 5c3ebc29814e343b0d50a38976aa3598
 ss/unit/chara_18_lance_w/skill_effect_184105.png
 3374078086cabe95fdcee392afcfacfc
@@ -1468,7 +1470,7 @@ e25a0c90abaefdace4b6cb7bfde174bf
 ss/unit/chara_10_mace_w/skill_effect_mace_1.png
 b9e165ec949cebf62a18090aa7c40ffe
 ss/unit/chara_10_mace_w/skill_effect_104107.png
-9707b249a0ff5cec74c26bc7b399f17b
+466f0ffd9a51792228f51457be18d253
 ss/unit/chara_10_mace_w/skill_effect_104106.png
 77b23af269353a55c14b277478905a16
 ss/unit/chara_10_mace_w/skill_effect_104105.png
@@ -2924,6 +2926,10 @@ images/event/9008/9008_banner.png
 images/event/9007/9007_top.png
 f892fc5a353ce55cb7e17aa79d31ae03
 images/event/9007/9007_banner.png
+579a12290be1ce74af9c3f1f6169b25c
+images/event/9007/9007_4_top.png
+3b8c83f63b3e17d70b036c13a83ae9ea
+images/event/9007/9007_4_banner.png
 9322f3f430de6951b801c3dfc4567e4d
 images/event/9007/9007_3_top.png
 743245d8899fd407a72650d207af9443
@@ -3252,6 +3258,10 @@ images/event/4801/4801_name.png
 images/event/4801/4801_banner.png
 3210e63632f0aff5e0fc4499f0ad8f12
 images/event/4801/4801_announce.png
+de412c40783e022734789587e57808f9
+images/event/4702/4702_top.png
+11b1330b104f22e2a4b6834ae09bc3ad
+images/event/4702/4702_banner.png
 9c498b1fc3e7aaa2d620a76ef93a2200
 images/event/4701/4701_top.png
 83caecf96ce7930a1d2d0744cda34912

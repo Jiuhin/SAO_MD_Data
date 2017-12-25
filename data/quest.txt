@@ -445,6 +445,38 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Leafa's Birthday Quest
+あなたこそ、強運の持ちヌシ!?
+六本足の巨大な怪魚と登場する追加ボスを倒し
+2018年の運勢を占え!
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 4
+Fortune Challenge (Misfortune)
+あなたこそ、強運の持ちヌシ!?
+六本足の巨大な怪魚と登場する追加ボスを倒し
+2018年の運勢を占え!
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 3
+Paper Fortune Challenge (Master)
+あなたこそ、強運の持ちヌシ!?
+六本足の巨大な怪魚と登場する追加ボスを倒し
+2018年の運勢を占え!
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 2
+Fortune Challenge (EX)
+あなたこそ、強運の持ちヌシ!?
+六本足の巨大な怪魚と登場する追加ボスを倒し
+2018年の運勢を占え!
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 1
+Fortune Challenge (Expert)
 For 30 seconds, 
 "General Eugene" is invincible. 
 Survive the time and be ready 
@@ -4184,6 +4216,78 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+"Cruel Horns" is coming! 
+Dealing damage would only work 
+when you pull off a Break.
+Do a Break with your sword or shieldblade!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 4-2
+The Archenemy (Master +1)
+The dark knight "Dullahan"  
+appears in the dungeon. 
+Survive a harsh sword battle and do a Break! 
+Try your dual blades or lance!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-1
+The Archenemy (Master +1)
+"Cruel Horns" is coming! 
+Dealing damage would only work 
+when you pull off a Break.
+Do a Break with your sword or shieldblade!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 3-2
+The Archenemy (Master)
+The dark knight "Dullahan"  
+appears in the dungeon. 
+Survive a harsh sword battle and do a Break! 
+Try your dual blades or lance!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-1
+The Archenemy (Master)
+"Cruel Horns" is coming! 
+Dealing damage would only work 
+when you pull off a Break.
+Do a Break with your sword or shieldblade!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 2-2
+The Archenemy (EX)
+The dark knight "Dullahan"  
+appears in the dungeon. 
+Survive a harsh sword battle and do a Break! 
+Try your dual blades or lance!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-1
+The Archenemy (EX)
+"Cruel Horns" is coming! 
+Dealing damage would only work 
+when you pull off a Break.
+Do a Break with your sword or shieldblade!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 1-2
+The Archenemy (Expert)
+The dark knight "Dullahan"  
+appears in the dungeon. 
+Survive a harsh sword battle and do a Break! 
+Try your dual blades or lance!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-1
+The Archenemy (Expert)
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
 Defeat All Enemies
@@ -10882,6 +10986,38 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Leafa's Birthday Quest
+あなたこそ、強運の持ちヌシ!?
+六本足の巨大な怪魚と登場する追加ボスを倒し
+2018年の運勢を占え!
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 4
+Fortune Challenge (Misfortune)
+あなたこそ、強運の持ちヌシ!?
+六本足の巨大な怪魚と登場する追加ボスを倒し
+2018年の運勢を占え!
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 3
+Paper Fortune Challenge (Master)
+あなたこそ、強運の持ちヌシ!?
+六本足の巨大な怪魚と登場する追加ボスを倒し
+2018年の運勢を占え!
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 2
+Fortune Challenge (EX)
+あなたこそ、強運の持ちヌシ!?
+六本足の巨大な怪魚と登場する追加ボスを倒し
+2018年の運勢を占え!
+Defeat All Enemies
+Quest
+bg_thumbnail_8026
+Quest 1
+Fortune Challenge (Expert)
 For 30 seconds, 
 "General Eugene" is invincible. 
 Survive the time and be ready 
@@ -14621,6 +14757,78 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+"Cruel Horns" is coming! 
+Dealing damage would only work 
+when you pull off a Break.
+Do a Break with your sword or shieldblade!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 4-2
+The Archenemy (Master +1)
+The dark knight "Dullahan"  
+appears in the dungeon. 
+Survive a harsh sword battle and do a Break! 
+Try your dual blades or lance!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-1
+The Archenemy (Master +1)
+"Cruel Horns" is coming! 
+Dealing damage would only work 
+when you pull off a Break.
+Do a Break with your sword or shieldblade!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 3-2
+The Archenemy (Master)
+The dark knight "Dullahan"  
+appears in the dungeon. 
+Survive a harsh sword battle and do a Break! 
+Try your dual blades or lance!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-1
+The Archenemy (Master)
+"Cruel Horns" is coming! 
+Dealing damage would only work 
+when you pull off a Break.
+Do a Break with your sword or shieldblade!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 2-2
+The Archenemy (EX)
+The dark knight "Dullahan"  
+appears in the dungeon. 
+Survive a harsh sword battle and do a Break! 
+Try your dual blades or lance!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-1
+The Archenemy (EX)
+"Cruel Horns" is coming! 
+Dealing damage would only work 
+when you pull off a Break.
+Do a Break with your sword or shieldblade!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 1-2
+The Archenemy (Expert)
+The dark knight "Dullahan"  
+appears in the dungeon. 
+Survive a harsh sword battle and do a Break! 
+Try your dual blades or lance!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-1
+The Archenemy (Expert)
 "The Dusty Reaper" is a giant skeletal boss. 
 Pulling off a Break on them is the key to defeat!
 Defeat All Enemies

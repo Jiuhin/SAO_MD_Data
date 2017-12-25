@@ -98,6 +98,18 @@ images/event/9009/9009_top.png
 images/event/9009/9009_banner.png
 images/event/9009/9009_banner.png
 Leafa's Birthday Quest!
+EP Market
+images/common/event_point_yellow.png
+images/event/9007/9007_4_top.png
+images/event/9007/9007_4_banner.png
+images/event/9007/9007_4_banner.png
+[Ended] Paper Fortune Mission Challenge
+EP Market
+images/common/event_point_yellow.png
+images/event/9007/9007_4_top.png
+images/event/9007/9007_4_banner.png
+images/event/9007/9007_4_banner.png
+Paper Fortune Mission Challenge
 images/event/9007/9007_3_top.png
 images/event/9007/9007_3_banner.png
 images/event/9007/9007_3_banner.png
@@ -470,6 +482,18 @@ images/event/4801/4801_name.png
 images/event/4801/4801_banner.png
 images/event/4801/4801_banner.png
 Shadowy Castle in the Night
+EP Market
+images/common/event_point.png
+images/event/4702/4702_top.png
+images/event/4702/4702_banner.png
+images/event/4702/4702_banner.png
+[Ended] The Archenemy
+EP Market
+images/common/event_point.png
+images/event/4702/4702_top.png
+images/event/4702/4702_banner.png
+images/event/4702/4702_banner.png
+The Archenemy
 EP Market
 images/common/event_point.png
 images/event/4701/4701_top.png

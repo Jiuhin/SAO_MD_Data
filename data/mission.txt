@@ -44,16 +44,27 @@ Complete "Liz's Birthday Quest".
 9009001
 Complete "Leafa's Birthday Quest".
 1240027-1240028,10
+Defeat 10 of Great Curse Bosses in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 1220037-1220038-1220039-1220040,1
+Defeat 1 of [Great Luck] The Gold King of Lakes in Fortune Mission Challenge
 9007126,2,30
 Complete "Vanguard & Rearguard (Master)" in under 30 secs.
 9007125,2,40
@@ -844,12 +855,38 @@ Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,
 Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
+4702008,1,200
+Complete the second half of "The Archenemy (Master+1)" with a 200 sec remaining time.
+4702007,1,200
+Complete the first half of "The Archenemy (Master+1)" with a 200 sec remaining time.
+4702008,1,1,2
+Complete the second half of "The Archenemy (Master+1)" with at least two sword characters.
+4702008,1,9,1
+Complete the second half of "The Archenemy (Master+1)" with a  lance character.
+4702008,1,2,1
+Complete the second half of "The Archenemy (Master+1)" with a dual blades character.
+4702007+4702008,1,1
+Complete the first half and the second half of "The Archenemy (Master +1)" with an S rank.
+4702006,1,210
+Complete the second half of "The Archenemy (Master)" with a 210 sec remaining time.
+4702005,1,210
+Complete the first half of "The Archenemy (Master)" with a 210 sec remaining time.
+4702005,1,2,1
+Complete the first half of "The Archenemy (Master)" with a dual blades character.
+4702005,1,9,1
+Complete the first half of "The Archenemy (Master)" with a  lance character.
+4702007+4702008,1,2
+Complete the first half and the second half of "The Archenemy (Master+1)" with an A rank.
+4702005+4702006,1,1
+Complete the first half and the second half of "The Archenemy (Master)" with an S rank.
+4702003+4702004,1,1
+Complete the first half and the second half of "The Archenemy (EX)" with an S rank.
 <h,
 4701008,1,9,1
-Complete the second half of "Breakthrough in Sand (Master +1)" with a spear character.
+Complete the second half of "Breakthrough in Sand (Master +1)" with a  lance character.
 <g,
 4701007,1,9,1
-Complete the first half of "Breakthrough in Sand (Master +1)" with a spear character.
+Complete the first half of "Breakthrough in Sand (Master +1)" with a  lance character.
 <f,
 4701008,1,7,1
 Complete the second half of "Breakthrough in Sand (Master +1)" with a bow character.

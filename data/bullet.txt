@@ -3267,6 +3267,9 @@ wait
 dead
 bullet_1107_shishimai
 wait
+dead
+bullet_1107_shishimai
+wait
 ground
 bullet_1106_darkness_smoke
 dead

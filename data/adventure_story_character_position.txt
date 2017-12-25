@@ -1,6 +1,7 @@
 canvas_mask21.psb
 canvas_mask2.psb
 canvas_mask11.psb
+2037_black_cloak
 2036_feliz
 2035_feliz
 2034_pirate

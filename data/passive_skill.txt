@@ -517,6 +517,8 @@ Increases Water-elem. character's stun resistance.
 Stun Resistance (Water)
 Increases MP gain vs Wind-elem. enemies.
 MP Recovery (vs. Wind)
+HP80%以上で弱点攻撃時に攻撃が3%増加する
+HP80%以上で弱点攻撃時に攻撃+3%
 Increases Earth-elem. character's Attack by 3% when they attack  weak points.
 Attack +3% on Attack Weak Points (Earth-elem.)
 oE3

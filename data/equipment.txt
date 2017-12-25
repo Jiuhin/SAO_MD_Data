@@ -2636,6 +2636,9 @@ TBD
 Small Rapier R1
 weapon03_0001
 TBD
+Holy Saber x Night Blade R4
+weapon02_0101
+TBD
 Dual Schneesturm R5
 weapon02_0100
 TBD
