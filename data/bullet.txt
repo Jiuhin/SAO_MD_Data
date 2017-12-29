@@ -1,7 +1,4 @@
-${	
-Xt	
-DS	
-P0	
+pN	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -1424,6 +1421,7 @@ dead
 bullet_5044_bounce_the_ball_last
 wait
 bullet_5043_dog_run
+bullet_5040_circle_bells
 dead
 bullet_5039_duck_splash
 dead
@@ -3321,14 +3319,17 @@ bullet_1113_karuta
 wait
 ground
 dead
+appear
 bullet_1107_shishimai
 wait
 ground
 dead
+appear
 bullet_1107_shishimai
 wait
 ground
 dead
+appear
 bullet_1107_shishimai
 wait
 ground

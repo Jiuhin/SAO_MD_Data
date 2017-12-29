@@ -859,16 +859,6 @@ Character Story
 Character Story
 [The Queen of Hearts] Asuna Lv.10
 Character Story
-[Votive Prayers] Asuna Lv.80
-Character Story
-[Votive Prayers] Asuna Lv.70
-Character Story
-[Votive Prayers] Asuna Lv.50
-Character Story
-[Votive Prayers] Asuna Lv.30
-Character Story
-[Votive Prayers] Asuna Lv.10
-Character Story
 [Gift from Santa] Asuna Lv.80
 Character Story
 [Gift from Santa] Asuna Lv.70
@@ -1238,16 +1228,6 @@ Character Story
 [The Bunny Ace] Yuuki Lv.30
 Character Story
 [The Bunny Ace] Yuuki Lv.10
-Character Story
-[Ring the Bell] Alice Lv.80
-Character Story
-[Ring the Bell] Alice Lv.70
-Character Story
-[Ring the Bell] Alice Lv.50
-Character Story
-[Ring the Bell] Alice Lv.30
-Character Story
-[Ring the Bell] Alice Lv.10
 Character Story
 [Christmas Miracle] Yuuki Lv.80
 Character Story

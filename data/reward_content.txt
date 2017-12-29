@@ -1,57 +1,62 @@
-p_	
-$_	
-D]	
-T[	
-tZ	
-(Z	
-DY	
-0W	
-XV	
-8U	
-hR	
-<Q	
-XP	
-tO	
-(O	
-DN	
-xL	
-,L	
-HK	
-dJ	
-4I	
-PH	
-lG	
-,F	
-<E	
-LD	
-TC	
-XB	
-h>	
-4:	
-89	
-<8	
-D6	
-H5	
-L4	
-P3	
-T2	
-X1	
-d.	
-h-	
-l,	
-,,	
-l+	
+0}	
+h{	
+<x	
+Lw	
+Pv	
+Tu	
+Xt	
+dq	
+hp	
+lo	
+pn	
+tm	
+xl	
+$l	
+(k	
+,j	
+0i	
+<e	
+dd	
+Dc	
+lb	
+xa	
+0a	
+X_	
+8]	
+L[	
+lZ	
+$Z	
+tY	
+dW	
+DS	
+tP	
+,P	
+TO	
+4N	
+PM	
+lL	
+0K	
+PJ	
+<I	
+<H	
+<G	
+<F	
+XE	
+xD	
+$D	
+(C	
+,B	
+<A	
+T?	
+p>	
+(>	
+x<	
+0<	
+87	
+x6	
+<5	
+(-	
 ,+	
-d)	
-<(	
-d'	
-D&	
-h%	
-t$	
-P"	
-l!	
-p 	
-4		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -103,6 +108,42 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+m:t
+L">
+Memories of Karuta
+m:s
+K">
+Cornered!
+m:r
+J">
+Not Alone
+m:q
+I">
+Sketchy People
+m:p
+H">
+Reinforcements
+m:o
+G">
+Technique
+m:n
+F">
+What you can do now
+m:m
+E">
+Karuta Competition
+m:l
+D">
+Disappearing into the crowd
+m:k
+C">
+High Intelligence Mob
+m:j
+B">
+《Asuka Empire》
+m:i
+A">
+Cornered
 Arm:
 Out of the Frying Pan into the Fire
 qm:
@@ -548,6 +589,55 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+Lv. 80 Decryption Key x1
+9aG
+Lv. 70 Decryption Key x1
+Lv. 60 Decryption Key x1
+Lv. 50 Decryption Key x1
+95F
+Lv. 40 Decryption Key x1
+Lv. 30 Decryption Key x1
+9mE
+Lv. 20 Decryption Key x1
+9	E
+Lv. 10 Decryption Key x1
+Holy Skill Crystal x10
+9AD
+Holy Critical Crystal x10
+Holy Defense Crystal x10
+9yC
+Holy Attack Crystal x10
+Holy MP Crystal x10
+Holy HP Crystal x10
+9MB
+Skill Crystal x20
+Critical Crystal x20
+Defense Crystal x20
+9!A
+Attack Crystal x20
+MP Crystal x20
+HP Crystal x20
+Skill Shard x50
+Critical Shard x50
+9-?
+Defense Shard x50
+Attack Shard x50
+9e>
+MP Shard x50
+HP Shard x50
+Earth Medallion x10
+Dark Medallion x10
+Holy Medallion x10
+9q<
+Wind Medallion x10
+Water Medallion x10
+Fire Medallion x10
+Void Medallion x10
+Rainbow Essence x1
+9}:
+Memory Diamond x5
+Upgrade Crystal x1
+Global Ticket VIP x1
 9Q9
 Holy Saber x Night Blade R4
 Polaris Spear R4
@@ -905,6 +995,12 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+QK	8
+500EP
+J	8
+300EP
+J	8
+200EP
 I	8
 2018 Link Start!
 ]I	8
@@ -916,23 +1012,23 @@ Global Upgrade Crystal  x2
 1H	8
 Global Upgrade Crystal  x1
 G	8
-グローバルチケット・VIP
+Global Ticket VIP x3
 iG	8
-グローバルチケット・VIP
+Global Ticket VIP x2
 G	8
-グローバルチケット・VIP
+Global Ticket VIP x1
 F	8
-グローバルチケット・Plus
+Global Ticket Plus x30
 F	8
-グローバルチケット・Plus
+Global Ticket Plus x25
 E	8
-グローバルチケット・Plus
+Global Ticket Plus x20
 uE	8
-グローバルチケット・Plus
+Global Ticket Plus x15
 E	8
-グローバルチケット・Plus
+Global Ticket Plus x10
 D	8
-グローバルチケット・Plus
+Global Ticket Plus x5
 ID	8
 Global Ticket x30
 C	8
@@ -1171,7 +1267,7 @@ I+G6
 [Haiku Composer] Kirito
 Global Upgrade Crystal  x2
 Global Upgrade Crystal  x1
-グローバルチケット・VIP
+Global Ticket VIP x1
 )G6
 Memory Diamond x25
 )G6
@@ -2568,6 +2664,94 @@ Christmas Bronze Medal x10
 Christmas Silver Medal x10
 2iI
 Christmas Gold Medal x25
+EXP Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Assault Team: Karuta (Top 100)
+EXP Hi-Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Memory Diamond x5
+Global Upgrade Crystal  x1
+Global Ticket x10
+Global Ticket Plus x5
+Assault Team: Karuta (Top 50)
+EXP Hi-Potion x5
+Col x30000
+Memory Diamond x5
+Global Upgrade Crystal  x1
+Global Ticket x50
+Global Ticket Plus x5
+Global Ticket VIP x1
+Assault Team: Karuta (Top 20)
+EXP X-Potion x5
+Col x50000
+Memory Diamond x5
+Global Upgrade Crystal  x2
+Global Ticket x50
+Global Ticket Plus x10
+Global Ticket VIP x3
+Assault Team: Karuta (Top 10)
+EXP X-Potion x5
+Col x100000
+Memory Diamond x5
+Global Upgrade Crystal  x3
+Global Ticket x30
+Global Ticket Plus x15
+Global Ticket VIP x7
+Assault Team: Karuta (5th)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Global Upgrade Crystal  x4
+Global Ticket x60
+Global Ticket Plus x20
+Global Ticket VIP x11
+Assault Team: Karuta (4th)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Global Upgrade Crystal  x4
+Global Ticket x70
+Global Ticket Plus x25
+Global Ticket VIP x17
+Assault Team: Karuta (3rd)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Global Upgrade Crystal  x5
+Global Ticket x80
+Global Ticket Plus x30
+Global Ticket VIP x21
+Assault Team: Karuta (2nd)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x300000
+Memory Diamond x5
+Global Upgrade Crystal  x5
+Global Ticket x90
+Global Ticket Plus x40
+Global Ticket VIP x23
+Assault Team: Karuta (1st)
+Rainbow Essence x2
+EXP X-Potion x5
+Col x500000
+Memory Diamond x5
+Global Upgrade Crystal  x6
+Global Ticket x100
+Global Ticket Plus x50
+Global Ticket VIP x25
 Christmas Upgrade Crystal x1
 Christmas Gold Medal x4
 Christmas Upgrade Crystal x2
@@ -6954,6 +7138,198 @@ HP Shard x4
 HP Shard x3
 HP Shard x2
 HP Shard x1
+d6D
+d6D
+Holy Defense Crystal x3
+c6D
+c6D
+Defense Crystal x15
+b6D
+b6D
+Defense Shard x25
+a6D
+a6D
+Holy Defense Crystal x2
+Defense Crystal x11
+_6D
+_6D
+Defense Shard x18
+Holy Defense Crystal x2
+]6D
+]6D
+Defense Crystal x8
+Defense Shard x12
+[6D
+[6D
+Holy Defense Crystal x1
+Z6D
+Z6D
+Defense Crystal x6
+Y6D
+Y6D
+Defense Shard x10
+X6D
+X6D
+Holy Skill Crystal x3
+W6D
+W6D
+Skill Crystal x15
+V6D
+V6D
+Skill Shard x25
+U6D
+U6D
+Holy Skill Crystal x2
+T6D
+T6D
+Skill Crystal x11
+S6D
+S6D
+Skill Shard x18
+R6D
+R6D
+Holy Skill Crystal x2
+Q6D
+Q6D
+Skill Crystal x8
+P6D
+P6D
+Skill Shard x12
+O6D
+O6D
+Holy Skill Crystal x1
+N6D
+N6D
+Skill Crystal x6
+M6D
+M6D
+Skill Shard x10
+L6D
+L6D
+Holy Critical Crystal x3
+K6D
+K6D
+Critical Crystal x15
+J6D
+J6D
+Critical Shard x25
+I6D
+I6D
+Holy Critical Crystal x2
+H6D
+H6D
+Critical Crystal x11
+G6D
+G6D
+Critical Shard x18
+F6D
+F6D
+Holy Critical Crystal x2
+E6D
+E6D
+Critical Crystal x8
+D6D
+D6D
+Critical Shard x12
+C6D
+C6D
+Holy Critical Crystal x1
+B6D
+B6D
+Critical Crystal x6
+A6D
+A6D
+Critical Shard x10
+Holy MP Crystal x3
+?6D
+?6D
+MP Crystal x15
+>6D
+>6D
+MP Shard x25
+Holy MP Crystal x2
+<6D
+<6D
+MP Crystal x11
+MP Shard x18
+:6D
+:6D
+Holy MP Crystal x2
+96D
+96D
+MP Crystal x8
+86D
+86D
+MP Shard x12
+76D
+76D
+Holy MP Crystal x1
+66D
+66D
+MP Crystal x6
+56D
+56D
+MP Shard x10
+46D
+46D
+Holy Attack Crystal x3
+36D
+36D
+Attack Crystal x15
+26D
+26D
+Attack Shard x25
+16D
+16D
+Holy Attack Crystal x2
+06D
+06D
+Attack Crystal x11
+/6D
+/6D
+Attack Shard x18
+.6D
+.6D
+Holy Attack Crystal x2
+-6D
+-6D
+Attack Crystal x8
+,6D
+,6D
+Attack Shard x12
++6D
++6D
+Holy Attack Crystal x1
+Attack Crystal x6
+)6D
+)6D
+Attack Shard x10
+(6D
+(6D
+Holy HP Crystal x3
+'6D
+'6D
+HP Crystal x15
+&6D
+&6D
+HP Shard x25
+%6D
+%6D
+Holy HP Crystal x2
+$6D
+$6D
+HP Crystal x11
+HP Shard x18
+"6D
+"6D
+Holy HP Crystal x2
+!6D
+!6D
+HP Crystal x8
+HP Shard x12
+Holy HP Crystal x1
+HP Crystal x6
+HP Shard x10
 Holy Artistic Taste Hacking Crystal x3
 Artistic Taste Hacking Crystal x5
 Artistic Taste Hacking Shard x9
@@ -8116,6 +8492,21 @@ Christmas Bronze Medal x2
 Christmas Bronze Medal x1
 Heart Relic R3
 Heart Relic R2
+]p,
+Global Ticket VIP x3
+Global Ticket VIP x2
+Global Ticket VIP x1
+1o,
+Global Ticket Plus x20
+Global Ticket Plus x15
+in,
+Global Ticket Plus x10
+Global Ticket Plus x5
+Global Ticket x20
+Global Ticket x15
+Global Ticket x10
+ul,
+Global Ticket x5
 Benedictory Broach R3
 Benedictory Broach R2
 Snow Fairy Cape R3

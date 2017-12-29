@@ -882,6 +882,73 @@ Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,
 Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
+T4-
+4703024,1,180
+Complete "One Lap Behind (Dark) (Master +1) Part 2 of the 3rd week" with a 180 sec remaining time.
+T3-
+4703023,1,180
+Complete "One Lap Behind (Holy) (Master +1) Part 1 of the 3rd week" with a 180 sec remaining time.
+T2-
+4703024,1,210
+Complete "One Lap Behind (Dark) (Master +1) Part 2 of the 3rd week" with a 210 sec remaining time.
+T1-
+4703023,1,210
+Complete "One Lap Behind (Holy) (Master +1) Part 1 of the 3rd week" with a 210 sec remaining time.
+T0-
+4703022,1,210
+Complete "One Lap Behind (Dark) (Master) Part 2 of the 3rd week" with a 210 sec remaining time.
+T/-
+4703021,1,210
+Complete "One Lap Behind (Holy) (Master) Part 1 of the 3rd week" with a 210 sec remaining time.
+T.-
+4703016,1,180
+Complete "One Lap Behind (Earth) (Master +1) Part 2 of the 2nd week" with a 180 sec remaining time.
+T--
+4703015,1,180
+Complete "One Lap Behind (Water) (Master +1) Part 1 of the 2nd week" with a 180 sec remaining time.
+T,-
+4703016,1,210
+Complete "One Lap Behind (Earth) (Master +1) Part 2 of the 2nd week" with a 210 sec remaining time.
+T+-
+4703015,1,210
+Complete "One Lap Behind (Water) (Master +1) Part 1 of the 2nd week" with a 210 sec remaining time.
+4703014,1,210
+Complete "One Lap Behind (Earth) (Master) Part 2 of the 2nd week" with a 210 sec remaining time.
+T)-
+4703013,1,210
+Complete "One Lap Behind (Wind) (Master) Part 1 of the 2nd week" with a 210 sec remaining time.
+T(-
+4703008,1,180
+Complete "One Lap Behind (Fire) (Master +1) Part 2 of the 1st week" with a 180 sec remaining time.
+T'-
+4703007,1,180
+Complete "One Lap Behind (Wind) (Master +1) Part 1 of the 1st week" with a 180 sec remaining time.
+T&-
+4703008,1,210
+Complete "One Lap Behind (Fire) (Master +1) Part 2 of the 1st week" with a 210 sec remaining time.
+T%-
+4703007,1,210
+Complete "One Lap Behind (Wind) (Master +1) Part 1 of the 1st week" with a 210 sec remaining time.
+T$-
+4703006,1,210
+Complete "One Lap Behind (Fire) (Master) Part 2 of the 1st week" with a 210 sec remaining time.
+4703005,1,210
+Complete "One Lap Behind (Wind) (Master) Part 1 of the 1st week" with a 210 sec remaining time.
+>"-
+4703008,1,100
+Complete "One Lap Behind (Fire) (Master +1) Part 2" with a 100-hit combo or higher.
+>!-
+4703007,1,100
+Complete "One Lap Behind (Wind) (Master +1) Part 1" with a 100-hit combo or higher.
+< -
+4703008,1,2,1
+Complete "One Lap Behind (Fire) (Master +1) Part 2" with a dual blades character.
+4703007,1,7,1
+Complete "One Lap Behind (Wind) (Master +1) Part 1" with a bow character.
+4703006,1
+Complete "One Lap Behind (Fire) (Master) Part 2" without down.
+4703005,1
+Complete "One Lap Behind (Wind) (Master) Part 1" without down.
 4702008,1,200
 Complete the second half of "The Archenemy (Master+1)" with a 200 sec remaining time.
 4702007,1,200

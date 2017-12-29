@@ -4261,6 +4261,198 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a Light-elem. character 
+and stun the enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-2
+One Lap Behind (Dark) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a sword/gun character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-1
+One Lap Behind (Holy) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a Light-elem. character 
+and stun the enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-2
+One Lap Behind (Dark) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a sword/gun character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-1
+One Lap Behind (Holy) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a Light-elem. character 
+and stun the enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-2
+One Lap Behind (Dark) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a sword/gun character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-1
+One Lap Behind (Holy) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a Light-elem. character 
+and stun the enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-2
+One Lap Behind (Dark) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a sword/gun character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-1
+One Lap Behind (Holy) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rod/lance character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-2
+One Lap Behind (Earth) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a mace character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-1
+One Lap Behind (Water) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rod/lance character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-2
+One Lap Behind (Earth) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a mace character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-1
+One Lap Behind (Water) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rod/lance character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-2
+One Lap Behind (Earth) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a mace character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-1
+One Lap Behind (Water) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rod/lance character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-2
+One Lap Behind (Earth) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a mace character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-1
+One Lap Behind (Water) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rapier/dual blades character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-2
+One Lap Behind (Fire) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a dagger/bow character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-1
+One Lap Behind (Wind) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rapier/dual blades character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-2
+One Lap Behind (Fire) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a dagger/bow character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-1
+One Lap Behind (Wind) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rapier/dual blades character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-2
+One Lap Behind (Fire) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a dagger/bow character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-1
+One Lap Behind (Wind) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rapier/dual blades character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-2
+One Lap Behind (Fire) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a dagger/bow character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-1
+One Lap Behind (Wind) (Expert)
 "Cruel Horns" is coming! 
 Dealing damage would only work 
 when you pull off a Break.
@@ -4611,57 +4803,63 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 6-2
 Hearing your voice, Where the sun rises (Master +2)
 _">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 6-1
 Hearing your voice, Where the sun rises (Master +2)
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 5-2
 Hearing your voice, Where the sun rises (Master +1)
 ]">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 5-1
 Hearing your voice, Where the sun rises (Master +1)
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 4-2
 Hearing your voice, Where the sun rises (Master)
 [">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
@@ -4669,19 +4867,21 @@ bg_thumbnail_8048
 Quest 4-1
 Hearing your voice, Where the sun rises (Master)
 Z">
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 3-3
 Hearing your voice, Where the sun rises (EX)
 Y">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
@@ -4689,19 +4889,21 @@ bg_thumbnail_8048
 Quest 3-1
 Hearing your voice, Where the sun rises (EX)
 X">
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 2-2
 Hearing your voice, Where the sun rises (Expert)
 W">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
@@ -4709,19 +4911,21 @@ bg_thumbnail_8048
 Quest 2-1
 Hearing your voice, Where the sun rises (Expert)
 V">
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 1-2
 Hearing your voice, Where the sun rises (Int.)
 U">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
@@ -9746,6 +9950,11 @@ Quest
 bg_thumbnail_2013
 Quest 1
 Equipment Creation (Sword, Dual Blades)
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Quest 4
+Time Limited: EXP (EX)
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
@@ -15129,6 +15338,198 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a Light-elem. character 
+and stun the enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-2
+One Lap Behind (Dark) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a sword/gun character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-1
+One Lap Behind (Holy) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a Light-elem. character 
+and stun the enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-2
+One Lap Behind (Dark) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a sword/gun character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-1
+One Lap Behind (Holy) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a Light-elem. character 
+and stun the enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-2
+One Lap Behind (Dark) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a sword/gun character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-1
+One Lap Behind (Holy) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a Light-elem. character 
+and stun the enemy!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-2
+One Lap Behind (Dark) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a sword/gun character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-1
+One Lap Behind (Holy) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rod/lance character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-2
+One Lap Behind (Earth) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a mace character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-1
+One Lap Behind (Water) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rod/lance character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-2
+One Lap Behind (Earth) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a mace character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-1
+One Lap Behind (Water) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rod/lance character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-2
+One Lap Behind (Earth) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a mace character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-1
+One Lap Behind (Water) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rod/lance character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-2
+One Lap Behind (Earth) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a mace character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-1
+One Lap Behind (Water) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rapier/dual blades character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-2
+One Lap Behind (Fire) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a dagger/bow character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4-1
+One Lap Behind (Wind) (Master+1)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rapier/dual blades character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-2
+One Lap Behind (Fire) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a dagger/bow character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3-1
+One Lap Behind (Wind) (Master)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rapier/dual blades character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-2
+One Lap Behind (Fire) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a dagger/bow character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2-1
+One Lap Behind (Wind) (EX)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a rapier/dual blades character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-2
+One Lap Behind (Fire) (Expert)
+"Gullinkambi" wakes up on top of Yggdrasil. 
+Organize a party with a dagger/bow character 
+and do Break!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1-1
+One Lap Behind (Wind) (Expert)
 "Cruel Horns" is coming! 
 Dealing damage would only work 
 when you pull off a Break.
@@ -15479,57 +15880,63 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 6-2
 Hearing your voice, Where the sun rises (Master +2)
 _">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 6-1
 Hearing your voice, Where the sun rises (Master +2)
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 5-2
 Hearing your voice, Where the sun rises (Master +1)
 ]">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 5-1
 Hearing your voice, Where the sun rises (Master +1)
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 4-2
 Hearing your voice, Where the sun rises (Master)
 [">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
@@ -15537,19 +15944,21 @@ bg_thumbnail_8048
 Quest 4-1
 Hearing your voice, Where the sun rises (Master)
 Z">
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 3-3
 Hearing your voice, Where the sun rises (EX)
 Y">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
@@ -15557,19 +15966,21 @@ bg_thumbnail_8048
 Quest 3-1
 Hearing your voice, Where the sun rises (EX)
 X">
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 2-2
 Hearing your voice, Where the sun rises (Expert)
 W">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
@@ -15577,19 +15988,21 @@ bg_thumbnail_8048
 Quest 2-1
 Hearing your voice, Where the sun rises (Expert)
 V">
+He's weak against Fire and Earth!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
-and wait for the right time to parry!
+"Phantom of Tanka Poetry"
+Remember the sign on the Karuta
+to parry his next attack at good times!
 Defeat All Enemies
 Quest
 bg_thumbnail_8048
 Quest 1-2
 Hearing your voice, Where the sun rises (Int.)
 U">
+He's weak against Water and Wind!!
 Karuta play attaracts
-"Phantom of Tanka Poetry". 
-Move to the right Karuta 
+"Phantom of Tanka Poetry"
+Move to the correct Karuta 
 and wait for the right time to parry!
 Defeat All Enemies
 Quest
@@ -20614,6 +21027,11 @@ Quest
 bg_thumbnail_2013
 Quest 1
 Equipment Creation (Sword, Dual Blades)
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Quest 4
+Time Limited: EXP (EX)
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
