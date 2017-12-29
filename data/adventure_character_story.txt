@@ -209,6 +209,16 @@ Character Story
 Character Story
 [The Wild Joker] Sinon Lv.10
 Character Story
+[Swing a Battledore with Love] Sinon Lv.80
+Character Story
+[Swing a Battledore with Love] Sinon Lv.70
+Character Story
+[Swing a Battledore with Love] Sinon Lv.50
+Character Story
+[Swing a Battledore with Love] Sinon Lv.30
+Character Story
+[Swing a Battledore with Love] Sinon Lv.10
+Character Story
 [Snow Sniper] Sinon Lv.80
 Character Story
 [Snow Sniper] Sinon Lv.70
@@ -388,6 +398,16 @@ Character Story
 [Goddess of Death] Sinon Lv.30
 Character Story
 [Goddess of Death] Sinon Lv.10
+Character Story
+[Fly a Shuttlecock with My Heart] Lisbeth Lv.80
+Character Story
+[Fly a Shuttlecock with My Heart] Lisbeth Lv.70
+Character Story
+[Fly a Shuttlecock with My Heart] Lisbeth Lv.50
+Character Story
+[Fly a Shuttlecock with My Heart] Lisbeth Lv.30
+Character Story
+[Fly a Shuttlecock with My Heart] Lisbeth Lv.10
 Character Story
 [Thoughts on Snowfall] Lisbeth Lv.80
 Character Story
@@ -839,6 +859,16 @@ Character Story
 Character Story
 [The Queen of Hearts] Asuna Lv.10
 Character Story
+[Votive Prayers] Asuna Lv.80
+Character Story
+[Votive Prayers] Asuna Lv.70
+Character Story
+[Votive Prayers] Asuna Lv.50
+Character Story
+[Votive Prayers] Asuna Lv.30
+Character Story
+[Votive Prayers] Asuna Lv.10
+Character Story
 [Gift from Santa] Asuna Lv.80
 Character Story
 [Gift from Santa] Asuna Lv.70
@@ -1208,6 +1238,16 @@ Character Story
 [The Bunny Ace] Yuuki Lv.30
 Character Story
 [The Bunny Ace] Yuuki Lv.10
+Character Story
+[Ring the Bell] Alice Lv.80
+Character Story
+[Ring the Bell] Alice Lv.70
+Character Story
+[Ring the Bell] Alice Lv.50
+Character Story
+[Ring the Bell] Alice Lv.30
+Character Story
+[Ring the Bell] Alice Lv.10
 Character Story
 [Christmas Miracle] Yuuki Lv.80
 Character Story

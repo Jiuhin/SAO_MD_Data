@@ -840,6 +840,8 @@ text_close
 text_rank_ep
 Rank Bonus
 text_degree_of_difficulty_bonus
+Drop
+text_drop_ep
 Total EP
 text_get_total_ep
 Total EP
@@ -1037,7 +1039,7 @@ Current Total EP
 text_possession_ep_exchange
 Event Details
 text_event_detail
-Anniversary Scout
+カウントダウンスカウト
 text_event_scout_s_story_ranking
 Medal Scout
 text_medal_scount_s_story
@@ -1231,9 +1233,9 @@ Collect Record Crystals to do a
 corresponding guaranteed Scout
 text_2
 text_get
-Ticket Cost
+Ticket 
 text_draw_eleven_consume_1
-Ticket Cost
+Ticket 
 text_draw_once_consume_1
 Buy
 text_diamond_shop
@@ -1245,9 +1247,9 @@ Do you want to buy another weapon?
 text_retry_confirm
 Info
 text_detail
-Ticket Cost
+Ticket 
 text_draw_eleven_consume_1
-Ticket Cost
+Ticket 
 text_draw_once_consume_1
 Diamond Cost
 text_draw_once_consume
@@ -1259,9 +1261,9 @@ Do you want to buy another weapon?
 text_retry_confirm
 Buy
 text_diamond_shop
-Ticket Cost
+Ticket 
 text_draw_eleven_consume_1
-Ticket Cost
+Ticket 
 text_draw_once_consume_1
 Medal Cost
 text_draw_once_consume_medal
@@ -1277,9 +1279,9 @@ Do you want to scout again?
 text_retry_confirm
 Buy
 text_diamond_shop
-Ticket Cost
+Ticket 
 text_draw_eleven_consume_1
-Ticket Cost
+Ticket 
 text_draw_once_consume_1
 Medal Cost
 text_draw_once_consume_medal
@@ -1295,9 +1297,9 @@ You got a Hacking Crystal!
 text_replace_item
 Buy
 text_diamond_shop
-Ticket Cost
+Ticket 
 text_draw_eleven_consume_1
-Ticket Cost
+Ticket 
 text_draw_once_consume_1
 Medal Cost
 text_draw_once_consume_medal
@@ -1325,9 +1327,9 @@ Char. ({})
 text_chara
 All ({})
 text_all
-Ticket Cost
+Ticket 
 text_draw_eleven_consume_3
-Ticket Cost
+Ticket 
 text_draw_once_consume_3
 Details
 text_testplay_2

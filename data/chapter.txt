@@ -30,6 +30,8 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+Priestess Equipment Creation
+Equip Event
 New Year Fore-end Equipment Creation
 Equip Event
 The Evils
@@ -175,9 +177,9 @@ Event
 Breakthrough in Sand
 Event
 Event
-熱砂の決闘
+Fierce Fight in Sand
 Event
-2018年1月巫女
+Inherited Tradition - A priests will
 Event
 Mochi Mochi Panic! Mochi Pounding Party
 Event
@@ -186,7 +188,7 @@ Christmas Gift Mission
 Event
 Monsters in the Castle of Mirage
 Event
-和の国に 流るる星と 友の声
+Hearing your voice, Where the sun rises
 Event
 Gifts from the Snowy Sky
 Event

@@ -210,6 +210,10 @@ images/event/9002/9002_top_2017.png
 images/event/9002/9002_banner_2017.png
 images/event/9002/9002_banner_2017.png
 Asuna's Birthday Quest 2017
+images/event/8034/8034_top.png
+images/event/8034/8034_banner.png
+images/event/8034/8034_banner.png
+Assault of the Dark Werewolf 
 images/event/8033/8033_top.png
 images/event/8033/8033_banner.png
 images/event/8033/8033_banner.png
@@ -520,6 +524,16 @@ images/event/4073/4073_top.png
 images/event/4073/4073_banner.png
 images/event/4073/4073_banner.png
 Monsters in the Castle of Mirage
+Global Scout
+images/event/4072/4072_top.png
+images/event/4072/4072_banner.png
+images/event/4072/4072_banner.png
+[Ended] Hearing your voice, Where the sun rises
+Global Scout
+images/event/4072/4072_top.png
+images/event/4072/4072_banner.png
+images/event/4072/4072_banner.png
+Hearing your voice, Where the sun rises
 images/event/4071/event_item_4071.png
 images/event/4071/4071_top.png
 images/event/4071/4071_banner.png
@@ -853,6 +867,10 @@ images/event/4020/4020_top.png
 images/event/4020/4020_banner.png
 images/event/4020/4020_banner.png
 Survival Battle on Desert
+images/event/4018/4018_top.png
+images/event/4018/4018_banner.png
+images/event/4018/4018_banner.png
+The Food of Friendship
 images/event/4015/4015_top.png
 images/event/4015/4015_banner.png
 images/event/4015/4015_banner.png

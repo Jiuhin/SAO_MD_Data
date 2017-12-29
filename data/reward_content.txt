@@ -1,49 +1,57 @@
-PT	
-8S	
+p_	
+$_	
+D]	
+T[	
+tZ	
+(Z	
+DY	
+0W	
+XV	
+8U	
 hR	
-$R	
-TQ	
-4P	
-TO	
-pN	
-$N	
-8K	
-hH	
-HG	
-hF	
-8E	
-TD	
-pC	
-$C	
-XA	
-D?	
-L<	
-l:	
-,9	
-48	
-87	
-P5	
-h4	
-H3	
-d2	
-<1	
-d0	
-h/	
-l.	
-p-	
-t,	
-x+	
-$+	
-,)	
-0(	
-4'	
-8&	
-<%	
-H"	
-L!	
-L 	
-t		
-,		
+<Q	
+XP	
+tO	
+(O	
+DN	
+xL	
+,L	
+HK	
+dJ	
+4I	
+PH	
+lG	
+,F	
+<E	
+LD	
+TC	
+XB	
+h>	
+4:	
+89	
+<8	
+D6	
+H5	
+L4	
+P3	
+T2	
+X1	
+d.	
+h-	
+l,	
+,,	
+l+	
+,+	
+d)	
+<(	
+d'	
+D&	
+h%	
+t$	
+P"	
+l!	
+p 	
+4		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -897,6 +905,46 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+I	8
+2018 Link Start!
+]I	8
+The Eternal Composer
+H	8
+Hearing your voice, Where the sun rises
+H	8
+Global Upgrade Crystal  x2
+1H	8
+Global Upgrade Crystal  x1
+G	8
+グローバルチケット・VIP
+iG	8
+グローバルチケット・VIP
+G	8
+グローバルチケット・VIP
+F	8
+グローバルチケット・Plus
+F	8
+グローバルチケット・Plus
+E	8
+グローバルチケット・Plus
+uE	8
+グローバルチケット・Plus
+E	8
+グローバルチケット・Plus
+D	8
+グローバルチケット・Plus
+ID	8
+Global Ticket x30
+C	8
+Global Ticket x25
+C	8
+Global Ticket x20
+C	8
+Global Ticket x15
+B	8
+Global Ticket x10
+UB	8
+Global Ticket x5
 A	8
 Memory Diamond x50
 A	8
@@ -1113,6 +1161,17 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+u,G6
+[Splash in Dirndl] Leafa
+,G6
+[Stars and Stripes] Asuna
++G6
+[Girl in Chinese Dress] Silica
+I+G6
+[Haiku Composer] Kirito
+Global Upgrade Crystal  x2
+Global Upgrade Crystal  x1
+グローバルチケット・VIP
 )G6
 Memory Diamond x25
 )G6
@@ -1121,6 +1180,8 @@ V)G6
 Memory Diamond x25
 U)G6
 [Constant Love] Asuna
+'G6
+Memory Diamond x100
 Christmas Record Crystal x10
 Christmas Record Crystal x9
 Christmas Record Crystal x8
@@ -5449,6 +5510,10 @@ Girl's Treats x6
 Girl's Treats (Favorite) x1
 Girl's Treats x10
 Girl's Treats x3
+Priestess Hairpin R3
+Lovely Priestess Costume R3
+Priestess Hairpin R3
+Lovely Priestess Costume R3
 V}Q
 V}Q
 Apotropaic Hairpin R3
@@ -5808,6 +5873,7 @@ Diamond Earring R2
 Coat of Midnight R2
 EXP X-Potion x2
 EXP X-Potion x1
+EXP Hi-Potion x3
 EXP Hi-Potion x2
 EXP Hi-Potion x1
 EXP Potion x2

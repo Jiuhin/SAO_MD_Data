@@ -550,6 +550,12 @@ L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
+You can do the "Global Scout VIP" on the 1st Anniversary Countdown Campaign.
+Global Ticket VIP
+You can do the "Global Scout Plus" on the 1st Anniversary Countdown Campaign.
+Global Ticket Plus
+You can do the "Global Scout" on the 1st Anniversary Countdown Campaign.
+Global Ticket
 You can do the Christmas Gold Medal Scout.
 Christmas Gold Medal
 You can do the Christmas Silver Medal Scout.
@@ -568,23 +574,23 @@ You can do the Halloween Silver Medal Scout.
 Halloween Silver Medal
 You can do the Halloween Bronze Medal Scout.
 Halloween Bronze Medal
-You can do the "Anniversary Scout VIP" on the 1st Anniversary Campagin.
+You can do the "Anniversary Scout VIP" on the 1st Anniversary Campaign.
 Anniversary Ticket VIP
-You can do the "Anniversary Scout Plus" on the 1st Anniversary Campagin.
+You can do the "Anniversary Scout Plus" on the 1st Anniversary Campaign.
 Anniversary Ticket Plus
-You can do the "Anniversary Scout" on the 1st Anniversary Campagin.
+You can do the "Anniversary Scout" on the 1st Anniversary Campaign.
 Anniversary Ticket
-You can do the "Countdown Scout VIP" on the 1st Anniversary Countdown Campagin.
+You can do the "Countdown Scout VIP" on the 1st Anniversary Countdown Campaign.
 Countdown Ticket VIP
-You can do the "Countdown Scout Plus" on the 1st Anniversary Countdown Campagin.
+You can do the "Countdown Scout Plus" on the 1st Anniversary Countdown Campaign.
 Countdown Ticket Plus
-You can do the "Countdown Scout" on the 1st Anniversary Countdown Campagin.
+You can do the "Countdown Scout" on the 1st Anniversary Countdown Campaign.
 Countdown Ticket
-You can do the "Summer Scout VIP" on Summer Campagin.
+You can do the "Summer Scout VIP" on Summer Campaign.
 Summer Ticket VIP
-You can do the "Summer Scout Plus" on Summer Campagin.
+You can do the "Summer Scout Plus" on Summer Campaign.
 Summer Ticket Plus
-You can do the "Summer Scout" on Summer Campagin.
+You can do the "Summer Scout" on Summer Campaign.
 Summer Ticket
 You can do the "Like VIP" in Idol Event
 Idol Like Ticket VIP
@@ -644,6 +650,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain in the "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20010
+Upgrades characters
+(Global Ticket VIP limited characters only) 
+Rarity: High
+Global Upgrade Crystal 
 item_m_evolution_20008
 Upgrades character
 ([Happy Memories] Sachi only) 
@@ -791,6 +802,8 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
+Raises Global Ticket VIP limited characters' level cap.
+Global Hacking Crystal
 Raises [Santa is coming] Seven and [Personal Santa] Rain's level cap.
 Christmas Hacking Crystal
 Raises Strea's level cap. ([Abounding Spring Water] Strea only) 

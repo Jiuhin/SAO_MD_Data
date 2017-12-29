@@ -445,33 +445,33 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Leafa's Birthday Quest
-あなたこそ、強運の持ちヌシ!?
-六本足の巨大な怪魚と登場する追加ボスを倒し
-2018年の運勢を占え!
+Are you the luckiest person? 
+Defeat the additional boss with a humongous hexapod fish
+and try your luck for 2018!
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 4
 Fortune Challenge (Misfortune)
-あなたこそ、強運の持ちヌシ!?
-六本足の巨大な怪魚と登場する追加ボスを倒し
-2018年の運勢を占え!
+Are you the luckiest person? 
+Defeat the additional boss with a humongous hexapod fish
+and try your luck for 2018!
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 3
-Paper Fortune Challenge (Master)
-あなたこそ、強運の持ちヌシ!?
-六本足の巨大な怪魚と登場する追加ボスを倒し
-2018年の運勢を占え!
+Fortune Challenge (Master)
+Are you the luckiest person? 
+Defeat the additional boss with a humongous hexapod fish
+and try your luck for 2018!
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 2
 Fortune Challenge (EX)
-あなたこそ、強運の持ちヌシ!?
-六本足の巨大な怪魚と登場する追加ボスを倒し
-2018年の運勢を占え!
+Are you the luckiest person? 
+Defeat the additional boss with a humongous hexapod fish
+and try your luck for 2018!
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
@@ -968,6 +968,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 5
+Assault of the Dark Werewolf (Master +1)
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 4
+Assault of the Dark Werewolf (Master)
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 3
+Assault of the Dark Werewolf (EX)
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 2
+Assault of the Dark Werewolf (Expert)
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 1
+Assault of the Dark Werewolf (Int.)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
 Figure out his attacks and win the battle!
@@ -4566,6 +4611,195 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 6-2
+Hearing your voice, Where the sun rises (Master +2)
+_">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 6-1
+Hearing your voice, Where the sun rises (Master +2)
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 5-2
+Hearing your voice, Where the sun rises (Master +1)
+]">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 5-1
+Hearing your voice, Where the sun rises (Master +1)
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 4-2
+Hearing your voice, Where the sun rises (Master)
+[">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 4-1
+Hearing your voice, Where the sun rises (Master)
+Z">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 3-3
+Hearing your voice, Where the sun rises (EX)
+Y">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 3-1
+Hearing your voice, Where the sun rises (EX)
+X">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 2-2
+Hearing your voice, Where the sun rises (Expert)
+W">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 2-1
+Hearing your voice, Where the sun rises (Expert)
+V">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 1-2
+Hearing your voice, Where the sun rises (Int.)
+U">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 1-1
+Hearing your voice, Where the sun rises (Int.)
+L">
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Memories of Karuta
+K">
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Cornered!
+J">
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Not Alone
+I">
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Sketchy People
+H">
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Reinforcements
+G">
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Technique
+F">
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+What you can do now
+E">
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Karuta Competition
+D">
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Disappearing into the crowd
+C">
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+High Intelligence Mob
+B">
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+《Asuka Empire》
+A">
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Cornered
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -8841,6 +9075,99 @@ Story
 bg_thumbnail_0
 Story 1
 Worry of the Lord
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 15
+Dragon's Roar (Master+1)
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 14
+Dragon's Roar (Master)
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 13
+Dragon's Roar (EX)
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 12
+Dragon's Roar (Expert)
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 11
+Dragon's Roar (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+The Food of Friendship
+The Glacial Dragon has appeared on the
+frozen seas. Send the icy dragon back
+where it came from, and net some nuliban!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 9
+Dragon's Roar
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Quest 8
+To the Northern Seas
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Lisbeth's Feelings
+Defeat All Enemies
+Quest
+bg_thumbnail_3002
+Quest 6
+Revenge for that Day
+Defeat All Enemies
+Quest
+bg_thumbnail_2014
+Quest 5
+First New Year's 2
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 4
+First New Year's
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Memories of that Day
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 2
+Obtain "New Year's Feast"
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+At an Arun Street Corner
 Cyclops the Dark Giant is the targeted monster. 
 For the dream guild house, defeat the monster
 with the Black Cats!
@@ -10986,33 +11313,33 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Leafa's Birthday Quest
-あなたこそ、強運の持ちヌシ!?
-六本足の巨大な怪魚と登場する追加ボスを倒し
-2018年の運勢を占え!
+Are you the luckiest person? 
+Defeat the additional boss with a humongous hexapod fish
+and try your luck for 2018!
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 4
 Fortune Challenge (Misfortune)
-あなたこそ、強運の持ちヌシ!?
-六本足の巨大な怪魚と登場する追加ボスを倒し
-2018年の運勢を占え!
+Are you the luckiest person? 
+Defeat the additional boss with a humongous hexapod fish
+and try your luck for 2018!
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 3
-Paper Fortune Challenge (Master)
-あなたこそ、強運の持ちヌシ!?
-六本足の巨大な怪魚と登場する追加ボスを倒し
-2018年の運勢を占え!
+Fortune Challenge (Master)
+Are you the luckiest person? 
+Defeat the additional boss with a humongous hexapod fish
+and try your luck for 2018!
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
 Quest 2
 Fortune Challenge (EX)
-あなたこそ、強運の持ちヌシ!?
-六本足の巨大な怪魚と登場する追加ボスを倒し
-2018年の運勢を占え!
+Are you the luckiest person? 
+Defeat the additional boss with a humongous hexapod fish
+and try your luck for 2018!
 Defeat All Enemies
 Quest
 bg_thumbnail_8026
@@ -11509,6 +11836,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 5
+Assault of the Dark Werewolf (Master +1)
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 4
+Assault of the Dark Werewolf (Master)
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 3
+Assault of the Dark Werewolf (EX)
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 2
+Assault of the Dark Werewolf (Expert)
+"The Dark Werewolf" makes an assault!
+Beware of the snappish werewolf! 
+Survive fierce attacks and defeat
+your enemy with your peers!
+Defeat All Enemies
+Quest
+bg_thumbnail_3005
+Quest 1
+Assault of the Dark Werewolf (Int.)
 "Santa Claus" appears under a Christmas tree. 
 Don't be excited about gifts from Santa! 
 Figure out his attacks and win the battle!
@@ -15107,6 +15479,195 @@ Quest
 bg_thumbnail_2029
 Quest 1
 Monsters in the Castle of Mirage (Int.)
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 6-2
+Hearing your voice, Where the sun rises (Master +2)
+_">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 6-1
+Hearing your voice, Where the sun rises (Master +2)
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 5-2
+Hearing your voice, Where the sun rises (Master +1)
+]">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 5-1
+Hearing your voice, Where the sun rises (Master +1)
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 4-2
+Hearing your voice, Where the sun rises (Master)
+[">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 4-1
+Hearing your voice, Where the sun rises (Master)
+Z">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 3-3
+Hearing your voice, Where the sun rises (EX)
+Y">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 3-1
+Hearing your voice, Where the sun rises (EX)
+X">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 2-2
+Hearing your voice, Where the sun rises (Expert)
+W">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 2-1
+Hearing your voice, Where the sun rises (Expert)
+V">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 1-2
+Hearing your voice, Where the sun rises (Int.)
+U">
+Karuta play attaracts
+"Phantom of Tanka Poetry". 
+Move to the right Karuta 
+and wait for the right time to parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 1-1
+Hearing your voice, Where the sun rises (Int.)
+L">
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Memories of Karuta
+K">
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Cornered!
+J">
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Not Alone
+I">
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Sketchy People
+H">
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Reinforcements
+G">
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Technique
+F">
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+What you can do now
+E">
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Karuta Competition
+D">
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Disappearing into the crowd
+C">
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+High Intelligence Mob
+B">
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+《Asuka Empire》
+A">
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Cornered
 "Weihnachten hermit" hidden in the Seafloor Cave
 Make a brave try and tackle the enemy
 right after dodging their powerful attack!
@@ -19382,6 +19943,99 @@ Story
 bg_thumbnail_0
 Story 1
 Worry of the Lord
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 15
+Dragon's Roar (Master+1)
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 14
+Dragon's Roar (Master)
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 13
+Dragon's Roar (EX)
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 12
+Dragon's Roar (Expert)
+The Glacial Dragon has appeared on the
+frozen seas. It's time for the ferocious
+ice dragon to meet its maker!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 11
+Dragon's Roar (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+The Food of Friendship
+The Glacial Dragon has appeared on the
+frozen seas. Send the icy dragon back
+where it came from, and net some nuliban!
+Defeat All Enemies
+Quest
+bg_thumbnail_8007
+Quest 9
+Dragon's Roar
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Quest 8
+To the Northern Seas
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Lisbeth's Feelings
+Defeat All Enemies
+Quest
+bg_thumbnail_3002
+Quest 6
+Revenge for that Day
+Defeat All Enemies
+Quest
+bg_thumbnail_2014
+Quest 5
+First New Year's 2
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 4
+First New Year's
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Memories of that Day
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 2
+Obtain "New Year's Feast"
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+At an Arun Street Corner
 Cyclops the Dark Giant is the targeted monster. 
 For the dream guild house, defeat the monster
 with the Black Cats!

@@ -1,5 +1,18 @@
 Vpd
 Fan Event Bonus
+daily_bonus_global_eve_bg
+daily_bonus_text_global_campaign
+Anniversary Bonus
+daily_bonus_global_eve_bg
+daily_bonus_text_global_campaign
+Anniversary Bonus
+daily_bonus_global_eve_bg
+daily_bonus_text_global_campaign
+Anniversary Bonus
+daily_bonus_global_eve_bg
+daily_bonus_text_global_campaign
+Anniversary Bonus
+New Year Bonus
 B?Z_,dZ
 daily_bonus_new_years_eve_bg
 daily_bonus_text_new_years_eve

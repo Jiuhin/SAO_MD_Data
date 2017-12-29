@@ -44,6 +44,9 @@ slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 10 seconds during standby.
 Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_parry_healing_mp
+Increases skill damage by 10% vs Fire-elem. enemies.
+Skill Damage Up (vs. Fire) Lv. 2
+slot_skill_icon_parry_healing_mp
 Gains 5 MP on a successful parry
 MP Recovery on Parry
 slot_skill_icon_skill_damage
@@ -458,11 +461,11 @@ slot_skill_icon_def_water_1
 Reduces damage from Water-elem. enemies by 15%
 Water Resistance Lv1
 slot_skill_icon_reseve_healing_hp_mp
-控えにいるとき5秒ごとにHPが600、MPが5回復する
-応急回復(HP&MP) Lv2
+Restores 600 HP & 5 MP per 5 seconds during standby.
+Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
-控えにいるとき10秒ごとにHPが600、MPが5回復する
-応急回復(HP&MP) Lv1
+Restores 600 HP & 5 MP per 10 seconds during standby.
+Emergency Heal (HP&MP) Lv.1
 slot_skill_icon_skill_defense
 Decreases damage attained during sword skills by 50%
 Damage Down during Skill Lv2
@@ -932,6 +935,9 @@ slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Reduces charge time and raises attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Decrease enemies' defense greatly.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_4
@@ -972,6 +978,9 @@ Enhances Sword Skill 3. Reduces damage received for a certain period of time
 Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Decreases MP required.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Decrease enemies' defense greatly.
@@ -1026,6 +1035,9 @@ Enhances Sword Skill 3. Accelerates during skill.
 Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_2
 Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Decreases MP required. Activates a barrier as SS3 initiates.
@@ -1091,6 +1103,9 @@ slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Adds more whirlwind hits and raises speed.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Becomes powerful. Increases the buff attack effect. Follows enemies.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
@@ -1117,6 +1132,44 @@ Battle Skill 3 Transform Lv. 2
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
+VEk
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+UEk
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_job_1
+Raises attack and crit. rate by 500
+Mace Skill Lv. 10
+slot_skill_icon_job_1
+Raises attack and crit. rate by 450
+Mace Skill Lv. 9
+slot_skill_icon_job_1
+Raises attack and crit. rate by 400
+Mace Skill Lv. 8
+slot_skill_icon_job_1
+Raises attack and crit. rate by 350
+Mace Skill Lv. 7
+slot_skill_icon_job_1
+Raises attack and crit. rate by 300
+Mace Skill Lv. 6
+slot_skill_icon_job_1
+Raises attack and crit. rate by 250
+Mace Skill Lv. 5
+slot_skill_icon_job_1
+Raises attack and crit. rate by 200
+Mace Skill Lv. 4
+slot_skill_icon_job_1
+Raises attack and crit. rate by 150
+Mace Skill Lv. 3
+slot_skill_icon_job_1
+Raises attack and crit. rate by 100
+Mace Skill Lv. 2
+slot_skill_icon_job_1
+Raises attack and crit. rate by 50
+Mace Skill Lv. 1
 slot_skill_icon_job_1
 Raises attack and crit. rate by 500
 Sword Skill Lv. 10
@@ -1207,6 +1260,12 @@ Dark Magic Skill Lv. 2
 slot_skill_icon_job_8
 Raises attack and crit. rate by 50
 Dark Magic Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP by 20%
 Battle Skill 2 Transform Lv. 2

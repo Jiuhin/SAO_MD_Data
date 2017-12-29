@@ -167,12 +167,36 @@ Let's switch to a new party!
 ,&>
 +&>
 )&>
+_">
+images/battle/cutin/battle_cutin_65008.png
+The next boss is weak against Fire-elem. and Earth-elem.!
+Let's switch!
+]">
+images/battle/cutin/battle_cutin_65008.png
+The next boss is weak against Fire-elem. and Earth-elem.!
+Let's switch!
+[">
+images/battle/cutin/battle_cutin_65008.png
+The next boss is weak against Fire-elem. and Earth-elem.!
+Let's switch!
 Z">
 Y">
+Z">
+images/battle/cutin/battle_cutin_65008.png
+The next boss is weak against Fire-elem. and Earth-elem.!
+Let's switch!
 X">
 W">
+X">
+images/battle/cutin/battle_cutin_65008.png
+The next boss is weak against Fire-elem. and Earth-elem.!
+Let's switch!
 V">
 U">
+V">
+images/battle/cutin/battle_cutin_65008.png
+The next boss is weak against Fire-elem. and Earth-elem.!
+Let's switch!
 L">
 K">
 J">

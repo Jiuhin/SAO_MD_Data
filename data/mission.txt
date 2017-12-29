@@ -155,6 +155,33 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+HRB
+8034005,3,45
+Complete "Assault of the Dark Werewolf (Master +1)" with guild members in Multi under 45 seconds.
+HQB
+8034004,3,45
+Complete "Assault of the Dark Werewolf(Master)" with guild members in Multi under 45 seconds.
+GPB
+8034003,3
+Complete "Assault of the Dark Werewolf (EX)" with guild members in Multi.
+JOB
+2010091-2010092-2010093-2010094-2010095,50
+Defeat 50 The Dark Werewolf in the guild. 
++NB
+8034005,3
+Complete "Assault of the Dark Werewolf (Master +1)" without down.
++MB
+8034004,3
+Complete "Assault of the Dark Werewolf (Master)" without down.
++LB
+8034003,3
+Complete "Assault of the Dark Werewolf (EX)" without down.
+/JB
+8034002
+Complete "Assault of the Dark Werewolf (Expert)"
+/IB
+8034001
+Complete "Assault of the Dark Werewolf (Int.)"
 8033028
 Complete  "The Renegades' gathering - Black Joulu (Master +1)"
 8033027
@@ -969,6 +996,32 @@ Complete "Monsters in the Castle of Mirage (Master +1)" under 45 Sec.
 Complete "Monsters in the Castle of Mirage (Master)" under 45 Sec.
 4073003,2,45
 Complete "Monsters in the Castle of Mirage (EX)" under 45 Sec.
+407201,400000
+Earn a score of 400,000 in Hearing your voice, Where the sun rises
+407201,1000000
+Earn a score of 1,000,000 in Hearing your voice, Where the sun rises
+407201,1500000
+Earn a score of 1,500,000 in Hearing your voice, Where the sun rises
+407201,2500000
+Earn a score of 2,500,000 in Hearing your voice, Where the sun rises
+407201,4000000
+Earn a score of 4,000,000 in Hearing your voice, Where the sun rises
+407201,5000000
+Earn a score of 5,000,000 in Hearing your voice, Where the sun rises
+407201,6500000
+Earn a score of 6,500,000 in Hearing your voice, Where the sun rises
+407201,7500000
+Earn a score of 7,500,000 in Hearing your voice, Where the sun rises
+407201,8000000
+Earn a score of 8,000,000 in Hearing your voice, Where the sun rises
+4072036,1,60
+Complete "Hearing your voice, Where the sun rises (Master +2) part2" in under 1min.
+4072026,1,60
+Complete "Hearing your voice, Where the sun rises (Master +2) part1" in under 1min.
+4072035
+Complete "Hearing your voice, Where the sun rises (Master +1) part2".
+4072031
+Complete "Hearing your voice, Where the sun rises (Int.) part2".
 <E6
 4071024,2,9,1
 Complete "Gifts from the Snowy Sky (Master)" with at least one lance character.
@@ -1666,6 +1719,8 @@ Complete "Equipment Creation (Dagger, Rod)" at Equipment Creation Event
 Complete "Equipment Creation (Rapier, Bow)" at Equipment Creation Event
 4001091
 Complete "Equipment Creation (Sword, Dual Blades)" at Equipment Creation Event
+R	 
+Issue a data transfer ID
 100
 Parry 100 times in total while on quests.
 Parry 50 times in total while on quests.
@@ -1843,6 +1898,10 @@ Upgrade your equipment 1 time.
 Follow 10 players.
 Follow 5 players.
 Follow 1 player.
+600
+Log in for a total of 600 days.
+550
+Log in for a total of 550 days.
 480
 Log in for a total of 480 days.
 400

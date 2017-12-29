@@ -698,38 +698,23 @@ Party Formation
 Parties
 <panel>
 <body_text font_size 
-'24'>　ブレイクバトルイベントとは、
-　制限時間が設けられた連戦クエストをクリアする
-　ソロイベントです。
-　ブレイクバトルイベントのクエストでは、クリア時に
-　残り時間に応じた「EP(イベントpt)」を
-　獲得することができます。
-　EPは、貯めることでアイテムと交換することができます。
-　たくさん貯めてさまざまなアイテムを獲得しましょう。
-　【攻略のコツ】
-ブレイクを発生させる
-　  ブレイクバトルに登場するボスには、
-　  HPとは別にブレイクゲージが存在します。
-　  ボスを攻撃するとブレイクゲージが溜まり、
-　  満タンになると「ブレイク」が発生します。
-　  「ブレイク」に成功すると、
-　  タイムボーナスが加算され
-　  制限時間を延長することができます。
-ブレイクさせやすいキャラを使う
-　  ボス毎にブレイクしやすい武器種が決まっています。
-　  有効な武器種のキャラを使うことで
-　  素早くボスをブレイクさせましょう。
-　  有効な武器についてはイベントのお知らせを
-　  確認しましょう。
-　【その他の注意事項】
-本イベントに参加するには
-　  Quest3-10をクリアする必要があります
-本イベントへは「Quest」>「Extra Quest」から
-　  参加することが可能です
-本イベントはコンティニューをすることはできません
-本イベントは助っ人を選ぶことはできません</body_text>
+'24'>　This is a solo-player event
+　where players complete a Consecutive Quest
+　within a given time.
+　Tips
+　Enemies in Break Battles have a Break Gauge bar separately from the HP bar.
+　Break occurs as you hit an enemy and increase its Break Gauge to full.
+　If you pull off a Break, the time limit gets extended.
+　There are advantageous weapon types against each enemy.
+　Use advantageous weapon characters to do 
+Break
+on bosses swiftly.
+　About the advantageous weapon types, please see the event notices.
+　Attention
+Players are unable to continue the game after failing.
+No supporters available for this event.</body_text>
 </panel>
-ブレイクバトルイベント
+Break Battle
 <panel><image x
 '375.0f' y
 '470.0f' w 

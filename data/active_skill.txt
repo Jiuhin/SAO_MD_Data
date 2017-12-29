@@ -77,6 +77,10 @@ skill_icon_mace_3_{}
 Strike the ground and make an explosion giving successive hits. Increase your attack and auto heals HP.
 Augmented Smash+
 Augmented Smash+
+skill_icon_mace_3_{}
+Wrapping your club in water, swing and slam it into the ground to cause a massive tidal wave twice.
+Surging Tide+
+Surging Tide+
 }S%
 skill_icon_mace_3_{}
 A sword skill that hammers the enemy with a club, as well as replenishing your HP and increasing your movement speed.
@@ -86,6 +90,10 @@ skill_icon_mace_3_{}
 Increase your attack and quickly swing your club with a powerful burst of explosive energy.
 Asteroid Belt+
 Asteroid Belt+
+skill_icon_dagger_3_{}
+A sword skill. Restores your HP and perform an attack with lots of dishes. Reduces incoming damage for a certain amount of time.
+Catering Energy+
+Catering Energy+
 skill_icon_dagger_3_{}
 Slam down carrier bag and decreases attack and defense of enemies. Aircrafts do consecutive attacks.
 Traveling Smash+
@@ -146,6 +154,10 @@ skill_icon_dagger_3_{}
 Summon Pina, whose breath replenishes your HP and temporarily boosts your attack. Reduced MP.
 Healing Breath+
 Healing Breath+
+skill_icon_finesword_3_{}
+A sword skill. Slash the enemy in the back after a colorful combo attack. Restores your HP. Reduces incoming damage for a certain amount of time.
+Dreamy Lady+
+Dreamy Lady+
 skill_icon_finesword_3_{}
 After throwing a syringe, attack and fire a fatal shot. Decreases defense and attack of enemies.
 Love Injection+
@@ -225,6 +237,10 @@ skill_icon_dualblade_3_{}
 Increase your attack power and quickly swing both swords in a 16-hit combo.
 Starburst Stream+
 Starburst Stream+
+skill_icon_sword_3_{}
+A sword skill. Resores your HP. Clinking beer mugs causes a shockwave and attacks an enemy. Reduces imcoming damage for a certain amount of time.
+Raise Your Glass+
+Raise Your Glass+
 skill_icon_sword_3_{}
 It activates a barrier and when the sword on fire hits an enemy, a fiery ball appears.
 Object Eraser+
@@ -327,6 +343,10 @@ skill_icon_rod_3_{}
 Increase your attack Bring forth slicing winds that unleash combo hits across a wide area.
 Tyrant Hurricane+
 Tyrant Hurricane+
+skill_icon_sword_3_{}
+A sword skill. Slash through an enemy's back and cause to burst. Restores your HP and reduces incoming damage for a certain amount of time.
+Shuntou Yoruhiraki+
+Speed of First-Light+
 skill_icon_sword_3_{}
 Rising once again in augmented reality, increases your attack and auto heals HP and a hero accelerates further to unleash this 16-hit move.
 AugKinetic Accel+
@@ -696,6 +716,10 @@ A low-level fire spell. Fire a small fireball at a target.
 Fireball
 Fireball
 skill_icon_bow_3_{}
+A combination skill. Activate a damage canceling barrier and shoot fire arrows. Explodes with New Year dance. 
+Early Spring Fan
+Early Spring Fan
+skill_icon_bow_3_{}
 A combination skill. Perform attacks with shooting stars moving at very high speed. High chance of stunning an enemy.
 Rapid Star Shot
 Rapid Star Shot
@@ -1029,6 +1053,10 @@ skill_icon_mace_3_{}
 A combination skill. Move to the back of an enemy while performing attacks. Give a command to call up dogs.
 Dog Run
 Dog Run
+skill_icon_mace_3_{}
+A combination skill. Activate a damage canceling barrier and bounce a ball. Attack the top of the enemy with a huge ball.
+Bounce The Ball
+Bounce The Ball
 skill_icon_mace_3_{}
 A combination skill. It makes shiny Santa and his reindeer sledge appear. High chance of stunning an enemy.
 Sleigh Drive
@@ -1467,6 +1495,10 @@ Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
 skill_icon_dagger_3_{}
+A sword skill. Restores your HP and perform an attack with lots of dishes. 
+Catering Energy
+Catering Energy
+skill_icon_dagger_3_{}
 A combination skill. Slash through an enemy's back swiftly, create a giant snowman.  High chance of stunning an enemy.
 Wonder Snowman
 Wonder Snowman
@@ -1763,6 +1795,14 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
+A sword skill. Slash the enemy in the back after a colorful combo attack. Restores your HP. 
+Dreamy Lady
+Dreamy Lady
+skill_icon_finesword_3_{}
+A combination skill. Activate a damage canceling barrier and make yourself invisible, then perform a combo from an enemy's back.
+Chrysanthemum Birth
+Chrysanthemum Birth
+skill_icon_finesword_3_{}
 A combination skill. Move instantly to the back of an enemy and attack with a large lucent wreath. Likely to stun an enemy. 
 Lucent Wreath
 Lucent Wreath
@@ -1835,7 +1875,7 @@ Increase your attack, critical and speed by spinning yourself and fire a fatal s
 Material Dance
 Material Dance
 skill_icon_finesword_3_{}
-A sword skill. Slash the enemy at the back.
+A sword skill. Slash the enemy in the back.
 Hide Behind
 Hide Behind
 skill_icon_finesword_3_{}
@@ -2314,6 +2354,14 @@ slash with the other.
 Double Circular
 Double Circular
 skill_icon_sword_3_{}
+A sword skill. Resores your HP. Clinking beer mugs causes a shockwave and attacks an enemy. 
+Raise Your Glass
+Raise Your Glass
+skill_icon_sword_3_{}
+A combination skill. Activate a damage canceling barrier and unleash brutal thrusts with petals fluttering down.
+Fresh Paeonia
+Fresh Paeonia
+skill_icon_sword_3_{}
 A combination skill. Performs a spinning slash and give away presents.  High chance of stunning an enemy.
 Precious Present
 Precious Present
@@ -2664,6 +2712,10 @@ skill_icon_sword_1_{}
 A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
+skill_icon_sword_3_{}
+A sword skill. Slash through an enemy's back and cause to burst. Restores your HP. 
+Shuntou Yoruhiraki
+Speed of First-Light
 skill_icon_sword_3_{}
 A combination skill. Release the memory of "Blue Rose Sword" and change the background to snowy landscape. Likely to stun an enemy.
 Release Recollection

@@ -187,10 +187,14 @@ Increases MP by 3% when equipped by Kirito.
 MP +3% (Kirito)
 Increases MP gain when attacked weak points.
 MP Recovery on Attack Weak Points
-Increases attack by 15% and critical damage by 10% for 20+ hit combos.
-20+ Combo: Atk +15% & Crit. Damage +10%
-Increases attack and critical damage by 10% for 20+ hit combos.
-20+ Combo: Atk & Crit. +5%
+Increases Attack by 15% and reduces Required MP by -10%.
+Atk. +15% & Required MP -10% 
+Increases Attack by 10% and reduces Required MP by -10%.
+Atk. +10% & Required MP -10% 
+Increases critical damage by 15% for 20+ hit combos. 
+20+ Combo: Crit. Damage +15%
+Increases critical damage by 10% for 20+ hit combos. 
+20+ Combo: Crit. Damage +10%
 Lower MP required by 10% when HP is below 60%.
 Required MP -5% (HP Below 60%)
 Increases attack by 6% vs Holy-elem. enemies when HP is above 80%.
@@ -443,6 +447,12 @@ Solo Dmg. +30%
 Solo Dmg. +20%
 +15% damage when 1 of your character's remains.
 Solo Dmg. +15%
+3mk
+Increases Attack for 30-hit+ combos by 6%. (Earth-elem.)
+30+ Combo: Attack +6% (Earth)
+/mk
+Increases Attack for 30-hit+ combos by 6%. (Water-elem.)
+30+ Combo: Attack +6% (Water)
 -mk
 Survive a fatal damage with HP1% just once
 Fatal Damage Resistance
@@ -517,8 +527,8 @@ Increases Water-elem. character's stun resistance.
 Stun Resistance (Water)
 Increases MP gain vs Wind-elem. enemies.
 MP Recovery (vs. Wind)
-HP80%以上で弱点攻撃時に攻撃が3%増加する
-HP80%以上で弱点攻撃時に攻撃+3%
+Increases Attack by 3% when they attack weak points (HP Above 80%)
+Attack +3% on Attack Weak Points (HP Above 80%)
 Increases Earth-elem. character's Attack by 3% when they attack  weak points.
 Attack +3% on Attack Weak Points (Earth-elem.)
 oE3

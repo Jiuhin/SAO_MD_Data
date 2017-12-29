@@ -1,3 +1,13 @@
+hlk
+TBD
+Apotropaic Hairpin R4
+accessory01_0058
+TBD
+Apotropaic Hairpin R3
+accessory01_0058
+TBD
+Apotropaic Hairpin R2
+accessory01_0058
 TBD
 Benedictory Broach R4
 accessory01_0057
@@ -492,6 +502,15 @@ TBD
 Ruby Earring R2
 accessory01_0001
 TBD
+Scarlet Party Dress R4
+armor03_0107
+TBD
+Scarlet Party Dress R3
+armor03_0107
+TBD
+Scarlet Party Dress R2
+armor03_0107
+TBD
 Heart Dress R4
 armor03_0068
 TBD
@@ -936,15 +955,6 @@ armor01_0035
 TBD
 Sandstorm Garb R2
 armor01_0035
-TBD
-Battle Fur Coat R4
-armor01_0033
-TBD
-Battle Fur Coat R3
-armor01_0033
-TBD
-Battle Fur Coat R2
-armor01_0033
 TBD
 Blazing Plate R4
 armor01_0032
@@ -1432,6 +1442,12 @@ TBD
 Small Rod R1
 weapon08_0001
 TBD
+Exorcism R5
+weapon07_0033
+TBD
+Exorcism R4
+weapon07_0033
+TBD
 Priere de noel R5
 weapon07_0032
 TBD
@@ -1797,6 +1813,12 @@ weapon05_0053
 TBD
 Sakura Mace+1 R4
 weapon05_0053
+TBD
+Polo R5
+weapon05_0052
+TBD
+Polo R4
+weapon05_0052
 TBD
 Mistletoe Kiss R5
 weapon05_0051
@@ -2334,6 +2356,12 @@ TBD
 Light Dagger R1
 weapon04_0001
 TBD
+Fluttery Chrysanthemum R5
+weapon03_0057
+TBD
+Fluttery Chrysanthemum R4
+weapon03_0057
+TBD
 Present for You R5
 weapon03_0056
 TBD
@@ -2839,6 +2867,12 @@ weapon01_0106
 TBD
 June Blade+1 R4
 weapon01_0106
+TBD
+Sacred Boundary R5
+weapon01_0102
+TBD
+Sacred Boundary R4
+weapon01_0102
 TBD
 Miracle Impact R5
 weapon01_0101

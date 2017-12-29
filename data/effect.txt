@@ -13,6 +13,7 @@ effect_1033_shoot_the_grenade_s
 effect_1029_thousand_rain_s
 ?!3
 effect_1011_multiple_chaser_s
+effect_appear_05_s
 effect_status_06
 effect_appear_01_short
 ?+R
@@ -21,6 +22,10 @@ effect_eyes_flash_b_s
 effect_eyes_flash_b_s
 effect_eyes_flash_s
 effect_eyes_flash_s
+effect_warp_afterimage_02
+effect_warp_afterimage_01
+effect_warp_chrysanthemum_02
+effect_warp_chrysanthemum_01
 effect_warp_dash_02
 effect_warp_dash_01
 effect_warp_wicket_wreath_short_01
