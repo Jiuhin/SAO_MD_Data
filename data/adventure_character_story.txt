@@ -99,6 +99,16 @@ Character Story
 Character Story
 [Libra] Asuna Lv.10
 Character Story
+[Realization of Big Wishes] Leafa Lv.80
+Character Story
+[Realization of Big Wishes] Leafa Lv.70
+Character Story
+[Realization of Big Wishes] Leafa Lv.50
+Character Story
+[Realization of Big Wishes] Leafa Lv.30
+Character Story
+[Realization of Big Wishes] Leafa Lv.10
+Character Story
 [Visitor in Snow] Leafa Lv.80
 Character Story
 [Visitor in Snow] Leafa Lv.70
@@ -608,6 +618,16 @@ Character Story
 [Brawny Axeman] Agil Lv.30
 Character Story
 [Brawny Axeman] Agil Lv.10
+Character Story
+[Auspicious Blue Sky] Silica Lv.80
+Character Story
+[Auspicious Blue Sky] Silica Lv.70
+Character Story
+[Auspicious Blue Sky] Silica Lv.50
+Character Story
+[Auspicious Blue Sky] Silica Lv.30
+Character Story
+[Auspicious Blue Sky] Silica Lv.10
 Character Story
 [Holy Tamer] Silica Lv.80
 Character Story
@@ -1219,6 +1239,16 @@ Character Story
 Character Story
 [Black Swordsman] Kirito Lv.10
 Character Story
+[New Year's Breeze] Yuuki Lv.80
+Character Story
+[New Year's Breeze] Yuuki Lv.70
+Character Story
+[New Year's Breeze] Yuuki Lv.50
+Character Story
+[New Year's Breeze] Yuuki Lv.30
+Character Story
+[New Year's Breeze] Yuuki Lv.10
+Character Story
 [The Bunny Ace] Yuuki Lv.80
 Character Story
 [The Bunny Ace] Yuuki Lv.70
@@ -1568,6 +1598,16 @@ Character Story
 [Storm Mage] Leafa Lv.30
 Character Story
 [Storm Mage] Leafa Lv.10
+Character Story
+[Fortune comes in at the merry gate] Kirito Lv.80
+Character Story
+[Fortune comes in at the merry gate] Kirito Lv.70
+Character Story
+[Fortune comes in at the merry gate] Kirito Lv.50
+Character Story
+[Fortune comes in at the merry gate] Kirito Lv.30
+Character Story
+[Fortune comes in at the merry gate] Kirito Lv.10
 Character Story
 [Hasty Reindeer] Eugeo Lv.80
 Character Story

@@ -122,9 +122,9 @@ text_guild_col
 Only your Commander and Vice Commander can edit.
 text_attention
 text_rank
-Manage Guild
+Management
 text_tab_3_sub
-Manage Guild
+Management
 text_tab_3_active_sub
 Member
 text_tab_1_sub
@@ -1039,8 +1039,8 @@ Current Total EP
 text_possession_ep_exchange
 Event Details
 text_event_detail
-カウントダウンスカウト
-text_event_scout_s_story_ranking
+Anniversary Scout
+text_event_scout_s_story
 Medal Scout
 text_medal_scount_s_story
 Point Rewards:
@@ -1067,6 +1067,8 @@ Point Rewards:
 text_dungeon_complete
 Next Reward:
 text_dungeon_next_ep
+Global Scout
+text_event_scout_s_multi
 Event Details
 text_story_detail
 Point Rewards:

@@ -4262,7 +4262,7 @@ Quest
 bg_thumbnail_2002
 Floor :1 
 "Gullinkambi" wakes up on top of Yggdrasil. 
-Organize a party with a Light-elem. character 
+Organize a party with a Holy-elem. character 
 and stun the enemy!
 Defeat All Enemies
 Quest
@@ -4278,7 +4278,7 @@ bg_thumbnail_8019
 Quest 4-1
 One Lap Behind (Holy) (Master+1)
 "Gullinkambi" wakes up on top of Yggdrasil. 
-Organize a party with a Light-elem. character 
+Organize a party with a Holy-elem. character 
 and stun the enemy!
 Defeat All Enemies
 Quest
@@ -4294,7 +4294,7 @@ bg_thumbnail_8019
 Quest 3-1
 One Lap Behind (Holy) (Master)
 "Gullinkambi" wakes up on top of Yggdrasil. 
-Organize a party with a Light-elem. character 
+Organize a party with a Holy-elem. character 
 and stun the enemy!
 Defeat All Enemies
 Quest
@@ -4310,7 +4310,7 @@ bg_thumbnail_8019
 Quest 2-1
 One Lap Behind (Holy) (EX)
 "Gullinkambi" wakes up on top of Yggdrasil. 
-Organize a party with a Light-elem. character 
+Organize a party with a Holy-elem. character 
 and stun the enemy!
 Defeat All Enemies
 Quest
@@ -4597,6 +4597,101 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 5
+Mochi Mochi Panic!  (Master +1)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 4
+Mochi Mochi Panic! (Master)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 3
+Mochi Mochi Panic! (EX)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 2
+Mochi Mochi Panic! (Expert)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 1
+Mochi Mochi Panic! (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Never Ending Battle
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Chase the Oni Away
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Mochi is attacking us now!
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Event Battle with Mochi
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Oni Pounding Mochi
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Got a Rival?
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+How it feels in Asuka Empire
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Mochi Pounding Party
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Something smells good
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+You never forget your own trade
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+It's like a Samurai Drama
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+To Asuka Empire
 "Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
@@ -9279,7 +9374,7 @@ Story
 bg_thumbnail_0
 Story 1
 Worry of the Lord
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies
@@ -9287,7 +9382,7 @@ Quest
 bg_thumbnail_8007
 Quest 15
 Dragon's Roar (Master+1)
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies
@@ -9295,7 +9390,7 @@ Quest
 bg_thumbnail_8007
 Quest 14
 Dragon's Roar (Master)
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies
@@ -9303,7 +9398,7 @@ Quest
 bg_thumbnail_8007
 Quest 13
 Dragon's Roar (EX)
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies
@@ -9311,7 +9406,7 @@ Quest
 bg_thumbnail_8007
 Quest 12
 Dragon's Roar (Expert)
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies
@@ -15339,7 +15434,7 @@ Quest
 bg_thumbnail_2002
 Floor :1 
 "Gullinkambi" wakes up on top of Yggdrasil. 
-Organize a party with a Light-elem. character 
+Organize a party with a Holy-elem. character 
 and stun the enemy!
 Defeat All Enemies
 Quest
@@ -15355,7 +15450,7 @@ bg_thumbnail_8019
 Quest 4-1
 One Lap Behind (Holy) (Master+1)
 "Gullinkambi" wakes up on top of Yggdrasil. 
-Organize a party with a Light-elem. character 
+Organize a party with a Holy-elem. character 
 and stun the enemy!
 Defeat All Enemies
 Quest
@@ -15371,7 +15466,7 @@ bg_thumbnail_8019
 Quest 3-1
 One Lap Behind (Holy) (Master)
 "Gullinkambi" wakes up on top of Yggdrasil. 
-Organize a party with a Light-elem. character 
+Organize a party with a Holy-elem. character 
 and stun the enemy!
 Defeat All Enemies
 Quest
@@ -15387,7 +15482,7 @@ bg_thumbnail_8019
 Quest 2-1
 One Lap Behind (Holy) (EX)
 "Gullinkambi" wakes up on top of Yggdrasil. 
-Organize a party with a Light-elem. character 
+Organize a party with a Holy-elem. character 
 and stun the enemy!
 Defeat All Enemies
 Quest
@@ -15674,6 +15769,101 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 5
+Mochi Mochi Panic!  (Master +1)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 4
+Mochi Mochi Panic! (Master)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 3
+Mochi Mochi Panic! (EX)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 2
+Mochi Mochi Panic! (Expert)
+"Rumble Gigas" appears in Asuka Empire. 
+Figure out their attack pattern and parry them!
+Defeat All Enemies
+Quest
+bg_thumbnail_8048
+Quest 1
+Mochi Mochi Panic! (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Never Ending Battle
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Chase the Oni Away
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Mochi is attacking us now!
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Event Battle with Mochi
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Oni Pounding Mochi
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Got a Rival?
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+How it feels in Asuka Empire
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Mochi Pounding Party
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Something smells good
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+You never forget your own trade
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+It's like a Samurai Drama
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+To Asuka Empire
 "Santa the Kobold Lord" breaks into a party. 
 Figure out when to stun the enemy. 
 That's the key to win a battle!
@@ -20356,7 +20546,7 @@ Story
 bg_thumbnail_0
 Story 1
 Worry of the Lord
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies
@@ -20364,7 +20554,7 @@ Quest
 bg_thumbnail_8007
 Quest 15
 Dragon's Roar (Master+1)
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies
@@ -20372,7 +20562,7 @@ Quest
 bg_thumbnail_8007
 Quest 14
 Dragon's Roar (Master)
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies
@@ -20380,7 +20570,7 @@ Quest
 bg_thumbnail_8007
 Quest 13
 Dragon's Roar (EX)
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies
@@ -20388,7 +20578,7 @@ Quest
 bg_thumbnail_8007
 Quest 12
 Dragon's Roar (Expert)
-The Glacial Dragon has appeared on the
+The Glacial Wyrm has appeared on the
 frozen seas. It's time for the ferocious
 ice dragon to meet its maker!
 Defeat All Enemies

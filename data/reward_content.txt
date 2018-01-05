@@ -1,65 +1,65 @@
-h}	
-0z	
-Ty	
-(x	
-,w	
-0v	
-4u	
-8t	
-<s	
-Dq	
-Hp	
-Lo	
-Pn	
-Tm	
-Xl	
-di	
+t}	
+({	
+,z	
+0y	
+4x	
+8w	
+<v	
+Dt	
+Hs	
+tr	
+4r	
+tq	
+4q	
+tp	
+4p	
+To	
+4n	
+8l	
+Hk	
+Tj	
+pi	
 $i	
-dh	
-$h	
-dg	
-$g	
-4e	
-<c	
-la	
-H_	
-h]	
-<[	
-tS	
-,S	
-TR	
-DQ	
-lP	
-$P	
-LO	
-pN	
-$N	
-XL	
-pK	
-$K	
-DJ	
-DI	
-DH	
-tG	
-xF	
-,F	
-HE	
-XD	
-tA	
-$A	
-H?	
-h>	
-p:	
-,:	
+Pg	
+Pf	
+de	
+<d	
+x_	
+T[	
+DZ	
+lY	
+$Y	
+LX	
+lW	
+<V	
+PU	
+lT	
+LS	
+LR	
+LQ	
+dP	
+tO	
+(O	
+HN	
+LM	
+PL	
+lJ	
+xI	
+$I	
+hG	
+HF	
+tC	
+0C	
+dB	
+t<	
+X:	
 h9	
-d4	
-,3	
-t/	
-l.	
-P(	
-4&	
-T$	
-d!	
+h8	
+00	
+0,	
+l&	
+X"	
+d 	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -111,6 +111,18 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+Never Ending Battle
+Chase the Oni Away
+Mochi is attacking us now!
+Event Battle with Mochi
+Oni Pounding Mochi
+Got a Rival?
+How it feels in Asuka Empire
+Mochi Pounding Party
+Something smells good
+You never forget your own trade
+It's like a Samurai Drama
+To Asuka Empire
 m:t
 L">
 Memories of Karuta
@@ -837,6 +849,8 @@ Twinkling Comet
 Pumpkin Bomb
 Trick or Treat
 Starburst Stream
+8y{
+Mochi Mochi Panic! Mochi Pounding Party
 8x{
 Gifts from the Snowy Sky
 8w{
@@ -1006,8 +1020,6 @@ J	8
 300EP
 J	8
 200EP
-I	8
-2018 Link Start!
 ]I	8
 The Eternal Composer
 H	8
@@ -2669,6 +2681,19 @@ Christmas Bronze Medal x10
 Christmas Silver Medal x10
 2iI
 Christmas Gold Medal x25
+Global Upgrade Crystal  x1
+Global Ticket VIP x4
+Global Upgrade Crystal  x2
+Global Ticket VIP x8
+Global Upgrade Crystal  x2
+Global Ticket VIP x12
+Global Upgrade Crystal  x3
+Global Ticket VIP x18
+Global Upgrade Crystal  x3
+Global Ticket VIP x19
+2018 Link Start!
+Global Upgrade Crystal  x3
+Global Ticket VIP x20
 EXP Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -8485,6 +8510,15 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+)5Z
+Party Hakama R3
+Party Hakama R2
+a4Z
+Lucky Headband R3
+Lucky Headband R2
+Celebratory Furisode R3
+53Z
+Celebratory Furisode R2
 Christmas Upgrade Crystal x1
 Christmas Gold Medal x1
 Christmas Silver Medal x5
@@ -11063,6 +11097,7 @@ Memory Diamond x2
 Memory Diamond x2
 Memory Diamond x2
 Memory Diamond x1
+Memory Diamond x20
 Memory Diamond x25
 Memory Diamond x25
 e<n

@@ -1,3 +1,13 @@
+3mk
+TBD
+Lucky Headband R4
+accessory01_0059
+TBD
+Lucky Headband R3
+accessory01_0059
+TBD
+Lucky Headband R2
+accessory01_0059
 hlk
 TBD
 Apotropaic Hairpin R4
@@ -638,6 +648,15 @@ TBD
 Pumpkin Skirt R2
 armor03_0036
 TBD
+Celebratory Furisode R4
+armor03_0035
+TBD
+Celebratory Furisode R3
+armor03_0035
+TBD
+Celebratory Furisode R2
+armor03_0035
+TBD
 Aqua Skirt R4
 armor03_0032
 TBD
@@ -793,6 +812,15 @@ armor03_0002
 TBD
 Asuna's Apron R2
 armor03_0001
+TBD
+Party Hakama R4
+armor02_0064
+TBD
+Party Hakama R3
+armor02_0064
+TBD
+Party Hakama R2
+armor02_0064
 TBD
 Blue Silver Knight Armor R4
 armor02_0055
@@ -1249,6 +1277,12 @@ weapon09_0001
 TBD
 Libra Hastam R4
 weapon09_0001
+TBD
+Flying Butterfly R5
+weapon08_0037
+TBD
+Flying Butterfly R4
+weapon08_0037
 TBD
 Wreath on Chimney R5
 weapon08_0036
@@ -2081,6 +2115,12 @@ TBD
 Small Mace R1
 weapon05_0001
 TBD
+Kamaitachi R5
+weapon04_0054
+TBD
+Kamaitachi R4
+weapon04_0054
+TBD
 Little Star Edge R5
 weapon04_0053
 TBD
@@ -2867,6 +2907,18 @@ weapon01_0106
 TBD
 June Blade+1 R4
 weapon01_0106
+TBD
+Eagle Claw R5
+weapon01_0104
+TBD
+Eagle Claw R4
+weapon01_0104
+TBD
+Oni's Fang R5
+weapon01_0103
+TBD
+Oni's Fang R4
+weapon01_0103
 TBD
 Sacred Boundary R5
 weapon01_0102

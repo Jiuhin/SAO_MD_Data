@@ -406,6 +406,8 @@ ss/unit/chara_6_finesword_w/effect_weapon_yuuki_ghost.png
 ss/unit/chara_6_finesword_w/5_leafa_65003.png
 bfaa5bad3c1d625e3ac82669ad8b0d0c
 ss/unit/chara_6_finesword_w/5_asuna_65011.png
+7b497fa1b652236ba2b0f1a037cf1443
+ss/unit/chara_6_finesword_w/5_asuna_65009.png
 7f498d72b8818b05614e775c982e161e
 ss/unit/chara_6_finesword_w/5_asuna_65008.png
 c72599742b4a55dab78ebf67bba4634d
@@ -792,6 +794,8 @@ ss/unit/chara_2_sword_w/5_yuuki_25016.png
 ss/unit/chara_2_sword_w/5_yuuki_25012.png
 59fea08eb858945b6db3ba2f6e74178f
 ss/unit/chara_2_sword_w/5_yuuki_25009.png
+9bb9e292d32026637e867c8518c744b0
+ss/unit/chara_2_sword_w/5_leafa_25011.png
 ce99cb89fc75f8095403d70cb5a38c40
 ss/unit/chara_2_sword_w/5_leafa_25007.png
 db3ff7877efa1934106320e7e2055aad
@@ -1160,6 +1164,8 @@ c9770ab4814ec806116bf5520e9d72cc
 ss/unit/chara_18_lance_w/lance_weapon_01.png
 e267b5fe65305cb80a4146d5e8337f07
 ss/unit/chara_18_lance_w/effect_weapon_change.png
+e9c109a107b811bd03131ef46ce18f06
+ss/unit/chara_18_lance_w/5_sinon_185005.png
 b3b8ff01f30659ec5f555f433e068a9f
 ss/unit/chara_18_lance_w/5_sinon_185003.png
 69675a5e7579a3053ff94783467c310c
@@ -1194,6 +1200,8 @@ ss/unit/chara_16_rod_w/weapon08_0009.png
 ss/unit/chara_16_rod_w/weapon08_0001.png
 46113d9542dc4c9a038d79d156fbdeaa
 ss/unit/chara_16_rod_w/wand_sample.png
+01cd4c49fe1141ef8a8ce5afb3711952
+ss/unit/chara_16_rod_w/skill_effect_164104.png
 5e1568a16461de1877dced8eb18f9ebd
 ss/unit/chara_16_rod_w/skill_effect_164103.png
 9a9f02e4b272455f2e48edc54d2010ba
@@ -1222,6 +1230,8 @@ ss/unit/chara_16_rod_w/skill_effect_163104.png
 ss/unit/chara_16_rod_w/skill_effect_163103.png
 647a5a271e7435f0eb0602a00dfa5696
 ss/unit/chara_16_rod_w/effect_weapon_change.png
+ae1e51718ede1bbcf77950db3613a89f
+ss/unit/chara_16_rod_w/5_yui_165004.png
 36101cd15df744ae9d0baa2ec3686135
 ss/unit/chara_16_rod_w/5_leafa_165005.png
 5e44447e47e1bed9476f6ac25b3fce3a
@@ -2034,6 +2044,22 @@ images/lottery/200/12001_scout_top_s.png
 images/lottery/066/20661_scout_top_s.png
 4278e8365786ff888c4477db02ae9f41
 images/lottery/066/20661_scout_banner.png
+66b36ba3330d0498967c9604e47a6a8c
+images/lottery/062/20626_scout_top_s.png
+784869e86e6771ad73dcb387f5c665c3
+images/lottery/062/20626_scout_banner.png
+ad15af5c4ef41332a15b395db42d9ce1
+images/lottery/062/20625_scout_top_s.png
+7f2dec0e4301954833385a6a0d62e232
+images/lottery/062/20625_scout_banner.png
+630b0faf0d3315c8264de083e006aad1
+images/lottery/062/20621_scout_top_s.png
+8be1ec76be5a78b667b93285fd133297
+images/lottery/062/20621_scout_banner.png
+95551859e80f48530acb4edbb32fcd4e
+images/lottery/062/10621_weapon_top_s.png
+bf5e057bcc10dbd9874c3de48a39e219
+images/lottery/062/10621_weapon_banner.png
 f2dc2502422242bd138965b824c3b61f
 images/lottery/061/20611_scout_top_s.png
 4c4eb0541eb51b19b768db2b75249ac0
@@ -3340,6 +3366,12 @@ images/event/4702/4702_banner.png
 images/event/4701/4701_top.png
 83caecf96ce7930a1d2d0744cda34912
 images/event/4701/4701_banner.png
+ec8448e9e666f4a3efe26db2ad4fb854
+images/event/4075/event_item_4075.png
+1708a04d64504a424c9058f2be154d81
+images/event/4075/4075_top.png
+f2101303c8279da28fe3c6d7c105e7bd
+images/event/4075/4075_banner.png
 23d70e3e0c462349341fc3b57d7e6869
 images/event/4074/4074_top.png
 c298a88f27328de70b1713985d748ab1
@@ -3632,11 +3664,11 @@ afae5468b02874da1fa5a09b804075cd
 images/event/4019/4019_banner.png
 8cd67b6f0f8092d7c07920e1a8fe9b07
 images/event/4019/4019_announce.png
-9213c5222620f7bc92553be498109599
+33663e4f8ec13754e7552c6c81d5842d
 images/event/4018/4018_top.png
-f0ad2ca6b48f7c39fbd10315058bb3eb
+329adf29fda1d5de962aaf92929ee0fe
 images/event/4018/4018_banner.png
-72cb73dadf0161fe98f19de81a875aab
+cb182df2da91c7a80097f9b4af991aea
 images/event/4018/4018_announce.png
 d1424cc5201b6f35cfdbb70d9e262f29
 images/event/4017/4017_top.png
@@ -3806,6 +3838,8 @@ images/character/party/party_92003.png
 images/character/party/party_92002.png
 75d351b20f4a56440235a81c2554878c
 images/character/party/party_92001.png
+643787cb1a4a1f460fada3ae476d3bac
+images/character/party/party_85006.png
 2131f8c210dd482a8cbd930abad673db
 images/character/party/party_85005.png
 3845df07cfdd21138183d782aa7299b1
@@ -4022,6 +4056,8 @@ images/character/party/party_34003.png
 images/character/party/party_34002.png
 6aec6b39c3df884556f9bc3aaed45e88
 images/character/party/party_34001.png
+b55acb1f7f3d2b310ef430c95f5c8117
+images/character/party/party_25016.png
 7e31739a98c5ea45b09149bd83527a18
 images/character/party/party_25012.png
 142471e9802b12c60eb2a031cce829cc
@@ -4160,6 +4196,8 @@ ce0dbffb31dd08dfcfece9b875e04d01
 images/character/party/party_184002.png
 54f6b1ff4ecdb122b864d5defd66fb41
 images/character/party/party_184001.png
+ad6d7a4791312b50903ee57f2d87e235
+images/character/party/party_165005.png
 fae22aa580f2787710f617975d202e6e
 images/character/party/party_165003.png
 9283e56d8eb3d4a46e279dd9511877f0
@@ -4206,6 +4244,8 @@ a72c95331daa493eee084dd87fdbe220
 images/character/party/party_154001.png
 4b478e06596912ec278170f0fe8f12a5
 images/character/party/party_153001.png
+7256202846b42d1928038c4db30c846d
+images/character/party/party_15010.png
 4dc324f954cf629308240c75198b2ce1
 images/character/party/party_15008.png
 f555757bf954d5db2088eb7346db38f4
@@ -4492,6 +4532,8 @@ images/character/character_92003.png
 images/character/character_92002.png
 eb1a224d8fcff7e5159d639eb3f8fe2f
 images/character/character_92001.png
+b8b5a92c62d0969373fd0dab642b8a72
+images/character/character_85006.png
 aeff2bdc94659472d900be41ac5dbc9b
 images/character/character_85005.png
 d6615148ab589a226ecb15597977c73c
@@ -4734,6 +4776,8 @@ c49b03d103469d42b4dad904f763a06b
 images/character/character_34002.png
 0049ab211fd9ccd3e1f206f602bc1050
 images/character/character_34001.png
+b4ee5f4afae6dd3b064405664257410e
+images/character/character_25016.png
 9bb1537ce8170c26f52e6bed64723b0d
 images/character/character_25012.png
 75d65668a596fb6d126314b437c5337b
@@ -4872,6 +4916,8 @@ images/character/character_184003.png
 images/character/character_184002.png
 a1d2b8c529a5b4c1a5bd99365da0ac25
 images/character/character_184001.png
+bcd78b4204b0bfc8c734c877da63553d
+images/character/character_165005.png
 140a8a597226b0db0d7f5624da0b37af
 images/character/character_165003.png
 048a616e7ad9125479d933b81054aeb4
@@ -4918,6 +4964,8 @@ ffdb3677ec76501e0817285b4608e36a
 images/character/character_154001.png
 685e25d6611c6ace29a8998e0c3a8a6a
 images/character/character_153001.png
+5509492a8ebe85a8bcea30abb44a1186
+images/character/character_15010.png
 66ed618641fb7820dc78c7ae94d1f427
 images/character/character_15008.png
 0e704fb2c6b28e612fae53c422b7cb00

@@ -544,6 +544,10 @@ Thrust to stop the enemy's movement and rush rapidly.
 Sonic Charge
 Sonic Charge
 skill_icon_rod_3_{}
+A combination skill. Move instantly to the back of an enemy and attack with flying butterflies. Activate a damage canceling barrier which cancels incoming damage twice.
+Butterfly Blast
+Butterfly Blast
+skill_icon_rod_3_{}
 A combination skill. Attack with shiny ornaments. Likely to stun an enemy. 
 Split Ornament
 Smashing Ornaments
@@ -1499,6 +1503,10 @@ A sword skill. Restores your HP and perform an attack with lots of dishes.
 Catering Energy
 Catering Energy
 skill_icon_dagger_3_{}
+A combination skill. Blow up a wind and jump high up to attack. Activate a damage canceling barrier which cancels incoming damage twice.
+Aerial Pine
+Aerial Pine
+skill_icon_dagger_3_{}
 A combination skill. Slash through an enemy's back swiftly, create a giant snowman.  High chance of stunning an enemy.
 Wonder Snowman
 Wonder Snowman
@@ -2358,6 +2366,10 @@ A sword skill. Resores your HP. Clinking beer mugs causes a shockwave and attack
 Raise Your Glass
 Raise Your Glass
 skill_icon_sword_3_{}
+A combination skill. Move to an enemy's back, performing a spin attack. Activate a damage canceling barrier which cancels incoming damage twice.
+Blooming Sword Dance
+Blooming Sword Dance
+skill_icon_sword_3_{}
 A combination skill. Activate a damage canceling barrier and unleash brutal thrusts with petals fluttering down.
 Fresh Paeonia
 Fresh Paeonia
@@ -2716,6 +2728,10 @@ skill_icon_sword_3_{}
 A sword skill. Slash through an enemy's back and cause to burst. Restores your HP. 
 Shuntou Yoruhiraki
 Speed of First-Light
+skill_icon_sword_3_{}
+A combination skill. Slash down an enemy, wearing a dog's face. Activates a damage canceling barrier which cancels incoming damage twice. 
+Flash Mastiff
+Flash Mastiff
 skill_icon_sword_3_{}
 A combination skill. Release the memory of "Blue Rose Sword" and change the background to snowy landscape. Likely to stun an enemy.
 Release Recollection

@@ -1,4 +1,7 @@
-Do	
+xq	
+xd	
+xW	
+tP	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -11,6 +14,7 @@ dead
 bullet_99910_pina_increase_3
 dead
 bullet_99910_pina_increase_3
+bullet_910001_single_dummy
 dead
 bullet_910001_single_dummy
 dead
@@ -1516,7 +1520,6 @@ JzP
 JzP
 JzP
 JzP
-pA<
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -1552,6 +1555,10 @@ dead
 bullet_5044_bounce_the_ball_last
 wait
 bullet_5043_dog_run
+dead
+bullet_5042_spinning_fox
+dead
+bullet_5041_fox_splash
 wait
 dead
 appear
@@ -1856,6 +1863,9 @@ bullet_4061_cards_roulette_s
 bullet_4060_bunting_1
 bullet_4059_cold_peony
 bullet_4059_cold_peony
+wait
+appear
+bullet_4058_butterfly_blast
 wait
 appear
 bullet_4058_butterfly_blast
@@ -2442,6 +2452,7 @@ dead
 appear
 bullet_3047_snow_rose_2
 bullet_3046_snow_rose_1
+bullet_3045_poison_rain
 dead
 bullet_3045_poison_rain
 dead
@@ -3452,6 +3463,13 @@ dead
 appear
 bullet_1113_1
 bullet_1113_karuta
+bullet_1111_automatic_gun
+bullet_1111_automatic_gun
+bullet_1111_automatic_gun
+bullet_1111_automatic_gun
+bullet_1111_automatic_gun
+bullet_1111_automatic_gun
+bullet_1111_automatic_gun
 bullet_1111_automatic_gun
 wait
 ground
@@ -4519,6 +4537,9 @@ ground
 bullet_1006_smoke_grenade
 ground
 bullet_1006_smoke_grenade
+wait
+appear
+bullet_1005_grenade_bomb
 wait
 ground
 dead

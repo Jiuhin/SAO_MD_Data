@@ -448,18 +448,18 @@ Solo Dmg. +20%
 +15% damage when 1 of your character's remains.
 Solo Dmg. +15%
 3mk
-Increases Attack for 30-hit+ combos by 6%. (Earth-elem.)
-30+ Combo: Attack +6% (Earth)
+Increases Attack for 30-hit+ combos by 6%. (vs. Earth-elem.)
+30+ Combo: Attack +6% (vs. Earth)
 /mk
-Increases Attack for 30-hit+ combos by 6%. (Water-elem.)
-30+ Combo: Attack +6% (Water)
+Increases Attack for 30-hit+ combos by 6%. (vs. Water-elem.)
+30+ Combo: Attack +6% (vs. Water)
 -mk
 Survive a fatal damage with HP1% just once
 Fatal Damage Resistance
-Increases Attack for 30-hit+ combos by 6%. (Dark-elem.)
-30+ Combo: Attack +6% (Dark)
-Increases Attack for 30-hit+ combos by 6%. (Wind-elem.)
-30+ Combo: Attack +6% (Wind)
+Increases Attack for 30-hit+ combos by 6%. (vs. Dark-elem.)
+30+ Combo: Attack +6% (vs. Dark)
+Increases Attack for 30-hit+ combos by 6%. (vs. Wind-elem.)
+30+ Combo: Attack +6% (vs. Wind)
 hlk
 Increases Attack for 30-hit+ combos by 6%.
 30+ Combo: Attack +6%

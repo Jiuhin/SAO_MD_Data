@@ -1032,6 +1032,24 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4075024,2,1,1
+Complete "Mochi Mochi Panic! (Master)" with a sword character.
+4075025,2
+Complete "Mochi Mochi Panic! (Master +1)" without down.
+4075025,2,45
+Complete "Mochi Mochi Panic! (Master +1)" under 45 Sec.
+4075025,2,60
+Complete "Mochi Mochi Panic! (Master +1)" in under 1min.
+4075025
+Complete "Mochi Mochi Panic! (Master +1)".
+4075024,2
+Complete "Mochi Mochi Panic! (Master)" without down.
+4075024,2,45
+Complete "Mochi Mochi Panic! (Master)" under 45 Sec.
+4075024,2,60
+Complete "Mochi Mochi Panic! (Master)" in under 1min.
+4075024
+Complete "Mochi Mochi Panic! (Master)".
 +q7
 4074032,1
 Complete "Christmas Gift Mission (Master +2) Part 2" without down.

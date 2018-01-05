@@ -522,6 +522,12 @@ images/event/4701/4701_top.png
 images/event/4701/4701_banner.png
 images/event/4701/4701_banner.png
 Breakthrough in Sand
+Global Scout
+images/event/4075/event_item_4075.png
+images/event/4075/4075_top.png
+images/event/4075/4075_banner.png
+images/event/4075/4075_banner.png
+Mochi Mochi Panic! Mochi Pounding Party
 Medal Scout
 images/event/4074/4074_top.png
 images/event/4074/4074_banner.png

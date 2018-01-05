@@ -1,141 +1,158 @@
-L]}
-X>{
-t {
-dpz
-tbz
-8:z
-H8y
-l/y
-D?w
-ttu
-Xhu
-H2u
-d}s
-P{s
-dys
-lrs
-Hqs
-$ps
-dls
-ljs
-hhs
-Dgs
-xes
-Tcs
-(Js
-H7r
-t$r
-05q
-8pp
-Ddp
-Xem
-8Em
-lyl
-Tkl
-dyk
-LZk
-8Ek
-L8k
-$aj
-TRi
-PXh
-8Jh
-h?h
-$0h
-tcg
-lBf
-x1f
-pve
-dpd
-,Hc
-X?b
-tca
-h}_
-8s]
-tc]
-$,]
-$	]
-Hn[
-XqZ
-h1Z
-04Y
-XzX
-(VW
-0HW
-<0W
-tJV
-LsU
-0PU
-h?U
-P-U
-<kT
-xFS
-86S
-4zR
-xnR
-4GR
-4vQ
-xyP
-pSP
-LSO
-,GO
-$:O
-T)O
-<zN
-P[M
-HLM
-l:J
-tjI
-hMI
-0sH
-HeH
-0 H
-xaG
-$hF
-4ME
-LcD
-x.D
-DHC
-$wA
-pv?
-$j?
-0b<
-PI<
-T.<
-Pa:
-4D:
-hx9
-x"9
-(o8
-8R8
-4?8
-8o7
-X47
-8[6
-x84
-De3
-HL3
-P31
-,d0
-<K0
-hk/
-H)/
-xQ.
-X?.
-P'-
-Di,
-81,
-hU(
-8R'
-8A'
-L"%
-Dh"
-4T"
-l/"
-Tl!
-pX!
-4$!
-Ty{
+4x}
+lq}
+tL}
+0<{
+D7z
+(%y
+xcx
+tGx
+$'x
+,Tw
+d>w
+$ru
+(au
+lts
+(_s
+4Js
+pIs
+TGs
+l>s
+d6s
+,0s
+p+s
+p s
+8er
+8Ur
+d1r
+,jq
+([q
+PAq
+x3q
+Teo
+D	o
+0{n
+8dn
+Dfm
+xul
+d/k
+Dbj
+8Rj
+Hsi
+dFi
+47i
+X)i
+<Xh
+hJh
+$}g
+xlg
+0Tg
+(.g
+Dbf
+X]e
+dHe
+p4e
+XBd
+p8c
+xpb
+lua
+h5a
+,E]
+h5]
+xUZ
+LCZ
+XXX
+LLX
+47X
+P X
+p	X
+4OW
+x]V
+pFV
+P9V
+$0V
+(sU
+$"U
+TBS
+HcR
+(LR
+p	R
+4SQ
+(HQ
+lKP
+d%P
+tDO
+8ZN
+0LN
+<GM
+L4M
+D%M
+xML
+(eK
+4WK
+47K
+pCI
+d&I
+lbH
+,LH
+D>H
+DrG
+heG
+<VG
+t:G
+X5F
+PvE
+0&E
+H<D
+<_B
+X	B
+pn?
+X[?
+lO?
+4}>
+8r>
+Xe>
+8y<
+L"<
+L::
+X.:
+dQ9
+Lq8
+,P8
+<38
+8 8
+<P7
+Ti6
+<<6
+$t3
+Dd3
+HF3
+L-3
+Pb1
+Xn0
+0E0
+lL/
+L{.
+Ly-
+Lp,
+$],
+HJ,
+Tb)
+l6(
+Pv'
+<3'
+<"'
+xm&
+H?&
+$	&
+DA%
+Pp$
+4h"
+HI"
+85"
+0b!
+XM!
+t9!
+,j 
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -148,6 +165,7 @@ Kirito
 Did... Did that do it?
 Kirito
 2017110701_11_a
+Dr}
 still_14_heathcliff_dead
 Hngh!
 Kirito
@@ -160,7 +178,6 @@ Heathcliff
 bg_black
 Kirito
 2017110701_8_a
-T}{
 still_14_kirito_revive
 RRRGH! HAAAAAH!
 Kirito
@@ -390,1667 +407,1728 @@ You deserve some reward.
 bg_black
 ???
 480404801_1_a
-リーファ
+Leafa
 407501201_29_a
-うぐぐっ……
-キリト
+Uggghhhh...
+Kirito
 407501201_28_a
-ユウキ
+Yuuki
 407501201_27_a
+Pina
 407501201_26_a
-ふふっ、キリトさんたちの
-お餅とのバトルは現実でも
-まだ続くってことですね～
-シリカ
+Heh heh! I guess the mochi fight
+continues for you two!
+Silica
 407501201_25_a
-うおっ……そういえば……
-まだ余ってるからしばらくは
-餅料理だって母さん言ってたな……
-キリト
+Augh... You're right. Mom said
+there was a ton left over too...
+We've got mochi for days!
+Kirito
 407501201_24_a
-今日の夕飯も確か
-お餅じゃなかったっけ……?
-リーファ
+Aren't we having mochi for dinner
+tonight?
+Leafa
 407501201_23_a
-あっ、でもお兄ちゃ……
-いやキリト君
-リーファ
+Oh no... Kirito...
+Leafa
 407501201_22_a
-リーファ
+Leafa
 407501201_21_a
-はは、まぁ食べたいのなら
-止めないけどさ
-キリト
+Ha ha, well, no one's
+stopping you!
+Kirito
 407501201_20_a
+Pina
 407501201_19_a
-それにほら、お餅には
-しょっぱいと甘いのループが
-できるからさ
-ユウキ
+And, like Leafa said, you can get
+right into that salty-sweet loop
+and eat your way to mochi heaven!
+Yuuki
 407501201_18_a
-ええっ?
-ボクはまだまだいけるよ
-ちょうど運動してまた小腹も減ったし
-ユウキ
+Really? I could still go for some.
+All that fighting made me hungry
+again!
+Yuuki
 407501201_17_a
-ユウキ
+Yuuki
 407501201_16_a
+Pina
 407501201_15_a
-確かに……あれだけ食べた後で
-退治するのも餅だったりで、
-もう色々とお腹いっぱいですよね
-シリカ
+Me too. Eat mochi, fight mochi,
+mochi, mochi, mochi! I'm a little
+sick of it now.
+Silica
 407501201_14_a
-ああ、そうだな
-でもしばらくは餅はもういいかな～
-キリト
+For sure. At any rate, I think I'm
+gonna lay off the mochi for a
+bit...
+Kirito
 407501201_13_a
-キリト
+Kirito
 407501201_12_a
-これからは別のVRMMO同士、
-それぞれの知識や技術を共有して
-楽しい攻略ができればいいよね
-リーファ
+That ought to give you a leg up
+in other VRMMOs too. At least,
+I hope it helps!
+Leafa
 407501201_11_a
-ああ、それにあんまりやらない
-レイドバトルのやり方も
-理解できて良かったぜ
-プレイヤーF
+And I learned how to fight in a
+raid, to boot! That was fun.
+Player F
 407501201_9_a
+Pina
 407501201_10_a
-ふふっ、どういたしまして
-餅つき大会の思い出は楽しいままで
-終わらせられそうで良かったですね
-シリカ
+Heh, you're very welcome! I'm glad
+the mochi-making competition had
+a happy ending.
+Silica
 407501201_8_a
-あんたたちのおかげで
-無事にクエストクリアできたぜ
-ありがとう
-プレイヤーE
+Thanks, guys! We wouldn't have
+completed that quest without you.
+Player E
 407501201_7_a
-シリカ
+Silica
 407501201_6_a
+Pina
 407501201_5_a
-うん、AEでレイドバトルができて
-なんか新鮮だったよ
-ユウキ
+Yep. Man, that felt really cool!
+I'd never done a raid battle in
+AE before.
+Yuuki
 407501201_4_a
-やったね
-今ので最後の一体だったよ
-リーファ
+Nice one! That was the last of
+them.
+Leafa
 407501201_3_a
-(w}
-グガガガッ……!
+GRRRRRGHHH!
+Ogre
 407501201_2_a
 bg_event_ayakashi_street
-ぜりゃあっ!!
-キリト
+HYAAAAH!
+Kirito
 407501201_1_a
-ああ、そうだな!
-キリト
+Oh, right! That too!
+Kirito
 407501101_33_a
-鬼だけじゃなくて餅型の妖怪もね!
-リーファ
+Don't forget the mochi monster!
+Leafa
 407501101_32_a
-リーファ
+Leafa
 407501101_31_a
-よし、準備は整ったな……!
-鬼退治だ!
-キリト
+Okay, I think we're set.
+Let's kill some ogres!
+Kirito
 407501101_30_a
+Pina
 407501101_29_a
-おおっ!!
-プレイヤー達
+YEAH!
+Players
 407501101_28_a
-アタッカーの刀使いと槍使いも
-せーのでボクと一緒に仕掛けるよ!
-ユウキ
+Swords and spears, charge with me
+on my command!
+Yuuki
 407501101_27_a
-ユウキ
+Yuuki
 407501101_26_a
+Pina
 407501101_25_a
-呪術師さんと僧兵さんは
-サイドに控えてバフと援護を
-お願いします!!
-シリカ
+Shamans and Warrior Monks!
+Stay to the sides and heal our
+fighters!
+Silica
 407501101_24_a
-弓部隊の配置も完了だよ!
-リーファ
+Archery unit's in place!
+Leafa
 407501101_23_a
-リーファ
+Leafa
 407501101_22_a
-よし!
-甲冑武士隊は前線へ!
-キリト
+Here we go! Warriors, to the front
+lines!
+Kirito
 407501101_21_a
-グガアアッ!
+Graaaaagh!
+Ogre
 407501101_20_a
-よし、任せてくれ!
-キリト
+Alright, leave it to me!
+Kirito
 407501101_19_a
-最後に逃げ帰って終わりだなんて
-後味が悪くなるのは嫌だからな
-プレイヤーG
+I got some good mochi out of this!
+Running home screaming won't make
+for a story worth telling!
+Player G
 407501101_18_a
-ああ、せっかく美味しい餅を
-たらふく食って
-いい正月過ごしたと思ってたのに、
-プレイヤーG
+Yeah, I don't want this to end on
+a downer!
+Player G
 407501101_17_a
-そうか、わかった
-なら教えてくれ
-プレイヤーF
+Okay then. Give us some roles!
+Player F
 407501101_16_a
-それさえできれば、
-あとはどのゲームでもルーチンは
-さほど変わらないはずだ
-キリト
+Get that down and the routine
+won't change much from game
+to game.
+Kirito
 407501101_15_a
-レイドバトルの基本は
-役割分担をきっちりやること
-キリト
+The key to a raid battle is
+knowing your role and
+executing it well!
+Kirito
 407501101_14_a
-ユウキ
+Yuuki
 407501101_13_a
-リーファ
+Leafa
 407501101_12_a
-あはは、そこそこってレベルじゃ
-ないと思いますけど……
-シリカ
+Ha ha, I don't know about that,
+but okay...
+Silica
 407501101_11_a
-まぁな
-四人ともAEではニュービーだけど
-そこそこ慣れてるつもりだ
-キリト
+Not in AE. We're newbies here.
+But we'll get used to it soon
+enough.
+Kirito
 407501101_10_a
-確かに……あんたたちは
-レイドバトル経験者なのか?
-プレイヤーE
+He's got a point. Have you guys
+fought in raids before?
+Player E
 407501101_9_a
-このまま逃げても解決にはならない
-攻略の糸口を見いだせなきゃ
-今後の攻略に影響すると思うんだ
-キリト
+We can't run away from this fight,
+and fighting through this battle
+will help us fight those to come!
+Kirito
 407501101_8_a
-今回の突発クエストは運営からの
-新たな挑戦……大規模バトル実装を
-打ち出したのかもしれないだろ?
-キリト
+Maybe this sudden quest is a trial
+run for large-scale battles that
+the admins came up with.
+Kirito
 407501101_7_a
-このゲームってソロか
-数人パーティでこなす
-中小規模のクエが多いし……
-プレイヤーG
+Most of the game's quests can be
+done by one person or a small
+group.
+Player G
 407501101_6_a
-ああ、あんまり必要な状況も
-なかったもんな……
-プレイヤーG
+We've never really needed to,
+I guess.
+Player G
 407501101_5_a
-レイドバトルか……
-そういやアスカ・エンパイアでは
-やったことないな……
-プレイヤーF
+Asuka Empire has raid battles?
+I've never done one before.
+Player F
 407501101_4_a
-今から餅つき大会をしていた皆に
-レイドバトルのフォーメーションを
-教える
-キリト
+I'm going to teach you all how to
+get into formation for a raid
+battle.
+Kirito
 407501101_3_a
-キリト
+Kirito
 407501101_2_a
 bg_event_ayakashi_street
-俺たちをこんなところに
-集めてどうするつもりだ?
-プレイヤーE
+What was the point of leading us
+here?
+Player E
 407501101_1_a
-リーファ
+Leafa
 407501001_37_a
-任せた!!
-キリト
+Go for it!
+Kirito
 407501001_36_a
-シリカ
+Silica
 407501001_35_a
+Pina
 407501001_34_a
-ボクは隠密の術で隠れながら
-フォローするよ!
-ユウキ
+I'll stay out of sight and follow
+you to make sure you're all good!
+Yuuki
 407501001_33_a
-リーファ
+Leafa
 407501001_32_a
-よし、プレイヤーたちに
-声をかけて護衛しながら、
-そこに逃げ込もう!
-キリト
+Great! Let's get the players'
+attention and start leading
+them that way!
+Kirito
 407501001_31_a
+Pina
 407501001_30_a
-その辺もこのイベントバトルの領域内
-だから隠れていられるのも
-限界があると思うけど……
-ユウキ
+It's still within the battle area,
+though, so we can't hide there
+for long!
+Yuuki
 407501001_29_a
-シリカ
+Silica
 407501001_28_a
+Pina
 407501001_27_a
-うん、あっちの小道を
-進んだところに長屋の広場があるよ
-ユウキ
+There's a courtyard through that
+alley!
+Yuuki
 407501001_26_a
-そうするしかないな
-ユウキ、この辺にどこか人が
-集まれる場所があるか?
-キリト
+Yeah, that sounds like our only
+option. Yuuki, is there somewhere
+we can gather everyone together?
+Kirito
 407501001_25_a
-こうなったら今ここにいる
-プレイヤーたちにレイドバトルの
-イロハを教えるしかないよ!
-リーファ
+We'll just have to teach them how
+to fight a raid battle on the fly!
+Leafa
 407501001_24_a
-リーファ
+Leafa
 407501001_23_a
-わかってる……
-キリト
+I know...
+Kirito
 407501001_22_a
-ユウキ
+Yuuki
 407501001_21_a
+Pina
 407501001_20_a
-ど、どうしましょう?
-この数相手にあたしたちだけで
-挑むのは無理がありますよ!
-シリカ
+What do we do? I don't think we
+can handle them all on our own!
+Silica
 407501001_19_a
-わあああっ!
-プレイヤーF
+AHHHHHH!
+Player F
 407501001_18_a
-ギニャッ!
-餅モンスター
+SKREEE!
+Mochi Monster
 407501001_17_a
-グルガアッ!
+GRAAARRRR!
+Ogre
 407501001_16_a
-リーファ
+Leafa
 407501001_15_a
-確かにさっき会ったプレイヤーも
-他のVRMMOの遊ぶスタイルと
-ちょっと違うとか言ってたな……
-キリト
+Yeah, come to think of it, the
+players we met did say that AE
+plays pretty differently.
+Kirito
 407501001_14_a
+Pina
 407501001_13_a
-個人戦が多いというか、
-みんな思い思いにこの和風世界を
-楽しんでいるというか……
-ユウキ
+There's a lot of PvP, and people
+like to split off and explore the
+rich setting for themselves.
+Yuuki
 407501001_12_a
-うーん、残念ながら
-AEはその手のバトルに弱い人が
-多いのは事実なんだよね～
-ユウキ
+Ah yeah, teamwork is one of the
+weak points in the AE player base.
+Yuuki
 407501001_11_a
+Pina
 407501001_9_a
-そ、そうですね……逃げずに
-戦ってくれてる人たちもいますが、
-みんな協力してる感じはないです
-シリカ
+I don't know... Staying to fight
+is important, but no one's
+working together!
+Silica
 407501001_8_a
-ユウキ
+Yuuki
 407501001_10_a
-キリト
+Kirito
 407501001_7_a
-AEのプレイヤーの人たち、
-集団戦に慣れてないのかな……?
-リーファ
+Do AE players not know how to
+fight as a team?
+Leafa
 407501001_6_a
-それよりもバフ役が足りないんだよ!
-まずは回復優先だろ!?
-プレイヤーG
+We need healers, not shields!
+Someone's gotta keep us alive!
+Player G
 407501001_5_a
-おい、逃げずに戦え!
-盾役になれって!
-プレイヤーF
+No, stay and fight! Here, you can
+be my human shield!
+Player F
 407501001_4_a
-に、逃げろーっ!
-プレイヤーE
+Run for your liiiiife!
+Player E
 407501001_3_a
-ギシャアッ!
-ギシャアアッ!!
-餅モンスター
+Skraaawwr!
+SKRAAAAAHHH!
+Mochi Monster
 407501001_2_a
 bg_event_ayakashi_street
-グガアアッ!!
+GRAAAAAAHHHHH!
+Ogre
 407501001_1_a
-くっ、混乱して
-聞く余裕すらないってか……!
-キリト
+It's no use! They're too panicked.
+Kirito
 407500901_63_a
-た、助けてくれーっ!
-こんな数じゃ勝てるわけない!
-プレイヤー達
+HELP! There's no way we can
+beat them all!
+Players
 407500901_62_a
-この数を相手にするには
-レイドスタイルのフォーメーションを
-組む必要がある!
-キリト
+We need to get into a raid
+formation if we're gonna take
+all of these enemies on!
+Kirito
 407500901_61_a
-ああ、わかってる……
-おい、みんな陣形を組むんだ!
-キリト
+I see that. Everyone, form up!
+Kirito
 407500901_60_a
-ねえ、見て!
-イベントバトル発生って
-表示されてるよ!
-リーファ
+Look! It says we've triggered an
+event battle!
+Leafa
 407500901_59_a
-リーファ
+Leafa
 407500901_58_a
-みんな、混乱してるな……
-キリト
+Everyone's panicking...
+Kirito
 407500901_57_a
+Pina
 407500901_56_a
-それだけじゃない!
-餅まで暴れ始めた!!
-プレイヤーD
+The mochi's moving too!
+Player D
 407500901_55_a
-ギシャシャッ!
-餅モンスター
+Skraaaaawrr!
+Mochi Monster
 407500901_54_a
-わああっ!
-鬼が暴れ出した!!
-プレイヤーC
+Look out! The ogres are going
+nuts!
+Player C
 407500901_53_a
-ギイヤアアガアッ!!
+GYYYYAAAAAAAGGGGGHHH!
+Ogre
 407500901_52_a
-最初からお餅を使って妖怪化させて
-暴れさせるつもりだったって
-ことなんだよ!
-ユウキ
+And now they're turning this
+mochi monstrosity loose on us!
+Yuuki
 407500901_51_a
-町で上手に餅を作って
-振舞っていたのは
-ユウキ
+The mochi making was just for
+show. They wanted to attract a
+crowd!
+Yuuki
 407500901_50_a
-餅に妖力を込めて
-妖怪化させたんだろうね……
-ユウキ
+They were filling the mochi with
+some sort of power that turned
+it into a monster!
+Yuuki
 407500901_49_a
-ユウキ
+Yuuki
 407500901_48_a
+Pina
 407500901_47_a
-ど、どういうことですか!?
-シリカ
+But how?!
+Silica
 407500901_46_a
-リーファ
+Leafa
 407500901_45_a
-くっ、やっぱりか!
-あの鬼たちの仕業か!?
-キリト
+I knew it! This is what they were
+really up to!
+Kirito
 407500901_44_a
-ユウキ
+Yuuki
 407500901_43_a
+Pina
 407500901_42_a
-鬼たちが雄叫びを……?
-シリカ
+Did those ogress just let out a
+battle cry?
+Silica
 407500901_41_a
-グオオオオオッ!!
+Graaaaaaoooooh!
+Ogre
 407500901_40_a
-キリト
+Kirito
 407500901_39_a
-どういうこと……!?
-リーファ
+I don't even know!
+Leafa
 407500901_38_a
+Pina
 407500901_37_a
-あ、あれは……
-餅型のモンスター!?
-ユウキ
+What is it?! Some kind of mochi
+monster?!
+Yuuki
 407500901_36_a
-ユウキ
+Yuuki
 407500901_35_a
+Pina
 407500901_34_a
-お、お餅が動き出しましたよ!?
-シリカ
+The mochi is moving!!
+Silica
 407500901_33_a
-リーファ
+Leafa
 407500901_32_a
-なっ!?
-なにぃ!?
-キリト
+What the hell is going on?!
+Kirito
 407500901_31_a
-ギニャアアアッ!!!
+GRYAAAAAGH!
 ???
 407500901_30_a
-これは……?
-キリト
+Did it just...?
+Kirito
 407500901_29_a
-キリト
+Kirito
 407500901_28_a
-わっ、まだお餅が増えてる……
-リーファ
+Oh man, the pile's getting
+bigger...
+Leafa
 407500901_27_a
-グヌァッ!
+Grugh!
+Ogre B
 407500901_26_a
-グオアッ!
+GRWAAAWR!
+Ogre A
 407500901_25_a
-リーファ
+Leafa
 407500901_24_a
-餅は突き立てが一番美味いからな
-ちゃんと保存処理しないと、
-すぐに乾燥して味が悪くなる……
-キリト
+Mochi's best when it's fresh, too.
+It'll dry out if they don't put it
+away soon...
+Kirito
 407500901_23_a
+Pina
 407500901_22_a
-あんなにたくさんのお餅が
-食べられずに残されてますよ……
-シリカ
+Everyone got tired of eating mochi
+and now it's just piling up!
+Silica
 407500901_21_a
-でも見てください
-もうプレイヤーさんたちも
-食べ飽きてきたのか
-シリカ
+Oh no, look!
+Silica
 407500901_20_a
-シリカ
+Silica
 407500901_19_a
+Pina
 407500901_18_a
-ホントだね
-そういう役割なのかもしれないけど
-律儀というか勤労というか……
-ユウキ
+Yeah, it's getting a little weird,
+huh? This is probably their job,
+but their dedication is...slavish.
+Yuuki
 407500901_17_a
-あの鬼のNPCたち、
-まだお餅を作り続けてるんだね……
-リーファ
+How much mochi are they gonna
+make, anyway?
+Leafa
 407500901_16_a
-この辺にいるプレイヤーたちに
-おおよそ行き渡ったのに、
-リーファ
+A lot of players have moved on,
+but these two are still going at
+it.
+Leafa
 407500901_15_a
-リーファ
+Leafa
 407500901_14_a
-………………
-キリト
+...
+Kirito
 407500901_13_a
+Pina
 407500901_12_a
-グヌァッ!
+Grugh!
+Ogre B
 407500901_11_a
-グオアッ!
+GRWAAAWR!
+Ogre A
 407500901_10_a
-スナック菓子とか食べてても
-そういう状況に陥ることって
-よくありますよねー
-シリカ
+They're just like any other snack!
+Once you start, you can't stop!
+Silica
 407500901_9_a
-シリカ
+Silica
 407500901_8_a
+Pina
 407500901_7_a
-ふふっ、わかるわかるー!
-ユウキ
+I know what you mean!
+Yuuki
 407500901_6_a
-だってぇ……しょっぱいお餅食べて
-次に甘いの食べて、繰り返してたら
-無限ループにハマったんだもん……
-リーファ
+I can't help it! I have a salty
+one, so then I want a sweet one.
+That's how they get you!
+Leafa
 407500901_5_a
-さすがに食べ過ぎだぞ……
-キリト
+Of course not. You ate too much...
+Kirito
 407500901_4_a
-うん、あたしもう
-しばらくお餅は見なくても
-いいかも……
-リーファ
+I don't think I can look at
+another mochi...
+Leafa
 407500901_3_a
-リーファ
+Leafa
 407500901_2_a
 bg_event_ayakashi_street
-はぁ……さすがに満腹だな
-キリト
+Oh yeah, that hit the spot.
+Kirito
 407500901_1_a
-シリカ
+Silica
 407500801_69_a
+Pina
 407500801_68_a
-うん!
-ユウキ
+Sounds good!
+Yuuki
 407500801_67_a
-リーファ
+Leafa
 407500801_66_a
-はは、じゃあ餅の食べ放題、
-再開だ!
-キリト
+Ha ha, then let's dig into this
+mochi buffet!
+Kirito
 407500801_65_a
+Pina
 407500801_64_a
-あれを見たら
-すぐに食欲が復活してきました!
-シリカ
+Now that I'm looking at it,
+I think my appetite just came
+back!
+Silica
 407500801_63_a
+Pina
 407500801_62_a
-ユウキ
+Yuuki
 407500801_61_a
-ななっ……
-まるでデザートじゃないですか!
-シリカ
+Oh my gosh, that last one makes it
+sound like dessert!
+Silica
 407500801_60_a
-きなこにチーズに納豆とか
-定番のものもあれば黒ゴマペーストに
-ジャムとかまである!
-リーファ
+Roasted soybean flour! Cheese!
+Fermented soybeans! Black sesame
+seed paste and jam, even!!
+Leafa
 407500801_59_a
-キリト
+Kirito
 407500801_58_a
-わあ、ホントだ
-あっちを見て!
-リーファ
+Wow, you're right!
+Look at all that!
+Leafa
 407500801_57_a
+Pina
 407500801_56_a
-色んな食材が揃ってるから
-味を変えてみるのは
-ありじゃないかな
-ユウキ
+I bet you could create a lot of
+different flavor combinations!
+Yuuki
 407500801_55_a
-シリカ
+Silica
 407500801_54_a
+Pina
 407500801_53_a
-無理することはないと思うけど
-お餅に乗せたりする用に
-ユウキ
+I'm not saying you have to, but
+they've got a lot of toppings
+laid out here.
+Yuuki
 407500801_52_a
-リーファ
+Leafa
 407500801_51_a
-そうか、確かに餅って
-一個食べると御飯一膳分くらい
-あるんだもんな
-キリト
+Oh yeah? I guess that makes sense.
+One mochi ball has as much rice
+as one bowl before it's pounded.
+Kirito
 407500801_50_a
+Pina
 407500801_49_a
-ユウキ
+Yuuki
 407500801_48_a
-ええと、あたしさっきから
-お餅を沢山食べてるせいか、
-ちょっとお腹いっぱいで……
-シリカ
+I, um, might have overdone it on
+mochi earlier... I'm not really
+hungry.
+Silica
 407500801_47_a
-そうだね!
-リーファ
+Yeah, let's!
+Leafa
 407500801_46_a
-俺たちもちょっと
-食べさせてもらおうぜ
-キリト
+Maybe we should try some.
+Kirito
 407500801_45_a
-この餅、美味しい!
-もっと食べさせてくれ!
-プレイヤー達
+This mochi is amazing!
+Give us more!!
+Players
 407500801_44_a
-グヌァッ!
+Grugh!
+Ogre B
 407500801_43_a
-グオアッ!
+GRWAAAWR!
+Ogre A
 407500801_42_a
-リーファ
+Leafa
 407500801_41_a
-はは、バレたか
-キリト
+Ha ha, was it that obvious?
+Kirito
 407500801_40_a
-シリカ
+Silica
 407500801_39_a
+Pina
 407500801_38_a
-ふふっ、キリト興味津々だね
-ユウキ
+Heh. Sounds like I've piqued your
+interest.
+Yuuki
 407500801_37_a
-リーファ
+Leafa
 407500801_36_a
-特殊な条件でなれる
-隠しジョブってことだろ……?
-なるほどな……
-キリト
+A secret job in a class of its
+own, eh? Hmm...
+Kirito
 407500801_35_a
-シリカ
+Silica
 407500801_34_a
+Pina
 407500801_33_a
-うん、でもその妖怪ジョブの噂は
-上級職とはまた違うものだよ
-ユウキ
+Right, but the Monster job class
+is supposedly different from those
+other classes too.
+Yuuki
 407500801_32_a
-リーファ
+Leafa
 407500801_31_a
-確かAEには上級職ってのが
-あるんだよな
-キリト
+Yeah, I know there are special
+job classes you can unlock.
+Kirito
 407500801_30_a
+Pina
 407500801_29_a
-そうなんですね～
-シリカ
+Interesting!
+Silica
 407500801_28_a
-特定の条件を満たすと妖怪って
-ジョブにクラスチェンジできるってね
-ユウキ
+People have been saying there's a
+way to unlock the Monster job
+class for ages.
+Yuuki
 407500801_27_a
-シリカ
+Silica
 407500801_26_a
+Pina
 407500801_25_a
-多分そうだと思うけど……
-昔から噂はあるんだよね……
-ユウキ
+I'm pretty sure you can't,
+but I've definitely heard rumors.
+Yuuki
 407500801_24_a
-最初に選択するジョブには
-そんなのは無かった気がする
-キリト
+I don't remember seeing that
+option on the job menu.
+Kirito
 407500801_23_a
-リーファ
+Leafa
 407500801_22_a
-妖怪って……プレイヤーは
-なれないんだよな?
-キリト
+Wait... People can't play as
+monsters, can they?
+Kirito
 407500801_21_a
+Pina
 407500801_20_a
-このキヨミハラではあんまり
-見ないけど、あやかし横丁だと
-妖怪タイプのNPCがわんさかいるよ
-ユウキ
+Well, it's a little weird to see
+here in Kiyomihara, but Ayakashi
+Alley is full of monster NPCs.
+Yuuki
 407500801_19_a
-シリカ
+Silica
 407500801_18_a
+Pina
 407500801_17_a
-うん、そうだよ
-ユウキ
+Not at all.
+Yuuki
 407500801_16_a
-このAEじゃ街中に鬼がいるのが
-特に変わったことじゃないのかな?
-リーファ
+Is this not weird in AE?
+To just have demons chilling
+in the street?
+Leafa
 407500801_15_a
-普通にプレイヤーたちが
-餅が欲しくて周りに集まってる……
-リーファ
+Everyone's just lining up like
+this isn't weird...
+Leafa
 407500801_14_a
-リーファ
+Leafa
 407500801_13_a
-まさか餅つきが上手い奴らって
-あの鬼たちのことだったのか?
-キリト
+Are you kidding me? These are the
+master mochi makers?
+Kirito
 407500801_12_a
+Pina
 407500801_11_a
-ええと……
-鬼が街中で餅をついてる?
-ユウキ
+Uhh, wait...
+Are they making mochi? In
+the middle of the street?
+Yuuki
 407500801_10_a
-グヌァッ!
+Grugh!
+Ogre B
 407500801_9_a
-グオアッ!
+GRWAAAWR!
+Ogre A
 407500801_8_a
-ユウキ
+Yuuki
 407500801_7_a
+Pina
 407500801_6_a
-わわっ、あれが
-この世界の妖怪さんですね!
-シリカ
+So that's what the monsters
+in this game look like!
+Silica
 407500801_5_a
-お、鬼だよ!
-リーファ
+It's an ogre!
+Leafa
 407500801_4_a
-リーファ
+Leafa
 407500801_3_a
-うおっ!
-な、なんだあれ!?
-キリト
+Whoa! What in the world is that?!
+Kirito
 407500801_2_a
 bg_event_ayakashi_street
-グガアアッ!!
+GRAAAAAAHHHHH!
 ???
 407500801_1_a
-うん!
-リーファ
+Sounds good!
+Leafa
 407500701_32_a
-リーファ
+Leafa
 407500701_31_a
-気になるな
-俺たちもそいつらの餅つきを
-見に行ってみようぜ
-キリト
+Okay, I've gotta see this.
+Who wants to go check it out?
+Kirito
 407500701_30_a
+Pina
 407500701_29_a
-あれれっ……
-せっかく褒めてもらえた
-ばっかりだったのに……
-ユウキ
+Uhh... That was fast. They were
+just talking about how good
+ours is!
+Yuuki
 407500701_28_a
-どこだどこだ!?
-プレイヤーD
+Where?!
+Player D
 407500701_27_a
-えっ?
-そうなのか?
-プレイヤーC
+Are you serious?
+Player C
 407500701_26_a
-なあ、そこの二組の餅もすごいけど、
-もっと美味いのを作る奴らが
-あっちにいるぜ
-プレイヤーE
+Okay, okay. Guys. I know this
+mochi is good, but someone's
+making even BETTER mochi!
+Player E
 407500701_25_a
-ふふっ、そーだね!
-ユウキ
+Heh heh, me too!
+Yuuki
 407500701_24_a
-過去の経験が自信につながるのは
-なんだか嬉しいです!
-シリカ
+But I'm really glad that our past
+experience gives us confidence
+for the road ahead!
+Silica
 407500701_23_a
-ユウキ
+Yuuki
 407500701_22_a
+Pina
 407500701_21_a
-はい、勝手が違うところは
-もちろん沢山ありますけど
-シリカ
+Yes, it feels quite different in
+places.
+Silica
 407500701_20_a
-過去のVRMMOの経験値があれば
-この世界でも戦い抜けるってこと
-だよな
-キリト
+As long as they've played a VRMMO
+before, I mean.
+Kirito
 407500701_19_a
-そうだな
-そういった意味では
-ニュービーだとしても
-キリト
+Agreed. Which means that even
+total newbies have a shot.
+Kirito
 407500701_18_a
-ちゃんとあたしたちのこれまでの
-プレイ感覚をAEでも活かせてるって
-ことだよね
-リーファ
+That ought to make it easy for
+us to make the transition to AE!
+Leafa
 407500701_17_a
-基本のアクションの感覚は
-ALOと同じだもんね
-リーファ
+The basic actions in this game
+feel a lot like ALO, huh?
+Leafa
 407500701_16_a
-リーファ
+Leafa
 407500701_15_a
-はは、そうだな
-バトルや競い合いじゃなくても、
-一番になれるのは気分がいいぜ
-キリト
+Ha ha, me too. It always feels
+nice to win a competition you
+didn't know you were in.
+Kirito
 407500701_14_a
+Pina
 407500701_13_a
-えへへ、そうなんだね～!
-なんか嬉しいね!
-ユウキ
+Do they now! Heh! Well, I'm glad
+they think so!
+Yuuki
 407500701_12_a
-ああ、そこの二組の餅が
-最高だってみんな言ってたよ
-プレイヤーC
+Yeah, people say all of you make
+the best mochi!
+Player C
 407500701_11_a
+Pina
 407500701_9_a
-それってあたしたちもですか?
-シリカ
+Are you talking about our mochi
+too?
+Silica
 407500701_8_a
-ユウキ
+Yuuki
 407500701_10_a
-あんたたちの突いた餅が
-ここで一番美味いって評判なんだ!
-プレイヤーD
+Everyone's saying it's the best
+mochi around!
+Player D
 407500701_7_a
-なあ、餅を食べさせてくれないか?
-プレイヤーC
+Hey, can I try some of this?
+Player C
 407500701_6_a
-ホントだね……
-リーファ
+Eep! You're right...
+Leafa
 407500701_5_a
-リーファ
+Leafa
 407500701_4_a
-ん……?
-なんか俺たちの周り、
-人が集まってきてないか?
-キリト
+Huh? Guys, I think we're
+attracting a crowd...
+Kirito
 407500701_3_a
-そうらしいな!
-ちょっと食べさせてもらおう!
-プレイヤーD
+Me too! I've gotta try it!
+Player D
 407500701_2_a
 bg_event_ayakashi_street
-あそこの二組が突いた餅、
-すっごく美味いらしいぜ
-プレイヤーC
+I've heard the mochi those two
+teams make is to die for!
+Player C
 407500701_1_a
-ふふっ、そうなんですね
-じゃああたしもお餅を返す方、
-がんばりますね!
-シリカ
+Yeah, I suppose you're right!
+Okay, I'm ready to try turning
+the mochi!
+Silica
 407500601_35_a
-返し手と突くほうの
-役割分担がうまく合わさってこそ
-成立するってことだと思うよ
-ユウキ
+Everyone has to know what they're
+doing and stay in sync in order
+to succeed.
+Yuuki
 407500601_34_a
-餅つきはお湯を注ぐタイミングとか
-重要だし、それに餅の返し方も
-かなりのきめ細やかさが必要みたい
-ユウキ
+There's so much to consider. You
+have to know when to pour the
+hot water, when to turn it...
+Yuuki
 407500601_33_a
-そんなことないよ
-前は餅をついたことなんて
-なかったからボクも初体験なんだ
-ユウキ
+No way! I've never made mochi here
+before, so we're on a level
+playing field!
+Yuuki
 407500601_32_a
-AEの経験者なので
-あたしよりももっと上手に
-速く作れると思います!
-シリカ
+Not only are you stronger and
+faster, but you've also played
+AE before!
+Silica
 407500601_31_a
-はい、もちろんですよ!
-ユウキさんのほうが
-力も速さも高いですし、
-シリカ
+Of course! I'll bet you'll be way
+better than me.
+Silica
 407500601_30_a
-でも今度はボクも
-餅をついてみたいな～
-シリカ、交代してよ
-ユウキ
+Now I want to give it a try!
+Let's swap!
+Yuuki
 407500601_29_a
-はい、ありがとうございます!
-シリカ
+Thank you, Yuuki!
+Silica
 407500601_28_a
-ふふっ、いい感じだよ
-シリカ!
-ユウキ
+Heh heh, that's it, Silica!
+Yuuki
 407500601_27_a
-ユウキ
+Yuuki
 407500601_26_a
-てりゃっ!
-てりゃっ!
-シリカ
+Hyah! Hah!
+Silica
 407500601_25_a
-TO}
-助かるぜ
-プレイヤーA
+Thanks, I appreciate it.
+Player A
 407500601_24_a
-ああ、わかったよ
-なにかあれば俺たちの経験を
-伝える努力はしてみる
-キリト
+I see what you're after. Let us
+know if there's something we
+can do to show you our skills.
+Kirito
 407500601_23_a
-上を目指すプレイヤーが多いほど
-ゲーム全体が活気づくっていうのは
-誰もが理解するところだ
-キリト
+The game gets harder as more and
+more players aim to be the best.
+Kirito
 407500601_22_a
-それがMMOの本来の
-在り方ではあるからな
-キリト
+That's just how most MMOs work.
+Kirito
 407500601_21_a
-プレイヤーのスキルに合わせて
-運営が難易度を上げたりして
-互いに切磋琢磨していく……
-キリト
+The admins do their best to scale
+the difficulty to a given player's
+abilities.
+Kirito
 407500601_20_a
-なるほど……確かに敵の強さとかも
-チュートリアルとはいえ
-易しめって感じがしたね
-リーファ
+Huh... I mean, I thought the
+enemies were a little easy,
+but that was the tutorial...
+Leafa
 407500601_19_a
-ALOやGGOみたいないわゆる
-やり込み勢が他のゲームに
-比べて少ないって言われてるのさ
-プレイヤーA
+But they say there's not a lot
+of depth to it, unlike ALO and
+GGO.
+Player A
 407500601_18_a
-その雰囲気を楽しむためにダイブ
-してくるプレイヤーは多いんだけど
-プレイヤーA
+Lots of people like to play it for
+the atmosphere, you know?
+Player A
 407500601_17_a
-いや、そういうわけじゃないけど……
-まぁAEは和風ゲームって
-特徴が独り歩きしてるからさ
-プレイヤーA
+Eh, not really. It's just got its
+quirks, like any other Japanese
+game.
+Player A
 407500601_16_a
-その言い方だとこのゲームは
-結構遊び方が閉鎖的というか
-限られてる感じなのか?
-キリト
+Are you trying to say that Asuka
+Empire is pretty restrictive when
+it comes to gameplay?
+Kirito
 407500601_15_a
-ん……?
-別にいいけど……
-キリト
+Uh, sure. I'll try...
+Kirito
 407500601_14_a
-ぜひこのアスカ・エンパイアでも
-別のゲームの遊び方を
-伝えていってくれよ
-プレイヤーA
+I hope you bring something fresh
+to AE from whatever game you
+came from!
+Player A
 407500601_13_a
-へぇ、そうなんだな
-まぁ同じシステムのゲームとはいえ
-遊び方は千差万別って話だからな
-プレイヤーA
+Ahh, transfers, eh? Well, strap
+in. The engine's the same, but
+the gameplay is way different.
+Player A
 407500601_12_a
-ああ、まぁそんなところだ
-キリト
+Uh, yeah, pretty much.
+Kirito
 407500601_11_a
-あっ……
-別のVRMMOからのコンバート勢か?
-プレイヤーB
+Did you convert all your stuff
+over from another VRMMO?
+Player B
 407500601_10_a
-もしかしてニュービーなのか?
-でもそれにしてはアクションに
-キレがあるな……
-プレイヤーB
+Are you guys noobs?
+Nah, you couldn't be. Your
+moves are too clean.
+Player B
 407500601_9_a
-そうか?
-別に大したことはしてないけど……
-キリト
+You think so? I didn't think it
+looked THAT good...
+Kirito
 407500601_8_a
-まるで曲芸かなにかを
-見てるみたいだったぜ
-プレイヤーA
+It looked almost acrobatic!
+Player A
 407500601_7_a
-なあ、あんたたち
-すごい餅つきだったな
-プレイヤーA
+Wow, you guys were incredible!
+Player A
 407500601_6_a
-そうしよっか
-リーファ
+Sure.
+Leafa
 407500601_5_a
-リーファ
+Leafa
 407500601_4_a
-ふうっ……
-よし、一息つくかリーファ
-キリト
+Whew... Ready for a break, Leafa?
+Kirito
 407500601_3_a
-本当だな……
-見ない顔だけど、あんな速くて
-力強い餅つき見たことない
-プレイヤーB
+You weren't kidding... I don't
+know who they are, but I've never
+seen mochi making like that!
+Player B
 407500601_2_a
 bg_event_ayakashi_street
-なあ、あそこ見ろよ
-すごい速さだぜ
-プレイヤーA
+Whoa, look over there!
+They're so fast!
+Player A
 407500601_1_a
-はい!
-シリカ
+Go!
+Silica
 407500501_50_a
-ボクたちもやってみようよ
-シリカ
-ユウキ
+Ready to give this a try, Silica?
+Yuuki
 407500501_49_a
-あはは、言えてるかも
-よーし、じゃあ二人には
-負けてられないよ
-ユウキ
+Ha ha! Yeah, you could say that.
+And we're not about to let them
+steal the show!
+Yuuki
 407500501_48_a
-ふふっ、そうですね
-ちょっとしたリズムゲームって
-感じですよね、餅つきって
-シリカ
+Heh heh, I guess so. Wow, mochi
+making is like playing a rhythm
+game!
+Silica
 407500501_47_a
-シリカ
+Silica
 407500501_46_a
+Pina
 407500501_45_a
-おおっ、さすがは兄妹だね
-息ピッタリって感じだよ
-ユウキ
+Look at that synchronization!
+That must be the sibling
+advantage.
+Yuuki
 407500501_44_a
-はいっ!
-リーファ
+Go!
+Leafa
 407500501_43_a
-りゃっ!
-キリト
+YAH!
+Kirito
 407500501_42_a
-はいっ!
-リーファ
+Go!
+Leafa
 407500501_41_a
-リーファ
+Leafa
 407500501_40_a
-せいっ!
-キリト
+HAH!
+Kirito
 407500501_39_a
-シリカ
+Silica
 407500501_38_a
+Pina
 407500501_37_a
-キリトが餅を突くほうで
-リーファが返すほうなんだね
-二人ともがんばって
-ユウキ
+Okay, so Kirito's smashing and
+Leafa's turning. Good luck, guys!
+Yuuki
 407500501_36_a
-ユウキ
+Yuuki
 407500501_35_a
+Pina
 407500501_34_a
-あはは……
-お二人とも……
-野球じゃないんですから……
-シリカ
+Those two... You'd think this were
+a real sports match or something!
+Silica
 407500501_33_a
-おっしゃ来－いっ!
-リーファ
+Wahoo!
+Leafa
 407500501_32_a
-リーファ
+Leafa
 407500501_31_a
-じゃあ行くぜ、リーファ!
-キリト
+Then come on!
+Kirito
 407500501_30_a
-うん!
-リーファ
+Sounds good!
+Leafa
 407500501_29_a
-リーファ
+Leafa
 407500501_28_a
-よし、俺たちもやってみようぜ!
-キリト
+Let's give it a shot!
+Kirito
 407500501_27_a
+Pina
 407500501_26_a
-「餅つき大会実施中。
-誰でも参加可能」って書かれてます!
-シリカ
+This says "The Mochi-Making
+Contest is on! All challengers
+welcome!"
+Silica
 407500501_25_a
+Pina
 407500501_24_a
-ユウキ
+Yuuki
 407500501_23_a
-餅つきですか?
-あっ、ホントですね
-シリカ
+In mochi making, you mean?
+Oh wow, she's right!
+Silica
 407500501_22_a
-キリト
+Kirito
 407500501_21_a
-ねえねえ、みんな
-あれ、あたしたちも参加できる
-みたいだよ!
-リーファ
+Guys, I think we can all
+participate!
+Leafa
 407500501_20_a
+Pina
 407500501_19_a
-日本の古き良き四季折々の
-文化を楽しむには最適なゲームだよ
-ユウキ
+Which makes it ideal for people
+who want to experience Japan
+in each and every season.
+Yuuki
 407500501_18_a
-シリカ
+Silica
 407500501_17_a
+Pina
 407500501_16_a
-ふふっ、それはあるかもね
-アスカ・エンパイアは和風VRMMO
-ユウキ
+Heh heh, I should hope so! Asuka
+Empire's a Japanese-themed MMO
+after all.
+Yuuki
 407500501_15_a
-リーファ
+Leafa
 407500501_14_a
-ALOでもこういう和風系の
-季節イベントはあったけど
-やっぱり本場って感じだよな
-キリト
+I know ALO had a big Japanese-
+themed event around this time,
+but this is the real deal.
+Kirito
 407500501_13_a
+Pina
 407500501_12_a
-まさにお正月って感じだね～
-ユウキ
+Now it really feels like New
+Year's!
+Yuuki
 407500501_11_a
-ユウキ
+H:}
+Yuuki
 407500501_9_a
-わあ、ホントです
-餅つきして作ったお餅を
-食べてたんですね～
-シリカ
+Leafa's right! They must've been
+eating the mochi they made!
+Silica
 407500501_8_a
+Pina
 407500501_10_a
-見てみて、あそこで
-餅つきやってるよ
-リーファ
+Look over there!
+They ARE making mochi!
+Leafa
 407500501_7_a
-リーファ
+Leafa
 407500501_6_a
-ん……
-なんか威勢のいい声が
-聞こえてくるな
-キリト
+I like the sound of those voices.
+Kirito
 407500501_5_a
-はい!
+Go!
 ???
 407500501_4_a
-せいやっ!
+HAH!
 ???
 407500501_3_a
-はい!
+Go!
 ???
 407500501_2_a
 bg_event_ayakashi_street
-せいやっ!
+HAH!
 ???
 407500501_1_a
-よし、行ってみようぜ
-キリト
+Come on, let's go!
+Kirito
 407500401_42_a
-リーファ
+Leafa
 407500401_41_a
-はは、この匂いには
-誰も逆らえなさそうだ
-キリト
+Ha ha, yeah, a smell like this
+would make anyone forget their
+troubles.
+Kirito
 407500401_40_a
+Pina
 407500401_39_a
-ああっ、いい匂いですね～
-さっきの匂いなんて
-もう忘れちゃいましたよ!
-シリカ
+It smells so good! I can't even
+remember what smell we were
+trying to get rid of before!
+Silica
 407500401_38_a
-シリカ
+Silica
 407500401_37_a
+Pina
 407500401_36_a
-おおっ!
-なるほど、今アスカ・エンパイアだと
-正月イベントの真っ最中だもんね!
-ユウキ
+Oh, yeah! Asuka Empire is in the
+middle of its New Year's event!
+Yuuki
 407500401_35_a
-わかった!
-きっとお餅だよ!
-リーファ
+Then it's gotta be mochi!
+Leafa
 407500401_34_a
-リーファ
+Leafa
 407500401_33_a
-この匂いは……
-醤油が焦げる匂い……!
-キリト
+It smells like something's
+roasting in soy sauce!
+Kirito
 407500401_32_a
+Pina
 407500401_31_a
-ユウキ
+Yuuki
 407500401_30_a
-わっ、そう言ってると
-なんだか美味しそうな香りが
-してきましたよー!
-シリカ
+Ooh, now that you mention it,
+something smells really tasty!
+Silica
 407500401_29_a
-おっ、いいね
-アスカ・エンパイアの美味しい食事、
-楽しみ楽しみ!
-リーファ
+Ooh, good idea! I can't wait to
+see what kind of food Asuka Empire
+has in store for us!
+Leafa
 407500401_28_a
-そうすればすぐに忘れられるはずだ
-キリト
+And then we can forget this ever
+happened.
+Kirito
 407500401_27_a
-じゃあアレだな
-なんか美味いもんでも食べて
-感覚を上書きしてやろうぜ
-キリト
+Then all we need to do is find
+something tasty to eat! That'll
+overwrite this sensation!
+Kirito
 407500401_26_a
-キリト
+Kirito
 407500401_25_a
-ううっ、そっかぁ……
-リーファ
+Urgh, okay...
+Leafa
 407500401_24_a
+Pina
 407500401_23_a
-プレイヤーの場合は
-多分時間が経つのを
-待つしかないんじゃないかな
-ユウキ
+They REALLY wanted it to make an
+impression on players. You might
+have to just wait it out.
+Yuuki
 407500401_22_a
+Pina
 407500401_21_a
-シリカ
+Silica
 407500401_20_a
-まぁ別にいいけど匂いが鼻に残る
-感覚って強烈な印象を引きずってる
-だけって言われてるし、
-ユウキ
+I will, but the sensation that
+it's lingering in your nose is
+all by design.
+Yuuki
 407500401_19_a
-ぜひその薬をあたしたちにも……
-リーファ
+Make some for us, while you're
+at it!
+Leafa
 407500401_18_a
-リーファ
+Leafa
 407500401_17_a
-さすが忍者……
-そんなこともできるんだな
-キリト
+Of course you can do that.
+Ninja sure are aamazing!
+Kirito
 407500401_16_a
+Pina
 407500401_15_a
-わあっ、ごめんピナ!
-ちょっと治す薬を調合するから
-待ってて
-ユウキ
+Oh no! Sorry, Pina!
+I'll whip up some
+medicine for you!
+Yuuki
 407500401_14_a
-きゅいいっ……
-きゅいいっ……
+Chirp... Chirp...
+Pina
 407500401_13_a
-そのとおりみたいですね……
-ピナも完全に鼻をやられちゃってる
-みたいですぅ……
-シリカ
+Well, it certainly does the job.
+Even Pina is reeling...
+Silica
 407500401_12_a
-動物型のモンスターは鼻が利くから
-蹴散らしたい時とかあれを使えば
-楽なんだよね
-ユウキ
+The animal-like monsters all have
+sensitive noses, so I reach for
+this when I want 'em gone.
+Yuuki
 407500401_11_a
-シリカ
+Silica
 407500401_9_a
-まぁ臭いには違いないけど慣れかな
-前に遊んでた時もよくやってたしね
-ユウキ
+Eh, it's smelly, but I'm used to
+it, I guess. I've used it for a
+while now.
+Yuuki
 407500401_8_a
+Pina
 407500401_10_a
-キリト
+Kirito
 407500401_7_a
-あの強烈な悪臭……
-ユウキは平気なの?
-リーファ
+How do you not want to puke your
+guts out when you smell that?
+Leafa
 407500401_6_a
+Pina
 407500401_5_a
-シリカ
+Silica
 407500401_4_a
-えへへ
-ごめんごめん
-ユウキ
+Heh heh heh, sorry about the
+smell.
+Yuuki
 407500401_3_a
-リーファ
+Leafa
 407500401_2_a
 bg_event_ayakashi_street
-はあ……
-大変な目に遭った……
-キリト
+gasp
+That was terrible...
+Kirito
 407500401_1_a
-さんせーっ!
-リーファ
+Right behind you!
+Leafa
 407500301_62_a
-ユウキ
+Yuuki
 407500301_61_a
-リーファ
+Leafa
 407500301_60_
-こ、この匂いには耐えられないぞ!
-お、俺たちも退散だー!
-キリト
+hurk
+I can't take it!
+You're driving me away too!
+Kirito
 407500301_59_a
+Pina
 407500301_58_a
-た、助かりましたー!
-でも、く、臭いですーっ!
-シリカ
+You saved me! B-But it
+smells really, really bad!
+Silica
 407500301_57_a
-リーファ
+Leafa
 407500301_56_a
-この強烈な匂いで動物たちは
-退散するはずだよ
-ユウキ
+A smell this offensive ought to
+drive all those animals away!
+Yuuki
 407500301_55_a
-えへへ、そうだよ
-忍だけが使える小道具の一種だね
-ユウキ
+Heh heh, bingo! Just one of many
+items in my Shinobi bag of tricks.
+Yuuki
 407500301_54_a
-こ、これって
-硫黄かなにかの匂い!?
-リーファ
+What the hell is that?! Sulfur?!
+Leafa
 407500301_53_a
-うおっ……なんだこれ?
-なっ、く、臭い!!
-キリト
+Whoa, what's tha--
+hurp
+Augh, it smells like rotten eggs!
+Kirito
 407500301_52_a
-えいっ!
-ユウキ
+Like this!
+Yuuki
 407500301_51_a
-ええと、そういう時は……
-これかな?
-ユウキ
+Desperate times call for desperate
+measures...
+Yuuki
 407500301_50_a
-ユウキ
+Yuuki
 407500301_49_a
-l)}
-キリト
+Kirito
 407500301_48_a
-だ、ダメだ
-聞く耳持たないよ……
-リーファ
+I don't think she could hear you
+over all that screaming...
+Leafa
 407500301_47_a
+Pina
 407500301_46_a
-ひぃぃ～!!
-シリカ
+AHHHHHHHHHHH!
+Silica
 407500301_45_a
-ユウキ
+Yuuki
 407500301_44_a
-リーファ
+Leafa
 407500301_43_a
-それは逃げてるからだって!
-キリト
+They're chasing you because you
+keep running!
+Kirito
 407500301_42_a
+Pina
 407500301_41_a
-そ、そんなこと言われてもー!
-追いかけてくるんですー!
-シリカ
+Why are you still talking?!
+They're chaaasing meee!
+Silica
 407500301_40_a
-ユウキ
+Yuuki
 407500301_39_a
-キリト
+Kirito
 407500301_38_a
-シリカちゃん!
-心配しなくても味方だよ!
-リーファ
+Hang in there, Silica!
+We've got this!
+Leafa
 407500301_37_a
+Pina
 407500301_36_a
-冷静に解説してないで
-助けてくださーいっ!
-シリカ
+Quit trying to explain it and
+heeelp meee alreaaadyyy!
+Silica
 407500301_35_a
-リーファ
+Leafa
 407500301_34_a
-ちゃんとコンバート後も
-生きてるみたいだな
-キリト
+Based on the results, I'm guessing
+it pulled the info from her Cait
+Sith avatar from ALO.
+Kirito
 407500301_33_a
-なるほどな……
-シリカのケットシーとしての熟練度は
-キリト
+Huh. So the game must have
+imported her level data too.
+Kirito
 407500301_32_a
-そしたらこの辺にいた野生の動物が
-シリカに協力するために
-集まってきちゃったんだよ
-ユウキ
+She must've triggered an ability
+that calls all nearby wild animals
+to rush to her aid.
+Yuuki
 407500301_31_a
-ああ、なるほど
-獣使いとしてなにか技を使ったんじゃ
-ないかな?
-ユウキ
+Ahh, I see what's happening here.
+She's a Beastmaster.
+Yuuki
 407500301_30_a
-ユウキ
+Yuuki
 407500301_29_a
-キリト
+Kirito
 407500301_28_a
-なんか……ピナが呆れてるような
-リーファ
+Pina looks pretty stunned...
+Leafa
 407500301_27_a
-シリカ
+8f}
+Silica
 407500301_26_a
-きゅぃぃ……
+Chirp...
+Pina
 407500301_25_a
-リーファ
+Leafa
 407500301_24_a
-あれ……倒しちゃダメ……なのか?
-キリト
+Is she not allowed to hurt them?
+Kirito
 407500301_23_a
-リーファ
+Leafa
 407500301_22_a
-キリト
+0h}
+Kirito
 407500301_21_a
-わわっ、シリカが
-沢山の動物に追われてる!?
-ユウキ
+What're all those animals chasing
+Silica for?!
+Yuuki
 407500301_20_a
-ガルルッ!!
-オオカミ
+Growwwl!
+Wolf
 407500301_19_a
-コケーッコッコッ!
-ニワトリ
+BA-GAWK!
+Chicken
 407500301_18_a
-ブルルッ……!
-イノシシ
+snort
+Boar
 407500301_17_a
+Pina
 407500301_16_a
-シリカ
+Silica
 407500301_15_a
-ヒヒーンッ!
+NEIIIIIGH!
+Horse
 407500301_14_a
-リーファ
+Leafa
 407500301_13_a
-し、シリカ!?
-どうしたんだっ……って
-ええっ!?
-キリト
+Silica! Are you okay?!
+WHOA!
+Kirito
 407500301_12_a
+Pina
 407500301_11_a
-l&}
-み、皆さ～ん!
-た、助けてくださーい!
-シリカ
+hW}
+G-Guys, help!!
+Silica
 407500301_10_a
-おおっ、そうなのか
-ちゃんと差別化してるんだな
-キリト
+Oh, interesting. They've created
+a lot of distinctions between
+the different job varieties.
+Kirito
 407500301_9_a
-斬撃性能はこっちのほうが上だから
-敵の部位破壊を狙いやすいみたい
-リーファ
+...I make up in slashing ability,
+so I'll be able to make some
+surgical strikes on enemies!
+Leafa
 407500301_8_a
-あたしの乙女侍もイイ感じだよ
-腕力は男性アバターには敵わないけど
-リーファ
+I'm liking the Samurai myself!
+What I lack in raw strength
+compared to the male avatars...
+Leafa
 407500301_7_a
-お兄ちゃん、ご満悦だね～
-リーファ
+Heh, somebody's happy!
+Leafa
 407500301_6_a
-やっぱシステムアシスト付きの
-二刀流は楽でいいなぁ～
-キリト
+But I've gotta say, I'm loving the
+ease of dual-wielding with these
+system assists in place!
+Kirito
 407500301_5_a
-よし、倒したぞ!
-感覚としては手数が増える
-SAOの二刀流に近いな
-キリト
+That did it! Combat feels a little
+more complex, almost like dual-
+wielding in SAO.
+Kirito
 407500301_4_a
-ぜあっ!!
-キリト
+HYAH!
+Kirito
 407500301_3_a
-キリト
+Kirito
 407500301_2_a
 bg_02_forest
-ギニャーッ!
+Hngyaaaaah!
+Monster
 407500301_1_a
-シリカ
+Silica
 407500201_37_a
+Pina
 407500201_36_a
-うん!
-リーファ
+0P}
+Sounds good!
+Leafa
 407500201_35_a
-チュートリアルのクエストを
-受けてみようぜ
-キリト
+More importantly, let's get this
+tutorial quest over with!
+Kirito
 407500201_34_a
-そうか
-よし、じゃあみんなのジョブの
-特性を把握しがてら、
-キリト
+Cool! Then let's get to know our
+job classes a bit better.
+Kirito
 407500201_33_a
-キリト
+Kirito
 407500201_32_a
-ボクは忍だね
-素早い動きと隠密行動が得意だよ
-ユウキ
+I'm a Shinobi. I've got speed and
+stealth on my side.
+Yuuki
 407500201_31_a
-シリカ
+Silica
 407500201_30_a
+Pina
 407500201_29_a
-あたしは乙女侍だって
-侍の女性プレイヤー版らしいよ
-リーファ
+I'm a Female Samurai! I guess
+it's slightly different to
+the male avatar.
+Leafa
 407500201_28_a
-ユウキ
+Yuuki
 407500201_27_a
-へぇ～
-ちなみにリーファと
-ユウキのジョブはなんなんだ?
-キリト
+l!}
+Oh, wow. What jobs did you guys
+pick?
+Kirito
 407500201_26_a
-リーファ
+Leafa
 407500201_25_a
+Pina
 407500201_24_a
-はい、ジョブ選択画面で
-獣使いっていうのを選択したら
-連れてこられました
-シリカ
+Yes! I saw a Beastmaster job class
+on the selection screen, and
+picking it let Pina come too.
+Silica
 407500201_23_a
-ユウキ
+Yuuki
 407500201_22_a
-おお、ピナも連れてこられたんだな
-キリト
+Oh, wow, you brought Pina along
+after all.
+Kirito
 407500201_21_a
-きゅいっ!
+Chirp!
+Pina
 407500201_20_a
-えへへ……
-シリカ
+Heh heh, well...
+Silica
 407500201_19_a
-ふふっ、シリカちゃん
-妖怪をピナみたいな竜とか
-動物と一緒くたにしてるんじゃ?
-リーファ
+D%}
+Heh, don't you mean monsters?
+Or do you think they're all little
+animals like Pina?
+Leafa
 407500201_18_a
-dM}
-リーファ
+Leafa
 407500201_17_a
-妖怪さん……
-早く会ってみたいです
-シリカ
+I just want to see all the
+different creatures...
+Silica
 407500201_16_a
-そうだったみたいだな
-事態が急を要することだったんで、
-完全に後回しにしてたよ
-キリト
+Oh, right, I forgot about that.
+I totally skipped over them last
+time because of the situation.
+Kirito
 407500201_15_a
-本来はまずこっちの方で
-色々とチュートリアルこなさなきゃ
-いけないんだけどね
-ユウキ
+Ah, but first there are a lot of
+tutorials to get through.
+Yuuki
 407500201_14_a
-俺は前回、むしろそっちに多くいたな
-まぁそのうち行ってみようぜ
-キリト
+d(}
+Yeah, I did notice a lot of them
+around there last time. We'll
+have to check it out!
+Kirito
 407500201_13_a
-キリト
+Kirito
 407500201_12_a
-うん、そういうタイプのNPCは
-あやかし横丁って場所にいるんだよ
-ユウキ
+Ah yeah, you'll find all of those
+NPCs on Ayakashi Alley.
+Yuuki
 407500201_11_a
-この辺にそんな人は
-見当たらないような……
-シリカ
+I don't see anything like that
+around here...
+Silica
 407500201_10_a
-リーファ
+Leafa
 407500201_9_a
-あれれ……でも確か
-アスカ・エンパイアって
-妖怪さんとかもいるんですよね?
-シリカ
+Really? Doesn't Asuka Empire have
+monsters and ghosts too?
+Silica
 407500201_8_a
-ユウキ
+Yuuki
 407500201_7_a
-はは、そうかもな
-キリト
+Ha ha, I think you're right.
+Kirito
 407500201_6_a
-ホントだねー!
-ええと……あそこみたい!
-京都太秦の映画村!
-リーファ
+I know, right? Oh my gosh, look
+over there! It's the Kyoto Studio
+open film sets!
+Leafa
 407500201_5_a
-リーファ
+Leafa
 407500201_4_a
-すごいです!
-まるで時代劇の世界の中に
-入っちゃったみたいです!
-シリカ
+I can't believe it! It's like
+we've stepped into a period drama!
+Silica
 407500201_3_a
-キリト
+Kirito
 407500201_2_a
 bg_event_ayakashi_street
-わーっ、懐かしいなー!
-ユウキ
+Oh man! So many memories!
+Yuuki
 407500201_1_a
-DX}
-キリト
+Kirito
 407500101_36_a
-よーし!
-じゃあまずはあそこだね!
-首都のキヨミハラへレッツゴー!
-ユウキ
+You got it! First up, the capital!
+Let's head for Kiyomihara!
+Yuuki
 407500101_35_a
-dY}
-リーファ
+Leafa
 407500101_34_a
-はい、お願いします!
-シリカ
+Please do!
+Silica
 407500101_33_a
-じゃあボクが案内してあげよっか
-ユウキ
+Then let me take the lead here!
+Yuuki
 407500101_32_a
-経験値的にはリーファとシリカと
-さほど変わらないよ
-キリト
+Experience-wise, I'm pretty much
+on the same level as you guys.
+Kirito
 407500101_31_a
-ユウキ
+Yuuki
 407500101_30_a
-い、いや俺は前回それほど
-遊び回ったわけじゃないんだ
-キリト
+Don't get the wrong idea. I barely
+scratched the surface last time
+I played.
+Kirito
 407500101_29_a
-リーファ
+Leafa
 407500101_28_a
-じゃあキリトさんとユウキさん
-案内頼みますね!
-シリカ
+Alright, lead the way, you two!
+Silica
 407500101_27_a
-キリト
+Kirito
 407500101_26_a
-うん、懐かしいな～
-ユウキ
+Sure have. Ah, it's good to be
+back!
+Yuuki
 407500101_25_a
-シリカ
+Silica
 407500101_24_a
-ユウキは前にここで
-遊んでたことがあるんだよね!
-リーファ
+That's right, you've played this
+before!
+Leafa
 407500101_23_a
-ふふっ、そうそう
-良いトコ取りというか、
-ごった煮だからね、ここは
-ユウキ
+Heh, yeah. It's basically one big
+historical mashup.
+Yuuki
 407500101_22_a
-ユウキ
+Yuuki
 407500101_21_a
-はは、その辺の時代考証は
-あんまり気にしないほうがいいぞ
-キリト
+d7}
+Ha ha, I wouldn't think too hard
+about the historical background.
+Kirito
 407500101_20_a
-すごいです!
-平安時代ですか?
-それとも江戸時代?
-シリカ
+It's amazing! Is this the Heian
+period? Or Edo?
+Silica
 407500101_19_a
-シリカ
+Silica
 407500101_18_a
 bg_event_ayakashi_street
-おおーっ!
-ここがアスカ・エンパイアかぁ～!
-リーファ
+Wow! So this is that Asuka Empire
+I keep hearing about!
+Leafa
 407500101_17_a
-キリト
+Thanks.
+Kirito
 407500101_16_a
-そっか
-じゃあそれも任せるね
-アスナ
+Really? Well then, good luck.
+Asuna
 407500101_15_a
-もちろんただ遊ぶだけじゃないぞ
-なにか神器やアリスたちを戻す方法が
-ないか調べるつもりだ
-キリト
+I won't just be playing, either.
+I'm going to look for a way to
+get these two home.
+Kirito
 407500101_14_a
-ううん、息抜きだって必要だし
-キリトくんもっとあそこで
-遊びたがってたもんね
-アスナ
+Don't worry about it. We could
+all use a break now and then.
+Besides, I know you want to go.
+Asuna
 407500101_13_a
-そうか、済まないな
-キリト
+P<}
+Are you sure? I feel pretty bad.
+Kirito
 407500101_12_a
-ここはわたしに任せて
-みんなを案内してあげて
-アスナ
+Leave Alice and Eugeo to me.
+Go show everyone around!
+Asuna
 407500101_11_a
-ああ、俺たちの話を聞いたらさ
-みんな自分たちも行きたいって
-言い出してて……
-キリト
+Yeah. Everyone says they want to
+play now that they've heard our
+stories...
+Kirito
 407500101_10_a
-あっ、うん
-わかってるよ
-アスカ・エンパイアだよね
-アスナ
+Hm? Oh, right. You're talking
+about Asuka Empire?
+Asuna
 407500101_9_a
-……そんな中悪いんだけどさ
-キリト
+And, um, I know things are crazy
+right now, but...
+Kirito
 407500101_8_a
-神器はあと一つで見つけられるけど
-二人が元の世界に戻る方法は
-まだ見つからないからね……
-アスナ
+They haven't found a way back to
+their world, even though we've
+found all but one Divine Object.
+Asuna
 407500101_7_a
-………………
-キリト
+...
+Kirito
 407500101_6_a
-そうだね、二人とも
-負荷が大きくなってるのかもしれない
-アスナ
+Yeah... I think all of this is
+really taking its toll on them.
+Asuna
 407500101_5_a
-そうか……
-やっぱり睡眠時間が増えてるな
-キリト
+Hmm... They really are sleeping
+longer these days.
+Kirito
 407500101_4_a
-うん、まだ寝てるよ
-アスナ
+Still sleeping.
+Asuna
 407500101_3_a
-アスナ
+Asuna
 407500101_2_a
 bg_11_home_lounge
-アスナ
-ユージオとアリスは……
-キリト
+How are Alice and Eugeo?
+Kirito
 407500101_1_a
 N-No, c'mon!
 Augh... Looks like our suffering
@@ -2060,6 +2138,7 @@ Kirito
 Good talk!
 Agil
 407401201_20_a
+4D}
 But w-w-wait!
 Kirito
 407401201_19_a
@@ -2067,6 +2146,7 @@ Be sure to tell Rain and Sinon
 and the gang, okay?
 Agil
 407401201_18_a
+HE}
 B-But...!
 Kirito
 407401201_17_a
@@ -2136,7 +2216,6 @@ bg_event_tree_snow_christmas
 Nice work, Kirito.
 Agil
 407401201_1_a
-DX}
 Exactly!
 Kirito
 407401101_34_a
@@ -2149,6 +2228,7 @@ Makes sense! All of us have pretty
 powerful sword skills as well.
 Rain
 407401101_32_a
+lS}
 The kind that rounds the monsters
 up for easy killing!
 Kirito
@@ -2156,7 +2236,6 @@ Kirito
 Huh? What kind of plan is that?
 Yuuki
 407401101_30_a
-,(}
 Quick, guys. Gather all the food
 and ingredients in one place!
 Kirito
@@ -2165,7 +2244,6 @@ Is that it? Then let's use that to
 our advantage.
 Kirito
 407401101_28_a
-l2}
 Ah, that must be why there are so
 many of them.
 Rain
@@ -2175,6 +2253,7 @@ They must have smelled it and
 come running.
 Yuuki
 407401101_26_a
+4W}
 How are they different?
 Kirito
 407401101_25_a
@@ -2196,13 +2275,13 @@ It's total chaos, despite the
 number of players around.
 Rain
 407401101_20_a
+XG}
 Never better!
 Yuuki
 407401101_19_a
 You okay, Yuuki?
 Kirito
 407401101_18_a
-X6}
 Kirito! Rain!
 Yuuki
 407401101_17_a
@@ -2223,7 +2302,6 @@ Rain
 W-Well...
 Player B
 407401101_12_a
-p2}
 Stay back if you're too tired
 to fight! We've got this!
 Kirito
@@ -2251,6 +2329,7 @@ Player B
 Graaaagh!
 Monster
 407401101_3_a
+P }
 What?!
 Player B
 407401101_2_a
@@ -2258,11 +2337,14 @@ bg_event_tree_snow_christmas
 Augh!
 Player B
 407401101_1_a
+h!}
 )rH
 )rH
 Konechno! Right behind you!
 Rain
 407401001_30_a
+T"}
+8e}
 )rH
 I'm pumped just thinking about it!
 Time to shine, Rain! C'mon!
@@ -2280,6 +2362,8 @@ Rain
 Then that means it's up to us!
 Kirito
 407401001_26_a
+t$}
+Xg}
 )rH
 Oh yeah...
 Kirito
@@ -2289,11 +2373,13 @@ People are really in no shape
 to fight right now!
 Rain
 407401001_24_a
+,'}
 )rH
 Now combine that with all the
 dancing Agil's been encouraging!
 Rain
 407401001_23_a
+0&}
 )rH
 The attack was so sudden that
 it caught a lot of people off
@@ -2311,6 +2397,7 @@ monsters here to overwhelm
 all these players?
 Kirito
 407401001_20_a
+<(}
 )rH
 Yuuki's single-handedly fending
 them off, but that won't last!
@@ -2327,6 +2414,7 @@ Rain
 )rH
 Kirito
 407401001_16_a
+Dt}
 )rH
 Kirito! Rain! This way!
 Liz
@@ -2353,7 +2441,6 @@ Silica
 )rH
 Sinon
 407401001_9_a
-hW}
 )rH
 Kirito
 407401001_8_a
@@ -2363,11 +2450,11 @@ We're outside the safe zone
 after all!
 Rain
 407401001_7_a
+,.}
 )rH
 Do you think something's happened?
 Sinon
 407401001_6_a
-,E}
 )rH
 Was that someone screaming?
 Kirito
@@ -2386,10 +2473,11 @@ bg_event_tree_snow_christmas
 Ahhhhhhhhh!
 Players
 407401001_1_a
+h1}
+02}
 Heh...
 Rain
 407400901_37_a
-PH}
 I think our presents made us look
 even more out of place in the end.
 Kirito
@@ -2398,7 +2486,7 @@ Say something, Kirito!
 This is getting depressing!
 Sinon
 407400901_35_a
-4	}
+,3}
 ...
 Kirito
 407400901_34_a
@@ -2407,21 +2495,21 @@ shaved ice. Not that I need it
 at this time of year.
 Rain
 407400901_33_a
+X4}
 I don't know why anyone would
 ever want that, though...
 Sinon
 407400901_32_a
-P	}
 I got an umbrella that apparently
 rains on you from the inside
 when you open it...
 Sinon
 407400901_31_a
-H	}
 I got glasses that give you a
 funny face when you equip them.
 Kirito
 407400901_30_a
+d6}
 If you say so. So, what'd
 everybody get in return?
 Kirito
@@ -2430,6 +2518,7 @@ Eh, it happens. Don't worry about
 it. I'm fine.
 Rain
 407400901_28_a
+Hg}
 That's just rude!
 Sinon
 407400901_27_a
@@ -2437,16 +2526,19 @@ What?! Who says that at a gift
 swap?!
 Kirito
 407400901_26_a
+P:}
 She was pretty happy with it.
 Said she could sell it for a lot
 of money...
 Rain
 407400901_25_a
+X9}
 Sinon
 407400901_24_a
 Oh, a woman got my present.
 Rain
 407400901_23_a
+8:}
 What did the person who got your
 gift say, Rain?
 Kirito
@@ -2462,6 +2554,7 @@ Sinon
 Aw, that's a shame.
 Rain
 407400901_19_a
+8>}
 I shot him down, of course.
 Sinon
 407400901_18_a
@@ -2481,6 +2574,7 @@ Sinon
 Oh yeah?
 Rain
 407400901_13_a
+0o}
 The player who got my gift found
 me.
 Sinon
@@ -2516,10 +2610,12 @@ between the Cait Sith and Pooka
 territories.
 Kirito
 407400901_5_a
+TF}
 It's incredible! Where'd you find
 it?
 Player A
 407400901_4_a
+DE}
 W-Well...
 Kirito
 407400901_3_a
@@ -2530,6 +2626,7 @@ Did you give me this antique?
 Player A
 407400901_1_a
 aqH
+<G}
 aqH
 Finally. Let's get this over with.
 Sinon
@@ -2544,13 +2641,16 @@ aqH
 It's starting!
 Kirito
 407400801_35_a
+<W}
 aqH
 Here comes the beat!
 Agil
 407400801_34_a
+lI}
 aqH
 Rain
 407400801_33_a
+lS}
 aqH
 Sinon
 407400801_32_a
@@ -2560,24 +2660,26 @@ also be useful for showing you
 what you don't like.
 Kirito
 407400801_31_a
+tL}
 aqH
 I think I'd just die if I went
 to a club in real life.
 Sinon
 407400801_30_a
+pK}
+8L}
 aqH
 Me neither. I get the feeling I'm
 getting off easy, having only
 experienced this virtual club.
 Sinon
 407400801_29_a
-p!}
+<L}
 aqH
 I never think to go to clubs
 in real life.
 Rain
 407400801_28_a
-(!}
 aqH
 Ha ha, I don't think so. It's been
 an interesting experience, though.
@@ -2598,23 +2700,26 @@ Because he looks like a totally
 different person up there.
 Sinon
 407400801_24_a
+xO}
 aqH
 Is this the same Agil that tends
 the quiet little cafe we go to?
 Sinon
 407400801_23_a
+$P}
 aqH
 Rain
 407400801_22_a
+lP}
 aqH
 Sinon
 407400801_21_a
-8g}
 aqH
 So these are the "party people"
 I keep hearing about.
 Kirito
 407400801_20_a
+hQ}
 aqH
 Agil
 407400801_19_a
@@ -2622,24 +2727,24 @@ aqH
 Alriiiiiight!
 Players
 407400801_18_a
+0R}
 aqH
 And we've got a little club area
 for anyone who wants to keep
 the party rolling after the swap!
 Agil
 407400801_17_a
-,(}
 aqH
 That's not all, though! We've got
 food, drinks, and performances
 coming your way too!
 Agil
 407400801_16_a
-H'}
 aqH
 Woooooooo!
 Players
 407400801_15_a
+0T}
 aqH
 Is the present you get! It's just
 that simple. Now get ready to
@@ -2655,6 +2760,7 @@ Agil
 aqH
 Yuuki
 407400801_12_a
+Pd}
 aqH
 Ha ha, everyone's having such a
 good time! This was totally worth
@@ -2666,15 +2772,18 @@ Whoa, Silica! Way to just come out
 and say it!
 Yuuki
 407400801_9_a
+0W}
 aqH
 Alicia
 407400801_10_a
-,+}
+dX}
 aqH
 I know it's a long shot, but I
 hope I get Kirito's gift! Hehe...
 Silica
 407400801_8_a
+LX}
+DX}
 aqH
 Silica
 407400801_7_a
@@ -2682,7 +2791,6 @@ aqH
 Hehe, I can't wait!
 Liz
 407400801_6_a
-X6}
 aqH
 Agil
 407400801_5_a
@@ -2690,12 +2798,12 @@ aqH
 Yeaaaaaah!!
 Players
 407400801_4_a
-p-}
-Ly}
 aqH
 It's time for the gift swap!
 Agil
 407400801_3_a
+hZ}
+0[}
 aqH
 Let's move on to today's main
 event!
@@ -2706,50 +2814,44 @@ bg_event_tree_snow_christmas
 Ladies and gentlemen!
 Agil
 407400801_1_a
-8/}
 Hnnng. Out. I want out.
 Sinon
 407400701_54_a
-D0}
 Can't they wait for the event
 to start? I can even see a mob
 of couples forming.
 Rain
 407400701_53_a
+p]}
 They'll probably play it during
 the event too... Ugh, people
 are already dancing.
 Rain
 407400701_52_a
-44}
 Because I'm thinking they really
 shouldn't have...
 Sinon
 407400701_51_a
-X2}
-<u}
 Are they trying to get everyone
 fired up for this event?
 Sinon
 407400701_50_a
+p_}
 I guess it's basically an amp now.
 Rain
 407400701_49_a
-T4}
 It sounds like club music...
 They're using magic to boost
 the sound from that, uh...thing.
 Rain
 407400701_48_a
-T4}
-L4}
 Rain
 407400701_47_a
 What is that music?
 I'm just noticing it now.
 Sinon
 407400701_46_a
-H5}
+hk}
 Liz
 407400701_45_a
 W-Well...
@@ -2759,51 +2861,46 @@ Liz
 407400701_43_a
 Kirito
 407400701_42_a
-t7}
 There's plenty to help out with,
 too! Cooking, tent construction,
 you name it!
 Agil
 407400701_41_a
-h7}
-Lz}
 Just come help us get ready!
 Silica
 407400701_40_a
+dd}
 Sinon
 407400701_39_a
-<8}
 Rain
 407400701_38_a
 Yeah, now's not the time
 for jokes, you guys!
 Silica
 407400701_37_a
-,9}
 Alicia
 407400701_36_a
 Whoa, guys! Don't kid
 around like that!
 Yuuki
 407400701_35_a
+,p}
 Rain
 407400701_34_a
 I, uh...just remembered I have
 a thing to do...in real life...
 Sinon
 407400701_33_a
+xg}
 Silica
 407400701_32_a
 Sinon
 407400701_31_a
-Xk}
 An event with 150 people...
 My stomach is tying itself
 in knots...
 Rain
 407400701_30_a
-X<}
-T<}
 Agil
 407400701_29_a
 Liz
@@ -2819,13 +2916,11 @@ That's not many for a cross-race
 event, though.
 Alicia
 407400701_25_a
-HH}
 Liz
 407400701_24_a
 Including you guys, that's a safe bet.
 Agil
 407400701_23_a
-t?}
 Whoa! That's a ton of people...
 There must be almost a hundred!
 Kirito
@@ -2838,17 +2933,14 @@ They're all in that tent over
 there. See 'em?
 Agil
 407400701_19_a
-PA}
-LA}
 Rain
 407400701_18_a
 Silica
 407400701_17_a
+(o}
 So where's everyone else?
 Sinon
 407400701_16_a
-xB}
-tB}
 Liz
 407400701_15_a
 Kirito
@@ -2856,36 +2948,32 @@ Kirito
 She's right! Just leave it to me!
 Agil
 407400701_13_a
-lD}
 That's for sure. He's great at
 cooking in real life too!
 Rain
 407400701_12_a
-LD}
 Be nice, Liz. At least we know the
 food will be tasty!
 Silica
 407400701_9_a
+Hq}
 Sinon
 407400701_11_a
-$E}
 Rain
 407400701_10_a
 What'd you say?
 Agil
 407400701_8_a
+xr}
 Or when you need to offload a job
 nobody else wants to do...
 Liz
 407400701_7_a
-tG}
 Who else are you gonna call when
 you need a popular guy who can
 also cook?
 Agil
 407400701_6_a
-dG}
-,H}
 Part of it? I'm organizing this
 on behalf of the Gnomes!
 Agil
@@ -2903,12 +2991,11 @@ Hey, you finally made it!
 We've been waiting for you.
 Agil
 407400701_1_a
-tJ}
-pJ}
 Sinon
 407400601_53_a
 Kirito
 407400601_52_a
+Lx}
 Heh...
 Rain
 407400601_51_a
@@ -2922,7 +3009,7 @@ Rain
 S-Sorry 'bout that...
 Kirito
 407400601_47_a
-4M}
+H{}
 whisper
 whisper
 Geez! What
@@ -2930,12 +3017,14 @@ do you think will happen if they
 find out!
 Sinon
 407400601_46_a
+Xz}
 Oh, you know, nothing really!
 Ha ha!
 Kirito
 407400601_45_a
 Kirito
 407400601_44_a
+4{}
 Rain
 407400601_43_a
 Kirito!
@@ -2947,10 +3036,9 @@ People like us? What's that
 supposed to mean?
 Liz
 407400601_40_a
-xP}
-0Z}
 Rain
 407400601_39_a
+4}}
 Rain
 407400601_38_a
 Sinon
@@ -2995,13 +3083,11 @@ Do you really want us to spoil
 the surprise?
 Sinon
 407400601_24_a
-tW}
 Silica
 407400601_23_a
 Oh, really? What'd you get?
 Yuuki
 407400601_22_a
-LX}
 Rain
 407400601_21_a
 Rain
@@ -3037,7 +3123,6 @@ Rain
 Is everything okay here?
 Sinon
 407400601_7_a
-xg}
 Rain
 407400601_10_a
 Welcome back!
@@ -3048,8 +3133,6 @@ Yuuki
 Oh, hi guys!
 Silica
 407400601_4_a
-t_}
-(i}
 Rain
 407400601_3_a
 Sinon
@@ -3059,7 +3142,6 @@ We're back.
 Kirito
 407400601_1_a
 5pH
-Xa}
 5pH
 Okay!
 Kirito
@@ -3069,7 +3151,6 @@ Understood. Let's head for the
 village, then.
 Sinon
 407400501_54_a
-hb}
 5pH
 Yeah, I think that was Asuna's
 point too.
@@ -3080,7 +3161,6 @@ You'd have to get something
 that people could easily use.
 Rain
 407400501_52_a
-He}
 5pH
 Everyone uses in-game items
 differently, though.
@@ -3090,13 +3170,11 @@ Rain
 Ha ha, I hear you.
 Kirito
 407400501_50_a
-df}
 5pH
 I dunno. I'd still just be happy
 with something I can use in-game.
 Sinon
 407400501_49_a
-le}
 5pH
 or at the very least not be
 a total disappointment.
@@ -3113,8 +3191,6 @@ a little confused if I got one
 myself, to be honest.
 Kirito
 407400501_46_a
-dg}
-,h}
 5pH
 They don't sound like fair or
 festival prizes, but they're
@@ -3126,7 +3202,6 @@ Antique furniture, eh?
 Sounds like it's worth a shot.
 Sinon
 407400501_44_a
-<k}
 5pH
 The town sprang up around these
 craftsmen, and they sell rare
@@ -3139,7 +3214,6 @@ countryside that sells lots
 of handmade crafts.
 Kirito
 407400501_42_a
-8j}
 5pH
 Good-looking?
 Rain
@@ -3149,7 +3223,6 @@ Yeah. I found a good-looking
 town around here.
 Kirito
 407400501_40_a
-Lk}
 5pH
 Are we going to be able to find
 decent presents somewhere in
@@ -3166,12 +3239,9 @@ Sinon
 Okay.
 Rain
 407400501_37_a
-,m}
-(m}
 5pH
 Rain
 407400501_36_a
-tm}
 5pH
 Sinon
 407400501_35_a
@@ -3180,7 +3250,6 @@ Ha ha, believe me, I know!
 Let's go, you two!
 Kirito
 407400501_34_a
-hn}
 5pH
 You can't participate without a
 present, you know!
@@ -3190,7 +3259,6 @@ Liz
 Hurry up, guys!
 Liz
 407400501_32_a
-xo}
 5pH
 Totally! Silica and the others
 will be staying behind.
@@ -3241,7 +3309,6 @@ Rain
 5pH
 Rain
 407400501_18_a
-(u}
 5pH
 Sinon
 407400501_17_a
@@ -3250,7 +3317,6 @@ Sorry, guys, would you mind if we
 stepped out for a second?
 Kirito
 407400501_16_a
-(v}
 5pH
 Ha ha! Is that so?
 Liz
@@ -3269,8 +3335,6 @@ other races headed for Gnome
 territory too!
 Silica
 407400501_12_a
-Px}
-Hx}
 5pH
 Yuuki
 407400501_11_a
@@ -3297,8 +3361,6 @@ here, I'm not so confident we'll
 be able to cook what we catch.
 Yuuki
 407400501_6_a
-x{}
-p{}
 5pH
 Yuuki
 407400501_5_a
@@ -3307,7 +3369,6 @@ Yep! Maybe we should go find some
 more ingredients.
 Silica
 407400501_4_a
-0}}
 5pH
 It's just a little further to
 Gnome territory.
@@ -90930,411 +90991,401 @@ bg_11_home_lounge
 Any day now...
 Kirito
 1840011_1_a
-キリト
+Will do.
+Kirito
 1650058_27_a
-そうかい
-じゃあまぁ気が向いたらまた来てくれ
-剣道プレイヤー
+Ah, I suppose that's fair. Come
+back if you change your mind!
+Kendo Player
 1650058_26_a
-そうだな……今はせっかく訪れた
-この世界の色んな要素を
-まんべんなく楽しみたいからな
-キリト
+She's right. We should probably
+see what else this world has
+to offer us first.
+Kirito
 1650058_25_a
-ええと
-剣道は現実でもやってるんで……
-遠慮しておきます
-リーファ
+I, uh, get enough kendo in real
+life, thanks...
+Leafa
 1650058_24_a
-それにしても君たち、なかなかやるね
-もし良ければうちのギルドに入らない？
-剣道プレイヤー
+You know, you both can really
+handle yourselves. Would you
+like to join our guild?
+Kendo Player
 1650058_23_a
-助かったよ
-ありがとう……
-剣道プレイヤー
+You really saved us there.
+Thank you.
+Kendo Player
 1650058_22_a
-……ふう
-キリト
+Whew...
+Kirito
 1650058_21_a
-ああ、また腕を磨いて来るぜ
-今度こそ道場破りを
-成功させてみせるからな!
-道場荒らし
+This time. I'll keep training,
+though. I'll take this dojo over
+yet!
+Challenger
 1650058_20_a
-でも勝負はあたしたちの勝ちだよ!
-リーファ
+We still won, though!
+Leafa
 1650058_19_a
-お前こそ……
-そのならず者ってジョブの
-腕力と耐久力……半端ないな
-キリト
+Same to you. You Thugs have pretty
+high strength and stamina.
+Kirito
 1650058_18_a
-ぐっ……やるな……
-お前たち……
-道場荒らし
+Urgh... You two... You're good...
+Challenger
 1650058_17_a
-キリト
+Kirito
 1650058_16_a
-あたしも戦うよ!
-リーファ
+Don't forget about me!
+Leafa
 1650058_15_a
-ああ!
-キリト
+I hope so!
+Kirito
 1650058_14_a
-だがバトルの方はそうはいかないぜ
-真剣勝負でやらせてもらう!
-道場荒らし
+I'll be on point for our fight,
+though!
+Challenger
 1650058_13_a
-おおっと、せっかく役になり切って
-演じてたのによ……
-まあその辺は半端で済まないな
-道場荒らし
+Argh, and I worked so hard to get
+in character for this role!
+Could've been worse, I guess.
+Challenger
 1650058_12_a
-はは、なんだか道場破りっぽくない
-台詞回しになってきてるぜ
-キリト
+Hah! You don't sound like any dojo
+challenger I've ever heard.
+Kirito
 1650058_11_a
-悪く思うなよ
-道場破りを成功させることで
-色んなポイントがゲットできるんだ
-道場荒らし
+I'm not totally evil. If you let
+me smash up this dojo, there might
+be some points in it for you.
+Challenger
 1650058_10_a
-色々な所で対立の図式を
-作ってるってことなんだね
-リーファ
+Looks like AE leaves plenty of
+room for conflict, just like ALO.
+Leafa
 1650058_9_a
-やっぱりPvP要素ってことだね
-アスナさんから義賊ジョブもあるって
-話を聞いたけどこのAEもALOみたいに
-リーファ
+Yep, this is totally a PvP thing.
+Asuna said there's a Noble Thief
+job class too.
+Leafa
 1650058_8_a
-オレのジョブはならず者さ
-この和風VRMMOには望んで
-悪役になる奴らもいるからな
-道場荒らし
+Every VRMMO needs thugs, right?
+Well, here I am! It's a dirty job,
+but someone's gotta do it!
+Challenger
 1650058_7_a
-まぁそんなところだな
-お前はなんのために道場荒らしなんて
-してるんだ?
-キリト
+Yeah, more or less. What do you
+get out of smashing up all these
+dojos?
+Kirito
 1650058_6_a
-ん……用心棒か?
-武道家たちの武道の心得が減るのを
-守ろうってのか?
-道場荒らし
+Eh? So you're their security?
+You tryin' to keep them from
+losing their precious budo smarts?
+Challenger
 1650058_5_a
-悪いけど違うんだ
-でも彼らの代わりに俺が戦うよ
-キリト
+No, but I intend to fight for
+them just the same.
+Kirito
 1650058_4_a
-リーファ
+Leafa
 1650058_3_a
-キリト
+Kirito
 1650058_2_a
 bg_15_kirigaya_dojo
-なんだ、お前は!
-この道場のもんか!?
-道場荒らし
+What's your deal? You belong to
+this crappy dojo?
+Challenger
 1650058_1_a
-えっ?
-キリト君!?
-リーファ
+Are you serious?! Kirito, wait!
+Leafa
 1650057_20_a
-よし、リーファ
-出番だぞ
-キリト
+Sounds like we need to step up,
+Leafa.
+Kirito
 1650057_19_a
-そうなんですね……
-リーファ
+Wow...
+Leafa
 1650057_18_a
-いや、武道のギルドに参加した者
-のみに付加されると聞いているよ
-剣道プレイヤー
+No, only the players in this guild
+have it as far as I know.
+Kendo Player
 1650057_17_a
-そのパラメーターは
-全プレイヤーに付いてるのか?
-キリト
+Do all players have this stat?
+Kirito
 1650057_16_a
-運値や様々な技能値、熟練度に
-わずかに作用すると言われているね
-剣道プレイヤー
+It influences your luck and
+various abilities, which in turn
+slightly affects your level.
+Kendo Player
 1650057_15_a
-武道の心得……
-どんな影響があるんだ?
-キリト
+What effect does that stat have?
+Kirito
 1650057_14_a
-隠しパラメーターである
-武道の心得という数値が
-減るって言われてるんだよ
-剣道プレイヤー
+And I've heard there's a hidden
+stat for budo knowledge that
+decreases each time we do that.
+Kendo Player
 1650057_13_a
-もちろんああいう道場荒らしと
-戦うことは可能なんだけど、
-理を破って戦ってしまうと
-剣道プレイヤー
+Of course we can fight someone who
+kicks in the door of our dojo, but
+we still break rules when we do.
+Kendo Player
 1650057_12_a
-まぁ現実だとそうだよな……
-キリト
+It's the same in real life too.
+Kirito
 1650057_11_a
-経験者が素人と
-争うわけにはいかないし
-私闘は武道の理に反するからね
-剣道プレイヤー
+Even setting aside the experience
+gap, budo was never meant to
+settle personal squabbles.
+Kendo Player
 1650057_10_a
-いや、基本的に武道というのは
-正式な試合でなければ
-その行為は危険だから禁止されている
-剣道プレイヤー
+No, it's not that. Unsanctioned
+fighting is strictly forbidden in
+budo. It's too dangerous.
+Kendo Player
 1650057_9_a
-勝てなさそうなのか?
-キリト
+Are the odds not in your favor?
+Kirito
 1650057_8_a
-ああ、そうなんだ
-でも困ったな……
-剣道プレイヤー
+Yeah, and it's causing us a lot
+of trouble.
+Kendo Player
 1650057_7_a
-PvP要素なのかな……?
-リーファ
+Is this a PvP thing?
+Leafa
 1650057_6_a
-そうだよ、道場を開いてる
-プレイヤーに対して時々ああやって
-挑戦してくる人たちがいるんだ
-剣道プレイヤー
+A player. We get these kinds of
+challengers every once in a while.
+Kendo Player
 1650057_5_a
-リーファ
+Leafa
 1650057_4_a
-あれはNPC……
-いやプレイヤー?
-キリト
+Is that an NPC or a player?
+Kirito
 1650057_3_a
-師範はどいつだ!?
-そいつを倒してここの看板は
-もらってやるからな!
-道場荒らし
+Who's in charge here?! I'll take
+him down and claim this dumpy
+dojo for myself!
+Challenger
 1650057_2_a
 bg_15_kirigaya_dojo
-こんな道場は
-オレがぶっ壊してやるぜ!
-道場荒らし
+This dojo is mine now!
+Challenger
 1650057_1_a
-道場荒らし?
-キリト
+That actually happens here?
+Kirito
 1650055_20_a
-あれはまさか……
-道場荒らし……?
-剣道プレイヤー
+What in the world...?
+Is this a challenger?
+Kendo Player
 1650055_19_a
-道場の入り口で
-大声出してる人がいる……
-リーファ
+Someone's making a scene at the
+entrance.
+Leafa
 1650055_18_a
-なんだ?
-キリト
+What's that about?
+Kirito
 1650055_17_a
-オラアアアーッ!!!
+HYAAAAHHHH!
 ???
 1650055_16_a
-悪いね……
-剣道プレイヤー
+Sorry about that.
+Kendo Player
 1650055_15_a
-ううっ……残念だけどそうみたいだね
-仮想世界で竹刀握ってみたかったのに
-リーファ
+Aww... Yeah, I guess you're right.
+I really wanted to pick up a
+practice sword, though.
+Leafa
 1650055_14_a
-リーファ、今日ばかりは
-諦めたほうが良さそうだな
-キリト
+You heard him. Let's not press our
+luck today, Leafa.
+Kirito
 1650055_13_a
-その辺も武道としての礼節を
-わきまえてる感じだな
-キリト
+Man, they even follow proper budo
+protocols. Are there any details
+they haven't nailed?
+Kirito
 1650055_12_a
-あっ、なるほど……
-それはそうですよね
-リーファ
+Ah, okay... That's fair.
+Leafa
 1650055_11_a
-していることもあるんだけど、
-今日は一応新年の大切な催し物なんだ
-部外者は見学のみってことなんだよ
-剣道プレイヤー
+But seeing as this is our first
+practice of the year, I'm gonna
+ask that you just watch.
+Kendo Player
 1650055_10_a
-うーん、弱ったな
-普段はそうやってギルド以外の人も
-招いて体験会みたいなのを
-剣道プレイヤー
+Hmph, not too confident, eh?
+Well, we do hold sessions for
+non-members every so often...
+Kendo Player
 1650055_9_a
-現実でかじった程度は……
-キリト
+In real life... Just a little.
+Kirito
 1650055_8_a
-えっ……?
-君たち経験者なのかい?
-剣道プレイヤー
+Oh yeah? Do you two have any
+experience?
+Kendo Player
 1650055_7_a
-あのー、すみません
-この人が練習に参加したいって
-言ってるんですけどできますか?
-リーファ
+Hey, Mr...uh, Man! This guy says
+he wants to join the practice.
+Is that okay?
+Leafa
 1650055_6_a
-そ、そんなことは……
-キリト
+I mean...
+Kirito
 1650055_5_a
-そういうお兄ちゃんこそ
-あの練習に加わりたいって
-思ってるんじゃないの?
-リーファ
+Well, what about you?
+Leafa
 1650055_4_a
-スグ、うずうずしてるだろ
-キリト
+You want to get in there and mix
+it up, don't you?
+Kirito
 1650055_3_a
-キリト
+Kirito
 1650055_2_a
 bg_15_kirigaya_dojo
-………………
-リーファ
+...
+Leafa
 1650055_1_a
-はは、それはありがとう
-思う存分楽しんでいってくれ
-剣道プレイヤー
+Thanks for sayin' so! Now go on,
+enjoy yourselves!
+Kendo Player
 1650053_20_a
-仮想世界だと思えないくらいだよ
-見ごたえあるな～
-リーファ
+This almost feels too real to be
+VR. I'm impressed.
+Leafa
 1650053_19_a
-ホントだね～
-みんな型や練習の手順も
-しっかりしてて
-リーファ
+I know, it's crazy. Right down to
+the forms and flow of training.
+Leafa
 1650053_18_a
-へぇ……
-さすが和風ゲームなだけあって
-武道も本格的にやってる感じだな
-キリト
+Wow, this game is Japanese to the
+core. Even their kendo practice
+is the real deal.
+Kirito
 1650053_17_a
-楽しめると思うよ
-剣道プレイヤー
+It should be entertaining!
+Kendo Player
 1650053_16_a
-今は新年の初稽古中なんだ
-他の道場プレイヤーも加わって
-模擬戦も行われているから
-剣道プレイヤー
+It's our first practice of the new
+year, so we're sparring with
+members from a rival dojo.
+Kendo Player
 1650053_15_a
-もちろんさ
-好きなだけ見学していってくれ
-剣道プレイヤー
+Of course! Watch all you want!
+Kendo Player
 1650053_14_a
-あっ、はい
-いいですか?
-キリト
+Oh, uh, yeah. Is that okay?
+Kirito
 1650053_13_a
 bg_15_kirigaya_dojo
-やあ、見学かい?
+Hi there. You here to watch?
 ???
 1650053_12_a
-リーファ
+Leafa
 1650053_11_a
-うん!
-リーファ
+Yeah, I'm sure he would!
+Leafa
 1650053_10_a
-活気づいてるな
-剣道ギルドとかなのかもな
-ちょっと見学させてもらうか
-キリト
+Looks like it's a pretty active
+kendo guild. Want to stay and
+watch for a bit?
+Kirito
 1650053_9_a
-メェーーンッ!!
-ドオーッ!!
+HMPH! HAHHH!
 ???
 1650053_8_a
-わっ、剣道だね
-やってる競技まで一緒だ!
-リーファ
+Whoa, kendo! It's like they've
+been spying on us!
+Leafa
 1650053_7_a
-メェーーンッ!!
+HYAH!
 ???
 1650053_6_a
-でも中でなにやってるんだろ……?
-キリト
+But what's going on inside?
+Kirito
 1650053_5_a
-まぁ道場の造りなんて
-どこも似たような感じだからな
-キリト
+Well, if you've seen one dojo,
+you've seen most of them, I guess.
+Kirito
 1650053_4_a
-あらら……
-まさかウチに似た建物まで
-あるなんてね……
-リーファ
+Okay, that's a little creepy.
+I didn't think we'd see a building
+that looks EXACTLY like our house.
+Leafa
 1650053_3_a
-リーファ
+Leafa
 1650053_2_a
 bg_15_kirigaya_home
-ん、あの道場……!?
-キリト
+Wait a second. That dojo...
+Kirito
 1650053_1_a
-うん、面白そう!
-やってみようよ!
-リーファ
+Yeah, sounds like fun!
+Let's go!
+Leafa
 1650051_16_a
-二人で探してみようぜ!
-キリト
+Want to go find out?
+Kirito
 1650051_15_a
-よし、じゃあ今から
-どれだけうちの近所にあるのと
-似た町並みが見つけられるか
-キリト
+I wonder just how many things
+in this area look like places
+near our house.
+Kirito
 1650051_14_a
-あ、ホントだ
-それにあそこのお茶屋さんも
-見たことある気がする!
-リーファ
+It totally is! And that tea shop
+looks pretty familiar too!
+Leafa
 1650051_13_a
-ほら、あそこにある土産物屋なんて
-うちの近くのあの店にそっくりだ
-キリト
+Like that souvenir shop over
+there. It's a dead ringer for the
+shop by our house.
+Kirito
 1650051_12_a
-ああ……なんかちゃんと観察すると
-ますます似てる気がしてきたな
-キリト
+For sure. And the closer I look,
+the more similarities I notice.
+Kirito
 1650051_11_a
-あはは、キリト君はこれまで
-SAO、ALO、GGOと和風とは
-無縁の世界にいたもんね
-リーファ
+Hehe, yeah. SAO, ALO, and GGO
+are about as far from Japan-
+themed as you can get.
+Leafa
 1650051_10_a
-はは、そうだな
-そう考えるとこれまで全く無縁だった
-この世界観にも親近感が湧いてきたぞ
-キリト
+Yeah, you're spot on there. No
+wonder I feel more connected
+to this game world.
+Kirito
 1650051_9_a
-和風VRMMOにある
-こんな感じの城下町を歩いてたら
-既視感するのも当然だよ
-リーファ
+Of course you're going to get deja
+vu wandering around a castle town
+in a Japan-themed VRMMO.
+Leafa
 1650051_8_a
-まぁ川越って昔から
-小江戸って言われてるくらいの
-観光地だからね
-リーファ
+I'm not surprised. Kawagoe is a
+famous historical town. People
+call it Little Edo for a reason.
+Leafa
 1650051_7_a
-……!
-言われてみればそうか
-キリト
+Whoa, now that you mention it...
+You're right!
+Kirito
 1650051_6_a
-ああ、それってうちの近所でしょ?
-リーファ
+Oh yeah, it does kind of look like
+our neighborhood.
+Leafa
 1650051_5_a
-この街並みって
-どっかで見たことがあるような……
-キリト
+I can't shake the feeling that
+this town looks familiar.
+Kirito
 1650051_4_a
-どうしたの?
-お兄ちゃ……キリト君
-リーファ
+What's up, Kirito?
+Leafa
 1650051_3_a
-リーファ
+Leafa
 1650051_2_a
 bg_event_ayakashi_street
-……うーん
-キリト
+Hmm...
+Kirito
 1650051_1_a
 Hehe, you're right! I'll have to
 give him a thank-you hug!
@@ -124755,393 +124806,411 @@ bg_05_agil_shop
 Hey, Agil.
 Kirito
 940011_1_a
-きゅい!
+Chirp!
+Pina
 850068_31_a
-もう仕方ない子ね
-じゃああたしたちも実力をつけて、
-いつかあの龍さんに会いにいこうね
-シリカ
+Oh, Pina, what am I gonna do with
+you? Okay, we'll go see the dragon
+again once we're stronger.
+Silica
 850068_30_a
-シリカ
+Silica
 850068_29_a
-きゅる
+Chirp chirp!
+Pina
 850068_28_a
-アスナ
+Asuna
 850068_27_a
-あはは、ピナにとってのあの龍は
-もしかしたら憧れの存在とかに
-なっちゃったのかもね～
-ユウキ
+Ha ha, I think Pina might want to
+grow up to BE that dragon!
+Yuuki
 850068_26_a
-きゅる!
+Chirp!
+Pina
 850068_25_a
-ピナ?
-もしかして伝説の龍さんに
-また会いたいの?
-シリカ
+What's that, Pina? You want to
+see the dragon again too?
+Silica
 850068_24_a
-シリカ
+Silica
 850068_23_a
-きゅいーっ!
+Chiiiirp!
+Pina
 850068_22_a
-うん!
-ユウキ
+Yeah, I'm sure he would!
+Yuuki
 850068_21_a
-きっとキリトくんも
-やりたいって言うに決まってるから
-アスナ
+I know Kirito would be on board
+with that plan.
+Asuna
 850068_20_a
-いつか実力をつけて自信もでてきたら
-レイドパーティでも組んで
-挑戦してみましょう
-アスナ
+but I'd like to get a raid party
+together and take a run at it
+once we get our feet under us.
+Asuna
 850068_19_a
-ユウキ
+Yuuki
 850068_18_a
-まぁわたしたちニュービ
-まだまだ遠い先の話になりそうだけど
-アスナ
+Well, we might have a long way to
+go, seeing as we're still newbies,
+Asuna
 850068_17_a
+Pina
 850068_16_a
-ユウキさんは本当にバトル好きですね
-シリカ
+You just like combat, don't you?
+Silica
 850068_15_a
-アスナ
+Asuna
 850068_14_a
-ええーっ、せっかくこのゲームで
-遊んでるんだからいつかは
-裏ボスとも戦ってみたいよ!
-ユウキ
+Aw, c'mon! Fighting all the bosses
+is the whole point of playing a
+game like this!
+Yuuki
 850068_13_a
+Pina
 850068_12_a
-あはは……
-あたしは別に挑みたいなんて
-一度も言ってませんけど……
-シリカ
+Ha ha, who said anything about
+fighting it? Not me!
+Silica
 850068_11_a
-うひゃあ……裏ボスかぁ
-ボクらじゃまだまだ挑戦する
-権利すらなさそうだね
-ユウキ
+Whew! Good thing we didn't fight
+it, then. We've got a long way to
+go before we take it on.
+Yuuki
 850068_10_a
-いえラスボス以上の
-裏ボス的な存在なんだって……
-アスナ
+Actually no, it's more like a
+secret boss.
+Asuna
 850068_9_a
-龍はこのゲームでも特別な存在で
-ある意味ラスボス……
-アスナ
+It looks like that dragon is a
+final boss of sorts for this game.
+Asuna
 850068_8_a
-ユウキ
+Yuuki
 850068_7_a
-そうみたいね
-この前アスカ・エンパイアの資料を
-見ていたら
-アスナ
+It sure sounds that way. I had
+a look at the documentation
+for Asuka Empire.
+Asuna
 850068_6_a
+Pina
 850068_5_a
-威厳がすごかったです……
-まさに神様という感じで……
-シリカ
+It was very regal. It definitely
+felt like a god.
+Silica
 850068_4_a
-うん、全然勝てなさそうだったからさ
-あはは……
-ユウキ
+Yeah. We knew we didn't stand
+a chance against it, heh.
+Yuuki
 850068_3_a
-ユウキ
+Yuuki
 850068_2_a
 bg_event_ayakashi_street
-それで逃げ帰ってきたの?
-アスナ
+And that's when you escaped?
+Asuna
 850068_1_a
-さすがは神様……
-シリカ
+Well, it IS a god...
+Silica
 850067_19_a
-しゃ、しゃべったよ……
-ユウキ
+It talked!
+Yuuki
 850067_18_a
-愚かなり……
-我が寝床を荒らすとは……
+What pathetic creatures dare
+disturb my slumber?
+Dragon
 850067_17_a
-きゅいいっ!!
+Chirp!!
+Pina
 850067_16_a
-お、大きい……!
-シリカ
+I-It's huge!
+Silica
 850067_15_a
-わあーーっ!!
-あ、あ、あれが……龍だよ!!
-ユウキ
+Y-Yeah, that's the dragon alright!
+Yuuki
 850067_14_a
-グヌガアアアアアッーーー!!!
+SKRAAAAAWRRRR!
 ???
 850067_13_a
-ひっ……!
-シリカ
+Eep!
+Silica
 850067_12_a
-シリカ!
-上を見て!!
-ユウキ
+Silica, look up!
+Yuuki
 850067_11_a
-あの強そうな獣さんたちが
-怯える存在……まさか……
-シリカ
+What could those things possibly
+be...afraid of...?
+Silica
 850067_10_a
-ピナと同じ感じで……
-まるで怯えてるみたいでした……
-シリカ
+They look as terrified as Pina...
+Silica
 850067_9_a
-獣や妖怪たちが……
-逃げ去っていく!?
-ユウキ
+They're...running away?!
+Yuuki
 850067_8_a
-ヌオオッーー!!
+Rwaaaar!
+Monster
 850067_7_a
-ギャンギャンッ!!
+Gragh! Growwwllll!
+Beast
 850067_6_a
-ら、雷鳴!?
-ち、違いますね……今のは……!?
-シリカ
+Th-That was thunder, right...?
+Please say yes...
+Silica
 850067_5_a
+Pina
 850067_4_a
-シリカ
+Silica
 850067_3_a
-わっ!!
-ユウキ
+Oh, crap!
+Yuuki
 850067_2_a
 bg_event_swamp
-グガアアアアアオオオッ!!!!
+GRAAAWRRR!
 ???
 850067_1_a
-ピナ、なにかに怯えてる……?
-ユウキ
+Yeah, what're you so afraid of,
+Pina?
+Yuuki
 850065_27_a
-ど、どうしたの?
-シリカ
+Huh? Why?
+Silica
 850065_26_a
-きゅるるっ……!
+Chirp chirp!
+Pina
 850065_25_a
-きゃっ!
-今度は雷です……
-シリカ
+AHHH! And thundering!
+Silica
 850065_24_a
 bg_event_swamp
-雨だね……
-ユウキ
+It's raining...
+Yuuki
 850065_23_a
-どうしたの、ピナ……あら?
-シリカ
+What's wrong, Pina? Ah!
+Silica
 850065_22_a
-きゅる?
+Chirp?
+Pina
 850065_21_a
-こんな場所に
-本当に伝説の龍さんは……
-シリカ
+Is this really where the legendary
+dragon lives?
+Silica
 850065_20_a
-ホントだね……
-妖怪も獣の方も相当強い奴らだし
-あっという間にやられちゃいそうだ
-ユウキ
+You're right about that.
+They'd turn us into snacks
+for sure.
+Yuuki
 850065_19_a
-あんな所に居合わせたら
-命がいくつあっても足りませんよ
-シリカ
+Either way, we're dead if we
+get involved!
+Silica
 850065_18_a
-うわぁ……
-妖怪や獣たちが争ってるよ
-縄張り争いでもしてるのかな?
-ユウキ
+Whoa, they're fighting each other!
+Is this some sort of turf war?
+Yuuki
 850065_17_a
+Pina
 850065_16_a
-ユウキ
+Yuuki
 850065_15_a
-あれを見てください……
-シリカ
+Look at that...
+Silica
 850065_14_a
-グガアアッ!!
+ROAAAAAAR!
+Beast
 850065_13_a
-グルオオッ……
+Graaaaaooohh...
+Monster
 850065_12_a
-う、うん……
-ユウキ
+Uh, okay...
+Yuuki
 850065_9_a
-シリカ
+Silica
 850065_11_a
+Pina
 850065_10_a
-は、早く!!
-シリカ
+Just hide already!
+Silica
 850065_8_a
-ど、どうしたの?
-ユウキ
+Huh? Why?
+Yuuki
 850065_7_a
-あっ、ユウキさん!
-ちょっと隠れてください!
-シリカ
+Wah! Yuuki, hide!
+Silica
 850065_6_a
-うん、そうだと思うんだけど……
-ユウキ
+Yeah... At least, I think so.
+Yuuki
 850065_5_a
-この辺りですか?
-シリカ
+Is this where it lives?
+Silica
 850065_4_a
+Pina
 850065_3_a
-シリカ
+Silica
 850065_2_a
 bg_event_alo_cloudysky
-………………
-ユウキ
+...
+Yuuki
 850065_1_a
-うん!
-様子を見るだけだって!
-ユウキ
+Totally! We're just gonna sneak
+a look at it!
+Yuuki
 850063_19_a
-ええっ!?
-二人だけでですか?
-シリカ
+All by ourselves?!
+Are you sure about this?
+Silica
 850063_18_a
-ちょっと行ってみようよ
-シリカ!
-ユウキ
+Enough talk! Let's go, Silica!
+Yuuki
 850063_17_a
-あはは、確かにそうだね
-おおっ、そう考えると
-ますます会ってみたくなっちゃった
-ユウキ
+I guess so, hehe.
+Which just makes me want to see
+it even more than I did before!
+Yuuki
 850063_16_a
-ということは……
-その山岳地帯に住む龍さんは
-かなりエライ存在ってことですよね?
-シリカ
+So you're saying the dragon in
+the mountains here is probably
+one of the good, sacred ones?
+Silica
 850063_15_a
-扱いの違いがわかる
-一例かもしれないね
-ユウキ
+The differences in how they're
+portrayed will be pretty obvious.
+Yuuki
 850063_14_a
-簡略化された竜という字を使う
-傾向のある西洋と、略字化しない
-龍を使う東洋っていうのも、
-ユウキ
+And if you're still confused,
+just crack open any collection
+of dragon illustrations.
+Yuuki
 850063_13_a
-まぁ多神教の東洋か
-唯一神の西洋の違いも
-あったみたいだね
-ユウキ
+Not to mention most Western
+religions have just one god, so
+dragons were beasts, not gods.
+Yuuki
 850063_12_a
-なるほど……善か悪か……
-けっこう違いますね
-シリカ
+Ah, good vs. evil.
+Yeah, that's about as
+opposite as you can get.
+Silica
 850063_11_a
-西洋竜は神の化身ではなく、
-邪悪な存在……悪魔として
-扱われることが多いらしいんだよ
-ユウキ
+But dragons in European fantasy
+were just another evil creature,
+like demons or goblins.
+Yuuki
 850063_10_a
-元々東洋の龍っていうのは
-十二支に並べられているように
-神の化身みたいな存在だったんだけど
-ユウキ
+Well, the East Asian dragon was
+originally the physical form of a
+god in the Chinese zodiac.
+Yuuki
 850063_9_a
-つまり西洋竜と東洋の龍とでは
-扱いが違うってことですか?
-シリカ
+So this dragon is totally
+different from the European style?
+Silica
 850063_8_a
-ああ、龍の中でも強いっていうより
-龍自体が伝説の存在って感じかな
-ユウキ
+It is, but it's not like it's the
+king of dragons or anything.
+Its existence itself is legendary.
+Yuuki
 850063_7_a
-伝説の龍……ですか?
-シリカ
+Eep! It sounds powerful.
+Silica
 850063_6_a
-強大な力を持つ伝説の龍が
-山岳地帯の奥地に
-棲みついているって……
-ユウキ
+That there's a legendary dragon
+living up in the mountains.
+Yuuki
 850063_5_a
-なんですか?
-シリカ
+What rumor is that?
+Silica
 850063_4_a
+Pina
 850063_3_a
-シリカ
+Silica
 850063_2_a
 bg_event_ayakashi_street
-あっ、そういえば……
-前にこのゲームで遊んでたとき、
-こんな噂を耳にしたなぁ……
-ユウキ
+Oh yeah! All this reminds me of a
+rumor I heard last time I played
+Asuka Empire.
+Yuuki
 850063_1_a
-きゅい～?
+Chirp?
+Pina
 850061_21_a
-ああ、なるほど……
-言われてみればそうですね
-シリカ
+Ahh, I see what you mean.
+Yeah, I guess you're right.
+Silica
 850061_20_a
-難しい漢字を使う方の……いわゆる
-蛇みたいな中国の龍を
-イメージしない?
-ユウキ
+This seems like the kind of game
+where dragons would look more like
+giant serpents. That make sense?
+Yuuki
 850061_19_a
-でもこの世界は和風VRMMO……
-つまりトカゲに
-翅が生えたタイプじゃなくて
-ユウキ
+See what I'm saying? All
+wings and horns in a Japanese-
+themed VRMMO.
+Yuuki
 850061_18_a
-だってほら、ピナって子供だけど
-一応……西洋竜の姿じゃない?
-ユウキ
+I just mean that Pina's got a
+kind of European fantasy look.
+Yuuki
 850061_17_a
-えっ、どういう意味ですか?
-シリカ
+Why is that strange?
+Silica
 850061_16_a
-どういたしまして!
-それにしても……ピナの姿は
-ALOの頃のままなんだね
-ユウキ
+You're welcome! Though I find
+it strange that Pina looks no
+different from back in ALO.
+Yuuki
 850061_15_a
-ピナもお礼を言ってるみたいです
-シリカ
+Pina says thank you too!
+Silica
 850061_14_a
-きゅいっ
+Chirp!
+Pina
 850061_13_a
-えへへっ、ありがとうございます!
-シリカ
+Hehe, I appreciate the compliment.
+Silica
 850061_12_a
-そう選択させたんじゃないかな
-つまり運命ってことだよ!
-ユウキ
+I bet that's what led you to
+choose Beastmaster. How could
+you choose anything else?
+Yuuki
 850061_11_a
-ふふっ、そんなことないと思うよ
-シリカが無意識にでもピナを想う
-気持ちがあって、
-ユウキ
+Heh, I don't buy that. Consciously
+or not, you're always thinking
+about Pina.
+Yuuki
 850061_10_a
-そこまで考えてなかったんですけど
-ホント運が良かったですよ～
-シリカ
+I wasn't even thinking about that
+at the time! It was pure luck.
+Silica
 850061_9_a
-そうしておかないとコンバートしても
-連れ歩けなかったみたいなんですよね
-シリカ
+And thank goodness I did.
+Pina wouldn't be able to follow
+me around if I hadn't!
+Silica
 850061_8_a
-はい!
-最初のジョブ選択画面で
-とっさに獣使いにしたんですけど、
-シリカ
+I know! I chose Beastmaster
+the second I saw it on the job
+selection screen.
+Silica
 850061_7_a
-それにしてもアスカ・エンパイアに
-ピナを連れてこられて良かったよね
-シリカ!
-ユウキ
+You know, it's great that you
+were actually able to bring Pina
+over to Asuka Empire, Silica!
+Yuuki
 850061_6_a
-きゅるー!
+Chirp!
+Pina
 850061_5_a
-今日もご機嫌だね、ピナ!
-ユウキ
+You're looking energetic today,
+Pina!
+Yuuki
 850061_4_a
-シリカ
+Silica
 850061_3_a
-ユウキ
+Yuuki
 850061_2_a
 bg_event_ayakashi_street
-きゅきゅい～
+Chirp chirp!
+Pina
 850061_1_a
 Ha ha, I guess so!
 Silica
@@ -163927,351 +163996,356 @@ Okay, Asuna, I'm headed
 out for a bit.
 Kirito
 340011_1_a
-そうですね!
-行ってみましょう!
-シリカ
+Yeah, you're right! Let's go!
+Silica
 250168_16_a
-きっと新年だから
-なにか面白いイベントでも
-やってるはずだよ!
-ユウキ
+They might be holding some sort of
+New Year's event!
+Yuuki
 250168_15_a
-さあ、じゃあボクらも
-せっかくだから山寺を見学させて
-もらおう
-ユウキ
+Yep. C'mon, let's check out this
+temple now that we've made it
+all the way up here!
+Yuuki
 250168_14_a
-天狗さん、行っちゃいましたね……
-シリカ
+There he goes...
+Silica
 250168_13_a
-これで約束は達した
-では……さらばじゃ
+I have kept my promise, and so
+I bid you farewell.
+Tengu
 250168_12_a
-無事に着けて良かったね
-ユウキ
+I'm glad we made it in one piece.
+Yuuki
 250168_11_a
-いえいえ、どういたしまして
-シリカ
+Oh, you're more than welcome!
+Silica
 250168_10_a
-あなたたちのおかげです
-ありがとうございました
-尼さんNPC
+Thank you both ever so much.
+Nun
 250168_9_a
+Pina
 250168_8_a
-ユウキ
+Yuuki
 250168_7_a
-シリカ
+Silica
 250168_6_a
 bg_02_forest
-ああ、無事に着けました……
-まさか天狗に抱きかかえられて
-空を飛ぶなんて思いませんでしたけど
-尼さんNPC
+At last, we've made it. And thanks
+to the wings of a Tengu, no less!
+That was most unexpected.
+Nun
 250168_5_a
-うむ……仕方あるまい
-手を貸してやるとしよう
-その尼とやらの下へ連れていくがいい
+Indeed. And I have no choice but
+to help you. Take me to the nun.
+Tengu
 250168_4_a
-やったぁ、これで
-ボクらの勝ちだよね?
-ユウキ
+Woohoo! Was that the sound of you
+admitting defeat?
+Yuuki
 250168_3_a
-ユウキ
+Yuuki
 250168_2_a
 bg_08_forest
-ぐっ……見事!
+Urgh... You were impeccable!
+Tengu
 250168_1_a
-天狗の神通力、しかと見よ!
+Very well! Prepare to face my
+supernatural powers!
+Tengu
 250167_21_a
-よーし、じゃあ勝負だよ!
-ユウキ
+Okay, Tengu! You're on!
+Yuuki
 250167_20_a
-うん!
-約束は守ってくれるはずだよ
-ユウキ
+Yup! He's a Tengu of his word.
+Yuuki
 250167_19_a
-では勝てば手伝ってくれるってこと
-ですよね?
-シリカ
+But he'll help us if we beat him,
+right?
+Silica
 250167_18_a
-ああ、そうだった……
-この人、勝負好きなんだった
-ユウキ
+Oh...right. This big guy never met
+a contest he didn't like.
+Yuuki
 250167_17_a
-ワシを力で打ち負かした者にのみ
-手を貸すということを
+I only lend favors to those who
+best me in battle!
+Tengu
 250167_16_a
-じゃが忘れたわけではあるまい
-ワシは誇り高き天狗の一族
+Surely you have not forgotten
+that I am a Tengu!
+Tengu
 250167_15_a
-えっ、じゃあやってくれるの?
-ユウキ
+So... You'll do it?
+Yuuki
 250167_14_a
-まぁワシの力があれば
-造作もない……
+Hmph. A most simple request.
+Tengu
 250167_13_a
-《尼を山寺へ連れていけ》だと?
+So you're ordering me to take
+her to the summit, are you?
+Tengu
 250167_12_a
-山頂の山寺まで連れていくのを
-手伝ってもらえないかな?
-ユウキ
+Do you think you could help us
+get her to the summit?
+Yuuki
 250167_11_a
-近くの山道で尼さんが
-辛そうにしてるんだよ
-ユウキ
+A nun nearby is struggling to
+get up the mountain path.
+Yuuki
 250167_10_a
-何用じゃ?
+What do you want with me?
+Tengu
 250167_9_a
-わあ、本当に鼻が長いですね～
-それに翅も生えてます!
-ALOの妖精さんみたいです!
-シリカ
+Gosh, his nose is really long!
+And he's got wings! He looks
+like a fairy from ALO!
+Silica
 250167_8_a
-うん、天狗だよ
-ユウキ
+Tengu, I know!
+Yuuki
 250167_7_a
-ユウキさん、この人って……
-シリカ
+Yuuki, he's a...
+Silica
 250167_6_a
-あっ、覚えててくれたの?
-嬉しいなー
-ユウキ
+Whoa, you remember me?
+Awesome!
+Yuuki
 250167_5_a
-シリカ
+Silica
 250167_4_a
+Pina
 250167_3_a
-ユウキ
+Yuuki
 250167_2_a
 bg_08_forest
-主……以前ここにも
-来たことがあったな
+So, you have returned...
 ???
 250167_1_a
-ふふっ、行ってのお楽しみ!
-ユウキ
+Hehe, I'd rather not spoil
+the surprise!
+Yuuki
 250165_23_a
-誰ですか?
-シリカ
+Who's that?
+Silica
 250165_22_a
-あっ、そういえば……!
-ちょうどいい人がこの近くに
-住んでるのを思い出したよ!
-ユウキ
+Or does it?! I think I know just
+the guy for the job, and he
+lives around here!
+Yuuki
 250165_21_a
-だとしたら会話ができそうな
-妖怪じゃないとダメだよね……
-ユウキ
+Well, we'd need a monster we can
+reason with... That limits things.
+Yuuki
 250165_20_a
-はい、そうです
-シリカ
+Exactly!
+Silica
 250165_19_a
-この世界で空を飛べる……?
-妖怪とかってこと?
-ユウキ
+What, like a monster or something?
+Yuuki
 250165_18_a
-この世界で空を飛べるなにかに
-手伝ってもらって間接的に運んで
-もらえばいいんじゃないですか?
-シリカ
+What if we got something that can
+fly and attached it to her? Or had
+it pick her up?
+Silica
 250165_17_a
-あっ……でも……
-シリカ
+Although...
+Silica
 250165_16_a
-あはは、そうだった……
-ユウキ
+Hah! Right.
+I can't believe I forgot that.
+Yuuki
 250165_15_a
-でもどちらにしろ接触できませんよ
-シリカ
+We can't interact with her
+directly, though, remember?
+Silica
 250165_14_a
-ALOだったら空を飛んで
-ピューッと行けちゃうのにね
-ユウキ
+If only this were ALO. I'd just
+grab her and fly to the top.
+Yuuki
 250165_13_a
-そ、そんな……
-シリカ
+Yeah, you're probably right...
+Silica
 250165_12_a
-そうだけど……でも……
-この山道は急でぬかるんでるから
-多分牛車で進むのは無理かな?
-ユウキ
+Even if we could, the path ahead
+is steep and muddy. We'd get stuck
+for sure.
+Yuuki
 250165_11_a
-牛車……!
-どこかで借りられるんですか!
-シリカ
+Yes! Oxcarts! We should be able
+to borrow one from somewhere!
+Silica
 250165_10_a
-アスカ・エンパイアで乗り物と言えば
-牛車かな?
-ユウキ
+Here in Asuka Empire? I mean,
+I guess there are oxcarts...
+Yuuki
 250165_9_a
-なにか乗り物に乗せるとか
-どうでしょう?
-シリカ
+Is there something she can ride?
+Silica
 250165_8_a
-やっぱり連れていくのは無理そうだね
-なにか他の方法を探さなきゃダメ
-なのかなぁ……
-ユウキ
+There's no way she can keep up
+with us. There's got to be another
+way.
+Yuuki
 250165_7_a
-さ、さっき休んでた地点から
-10メートルも離れてないですよ……
-シリカ
+W-We've barely left the spot where
+we found her!
+Silica
 250165_6_a
-ええっ!?
-ユウキ
+Are you kidding me?!
+Yuuki
 250165_5_a
-シリカ
+Silica
 250165_4_a
+Pina
 250165_3_a
-ユウキ
+Yuuki
 250165_2_a
 bg_02_forest
-はあ、はあ……
-も、もうこれ以上は進めません
-少し休ませてください
-尼さんNPC
+huff
+huff
+I-I can't go...any
+further... Let me rest a spell.
+Nun
 250165_1_a
-そうだといいね……
-ユウキ
+Here's hoping.
+Yuuki
 250163_21_a
-こちらの尼さん……
-おばあさんですけど意外に元気よく
-歩いてくださるかもしれませんよ
-シリカ
+She may look old, but she might
+have a spring in her step!
+Silica
 250163_20_a
-と、とりあえずまずは
-一緒に歩いてみてから決めましょうよ
-シリカ
+Well, we should at least try and
+walk with her for a little while.
+Silica
 250163_19_a
-当然おぶったりもできないと思うし
-ユウキ
+I can't just toss her on my
+back and hop up the mountain.
+Yuuki
 250163_18_a
-うん、多分それは無理だね
-NPCは基本的に接触不可能だから
-ユウキ
+Yeah, that's not gonna work.
+Our interactions with NPCs are
+restricted.
+Yuuki
 250163_17_a
-場合によっては手を取って
-支えながらいくことも……あっ
-シリカ
+And we can take her hand when
+she needs to... Oh, wait.
+Silica
 250163_16_a
-そうだけど……
-ユウキ
+Yeah, but...
+Yuuki
 250163_15_a
-す、少しくらいならゆっくりでも
-構わないじゃないですか
-シリカ
+D-Does it matter? We can take our
+time, can't we?
+Silica
 250163_14_a
-ボクらの足に付いてこられないとか
-ユウキ
+What if she can't keep up with us?
+Yuuki
 250163_13_a
-……もしかして、歩くのが
-遅いってことじゃないかな?
-ユウキ
+Maybe she needs to take it slow?
+Yuuki
 250163_12_a
-えっ、どういうことですか?
-シリカ
+Why do you say that?
+Silica
 250163_11_a
-私を連れていくと逆に
-ご迷惑をおかけすることになるかも
-しれません……
-尼さんNPC
+But I'm afraid taking me along
+might cause you more trouble
+than it's worth.
+Nun
 250163_10_a
-一緒に行く……ですか
-はい、もちろんそれは
-構わないのですが、
-尼さんNPC
+Join you? Why, I'd love to...
+Nun
 250163_9_a
-そうですね!
-もし良ければあたしたちと
-一緒に行きませんか?
-シリカ
+Would you like to join us?
+Silica
 250163_8_a
-ボク達と行き先は同じみたいだね
-ユウキ
+That's where we're headed too!
+Yuuki
 250163_7_a
-少し休んでいたのです
-今日は山寺へ新年のご挨拶に
-伺うつもりでして……
-尼さんNPC
+Oh, I was just taking a rest, my
+dear. I'm planning to greet the
+new year at the temple ahead.
+Nun
 250163_6_a
-あのぅ……
-ここでなにを?
-シリカ
+So, um... What brings you up here?
+Silica
 250163_5_a
-シリカ
+Silica
 250163_4_a
+Pina
 250163_3_a
-ユウキ
+Yuuki
 250163_2_a
 bg_02_forest
-これはこれは……
-こんな場所で巡り合わせるとは
-なにかのご縁でしょうか?
-尼さんNPC
+Well, well, I never thought I'd
+see another soul up here.
+What an auspicious meeting!
+Nun
 250163_1_a
-そうだね
-ユウキ
+Sure, why not?
+Yuuki
 250161_17_a
-は、はい
-こんな山道でどうしたんでしょう?
-ちょっと聞いてみましょうか
-シリカ
+I-I can see that, but what's she
+doing all the way up here?
+Should we ask?
+Silica
 250161_16_a
-どうしたの……ん?
-あそこに尼さんがいるね
-NPCっぽいけど……
-ユウキ
+Hm? Oh, she looks like a nun.
+I'll bet she's an NPC.
+Yuuki
 250161_15_a
-そ、そうですね……あら?
-シリカ
+No, it doesn't...
+Wait, who's that?
+Silica
 250161_14_a
-休みながら行かないといけないのは
-大変だよねぇ
-ユウキ
+It doesn't help that our
+converted avatars have
+such weak stats.
+Yuuki
 250161_13_a
-ここはまだまだ序の口だよ
-コンバートとはいえ
-最初は体力低く設定されてるし、
-ユウキ
+And it only gets worse from here.
+We'll have to take a lot of
+breaks.
+Yuuki
 250161_12_a
-う、うう……この坂……
-かなりの急こう配ですね……
-シリカ
+W-Wow... You weren't kidding about
+the steepness...
+Silica
 250161_11_a
-よーし、じゃあ行こう!
-ユウキ
+Then let's get stepping!
+Yuuki
 250161_10_a
-そ、そうなんですね……!
-が、がんばります!
-シリカ
+That's okay! I'll give it a shot!
+Silica
 250161_9_a
-いいけど、散歩というには
-山道がけっこう急だよ
-時間かかると思うけど大丈夫?
-ユウキ
+Of course! The mountain path
+is pretty steep, though. It'll
+take a while.
+Yuuki
 250161_8_a
-そうなんですね～!
-ちょっと散策がてら行ってみても
-いいですか?
-シリカ
+Oh, really! Can we take a little
+walk to check it out?
+Silica
 250161_7_a
-確かこの山の頂上に
-高名なお寺があったはずだよ
-ユウキ
+I'm pretty sure there's a famous
+temple at the summit.
+Yuuki
 250161_6_a
-うん、前に遊んでたときに
-一度だけ立ち寄った気がする
-ユウキ
+I think I stopped here once back
+when I used to play this game.
+Yuuki
 250161_5_a
-ユウキさん
-この辺りに来たことあったんですか?
-シリカ
+Have you been here before?
+Silica
 250161_4_a
+Pina
 250161_3_a
-シリカ
+Silica
 250161_2_a
 bg_02_forest
-ええと、この辺は……
-ユウキ
+Wait a second.
+This looks familiar...
+Yuuki
 250161_1_a
 Hehe, thanks.
 Sinon
@@ -185158,404 +185232,398 @@ It's been a month since SAO
 began.
 Kirito
 201001_1_a
-ああ、わかった
-ありがとな
-キリト
+Got it. Thank you!
+Kirito
 150108_26_a
-とにかくそういうのには
-アンタも気をつけておけよ
-呪術師プレイヤー
+Just keep an eye out for them
+and you'll be fine.
+Shaman Player
 150108_25_a
-それこそ噂レベルだけどさ
-目を付けられると
-本当に性質が悪いらしい……
-呪術師プレイヤー
+I've only ever heard rumors, mind
+you. But supposedly they're pretty
+nasty.
+Shaman Player
 150108_24_a
-えっ……?
-穏やかじゃないね
-リーファ
+Really? That doesn't sound cool...
+Leafa
 150108_23_a
-でもAEには望んで悪役になってる奴や
-ちょっとやり過ぎな奴もいるって話だ
-呪術師プレイヤー
+But AE's full of people playing
+bad guys, and a couple of them
+like to overdo it.
+Shaman Player
 150108_22_a
-そうか
-キリト
+Alright then.
+Kirito
 150108_21_a
-まぁとにかく俺はもう
-お前を襲うのは止めるよ
-どうやっても勝てる気がしないし
-呪術師プレイヤー
+At any rate, I'm done attacking
+you. I certainly can't beat you.
+Shaman Player
 150108_20_a
-ははっ、うまいな
-キリト
+Ha ha, well done.
+Kirito
 150108_19_a
-まさに傾奇者の矜持ってところか?
-呪術師プレイヤー
+I guess that's a point of pride
+for us eccentrics, though.
+Shaman Player
 150108_18_a
-はは、そこがAEの
-滑稽かつ笑えるところかもな
-呪術師プレイヤー
+Heh, it definitely leads to some
+amusing moments.
+Shaman Player
 150108_17_a
-そのギャップも面白いよな
-襲ってくる前とバトル後の印象が
-全然違って見えるよ
-キリト
+Which is pretty funny, actually.
+Everyone's personality totally
+changes after each fight.
+Kirito
 150108_16_a
-だから勝負に負ければ
-こうやって普通に会話もするさ
-呪術師プレイヤー
+That's why we all engage you in
+normal conversation when we lose.
+Shaman Player
 150108_15_a
-別に俺たち心の底から悪じゃないぞ
-そういう役割を演じてるだけだ
-呪術師プレイヤー
+Hey, we're not actually evil.
+We just act evil in-game.
+Shaman Player
 150108_14_a
-なんか襲われた相手に
-そう言われるなんて変な気分だね
-リーファ
+That's rich, coming from the
+guy who attacked us!
+Leafa
 150108_13_a
-お、おう……そうか
-ありがとな
-キリト
+O-Okay, sure.
+Kirito
 150108_12_a
-噂なんて気にせずに
-着実に一歩ずつこなしていけば
-みんな大人しくなるよ
-呪術師プレイヤー
+Don't let all the talk get to you.
+Just keep doing what you're doing
+and it'll fade.
+Shaman Player
 150108_11_a
-芸能界、スポーツ界、
-それは変わらないからな
-呪術師プレイヤー
+Entertainment, sports, you name
+it. The story's always the same.
+Shaman Player
 150108_10_a
-はは、そういうな
-注目される新人ってのはどんな場所
-でも悪目立ちはするもんだろ
-呪術師プレイヤー
+Hah! Come on, a rising star like
+you attracts the wrong kind of
+attention anywhere they go!
+Shaman Player
 150108_9_a
-マジかぁ……
-着物奪いたいだけじゃなかったって
-ことかよ……
-キリト
+So they aren't just out to steal
+my kimono?
+Kirito
 150108_8_a
-やっぱり噂になってたんだね
-リーファ
+Oh people are talking about him. 
+Leafa
 150108_7_a
-こうして挑んでみたが、
-こうもあっさりやられちまうとは……
-呪術師プレイヤー
+I knew taking you on was a risk,
+but I didn't think you'd take me
+down THAT easily.
+Shaman Player
 150108_6_a
-さすがだな……
-ものすごく強いニュービーキリトの
-噂を聞きつけて
-呪術師プレイヤー
+No, but I should've guessed.
+I'd heard all the rumors about
+Kirito, the noob.
+Shaman Player
 150108_5_a
-はは、どうだ?
-こんなこともあろうかと呪いの
-トレースアイテムを用意してたんだ
-キリト
+Ha ha, didn't expect me to have
+an item that can trace curses,
+did you?
+Kirito
 150108_4_a
-キリト
+Kirito
 150108_3_a
-リーファ
+Leafa
 150108_2_a
 bg_08_forest
-うぐっ……参った……
-呪術師プレイヤー
+Damn! Ungh...
+Shaman Player
 150108_1_a
-おいおい
-怖がらせるなよ……
-キリト
+Okay, okay!
+Just stop talking...
+Kirito
 150107_20_a
-恨まれてたり、
-下手したら賞金首とかに
-されてるのかもよ……?
-リーファ
+I wouldn't be surprised if they've
+put a bounty of sorts on your
+head.
+Leafa
 150107_19_a
-元々仮想世界でもキリトという名前は
-もはや知る人ぞ知る名前になりつつ
-あるからね
-リーファ
+...and just about anyone who's
+played a VRMMO knows the name
+Kirito by now.
+Leafa
 150107_18_a
-なるほどぉ、キリト君ってAEに来ても
-初っ端から派手に立ち回ってるもんね
-既に色々と知られちゃってそう
-リーファ
+Ahh, I see what you mean.
+Not to mention you were
+instantly good at this game...
+Leafa
 150107_17_a
-仮想世界も結局は人同士の社会……
-交流や衝突があれば当然恨まれる
-ことも出てくる……
-キリト
+I can't guarantee I haven't made
+a few enemies along the way.
+Kirito
 150107_16_a
-……俺って良くも悪くも
-いろんなVRMMOを渡り歩いてるから
-恨まれてない保証はないだろ?
-キリト
+I've done a lot of things in a lot
+of VRMMOs... Not all of them good.
+Kirito
 150107_15_a
-どういうこと?
-リーファ
+What's that supposed to mean?
+Leafa
 150107_14_a
-そうだといいんだけどな……
-キリト
+I hope that's all they want...!
+Kirito
 150107_13_a
-みんな着物が欲しいだけでしょ?
-リーファ
+They all want that outfit, right?
+Leafa
 150107_12_a
-まぁそういうなって
-人気者は辛いところだな
-キリト
+What can I say?
+I'm a real popular guy...
+Kirito
 150107_11_a
-いつも悪役ジョブのプレイヤーに
-襲われてる気がするんですけどー!
-リーファ
+I don't recall getting attacked
+this much before you found that
+stupid kimono!
+Leafa
 150107_10_a
-ホントだよ
-あの着物を取ってからというもの
-キリト君と一緒にいると
-リーファ
+Yeah, no kidding!
+Leafa
 150107_9_a
-くっ……狙われたもんだな
-キリト
+Urgh... We're totally getting
+targeted...
+Kirito
 150107_8_a
-ああ、呪術師っていう
-これまた悪役ジョブの能力だ!
-キリト
+Maybe not. This is an evil
+Shaman's ability!
+Kirito
 150107_7_a
-ってことはこの辺に
-相手はいないってことなの!?
-リーファ
+So the attacker might not even be
+hiding nearby?!
+Leafa
 150107_6_a
-呪術だ!
-遠隔攻撃を仕掛けてきてるんだ!
-キリト
+Some sort of long-distance spell!
+Kirito
 150107_5_a
-こ、この攻撃は!?
-リーファ
+What kind of attack is that?!
+Leafa
 150107_4_a
-ぐっ!
-キリト
+Augh!
+Kirito
 150107_3_a
-リーファ
+Leafa
 150107_2_a
 bg_08_forest
-……!
-キリト
+Hnh?!
+Kirito
 150107_1_a
-えっ……ええっ?
-キリト
+Oh yeah...?
+Kirito
 150105_15_a
-ニュービ
-がそれを持ってると
-知れたらますます奪おうとする
-輩が増えるかもよ
-プレイヤー
+If people find out a noob like you
+has that kimono, you're gonna have
+a lot of new "friends," get me?
+Player
 150105_14_a
-それはそれは……
-本当に気をつけたほうがいいね
-プレイヤー
+Geez. Then you REALLY better
+watch your back.
+Player
 150105_13_a
-あ、ああ……
-キリト
+Heh... Yeah, actually.
+Kirito
 150105_12_a
-君、そんなことも知らずに
-その着物装備を手に入れたのかい?
-もしかしてニュービ
-……?
-プレイヤー
+Wait, you didn't know that before
+you went looking for this kimono?
+What are you, a noob?
+Player
 150105_11_a
-へぇ……それはちょっと怖いな
-キリト
+Yikes... That sounds pretty scary.
+Kirito
 150105_10_a
-ヒット&アウェイで奪って
-逃げてく盗賊みたいなものもいるから
-気をつけたほうがいい
-プレイヤー
+There are also Noble Thieves who
+can pull off a kind of hit-and-run
+thievery, so watch your back.
+Player
 150105_9_a
-悪役ジョブに多いんだけど
-相手のストレージにあるアイテムを
-奪う能力持ちがいるんだ
-プレイヤー
+Some players have the ability
+to steal from another player's
+inventory. Mostly bad guys.
+Player
 150105_8_a
-奪われるって……
-リーファ
+Wait... Stolen how, exactly?
+Leafa
 150105_7_a
-そ、そうなのか?
-わかった……
-キリト
+Really? Okay, I'll be on my guard.
+Kirito
 150105_6_a
-狙ってる人を何人も見かけたから
-奪われないように気をつけたほうが
-プレイヤー
+I know of a handful who were after
+it, so don't let it out of your
+sight, lest it get stolen.
+Player
 150105_5_a
-おおっ、おめでとう
-それはレア物で数人しか
-手に入らないらしいよ
-プレイヤー
+Nice! Supposedly only a select few
+players get that outfit.
+Player
 150105_4_a
-おめでとう、キリト君
-リーファ
+Congrats!
+Leafa
 150105_3_a
-リーファ
+Leafa
 150105_2_a
 bg_event_ayakashi_street
-よし!
-クエストクリアだ!
-新年限定の着物装備を手に入れたぞ!
-キリト
+Woo! Another quest cleared.
+I got a special New Year's kimono!
+Kirito
 150105_1_a
-はは、冗談だよ
-キリト
+Ha ha, I was just kidding!
+Kirito
 150103_21_a
-あたし山賊と一緒に歩きたくないよ!
-リーファ
+No way am I gonna be seen walking
+around with a Bandit!
+Leafa
 150103_20_a
-ええっ!?
-ちょっと止めてよ!
-リーファ
+Are you nuts?!
+Leafa
 150103_19_a
-悪役プレイってのも
-なんか興味あるなぁ……
-キリト
+I kind of want to see what it's
+like to play a bad guy...
+Kirito
 150103_18_a
-確かに……
-正当派の道を進んで
-上級職目指すのもいいけど、
-キリト
+Yeah, it sounds pretty deep.
+And while I'd love to stay on
+the straight and narrow...
+Kirito
 150103_17_a
-一般職にも上級職があるって
-聞いてるし、ジョブシステムって
-色々とやり込みがいありそうだよね
-リーファ
+I've heard there are standard and
+special jobs in the job system.
+It's basically its own side quest.
+Leafa
 150103_16_a
-一般職じゃないんだろうね
-なにかしら条件を満たすと
-転職できるとかじゃないかな
-リーファ
+I don't think they're standard
+jobs. You have to unlock them
+as a job change option.
+Leafa
 150103_15_a
-そういえば最初のダイブ時に
-選択するジョブだと
-そういうの無かったよな……?
-キリト
+Though, come to think of it,
+I didn't see any options like
+that when I picked a job.
+Kirito
 150103_14_a
-あはは、みんななりきりプレイして
-面白がってるんだね
-リーファ
+Ha ha, yeah, people are really
+throwing themselves into these
+roles.
+Leafa
 150103_13_a
-それ以外にも悪徳商人もいたぞ
-「お主も悪よのう」って言ってて
-楽しそうだった
-キリト
+There were corrupt merchants too.
+Remember how he said "You've got
+evil in ya too"?
+Kirito
 150103_12_a
-結構多いよね
-悪役のジョブって
-リーファ
+That's quite a few evil job
+classes, if you ask me.
+Leafa
 150103_11_a
-アスナさんから聞いた義賊に
-ならず者、次は山賊かぁ……
-リーファ
+Yeah, but we've got Noble Thieves,
+Thugs, and now Bandits... Based on
+what Asuna said, anyway.
+Leafa
 150103_10_a
-まぁ昔から和風の世界には
-悪役は付き物だからな
-チャンバラ物のドラマとか然り
-キリト
+Well, Japanese sword fighting
+dramas have always had villains
+and such. It makes sense to me.
+Kirito
 150103_9_a
-アスカ・エンパイアって面白いよね
-わざとそうやって悪役用意して
-プレイヤー同士戦わせ合ってさ
-リーファ
+Asuka Empire's a trip, isn't it?
+What other game has evil roles and
+classes for players to assume?
+Leafa
 150103_8_a
-そうそう
-実際は話のできるいい奴だったぜ
-キリト
+Yeah, exactly. He was actually
+pretty nice, all told.
+Kirito
 150103_7_a
-ああ、前のならず者みたいな
-ジョブの人ってことだね
-悪役演じてPvP仕掛けてくる人
-リーファ
+Ah, so Bandit is another job
+class, like the Thug who burst
+into the dojo for a PvP fight?
+Leafa
 150103_6_a
-はは、とは言っても
-山賊ジョブのプレイヤーだけどな
-キリト
+Ha ha, it sounds worse than it
+was. It was just another player.
+Kirito
 150103_5_a
-ええっ!?
-山賊!?
-リーファ
+You what?! Are you okay?!
+Leafa
 150103_4_a
-ああ、悪い悪い
-ちょっとフィールドに出てたら
-山賊に襲われた
-キリト
+Yeah, sorry about that.
+I got held up by a Bandit
+on the way here.
+Kirito
 150103_3_a
-キリト
+Kirito
 150103_2_a
 bg_event_ayakashi_street
-あーっ、いたいた
-キリト君、どこ行ってたの?
-リーファ
+There you are, Kirito!
+Where have you been?
+Leafa
 150103_1_a
-はは……考えておくよ
-キリト
+Heh... I'll keep that in mind.
+Kirito
 150101_17_a
-条件次第でジョブチェンジも
-できるから、一度やってみたらいい
-山賊プレイヤー
+Besides, I can always jump through
+a couple hoops and change jobs
+down the line.
+Bandit Player
 150101_16_a
-まぁな、でもこういうのも
-ドラマがあって楽しいぜ
-山賊プレイヤー
+Eh, it injects a little drama
+into the proceedings. I think
+it's fun.
+Bandit Player
 150101_15_a
-へぇ、そういう設定なんだな
-山賊ジョブも大変そうだな
-キリト
+Wow, is that how the Bandit class
+is set up? Sounds rough.
+Kirito
 150101_14_a
-俺たちも稼がなきゃダメなんだ
-山賊プレイヤー
+We've gotta make ends meet
+somehow!
+Bandit Player
 150101_13_a
-わかったよ……
-田舎には腹をすかせた家族たちが
-いるからな……
-山賊プレイヤー
+Yeah, yeah...
+I've got a hungry family out in
+the country to think about too...
+Bandit Player
 150101_12_a
-はは、VRMMOは見える数値だけを
-信じて騙されることが多いぜ
-気をつけて山賊稼業続けることだな
-キリト
+Numbers never tell the whole story
+in a VRMMO. You should be a bit
+more careful.
+Kirito
 150101_11_a
-アンタ強いなぁ……
-そのレベルならニュービ
-だろうし
-勝てると踏んだんだけどな
-山賊プレイヤー
+You're pretty strong. I figured I
+could take you based on your
+level. You looked like a noob.
+Bandit Player
 150101_10_a
-ああ、別にいいさ
-こっちは撃退するだけで
-色々とポイントもらえるからな
-キリト
+I'm okay with that. I still get
+plenty of points for driving you
+off.
+Kirito
 150101_9_a
-ま、参った……
-デスペナだけは勘弁してくれ
-山賊プレイヤー
+Okay, I picked the wrong guy to
+mess with. Just spare me the
+death penalty, eh?
+Bandit Player
 150101_8_a
-ふうっ……どうだ?
-俺の勝ちだぞ
-キリト
+Looks like I won that one.
+Had enough?
+Kirito
 150101_7_a
-キリト
+Kirito
 150101_6_a
-ぜあああっ!!
-キリト
+HYAAAAAAH!
+Kirito
 150101_5_a
-ウオオオッ!
-山賊プレイヤー
+RAAAAAH!
+Bandit Player
 150101_4_a
-残念だけど、
-そいつは乗れない相談だ!
-キリト
+Sorry, that's not happening!
+Kirito
 150101_3_a
-キリト
+Kirito
 150101_2_a
 bg_02_forest
-身ぐるみ置いていきやがれっ!
-山賊プレイヤー
+Hand over everything you've got!
+Bandit Player
 150101_1_a
 Thank you, Alice! Woohoo!
 Eugeo
@@ -190953,48 +191021,60 @@ Kazuto
 33006_24_a
 still_s2_03_0093
 リンク・スタート
+Shino
 33006_23_a
 still_s2_03_0091
 次のBoBで優勝できれば、
 その時はきっと……きっと
+Shino
 33006_22_a
 still_s2_03_0091
 そう信じて、私は《へカート
 一緒に戦い続けてきた
+Shino
 33006_21_a
 still_s2_03_0091
 シノンが強くなればなるほど、
 現実世界の私も強くなれる
+Shino
 33006_20_a
 still_s2_03_0090
 不思議なことに、仮想世界のシノンで
 いる時は、銃を握っても向けられても
 発作は起きなかった
+Shino
 33006_19_a
 新川君に勧められて
 GGOを始めたのも、
 一種の暴露療法のつもりだった
+Shino
 33006_18_a
 故郷から遠く離れた
 東京の学校に進学しても、
 症状はほとんど改善しなかった
+Shino
 33006_17_a
 郵便局での事件以来、私は銃の写真や
 映像を見ただけで、状況結合性の
 パニック発作を起こすようになった
+Shino
 33006_16_a
+Shino
 33006_15_a
 still_s2_03_0081
 リンク・スタート
+Kazuto
 33006_14_a
 still_s2_03_0079
 えと、それじゃあ……
 行ってきます
+Kazuto
 33006_13_a
 still_s2_03_0080
 よし、これでOK……っと
 33006_12_a
 still_s2_03_0076
+Kazuto
 33006_11_a
 still_s2_03_0074
 電極、貼るから
@@ -191003,6 +191083,7 @@ still_s2_03_0074
 33006_10_a
 still_s2_03_0076
 は……はい!?
+Kazuto
 33006_9_a
 still_s2_03_0076
 じゃあ脱いで、桐ヶ谷君
@@ -191023,6 +191104,7 @@ still_s2_03_0073
 あ……ど、どうも、
 ご無沙汰してます、
 安岐さん
+Kazuto
 33006_5_a
 still_s2_03_0073
 おっす! 桐ヶ谷君、お久しぶり!
@@ -191030,114 +191112,136 @@ still_s2_03_0073
 still_s2_03_0064
 しかし、残り1％の可能性が、
 俺の足をこの場所に向けた
+Kazuto
 33006_3_a
 still_s2_03_0063
 仮想世界から、
 現実の人間に死をもたらす
 そんなことが可能とは信じられない
+Kazuto
 33006_2_a
 still_s2_03_0063
 《デスガン》の話は、
 99％まで噂の産物だろうと
 俺も思っている
+Kazuto
 33006_1_a
 ガンゲイル・オンライン》って
 ゲームの内情を、ちょっと
 リサーチするだけなんだからさ
-キリト
+Kirito
 33005_8_a
 もちろん
 すぐにALOに戻るよ
-キリト
+Kirito
 33005_7_a
 できるだけ、早く帰ってきてね
 わたしたちの家は、
 たった一箇所なんだからね
-アスナ
+Asuna
 33005_6_a
 菊岡さんの頼み事……なら、
 仕方ないのかもしれないけど……
-アスナ
+Asuna
 33005_5_a
 ちょっと訳ありで、
 他のVRMMOの様子見を
 しなきゃいけなくなって……
-キリト
+Kirito
 33005_4_a
 ち、違う違う!
 ほんの数日だよ
 じ、実は……
-キリト
+Kirito
 33005_3_a
-キリト
+Kirito
 33005_2_a
 ……え、えええ!?
 き……キリトくん、
 ALO辞めちゃうの……!?
-アスナ
+Asuna
 33005_1_a
 still_s2_03_0059
 たすけて……
+Shino
 33004_6_a
 still_s2_03_0059
 助けて……誰か……
+Shino
 33004_5_a
 still_s2_03_0058
 ……ひどい顔……
+Shino
 33004_4_a
 still_s2_03_0057
 うぇ……っ
+Shino
 33004_3_a
 still_s2_03_0056
 う……っ
+Shino
 33004_2_a
 still_s2_03_0055
 あああああ……!!
+Shino
 33004_1_a
 still_s2_03_0054
 ヒッ……
+Shino
 33003_22_a
 still_s2_03_0053
 ……!!
+Shino
 33003_21_a
 still_s2_03_0051
 ……お、おかあさ……ん……?
+Shino
 33003_20_a
 still_s2_03_0050
 ……っ!!
+Man
 33003_19_a
 still_s2_03_0049
 こ……こないで!!
+Shino
 33003_18_a
 still_s2_03_0045
 あぁ……ああぁぁ!!
 俺を撃ちやがったな……
 このおおおおおおお!!!
+Man
 33003_17_a
 still_s2_03_0043
 !!!
+Shino
 33003_16_a
 still_s2_03_0043
 返せ!!
 このガキぃ!! 
+Man
 33003_15_a
 still_s2_03_0042
 拳銃が落ちた……!!
+Shino
 33003_14_a
 still_s2_03_0041
 あぁぁ!?
 痛ぇっ
+Man
 33003_13_a
 still_s2_03_0041
 ウッ!!
+Shino
 33003_12_a
 still_s2_03_0038
 （わ、わたしがお母さんを
 守らないと……!!）
+Shino
 33003_11_a
 still_s2_03_0038
 早くしねえともう一人撃つぞ!!
 撃つぞォォォ!!
+Man
 33003_10_a
 still_s2_03_0038
 詩乃の母親
@@ -191145,34 +191249,43 @@ still_s2_03_0038
 still_s2_03_0038
 おい、お前!
 こっちに来て金を詰めろ!!
+Man
 33003_8_a
 still_s2_03_0037
 ボタンを押すなと言ったろうがぁ!!
+Man
 33003_7_a
 still_s2_03_0037
+Shino
 33003_6_a
 still_s2_03_0037
 この鞄に、金を入れろ!
 警報ボタンを押すなよ!
+Man
 33003_5_a
 still_s2_03_0032
 だがその平穏は、
 唐突に破られることになる
+Shino
 33003_4_a
 still_s2_03_0032
 事故の後、母と私は東京を出て
 母方の実家に身を寄せていた
 そこで平穏な日々を送っていた
+Shino
 33003_3_a
 still_s2_03_0031
 私がまだ二歳にもならない頃に、
 交通事故で他界したと聞いている
+Shino
 33003_2_a
 still_s2_03_0031
 私は父親の顔を知らない
+Shino
 33003_1_a
 still_s2_03_0016
 よろしい
+Shino
 33002_20_a
 still_s2_03_0015
 大丈夫、順位は
@@ -191180,17 +191293,20 @@ still_s2_03_0015
 問題ありません、教官どの
 33002_19_a
 模試とかどう?
+Shino
 33002_18_a
 うち、病院だからね
 33002_17_a
 そう……まあ、勉強もあるもんね
 医学部受けるんだっけ?
+Shino
 33002_16_a
 ……うん
 出ても、無駄だからさ
 33002_15_a
 じゃあ、新川君は次のBoBには
 エントリーしないの?
+Shino
 33002_14_a
 いや、AGI型じゃあ、よっぽどすごい
 レア銃でもないと、もう限界だよ
@@ -191199,6 +191315,7 @@ still_s2_03_0015
 ……そんなことないよ
 新川君だって、前の予選じゃあ
 準決勝まで進んだじゃない
+Shino
 33002_12_a
 そっかぁ……
 凄いな、僕がGGOに誘ったのに、
@@ -191207,12 +191324,15 @@ still_s2_03_0015
 (敵を全て撃ち倒して
 私が最強だと確信できれば
 その時にはきっと……)
+Shino
 33002_10_a
 ……上位入賞を狙ってみる
+Shino
 33002_9_a
 出るよ、勿論
 今度はヘカートを持っていくつもり
 次こそは、全員殺……
+Shino
 33002_8_a
 ちぇ、ゼイタクな悩みだなあ
 ……で、次のBoBはどうするの?
@@ -191220,6 +191340,7 @@ still_s2_03_0015
 私のヘカートだって反則って言われてる
 使うほうにしてみれば、
 それなりに色々苦労はあるんだけどね
+Shino
 33002_6_a
 反則だよ、あんな武器
 33002_5_a
@@ -191230,7 +191351,9 @@ still_s2_03_0015
 作戦的には失敗だったわ
 こっちのスコードロンは六人中
 四人もやられたんだから
+Shino
 33002_3_a
+Shino
 33002_2_a
 bg_os_cafe
 聞いたよ、一昨日の話
@@ -191239,11 +191362,14 @@ bg_os_cafe
 still_s2_03_0012
 ……大丈夫
 ありがとう、新川くん
+Shino
 33001_18_a
 still_s2_03_0012
 ハッ、ハッ…ハーッ……
 …………ハーッ
+Shino
 33001_17_a
+Shino
 33001_16_a
 still_s2_03_0012
 ……大丈夫、朝田さん?
@@ -191258,6 +191384,7 @@ still_s2_03_0010
 33001_13_a
 still_s2_03_0009
 ……グッ(声が……でない……!!)
+Shino
 33001_12_a
 still_s2_03_0009
 兄貴がモデルガン何個か持ってんだよ
@@ -191268,18 +191395,21 @@ still_s2_03_0009
 クッフ……、なぁ、朝田ぁ
 33001_10_a
 still_s2_03_0007
+Shino
 33001_9_a
 still_s2_03_0006
 ばぁん!
 33001_8_a
 still_s2_03_0006
 (指で……ピストルを……!)
+Shino
 33001_7_a
 still_s2_03_0006
 ……くくっ
 33001_6_a
 still_s2_03_0004
 もう行くから、そこをどいて
+Shino
 33001_5_a
 still_s2_03_0004
 てめぇ……ナメてんじゃねえぞ
@@ -191288,6 +191418,7 @@ still_s2_03_0003
 ……一万円?
 そんなに持ってるわけない
 あなたにお金を貸す気はない
+Shino
 33001_3_a
 still_s2_03_0003
 わり、朝田
@@ -191300,1235 +191431,1328 @@ bg_os_town_1
 女子高生
 33001_1_a
 still_s2_02_0099
-ちょっと聞いてほしいことがあるんだ
-キリト
+Asuna...
+There's something important
+I've been wanting to tell you.
+Kirito
 32014_31_a
 still_s2_02_0098
-キリト
+...
+Kirito
 32014_30_a
 still_s2_02_0093
-アスナ
+...
+Asuna
 32014_29_a
-ふふふふふふっ
-リズ・シリカ・リーファ
+Ha ha ha ha ha!
+Liz & Silica & Leafa
 32014_28_a
-リズ・シリカ・リーファ
+Huh?
+Liz & Silica & Leafa
 32014_27_a
-はぁ……
-リズ・シリカ・リーファ
+sigh
+...
+Liz & Silica & Leafa
 32014_26_a
-うわぁ……
-リーファ
+Ugh...
+Leafa
 32014_25_a
-あんな感じです……
-シリカ
+All day every day...
+Silica
 32014_24_a
-学校でもあんな感じなんですか?
-リーファ
+You mean they're like this at
+school too?
+Leafa
 32014_23_a
-全く、学校でもALOでも
-イチャこらしまくってからに
+Bleck. Doesn't matter if they're
+at school or here, they can't keep
+their hands off each other.
+Liz
 32014_22_a
-まあまあ
-リーファ
+Now, now.
+Leafa
 32014_21_a
-けしからんですなぁ
+It's not fair, dammit...
+Liz
 32014_20_a
-ラブラブですね……
-シリカ
+They're so into each other...
+Silica
 32014_19_a
-キリト
+...
+Kirito
 32014_18_a
-シリカ
+Look at them...
+Silica
 32014_17_a
-リズ・シリカ
+Okay.
+Liz & Silica
 32014_16_a
-リポップするまで休もっか
-リーファ
+Let's take a break and let 'em
+respawn.
+Leafa
 32014_15_a
-だけど……あらかた
-狩り尽くしちゃったしねぇ……
+Although... Hmm...
+We sorta picked this
+place clean, didn't we?
+Liz
 32014_14_a
-ありがとう
+Thanks, guys.
+Liz
 32014_13_a
-リズベット武具店には
-お世話になってるから
-遠慮しないでね
-リーファ
+You always hook us up at your
+shop, so if you need more,
+we don't mind helping.
+Leafa
 32014_12_a
-まだまだやれるよ
-リーファ
+You want to keep going some more?
+Leafa
 32014_11_a
-うーん、
-大体必要なのは揃ったかな
+Hmm... I think I pretty much got
+everything I need now.
+Liz
 32014_10_a
-リーファ
+Leafa
 32014_9_a
-素材集まりました?
-シリカ
+Please tell me that's the last
+of it...
+Silica
 32014_8_a
-よーし、よしよしっと
+Let's see what we got...
+Liz
 32014_7_a
+Liz
 32014_6_a
-イエーイッ!!
-リーファ
+Yay!
+Leafa
 32014_5_a
 still_s2_02_0090
-グアアアアアアーーッ
-ガーベラ
+Grooowr!!
+Gerbera
 32014_4_a
 still_s2_02_0090
-ちぇすとーーっ
+Hyaaaah!!
+Liz
 32014_3_a
 still_s2_02_0088
-リズさん!!
-リーファ
+Lisbeth!
+Leafa
 32014_2_a
 still_s2_02_0088
 bg_event_field
-任せてっ
-リーファ
+I'm coming!
+Leafa
 32014_1_a
 still_s2_02_0087
-きゃあああっ
-リーファさあぁんっ
-シリカ
+Eeeeeep!!
+L-Leafa, help me!
+Silica
 32013_9_a
 still_s2_02_0086
-飛んだ!?
-シリカ
+It's flying?!
+Silica
 32013_8_a
 still_s2_02_0085
-グアアアアアッ
-ガーベラ
+Grooowrrr...
+Gerbera
 32013_7_a
-えへーんっ
-昔の私とは違いますよ
-シリカ
+Heh! I got a new trick up my
+sleeve!
+Silica
 32013_6_a
-えいっ
-シリカ
+Take THIS!
+Silica
 32013_5_a
 still_s2_02_0083
-わ!?
-蔓が……!?
-シリカ
+Wah?! Vines?!
+Silica
 32013_4_a
-グオォオォッ!
-ガーベラ
+Grooowrrr!!
+Gerbera
 32013_3_a
-てやぁぁっ
-シリカ
+Hiiiyah!
+Silica
 32013_2_a
 still_s2_02_0080
 bg_event_field
-グアアアアアッ
-ガーベラ
+Grooowrrr...
+Gerbera
 32013_1_a
 still_s2_02_0078
-もっと強くならなくちゃ……っ
+I gotta get stronger...
+Shino
 32012_15_a
 still_s2_02_0077
-もっと……
+Dammit...
+Shino
 32012_14_a
 still_s2_02_0076
 bg_s2_02_shino_home
+...
+Shino
 32012_13_a
 still_s2_02_0075
-……ふっ
-シノン
+Haah...!
+Sinon
 32012_12_a
 still_s2_02_0074
-……ぐはっ
-ベヒモス
+Grk...
+Behemoth
 32012_11_a
 still_s2_02_0073
-ーージ・エンド
-シノン
+You're dead.
+Sinon
 32012_10_a
 still_s2_02_0071
-あああああーっ!!
-ベヒモス
+AAAAAAHHH!!
+Behemoth
 32012_9_a
 still_s2_02_0072
-くらえ……っ
-シノン
+Take THIS!
+Sinon
 32012_8_a
 still_s2_02_0070
-うらあああああーっ!!
-ベヒモス
+HrraaaGGGHHH!!
+Behemoth
 32012_7_a
 still_s2_02_0047
-……絶対に仕留めるっ
-シノン
+You're mine.
+Sinon
 32012_6_a
 still_s2_02_0069
-な……っ!?
-生きてる!?
-ベヒモス
+Wh-What?!
+She's alive?!
+Behemoth
 32012_5_a
 still_s2_02_0047
-……ふっ
-シノン
+Haah...!
+Sinon
 32012_4_a
 still_s2_02_0068
-足が取れた!!
-無事ではいられまい!!
-ベヒモス
+I got her leg!
+She's done for!
+Behemoth
 32012_3_a
 still_s2_02_0068
-ハハハハハハッ
-ベヒモス
+HA HA HA HA HA HA!!
+Behemoth
 32012_2_a
 still_s2_02_0066
 bg_s2_01_wilderness
-ここから、
-飛び降りる……っ!!
-シノン
+I've only got one chance... Jump!
+Sinon
 32012_1_a
 still_s2_02_0068
-ハッ!!
-気づかれてる……っ
-シノン
+He saw me?!
+Sinon
 32011_8_a
 still_s2_02_0068
-……はははは!!
-ベヒモス
+HA HA HA HA HA!!
+Behemoth
 32011_7_a
 still_s2_02_0066
-ここからなら……っ
-いける……っ
-シノン
+I can take him out from here...
+Sinon
 32011_6_a
 still_s2_02_0048
-あの男を殺して、
-私も……っ
-シノン
+Maybe I will too, when I kill him!
+Sinon
 32011_5_a
 still_s2_02_0048
-あの男には、
-戦場で笑えるだけの
-強さがある……
-シノン
+Bullets are flying, and he's got
+the guts to smile like that...
+Sinon
 32011_4_a
 still_s2_02_0048
-……よしっ
-あそこからなら……っ
-シノン
+...There. That tower should give
+me a good vantage point.
+Sinon
 32011_3_a
-今なら私の位置は、
-正確に認識できないはず……
-シノン
+I better move fast, or he's gonna
+get a bead on my location.
+Sinon
 32011_2_a
 bg_s2_01_wilderness
-…あとはベヒモス1人だけ……
-どうにかしてベヒモスの死角に
-入らないと……っ
-シノン
+Now, I gotta figure out how to
+get into Behemoth's blind spot.
+Sinon
 32011_1_a
-ダイン……
-ナイスガッツ
-シノン
+Nice going, Dyne...
+Sinon
 32010_18_a
 still_s2_02_0065
-あっ!! グレネードだ!?
-うわあああああーっ
-敵プレイヤー達
+Wait, is that a...grenade?!
+GAAAAAAHH!!
+Enemy Players
 32010_17_a
 still_s2_02_0065
-へへっ
-よっしゃー
-敵プレイヤー達
+Ha ha! We got 'em!
+Enemy Players
 32010_16_a
-がは……っ
-ダイン
+Arrrgghhh!!
+Dyne
 32010_15_a
-(これでもくらえ……っ)
-ダイン
+(How d'ya like that?!)
+Dyne
 32010_14_a
-うおおおおおおーっ!!
-くそがあああーっ!!
-ダイン
+RrrrRRRAAAGHH!!
+SCREW YOU!!
+Dyne
 32010_13_a
 ZZ.
-うわぁ……っ!!
-く……っ
-ブラスターから狙われて……っ!
-ダイン
+Nnnrgh!! Those blasters got me
+pinned down!!
+Dyne
 32010_12_a
-……ふん
-ベヒモス
+...Hmph.
+Behemoth
 32010_11_a
-ど、どうだ
-この野郎……っ
-ダイン
+How do you like THAT, punk?!
+Dyne
 32010_10_a
-……でやっ
-ダイン
+Hraagh!
+Dyne
 32010_9_a
 still_s2_02_0059
-ベヒモス
+Heh.
+Behemoth
 32010_8_a
 still_s2_02_0058
-ーー避けられた!!
-シノン
+He dodged my shot?!
+Sinon
 32010_7_a
 still_s2_02_0058
-……っ!!
-ベヒモス
+Hnngh...!
+Behemoth
 32010_6_a
 still_s2_02_0057
-シノン
+...
+Sinon
 32010_5_a
 still_s2_02_0057
-くらえ……っ
-シノン
+Take THIS!
+Sinon
 32010_4_a
-てやっ
-ダイン
+Got it!
+Dyne
 32010_3_a
-ダイン
+Dyne
 32010_2_a
 bg_s2_01_wilderness
-ダイン、援護!!
-シノン
+Dyne, cover me!
+Sinon
 32010_1_a
 still_s2_02_0056
-ゴウ!!
-シノン
+Go!
+Sinon
 32009_2_a
 still_s2_02_0056
 bg_s2_01_wilderness
-３……２……１……
-シノン
+Three... Two... One...
+Sinon
 32009_1_a
 still_s2_02_0056
-ゴウ!!
-シノン
+Go!
+Sinon
 32008_27_a
 still_s2_02_0056
-３……２……１……
-シノン
+Three... Two... One...
+Sinon
 32008_26_a
-ダイン
+...
+Dyne
 32008_25_a
-おお!!
-男性プレイヤー達
+Got it!!
+Players
 32008_24_a
-よし、二手に分かれて
-左右から一斉に出る
-シノン
+Good. Then we'll split up and
+attack him from both sides.
+Got it?
+Sinon
 32008_23_a
-わ、分かった
-男性プレイヤー達
+O-Okay.
+Players
 32008_22_a
-3秒でいい
-ミニガンの注意を引きつけてくれれば
-私が始末する
-シノン
+We can do this. If you can
+distract the minigun for three
+seconds, I can take him out.
+Sinon
 32008_21_a
-……くっ
-ダイン
+...
+Dyne
 32008_20_a
-男性プレイヤー達
+...
+Players
 32008_19_a
 still_s2_02_0055
-せめてゲームの中でくらい、
-銃口に向かって死んでみせろ!!
-シノン
+It is a game, so you can at least
+have the balls to face death here
+instead of whining!!
+Sinon
 32008_18_a
 still_s2_02_0054
-……グッ!!
-ダイン
+H-Huh?!
+Dyne
 32008_17_a
 still_s2_02_0054
-なら死ね!!
-シノン
+THEN DIE!!
+Sinon
 32008_16_a
-どうせ突っ込んでも
-無駄死にするだけじゃねえかっ!!
-ダイン
+Think about it! Even if we charge
+them, we just die!
+Dyne
 32008_15_a
-……っ!!
-なんだよ、
-ゲームでマジになんなよ!!
-ダイン
+Are you nuts?!
+Come on! It's just a game!
+Dyne
 32008_14_a
-ログアウトしたって、
-逃げられる訳じゃない
-シノン
+You don't get away from things
+by logging out.
+Sinon
 32008_13_a
-……残念だが、諦めよう
-連中に勝ち誇られるくらいなら、
-ここでログアウトして……
-ダイン
+Sorry, but we're packing it in.
+It's better if we logged out. At
+least we'll be able to get away.
+Dyne
 32008_12_a
-突っ込んでもミニガンに
-ズタズタにされるだけだ
-ダイン
+If we go charging out there,
+that minigun'll turn us into
+confetti!
+Dyne
 32008_11_a
-ムリだ!!
-ダイン
+That's crazy!
+Dyne
 32008_10_a
-ブラスターの連射は
-実弾銃ほどのスピードじゃない、
-半分は避けられる
-シノン
+Right, but their blasters can't
+fire as fast as a live ammo gun.
+We can just dodge 'em!
+Sinon
 32008_9_a
-ブラスターだって3人残ってるんだぞ
-突っ込んだら、
-防護フィールドの効果が……
-ダイン
+What about the three guys carrying
+the blasters?! Even if we rush
+'em, our shields aren't enough!
+Dyne
 32008_8_a
-ムリだ!!
-ダイン
+That's crazy!
+Dyne
 32008_7_a
-ジンとミサは左から、
-私とダインは右から回り込んで
-アラシはここからバックアップ……
-シノン
+Jin and Misa, take the left flank.
+Dyne and I will go right. Arashi,
+you stay here and cover us.
+Sinon
 32008_6_a
-全員でアタックすれば
-派手な掃射はためらうかもしれない
-シノン
+That minigun's only got so much
+ammo. If we all attack at once,
+he'll panic and burn through it.
+Sinon
 32008_5_a
-このまま隠れていたらすぐに全滅する
-ミニガンはそろそろ残弾が
-怪しいはず
-シノン
+Well, we can't keep sitting here,
+'cause they're gonna wipe us out!
+Sinon
 32008_4_a
-あのミニガン使いだよ
-あいつは《ベヒモス》っていう
-マッチョ野郎だ
-ダイン
+It's that guy with the minigun.
+He's a macho jerk who calls
+himself Behemoth.
+Dyne
 32008_3_a
-ダイン
+Dyne
 32008_2_a
 bg_s2_01_wilderness
-用心棒?
-シノン
+A bodyguard?
+Sinon
 32008_1_a
-用心棒?
-シノン
+A bodyguard?
+Sinon
 32007_13_a
-奴ら……
-奴ら用心棒を呼んでやがった
-ダイン
+Cowards... They teamed up with
+a freakin' bodyguard!
+Dyne
 32007_12_a
-シノン
+...
+Sinon
 32007_11_a
-シノンッ!!
-大丈夫か!?
-男性プレイヤー達
+Sinon! Are you hit?!
+Players
 32007_10_a
-……クッ!!
-シノン
+Nngh!!
+Sinon
 32007_9_a
-……避けたっ!?
-ダイン
+She dodged his bullets?!
+Dyne
 32007_8_a
-……フッ
-シノン
+Haah...!
+Sinon
 32007_7_a
-……ハッ!!
-シノン!?
-危ねえ……っ!!
-ダイン
+Sinon, what are you doing
+here...?! Ah! Watch out!!
+Dyne
 32007_6_a
 still_s2_02_0051
-……ハァ……ハァ
-シノン
+pant
+... 
+pant
+...
+Sinon
 32007_5_a
-……畜生っ!!
-ダイン
+We've got nowhere left to run!
+Dyne
 32007_4_a
-わ、分かった……!!
-男性プレイヤー
+Y-Yeah, roger that!
+Player
 32007_3_a
-くっそーッ!!
-これ以上近づけさせるな!!
-ダイン
+Crap! Don't let him get closer!
+Fire!
+Dyne
 32007_2_a
 bg_s2_01_wilderness
-来るぞ!!
-ダイン
+Duck!!
+Dyne
 32007_1_a
 still_s2_02_0046
-アイツは……私が殺す……っ!!
-シノン
+He's mine!!
+Sinon
 32006_14_a
-アイツは……
-シノン
+Either way...
+Sinon
 32006_13_a
-行かなきゃ……っ
-シノン
+Or crazy.
+Sinon
 32006_12_a
-あの男には、
-戦場で笑えるだけの
-強さがあるってこと
-シノン
+If he can smile in the middle of
+a firefight, he must be pretty
+brave...
+Sinon
 32006_11_a
-さっきの顔……っ
-シノン
+What was that...?
+Sinon
 32006_10_a
-……ハッ!!
-シノン
+...Huh?!
+Sinon
 32006_9_a
 still_s2_02_0044
-マントの男
+...
+Cloaked Player
 32006_8_a
 still_s2_02_0043
-マントの男
+...
+Cloaked Player
 32006_7_a
 ZZ.
-……なっ!?
-ダイン
+What the...?!
+Dyne
 32006_6_a
-ヒ……ッ!!
-ヒイイイイイッ!!
-ギンロウ
+Urk...?!
+GAAAH!!
+Ginrou
 32006_5_a
-……!!
-ギンロウ
+Huh...?
+Ginrou
 32006_4_a
 still_s2_02_0039
-やっぱこいつら、
-大したことねえぜ
-ギンロウ
+I knew it, this op's gonna be a
+cakewalk!
+Ginrou
 32006_3_a
 still_s2_02_0039
-っしゃー!!
-命中っと
-ギンロウ
+Score!! Hah!
+Ginrou
 32006_2_a
 still_s2_02_0038
 bg_s2_01_wilderness
-防護フィールドがあれば、
-ちょろいぜ
-ギンロウ
+Heh! Our defense shields make
+this too easy! These guys are
+pushovers!
+Ginrou
 32006_1_a
 still_s2_02_0037
-ミニガンの重量による
-移動ベナルティだったの!?
-シノン
+they're moving slow because that
+minigun's got a movement penalty!
+Sinon
 32005_7_a
 still_s2_02_0037
-あのパーティの移動が
-ゆっくりだったのは、
-狩りが長引いたためじゃなく
-シノン
+They're not late because their
+hunt was running long,
+Sinon
 32005_6_a
 still_s2_02_0036
-……なっ!!
-あれは……っ
-ミニガン!?
-シノン
+gasp
+He's got a...minigun?!
+Sinon
 32005_5_a
 still_s2_02_0035
-マントの男
+...
+Cloaked Player
 32005_4_a
 still_s2_02_0034
-マントの男
+...
+Cloaked Player
 32005_3_a
-……ん?
-マントを脱いだ!?
-シノン
+...Huh?
+Sinon
 32005_2_a
 bg_s2_01_wilderness
-シノン
+...
+Sinon
 32005_1_a
-ーーゴー、ゴーゴー!
-ダイン
+Go go go!
+Dyne
 32004_9_a
-シノンはその場で待機
-ダイン
+Roger that.
+Sit tight up there, you hear?
+Dyne
 32004_8_a
-第一目標クリア
-第二目標フェイル
-シノン
+I cleared the first target, but I
+couldn't pop the second one.
+Sinon
 32004_7_a
-……ふぅ
-このあたりだと……
-場所替えは無理ね……
-シノン
+Phew...
+Can't change position...
+Sinon
 32004_6_a
-チッ……!
-避けられた
-シノン
+Tch...
+I missed...
+Sinon
 32004_5_a
 still_s2_02_0029
-マントの男
+...
+Cloaked Player
 32004_4_a
-シノン
+...
+Sinon
 32004_3_a
 still_s2_01_0084
-シノン
+Next!
+Sinon
 32004_2_a
 still_s2_01_0081
 bg_s2_01_wilderness
-……ふっ!!
-シノン
+Ngh...!
+Sinon
 32004_1_a
 still_s2_01_0078
-(アノトキニ、クラベレバ)
-シノン
+(This is nothing like how it felt
+that day...!!)
+Sinon
 32003_11_a
 still_s2_01_0077
-(そう……)
-シノン
+(It's totally different...)
+Sinon
 32003_10_a
 still_s2_01_0077
-距離1500?
-そんなの丸めた紙をくずかごに
-投げ込むようなものだ
-シノン
+(1,500 meters?
+That's nothing
+like tossing a wad
+of paper into a trash can.)
+Sinon
 32003_9_a
 still_s2_01_0077
-(こんなプレッシャー、こんな不安、
-こんな恐怖なんて)
-シノン
+(This pressure...
+This anxiety...
+This fear...)
+Sinon
 32003_8_a
 still_s2_01_0075
-シノン
+Roger.
+Sinon
 32003_7_a
 still_s2_01_0074
-狙撃開始
-頼むぜ、シノン
-ダイン
+Okay then. Fire when ready.
+I'm counting on you, Sinon.
+Dyne
 32003_6_a
 still_s2_01_0073
-問題ない
-シノン
+No sweat.
+Sinon
 32003_5_a
 still_s2_01_0073
-まだ遠いな
-いけるか?
-ダイン
+Pretty far. Can you make the shot?
+Dyne
 32003_4_a
 still_s2_01_0072
-そちらとの距離400
-こちらからは1500
-シノン
+They're 400 meters from you,
+1,500 from me.
+Sinon
 32003_3_a
 still_s2_01_0072
-敵はコース、速度とも変化なし
-シノン
+Roger. Targets haven't changed
+their course or their speed.
+Sinon
 32003_2_a
 still_s2_01_0071
 bg_s2_01_wilderness
-ーー位置についた
-ダイン
+I'm in position.
+Dyne
 32003_1_a
-ーーよし、行くぞ
-ダイン
+Alright, move out.
+Dyne
 32002_45_a
-シノン
+Roger.
+Sinon
 32002_44_a
-シノン、
-状況に変化があったら知らせろ
-狙撃タイミングは指示する
-ダイン
+Sinon, call out if the situation
+changes and wait for my order
+to fire.
+Dyne
 32002_43_a
-俺たちは作戦どおり、正面の
-ビルの陰まで進んで敵を待つ
-ダイン
+Alright, we're gonna stick with
+the original plan and wait for 'em
+in the shadow of that building.
+Dyne
 32002_42_a
-おい、喋ってる時間はそろそろ無いぞ
-距離2500だ
-男性プレイヤー
+Hate to interrupt you guys,
+but they're closing on us.
+They're at 2,500 meters.
+Player
 32002_41_a
-……わかった
-第一目標はMINIMIにする
-可能だったら次弾でマントの男を狙う
-シノン
+Understood. I'll drop the guy with
+the Minimi first, but my second
+bullet has Mr. Cloak's name on it.
+Sinon
 32002_40_a
-あれに手間取ってる間に
-ブラスターに接近されたら厄介だぞ
-ダイン
+If he starts lighting us up and
+those blasters move in, it's
+gonna get ugly.
+Dyne
 32002_39_a
-それを言うなら、あのMINIMIは
-明らかに不安要素だろう
-ダイン
+I hear what you're saying, but
+there's also a Minimi out there,
+and that's a problem.
+Dyne
 32002_38_a
-……根拠は無いけど
-不確定要素だから
-気に入らないだけ
-シノン
+Maybe he is, maybe he isn't.
+He's an unknown, so he's a risk.
+Sinon
 32002_37_a
-何故だ?
-大した武装もないのに
-ダイン
+No way. He's not carrying any
+weapons.
+Dyne
 32002_36_a
-……いや、あの男、嫌な感じがする
-最初に狙撃するのは
-マントの男にしたい
-シノン
+I'm getting a bad vibe from the
+guy in back. I think we should
+take him out before anyone else.
+Sinon
 32002_35_a
-多分あいつは、STR型の運び屋だな
-稼いだアイテムを背負ってるんだ
-戦闘では無視していい
-ダイン
+Looks like he's a STR-build. I bet
+he's just carrying the squad's
+drops. Eh, we can ignore him.
+Dyne
 32002_34_a
-ハッ、まさか
-んなの存在するものか
-ダイン
+Hah, no way. What, you believe
+in fairy tales now?
+Dyne
 32002_33_a
 still_s2_02_0025
-マントって?
-アレじゃねえのか?
-ウワサの……《デス・ガン》
-ギンロウ
+He's wearing a cloak? Maybe
+it's him: that Death Gun guy
+everyone's talking about.
+Ginrou
 32002_32_a
 still_s2_02_0025
-最後の一人は……
-マント被ってて、
-武装が見えないな……
-ダイン
+The new guy in the back's got a
+cloak on. Can't see what he's
+carrying.
+Dyne
 32002_31_a
 still_s2_02_0024
-それに……おっと実弾銃持ちが1人
-ーーMINIMI(ミニミ)だ
-狙うならこいつだな
-ダイン
+Annnd...a guy with a Minimi.
+He goes down first.
+Dyne
 32002_30_a
 still_s2_01_0072
-光学系ブラスターの前衛が4人
-大口径レーザーライフルが1人
-ダイン
+We got four optical blasters in
+the front. I see one large caliber
+laser rifle. Not a problem.
+Dyne
 32002_29_a
-1、2、3、4、5、6……7人?
-先週よりひとり増えてるな
-ダイン
+Yup, it's them. One, two, three,
+four, five, six, seven...
+That's one more than last week.
+Dyne
 32002_28_a
-ようやくお出ましかい
-ダイン
+About time they showed up to the
+party.
+Dyne
 32002_27_a
-ーー来たぞ
-男性プレイヤー
+They're here.
+Player
 32002_26_a
-コホン……そういうことだ
-ダイン
+Hmph. It's better than good.
+Dyne
 32002_25_a
-まあ、そりゃそうか
-シノンの遠距離狙撃がありゃあ
-優位は変わらねえや
-ギンロウ
+Guess I can't argue with that.
+With a crack shot like Sinon up
+here, thing's are looking gooood.
+Ginrou
 32002_24_a
-……うん
-シノン
+...Yup.
+Sinon
 32002_23_a
-作戦に死角はねえよ
-なあ、シノン?
-ダイン
+We've got all our bases covered.
+Right, Sinon?
+Dyne
 32002_22_a
-シノン
+...
+Sinon
 32002_21_a
-そいつは、GGOイチの
-スナイパーが潰す
-ダイン
+And besides, we've got the best
+sniper in GGO watching our backs.
+Dyne
 32002_20_a
-せいぜい、 支援火器を
-一丁を仕入れるくらいが関の山だ
-それにーー
-ダイン
+By now, they might have one
+firearm for support, but that's
+about it.
+Dyne
 32002_19_a
-そうすぐに対人用の実弾銃を
-人数分用意できるわけないだろう
-ダイン
+We hit 'em not too long ago.
+I doubt they got their hands on
+enough live-ammo guns that fast.
+Dyne
 32002_18_a
-けどよぅ、連中が何か
-対策立ててるかも知れねえだろ?
-ギンロウ
+Well, what if they got smart?
+Like, what if they're ready for
+us this time?
+Ginrou
 32002_17_a
-防護フィールドさえ用意
-しておけば、絶好のカモさ
-ダイン
+But we've got defense shields,
+so as long as those are up, it's
+easy pickings.
+Dyne
 32002_16_a
-あいつらの装備は、
-モンスター用の光学銃ばっか
-だからな
-ダイン
+As for weapons, they're geared up
+with optical guns for hunting
+monsters.
+Dyne
 32002_15_a
-(いつか敵として戦場で会ったら
-思考・行動を読んで
-ヘッドショットしてやる……)
-シノン
+(If we're ever on opposite sides
+of a fight, I'm taking him down
+with a headshot...)
+Sinon
 32002_14_a
-(不愉快ね……同じパーティを何度も
-待ち伏せて襲うことにプライドは
-傷つかないのかしら)
-シノン
+(How pathetic, attacking
+the same party again and again.
+Doesn't he have any pride?)
+Sinon
 32002_13_a
-ちげえねえ
-男性プレイヤー
+Heh. Damn straight.
+Player
 32002_12_a
-アルゴリズムで動く
-モンスターみたいなもんさ
-プライドの無い連中だ
-ダイン
+They move by algorithm, just like
+the monsters. As far as I'm
+concerned, they're chumps.
+Dyne
 32002_11_a
-稼げればいいと思ってるのさ
-俺たちみたいな対人スコードロン
-には絶好のカモだ
-ダイン
+cause they make it up on the next
+hunt. For player-hunter squads
+like us, they're perfect targets.
+Dyne
 32002_10_a
-モンスター狩り特化スコードロン
-っていうのは、何度襲われても
-それ以上に狩りで
-ダイン
+All that squad does is hunt
+monsters. They don't care how
+many times they get attacked,
+Dyne
 32002_9_a
-警戒してルートを
-変えたってことも……
-ギンロウ
+They could've wised up to us and
+changed their route.
+Ginrou
 32002_8_a
-でもよぉ
-今日の獲物は、確か先週襲ったのと
-同じ連中なんだろ?
-ギンロウ
+Dude, no one's complaining.
+But still, aren't these the same
+jokers we hit last week?
+Ginrou
 32002_7_a
-そのぶん分け前が増えるんだ
-文句言うなよ
-ダイン
+That means your cut'll be bigger
+this time, so no complaining.
+Dyne
 32002_6_a
-どうせモンスターの湧きがよくて
-粘ってるんだろ
-ダイン
+So relaaax. I bet they're busy
+clearing some big-ass monster
+spawn.
+Dyne
 32002_5_a
-奴らのルートは
-俺自身がチェックしたんだ
-間違いない
-ダイン
+They're coming, alright.
+I checked the route myself.
+Dyne
 32002_4_a
-おいダインよう、
-ほんとに来るのかぁ?
-ガセネタなんかじゃねえのかよ?
-ギンロウ
+Yo, Dyne! You sure you got the
+right info? They coming, or what?
+Ginrou
 32002_3_a
-ふあああっ
-ギンロウ
+yaaawn
+Ginrou
 32002_2_a
 still_s2_01_0070
 bg_s2_01_wilderness
-2025年12月7日
-GGO内・荒野フィールド
+December 7th, 2025
+Inside GGO, Wasteland
 32002_1_a
-ヘカート……
-シノン
+Hecate...
+Sinon
 32001_12_a
 still_s2_02_0006
-《ウルティマラティオ・ヘカート
-シノン
+Ultima Ratio Hecate II.
+Sinon
 32001_11_a
 still_s2_02_0005
-ボスドロップ……?
-シノン
+A boss drop?
+Sinon
 32001_10_a
-ハァ……ハァ……
-シノン
+pant
+pant
+Sinon
 32001_9_a
-グギャアアアーーーッ
+Grnnngkk!!
+Boss
 32001_8_a
 still_s2_02_0004
-1発のミスもなく、
-弾薬全てを弱点に当てれば……
-シノン
+I just need to hit its weak spot
+with every shot...
+Sinon
 32001_7_a
-グルアアアッ
+Grrrarrr...
+Boss
 32001_6_a
-……ッ!!
-シノン
+Hnngh...!
+Sinon
 32001_5_a
-……ここからなら、
-敵の攻撃が届かない…?
-シノン
+Looks like they can't hit me from
+here...
+Sinon
 32001_4_a
 still_s2_02_0003
-ギャアアアッ
+Grrrrrr...
+Boss
 32001_3_a
 still_s2_02_0002
-シノン
+...
+Sinon
 32001_2_a
 still_s2_02_0000
 bg_s2_02_underground
-2025年9月14日
-GGO内・SBCグロッケン
-地下ダンジョン
+September 14th, 2025
+Inside GGO, SBC Glocken
+Underground Dungeon
 32001_1_a
 still_s2_01_0084
-シノン
+Next!
+Sinon
 31002_41_a
 still_s2_01_0083
-そう、あの時に比べれば……!!
-シノン
+(This is nothing like how it felt
+that day...!!)
+Sinon
 31002_40_a
 still_s2_01_0081
-そう……
-シノン
+(It's totally different...)
+Sinon
 31002_39_a
 still_s2_01_0079
-距離1500?
-そんなの丸めた紙を屑籠に
-投げ込むようなものだ
-シノン
+(1,500 meters?
+That's nothing
+like tossing a wad
+of paper into a trash can.)
+Sinon
 31002_38_a
 still_s2_01_0077
-こんなプレッシャー、こんな不安、
-こんな恐怖なんて
-シノン
+(This pressure...
+This anxiety...
+This fear...)
+Sinon
 31002_37_a
 still_s2_01_0075
-シノン
+Roger.
+Sinon
 31002_36_a
 still_s2_01_0074
-頼むぜ、シノン
+I'm counting on you, Sinon.
+Man
 31002_35_a
 still_s2_01_0074
-よし、狙撃開始
+Okay then. Fire when ready.
+Man
 31002_34_a
 still_s2_01_0073
-問題ない
-シノン
+No sweat.
+Sinon
 31002_33_a
 still_s2_01_0073
-まだ遠いな
-……いけるか?
+Pretty far.
+Can you make the shot?
+Man
 31002_32_a
 still_s2_01_0072
-敵はコース、速度ともに変化なし
-そちらとの距離400、
-こちらからは1500
-シノン
+Targets haven't changed their
+course or their speed. They're 400
+meters from you, 1,500 from me.
+Sinon
 31002_31_a
 still_s2_01_0072
-シノン
+Roger.
+Sinon
 31002_30_a
 still_s2_01_0071
-位置についた
+In position.
+Man
 31002_29_a
 still_s2_01_0071
-シノン
+...
+Sinon
 31002_28_a
 still_s2_01_0070
 bg_s2_01_wilderness
-2025年12月7日
-GGO内・荒野フィールド
+December 7th, 2025
+Inside GGO, Wasteland
 31002_27_a
 still_s2_01_0067
-まるで誰かが「忘れるな」と
-言っているみたいに……
+It was almost like someone was
+calling to me, making sure I
+wouldn't forget...
+Kazuto
 31002_26_a
 still_14_sky
-でも、再び仮想世界で
-殺人事件が起きて、俺はその世界に
-呼ばれようとしている……
+But now, once again, people were
+dying in VR. I just couldn't
+ignore this.
+Kazuto
 31002_25_a
 still_01_tutorial_end
-1年経って、
-その記憶も過去のものに
-なろうとしていた
+A year had passed, and what had
+happened to me in SAO had begun
+to fade into memory.
+Kazuto
 31002_24_a
 still_01_red_robe
-アインクラッドでは
-4000人もの人が命を落とした
+Four thousand people died in
+Aincrad.
+Kazuto
 31002_23_a
 still_s2_01_0067
-そうは思っていても、
-俺は菊岡の依頼を断らなかった
+Then again...something about this
+whole affair bothered me.
+Kazuto
 31002_22_a
 still_s2_01_0067
-銃撃と2人の心臓発作は偶然の一致、
-ゲーム内からの干渉でプレイヤーの
-心臓を止めるのは不可能
+You can't stop a player's heart in
+the real world by actions in-game.
+It had to be a coincidence.
+Kazuto
 31002_21_a
 still_s2_01_0050
-捜査の依頼
+That's why he called me. He wanted
+my help to investigate these
+mysterious deaths.
+Kazuto
 31002_20_a
 still_s2_01_0050
-今回の呼び出しは、
-このGGOで突如起こった
-「死銃」事件の
+It seems impossible, but it looked
+like Kikuoka hadn't dismissed that
+possibility.
+Kazuto
 31002_19_a
 still_s2_01_0059
-ゲーム内の銃撃によって、
-プレイヤー本人の心臓を
-止めることが可能なのか
+Is it possible that this player
+can kill someone by shooting
+them in-game...?
+Kazuto
 31002_18_a
 still_s2_01_0057
-そのキャラクターネームは
-《デス・ガン》
+Death Gun.
+Kazuto
 31002_17_a
 still_s2_01_0010
-ゼクシードの時と同じ
-キャラクターネームを
-名乗っていたらしい
+And in both incidents, the shooter
+identified himself by the same
+character name...
+Kazuto
 31002_16_a
 still_s2_01_0010
-発砲した男は、
-裁き、力といった言葉の後に、
+Just like with XeXeed, the shooter
+said something about judgment and
+power right before shooting him.
+Kazuto
 31002_15_a
 still_s2_01_0048
-この男も、
-ゲーム内のスコードロンの集会中に
-乱入したプレイヤーに撃たれている
+He was meeting with his squad when
+a strange player went up and shot
+him...point blank.
+Kazuto
 31002_14_a
 still_s2_01_0048
-約10日前、
-GGOの有力プレイヤーの男が
-心不全で死亡した
+Same setup as before. Another
+top-ranking GGO player had died
+of heart failure.
+Kazuto
 31002_13_a
 still_s2_01_0048
-さらにその後、
-もう1件の事件が発生
+Then another death followed.
+It happened about ten days ago.
+Kazuto
 31002_12_a
 still_s2_01_0010
-「裁きを受けろ」などと叫んで
-銃を発射したというのだ
+He was shouting something about
+"judgment" at XeXeed's image on
+the TV, then fired his gun at it.
+Kazuto
 31002_11_a
 still_s2_01_0010
-とある酒場で、テレビに映っている
-ゼクシードの映像に向かって、
+Some players were in-game watching
+the show when a player stood up
+and started acting erratically.
+Kazuto
 31002_10_a
 still_s2_01_0011
-彼がちょうど発作を起こした時刻に、
-GGOで妙なことがあったと
-ブログに書いているユーザーがいた
+According to a player's blog, at
+the same time as the heart attack,
+something strange happened in GGO.
+Kazuto
 31002_9_a
 still_s2_01_0005
-ネット放送局
-「MMOストリーム」出演中に
-死亡していたという
+Reports showed that at the time
+of death, he was appearing on a
+show called MMO Stream.
+Kazuto
 31002_8_a
 still_s2_01_0044
-被害者はゼクシードという男で、
-GGOのBoBでトッププレイヤー
-だった
+The deceased was the guy who won
+GGO's biggest tournament, the BoB.
+His character's name was XeXeed.
+Kazuto
 31002_7_a
 still_s2_01_0044
-略称《GGO》
+Gun Gale Online,
+or "GGO" for short.
+Kazuto
 31002_6_a
 still_s2_01_0044
-そのアミュスフィアに
-インストールされていたゲームが、
-《ガンゲイル・オンライン》
+The man had a certain game
+installed on his AmuSphere's
+system:
+Kazuto
 31002_5_a
 still_s2_01_0042
-菊岡の話では、先日アミュスフィアを
-被ったまま心不全で
-死亡していた
-男が発見されたという
+He told me a man wearing an
+AmuSphere was found dead from
+acute heart failure.
+Kazuto
 31002_4_a
 still_s2_01_0041
-通称《仮想課》の「菊岡誠二郎」
+AKA the Virtual Reality Section.
+Kazuto
 31002_3_a
 still_s2_01_0041
-総務省総合通信基盤局
-高度通信網振興課第二別室、
+the task force leader for the Tech
+Bureau of the Ministry of Internal
+Affairs and Communications...
+Kazuto
 31002_2_a
 still_s2_01_0037
 bg_os_cafe
-SAO事件から一年が経ったある日、
-俺はある男に呼び出されていた
+About a year after we beat SAO,
+I got a call from Seijiro Kikuoka,
+Kazuto
 31002_1_a
 still_s2_01_0015
-俺と、この銃の名は《死銃》
-…………《デス・ガン》だ!!
-マントの男
+The name I share with this
+weapon... Death Gun!!
+Cloaked Player
 31001_40_a
 still_s2_01_0014
-愚か者どもよ、
-この名を恐怖とともに刻め
-マントの男
+Let your fear carve one name into
+your brains...
+Cloaked Player
 31001_39_a
 still_s2_01_0013
-……これが本当の力、
-本当の強さだ!
-マントの男
+This is real power, real strength!
+Cloaked Player
 31001_38_a
 still_s2_01_0012
-……ひっ……そんな
-男性プレイヤー達
+N-No way...
+Players
 31001_37_a
 still_s2_01_0012
-…………
-マントの男
+...
+Cloaked Player
 31001_36_a
 still_s2_01_0004
-すぐ復帰すると思うので、
-皆さんチャンネルはそのままに
-してくださいね～
-司会の女性
+Don't worry, folks. I'm sure he'll
+be back shortly. Stay tuned for
+more MMO Stream!
+Moderator
 31001_35_a
 still_s2_01_0004
-あらら、
-回線が切断されてしまった
-ようですね
-司会の女性
+Uh-oh... I guess we have a bad
+connection here.
+Moderator
 31001_34_a
 still_s2_01_0011
-…………
-ゼクシード
+...
+XeXeed
 31001_33_a
 still_s2_01_0011
-……ググ……ッ
-ゼクシード
+Grrrk... Nnngh...
+XeXeed
 31001_32_a
 still_s2_01_0011
-……ガハッ
-ゼクシード
+Nngk?!
+XeXeed
 31001_31_a
 still_s2_01_0004
-……ですからね、
-最終的にはプレイヤー本人の
-能力というものが…………
-ゼクシード
+All I'm saying is, what's really
+important in the end is the
+player's ability to...
+XeXeed
 31001_30_a
 still_s2_01_0009
-マントの男
+...
+Cloaked Player
 31001_29_a
 still_s2_01_0008
-ふっ……はははは!!
-……なんだありゃ
-男性プレイヤー達
+Heh... Ha ha ha ha!
+What's up with that guy?
+Players
 31001_28_a
 still_s2_01_0008
-今こそ、真なる力による
-裁きを受けるがいい!!
-マントの男
+And now, you'll face judgment
+from someone with real power!
+Cloaked Player
 31001_27_a
 still_s2_01_0010
-ゼクシード!
-偽りの勝利者よ!
-マントの男
+You're nothing but a fake, XeXeed!
+Cloaked Player
 31001_26_a
 still_s2_01_0010
-ん……?
-男性プレイヤーA
+Huh...?
+Player A
 31001_25_a
 still_s2_01_0004
-マントの男
+...
+Cloaked Player
 31001_24_a
 still_s2_01_0004
-けっ、昔AGI型最強! って言い
-まくってたのはゼクシードじゃ
-ねえか、やられたぜまったく……
-男性プレイヤーA
+Bah. Remember when he was talking
+about how great AGI was? That jerk
+totally scammed us.
+Player A
 31001_23_a
 still_s2_01_0004
-今後出現する火器は、
-装備要求STR も、命中精度も
-どんどん上がっていきますよ、ククッ
-ゼクシード
+Besides, the new guns coming out
+are gonna have higher strength
+requirements and accuracy bonuses.
+XeXeed
 31001_22_a
 still_s2_01_0007
-予測しながらポイントを振らなきゃ
-そのレベルゾーン最強のスタイルが
-次でも最強とは限らない
-ゼクシード
+cause the best weapon in one level
+zone might not work for you in
+the next.
+XeXeed
 31001_21_a
 still_s2_01_0007
-特にレベル型は原則的に
-ステータスの組み替えが
-できないんだから、常に先を
-ゼクシード
+that don't let you respect your
+stats. You have to think ahead
+and be smart with your points,
+XeXeed
 31001_20_a
 still_s2_01_0007
-でもMMOというのは、
-刻々とバランスが変わっていく
-ものなんですよ
-ゼクシード
+But in reality, gameplay balance
+in an MMO is always changing,
+especially in games like this one
+XeXeed
 31001_19_a
 still_s2_01_0007
-これまでは確かに、AGIを
-がんがん上げて、強力な実弾火器を
-速射するのが最強のスタイルでした
-ゼクシード
+Wake up, people! Till now, the
+best strat was boosting AGI and
+shooting a strong gun real fast.
+XeXeed
 31001_18_a
 still_s2_01_0006
-ぐ……っ
+Grr...
+Yamikaze
 31001_17_a
 still_s2_01_0004
-闇風さんはAGI型だから、
-否定したい気持ちもわかりますがね
-ゼクシード
+You're all about AGI, Yamikaze.
+Go figure you'd be in denial.
+XeXeed
 31001_16_a
 still_s2_01_0004
-いやいや、今回の結果は
-全GGO的傾向の表れと言えますよ
-ゼクシード
+Yeah, well... If anything,
+my results point to some big
+changes happening in GGO.
+XeXeed
 31001_15_a
 still_s2_01_0004
-ステータスタイプの勝利みたいに
-言うのはどうなんですかねえ
+If I were you, I wouldn't chock
+my wins up to my status type.
 ???
 31001_14_a
 still_s2_01_0005
-BoBはソロ遭遇戦じゃないですか
-二度やって同じ結果になる
-保証はないわけで、
+The BoB is a solo journey, so it's
+way different. What worked for
+you before might not work again.
 ???
 31001_13_a
 still_s2_01_0005
-しかしねえ、ゼクシードさん
+It won't be that easy, XeXeed.
 ???
 31001_12_a
 still_s2_01_0005
-そりゃもちろん、
-出るからには優勝を
-目指しますけど……ね!
+Damn right, honey. I wouldn't
+be in it if I didn't think I can
+win it.
 ???
 31001_11_a
 still_s2_01_0004
-またまたー、今度の
-「バレット・オブ・バレッツ」も
-狙ってるんでしょう?
-司会の女性
+Oh please. So, do you think you
+have a shot in the upcoming
+Bullet of Bullets?
+Moderator
 31001_10_a
 still_s2_01_0004
-いやあ「Mスト」に呼ばれるなんて
-ひょっとしたら
-一生に一度でしょうしね
+I guess. But who knows if I'll be
+on MMO Stream again, so...
+might as well stir things up.
 ???
 31001_9_a
 still_s2_01_0004
-トッププレイヤーだけあって
-おっしゃることがカゲキですネ～
-司会の女性
+one of the most challenging
+VRMMOs! Talk about controversial!
+Moderator
 31001_8_a
 still_s2_01_0004
-さすが、今VRMMO中
-最もハードと言われる
-《ガンゲイル・オンライン》の
-司会の女性
+Now that's the kind of comment
+we'd expect from the top player
+of Gun Gale Online,
+Moderator
 31001_7_a
 still_s2_01_0003
-ご愁傷様、と
+Sucks to be you right now,
+don't it?
 ???
 31001_6_a
 still_s2_01_0002
-廃人さんたちには、
-こう言わせてもらいますよ
+In fact, I got a message for the
+folks who spent the last eight
+months indoors boosting their AGI.
 ???
 31001_5_a
 still_s2_01_0002
-今まではね
-しかし、それはもう過去の話ですよ
-8ヶ月かけてガン上げしてしまった 
+you could be the best. Till now,
+that is. Yeah, hate to say it, but
+it don't work like that anymore.
 ???
 31001_4_a
 still_s2_01_0002
-確かに重要なステータスです
-速射と回避、このふたつの能力が
-突出していれば、強者足り得た
+I mean, sure, firing speed and
+evasion are important, and if
+you rocked those two things,
 ???
 31001_3_a
 still_s2_01_0001
-AGI万能論なんてのは所詮、
-単なる幻想なんですよ
+These players who think it's all
+about their agility? Hah! Man,
+they're all living in a dream.
 ???
 31001_2_a
 still_s2_01_0000
-GGO内・ネット放送局
-《MMOストリーム》
+Inside GGO
+MMO Stream Broadcast
 31001_1_a
 still_25_ending
 The End

@@ -43,9 +43,12 @@ Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 10 seconds during standby.
 Emergency Heal (HP&MP) Lv.1
-slot_skill_icon_parry_healing_mp
+slot_skill_icon_skill_damage
 Increases skill damage by 10% vs Fire-elem. enemies.
 Skill Damage Up (vs. Fire) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Fire-elem. enemies.
+Skill Damage Up (vs. Fire) Lv. 1
 slot_skill_icon_parry_healing_mp
 Gains 5 MP on a successful parry
 MP Recovery on Parry
@@ -78,6 +81,9 @@ Critical Damage Up (vs. Non-elem.) Lv. 2
 slot_skill_icon_skill_damage
 Increases critical damage by 5% vs Non-elem. enemies.
 Critical Damage Up (vs. Non-elem.) Lv. 1
+slot_skill_icon_parry_healing_mp
+Increases MP gain when attacked weak points.
+MP Recovery on Attack Weak Points Lv.1
 slot_skill_icon_def_wind_1
 Reduces damage from Wind-elem. enemies by 30%
 Wind Resistance Lv2
@@ -979,7 +985,7 @@ Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Decreases MP required.
 Sword Skill 3 Enhance Lv. 1
-slot_skill_icon_ss_enhance_3_3
+slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
@@ -1140,34 +1146,34 @@ UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
 Combo Window Up Lv. 1
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 500
 Mace Skill Lv. 10
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 450
 Mace Skill Lv. 9
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 400
 Mace Skill Lv. 8
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 350
 Mace Skill Lv. 7
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 300
 Mace Skill Lv. 6
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 250
 Mace Skill Lv. 5
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 200
 Mace Skill Lv. 4
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 150
 Mace Skill Lv. 3
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 100
 Mace Skill Lv. 2
-slot_skill_icon_job_1
+slot_skill_icon_job_5
 Raises attack and crit. rate by 50
 Mace Skill Lv. 1
 slot_skill_icon_job_1
