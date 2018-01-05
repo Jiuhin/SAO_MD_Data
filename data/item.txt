@@ -619,6 +619,9 @@ Silver Medal
 Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
+item_m_record_crystal_2018
+You can use in 2018 Record Crystal Scout
+2018 Record Crystal
 item_m_record_crystal_xmas
 You can use in Christmas Record Crystal Scout
 Christmas Record Crystal

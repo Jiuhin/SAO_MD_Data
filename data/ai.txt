@@ -39,6 +39,7 @@ o6M
 {]M
 a8M
 o6M
+右から左に進む
 pAZ
 pAZ
 pB	

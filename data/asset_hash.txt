@@ -1378,7 +1378,7 @@ ss/unit/chara_14_bow_w/3_sakuya_143004.png
 ss/unit/chara_14_bow_w/3_philia_143003.png
 ad0ca53eff1dcf1880b04b0473b7b195
 ss/unit/chara_14_bow_w/0_woman_sprite.png
-a2637a31b86fd74777d4be40340c3908
+d86e7f40ce7881ff8ed30506f3b3f457
 ss/unit/chara_12_gun_w/weapon_effect_gun_1.png
 61267333a9968b311a9da1d980491043
 ss/unit/chara_12_gun_w/weapon06_0004.png
@@ -1390,6 +1390,8 @@ b224fad5a33b27bfa50b2fe503979ddb
 ss/unit/chara_12_gun_w/skill_gun_alo_01.png
 4db3079cadad917f19eb082d27ca217d
 ss/unit/chara_12_gun_w/skill_gun_01.png
+e1e9ee61aabcf9d181e5bb6b2e6281ec
+ss/unit/chara_12_gun_w/skill_effect_124103.png
 0ad642eae705efe22a2d76db38324ff5
 ss/unit/chara_12_gun_w/skill_effect_124102.png
 ae54b2419a3707324a9b8b96e2f9d372
@@ -1444,7 +1446,7 @@ ss/unit/chara_12_gun_w/3_sinon_123001.png
 ss/unit/chara_12_gun_w/2_sinon_122001.png
 ad0ca53eff1dcf1880b04b0473b7b195
 ss/unit/chara_12_gun_w/0_woman_sprite.png
-a2637a31b86fd74777d4be40340c3908
+d86e7f40ce7881ff8ed30506f3b3f457
 ss/unit/chara_11_gun_m/weapon_effect_gun_1.png
 f3713c4fa8c21fe20ed13ce5b5d48571
 ss/unit/chara_11_gun_m/weapon06_0007.png
