@@ -901,22 +901,22 @@ T/-
 4703021,1,210
 Complete "One Lap Behind (Holy) (Master)" with a 210 sec remaining time.
 T.-
-4703016,1,180
-Complete "One Lap Behind (Earth) (Master +1)" with a 180 sec remaining time.
+4703016,1,270
+Complete "One Lap Behind (Earth) (Master +1)" with a 4 min 30 sec remaining time.
 T--
-4703015,1,180
-Complete "One Lap Behind (Water) (Master +1)" with a 180 sec remaining time.
-T,-
-4703016,1,210
-Complete "One Lap Behind (Earth) (Master +1)" with a 210 sec remaining time.
-T+-
 4703015,1,210
-Complete "One Lap Behind (Water) (Master +1)" with a 210 sec remaining time.
-4703014,1,210
-Complete "One Lap Behind (Earth) (Master)" with a 210 sec remaining time.
+Complete "One Lap Behind (Water) (Master +1)" with a 3 min 30 sec remaining time.
+T,-
+4703016,1,220
+Complete "One Lap Behind (Earth) (Master +1)" with a 3 min 40 sec remaining time.
+T+-
+4703015,1,200
+Complete "One Lap Behind (Water) (Master +1)" with a 3 min 20 sec remaining time.
+4703014,1,220
+Complete "One Lap Behind (Earth) (Master)" with a 3 min 40 sec remaining time.
 T)-
-4703013,1,210
-Complete "One Lap Behind (Water) (Master)" with a 210 sec remaining time.
+4703013,1,200
+Complete "One Lap Behind (Water) (Master)" with a 3 min 20 sec remaining time.
 T(-
 4703008,1,300
 Complete "One Lap Behind (Fire) (Master +1)" with a 5 min remaining time.
@@ -1740,6 +1740,26 @@ Complete "Final Battle (Master)".
 /Q"
 4020009
 Complete "Final Battle".
+401801,55000
+Earn 55,000 EP in the "Friendship Osechi Dishes" event.
+401801,45000
+Earn 45,000 EP in the "Friendship Osechi Dishes" event.
+1140113-1140114,50
+Defeat 50 of The Glacial Wyrm from "Dragon's Roar (Master/Master +1)" in the guild. 
+4018015,3,45
+Complete "Dragon's Roar (Master +1)" in under 45 sec.
+4018015
+Complete "Dragon's Roar (Master +1)".
+4018014,3
+Complete "Dragon's Roar (Master)" without down.
+4018014
+Complete "Dragon's Roar (Master)".
+4018010
+Complete "Friendship Osechi Dishes".
+4018013
+Complete "Dragon's Roar (EX)".
+4018009
+Complete "Dragon's Roar".
 Of 
 401501,55000
 Earn 55,000 EP in the "Memories of Christmas" event.

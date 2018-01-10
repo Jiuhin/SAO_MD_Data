@@ -874,7 +874,7 @@ slot_skill_icon_ss_enhance_3_8
 Enhances Sword Skill 3. Increases own speed.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_8
-Enhances Sword Skill 3. Becomes powerful. Increase your own speed.
+Enhances Sword Skill 3. Becomes powerful. Enhance the effect of your increased speed.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_8
 Enhances Sword Skill 3. Creates an additional whirlwind and increases attack.
@@ -923,6 +923,9 @@ Sword Skill 3 Enhance Lv. 1
 -q%
 slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Enhance the effect of your increased attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_5
+Enhances Sword Skill 3. Enhance the effect of your increased speed.
 Sword Skill 3 Enhance Lv. 1
 }S%
 slot_skill_icon_ss_enhance_3_5

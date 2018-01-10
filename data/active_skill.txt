@@ -78,7 +78,7 @@ Strike the ground and make an explosion giving successive hits. Increase your at
 Augmented Smash+
 Augmented Smash+
 skill_icon_mace_3_{}
-Wrapping your club in water, swing and slam it into the ground to cause a massive tidal wave twice.
+Wrapping your club in water and swing it. Increase your speed and cause a massive tidal wave twice.
 Surging Tide+
 Surging Tide+
 }S%

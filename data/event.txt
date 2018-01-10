@@ -888,7 +888,7 @@ Survival Battle on Desert
 images/event/4018/4018_top.png
 images/event/4018/4018_banner.png
 images/event/4018/4018_banner.png
-The Food of Friendship
+Friendship Osechi Dishes
 images/event/4015/4015_top.png
 images/event/4015/4015_banner.png
 images/event/4015/4015_banner.png

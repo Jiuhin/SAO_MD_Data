@@ -1,3 +1,9 @@
+effect_scene_lost_ggo
+ss/effect/effect_scene_lost_ggo/
+effect_scene_gun_flash1
+ss/effect/effect_scene_gun_flash1/
+effect_scene_blaster3_s
+ss/effect/effect_scene_blaster3_s/
 effect_scene_heal_s
 ss/effect/effect_scene_heal_s/
 effect_scene_appear_s

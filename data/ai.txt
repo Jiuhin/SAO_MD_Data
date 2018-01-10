@@ -1,3 +1,5 @@
+$o	
+4K	
 zD,
 pAF
 pAF
@@ -25,6 +27,7 @@ ItL
 HtL
 GtL
 FtL
+HBc
 q.Q
 q.Q
 q.Q

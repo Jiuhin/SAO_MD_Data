@@ -1,4 +1,14 @@
 Character Story
+[The Unexpected] Lv.80
+Character Story
+[The Unexpected] Lv.70
+Character Story
+[The Unexpected] Lv.50
+Character Story
+[The Unexpected] Lv.30
+Character Story
+[The Unexpected] Lv.10
+Character Story
 [Snow Blessings] Sachi Lv.80
 Character Story
 [Snow Blessings] Sachi Lv.70
@@ -108,6 +118,16 @@ Character Story
 [Realization of Big Wishes] Leafa Lv.30
 Character Story
 [Realization of Big Wishes] Leafa Lv.10
+Character Story
+[Sacred Dance] Lv.80
+Character Story
+[Sacred Dance] Lv.70
+Character Story
+[Sacred Dance] Lv.50
+Character Story
+[Sacred Dance] Lv.30
+Character Story
+[Sacred Dance] Lv.10
 Character Story
 [Visitor in Snow] Leafa Lv.80
 Character Story
@@ -579,6 +599,16 @@ Character Story
 Character Story
 [Queen of chef] Rechka Lv.10
 Character Story
+[Bringer of Spring] Lisbeth Lv.80
+Character Story
+[Bringer of Spring] Lisbeth Lv.70
+Character Story
+[Bringer of Spring] Lisbeth Lv.50
+Character Story
+[Bringer of Spring] Lisbeth Lv.30
+Character Story
+[Bringer of Spring] Lisbeth Lv.10
+Character Story
 [Fairy Blacksmith] Lisbeth Lv.80
 Character Story
 [Fairy Blacksmith] Lisbeth Lv.70
@@ -878,6 +908,16 @@ Character Story
 [The Queen of Hearts] Asuna Lv.30
 Character Story
 [The Queen of Hearts] Asuna Lv.10
+Character Story
+[Foxy Shrine Maiden] Lv.80
+Character Story
+[Foxy Shrine Maiden] Lv.70
+Character Story
+[Foxy Shrine Maiden] Lv.50
+Character Story
+[Foxy Shrine Maiden] Lv.30
+Character Story
+[Foxy Shrine Maiden] Lv.10
 Character Story
 [Gift from Santa] Asuna Lv.80
 Character Story
@@ -1258,6 +1298,16 @@ Character Story
 [The Bunny Ace] Yuuki Lv.30
 Character Story
 [The Bunny Ace] Yuuki Lv.10
+Character Story
+[Gorgeous Priestess Costume] Lv.80
+Character Story
+[Gorgeous Priestess Costume] Lv.70
+Character Story
+[Gorgeous Priestess Costume] Lv.50
+Character Story
+[Gorgeous Priestess Costume] Lv.30
+Character Story
+[Gorgeous Priestess Costume] Lv.10
 Character Story
 [Christmas Miracle] Yuuki Lv.80
 Character Story

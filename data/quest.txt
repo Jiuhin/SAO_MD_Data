@@ -9418,8 +9418,8 @@ Finish Story
 Story
 bg_thumbnail_0
 Story 10
-The Food of Friendship
-The Glacial Dragon has appeared on the
+Friendship Osechi Dishes
+The Glacial Wyrm has appeared on the
 frozen seas. Send the icy dragon back
 where it came from, and net some nuliban!
 Defeat All Enemies
@@ -20590,8 +20590,8 @@ Finish Story
 Story
 bg_thumbnail_0
 Story 10
-The Food of Friendship
-The Glacial Dragon has appeared on the
+Friendship Osechi Dishes
+The Glacial Wyrm has appeared on the
 frozen seas. Send the icy dragon back
 where it came from, and net some nuliban!
 Defeat All Enemies

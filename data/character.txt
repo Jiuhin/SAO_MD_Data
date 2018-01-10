@@ -1,16 +1,18 @@
-8}6
-H-6
-HX4
-(i0
-0B0
-Xj-
-Ph)
-,Y%
-x%$
-$k"
-lt 
-xl	
-LB	
+xi:
+xI8
+<T6
+TA1
+TC/
+ps.
+tO.
+l'(
+x)&
+xw$
+hL$
+(%$
+Hg"
+d<"
+D(!
 walk
 wakeup
 wait
@@ -1933,7 +1935,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_195001
-SAO player. The commander of "the Knights of the Blood". He uses "Holy Sword" with some special skills. He also has great protection and is one of the top players.
+An SAO player. The commander of "the Knights of the Blood". He uses "Holy Sword" with some special skills. He also has great protection and is one of the top players.
 serif
 4_heathcliff_194001
 Heathcliff
@@ -1980,7 +1982,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_194001
-SAO player. The commander of "the Knights of the Blood". He uses "Holy Sword" with some special skills. He also has great protection and is one of the top players.
+An SAO player. The commander of "the Knights of the Blood". He uses "Holy Sword" with some special skills. He also has great protection and is one of the top players.
 serif
 4_heathcliff_194001
 Heathcliff
@@ -2073,7 +2075,7 @@ wakeup
 wait
 stun
 step
-HDL
+HDd
 skill_184102
 skill_182101
 skill_181101
@@ -2147,7 +2149,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184010
-Leprechaun in ALO. In her sexy Halloween costume, getting lots of sweets from "trick or treat", she's very happy. 
+A Leprechaun in ALO. In her sexy Halloween costume, getting lots of sweets from "trick or treat", she's very happy. 
 serif
 4_lisbeth_184010
 Lisbeth
@@ -2272,7 +2274,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184010
-Leprechaun in ALO. In her sexy Halloween costume, getting lots of sweets from "trick or treat", she's very happy. 
+A Leprechaun in ALO. In her sexy Halloween costume, getting lots of sweets from "trick or treat", she's very happy. 
 serif
 4_lisbeth_184010
 Lisbeth
@@ -2282,7 +2284,7 @@ wakeup
 wait
 stun
 step
-TD6
+TDV
 skill_183108
 skill_182101
 skill_181101
@@ -2448,7 +2450,7 @@ wakeup
 wait
 stun
 step
-HDNk
+HDnD
 skill_183103
 skill_182101
 skill_181101
@@ -2491,7 +2493,7 @@ wait
 stun
 step
 skill_18310101
-HDV
+HDvp
 skill_183101
 skill_182101
 skill_181101
@@ -2590,7 +2592,9 @@ down
 dead
 dash
 damage
+"D:
 charge_old
+"D&
 charge
 back_step
 attack_3
@@ -2634,8 +2638,9 @@ down
 dead
 dash
 damage
-"D2%
+"DR
 charge_old
+"D>
 charge
 back_step
 attack_3
@@ -2680,7 +2685,6 @@ dead
 dash
 damage
 charge_old
-"DnI
 charge
 back_step
 attack_3
@@ -2726,8 +2730,9 @@ down
 dead
 dash
 damage
-"D2l
+"DRE
 charge_old
+"D>G
 charge
 back_step
 attack_3
@@ -2758,6 +2763,7 @@ wakeup
 wait
 stun
 step
+D&V
 skill_164101
 skill_161201
 skill_161102
@@ -2772,6 +2778,7 @@ down
 dead
 dash
 damage
+"D&h
 charge_old
 charge
 back_step
@@ -2792,7 +2799,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_165001
-Undine in ALO. She bumps into some fairies in a village while she's exploring the area with Alice. Looks like somebody is bullying them but the way they do seems childish...
+An Undine in ALO. She bumps into some fairies in a village while she's exploring the area with Alice. Looks like somebody is bullying them but the way they do seems childish...
 serif
 5_asuna_165001
 Asuna
@@ -2836,7 +2843,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_164018
-ALO player. Water fairy, Undine. Asuna is suddenly called by the housekeeper, and she requests to prepare an alternative player of the mansion's master. Asuna holds counsel with Kirito.
+An ALO player. Water fairy, Undine. Asuna is suddenly called by the housekeeper, and she requests to prepare an alternative player of the mansion's master. Asuna holds counsel with Kirito.
 serif
 4_asuna_164018
 Asuna
@@ -2905,7 +2912,9 @@ down
 dead
 dash
 damage
+"D:
 charge_old
+"D&
 charge
 back_step
 attack_3
@@ -2951,8 +2960,9 @@ down
 dead
 dash
 damage
-"D>
+"Df
 charge_old
+"DR
 charge
 back_step
 attack_3
@@ -2972,7 +2982,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_164014
-ALO player. Cait Sith kitty cat. Silica gets asked for her help on the defense quest in the new area "Japanese Castle". Due to the strength of the enemies, they once fail the quest. The strategy to get through this defense quest is....?
+An ALO player. Cait Sith kitty cat. Silica gets asked for her help on the defense quest in the new area "Japanese Castle". Due to the strength of the enemies, they once fail the quest. The strategy to get through this defense quest is....?
 serif
 4_silica_164014
 Silica
@@ -2997,7 +3007,6 @@ dead
 dash
 damage
 charge_old
-"DvQ
 charge
 back_step
 attack_3
@@ -3041,6 +3050,7 @@ down
 dead
 dash
 damage
+"D"L
 charge_old
 charge
 back_step
@@ -3086,6 +3096,7 @@ down
 dead
 dash
 damage
+"D"o
 charge_old
 charge
 back_step
@@ -3116,8 +3127,9 @@ wakeup
 wait
 stun
 step
-zD:
+zDb
 skill_16310301
+zD2
 skill_163103
 skill_161201
 skill_161102
@@ -3132,9 +3144,8 @@ down
 dead
 dash
 damage
-"Df
 charge_old
-"DR
+"Dz
 charge
 back_step
 attack_3
@@ -3270,9 +3281,7 @@ down
 dead
 dash
 damage
-"Dj-
 charge_old
-"DV/
 charge
 back_step
 attack_3
@@ -3347,6 +3356,7 @@ wakeup
 wait
 stun
 step
+D2B
 skill_163113
 skill_161201
 skill_161102
@@ -3363,7 +3373,7 @@ dead
 dash
 damage
 charge_old
-"DJ
+"DrW
 charge
 back_step
 attack_3
@@ -3393,7 +3403,6 @@ wakeup
 wait
 stun
 step
-zDj
 skill_16310101
 skill_163101
 skill_161201
@@ -3498,9 +3507,7 @@ down
 dead
 dash
 damage
-"Dv
 charge_old
-"Db
 charge
 back_step
 attack_3
@@ -3546,7 +3553,6 @@ dead
 dash
 damage
 charge_old
-"Dz
 charge
 back_step
 attack_3
@@ -3664,7 +3670,7 @@ wakeup
 wait
 stun
 step
-aDj_
+aD89
 skill_144102
 skill_141201
 skill_141101
@@ -3836,7 +3842,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_145001
-Cait Sith in ALO. Sinon, with Leafa, practices the killer move that Asuna developed during the SAO monster conquest quest. Sinon has a hard time because of parrying with arrows but comes up with some idea.
+A Cait Sith in ALO. Sinon, with Leafa, practices the killer move that Asuna developed during the SAO monster conquest quest. Sinon has a hard time because of parrying with arrows but comes up with some idea.
 serif
 4_sinon_144001
 Sinon
@@ -3972,7 +3978,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_144011
-ALO player. Dark fairy, Spriggan. Philia was recommended to wear the sailor suit made by Strea but she kept rejecting. Kirito get wise to the reason from her story in actual world.
+An ALO player. Dark fairy, Spriggan. Philia was recommended to wear the sailor suit made by Strea but she kept rejecting. Kirito get wise to the reason from her story in actual world.
 serif
 4_philia_144011
 Philia
@@ -3982,7 +3988,7 @@ wakeup
 wait
 stun
 step
-DBM
+Dj&
 skill_143109
 skill_141202
 skill_141101
@@ -4018,7 +4024,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_144010
-ALO player, Cait Sith. Shinon does not prefer maid quests but she suddenly joins to the quests because of Asuna's request. She is approached by an autocratic aristocracy on the go...
+An ALO player, Cait Sith. Shinon does not prefer maid quests but she suddenly joins to the quests because of Asuna's request. She is approached by an autocratic aristocracy on the go...
 serif
 4_sinon_144010
 Sinon
@@ -4074,6 +4080,7 @@ wakeup
 wait
 stun
 step
+D.z
 skill_14310601
 skill_143106
 skill_141202
@@ -4696,7 +4703,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_124013
-OS player, Sinon runs away from a guy who comes on to her and joins the mini battle which is only open to OS gunners. She bumps into the pickup guy there and shoots like crazy to release stress.
+An OS player, Sinon runs away from a guy who comes on to her and joins the mini battle which is only open to OS gunners. She bumps into the pickup guy there and shoots like crazy to release stress.
 serif
 4_sinon_124013
 Sinon
@@ -4706,6 +4713,7 @@ wakeup
 wait
 stun
 step
+DVo
 skill_123110
 skill_121202
 skill_121102
@@ -4740,7 +4748,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_124012
-OS player, Sinon plays shooting game but keeps missing the targets. Kirito wonders why she sucks as she looks like a good player. She figures out why after Seven comes in.
+An OS player, Sinon plays shooting game but keeps missing the targets. Kirito wonders why she sucks as she looks like a good player. She figures out why after Seven comes in.
 serif
 4_sinon_124012
 Sinon
@@ -4784,7 +4792,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_124011
-OS player, Sinon heads to a quest which happens near the port. She is about to be beaten by others who use a cruiser to attack monsters flying above the ocean. 
+An OS player, Sinon heads to a quest which happens near the port. She is about to be beaten by others who use a cruiser to attack monsters flying above the ocean. 
 serif
 4_sinon_124011
 Sinon
@@ -5194,6 +5202,53 @@ wakeup
 wait
 stun
 step
+skill_10311001
+skill_103110
+skill_102202
+5n}
+5n}
+5n}
+5n}
+skill_102101
+parry
+parried
+levelup_common
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_103110
+skill_102202
+skill_102101
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_105009
+This ALO Leprechaun was a bit put out that she didn't get more cold hard cash from her parents for New Year's. Liz has expenses, and she's debating taking a part-time job to pay for them. Later, she heads to a shrine with Kirito and friends when...
+serif
+4_lisbeth_104012
+Lisbeth
+[Bringer of Spring] Lisbeth
+walk
+wakeup
+wait
+stun
+step
 skill_104107
 skill_102201
 skill_101101
@@ -5236,6 +5291,8 @@ wakeup
 wait
 stun
 step
+HDb?
+HDp
 skill_104106
 skill_102201
 skill_101101
@@ -5320,7 +5377,7 @@ wakeup
 wait
 stun
 step
-zDJ
+zD&
 skill_104101
 skill_102201
 skill_101101
@@ -5353,7 +5410,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_105003
-A SAO survivor, Leprechaun in ALO. With Silica, Lisbeth is now able to use the killer move that Asuna developed. The two of them try the challenging dungeon but some issue occurs near the bottom of the dungeon.
+An SAO survivor, Leprechaun in ALO. With Silica, Lisbeth is now able to use the killer move that Asuna developed. The two of them try the challenging dungeon but some issue occurs near the bottom of the dungeon.
 serif
 4_lisbeth_104001
 Lisbeth
@@ -5406,6 +5463,7 @@ wakeup
 wait
 stun
 step
+zDt
 skill_104102
 skill_102201
 skill_101101
@@ -5564,7 +5622,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104029
-OS player. She hears that she could enhance her D weapon by collecting some materials in the pool. She can't find the last piece and looks up as she reflects on the places she searched.
+An OS player. She hears that she could enhance her D weapon by collecting some materials in the pool. She can't find the last piece and looks up as she reflects on the places she searched.
 serif
 4_lisbeth_104029
 Lisbeth
@@ -5777,7 +5835,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104023
-ALO player, dark fairy Imp. Yuuki is developing her maid skill rapidly. One day, she is called by the housekeeper and gets a title called Tweeny. She, however, was said that she needs to get special maid outfit to be officially recognized as Tweeny.
+An ALO player, dark fairy Imp. Yuuki is developing her maid skill rapidly. One day, she is called by the housekeeper and gets a title called Tweeny. She, however, was said that she needs to get special maid outfit to be officially recognized as Tweeny.
 serif
 4_yuuki_104023
 Yuuki
@@ -5787,7 +5845,7 @@ wakeup
 wait
 stun
 step
-HDfO
+HDJO
 skill_103122
 skill_102201
 skill_101101
@@ -5916,6 +5974,7 @@ wait
 stun
 step
 e.	
+zCr
 skill_103115
 skill_101201
 skill_101101
@@ -6034,7 +6093,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104016
-ALO player. Smith fairy, Leprechaun. Without noticing, Liz had materials to create Female Ninja equipment. She decides to give them to Filia as she does not need them, but Filia realizes something and declines the offer.
+An ALO player. Smith fairy, Leprechaun. Without noticing, Liz had materials to create Female Ninja equipment. She decides to give them to Filia as she does not need them, but Filia realizes something and declines the offer.
 serif
 4_lisbeth_104016
 Lisbeth
@@ -7300,7 +7359,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_85003
-Navigation pixie in ALO. Yui gets lunch with others during the lunch break at the athletic festival. She eats too much and gets a little sick. She gets to sleep on Asuna's lap and tells something... 
+An Navigation pixie in ALO. Yui gets lunch with others during the lunch break at the athletic festival. She eats too much and gets a little sick. She gets to sleep on Asuna's lap and tells something... 
 serif
 5_yui_85003
 Yui
@@ -7342,7 +7401,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_85002
-Cait Sith in ALO. Silica starts assisting the witch with Sinon. There is a black cat who is their guide but it doesn't seem to like her. She loses Sinon and gets lost.
+A Cait Sith in ALO. Silica starts assisting the witch with Sinon. There is a black cat who is their guide but it doesn't seem to like her. She loses Sinon and gets lost.
 serif
 5_silica_85002
 Silica
@@ -7590,7 +7649,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84032
-ALO player, Spriggan. After Star Festival Quest, Philia heads to Another Quest which is based on Greek traditional star festival. This episode seems like the same story as the famous lyra mythology.
+An ALO player, Spriggan. After Star Festival Quest, Philia heads to Another Quest which is based on Greek traditional star festival. This episode seems like the same story as the famous lyra mythology.
 serif
 4_philia_84032
 Philia
@@ -7631,7 +7690,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84031
-Undine in ALO. Asuna enjoys her vacation in her swimwear. She gets asked to join the beauty contest as she's hanging out with Yuuki. She makes it to the final contrary to her feelings.
+An Undine in ALO. Asuna enjoys her vacation in her swimwear. She gets asked to join the beauty contest as she's hanging out with Yuuki. She makes it to the final contrary to her feelings.
 serif
 4_asuna_84031
 Asuna
@@ -7673,7 +7732,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84030
-OS player. The rumor of the tamed monster, Pina, flies around which leads players seek the life of it. Pina shouldn't join the battle but Silica has some idea.
+An OS player. The rumor of the tamed monster, Pina, flies around which leads players seek the life of it. Pina shouldn't join the battle but Silica has some idea.
 serif
 4_silica_84030
 Silica
@@ -7755,7 +7814,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84028
-Philia, OS player, says that her play style in the virtual world comes from her hobbies and tastes in the real world. Incidentally, there is a rumor that buried gold is in this area...
+Philia, an OS player, says that her play style in the virtual world comes from her hobbies and tastes in the real world. Incidentally, there is a rumor that buried gold is in this area...
 serif
 4_philia_84028
 Philia
@@ -7838,7 +7897,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84026
-ALO player, Music fairy Pooka. Seven enjoys maid event but she conflicts with other players who like otaku and recent maid culture. It seems that the cause of conflicts is contradiction. 
+An ALO player, Music fairy Pooka. Seven enjoys maid event but she conflicts with other players who like otaku and recent maid culture. It seems that the cause of conflicts is contradiction. 
 serif
 4_seven_84026
 Seven
@@ -7879,7 +7938,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84025
-ALO Player. Wind fairy Sylph.Leafa and Yuuki  are experiencing the little mermaid story in Anderson island. The little mermaid story, however, is a tragic love story. As Leafa did not want to face such a sad ending, she was terribly saddened.
+An ALO Player. Wind fairy Sylph.Leafa and Yuuki  are experiencing the little mermaid story in Anderson island. The little mermaid story, however, is a tragic love story. As Leafa did not want to face such a sad ending, she was terribly saddened.
 serif
 4_leafa_84025
 Leafa
@@ -9308,7 +9367,7 @@ wakeup
 wait
 stun
 step
-/D,
+/D(
 skill_64103
 skill_62101
 %&'
@@ -9653,6 +9712,7 @@ wakeup
 wait
 stun
 step
+/DX"
 skill_63131
 skill_62101
 %&'
@@ -11706,7 +11766,7 @@ wakeup
 wait
 stun
 step
-HDZ
+HDV
 skill_33108
 skill_32202
 skill_31201
@@ -12126,9 +12186,9 @@ wakeup
 wait
 stun
 step
-HDR
+HDN
 skill_2412401
-HD:
+HD6
 skill_24124
 skill_22102
 skill_21201
@@ -12293,7 +12353,7 @@ wakeup
 wait
 stun
 step
-zDv
+zDr
 skill_24116
 skill_22102
 skill_21201
@@ -12583,7 +12643,7 @@ wakeup
 wait
 stun
 step
-HD2
+HD.
 skill_2412401
 skill_24124
 skill_22102
@@ -12875,7 +12935,7 @@ wakeup
 wait
 stun
 step
-HDH
+HDD
 skill_23142
 skill_22102
 skill_21201
@@ -13113,7 +13173,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24034
-OS player. In the real world, Leafa visit a river in a mountain to hung out with Philia and Kirito. When they boot their Ogumas, they know the area is OS playable area. Three of them starts exploring the area. 
+An OS player. In the real world, Leafa visit a river in a mountain to hung out with Philia and Kirito. When they boot their Ogumas, they know the area is OS playable area. Three of them starts exploring the area. 
 serif
 4_leafa_24034
 Suguha

@@ -211,7 +211,7 @@ Unlocks lv. 10+ attributes for
 Lv. 10 New Spring Key
 Raises a character's level cap.
 [Bringer of Spring] Lisbeth
-New Spring Holy Hacking Crystal
+Holy New Spring Hacking Crystal
 Raises a character's level cap.
 [Bringer of Spring] Lisbeth
 New Spring Hacking Crystal
@@ -658,6 +658,11 @@ Upgrades characters
 (Global Ticket VIP limited characters only) 
 Rarity: High
 Global Upgrade Crystal 
+item_m_evolution_20009
+Upgrades character
+([Bringer of Spring] Lisbeth only) 
+Rarity: High
+New Spring Upgrade Crystal 
 item_m_evolution_20008
 Upgrades character
 ([Happy Memories] Sachi only) 

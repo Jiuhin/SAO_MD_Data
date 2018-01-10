@@ -1,14 +1,13 @@
 <f3
 <f3
-j0 N
-j0 N
-<f3
-g0 N
-g0 N
 <f3
 <f3
+<f3
+g0L
 L>f3
+g0L
 L>f3
+X0 N
 >e3
 >e3
 QCG
@@ -951,7 +950,6 @@ L?d3
 >d3
 >d3
 L>d3
-djF
 >d3
 L>d3
 L>d3

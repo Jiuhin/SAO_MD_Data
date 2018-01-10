@@ -1,158 +1,139 @@
-4x}
-lq}
-tL}
-0<{
-D7z
-(%y
-xcx
-tGx
-$'x
-,Tw
-d>w
-$ru
-(au
-lts
-(_s
-4Js
-pIs
-TGs
-l>s
-d6s
-,0s
-p+s
-p s
-8er
-8Ur
-d1r
-,jq
-([q
-PAq
-x3q
-Teo
-D	o
-0{n
-8dn
-Dfm
-xul
-d/k
-Dbj
-8Rj
-Hsi
-dFi
-47i
-X)i
-<Xh
-hJh
-$}g
-xlg
-0Tg
-(.g
-Dbf
-X]e
-dHe
-p4e
-XBd
-p8c
-xpb
-lua
-h5a
-,E]
-h5]
-xUZ
-LCZ
-XXX
-LLX
-47X
-P X
-p	X
-4OW
-x]V
-pFV
-P9V
-$0V
-(sU
-$"U
-TBS
-HcR
-(LR
-p	R
-4SQ
-(HQ
-lKP
-d%P
-tDO
-8ZN
-0LN
-<GM
-L4M
-D%M
-xML
-(eK
-4WK
-47K
-pCI
-d&I
-lbH
-,LH
-D>H
-DrG
-heG
-<VG
-t:G
-X5F
-PvE
-0&E
-H<D
-<_B
-X	B
-pn?
-X[?
-lO?
-4}>
-8r>
-Xe>
-8y<
-L"<
-L::
-X.:
-dQ9
-Lq8
-,P8
-<38
-8 8
-<P7
-Ti6
-<<6
-$t3
-Dd3
-HF3
-L-3
-Pb1
-Xn0
-0E0
-lL/
-L{.
-Ly-
-Lp,
-$],
-HJ,
-Tb)
-l6(
-Pv'
-<3'
-<"'
-xm&
-H?&
-$	&
-DA%
-Pp$
-4h"
-HI"
-85"
-0b!
-XM!
-t9!
-,j 
+4}}
+Lf{
+4Ty
+xOy
+Psx
+PKx
+L2x
+D$x
+8yw
+hov
+dnu
+(Zu
+dZt
+x>t
+X	t
+xds
+pJr
+,0r
+Lsq
+X"q
+tWo
+4sn
+PZn
+t4n
+Hlm
+x?m
+X2m
+pzl
+Prk
+(1k
+H$k
+xZj
+,1j
+T]i
+xeh
+,Vh
+dtg
+0cg
+,Cg
+<df
+<9f
+()f
+8:e
+Llb
+d&b
+pqa
+p(a
+P{_
+8C_
+85_
+t+]
+Xj[
+tZ[
+x?[
+D0[
+d"[
+xzZ
+PcZ
+lrY
+TiY
+pfX
+LMW
+P"W
+pzU
+PmU
+HaU
+$'U
+PST
+4RS
+(5R
+l!R
+0rQ
+pWQ
+DAQ
+l)Q
+H2P
+<(P
+DcO
+0rN
+LdN
+0>N
+0-N
+<nM
+PXM
+,iL
+XJL
+TsK
+DtJ
+drI
+lmH
+p9H
+x H
+p{G
+d3G
+<%G
+tyF
+8$E
+DOD
+DiC
+<DC
+P:C
+01C
+$&C
+x B
+hFA
+l A
+p_?
+P[>
+D{<
+4%9
+XD8
+0g7
+d17
+0Z6
+4I5
+X-5
+Pv4
+Dm4
+8O3
+$,3
+TB0
+D	-
+$x,
+T!,
+dk+
+<&+
+Du)
+Po'
+TF&
+8N%
+p]$
+tU"
+p]!
+L>!
+D1!
+Lk	
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -165,7 +146,6 @@ Kirito
 Did... Did that do it?
 Kirito
 2017110701_11_a
-Dr}
 still_14_heathcliff_dead
 Hngh!
 Kirito
@@ -208,6 +188,7 @@ bg_13_boss
 Gurgh!
 Kirito
 2017110701_1_a
+PEz
 Haha, Pop Star Online can't
 come out soon enough!
 Kazuto
@@ -220,6 +201,7 @@ I bet you'd be pretty dang good
 at it, too.
 Kazuto
 799999999_37_a
+,Gz
 You would...
 Kazuto
 799999999_36_a
@@ -231,6 +213,7 @@ Agil
 YOU want to be a pop star?
 Kazuto
 799999999_34_a
+4Hz
 For the millionth time, I...
 Wait, what?
 Kazuto
@@ -400,13 +383,1600 @@ You are here finally.
 You deserve some reward.
 ???
 480404801_4_a
+t z
 ???
 480404801_3_a
 ???
 480404801_2_a
+D!z
 bg_black
 ???
 480404801_1_a
+Oh, you flatter me!
+Do take care now.
+Head Priest
+407701201_22_a
+(%z
+We should be thanking you!
+It was an honor meeting one
+of our gaming forefathers.
+Asuna
+407701201_21_a
+Well, as the designer, let me just
+say that I'm thrilled you got to
+play in the world I constructed.
+Head Priest
+407701201_20_a
+Oh, wonderful!
+Head Priest
+407701201_19_a
+4'z
+No, not really. It's a story
+befitting of a head priest.
+I liked it.
+Asuna
+407701201_18_a
+l%z
+You didn't think the message was
+too overbearing?
+Head Priest
+407701201_17_a
+You got it.
+Asuna
+407701201_16_a
+Asuna
+407701201_15_a
+You definitely are, but I enjoyed
+it all the same. How about you,
+Asuna?
+Leafa
+407701201_14_a
+0)z
+But I know I can be a preachy old
+trickster too. Forgive me!
+Head Priest
+407701201_13_a
+8(z
+I thought it would be best if you
+went in knowing as little as
+possible.
+Head Priest
+407701201_12_a
+You'll have to forgive me for
+using you as beta testers.
+Head Priest
+407701201_11_a
+Ahh, no wonder it felt like a
+parable.
+Sinon
+407701201_9_a
+Silica
+407701201_10_a
+And I figured if I were to make my
+own, it'd have to be a story
+befitting of my priesthood.
+Head Priest
+407701201_8_a
+D+z
+The story of the old man and his
+grandson involved a player-made
+quest, which got me interested.
+Head Priest
+407701201_7_a
+Indeed! I taught myself by
+studying other players' quests.
+Head Priest
+407701201_6_a
+Wait, are you saying a player
+designed that quest?!
+Leafa
+407701201_5_a
+So you did create it!
+Asuna
+407701201_4_a
+Leafa
+407701201_3_a
+Asuna
+407701201_2_a
+bg_event_ayakashi_street
+Brilliant! You managed to complete
+my quest.
+Head Priest
+407701201_1_a
+D/z
+Silica
+407701101_23_a
+You'll see. Let's head back to the
+shrine in Kiyomihara.
+Asuna
+407701101_22_a
+Sinon
+407701101_21_a
+Who did?
+Leafa
+407701101_20_a
+T1z
+L1z
+Silica
+407701101_19_a
+Hehe, he had us right where he
+wanted us this whole time.
+Asuna
+407701101_18_a
+L2z
+See? I knew there was more to
+this quest!
+Leafa
+407701101_17_a
+Leafa
+407701101_16_a
+You're right. A lot of fables and
+folktales are meant to teach
+lessons like that.
+Sinon
+407701101_15_a
+I feel the same way. This felt
+more like an old folk tale.
+Silica
+407701101_14_a
+Silica
+407701101_13_a
+Yes, but what can you do?
+It would've been awfully
+convenient if the dogs returned.
+Asuna
+407701101_12_a
+p6z
+That was a bit of a downer.
+Doesn't seem like a happy
+ending at all...
+Sinon
+407701101_11_a
+Mmhmm...
+Leafa
+407701101_9_a
+Sinon
+407701101_10_a
+(7z
+That's a fine idea.
+Asuna
+407701101_8_a
+L9z
+We'll start by telling the others
+this story. May it serve as a
+lesson against our follies.
+Townsperson
+407701101_7_a
+p8z
+Thank you. We shall do our best
+to ensure this never happens
+again.
+Townsperson
+407701101_6_a
+I don't think they'll bother you
+or your people anymore.
+Asuna
+407701101_5_a
+But in the end, I think we got
+through to them.
+Asuna
+407701101_4_a
+Yes. I'm afraid that which is
+scorned does not return so easily.
+Asuna
+407701101_3_a
+Asuna
+407701101_2_a
+bg_event_riverside
+So they disappeared into the
+mountains, did they?
+Townsperson
+407701101_1_a
+I think they're remembering...
+Sinon
+407701001_47_a
+Leafa
+407701001_46_a
+Sinon
+407701001_45_a
+They've gone quiet!
+Silica
+407701001_44_a
+L>z
+Grrr... Gr...
+Wild Dogs
+407701001_43_a
+$Gz
+...Ruff!
+Wild Dogs
+407701001_42_a
+L?z
+Do you remember now?
+Asuna
+407701001_41_a
+xAz
+They've reflected on their
+actions. They want you to
+come back. To come home.
+Asuna
+407701001_40_a
+This collar used to belong to you.
+It's a symbol of the connection
+you shared with the villagers!
+Asuna
+407701001_39_a
+XAz
+Silica
+407701001_38_a
+XKz
+Sinon
+407701001_37_a
+Now's the time, Asuna!
+Leafa
+407701001_36_a
+xBz
+There they are!
+Sinon
+407701001_35_a
+Silica
+407701001_34_a
+Leafa
+407701001_33_a
+Sinon
+407701001_32_a
+GRRR!!
+Wild Dogs
+407701001_31_a
+dDz
+Sounds like a plan!
+Sinon
+407701001_30_a
+Silica
+407701001_29_a
+Leafa
+407701001_28_a
+It's worth a shot!
+Asuna
+407701001_27_a
+Asuna
+407701001_26_a
+LFz
+Silica
+407701001_25_a
+Tvz
+Hmm, maybe if we show it to them,
+they'll remember that they used to
+be cared for?
+Leafa
+407701001_24_a
+dGz
+,Hz
+Do you think we could use it?
+Sinon
+407701001_23_a
+Yeah, apparently they used these
+when they owned the dogs. There
+was only one left.
+Sinon
+407701001_22_a
+dRz
+Silica
+407701001_21_a
+Leafa
+407701001_20_a
+A collar? And a rather worn one
+at that.
+Asuna
+407701001_19_a
+I got this!
+Sinon
+407701001_18_a
+XJz
+Asuna
+407701001_17_a
+TTz
+Silica
+407701001_16_a
+Hey, Sinon's back!
+Leafa
+407701001_15_a
+tKz
+Asuna! Guys!
+Sinon
+407701001_14_a
+Leafa
+407701001_13_a
+It's possible. That's why we've
+sent Sinonon back to the village
+to have another look.
+Asuna
+407701001_12_a
+Maybe we need to trigger a
+scenario or something?
+Silica
+407701001_11_a
+LOz
+That's okay. What bothers me is
+that the game usually seems to
+be okay with this approach.
+Silica
+407701001_10_a
+lNz
+We wasted your time, bringing you
+all this way for nothing.
+Asuna
+407701001_9_a
+Oh no, we should apologize to you,
+if anything!
+Asuna
+407701001_8_a
+xPz
+S-Sorry... I couldn't help you...
+Silica
+407701001_7_a
+maybe you can talk to these wild
+dogs too?
+Leafa
+407701001_6_a
+xRz
+So we figured since you're a
+Beastmaster who can talk to
+animals like a Cait Sith,
+Leafa
+407701001_5_a
+N-Nope...
+Leafa
+407701001_4_a
+Silica
+407701001_3_a
+PRz
+Leafa
+407701001_2_a
+bg_event_riverside
+That didn't go so well, did it?
+Asuna
+407701001_1_a
+TSz
+Exactly!
+Asuna
+407700901_46_a
+pTz
+hTz
+Leafa
+407700901_45_a
+Yeah, they said they won't be
+using what we delivered for
+another two days. There's time.
+Sinon
+407700901_44_a
+Let's think about it for a minute.
+Asuna
+407700901_43_a
+I don't know... Maybe there's
+something more we can do.
+Asuna
+407700901_42_a
+Yes, according to the head priest.
+Sinon
+407700901_41_a
+LWz
+Was the goal of this quest really
+just the delivery of some ritual
+stuff?
+Leafa
+407700901_40_a
+Yeah, I guess neither option was
+great. That's pretty awful.
+Leafa
+407700901_39_a
+Sinonon's right. They made a
+difficult choice for the sake
+of their own survival.
+Asuna
+407700901_38_a
+lYz
+We can't fault them entirely,
+though.
+Sinon
+407700901_37_a
+That sounds an awful lot like
+selfishness to me...
+Leafa
+407700901_35_a
+Sinon
+407700901_36_a
+sigh
+Asuna
+407700901_34_a
+That's terrible...
+Asuna
+407700901_33_a
+We turned them loose in the
+mountains, in the hopes that
+they'd find a way to survive.
+Townsperson
+407700901_32_a
+This is painful to admit, but...
+There was a famine some years ago.
+Townsperson
+407700901_31_a
+T]z
+Did we own them, she asks!
+Townsperson
+407700901_30_a
+I mean, did the village own them?
+Leafa
+407700901_29_a
+0_z
+Were those wild dogs pets
+at some point?
+Leafa
+407700901_28_a
+We hope our prayers will be
+enough to eradicate those pests
+for good!
+Townsperson
+407700901_27_a
+Xaz
+We're going to use them to pray
+that those wild dogs you saw stop
+terrorizing our village.
+Townsperson
+407700901_26_a
+Daz
+Um, may I ask what you're going to
+use these ritual items for?
+Sinon
+407700901_25_a
+(az
+We noticed. They didn't pose too
+much trouble, though.
+Asuna
+407700901_24_a
+pcz
+Well, those wild dogs have made
+their den on the only road between
+here and Kiyomihara.
+Townsperson
+407700901_23_a
+We're just glad we could
+deliver them safely.
+Asuna
+407700901_22_a
+(cz
+Asuna
+407700901_21_a
+tcz
+Leafa
+407700901_20_a
+Sinon
+407700901_19_a
+8W{
+bg_event_riverside
+Ah, the ritual items! Thank you so
+much for bringing them all this
+way!
+Townsperson
+407700901_18_a
+({{
+Me too.
+Asuna
+407700901_17_a
+dez
+,fz
+Yeah, that's pretty tragic...
+I feel bad for those dogs now.
+Leafa
+407700901_16_a
+I'll buy that if it's true.
+It's a bit too real for me,
+but sure.
+Sinon
+407700901_15_a
+4iz
+They could be dogs that were
+abandoned. And now they've gone
+feral and attack humans instead.
+Asuna
+407700901_14_a
+Lots of people had dogs back in
+the olden days. Maybe that's why?
+Asuna
+407700901_13_a
+4hz
+You're not wrong. It's a bit
+ordinary, now that you mention it.
+Leafa
+407700901_12_a
+We've fought wolves, monsters,
+and mythological creatures.
+But dogs? That's a first.
+Sinon
+407700901_11_a
+Is that weird?
+Asuna
+407700901_10_a
+Yeah... But really? Wild dogs?
+Sinon
+407700901_9_a
+Asuna
+407700901_8_a
+Sinon
+407700901_7_a
+That should do it!
+Leafa
+407700901_6_a
+whimper
+Wild Dogs
+407700901_5_a
+Asuna
+407700901_4_a
+Hyah!
+Asuna
+407700901_3_a
+tmz
+lmz
+Asuna
+407700901_2_a
+bg_08_forest
+Grrrrrr!!
+Wild Dogs
+407700901_1_a
+Right behind you!
+Asuna
+407700801_46_a
+Whoa, the dogs! Let's take care of
+them first!
+Leafa
+407700801_45_a
+(pz
+Right on cue.
+Sinon
+407700801_44_a
+Grrrr...!
+???
+407700801_43_a
+Yeah, what could THAT mean?
+Asuna
+407700801_42_a
+Well, he did say "Enjoy!" as we
+left. Who says that to someone
+doing them a favor?
+Leafa
+407700801_41_a
+No, he doesn't seem dishonest.
+He's a head priest... There must
+be some hidden meaning there.
+Asuna
+407700801_40_a
+(sz
+Was the line about him not being
+good at combat just an excuse?
+Sinon
+407700801_39_a
+Oh yeah, that IS weird...
+Leafa
+407700801_38_a
+$uz
+Yeah, I was surprised he didn't
+come too. Especially since he's
+good at healing and support.
+Sinon
+407700801_37_a
+(uz
+I'm just wondering why the head
+priest didn't come along.
+Asuna
+407700801_36_a
+Is something wrong, Asuna?
+Sinon
+407700801_35_a
+Xvz
+Mmhmm...
+Asuna
+407700801_34_a
+Right. And once we take them out,
+all we have to do is deliver the
+ritual items to the village ahead.
+Asuna
+407700801_33_a
+Dyz
+A pack of wild dogs should spawn
+soon.
+Sinon
+407700801_32_a
+0xz
+Yes, according to the head priest.
+Asuna
+407700801_31_a
+Sinon
+407700801_30_a
+Asuna
+407700801_29_a
+bg_08_forest
+We just have to keep going, right?
+Leafa
+407700801_28_a
+May I ask something of you three?
+Head Priest
+407700801_27_a
+You know, I don't think it's
+coincidence that brought
+you here.
+Head Priest
+407700801_26_a
+L{z
+Yes, and in battle I'm best as
+a healer or support unit. I'm a
+little old for combat, you see.
+Head Priest
+407700801_25_a
+The job type you selected...
+You basically serve the deities,
+right?
+Leafa
+407700801_24_a
+A little experience? You've played
+enough to earn a shrine! Something
+tells me you've got skill.
+Sinon
+407700801_23_a
+Heh heh heh!
+Head Priest
+407700801_22_a
+And I have a little experience
+with computer games myself,
+so I thought it might be fun.
+Head Priest
+407700801_21_a
+Wow, that's incredible.
+Asuna
+407700801_20_a
+Upon hearing that, I thought
+AE might be a game even an
+old man like me could enjoy.
+Head Priest
+407700801_19_a
+he was able to find logs of
+what his grandson had done in
+the game. He died a happy man.
+Head Priest
+407700801_18_a
+And would you believe it? With the
+help of the other players in AE,
+Head Priest
+407700801_17_a
+There are rumors of an old man who
+wanted to connect with his dearly
+departed grandson.
+Head Priest
+407700801_16_a
+For starters, yes.
+But it was more than that.
+Head Priest
+407700801_15_a
+So it was the Japanese theme that
+drew you in?
+Asuna
+407700801_14_a
+And wouldn't you know it, that's
+when I found Asuka Empire!
+Head Priest
+407700801_13_a
+I was designing something on my
+computer when I first heard of
+VRMMOs, so I looked for one.
+Head Priest
+407700801_12_a
+Precisely. But I found myself
+unable to go against generations
+of family history.
+Head Priest
+407700801_11_a
+That's why you put your mark on
+all the goods you sell at the
+shrine.
+Sinon
+407700801_10_a
+I was once very much into design,
+you see. I thought that was where
+I would make my living.
+Head Priest
+407700801_9_a
+Hah! Well, I suppose it just comes
+naturally to me.
+Head Priest
+407700801_8_a
+Leafa
+407700801_7_a
+This is incredible! You manage
+two different shrines in two
+different worlds?
+Asuna
+407700801_6_a
+Heh heh, what a coincidence!
+Leafa
+407700801_5_a
+Sinon
+407700801_4_a
+Asuna
+407700801_3_a
+Leafa
+407700801_2_a
+bg_event_ayakashi_street
+Ah, so that's what this is about!
+You two are the girls who helped
+out at the real shrine!
+Head Priest
+407700801_1_a
+Are you really?!
+Sinon
+407700701_46_a
+Could it be?!
+Leafa
+407700701_45_a
+You are?!
+Asuna
+407700701_42_a
+I am indeed a head priest in the
+real world, as you suggested.
+Head Priest
+407700701_41_a
+Sinon
+407700701_44_a
+Leafa
+407700701_43_a
+I'm sorry?
+Asuna
+407700701_40_a
+You have quite the observant eye,
+my dear.
+Head Priest
+407700701_39_a
+Well, well, well...
+Head Priest
+407700701_38_a
+Well, you look the part. You
+even look like a real-life head
+priest...
+Asuna
+407700701_37_a
+I see.
+Asuna
+407700701_36_a
+I suppose I am the head priest,
+but I've not done anything
+befitting of the title.
+Head Priest
+407700701_35_a
+I was only given this land after
+completing several quests.
+Head Priest
+407700701_34_a
+But I merely chose to be a servant
+of the divine in AE.
+Head Priest
+407700701_33_a
+Ha ha! Head Priest! How
+delightfully polite! I don't
+mind the title, of course...
+Head Priest
+407700701_32_a
+Well, thank you all the same.
+We...actually have something
+to ask you, Head Priest.
+Asuna
+407700701_31_a
+Oh, it's nothing. I merely
+provided the stage upon which the
+admins could perform their quest.
+Head Priest
+407700701_30_a
+Thank you so much for all you
+did the other day.
+Asuna
+407700701_29_a
+Sinon
+407700701_28_a
+Leafa
+407700701_27_a
+$1{
+Asuna
+407700701_26_a
+Ah, why hello again.
+Head Priest
+407700701_25_a
+The article supposed that the
+historical Japan motif was a
+bigger draw than the combat.
+Sinon
+407700701_24_a
+I read in an article recently that
+AE is attracting older gamers.
+Sinon
+407700701_23_a
+Oh yeah, now that you mention it,
+we look pretty close to our real
+selves.
+Leafa
+407700701_22_a
+No, he's probably that old. Asuka
+Empire scans your body to create a
+realistic representation of you.
+Asuna
+407700701_21_a
+Er, assuming he's as old as his
+avatar suggests, I guess.
+Leafa
+407700701_20_a
+The old guy? Wow, talk about
+being on the upper end of the
+VR demographic.
+Leafa
+407700701_19_a
+Ah, there's the head priest now!
+Asuna
+407700701_18_a
+Yeah.
+Asuna
+407700701_17_a
+bg_event_ayakashi_street
+So this is where the shrine maiden
+quest took place?
+Sinon
+407700701_16_a
+Good point! Let's go!
+Leafa
+407700701_15_a
+It might be worth bringing her
+along, since we don't know
+anything about AE's costume data.
+Asuna
+407700701_14_a
+Something's definitely fishy about
+that. Mind if I invite Sinonon
+along to investigate?
+Asuna
+407700701_13_a
+Why is Asuka Empire drawing on
+real-world clothing data?
+Leafa
+407700701_12_a
+But how? That design was made by
+the head priest at my shrine...
+Leafa
+407700701_11_a
+Wow, the entire outfit's the same!
+Right down to the logo!
+Leafa
+407700701_10_a
+There it is! Right there, on the
+chest.
+Asuna
+407700701_9_a
+Yes! That was it!
+Hang on, I'll find a picture.
+Asuna
+407700701_8_a
+...a stylized little fox?
+An Inari?
+Leafa
+407700701_7_a
+Really? Was it, by chance...
+Leafa
+407700701_6_a
+The in-game shrine maiden outfits
+also had a little mark on them.
+Asuna
+407700701_5_a
+I participated in a shrine maiden
+quest with Alice in Asuka Empire.
+Asuna
+407700701_4_a
+Y-Yeah. Why?
+Leafa
+407700701_3_a
+Leafa
+407700701_2_a
+bg_11_home_lounge
+Wait, there's a small crest on
+the shrine maiden outfits?
+Asuna
+407700701_1_a
+Why thank you for saying so!
+I'll pass that along.
+Shrine Employee
+407700601_39_a
+I like it! It's cute. I think it
+will catch young customers'
+attention.
+Suguha
+407700601_38_a
+But he created the design and
+thought it a shame not to use it.
+Shrine Employee
+407700601_37_a
+No, it's more of a hobby,
+I believe.
+Shrine Employee
+407700601_36_a
+Is the head priest also a
+designer?
+Shino
+407700601_35_a
+The head priest of this shrine
+designed that logo.
+Shrine Employee
+407700601_34_a
+What do you mean?
+Suguha
+407700601_33_a
+Ah, so you have noticed! That
+is the playfulness of our dear
+head priest shining through.
+Shrine Employee
+407700601_32_a
+Oh yeah! I was curious about that
+too. It looks like a little crest.
+Our outfits have them too.
+Shino
+407700601_31_a
+Some of the things you sell here
+have a little logo-looking mark
+on them.
+Suguha
+407700601_30_a
+Huh, you know, I've been meaning
+to ask about that.
+Suguha
+407700601_29_a
+Wait, licensed goods...?
+Shino
+407700601_28_a
+Heh heh, there's no need to
+worry over the details. Here,
+imagine they're licensed goods.
+Shrine Employee
+407700601_27_a
+I mean, each one has some sort of
+divine power in it, so if I just
+keep that in mind...
+Suguha
+407700601_26_a
+Are you all right?
+Shrine Employee
+407700601_25_a
+Y-Yeah, I'll manage... Somehow...
+Suguha
+407700601_24_a
+Wow, this is a bigger selection
+than I imagined. Think you can
+remember it all, Suguha?
+Shino
+407700601_23_a
+These are the items we sell here.
+Shrine Employee
+407700601_22_a
+Okay, I'll do my best!
+Suguha
+407700601_21_a
+Take it one item at a time and
+you'll be fine.
+Shrine Employee
+407700601_20_a
+Wow, it sounds like there's a lot
+to keep track of. I hope I can
+keep all that in my head!
+Suguha
+407700601_19_a
+So do be on the lookout for that.
+Shrine Employee
+407700601_18_a
+In addition, children sometimes
+get lost and elderly worshipers
+may require guidance.
+Shrine Employee
+407700601_17_a
+We may ask you to clean when
+you have the time.
+Shrine Employee
+407700601_16_a
+But we can't very well tell them
+not to tread on our grounds!
+Shrine Employee
+407700601_15_a
+Sadly, yes. The more people we
+have, the dirtier it gets. There's
+no stopping that.
+Shrine Employee
+407700601_14_a
+And I suppose the more worshipers
+we have, the more cleaning we'll
+need to do.
+Shino
+407700601_13_a
+You must organize the storeroom,
+keep goods flowing, and manage
+the lines of customers.
+Shrine Employee
+407700601_12_a
+The worshipers will come non-stop
+for nearly four days. We must keep
+charms on the shelves.
+Shrine Employee
+407700601_11_a
+Fear not, I'll teach you. But know
+that this job is about more than
+sitting and taking money!
+Shrine Employee
+407700601_10_a
+I've had a little experience with
+one in VR, but...
+Suguha
+407700601_9_a
+I have experience working a
+register. That won't be a problem.
+Shino
+407700601_8_a
+You shall primarily be responsible
+for selling charms and amulets,
+as well as votive pictures.
+Shrine Employee
+407700601_7_a
+Yes!
+Suguha
+407700601_6_a
+Now, allow me to explain your
+duties as shrine maidens.
+Shrine Employee
+407700601_5_a
+Heh heh, why thank you.
+Suguha
+407700601_4_a
+Shino
+407700601_3_a
+HZ{
+Suguha
+407700601_2_a
+$4{
+bg_event_japan_castle
+The shrine maiden outfit suits
+you both quite well.
+Shrine Employee
+407700601_1_a
+Suguha
+407700501_24_a
+Shino
+407700501_23_a
+Yes!
+Shino & Suguha
+407700501_22_a
+The pleasure is all mine.
+I'll warn you that this is a busy
+time of year. Are you ready?
+Shrine Employee
+407700501_21_a
+Indeed I am. It is a pleasure to
+meet you.
+Shino
+407700501_20_a
+So you must be Suguha Kirigaya,
+and you must be Shino Asada.
+Shrine Employee
+407700501_19_a
+Yes, we are. Er, well, I'm on a
+work-study assignment.
+Suguha
+407700501_18_a
+Ah, you must be our new
+assistants.
+Shrine Employee
+407700501_17_a
+Yeah, it's pretty famous, even
+in Kawagoe.
+Suguha
+407700501_16_a
+Suguha
+407700501_15_a
+bg_event_japan_castle
+So this is where we'll be working?
+Wow, I can feel the history from
+here.
+Shino
+407700501_14_a
+Oh, yeah! Tons!
+Leafa
+407700501_13_a
+Nice! So, was there anything cool
+or funny you want to tell me?
+Asuna
+407700501_12_a
+Yeah! It had its ups and downs,
+but it turned out all right in the
+end!
+Leafa
+407700501_11_a
+So how'd the job go? Was it fun?
+Asuna
+407700501_10_a
+O-Oh. Okay...
+Leafa
+407700501_9_a
+Heh heh, don't worry about it!
+It's water under the bridge.
+Asuna
+407700501_8_a
+You're not? Then why did you...?
+Leafa
+407700501_7_a
+I'm not mad at you or Sinonon,
+though.
+Asuna
+407700501_6_a
+Yeah, he did. He said you were
+pretty upset...
+Leafa
+407700501_5_a
+Oh, don't worry about it.
+Didn't Kirito tell you we talked?
+Asuna
+407700501_4_a
+I should've told you I was working
+with Sinon.
+Leafa
+407700501_3_a
+hh{
+Asuna
+407700501_2_a
+DB{
+bg_11_home_lounge
+Hey, Asuna. I'm sorry.
+Leafa
+407700501_1_a
+Okay, now you're making a face!
+I do not like the look of those
+eyes...
+Kirito
+407700401_27_a
+Based on what you've told me, it
+sounds like you've committed that
+image to memory!
+Asuna
+407700401_26_a
+Totally. But...
+Asuna
+407700401_25_a
+Y-Yeah! It was a total accident.
+Kirito
+407700401_24_a
+It was an accident! You
+poked your head in while
+Sinonon was changing.
+Asuna
+407700401_23_a
+Y-You do?
+Kirito
+407700401_22_a
+Kirito
+407700401_21_a
+bg_11_home_lounge
+Ahh, I see how it is.
+Asuna
+407700401_20_a
+Suguha
+407700401_19_a
+Shino
+407700401_18_a
+Right. Sorry...
+Kazuto
+407700401_17_a
+You sure you wanna go back there?
+Suguha
+407700401_16_a
+I had to make sure it fit, okay?!
+I can't work in an outfit that
+doesn't fit!
+Shino
+407700401_15_a
+Okay, so... Why are you dressed
+like a shrine maiden, anyway?
+Kazuto
+407700401_14_a
+sigh
+Whatever...
+Shino
+407700401_13_a
+Yeah, so she wouldn't find out
+about it through some rumor.
+Suguha
+407700401_12_a
+So that's why you wanted to tell
+Asuna yourself.
+Shino
+407700401_11_a
+Still, it's not like I lied!
+Shino's a friend! And we're
+going to work together!
+Suguha
+407700401_10_a
+I...thought I would keep it a
+secret? Heh heh...
+Suguha
+407700401_9_a
+You didn't?! Why didn't you tell
+him it was me, Suguha?
+Shino
+407700401_8_a
+But you didn't say it was Shino!
+Kazuto
+407700401_7_a
+I told you I was having a friend
+over tonight.
+Suguha
+407700401_6_a
+Well, I didn't expect to see Shino
+standing there...
+Kazuto
+407700401_5_a
+What the hell, man? Poking your
+head in while a girl's changing?
+I can't believe you right now!
+Suguha
+407700401_4_a
+Kazuto
+407700401_3_a
+Suguha
+407700401_2_a
+bg_event_kirigaya_living
+sigh
+Shino
+407700401_1_a
+py{
+Kazuto
+407700301_25_a
+Just shut the damn door already!!
+Shino
+407700301_24_a
+T"{
+Why are you even in my house?!
+What's going on here?! What's with
+the shrine maiden outfit?!
+Kazuto
+407700301_23_a
+Er, uh, or maybe I should
+call you Shino?!
+Kazuto
+407700301_22_a
+K-Kirito!
+Shino
+407700301_21_a
+S-Sinon! What're you doing here?!
+Kazuto
+407700301_20_a
+Ah!!
+Shino
+407700301_19_a
+Shino
+407700301_18_a
+,h{
+What the?!
+Kazuto
+407700301_17_a
+Hey, Sugu?
+Kazuto
+407700301_16_a
+Huh. Is Sugu back already?
+Kazuto
+407700301_15_a
+Mmhmm...
+Kazuto
+407700301_14_a
+You're not even listening...
+Then we're going to Mars!
+Suguha
+407700301_13_a
+4){
+Got it...
+Kazuto
+407700301_12_a
+And she's a guest, so be on your
+best behavior!
+Suguha
+407700301_11_a
+Got it...
+Kazuto
+407700301_10_a
+Oh, just so you know, my friend
+is coming over tonight. The one
+who's doing the shrine job.
+Suguha
+407700301_9_a
+Ah, but I also want to upgrade
+Yui's probe a bit more. What
+should I do first?
+Kazuto
+407700301_8_a
+Wow, great excuse...
+Suguha
+407700301_7_a
+Maybe it's time I bought it...
+Kazuto
+407700301_6_a
+P-{
+I was just checking out a really
+good deal on this motherboard.
+Kazuto
+407700301_5_a
+Sorry. You're right.
+Kazuto
+407700301_4_a
+Where are your manners, bro?
+Suguha
+407700301_3_a
+Put your tablet down while we're
+eating!
+Suguha
+407700301_2_a
+bg_event_kirigaya_living
+sigh
+Kazuto
+407700301_1_a
+O-Okay, I'll tell you...
+Kirito
+407700201_28_a
+This will be much easier if you
+just tell me what happened. Or is
+it something she's hiding from me?
+Asuna
+407700201_27_a
+8e{
+I-It was nothing!
+Kirito
+407700201_26_a
+Spill it!
+Asuna
+407700201_25_a
+N-No! What? No way! Nothing!
+Kirito
+407700201_24_a
+Something happened!
+Asuna
+407700201_23_a
+That face... You're making a face.
+Asuna
+407700201_22_a
+N-Nope. Nothing!
+Kirito
+407700201_21_a
+So nothing happened while she
+was there?
+Asuna
+407700201_20_a
+R-Right...
+Kirito
+407700201_19_a
+I'm sure you're right. She was
+there as Suguha's friend. That's
+all.
+Asuna
+407700201_18_a
+She just forgot to bring it up.
+She wasn't hiding it from you.
+At least, I don't think she was...
+Kirito
+407700201_17_a
+And Sinonon didn't even tell me...
+Asuna
+407700201_16_a
+Uh-huh...
+Asuna
+407700201_15_a
+Which means there are a lot of
+part-time shrine maiden jobs
+around that time.
+Kirito
+407700201_14_a
+Yeah. We live near a bunch of
+shrines and temples. Not as many
+as AE has, but a good amount.
+Kirito
+407700201_13_a
+So she only stayed there while
+she was working at the shrine?
+Asuna
+407700201_12_a
+All I knew is that Sugu was having
+a friend over.
+Kirito
+407700201_11_a
+F-For the record, I didn't hear
+about this until after it
+happened, okay?
+Kirito
+407700201_10_a
+<E{
+Sh-She what?!
+Asuna
+407700201_9_a
+Yeah. She stayed at my house
+for a couple of days.
+Kirito
+407700201_8_a
+Oh, cool! But...doesn't Sinon
+live in Tokyo?
+Asuna
+407700201_7_a
+Yeah. It was part of her school's
+work-study program. Sinon was
+the one working part-time.
+Kirito
+407700201_6_a
+As a part-time job? But Leafa's
+still in middle school!
+Asuna
+407700201_5_a
+No, no, in real life. You know,
+how they hire extras around
+New Year's.
+Kirito
+407700201_4_a
+Really? In Asuka Empire?!
+Asuna
+407700201_3_a
+Asuna
+407700201_2_a
+bg_11_home_lounge
+I heard Sinon and Sugu tried it
+too.
+Kirito
+407700201_1_a
+Yeah?
+Asuna
+407700101_35_a
+Oh! Speaking of the shrine maiden
+thing...
+Kirito
+407700101_34_a
+Heh, I think that says more about
+Alice's level of devotion than
+anything.
+Asuna
+407700101_33_a
+Ha ha, wow, that's harsh.
+I guess that's how he was
+before he lost his memory.
+Kirito
+407700101_32_a
+She said Eugeo's not devout enough
+to be moved.
+Asuna
+407700101_31_a
+When I mentioned that deities
+were enshrined there, Alice made
+a comment.
+Asuna
+407700101_30_a
+Really? Huh. I wonder what makes
+them so different...
+Kirito
+407700101_29_a
+I took Eugeo to the shrines too,
+but it didn't move him like it
+moved Alice.
+Asuna
+407700101_28_a
+dG{
+So, what about Eugeo?
+Kirito
+407700101_27_a
+You got it.
+Asuna
+407700101_26_a
+you ended up getting involved
+with the shrine maiden event?
+Kirito
+407700101_25_a
+So that's how it started?
+Once you were at the shrines,
+Kirito
+407700101_24_a
+She's been feeling pretty terrible
+lately, so I figured slowing down
+a bit might do her some good.
+Asuna
+407700101_23_a
+Precisely. And wouldn't you know,
+she said she felt incredibly
+comfortable. My hunch was right!
+Asuna
+407700101_22_a
+Right, Asuka Empire's full of
+shrines and temples, given its
+Japanese theme.
+Kirito
+407700101_21_a
+So I decided to take her to the
+shrine area.
+Asuna
+407700101_20_a
+She said she felt incredibly at
+peace, like something had calmed
+her from within.
+Asuna
+407700101_19_a
+PM{
+Really? Like what?
+Kirito
+407700101_18_a
+Alice said she felt something
+the last time we were in AE.
+Asuna
+407700101_17_a
+lW{
+Well, it's funny you should say
+that...
+Asuna
+407700101_16_a
+Man, I just can't picture
+Alice doing all that.
+Kirito
+407700101_15_a
+l<{
+Yep!
+Asuna
+407700101_14_a
+You mean like girls doing a part-
+time job when worshipers come for
+the first prayers of the new year?
+Kirito
+407700101_13_a
+Yeah, we both went. Alice even
+did a New Year's shrine maiden
+event.
+Asuna
+407700101_12_a
+Wow. She liked it that much, huh?
+Kirito
+407700101_11_a
+Alice actually went back into
+Asuka Empire after that.
+Asuna
+407700101_10_a
+They're doing much better.
+Asuna
+407700101_9_a
+You know, you're right.
+How are they feeling?
+Kirito
+407700101_8_a
+I haven't seen you since we played
+Asuka Empire with Alice and Eugeo
+and recovered that Divine Object.
+Asuna
+407700101_7_a
+Well, if memory serves...
+Asuna
+407700101_6_a
+DU{
+I didn't even have time to dive
+into VR that much.
+Kirito
+407700101_5_a
+Yeah, I know. Our schedules didn't
+really line up over the New Year's
+break.
+Kirito
+407700101_4_a
+Hi, Kirito. It's, ah...
+It's been a while.
+Asuna
+407700101_3_a
+Asuna
+407700101_2_a
+bg_11_home_lounge
+Hey Asuna.
+Kirito
+407700101_1_a
 Leafa
 407501201_29_a
 Uggghhhh...
@@ -414,6 +1984,7 @@ Kirito
 407501201_28_a
 Yuuki
 407501201_27_a
+X {
 Pina
 407501201_26_a
 Heh heh! I guess the mochi fight
@@ -466,6 +2037,7 @@ Kirito
 407501201_13_a
 Kirito
 407501201_12_a
+< {
 That ought to give you a leg up
 in other VRMMOs too. At least,
 I hope it helps!
@@ -477,6 +2049,8 @@ Player F
 407501201_9_a
 Pina
 407501201_10_a
+L {
+0c{
 Heh, you're very welcome! I'm glad
 the mochi-making competition had
 a happy ending.
@@ -502,6 +2076,7 @@ Leafa
 GRRRRRGHHH!
 Ogre
 407501201_2_a
+(${
 bg_event_ayakashi_street
 HYAAAAH!
 Kirito
@@ -518,17 +2093,22 @@ Okay, I think we're set.
 Let's kill some ogres!
 Kirito
 407501101_30_a
+01{
 Pina
 407501101_29_a
 YEAH!
 Players
 407501101_28_a
+T){
 Swords and spears, charge with me
 on my command!
 Yuuki
 407501101_27_a
+,){
+(){
 Yuuki
 407501101_26_a
+t){
 Pina
 407501101_25_a
 Shamans and Warrior Monks!
@@ -536,6 +2116,7 @@ Stay to the sides and heal our
 fighters!
 Silica
 407501101_24_a
+,Z{
 Archery unit's in place!
 Leafa
 407501101_23_a
@@ -551,6 +2132,7 @@ Ogre
 Alright, leave it to me!
 Kirito
 407501101_19_a
+<-{
 I got some good mochi out of this!
 Running home screaming won't make
 for a story worth telling!
@@ -560,9 +2142,11 @@ Yeah, I don't want this to end on
 a downer!
 Player G
 407501101_17_a
+D0{
 Okay then. Give us some roles!
 Player F
 407501101_16_a
+,/{
 Get that down and the routine
 won't change much from game
 to game.
@@ -573,6 +2157,7 @@ knowing your role and
 executing it well!
 Kirito
 407501101_14_a
+<:{
 Yuuki
 407501101_13_a
 Leafa
@@ -581,11 +2166,13 @@ Ha ha, I don't know about that,
 but okay...
 Silica
 407501101_11_a
+la{
 Not in AE. We're newbies here.
 But we'll get used to it soon
 enough.
 Kirito
 407501101_10_a
+p2{
 He's got a point. Have you guys
 fought in raids before?
 Player E
@@ -600,6 +2187,7 @@ run for large-scale battles that
 the admins came up with.
 Kirito
 407501101_7_a
+P6{
 Most of the game's quests can be
 done by one person or a small
 group.
@@ -618,6 +2206,8 @@ get into formation for a raid
 battle.
 Kirito
 407501101_3_a
+L7{
+D7{
 Kirito
 407501101_2_a
 bg_event_ayakashi_street
@@ -625,6 +2215,7 @@ What was the point of leading us
 here?
 Player E
 407501101_1_a
+X8{
 Leafa
 407501001_37_a
 Go for it!
@@ -656,6 +2247,7 @@ Silica
 407501001_28_a
 Pina
 407501001_27_a
+4m{
 There's a courtyard through that
 alley!
 Yuuki
@@ -676,6 +2268,7 @@ Kirito
 407501001_22_a
 Yuuki
 407501001_21_a
+dJ{
 Pina
 407501001_20_a
 What do we do? I don't think we
@@ -685,6 +2278,7 @@ Silica
 AHHHHHH!
 Player F
 407501001_18_a
+(B{
 SKREEE!
 Mochi Monster
 407501001_17_a
@@ -698,13 +2292,16 @@ players we met did say that AE
 plays pretty differently.
 Kirito
 407501001_14_a
+0D{
 Pina
 407501001_13_a
+$F{
 There's a lot of PvP, and people
 like to split off and explore the
 rich setting for themselves.
 Yuuki
 407501001_12_a
+HE{
 Ah yeah, teamwork is one of the
 weak points in the AE player base.
 Yuuki
@@ -718,12 +2315,15 @@ Silica
 407501001_8_a
 Yuuki
 407501001_10_a
+TG{
 Kirito
 407501001_7_a
+HI{
 Do AE players not know how to
 fight as a team?
 Leafa
 407501001_6_a
+<H{
 We need healers, not shields!
 Someone's gotta keep us alive!
 Player G
@@ -735,6 +2335,7 @@ Player F
 Run for your liiiiife!
 Player E
 407501001_3_a
+0J{
 Skraaawwr!
 SKRAAAAAHHH!
 Mochi Monster
@@ -743,9 +2344,11 @@ bg_event_ayakashi_street
 GRAAAAAAHHHHH!
 Ogre
 407501001_1_a
+hK{
 It's no use! They're too panicked.
 Kirito
 407500901_63_a
+PN{
 HELP! There's no way we can
 beat them all!
 Players
@@ -758,6 +2361,7 @@ Kirito
 I see that. Everyone, form up!
 Kirito
 407500901_60_a
+,P{
 Look! It says we've triggered an
 event battle!
 Leafa
@@ -775,6 +2379,7 @@ Player D
 Skraaaaawrr!
 Mochi Monster
 407500901_54_a
+HQ{
 Look out! The ogres are going
 nuts!
 Player C
@@ -782,6 +2387,7 @@ Player C
 GYYYYAAAAAAAGGGGGHHH!
 Ogre
 407500901_52_a
+dR{
 And now they're turning this
 mochi monstrosity loose on us!
 Yuuki
@@ -796,6 +2402,8 @@ some sort of power that turned
 it into a monster!
 Yuuki
 407500901_49_a
+tT{
+pT{
 Yuuki
 407500901_48_a
 Pina
@@ -809,6 +2417,8 @@ I knew it! This is what they were
 really up to!
 Kirito
 407500901_44_a
+tV{
+pV{
 Yuuki
 407500901_43_a
 Pina
@@ -820,8 +2430,10 @@ Silica
 Graaaaaaoooooh!
 Ogre
 407500901_40_a
+$X{
 Kirito
 407500901_39_a
+<Y{
 I don't even know!
 Leafa
 407500901_38_a
@@ -833,6 +2445,7 @@ Yuuki
 407500901_36_a
 Yuuki
 407500901_35_a
+$Z{
 Pina
 407500901_34_a
 The mochi is moving!!
@@ -870,6 +2483,7 @@ Kirito
 407500901_23_a
 Pina
 407500901_22_a
+xb{
 Everyone got tired of eating mochi
 and now it's just piling up!
 Silica
@@ -879,6 +2493,7 @@ Silica
 407500901_20_a
 Silica
 407500901_19_a
+ha{
 Pina
 407500901_18_a
 Yeah, it's getting a little weird,
@@ -886,10 +2501,12 @@ huh? This is probably their job,
 but their dedication is...slavish.
 Yuuki
 407500901_17_a
+8d{
 How much mochi are they gonna
 make, anyway?
 Leafa
 407500901_16_a
+(c{
 A lot of players have moved on,
 but these two are still going at
 it.
@@ -900,6 +2517,7 @@ Leafa
 ...
 Kirito
 407500901_13_a
+Ln{
 Pina
 407500901_12_a
 Grugh!
@@ -924,6 +2542,7 @@ one, so then I want a sweet one.
 That's how they get you!
 Leafa
 407500901_5_a
+xh{
 Of course not. You ate too much...
 Kirito
 407500901_4_a
@@ -937,6 +2556,7 @@ bg_event_ayakashi_street
 Oh yeah, that hit the spot.
 Kirito
 407500901_1_a
+Dk{
 Silica
 407500801_69_a
 Pina
@@ -944,12 +2564,14 @@ Pina
 Sounds good!
 Yuuki
 407500801_67_a
+Xl{
 Leafa
 407500801_66_a
 Ha ha, then let's dig into this
 mochi buffet!
 Kirito
 407500801_65_a
+Lm{
 Pina
 407500801_64_a
 Now that I'm looking at it,
@@ -957,6 +2579,8 @@ I think my appetite just came
 back!
 Silica
 407500801_63_a
+Hn{
+Dn{
 Pina
 407500801_62_a
 Yuuki
@@ -965,25 +2589,31 @@ Oh my gosh, that last one makes it
 sound like dessert!
 Silica
 407500801_60_a
+0q{
 Roasted soybean flour! Cheese!
 Fermented soybeans! Black sesame
 seed paste and jam, even!!
 Leafa
 407500801_59_a
+Pp{
 Kirito
 407500801_58_a
 Wow, you're right!
 Look at all that!
 Leafa
 407500801_57_a
+4q{
 Pina
 407500801_56_a
+(s{
 I bet you could create a lot of
 different flavor combinations!
 Yuuki
 407500801_55_a
+,r{
 Silica
 407500801_54_a
+tr{
 Pina
 407500801_53_a
 I'm not saying you have to, but
@@ -1010,6 +2640,7 @@ Silica
 Yeah, let's!
 Leafa
 407500801_46_a
+xv{
 Maybe we should try some.
 Kirito
 407500801_45_a
@@ -1517,7 +3148,6 @@ Now it really feels like New
 Year's!
 Yuuki
 407500501_11_a
-H:}
 Yuuki
 407500501_9_a
 Leafa's right! They must've been
@@ -1795,7 +3425,6 @@ Kirito
 Pina looks pretty stunned...
 Leafa
 407500301_27_a
-8f}
 Silica
 407500301_26_a
 Chirp...
@@ -1808,7 +3437,6 @@ Kirito
 407500301_23_a
 Leafa
 407500301_22_a
-0h}
 Kirito
 407500301_21_a
 What're all those animals chasing
@@ -1839,7 +3467,6 @@ Kirito
 407500301_12_a
 Pina
 407500301_11_a
-hW}
 G-Guys, help!!
 Silica
 407500301_10_a
@@ -1884,7 +3511,6 @@ Silica
 407500201_37_a
 Pina
 407500201_36_a
-0P}
 Sounds good!
 Leafa
 407500201_35_a
@@ -1913,7 +3539,6 @@ Leafa
 407500201_28_a
 Yuuki
 407500201_27_a
-l!}
 Oh, wow. What jobs did you guys
 pick?
 Kirito
@@ -1939,7 +3564,6 @@ Pina
 Heh heh, well...
 Silica
 407500201_19_a
-D%}
 Heh, don't you mean monsters?
 Or do you think they're all little
 animals like Pina?
@@ -1960,7 +3584,6 @@ Ah, but first there are a lot of
 tutorials to get through.
 Yuuki
 407500201_14_a
-d(}
 Yeah, I did notice a lot of them
 around there last time. We'll
 have to check it out!
@@ -2052,7 +3675,6 @@ Yuuki
 407500101_22_a
 Yuuki
 407500101_21_a
-d7}
 Ha ha, I wouldn't think too hard
 about the historical background.
 Kirito
@@ -2068,6 +3690,7 @@ Wow! So this is that Asuka Empire
 I keep hearing about!
 Leafa
 407500101_17_a
+T4}
 Thanks.
 Kirito
 407500101_16_a
@@ -2084,7 +3707,6 @@ all use a break now and then.
 Besides, I know you want to go.
 Asuna
 407500101_13_a
-P<}
 Are you sure? I feel pretty bad.
 Kirito
 407500101_12_a
@@ -2138,7 +3760,6 @@ Kirito
 Good talk!
 Agil
 407401201_20_a
-4D}
 But w-w-wait!
 Kirito
 407401201_19_a
@@ -2146,7 +3767,6 @@ Be sure to tell Rain and Sinon
 and the gang, okay?
 Agil
 407401201_18_a
-HE}
 B-But...!
 Kirito
 407401201_17_a
@@ -2228,7 +3848,6 @@ Makes sense! All of us have pretty
 powerful sword skills as well.
 Rain
 407401101_32_a
-lS}
 The kind that rounds the monsters
 up for easy killing!
 Kirito
@@ -2253,7 +3872,6 @@ They must have smelled it and
 come running.
 Yuuki
 407401101_26_a
-4W}
 How are they different?
 Kirito
 407401101_25_a
@@ -2275,7 +3893,6 @@ It's total chaos, despite the
 number of players around.
 Rain
 407401101_20_a
-XG}
 Never better!
 Yuuki
 407401101_19_a
@@ -2329,7 +3946,6 @@ Player B
 Graaaagh!
 Monster
 407401101_3_a
-P }
 What?!
 Player B
 407401101_2_a
@@ -2337,14 +3953,11 @@ bg_event_tree_snow_christmas
 Augh!
 Player B
 407401101_1_a
-h!}
 )rH
 )rH
 Konechno! Right behind you!
 Rain
 407401001_30_a
-T"}
-8e}
 )rH
 I'm pumped just thinking about it!
 Time to shine, Rain! C'mon!
@@ -2362,8 +3975,6 @@ Rain
 Then that means it's up to us!
 Kirito
 407401001_26_a
-t$}
-Xg}
 )rH
 Oh yeah...
 Kirito
@@ -2373,13 +3984,11 @@ People are really in no shape
 to fight right now!
 Rain
 407401001_24_a
-,'}
 )rH
 Now combine that with all the
 dancing Agil's been encouraging!
 Rain
 407401001_23_a
-0&}
 )rH
 The attack was so sudden that
 it caught a lot of people off
@@ -2397,7 +4006,6 @@ monsters here to overwhelm
 all these players?
 Kirito
 407401001_20_a
-<(}
 )rH
 Yuuki's single-handedly fending
 them off, but that won't last!
@@ -2414,7 +4022,6 @@ Rain
 )rH
 Kirito
 407401001_16_a
-Dt}
 )rH
 Kirito! Rain! This way!
 Liz
@@ -2450,7 +4057,6 @@ We're outside the safe zone
 after all!
 Rain
 407401001_7_a
-,.}
 )rH
 Do you think something's happened?
 Sinon
@@ -2473,8 +4079,6 @@ bg_event_tree_snow_christmas
 Ahhhhhhhhh!
 Players
 407401001_1_a
-h1}
-02}
 Heh...
 Rain
 407400901_37_a
@@ -2486,7 +4090,6 @@ Say something, Kirito!
 This is getting depressing!
 Sinon
 407400901_35_a
-,3}
 ...
 Kirito
 407400901_34_a
@@ -2495,7 +4098,6 @@ shaved ice. Not that I need it
 at this time of year.
 Rain
 407400901_33_a
-X4}
 I don't know why anyone would
 ever want that, though...
 Sinon
@@ -2509,7 +4111,6 @@ I got glasses that give you a
 funny face when you equip them.
 Kirito
 407400901_30_a
-d6}
 If you say so. So, what'd
 everybody get in return?
 Kirito
@@ -2518,7 +4119,6 @@ Eh, it happens. Don't worry about
 it. I'm fine.
 Rain
 407400901_28_a
-Hg}
 That's just rude!
 Sinon
 407400901_27_a
@@ -2526,19 +4126,16 @@ What?! Who says that at a gift
 swap?!
 Kirito
 407400901_26_a
-P:}
 She was pretty happy with it.
 Said she could sell it for a lot
 of money...
 Rain
 407400901_25_a
-X9}
 Sinon
 407400901_24_a
 Oh, a woman got my present.
 Rain
 407400901_23_a
-8:}
 What did the person who got your
 gift say, Rain?
 Kirito
@@ -2554,7 +4151,6 @@ Sinon
 Aw, that's a shame.
 Rain
 407400901_19_a
-8>}
 I shot him down, of course.
 Sinon
 407400901_18_a
@@ -2574,7 +4170,6 @@ Sinon
 Oh yeah?
 Rain
 407400901_13_a
-0o}
 The player who got my gift found
 me.
 Sinon
@@ -2610,12 +4205,10 @@ between the Cait Sith and Pooka
 territories.
 Kirito
 407400901_5_a
-TF}
 It's incredible! Where'd you find
 it?
 Player A
 407400901_4_a
-DE}
 W-Well...
 Kirito
 407400901_3_a
@@ -2626,7 +4219,6 @@ Did you give me this antique?
 Player A
 407400901_1_a
 aqH
-<G}
 aqH
 Finally. Let's get this over with.
 Sinon
@@ -2641,16 +4233,13 @@ aqH
 It's starting!
 Kirito
 407400801_35_a
-<W}
 aqH
 Here comes the beat!
 Agil
 407400801_34_a
-lI}
 aqH
 Rain
 407400801_33_a
-lS}
 aqH
 Sinon
 407400801_32_a
@@ -2660,21 +4249,17 @@ also be useful for showing you
 what you don't like.
 Kirito
 407400801_31_a
-tL}
 aqH
 I think I'd just die if I went
 to a club in real life.
 Sinon
 407400801_30_a
-pK}
-8L}
 aqH
 Me neither. I get the feeling I'm
 getting off easy, having only
 experienced this virtual club.
 Sinon
 407400801_29_a
-<L}
 aqH
 I never think to go to clubs
 in real life.
@@ -2700,17 +4285,14 @@ Because he looks like a totally
 different person up there.
 Sinon
 407400801_24_a
-xO}
 aqH
 Is this the same Agil that tends
 the quiet little cafe we go to?
 Sinon
 407400801_23_a
-$P}
 aqH
 Rain
 407400801_22_a
-lP}
 aqH
 Sinon
 407400801_21_a
@@ -2719,7 +4301,6 @@ So these are the "party people"
 I keep hearing about.
 Kirito
 407400801_20_a
-hQ}
 aqH
 Agil
 407400801_19_a
@@ -2727,7 +4308,6 @@ aqH
 Alriiiiiight!
 Players
 407400801_18_a
-0R}
 aqH
 And we've got a little club area
 for anyone who wants to keep
@@ -2744,7 +4324,6 @@ aqH
 Woooooooo!
 Players
 407400801_15_a
-0T}
 aqH
 Is the present you get! It's just
 that simple. Now get ready to
@@ -2760,7 +4339,6 @@ Agil
 aqH
 Yuuki
 407400801_12_a
-Pd}
 aqH
 Ha ha, everyone's having such a
 good time! This was totally worth
@@ -2772,18 +4350,14 @@ Whoa, Silica! Way to just come out
 and say it!
 Yuuki
 407400801_9_a
-0W}
 aqH
 Alicia
 407400801_10_a
-dX}
 aqH
 I know it's a long shot, but I
 hope I get Kirito's gift! Hehe...
 Silica
 407400801_8_a
-LX}
-DX}
 aqH
 Silica
 407400801_7_a
@@ -2802,8 +4376,6 @@ aqH
 It's time for the gift swap!
 Agil
 407400801_3_a
-hZ}
-0[}
 aqH
 Let's move on to today's main
 event!
@@ -2822,7 +4394,6 @@ to start? I can even see a mob
 of couples forming.
 Rain
 407400701_53_a
-p]}
 They'll probably play it during
 the event too... Ugh, people
 are already dancing.
@@ -2836,7 +4407,6 @@ Are they trying to get everyone
 fired up for this event?
 Sinon
 407400701_50_a
-p_}
 I guess it's basically an amp now.
 Rain
 407400701_49_a
@@ -2851,7 +4421,6 @@ What is that music?
 I'm just noticing it now.
 Sinon
 407400701_46_a
-hk}
 Liz
 407400701_45_a
 W-Well...
@@ -2869,7 +4438,6 @@ Agil
 Just come help us get ready!
 Silica
 407400701_40_a
-dd}
 Sinon
 407400701_39_a
 Rain
@@ -2884,14 +4452,12 @@ Whoa, guys! Don't kid
 around like that!
 Yuuki
 407400701_35_a
-,p}
 Rain
 407400701_34_a
 I, uh...just remembered I have
 a thing to do...in real life...
 Sinon
 407400701_33_a
-xg}
 Silica
 407400701_32_a
 Sinon
@@ -2927,6 +4493,7 @@ Kirito
 407400701_22_a
 Liz
 407400701_21_a
+(.}
 Kirito
 407400701_20_a
 They're all in that tent over
@@ -2937,7 +4504,6 @@ Rain
 407400701_18_a
 Silica
 407400701_17_a
-(o}
 So where's everyone else?
 Sinon
 407400701_16_a
@@ -2956,7 +4522,6 @@ Be nice, Liz. At least we know the
 food will be tasty!
 Silica
 407400701_9_a
-Hq}
 Sinon
 407400701_11_a
 Rain
@@ -2964,7 +4529,6 @@ Rain
 What'd you say?
 Agil
 407400701_8_a
-xr}
 Or when you need to offload a job
 nobody else wants to do...
 Liz
@@ -2995,10 +4559,10 @@ Sinon
 407400601_53_a
 Kirito
 407400601_52_a
-Lx}
 Heh...
 Rain
 407400601_51_a
+H9}
 Alicia
 407400601_50_a
 What's with all the whispering?
@@ -3009,7 +4573,6 @@ Rain
 S-Sorry 'bout that...
 Kirito
 407400601_47_a
-H{}
 whisper
 whisper
 Geez! What
@@ -3017,14 +4580,12 @@ do you think will happen if they
 find out!
 Sinon
 407400601_46_a
-Xz}
 Oh, you know, nothing really!
 Ha ha!
 Kirito
 407400601_45_a
 Kirito
 407400601_44_a
-4{}
 Rain
 407400601_43_a
 Kirito!
@@ -3038,7 +4599,6 @@ Liz
 407400601_40_a
 Rain
 407400601_39_a
-4}}
 Rain
 407400601_38_a
 Sinon
@@ -3057,6 +4617,7 @@ Liz
 407400601_34_a
 Sinon
 407400601_33_a
+0A}
 Kirito
 407400601_32_a
 You're telling me...
@@ -3083,6 +4644,7 @@ Do you really want us to spoil
 the surprise?
 Sinon
 407400601_24_a
+4E}
 Silica
 407400601_23_a
 Oh, really? What'd you get?
@@ -3218,6 +4780,7 @@ Kirito
 Good-looking?
 Rain
 407400501_41_a
+X4}
 5pH
 Yeah. I found a good-looking
 town around here.
@@ -3278,6 +4841,7 @@ That means I'll be leaving your
 side, Alicia. Is that okay?
 Rain
 407400501_27_a
+l_}
 5pH
 Silica
 407400501_26_a
@@ -3347,6 +4911,7 @@ There's gotta be at least one
 more good cook around!
 Liz
 407400501_9_a
+xg}
 5pH
 Alicia
 407400501_8_a
@@ -3364,6 +4929,7 @@ Yuuki
 5pH
 Yuuki
 407400501_5_a
+pE}
 5pH
 Yep! Maybe we should go find some
 more ingredients.
@@ -3423,6 +4989,7 @@ guys? We're the only ones who
 aren't ready yet!
 Rain
 407400401_35_a
+tr}
 Kirito
 407400401_34_a
 Rain
@@ -3474,6 +5041,7 @@ snowy Gnome territory, so we'd
 better leave soon!
 Silica
 407400401_17_a
+hz}
 Liz
 407400401_16_a
 Hey, Kirito! Are you guys ready
@@ -3501,6 +5069,7 @@ Christmas without some
 sort of roasted bird!
 Liz
 407400401_8_a
+0'}
 Alright then, I'll keep an eye
 out for some along the way.
 Yuuki
@@ -3562,6 +5131,7 @@ Shh, keep your voice down.
 ...And no, I haven't.
 Sinon
 407400301_29_a
+0c}
 moH
 Wait, are you saying you have?!
 Kirito
@@ -3572,6 +5142,7 @@ someone who's never attended a
 gift swap would come up with.
 Sinon
 407400301_27_a
+X:}
 moH
 Don't make this sound like a great
 idea. You're roping me into a
@@ -3653,6 +5224,7 @@ Silica and Sinon are going too,
 since they're Cait Sith.
 Kirito
 407400301_8_a
+Tn}
 moH
 O-Okay.
 Rain
@@ -3678,6 +5250,7 @@ Yuuki
 moH
 Yuuki
 407400301_2_a
+H$}
 moH
 bg_event_alne_christmas
 Thanks for responding to my
@@ -3685,6 +5258,7 @@ invitation, guys.
 Kirito
 407400301_1_a
 	oH
+d?}
 	oH
 Uh, so... Who should we invite?
 Kirito
@@ -3789,6 +5363,7 @@ Christmas party with all the
 races.
 Kirito
 407400201_16_a
+L	}
 	oH
 What's that?
 A Cait Sith Christmas event?
@@ -3833,6 +5408,7 @@ This is terrible! How can we help
 them?
 Asuna
 407400201_8_a
+tQ}
 	oH
 all this foreign data was bound
 to throw it off balance sooner
@@ -3889,6 +5465,7 @@ they have been acting pretty
 strange lately.
 Asuna
 407400101_17_a
+XX}
 Well, that Divine Object quest
 WAS pretty rough.
 Kirito
@@ -3919,6 +5496,7 @@ Yui
 407400101_11_a
 Kirito
 407400101_10_a
+XK}
 You do...?
 Kirito
 407400101_8_a
@@ -3950,6 +5528,7 @@ Hmm... Nope, never seen that
 Cait Sith NPC before.
 Alicia
 407400101_1_a
+$ }
 ...
 Kirito
 407201201_53_a
@@ -3958,9 +5537,11 @@ Kirito
 ...
 Asuna
 407201201_51_a
+L!}
 A-Alice!! You can't mean that!
 Eugeo
 407201201_50_a
+L$}
 Though our time here was well
 spent, our memories of this place
 are unnecessary in our world.
@@ -3971,6 +5552,7 @@ with me. But we must return to
 our world eventually...
 Alice
 407201201_48_a
+<o}
 You're just going to give up,
 Alice? Sit back and let our
 memories be destroyed?
@@ -3992,6 +5574,7 @@ the Divine Objects were first
 forged...
 Urdr
 407201201_43_a
+T&}
 z66
 I am eternally grateful to you.
 However, there is no changing
@@ -4016,6 +5599,7 @@ AmuSphere? Augma?
 What are you two talking about?
 Alice
 407201201_36_a
+8,}
 but the AmuSphere shouldn't be
 able to do anything dangerous
 like that...
@@ -4027,6 +5611,7 @@ Kirito
 407201201_34_a
 Kirito
 407201201_33_a
+$,}
 Umm... Kirito? The AmuSphere can't
 erase a person's memory...right?
 Asuna
@@ -4035,6 +5620,7 @@ y66
 That is correct.
 Urdr
 407201201_31_a
+86}
 Asuna
 407201201_30_a
 So in other words, if our memory
@@ -4042,6 +5628,7 @@ of the Divine Objects is wiped,
 this won't happen again?
 Kirito
 407201201_29_a
+</}
 You mean...
 Eugeo
 407201201_28_a
@@ -4056,6 +5643,7 @@ those who come into contact with
 it have their memories erased.
 Urdr
 407201201_25_a
+D1}
 {66
 Even mere knowledge of this power
 can lead to calamity.
@@ -4066,6 +5654,7 @@ Asuna
 Y-Yeah, go on...
 Kirito
 407201201_22_a
+tr}
 y66
 As you know, the Divine Objects
 contain a power so terrible,
@@ -4082,17 +5671,20 @@ Lastly...there is one thing
 I feel I must tell you...
 Urdr
 407201201_18_a
+(3}
 Asuna
 407201201_17_a
 You can count on us!
 Kirito
 407201201_16_a
+du}
 x66
 Please, brave fairies and warriors
 from another world, recover the
 final Divine Object.
 Urdr
 407201201_15_a
+l>}
 Asuna
 407201201_14_a
 Yeah!
@@ -4104,6 +5696,7 @@ Hehe, if we have time, we can
 always go back.
 Asuna
 407201201_11_a
+l6}
 Ha ha, yeah. We played karuta the
 whole time and barely even got
 to see the sights!
@@ -4111,12 +5704,14 @@ Eugeo
 407201201_9_a
 Alice
 407201201_10_a
+t7}
 Asuna
 407201201_8_a
 I'm just sad we didn't have more
 time to look around over there.
 Kirito
 407201201_7_a
+t8}
 Eugeo
 407201201_6_a
 I second that. Who would have
@@ -4129,6 +5724,8 @@ were finally able to finish off
 that Hi-Mob.
 Asuna
 407201201_4_a
+L:}
+D:}
 Asuna
 407201201_3_a
 Yup! Only one left to go.
@@ -4141,6 +5738,7 @@ Object...
 Urdr
 407201201_1_a
 MeE
+X<}
 MeE
 Asuna
 407201101_54_a
@@ -4167,6 +5765,7 @@ M-My warp portal...
 Y-You ruined it...!
 Hi-Mob
 407201101_48_a
+8?}
 MeE
 Sinon
 407201101_47_a
@@ -4188,12 +5787,14 @@ item that nullified teleportation
 crystals.
 Kirito
 407201101_44_a
+pC}
 MeE
 He got away from us once, so we
 decided to come prepared this
 time!
 Asuna
 407201101_43_a
+xB}
 MeE
 Kirito
 407201101_42_a
@@ -4209,9 +5810,11 @@ MeE
 What?! How...?!
 Hi-Mob
 407201101_39_a
+xD}
 MeE
 Kirito
 407201101_38_a
+tN}
 MeE
 Sinon
 407201101_37_a
@@ -4229,10 +5832,13 @@ Asuna
 MeE
 Kirito
 407201101_33_a
+XH}
 MeE
 He's trying to run!
 Sinon
 407201101_32_a
+0G}
+,G}
 MeE
 Eugeo
 407201101_31_a
@@ -4244,6 +5850,7 @@ Ah!
 Is that what I think it is?!
 Liz
 407201101_29_a
+XH}
 MeE
 Hi-Mob
 407201101_28_a
@@ -4251,6 +5858,7 @@ MeE
 Gngh...!
 Hi-Mob
 407201101_27_a
+tS}
 MeE
 Sinon
 407201101_26_a
@@ -4269,11 +5877,14 @@ Come on, everyone! Let's beat this
 guy and get that Divine Object!
 Asuna
 407201101_22_a
+xM}
 MeE
 Well, enough talking! We've got
 him cornered this time!
 Eugeo
 407201101_21_a
+tL}
+pL}
 MeE
 Liz
 407201101_20_a
@@ -4295,6 +5906,7 @@ Cool. Thanks for the follow-up,
 Alice.
 Kirito
 407201101_15_a
+DQ}
 MeE
 Perhaps our quarry used these
 "Spirit Skills" to create those
@@ -4307,6 +5919,8 @@ and she told me that there are
 Sacred Arts in this world too.
 Alice
 407201101_13_a
+HP}
+DP}
 MeE
 Eugeo
 407201101_12_a
@@ -4324,6 +5938,7 @@ So shouting out the answer forced
 him to take his true form.
 Kirito
 407201101_9_a
+DR}
 MeE
 Yeah, I think the quest was set to
 resolve when one of us revealed
@@ -4336,10 +5951,12 @@ players all sprinted at each
 other and merged into one person.
 Sinon
 407201101_7_a
+xU}
 MeE
 Explanation, please?
 Sinon
 407201101_6_a
+TT}
 MeE
 Kirito!
 Asuna
@@ -4361,6 +5978,7 @@ So you saw through my
 plot, did you?!
 Hi-Mob
 407201101_1_a
+,W}
 Am I seeing things?
 They're merging into one
 person! That's crazy!
@@ -4376,6 +5994,7 @@ Sinon
 Curses!
 Player B
 407201001_29_a
+XY}
 Huh...? Kirito...?
 Do you need to lie down?
 Asuna
@@ -4383,8 +6002,10 @@ Asuna
 Good point...
 Player B
 407201001_27_a
+lZ}
 Eugeo
 407201001_26_a
+ld}
 Alice
 407201001_25_a
 We've seen through your scheme!
@@ -4422,11 +6043,13 @@ him from assuming more than
 one form!
 Kirito
 407201001_16_a
+8b}
 I was positive he had assumed
 another form when he converted
 over...
 Kirito
 407201001_15_a
+Da}
 Wait... Of course! One of my key
 assumptions was wrong!
 Kirito
@@ -4436,16 +6059,19 @@ suspicious characters here...
 What can that mean...?
 Kirito
 407201001_13_a
+Dd}
 But I've been keeping an eye on
 Liz and Sinon's opponents too, and
 they both seem pretty robotic...
 Kirito
 407201001_12_a
+lc}
 He's fast, smart, and has amazing
 reactions, but he's not trying
 anything to counter Asuna's strat.
 Kirito
 407201001_11_a
+8d}
 Asuna's opponent is pretty
 fishy...
 Kirito
@@ -4455,10 +6081,12 @@ intonation at the end of "winter"
 is followed by "loneliness"!
 Asuna
 407201001_9_a
+Hg}
 There are two poems that start
 with "winter,"
 Asuna
 407201001_8_a
+<f}
 ...loneliness in a mountain
 village grows only deeper...
 Reciter
@@ -4466,12 +6094,14 @@ Reciter
 ...
 Player B
 407201001_6_a
+Pg}
 Got it!
 Asuna
 407201001_5_a
 Winter...
 Reciter
 407201001_4_a
+Hh}
 ...
 Asuna
 407201001_3_a
@@ -4481,6 +6111,7 @@ bg_event_ayakashi_street
 ...
 Player B
 407201001_1_a
+0j}
 Kirito
 407200901_63_a
 Yep! He's as good as caught!
@@ -4500,6 +6131,7 @@ clever, but it's not adaptable.
 That's its biggest weakness.
 Kirito
 407200901_58_a
+Tm}
 But I think even Cardinal can't
 replicate an AI of their level
 of complexity.
@@ -4512,13 +6144,17 @@ effectively no different from a
 human from the real world.
 Kirito
 407200901_55_a
+$o}
 Liz
 407200901_54_a
+8p}
 Hey... This "Hi-Mob" of yours...
 You said Cardinal made him from
 Alice and Eugeo's data, right?
 Sinon
 407200901_53_a
+<p}
+4p}
 Asuna
 407200901_52_a
 ...
@@ -4565,6 +6201,8 @@ this...? Adaptability? He's not
 very flexible, I think.
 Kirito
 407200901_38_a
+Hw}
+Dw}
 Asuna
 407200901_37_a
 Sinon
@@ -4585,6 +6223,7 @@ Eugeo
 407200901_32_a
 Asuna
 407200901_31_a
+8z}
 Sinon
 407200901_30_a
 Exactly.
@@ -4592,6 +6231,7 @@ Kirito
 407200901_29_a
 Liz
 407200901_28_a
+L{}
 Eugeo
 407200901_27_a
 You believe our quarry is among
@@ -67695,1214 +69335,1325 @@ bg_18_mountain
 えっ……未開の島?
 キリト
 401900101_1_a
-グスッ……も、もちろんよ
-これからも友達でいてね、アスナ
+gulp
+M-Me too...
+And we always will be!
+Lisbeth
 401801201_29_a
-ふふっ、
-でもホントにありがとうリズ
-これからもよろしくね
-アスナ
+Hehe, but really, Liz, thank you.
+I'm glad you're my friend.
+Asuna
 401801201_28_a
-ア、アスナ……
-ちょ、ちょっと止めてよ～!
-涙腺刺激されちゃうでしょ!
+S-Stop it... You're making my
+eyes leak!
+Lisbeth
 401801201_27_a
-わたしの傍にはどんなときも、
-友達がいるから……
-心配しなくていいってね
-アスナ
+And that my friends are always
+with me, so there's no need
+to worry.
+Asuna
 401801201_26_a
-必ず報われるときが来る……
-アスナ
+there's happiness.
+Asuna
 401801201_25_a
-ううん
-辛いことがあっても
-悲しいことがあっても……
-アスナ
+No... I mean that after all the
+pain and hardship...
+Asuna
 401801201_24_a
-えっ? 言ってあげたいって……
-おせちはそのうち作れるように
-なるからとか、そういう事?
+You mean that you were able to
+make the New Year's food
+all right in the end?
+Lisbeth
 401801201_23_a
-うん……えへへ、
-あの頃の自分に言ってあげたいな……
-アスナ
+Yeah... Heh, I wish I could tell
+past-me...
+Asuna
 401801201_22_a
-そっか
-がんばった甲斐があったわね
+Really? That makes this extra
+worth the while!
+Lisbeth
 401801201_21_a
-ちゃんとレシピも把握したから、
-来年はクエストをしなくても
-これが作れるよ
-アスナ
+Now that I finally have the right
+recipes, I'll be able to make this
+next year too--without questing.
+Asuna
 401801201_20_a
-うん、そうだね
-アスナ
+Yeah...
+Asuna
 401801201_19_a
-まあでもこれにてリベンジ達成ね
-SAOから持ち越してた分、
-余計に達成感があるわね
+Well, I guess that means we can
+rest easy knowing we've made up
+for our past failure in SAO.
+Lisbeth
 401801201_18_a
-ふふっ、
-無我夢中で食べたくなるほど
-美味しいってことだよ
-アスナ
+Hehe, I think that means
+it's really good.
+Asuna
 401801201_17_a
-アスナ
+Asuna
 401801201_16_a
-はあ……男たち……
-がっついてるわね
-ありがたみも無くなるわ……
+They aren't even chewing their
+food. Just inhaling it...like a
+pair of vacuums...
+Lisbeth
 401801201_15_a
-クライン
+Klein
 401801201_14_a
-昆布巻きも味が染みてて最高だ!
-キリト
+I don't think I've ever had
+konbumaki this delicious!
+Kirito
 401801201_13_a
-キリト
+Kirito
 401801201_12_a
-おおっ!
-この数の子、すげー美味い!
-クライン
+Duuude, this kazunoko is the bomb!
+Klein
 401801201_11_a
-シノン
+Sinon
 401801201_9_a
-ふっふっふ
-そういうことだから
-みんなよく味わって食べなさいよ～
+Heh heh heh. So what are we all
+waiting for? Let's dig in!
+Lisbeth
 401801201_8_a
-アスナ
+Asuna
 401801201_10_a
-ふふっ、今回はみんなが……
-そしてリズががんばったから、
-完成させられたんだよ
-アスナ
+Hehe, it's all thanks to your
+hard work... Especially you, Liz.
+Asuna
 401801201_7_a
-現実だとむしろ
-なかなか見ないレベルよ
-このクラスのおせちの重箱って……
-シノン
+You wouldn't even get this level
+of quality in the real world...
+Sinon
 401801201_6_a
-美味しそう～!!
-こんな本格的なおせちが、
-ALOで作れたんですね～!
-リーファ
+It looks so good! I can't believe
+you were able to make this so
+perfectly in ALO!
+Leafa
 401801201_5_a
-わあ～!
-ママ、すごいです!
+Yaaaaay! Mommy, you're amazing!
+Yui
 401801201_4_a
-リーファ
+Leafa
 401801201_3_a
+Yui
 401801201_2_a
 item_event_new_year_dishes
 bg_11_home_lounge
-じゃーん
-これが今回完成させた
-おせち料理でーす!
-アスナ
+Ta-daaa! I present to you
+an absolutely flawless
+New Year's feast!
+Asuna
 401801201_1_a
-……ふふっ、そっか
-じゃあその言葉だけ、
-ありがたく受け取っておくわね
+Hehe, well, alright then...
+Thank you...
+Lisbeth
 401801101_27_a
-はは、
-誰もそんなこと言ってないだろ
-キリト
+Ha ha, no one's expecting anything
+of the sort.
+Kirito
 401801101_26_a
-そんなおだてられても、
-鍛冶頼まれたときまけないからね!
+All this flattery isn't gonna get
+you a discount or anything at
+my shop, you know!
+Lisbeth
 401801101_25_a
-ちょ、ちょっとみんな……!
-揃いも揃ってなんなのー?
+Y-You guys... You can't all
+feel that way!
+Lisbeth
 401801101_24_a
-ああ、それでいいと思うぜ
-エギル
+Yeah, no doubt about that.
+Agil
 401801101_23_a
-アタシもさんせ～!
-ストレア
+Totally!
+Strea
 401801101_22_a
-うん、あたしもそう思う
-フィリア
+Hear, hear!
+Philia
 401801101_21_a
-そうだな
-このクエストの敢闘賞は
-リズで決定だな
-キリト
+Yeah. You're definitely our MVP
+for this quest, Liz.
+Kirito
 401801101_20_a
-……ううん
-リズは今回すごく
-わたし達を助けてくれたよ
-アスナ
+What are you talking about? You've
+been a huge help this whole time!
+Asuna
 401801101_19_a
-最後の最後で、あたしの得意なことが
-発揮できて良かったわ
+I'm just glad I can finally do
+something useful.
+Lisbeth
 401801101_18_a
-ふふふっ
-実はこれ鍛冶スキルで
-生成できるのよ～
+Hehehe, I made it. Blacksmithing
+skills for the win!
+Lisbeth
 401801101_17_a
-おおっ、漁獲用の巨大網だな
-相変わらず用意周到だな、リズ
-キリト
+Whoa, that's one big net! Leave it
+to you to be the prepared one,
+Liz. Where'd you even get it?
+Kirito
 401801101_16_a
-これだけ素早く動いてる魚を
-一匹ずつ釣り上げるのは難しいし……
-ほら、これを用意したの
+it'd be nearly impossible to catch
+them one-by-one with a rod. That's
+why I brought this!
+Lisbeth
 401801101_15_a
-いいえ、違うわ
-今回ニルーバンは何匹も必要なのよ
+Hold on a second. We need to get
+several of these fish, and they're
+so quick...
+Lisbeth
 401801101_14_a
-魚釣りをするのー?
-ストレア
+I'll get my rod out!
+Strea
 401801101_13_a
-じゃあ見失う前に
-とっとと魚を獲るわよ
+Then let's grab 'em before we lose
+sight of them again!
+Lisbeth
 401801101_12_a
-まあ……少し可哀想だけど……
-でもこっちも必死だったから……
-ごめんね……
-アスナ
+Now I feel kind of bad... But we
+do need the fish too, so...
+Asuna
 401801101_11_a
-だな……
-あいつは食事をしに来ただけだ
-追い払えばそれで十分だろう
-エギル
+It only came here for a bite to
+eat, but we scared it off. I don't
+think it'll come back.
+Agil
 401801101_10_a
-待て、ストレア!
-追う必要はない!
-キリト
+Strea, wait! There's no need
+to chase after it!
+Kirito
 401801101_9_a
-ああっ、逃げちゃうよー!?
-ストレア
+Hey, it's running away!
+Strea
 401801101_8_a
-ギュロオオオオッ!!
+RAAAAAAAUUUGGHHHH!
+Dragon
 401801101_7_a
-いや……
-キリト
+I don't think so...
+Kirito
 401801101_6_a
-倒した!?
-フィリア
+Did we beat it?!
+Philia
 401801101_5_a
-キリト
+Kirito
 401801101_4_a
-フィリア
+Philia
 401801101_3_a
+Lisbeth
 401801101_2_a
 bg_event_north_sea
-ゴオアアアアーーーッ!!!
+GRRAAAAAGGGHHH!
+Dragon
 401801101_1_a
-うん!
-アスナ
+Yeah, let's do this!
+Asuna
 401801001_42_a
-戦闘は避けられなさそうだ
-よし、みんな行くぞ!
-キリト
+I don't think we'll be able to run
+from this battle... Get ready,
+everyone!
+Kirito
 401801001_41_a
-くっ、やっぱり現れたのね
-見て、あの雲の影から
-こっちに急降下してくるわ!
+It must be... Look at that shadow
+on the clouds! It's coming this
+way!
+Lisbeth
 401801001_40_a
-例の魚を食い荒らすってやつか……
-エギル
+The one with a penchant
+for seafood...?
+Agil
 401801001_39_a
-これは……竜の叫び声!?
-アスナ
+Is that...the dragon?!
+Asuna
 401801001_38_a
-グギャアアアアアーーーッ!!!
+RRAAAAAAUUUGGGHHHH!
 ???
 401801001_37_a
-この咆哮は……
-キリト
+What's that roaring sound...?
+Kirito
 401801001_36_a
-キリト、どうしたの?
+What is it, Kirito?
+Lisbeth
 401801001_35_a
-……待て!
-キリト
+Wait!
+Kirito
 401801001_34_a
-よーし!
-早速ニルーバンを捕まえましょう!
+Alriiiight! Let's go get us some
+nuliban!
+Lisbeth
 401801001_33_a
-すごい!
-二人の攻撃で流氷が砕けたよ!
-アスナ
+That was amazing! You shattered
+that drift ice into a million
+pieces!
+Asuna
 401801001_32_a
-……おおっ!
-キリト
+Whoaaaa!
+Kirito
 401801001_31_a
-うりゃああっ!!!
-エギル
+Hiiiyyyaaaaa!!
+Agil
 401801001_30_a
-じゃあ行くよ～
-せーのっ!
-ストレア
+Ready, Agil?
+One, two...three!
+Strea
 401801001_29_a
-モチのロンだぜ!
-エギル
+Hell to the yeah!
+Agil
 401801001_28_a
-二人とも、頼めるか!?
-キリト
+You really think you can do it?
+Kirito
 401801001_27_a
-種族随一の腕力を誇る
-ノーム二人の一撃なら、
-この流氷も砕けるかも……!
+The two of you should be able to
+break up this drift ice no sweat!
+Lisbeth
 401801001_26_a
-確かに……!
+Oh, that's right! Gnomes are the
+strongest of all the races!
+Lisbeth
 401801001_25_a
-ふふっ、そーだね～!
-ストレア
+Hehe, yeah, we got this!
+Strea
 401801001_24_a
-フッ……
-そういう時こそ、ノームの出番だろ?
-エギル
+Heh... Guess this is where us
+Gnomes come in.
+Agil
 401801001_23_a
-うわっ……ホントだわ
-この流氷、とんでもなく分厚いわよ
-これじゃあ魚に逃げられちゃう……
+That's not good! This ice is super
+thick. We'll never be able to
+track them through it...
+Lisbeth
 401801001_22_a
-なに?
-キリト
+Huh?
+Kirito
 401801001_21_a
-ニルーバンの魚影が……
-大きな流氷の下に隠れちゃった……
-アスナ
+A huge piece of drift ice just
+floated right over the school of
+nuliban...
+Asuna
 401801001_20_a
-アスナ、どうしたの!?
+What is it, Asuna?!
+Lisbeth
 401801001_19_a
-ああっ!!
-アスナ
+Oh no!
+Asuna
 401801001_18_a
-ぐっ……
-宝ならいざ知らず魚は関係ないだろ!
-キリト
+Grrr... It'd be one thing if this
+was treasure we were looking for,
+but fish are a whole other story!
+Kirito
 401801001_17_a
-へへー、キリトさん～
-同じスプリガンとしてどうなのさー?
-フィリア
+Hehe, what's the matter, Kirito?
+I thought you were supposed to
+be a Spriggan too!
+Philia
 401801001_16_a
-おいおい、マジかよ……
-キリト
+Unbelievable...
+Kirito
 401801001_15_a
-ホント、やった～!
-フィリア
+Really? Awesome!
+Philia
 401801001_14_a
-フィリア、でかしたわ!
+Way to go, Philia!
+Lisbeth
 401801001_13_a
-あっ!
-ホントだわ!
-あっちにニルーバンの群れ発見よ!
+Oh! You're right! There's a whole
+school of nuliban over there!
+Lisbeth
 401801001_12_a
-どれどれ……
+Let me see...
+Lisbeth
 401801001_11_a
-でもなんか魚影があっちに向かって
-流れていってる気が
-するんだよねぇ……
-フィリア
+I just thought I saw some fishy
+shadows under the surface swim
+that way.
+Philia
 401801001_10_a
-あはは、いや～
-さすがにそれはない気がするけど
-フィリア
+Hahaha, no. I don't even think
+something like that exists.
+Philia
 401801001_9_a
-すげえな
-それもトレジャーハンターの
-勘ってやつか?
-エギル
+Whoa, are you saying your treasure
+hunter's intuition is acting up?
+Agil
 401801001_8_a
-うん、なんとなくだけどね……
-フィリア
+Just a hunch...
+Philia
 401801001_7_a
-えっ、そうなの?
-アスナ
+What makes you say that?
+Asuna
 401801001_6_a
-ニルーバンの群れ……
-あっちにいそうな気がする
-フィリア
+I feel like over there is the best
+spot to fish for some nuliban.
+Philia
 401801001_5_a
-フィリア、どうしたんだ?
-キリト
+What is it, Philia?
+Kirito
 401801001_4_a
-アスナ
+Asuna
 401801001_3_a
-キリト
+Kirito
 401801001_2_a
 bg_event_north_sea
-うーん……
-フィリア
+Hmmm...
+Philia
 401801001_1_a
-うん……そうだね!
-がんばろう!
-アスナ
+Yeah! She's right! Come on, guys,
+we can do this!
+Asuna
 401800901_28_a
-と、当然よ
-SAOでできなかった分の
-リベンジなんだから、これは!
+W-Well, duh! It's another chance
+to make up for what happened
+in SAO, after all!
+Lisbeth
 401800901_27_a
-リズ……
-相変わらずこのクエストにかける
-モチベーションが高いんだな
-キリト
+Geez, Liz, you've really been
+kicking things into high gear
+for this quest.
+Kirito
 401800901_26_a
-なに弱気なこと言ってるの!
-おせち完成まであと少しなんだから、
-もう少しがんばりなさい!
+Don't be such a baby! We're so
+close to getting everything we
+need. Don't chicken out now!
+Lisbeth
 401800901_25_a
-勘弁してよ～!
-ストレア
+No way am I doing that!
+Strea
 401800901_24_a
-す、すいちゅう～!?
-この冬の北の海の中を～!?
-ストレア
+Y-Y-You're joking, right! It's
+the middle of winter! The water's
+subzero!
+Strea
 401800901_23_a
-そうね……流氷の下にいる場合も
-あるから、最悪水中で
-探すことにもなるかもね
+Yeah... They could be under a bit
+of drift ice, so worst case,
+we have to dive in to get them.
+Lisbeth
 401800901_22_a
-そうだね
-みんな水面から
-注意を逸らさないでおこう
-フィリア
+Right. Eyes on the water, guys.
+Philia
 401800901_21_a
-さて、そろそろニルーバンの群れが
-いる辺りだぜ
-キリト
+Alright, we should be coming up on
+a school of nuliban soon.
+Kirito
 401800901_20_a
-はは……
-キリト
+Ahaha...
+Kirito
 401800901_19_a
-きゃあ～!
-リズがおっぱい触ってきた～!
-エッチ～!
-ストレア
+Gaaaah! Hands off the merchandise,
+Liz!
+Strea
 401800901_18_a
-そのどデカい胸を
-隠しなさいって意味よ!
+It means you've got way too
+much skin exposed!
+Lisbeth
 401800901_17_a
-どーいうこと～?
-ストレア
+What's that supposed to mean?!
+Strea
 401800901_16_a
-それは着てる服が問題なのよ……
+Well, just look at what you're
+wearing...
+Lisbeth
 401800901_15_a
-ええーっ!?
-じゃあアタシはなんで寒いの～?
-エギルとおんなじノームなのに～!
-ストレア
+Whaaat? Then why am I cold?!
+I'm a Gnome just like Agil!
+Strea
 401800901_14_a
-レプラコーンも
-領地は大陸の北だよな
-キリト
+Well, the Leprechauns do live
+in the northern part of the
+continent.
+Kirito
 401800901_13_a
-あたしもみんなが言うほど、
-寒いと思わないわ
+You guys keep saying it's cold,
+but I'm not feeling it.
+Lisbeth
 401800901_12_a
-そういう意味ではレプラコーンも
-同じなのかも
+It must be the same for
+Leprechauns, then.
+Lisbeth
 401800901_11_a
-寒さにもある程度強いんじゃないのか
-キリト
+I guess that kind of immunizes
+you to the cold a bit.
+Kirito
 401800901_10_a
-エギルはノーム
-北方に領地がある種族だから、
-キリト
+The Gnome's territory is in
+the north, after all.
+Kirito
 401800901_9_a
-おう、オレは鍛えてるからな
-エギル
+Nope, I'm used to it.
+Agil
 401800901_8_a
-エギルさんは寒くないんですか?
-アスナ
+Aren't you cold at all, Agil?
+Asuna
 401800901_7_a
-お前たち、大丈夫か?
-そんな状態だといざ竜が
-襲ってきたとき、どうするんだ?
-エギル
+You guys hanging in there? Don't
+freeze up on us when the dragon
+rears its ugly head!
+Agil
 401800901_6_a
-そうだな……
-キリト
+Seriously...
+Kirito
 401800901_5_a
-さすがは北方の海……
-所々に流氷も浮いてるし、
-こりゃ寒いわけだ……
-フィリア
+Well, we are pretty far north...
+See, there's even some drift ice!
+Maaan, it is reaaally cold...
+Philia
 401800901_4_a
-キリト
+Kirito
 401800901_3_a
-フィリア
+Philia
 401800901_2_a
 bg_event_north_sea
-うう～っ
-さぶいよ～!
-ストレア
+Brrrrr, i-it's freeeeziiiiing!
+Strea
 401800901_1_a
-うん!
-アスナ
+You got it!
+Asuna
 401800801_24_a
-ああ、じゃあ早速行こうぜ
-おせちの重箱完成まで、あと一歩だ!
-キリト
+Yeah. Then let's get going. This
+is the last hurdle until we can
+have our feast and eat it too!
+Kirito
 401800801_23_a
-ふふっ、そうだね
-でもこれが最後だって考えると、
-ちょっと感慨深いものがあるよ
-アスナ
+Heh, that's for sure. But it's
+pretty cool to think that we're
+so close to being done...
+Asuna
 401800801_22_a
-まさか最後の最後で
-そんな大物とバトルする
-ことになるとは思わなかったわ
+I can't believe we're gonna have
+to fight a big baddie like that
+for the last stretch...
+Lisbeth
 401800801_21_a
-今回のクエストって
-基本軽めのお使いばっかだったから、
+It's been such smooth sailing
+up until this point, too!
+Lisbeth
 401800801_20_a
-そうね
-しっかし竜か……
+But there's that dragon
+to contend with...
+Lisbeth
 401800801_19_a
-うーん……
-じゃあ出くわすこともあるかもね
-フィリア
+So we have to go up there if we
+want to catch some...
+Philia
 401800801_18_a
-確かニルーバンも
-ニシンと同じく冷帯の回遊魚だよな
-キリト
+I guess fish like the nuliban do
+migrate up there for the winter...
+Kirito
 401800801_17_a
-特に大型の魚が好物で
-大量に喰らうって話だったから、
-少し気になった
-エギル
+Apparently it's been gorging
+itself on the big fish up there
+that it likes so much.
+Agil
 401800801_16_a
-最近聞いた噂なんだが……
-この冬の時期に北方の海域を荒らす、
-獰猛な竜がいるって話でな
-エギル
+There's this rumor going around
+about a dragon terrorizing that
+area right now...
+Agil
 401800801_15_a
-エギル……どうしたんだ?
-キリト
+Something wrong, Agil?
+Kirito
 401800801_14_a
-なに?
-北方の海……か
-エギル
+What? That place...?
+Agil
 401800801_13_a
-北方の海のある
-沖エリアで獲れるらしいわ
+The waters of the northern ocean.
+Lisbeth
 401800801_12_a
-最後にそれを獲ればいいんだね
-どこにいるの?
-フィリア
+Where can we get it?
+Philia
 401800801_11_a
-現実世界で言うところのニシンだな
-エギル
+Sounds like we better grab our
+fishing gear.
+Agil
 401800801_10_a
-そうだね
-両方ともニルーバンって
-魚の食材が必要なんだよ
-アスナ
+Yeah. Both of those require
+nuliban fish.
+Asuna
 401800801_9_a
-昆布巻きと数の子だな
-キリト
+Konbumaki and kazunoko, right?
+Kirito
 401800801_8_a
-ええ、順調よ
-あと残る料理は……ええと
+Yeah, I'd say so.
+All that's left is...um...
+Lisbeth
 401800801_7_a
-これで十品完成だね
-今のところは順調って感じ?
-フィリア
+So now we've got ten dishes all
+set. Are we on schedule?
+Philia
 401800801_6_a
-ふふっ、おそまつ様
-ストレア
-アスナ
+Hehe, it's nothing, really...
+Asuna
 401800801_5_a
-甘さもちょうどいい感じで、
-いくらでも食べられそう～!
-ストレア
+It's got just the right amount
+of sweetness. I could eat these
+all day!
+Strea
 401800801_4_a
-キリト
+Kirito
 401800801_3_a
-アスナ
+Asuna
 401800801_2_a
 bg_11_home_lounge
-う～ん、おいしいよ
-この伊達巻～!
-ストレア
+Yuuuuum! This is so tasty!
+Strea
 401800801_1_a
-うん!
-アスナ
+Okay!
+Asuna
 401800701_24_a
-ええ、とりあえず正解レシピが
-判明したから、いったんキリト達に
-報告しときましょう
+Alright, so now that we've got the
+actual recipe, we should let
+Kirito and the others know.
+Lisbeth
 401800701_23_a
-そうだね!
-よーし、がんばるぞ!
-アスナ
+Yeah, you're right! We have to
+focus!
+Asuna
 401800701_22_a
-まだクエストは始まったばかりよ
-料理だってまだ一品目なんだし
+We just barely got started on this
+quest. This is only the first
+dish!
+Lisbeth
 401800701_21_a
-ふふっ、
-その言葉は早すぎるでしょ
+Hehe, don't thank me yet.
+Lisbeth
 401800701_20_a
-リズ……ありがとう
-本当にありがとう
-アスナ
+Liz, I...
+Thank you...
+Asuna
 401800701_19_a
-だからあたしなりに色々と前倒しで
-計画させてもらったってわけ
+That's why I kind of grabbed
+the reigns on all of this.
+Lisbeth
 401800701_18_a
-今回はアスナのあんな顔
-見たくないって思ったの
+I don't want that to happen again.
+Lisbeth
 401800701_17_a
-SAOでおせちを作れなかった
-あなたの悔しそうな顔……
-今でも覚えてるから
+I can still see the disappointment
+on your face when those
+recipes failed...
+Lisbeth
 401800701_16_a
-……まあね
+Well...yeah.
+Lisbeth
 401800701_15_a
-自意識過剰だったら恥ずかしいけど、
-わたしのために……?
-アスナ
+and I hope this doesn't come off
+as me being self-centered, but...
+are you doing this for me?
+Asuna
 401800701_14_a
-あなた今回とても段取りがいいけど、
-それってもしかして……
-アスナ
+Your plan of attack is working out
+really well. I just can't help
+wondering...
+Asuna
 401800701_13_a
-ん、どうしたの?
+Yeah?
+Lisbeth
 401800701_12_a
-……リズ
-アスナ
+Um, Liz...
+Asuna
 401800701_11_a
-ふふっ
+Hehe.
+Lisbeth
 401800701_10_a
-うん、もちろん
-アスナ
+Absolutely.
+Asuna
 401800701_9_a
-ようやく真相が判明したってわけね
-今回こそは成功させましょうよ
+It feels good to finally figure
+all this out! We'll get it right
+for sure this time!
+Lisbeth
 401800701_8_a
-ああー、なるほど～
-前はこの食材が
-足りなかったのかぁ……
-アスナ
+Ooh, okay, I just didn't use
+enough last time...
+Asuna
 401800701_7_a
-黒豆のレシピ……
-なるほど……グロッサのエキス……
-アスナ
+A recipe for kuromame...
+Ah, glossa extract, okay...
+Asuna
 401800701_6_a
-どう、アスナ
+What do you think, Asuna?
+Lisbeth
 401800701_5_a
-………………
-アスナ
+...
+Asuna
 401800701_4_a
+Lisbeth
 401800701_3_a
-アスナ
+Asuna
 401800701_2_a
 bg_17_restaurant_night
-これが最初の料理に必要な食材だ
-頼むよ
-料理人NPC
+These are the ingredients I need
+for the first dish.
+Chef NPC
 401800701_1_a
-ふふふ～
+Hehehe.
+Lisbeth
 401800601_37_a
-はは、そこまで準備してたのか
-大したもんだな
-キリト
+Ha ha, why am I not surprised
+you've thought that far ahead?
+Kirito
 401800601_36_a
-素材集めのメンバーを発表するわよ
+and the ingredient-gathering team.
+Lisbeth
 401800601_35_a
-ふふふっ、ありがと
-じゃあ今から料理人のトコに行く
-メンバーと
+Hehehe, why thank you.
+Alright, I'm gonna split us up
+into the chef-visiting team...
+Lisbeth
 401800601_34_a
-さすがリズ、冴えてるな
-鍛冶職人として素材集めの効率主義が
-発揮されてるな
-キリト
+Leave it to the blacksmith to work
+out the best way for a lot of
+moving parts to fit together.
+Kirito
 401800601_33_a
-なるほどな
-いいと思うぜ
-エギル
+Sounds good to me.
+Agil
 401800601_32_a
-そーいうこと
+You got it!
+Lisbeth
 401800601_31_a
-あ～、アタシにもわかったよー
-最初から手分けすれば
-効率的ってことでしょー?
-ストレア
+Ooh, I know what that means! We
+split up so everything gets done
+more efficiently!
+Strea
 401800601_30_a
-近からず遠からずだったってことだね
-それなら確実な食材を
-先に集めちゃえばいいってこと?
-フィリア
+So close and yet so far. Maybe it
+is worth getting the ingredients
+we know about first, just in case.
+Philia
 401800601_29_a
-分量だけ間違えたって
-可能性もあると思うの
-アスナ
+and it could just be we were wrong
+about the amounts to use.
+Asuna
 401800601_28_a
-いくつかの食材のうち
-正解だったものもあっただろうし、
-アスナ
+We must have had at least some
+of the correct ingredients,
+Asuna
 401800601_27_a
-失敗したのは結局レシピの一部が
-間違ってたってことだから
-アスナ
+It actually ended up being the
+recipe that was off, not the
+ingredients.
+Asuna
 401800601_26_a
-ん……でも失敗したんだろ?
-キリト
+Why? You messed it up that time.
+Kirito
 401800601_25_a
-だからね
-前におせちを作って失敗した食材を
-予め用意しておこうと思うの
+Then I think we should get all
+the ingredients we used back then.
+Lisbeth
 401800601_24_a
-元々ALOは
-SAOのサーバーコピーだからな
-キリト
+and ALO did copy pretty much
+everything from SAO's servers.
+Kirito
 401800601_23_a
-基幹プログラムが同じだし、
-キリト
+Yeah. The core program
+is the same,
+Kirito
 401800601_22_a
-武器防具やSS、
-アイテムやMobとかで
-被ってる要素が多いでしょ?
+But there's plenty of overlapping
+equipment and items and mobs
+and stuff like that, right?
+Lisbeth
 401800601_21_a
-ALOって
-SAOとは別ゲームだけど……
+ALO and SAO are different games...
+Lisbeth
 401800601_20_a
-ん、どうした?
-キリト
+What is it?
+Kirito
 401800601_19_a
-あーっ、ちょっと待ってくれる?
+Ah--hold on just a second.
+Lisbeth
 401800601_18_a
-そうだよ
-アスナ
+Right.
+Asuna
 401800601_17_a
-行ってみて初めて今回集める食材が
-なにか教えてもらえるんだよねー?
-ストレア
+They'll tell us the ingredients
+that they need, right?
+Strea
 401800601_16_a
-じゃあ早速その料理人の所に
-行ってみようよー
-ストレア
+Alright, then let's hurry up and
+pay a visit to those chefs!
+Strea
 401800601_15_a
-うん、一度レシピを知ってしまえば、
-こっちのものだからね
-アスナ
+I just need to see it done once
+so I know what I'm doing.
+Asuna
 401800601_14_a
-食材さえ判明しちゃえば
-あとはそれを使って、
-実践すればいいだけだもんね
-フィリア
+Yeah, then you can practice making
+everything on your own later!
+Philia
 401800601_13_a
-あ、ただね……今回ついでに
-どんな食材を用意するのかは、
-メモしておこうと思って
-アスナ
+Oh! And I can totally take notes
+on the kinds of ingredients
+they use!
+Asuna
 401800601_12_a
-ふふっ、そうなるのかな
-アスナ
+Hehe, I guess so.
+Asuna
 401800601_11_a
-実際に作るのはNPCだから、
-仮想世界でのおせち作りって
-意味でのリベンジだけど
-キリト
+Even if the NPCs are the ones
+making it, it's still another
+chance to eat it in VR.
+Kirito
 401800601_10_a
-……そう考えると
-今回はリベンジってトコだな
-キリト
+Well, then this is kind of a
+second chance.
+Kirito
 401800601_9_a
-ふふっ、アスナらしいわね
+Hehe, that's just how you are.
+Lisbeth
 401800601_8_a
-……でもやっぱりわたしとしては、
-ちゃんと作りたかったな、おせち
-アスナ
+I still kind of wish I'd been
+able to make it work...
+Asuna
 401800601_7_a
-まあメインで出さなくて
-良かったとは思うが、あれはあれで
-話のネタになって笑えたな
-エギル
+It was the right call not to have
+it as the main course, but it made
+for one heck of a joke.
+Agil
 401800601_6_a
-うん、そうだったね
-アスナ
+Hehe, yeah.
+Asuna
 401800601_5_a
-ううん、面白半分で出してみたわ
-みんな渋い顔して食べてたけど、
-最終的には面白がってくれたわよね?
+No, we put it out just for laughs.
+Everyone made the weirdest faces
+eating it, but it was hilarious!
+Lisbeth
 401800601_4_a
-アスナ
+Asuna
 401800601_3_a
+Lisbeth
 401800601_2_a
 bg_11_home_lounge
-それで……
-結局おせちは出さなかったのか?
-キリト
+So then you didn't end up serving
+any of the New Year's food you
+made?
+Kirito
 401800601_1_a
-そうだぜ、気にするな
-エギル
+Totally. Don't even worry
+about it.
+Agil
 401800501_25_a
-ううん、あたしは楽しかったわよ
+Not at all! I had a blast!
+Lisbeth
 401800501_24_a
-二人とも付き合わせて悪かったね
-アスナ
+Sorry this turned out to be such
+a waste of time...
+Asuna
 401800501_23_a
-じゃあ今回は残念だが、そうしよう
-エギル
+Yeah, you are. Well, I guess we're
+going with Plan B.
+Agil
 401800501_22_a
-そ、そんなことないわ
-アスナの料理は最高よ
+Y-You're not bragging!
+You're an amazing cook!
+Lisbeth
 401800501_21_a
-って……そんな自慢する
-タイミングじゃないか
-えへへ……
-アスナ
+Then again, maybe this isn't a
+good time for me to brag...
+Ehehe...
+Asuna
 401800501_20_a
-で、でもそうと決まれば簡単だよ
-わたしの得意料理なら、必ず
-みんなを満足させられるからね
-アスナ
+That's the best thing. I'll make
+my specialty. That's sure to be
+a crowd-pleaser.
+Asuna
 401800501_19_a
-アスナ……
+But...
+Lisbeth
 401800501_18_a
-そ、そうだね
-マズイ料理出してもみんな
-残念がるし、今回は諦めようか
-アスナ
+Yeah... We can't feed any of this
+to people
+it's terrible. I guess
+we just have to admit defeat.
+Asuna
 401800501_17_a
-……アスナ、どうする?
+What do you want to do, Asuna...?
+Lisbeth
 401800501_16_a
-………………
-アスナ
+...
+Asuna
 401800501_15_a
-今なら普通の料理に
-変更することもできるだろ?
-エギル
+We still have time to whip up some
+normal food, right?
+Agil
 401800501_14_a
-そういう意味じゃない
-このおせち料理を振舞うのを
-諦めるかどうか、って意味だ
-エギル
+No, that's not what I want! But
+maybe we oughta think about
+changing the menu at least...
+Agil
 401800501_13_a
-し、潮時ってどういう意味?
-お正月の宴会を止めるつもり?
-もう招待状出しちゃったわよ!
+D-Don't say that! What are we
+supposed to do? Cancel the party?
+We already sent out the invites!
+Lisbeth
 401800501_12_a
-ううむ……
-正月ももう差し迫ってきたし、
-この辺が潮時か
-エギル
+Hmmm... And I guess we're pretty
+much out of time, since New Year's
+is right around the corner.
+Agil
 401800501_11_a
-うん……
-これだけ試しても、
-どの料理もピンと来ないね……
-アスナ
+Yeah... If this is any indication,
+I don't think any of it is going
+to turn out fine...
+Asuna
 401800501_10_a
-だな……だが想像はしていたが、
-おせちレシピの難易度は
-やっぱり高いな
-エギル
+Could be... Man, it really is hard
+to get the recipes for these
+things right...
+Agil
 401800501_9_a
-そ、そうよ
-あたし達が集めてきた食材が
-悪いんだろうし……
+Y-Yeah... Maybe the ingredients
+we got weren't all that great...
+Lisbeth
 401800501_8_a
-い、いや……
-試食だからそれは構わないんだが……
-エギル
+No worries... Someone's gotta
+be the guinea pig, right?
+Agil
 401800501_7_a
-ご、ごめんなさい二人とも
-変なもの味見してもらっちゃって……
-アスナ
+I-I'm really sorry... I can't
+believe I made you taste-test all
+this weird stuff...
+Asuna
 401800501_6_a
-この昆布巻きは……
-ンガガ……
-か、硬すぎて咬み切れない～
+gnaw
+... I can't even bite
+through this, it's so tough...
+Lisbeth
 401800501_5_a
-アメリカンスイーツよりも、
-化学的な味がするぜ……
-エギル
+If this weren't VR, I'd be worried
+about getting cavities!
+Agil
 401800501_4_a
-アスナ
+Asuna
 401800501_3_a
+Lisbeth
 401800501_2_a
 bg_05_agil_shop
-うおっ……!
-このなます……あ、甘い……!
-エギル
+Whoa...!
+This... This is so sugary!
+Agil
 401800501_1_a
-うん……!
-アスナ
+Still, thank you!
+Asuna
 401800401_29_a
-そういうことだ
-エギル
+Exactly.
+Agil
 401800401_28_a
-なに言ってるのよ、アスナ
-あたし達仲間じゃない
+Aw, come on, that's what friends
+are for.
+Lisbeth
 401800401_27_a
-二人とも……ホントにありがとう!
-お願いするね!
-アスナ
+You two are the best!
+I owe you one!
+Asuna
 401800401_26_a
-おせちレシピになりそうな
-変わり種の食材を
-片っ端から集めておくぜ
-エギル
+I'll get my hands on anything and
+everything that looks like it'll
+be useful.
+Agil
 401800401_25_a
-ならオレは素材やアイテムの調達だな
-エギル
+Then I can procure whatever items
+we'll need.
+Agil
 401800401_24_a
-だからアスナはレシピ作りに集中
-あたしは素材系のツテを通じて、
-新しい素材情報とかを調べるわ
+so, Asuna, you focus on making the
+recipe. I'll use my connections to
+get new info on ingredients.
+Lisbeth
 401800401_23_a
-ぶっちゃけ料理に関しては、
-あたしとエギルがアスナに余計な
-茶々入れる必要ってないと思うの
+There's really no reason for me or
+Agil to be involved in the actual
+cooking part,
+Lisbeth
 401800401_22_a
-じゃあ役割分担を決めましょう
+Alright, so let's figure out
+who's in charge of what.
+Lisbeth
 401800401_21_a
-二人とも……ありがとう!
-アスナ
+Thank you! Both of you!
+Asuna
 401800401_20_a
-そうだな……
-ダメ元だがやってみるか
-エギル
+Well, might as well try. What've
+we got to lose?
+Agil
 401800401_19_a
-食べれたら喜ぶわよね、きっと……
+I bet being able to eat it again
+would really lift their spirits...
+Lisbeth
 401800401_18_a
-まぁ確かにやる意義はあるわよね
-プレイヤー全員、そういう料理が
-恋しいはずだから
+It's definitely worth a shot. I'm
+sure everyone really misses
+that kind of food.
+Lisbeth
 401800401_17_a
-現実の食感を再現できるように
-なってるから……
-決して不可能じゃないかなって
-アスナ
+Since that's all it takes to
+recreate food from the real
+world, I'm sure there's a way...
+Asuna
 401800401_16_a
-うん、でもこの世界の料理って、
-食材やそれ以外の物を
-うまく組み合わせれば、
-アスナ
+But cooking in this world just
+takes getting the ingredients and
+combining them well enough.
+Asuna
 401800401_15_a
-まあ、そうなっちまうな
-エギル
+Yeah, I'm no chef.
+Agil
 401800401_14_a
-アスナが作れない料理を、
-エギルとあたしが作れるとは
-思えないけど……
+If you can't make it, there's no
+way either of us can manage that.
+Lisbeth
 401800401_13_a
-ええと……
-わたしも作ったことはないんだけど
-アスナ
+Um... Well, I've never really
+cooked holiday food myself, but
+I could try...
+Asuna
 401800401_12_a
-あたしは構わないわよ
-でもおせちなんて作れるの?
+I'm in. But how are we gonna
+make all that stuff?
+Lisbeth
 401800401_11_a
-正月か……確かにまた
-そんな時期が来ちまったな
-エギル
+Hm... I guess it is that time
+of year again...
+Agil
 401800401_10_a
-知人を招いてささやかでもいいから、
-おせちを作ってみんなで食事する……
-なんてできないかな?
-アスナ
+What do you think about cooking
+a nice holiday meal together?
+Asuna
 401800401_9_a
-今年はお正月のお祝いを
-したいなって思ってるんだ
-アスナ
+But this year I was thinking it
+would be nice to celebrate.
+Asuna
 401800401_8_a
-去年はまだダイブしたばかりで
-みんなそんな余裕もなかったけど……
-アスナ
+We'd all just gotten here around
+this time last year, so we didn't
+have much time to spare...
+Asuna
 401800401_7_a
-う、うん……
-そろそろお正月だけど……
-アスナ
+O-Okay... So, New Year's is
+coming up...
+Asuna
 401800401_6_a
-なんでも言ってみなさいよ
-KoB副団長が遠慮なんて
-するもんじゃないわ
+You're the vice commander of the
+Knights of the Blood Oath. No need
+to beat around the bush.
+Lisbeth
 401800401_5_a
-ん、なんだ?
-エギル
+Huh? What is it?
+Agil
 401800401_4_a
+Lisbeth
 401800401_3_a
-エギル
+Agil
 401800401_2_a
 bg_05_agil_shop
-ねえエギルさん、リズ
-ちょっと……いいかな?
-相談があるんだけど……
-アスナ
+Hey, Agil, Liz, can I ask you
+something?
+Asuna
 401800401_1_a
-ええ、もちろんよ
+Hehe, alright.
+Lisbeth
 401800301_33_a
-ねえねえ、もし良かったら、
-その話もっと詳しく
-聞かせてもらえる?
-フィリア
+This sounds like a good story!
+Don't just gloss over all the
+juicy details!
+Philia
 401800301_32_a
-そうか……
-そんなことがあったんだな
-キリト
+I never knew about that.
+Kirito
 401800301_31_a
-まあ今となってはいい思い出だがな
-エギル
+But it's something we look back
+on and laugh about now.
+Agil
 401800301_30_a
-やっぱり味付けで失敗しちゃって
-うまく行かなかったんだけどね
-アスナ
+It...didn't go well. The flavors
+were all wrong...
+Asuna
 401800301_29_a
-あれは……二年目のお正月の頃、
-あたし達SAOでおせちを
-作ろうとしたことがあったの
+It was the second New Year we
+spent in SAO... We tried making
+some holiday fare.
+Lisbeth
 401800301_28_a
-ああ、キリト達は知らなかったわね
+That's right. You guys
+weren't there.
+Lisbeth
 401800301_27_a
-おせちがどうかしたのー?
-ストレア
+What are you talking about?
+Strea
 401800301_26_a
-……?
-キリト
+...?
+Kirito
 401800301_25_a
-ああ、オレも今思い出したぜ
-エギル
+Oh, now you got me going
+down memory lane too.
+Agil
 401800301_24_a
-うふふ、そうだね
-実はわたしも
-アスナ
+Hehe, oh yeah.
+I remember that...
+Asuna
 401800301_23_a
-はぁ……でもなんかこれ見てると、
-あの頃のこと思い出すわねぇ
+sigh
+... But, you know, this
+really brings me back.
+Lisbeth
 401800301_22_a
-元々日持ちするのが、
-おせち料理の基本だからね
-かける手間もその分多いんだよ……
-アスナ
+Holiday meals are special, after
+all. They require days of prep and
+can't be rushed...
+Asuna
 401800301_21_a
-うん……
-どれも一筋縄じゃいかないよ
-アスナ
+Yeah... None of the usual methods
+would work.
+Asuna
 401800301_20_a
-そうだね、
-プレイヤーの料理スキルじゃ
-再現するのは確かに無理そう……
-フィリア
+True. No way would your average
+cooking skill be enough to make
+all of that...
+Philia
 401800301_19_a
-確かにおせちって、
-どれも味付けが独特だからな
-手間がかかるのは現実と同じだな
-キリト
+There are lots of different dishes
+that take time and energy to
+prepare, same as in real life.
+Kirito
 401800301_18_a
-でも結構手間かかりそうなんだね～
-ストレア
+It does sound like a lot
+of work...
+Strea
 401800301_17_a
-ああ、それはもちろん平気だ
-一度決めたら最後までやるさ
-エギル
+No problems here. I'm cool to
+see this thing through to the end.
+Agil
 401800301_16_a
-そう、けっこう大変そうだけど、
-みんな大丈夫?
+Yeah, a really tough one.
+Everyone still on board?
+Lisbeth
 401800301_15_a
-一つ一つ……?
-フィリア
+Sounds like some sort of
+culinary matching game.
+Philia
 401800301_14_a
-それぞれの食材を料理が作れる
-NPCの料理人に渡して、一つ一つ
-作ってもらうことになってるの
-アスナ
+and give them to the corresponding
+NPC chefs, who will then make
+the dishes for us.
+Asuna
 401800301_13_a
-今回のおせちの重箱はね
-いっぺんに完成させるんじゃなくて……
-アスナ
+Instead of getting everything
+at once, we have to collect
+the ingredients...
+Asuna
 401800301_12_a
-伊達巻、栗きんとん、昆布巻き、
-数の子、田づくり……エトセトラ
-アスナ
+Datemaki, kurikinton, konbumaki,
+kazunoko, tazukuri...
+Asuna
 401800301_11_a
-はは、んじゃあ早速、
-クエスト内容を教えてもらえるか?
-エギル
+Ha ha, yeah. You guys still have
+to tell us what this quest is
+about.
+Agil
 401800301_10_a
-ストレア、気が早いよ
-フィリア
+Hold your horses, Strea.
+Philia
 401800301_9_a
-おせち料理を作るんだよね～
-早く食べたいな～
-ストレア
+Let's hurry up and make this
+feast! I'm staaaarving!
+Strea
 401800301_8_a
-クラインは忙しいらしいから、
-今回のパーティはこれで全員だな
-キリト
+Klein's busy with other stuff,
+so this is everyone.
+Kirito
 401800301_7_a
-やっほ～!
+Hiya!
+Lisbeth
 401800301_6_a
-お邪魔しま～す!
-ストレア
+Hey guys!
+Strea
 401800301_5_a
-こんにちは～!
-フィリア
+Heya!
+Philia
 401800301_4_a
-ストレア
+Strea
 401800301_3_a
-フィリア
+Philia
 401800301_2_a
 bg_11_home_lounge
-エギル
+Yo.
+Agil
 401800301_1_a
-そうね
-じゃああたしもシリカ達に
-連絡してみるわ
+Yeah. Then I'll message Silica
+and some other friends.
+Lisbeth
 401800201_21_a
-クライン達にも声かけてみようぜ
-一緒に攻略してくれるかも
-しれないし
-キリト
+We should message Klein and the
+others. I bet they'd want to
+do this too.
+Kirito
 401800201_20_a
-ふふっ
-二人ならそう言ってくれると
-思ったわ
+Hehe, I knew you'd say that.
+Lisbeth
 401800201_19_a
-もちろんだ、なんだか面白そうだな
-このおせちも食べてみたいし
-キリト
+Yeah, it sounds like it could be
+fun. Plus, I really want a taste
+of all that food!
+Kirito
 401800201_18_a
-うん、いいよ!
-アスナ
+Absolutely!
+Asuna
 401800201_17_a
-ご明察のとおりよ
-ねえ、二人とも
-そのクエスト請けてみない?
+Bingo. You two down to take on
+this quest or what?
+Lisbeth
 401800201_16_a
-なるほど……
-だから作るんじゃなくて、
-クリア報酬の料理なのか
-キリト
+So then you get all this
+ready-made as a reward?
+Kirito
 401800201_15_a
-そうなの
-だからお宝情報ってわけ
+Right? I told you I hit
+the jackpot!
+Lisbeth
 401800201_14_a
-こんなのとてもプレイヤーには
-作れないよ
-アスナ
+No way could you make this
+on your own...
+Asuna
 401800201_13_a
-これ……すごいね
-高級料亭で注文したみたいな
-品揃え……重箱も高価そうだし
-アスナ
+It looks like a full course dinner
+from a five-star restaurant! Even
+served in fancy lacquer boxes!
+Asuna
 401800201_12_a
-うおっ……!
-キリト
+Whoa...!
+Kirito
 401800201_11_a
-まあアスナくらいの熟練度があれば
-できるかもだけど……論より証拠よ
-この画像を見て
+Well, maybe if they had your skill
+level, Asuna. But here, look. A
+picture's worth a thousand words.
+Lisbeth
 401800201_10_a
-おせちって料理だから
-仮想世界でも
-自分で作るものかと……
-アスナ
+If it's food, it must be something
+anyone could make in VR...
+Asuna
 401800201_9_a
-おせち?
-確かにもうすぐお正月だけど……
-アスナ
+I suppose New Year's is coming
+up pretty soon...
+Asuna
 401800201_8_a
-この時期限定クエストの報酬で
-《おせちセット》が
-手に入るって話なの
+It's about the reward you get for
+one of the seasonal quests,
+something called "New Year Feast."
+Lisbeth
 401800201_7_a
-ううん、
-今回は鍛冶とは関係ないの
+Nope. It doesn't have anything to
+do with blacksmithing...
+Lisbeth
 401800201_6_a
-超固いレア鉱物の採掘ポイントを
-教えてもらったとか?
-キリト
+Did someone tell you where you can
+mine some super-rare ore or
+something?
+Kirito
 401800201_5_a
-お宝情報……
-アスナ
+What do you mean?
+Asuna
 401800201_4_a
-キリト
+Kirito
 401800201_3_a
-アスナ
+Asuna
 401800201_2_a
 bg_18_inn_restaurant_morning
-実はね、とっておきの
-お宝情報をゲットしたの
+So I pretty much landed
+the jackpot with this...
+Lisbeth
 401800201_1_a
-う、うん
-アスナ
+Alright.
+Asuna
 401800101_25_a
-どこかお店にでも入りましょうか
+Let's go somewhere a little
+quieter.
+Lisbeth
 401800101_24_a
-アハハ、冗談よ
-そうね……でもこんな人ごみで話すのも
-なんだから、
+Hahaha, I was only joking.
+But I don't want to tell you
+with all these people around.
+Lisbeth
 401800101_23_a
-おいおい、アルゴかよ
-キリト
+Okay, "Argo," name your price.
+Kirito
 401800101_22_a
-アーちゃん、情報が欲しいなら
-まずは対価を支払って
-もらわないと困るゾ～
+Now, Asu, how am I supposed ta
+make a livin' just givin' away
+info fer free?
+Lisbeth
 401800101_21_a
-へぇ～、どんなのがあった?
-アスナ
+Ooh, and what was that?
+Asuna
 401800101_20_a
-攻略サイトやBBSにも載ってない
-レア情報なんかも聞けたわ
+I even heard this juicy tidbit you
+won't find on the tips and tricks
+sites or on the forums.
+Lisbeth
 401800101_19_a
-それにこのマーケットって
-人が多く集まるから、ちょっとした
-情報収集の場所にもなってるの
+And because there are so many
+people here, it's a great place
+to pick up new info too.
+Lisbeth
 401800101_18_a
-あはは……それにしても面白いね
-仮想世界でも現実と同じように、
-酉の市をやるんだね
-アスナ
+Hahaha... Anyway, it's pretty cool
+how they've captured the essence of
+real-world open-air markets in VR.
+Asuna
 401800101_17_a
-じょ、冗談だって……
-キリト
+K-Kidding, I was kidding...
+Kirito
 401800101_16_a
-ちょっとキリト!
-あたしは理不尽な交渉は
-してないわよ!
+Hey, who are you calling a bully?!
+I haggle fair and square!
+Lisbeth
 401800101_15_a
-リズの値切り……
-買いたたきってやつだな……
-キリト
+Haggling? Bullying? Same
+difference I guess.
+Kirito
 401800101_14_a
-そ、そうなんだ……
-アスナ
+Th-That's great...
+Asuna
 401800101_13_a
-それに加えて……
-値切り交渉もできるしね、ここ
-ふふふっ……
+Plus, you can haggle the price
+down even further here! Hehehe...
+Lisbeth
 401800101_12_a
-かなりのお買い得なのよ
+It's pretty much the deal
+of the year.
+Lisbeth
 401800101_11_a
-ええ、そうよ
-鍛冶用の素材やら食材やらが、
-安く売ってるの
+Yep! They're selling blacksmith
+materials and food and stuff
+for super cheap right now.
+Lisbeth
 401800101_10_a
-リズも買い物に来てたの?
-アスナ
+Are you out bargain-hunting too?
+Asuna
 401800101_9_a
-アスナ
+Asuna
 401800101_8_a
-あら、お二人さん
-こんな所で会うなんて奇遇ね
+Hey, you two! Fancy meeting
+you here!
+Lisbeth
 401800101_7_a
-あっ、リズだよ
-アスナ
+Oh, it's Liz!
+Asuna
 401800101_6_a
-確かにそうだな
-キリト
+Seriously.
+Kirito
 401800101_5_a
-年末だからセールしてるみたいだね
-まるで現実世界の酉の市みたいだね
-アスナ
+Whatever's on sale, probably.
+I thought things only got this
+crazy in real life on Black Friday.
+Asuna
 401800101_4_a
-ああ、みんな買い物客っぽいけど……
-なにを買ってるんだ?
-キリト
+Guess everyone decided to come out
+shopping today. I wonder what
+they're buying.
+Kirito
 401800101_3_a
-キリト
+Kirito
 401800101_2_a
 bg_21_alne
-わあ、すごい人だね
-アスナ
+Wow, look at these crowds...
+Asuna
 401800101_1_a
 はい!
 401701201_22_a
@@ -86563,6 +88314,415 @@ bg_08_calmdead
 Kii-boy. Hey, Kii-boy!
 Argo
 400200101_1_a
+I'm glad to hear you say that!
+Suguha
+1850058_33_a
+I'm glad I got to try archery and
+horseback riding, though.
+Shino
+1850058_32_a
+Heh, be that as it may, all of it
+was way harder for me in real
+life!
+Shino
+1850058_31_a
+Hahaha, quit exaggerating!
+Not everyone can pull off what
+you just did in GGO!
+Suguha
+1850058_30_a
+It was nothing, really. It's all
+about 100 times easier than
+doing the same in real life.
+Shino
+1850058_29_a
+You must be pretty good!
+Staff Member
+1850058_28_a
+Your secret is safe with us.
+We're just impressed by your
+skills in virtual reality!
+Staff Member
+1850058_27_a
+The staff here are the only ones
+who know my real-world identity,
+though... Can you keep it quiet?
+Shino
+1850058_26_a
+Yes, that was quite thrilling!
+Staff Member
+1850058_25_a
+Looks like using exploding objects
+was the right choice in the end!
+Suguha
+1850058_24_a
+No need to thank us.
+We're just glad it went well.
+Shino
+1850058_23_a
+Indeed! You've done us a great
+service. Thank you both so much.
+Staff Member
+1850058_22_a
+Suguha
+1850058_21_a
+bg_02_colloseo
+Whew, that went better than
+expected.
+Shino
+1850058_20_a
+Such presence! Such power!
+This is incredible!
+Worshiper
+1850058_19_a
+Oh, I'm just getting started!
+Sinon
+1850058_18_a
+Whoa!
+Worshiper
+1850058_17_a
+Next up...!
+Sinon
+1850058_16_a
+Ooh!
+Worshiper
+1850058_15_a
+Hmph!
+Sinon
+1850058_14_a
+What? Is something like that even
+possible?
+Worshiper
+1850058_13_a
+We hope you enjoy the show!
+Staff Member
+1850058_12_a
+Targets that she shall shoot out
+of the sky with her trusty gun!
+Staff Member
+1850058_11_a
+She will ride through the wastes on
+her mechanical steed as countless
+targets appear before her!
+Staff Member
+1850058_10_a
+Leafa
+1850058_9_a
+Then it's showtime!
+Sinon
+1850058_8_a
+The targets are ready!
+Suguha
+1850058_7_a
+A famed sniper from the virtual
+world of GGO will now exhibit her
+horseback SHOOTING skills!
+Staff Member
+1850058_6_a
+Leafa
+1850058_5_a
+bg_s2_09_ruins
+Okay, I'm ready.
+Sinon
+1850058_4_a
+Nonetheless, we have something
+special prepared for you. Please
+take a look at the large screen.
+Staff Member
+1850058_3_a
+As today's performer has
+fallen ill, we will not be able to
+proceed as originally planned.
+Staff Member
+1850058_2_a
+bg_02_colloseo
+And now, we move on to the
+main event, horseback archery.
+Staff Member
+1850058_1_a
+Exactly. I think I can put this
+real-world experience to good use.
+Shino
+1850057_15_a
+I think I see where you're going
+with this!
+Suguha
+1850057_14_a
+Yeah, I mean they could probably
+rent those, but... Ohhh!
+Suguha
+1850057_13_a
+Uhhh...
+Suguha
+1850057_12_a
+Do you think this shrine could
+get a big screen and a projector
+set up?
+Shino
+1850057_11_a
+Meaning...what, exactly?
+Suguha
+1850057_10_a
+But in reality, sometimes you have
+to change your approach instead
+of trying to force things.
+Shino
+1850057_9_a
+Shino...?
+Suguha
+1850057_8_a
+I've been taking that to heart
+lately. I don't want to regret
+anything, you know?
+Shino
+1850057_7_a
+It's okay. I'm the one who agreed
+to try it. Failure's guaranteed if
+you don't even try...
+Shino
+1850057_6_a
+I'm sorry I asked you to take
+all this on.
+Suguha
+1850057_5_a
+Well, nobody expects you to
+master both of them overnight.
+Suguha
+1850057_4_a
+...that horse riding of all things
+would be the easier part of this?
+Shino
+1850057_3_a
+Suguha
+1850057_2_a
+bg_02_colloseo
+Who would've thought...
+Shino
+1850057_1_a
+Indeed. Take the reins in your
+hand and start off with a slow
+walk.
+Staff Member
+1850055_22_a
+Ah, no! Nothing at all. I won't
+know how well this will go until
+we get moving, though.
+Shino
+1850055_21_a
+I'm sorry, did you say something?
+Staff Member
+1850055_20_a
+Does it like me because I'm a
+Cait Sith?
+Shino
+1850055_19_a
+It seems as though you have a
+good bond with this horse.
+Staff Member
+1850055_18_a
+You're doing well! This might work
+after all.
+Staff Member
+1850055_17_a
+I did it...
+Shino
+1850055_16_a
+Shino
+1850055_15_a
+snort
+Horse
+1850055_14_a
+Suguha
+1850055_13_a
+I will.
+Shino
+1850055_12_a
+Allow me to explain the proper
+technique. The most important
+thing is to remain calm.
+Staff Member
+1850055_11_a
+So that's the horse I have to
+ride...
+Shino
+1850055_10_a
+NEIGH!
+???
+1850055_9_a
+Are you sure? You needn't push
+yourself...
+Staff Member
+1850055_8_a
+Yes. I'd like to try riding on
+horseback, even though I'm still
+uneasy about my bow skill.
+Shino
+1850055_7_a
+Are you okay, miss?
+Staff Member
+1850055_6_a
+I'm gonna be so sore tomorrow...
+Shino
+1850055_5_a
+I've only shot off a couple of
+arrows, but my whole body
+hurts already...
+Shino
+1850055_4_a
+Shino...?
+Suguha
+1850055_3_a
+Suguha
+1850055_2_a
+bg_02_colloseo
+Whew...
+Shino
+1850055_1_a
+You can do it, Shino!
+Suguha
+1850053_22_a
+Here, use a training bow first.
+That should make it easier.
+Staff Member
+1850053_21_a
+I... I can't. I had no idea this
+was so hard in real life.
+Shino
+1850053_20_a
+Are you all right? Can you draw
+the string back?
+Staff Member
+1850053_19_a
+Urf! I-It's so heavy...!
+Shino
+1850053_18_a
+I'd like to start with archery.
+Shino
+1850053_17_a
+Would you be able to do both from
+the start? Or would you like to
+take it one step at a time?
+Staff Member
+1850053_16_a
+Please withdraw if you feel it
+is too much at any point.
+Staff Member
+1850053_15_a
+Of course. We would never put a
+beginner in danger.
+Staff Member
+1850053_14_a
+Yes, but on the condition that
+practice goes well and it looks
+like I can do it.
+Shino
+1850053_13_a
+Shino
+1850053_12_a
+You'll fill in for our horseback
+archery performance? Thank you
+so much!
+Staff Member
+1850053_11_a
+I will.
+Shino
+1850053_9_a
+Suguha
+1850053_10_a
+If you ask the staff and they say
+it's okay, then please give it a
+try!
+Suguha
+1850053_8_a
+Absolutely!
+I'm just the messenger.
+Suguha
+1850053_7_a
+If they let me practice and it
+doesn't go well, will you let
+me off the hook?
+Shino
+1850053_6_a
+That's what I like to hear!
+Suguha
+1850053_5_a
+But I'll give it a shot.
+Shino
+1850053_4_a
+Oh?
+Suguha
+1850053_3_a
+Suguha
+1850053_2_a
+bg_02_colloseo
+I don't know if I can do it...
+Shino
+1850053_1_a
+...
+Shino
+1850051_17_a
+I just thought I could help the
+staff out of a jam.
+Suguha
+1850051_16_a
+Sorry I asked too much of you.
+Suguha
+1850051_15_a
+Hmm... Maybe you're right.
+Suguha
+1850051_14_a
+I'm nowhere near as athletic
+as you in real life, either.
+I can't do it!
+Shino
+1850051_13_a
+Yeah, but that was all in VR,
+which isn't reality, in case
+you forgot!
+Shino
+1850051_12_a
+But you're a master archer in ALO!
+And GGO has mech horses, right?
+Suguha
+1850051_11_a
+Why me?! I've never done archery
+for real! I've never even ridden
+a real horse!
+Shino
+1850051_10_a
+What?!
+Shino
+1850051_9_a
+Which got me thinking...
+What if you filled in?
+Suguha
+1850051_8_a
+They don't have a backup, either.
+Suguha
+1850051_7_a
+Oof. Yeah, that's been going
+around lately.
+Shino
+1850051_6_a
+but the performer got the flu
+and had to cancel.
+Suguha
+1850051_5_a
+It sounds like this shrine planned
+to have a performance tomorrow
+to celebrate the new year,
+Suguha
+1850051_4_a
+I don't think so...
+Shino
+1850051_3_a
+Shino
+1850051_2_a
+bg_02_colloseo
+Hey Shino, have you heard about
+the horseback archery?
+Suguha
+1850051_1_a
 Yeah! I'm ready!
 Sachi
 1850048_15_a
@@ -91387,6 +93547,416 @@ bg_event_ayakashi_street
 Hmm...
 Kirito
 1650051_1_a
+It is. I hope you will play all
+the player-made quests you
+come across.
+Girl
+1650048_28_a
+It sure sounds that way. It's
+wonderful that players can share
+so much with one another.
+Asuna
+1650048_27_a
+Lots of people in Asuka Empire
+are creating quests based on their
+memories and experiences.
+Girl
+1650048_26_a
+It means a lot to me to hear
+you say that.
+Girl
+1650048_25_a
+What a fantastic story and a
+wonderful memory. I feel all
+warm and fuzzy inside.
+Asuna
+1650048_24_a
+That helped with the child motif.
+The avatar design looks nothing
+like the child, though.
+Girl
+1650048_23_a
+And what of the zashiki-warashi?
+Yui
+1650048_22_a
+Exactly. I made this quest based
+on that memory. To create some
+sort of closure for it.
+Girl
+1650048_21_a
+Which brings us to this quest.
+Asuna
+1650048_20_a
+That's when it said, "Thank you
+for playing with me."
+Girl
+1650048_19_a
+Yes. It was the forgotten child.
+I kept following the child's
+instructions and made my way out.
+Girl
+1650048_18_a
+You don't mean...?
+Asuna
+1650048_17_a
+That's when I heard the voice.
+"Wrong way," it said.
+It was the voice of a child.
+Girl
+1650048_16_a
+There wasn't another soul in
+sight, but I wasn't afraid. I kept
+walking.
+Girl
+1650048_15_a
+Suddenly I realized that I was
+on a path lined with torii as
+far as the eye could see.
+Girl
+1650048_14_a
+Yes, and the shrine was quite
+large. I was walking down a stone
+path all by myself.
+Girl
+1650048_13_a
+Oh no, really?
+Asuna
+1650048_12_a
+That's when I got lost.
+Girl
+1650048_11_a
+I started to wonder if I'd been
+dreaming. After a while, I started
+playing at the shrine again.
+Girl
+1650048_10_a
+I asked all my friends what had
+happened, but they had no memory
+of the kid.
+Girl
+1650048_9_a
+I remember the kid being pretty
+nice to all of us, until one day
+the kid was just...gone.
+Girl
+1650048_8_a
+We all assumed this kid was a
+friend of a friend and carried
+on as usual...
+Girl
+1650048_7_a
+One day a kid we'd never met
+before joined our group.
+Girl
+1650048_6_a
+Mmhmm. I spent a lot of time
+playing at the shrine near my
+house.
+Girl
+1650048_5_a
+Oh?
+Asuna
+1650048_4_a
+Yui
+1650048_3_a
+Asuna
+1650048_2_a
+bg_02_forest
+It's based on my childhood
+experiences.
+Girl
+1650048_1_a
+Oh, of course not.
+Girl
+1650047_15_a
+Would you mind telling me what
+you wanted to accomplish with
+this quest?
+Asuna
+1650047_14_a
+Heh, is that so? I'm happy to hear
+that.
+Girl
+1650047_13_a
+It reminded me of playing tag
+as a kid. It was strange and
+familiar all at once.
+Asuna
+1650047_12_a
+That's right. So, what did you
+think of my quest?
+Girl
+1650047_11_a
+Player-made quests are all the
+rage right now. How could I
+forget?
+Asuna
+1650047_10_a
+Wait, you made this quest?
+Oh, right. I'm in Asuka Empire.
+Asuna
+1650047_9_a
+I'm the designer of this quest.
+I made a promise to meet the
+first person who cleared it.
+Girl
+1650047_8_a
+Who are you?
+Asuna
+1650047_7_a
+A girl just appeared. It seems
+she's another player.
+Yui
+1650047_6_a
+Yui
+1650047_5_a
+Oh?
+Asuna
+1650047_4_a
+Yui
+1650047_3_a
+Asuna
+1650047_2_a
+bg_02_forest
+Well done! You caught it.
+???
+1650047_1_a
+I'll probably pay for using torii
+as stepping stones later, but for
+now I'm just glad it worked!
+Asuna
+1650045_22_a
+Wow! Great job, Mommy!
+Yui
+1650045_21_a
+And just as I thought, running
+across the gates was actually
+easier than running on that path!
+Asuna
+1650045_20_a
+The gaps between them weren't
+that large, which made for easy
+jumping.
+Asuna
+1650045_19_a
+Really?!
+Yui
+1650045_18_a
+Hehe, I actually climbed on top of
+the torii and jumped from gate
+to gate!
+Asuna
+1650045_17_a
+Yay! But how did you get in front
+of it like that?
+Yui
+1650045_16_a
+Gotcha! Finally...
+Asuna
+1650045_15_a
+Yui
+1650045_14_a
+Asuna
+1650045_13_a
+Hrrrngh...!
+Zashiki-warashi
+1650045_12_a
+Hnyah?!
+Zashiki-warashi
+1650045_11_a
+Come here, you little...!
+Asuna
+1650045_10_a
+O-Okay!
+Yui
+1650045_9_a
+Keep moving, Yui!
+We can trap it!
+Asuna
+1650045_8_a
+Asuna
+1650045_7_a
+Mommy?! How did you get in front
+of it?!
+Yui
+1650045_6_a
+You're not getting away this time!
+???
+1650045_5_a
+Hey, quit laughing!
+Yui
+1650045_4_a
+Gehehe!
+Zashiki-warashi
+1650045_3_a
+Hngh... Just waaaiiiiiit!
+Yui
+1650045_2_a
+bg_02_forest
+pant
+pant
+Yui
+1650045_1_a
+Okay!
+Yui
+1650043_20_a
+I've got an idea, and I just know
+it's going to work! Go on ahead!
+Asuna
+1650043_19_a
+Of course. But what are you going
+to do, Mommy?
+Yui
+1650043_18_a
+Yui, can you keep chasing after
+it for me?
+Asuna
+1650043_17_a
+What?
+Yui
+1650043_16_a
+Oh!
+Asuna
+1650043_15_a
+And this isn't ALO, so we can't
+fly...
+Asuna
+1650043_14_a
+Which eliminates wandering off
+the path or taking shortcuts.
+Yui
+1650043_13_a
+And the area beyond the torii
+gates is off-limits.
+Yui
+1650043_12_a
+But this is just one long, torii-
+lined path.
+Asuna
+1650043_11_a
+Well, if this were a game of tag,
+we could come in from opposite
+sides to trap it.
+Asuna
+1650043_10_a
+We must think of ways to catch up
+to it. What would we do if this
+were a competition?
+Yui
+1650043_9_a
+Yeah, this stone path is pretty
+tough to walk on, though it
+doesn't seem to stop that brat.
+Asuna
+1650043_8_a
+I think so too. But we won't catch
+up to it if we just keep following
+the path.
+Yui
+1650043_7_a
+And I'm almost certain we have to
+catch it to clear the quest.
+Asuna
+1650043_6_a
+Based on our past experience,
+we'll get returned to the shrine
+as soon as we lose sight of it.
+Asuna
+1650043_5_a
+I know... I don't think we can
+catch it at this rate...
+Yui
+1650043_4_a
+Yui
+1650043_3_a
+Argh! It's still as fast as ever!
+Asuna
+1650043_2_a
+bg_02_forest
+Hee hee!
+Zashiki-warashi
+1650043_1_a
+Later!
+Kirito
+1650041_22_a
+Asuna
+1650041_21_a
+Bye, Daddy!
+Yui
+1650041_20_a
+Yui
+1650041_19_a
+We'd better get going, then.
+Bye, Kirito!
+Asuna
+1650041_18_a
+Okay!
+Yui
+1650041_17_a
+Kirito
+1650041_16_a
+Well, aren't you just full of
+energy!
+Asuna
+1650041_15_a
+We should leave for the shrine
+soon, Mommy!
+Yui
+1650041_14_a
+Kirito
+1650041_13_a
+Sure thing, Kirito. Thank you.
+That means a lot.
+Asuna
+1650041_12_a
+That doesn't leave me many ways to
+help, but let me know if there's
+anything I can do.
+Kirito
+1650041_11_a
+Makes sense. And only girls can
+take the shrine maiden quest,
+right?
+Kirito
+1650041_10_a
+That's why Yui and I are so eager
+to tackle this quest ourselves.
+Asuna
+1650041_9_a
+Yeah, but it's not scary at all.
+Asuna
+1650041_8_a
+Wow. That's a pretty cool story.
+Something strange has found a
+home at the shrine, huh?
+Kirito
+1650041_7_a
+Then, just like that, we were
+right back in the shrine where
+we started.
+Asuna
+1650041_6_a
+Once we finally managed to get
+inside, we ended up chasing a
+zashiki-warashi around.
+Asuna
+1650041_5_a
+and this torii dungeon just
+appeared out of nowhere in
+one part of the shrine.
+Asuna
+1650041_4_a
+Yes. Yui and I are doing a shrine
+maiden simulation quest in Asuka
+Empire,
+Asuna
+1650041_3_a
+Asuna
+1650041_2_a
+bg_02_colloseo
+A torii dungeon?
+Kirito
+1650041_1_a
 Hehe, you're right! I'll have to
 give him a thank-you hug!
 Leafa
@@ -119464,412 +122034,459 @@ bg_04_inn_restaurant
 Go on, eat up!
 Rechka
 1040131_1_a
-ええ、そんな感じよ
+Yeah, something like that.
+Lisbeth
 1040128_25_a
-そうか、働くのも楽しいって感じか?
-キリト
+So you like working?
+Kirito
 1040128_24_a
-まあでも使ったら当然なくなるし、
-定期的にするのも
-悪くないかもって思ってるわ
+But I'll spend it all eventually.
+This isn't the worst way to make
+some money every now and then.
+Lisbeth
 1040128_23_a
-うん、当面はね
+Yeah, for now.
+Lisbeth
 1040128_22_a
-で、小遣いの方は
-なんとかなりそうか?
-キリト
+So, are you earning enough cash?
+Kirito
 1040128_21_a
-はいはい、もう勝手に言ってなさい
+Alright, alright, ya done yet?
+Lisbeth
 1040128_20_a
-SAO生還者たちはもう切っても
-切れない運命の糸で
-結ばれてるのかもねぇ～
-アスナ
+We're bound by the unbreakable
+thread of fate that binds all
+SAO survivors together!
+Asuna
 1040128_19_a
-ふふっ、そうだね
-アスナ
+Hehe, yeah.
+Asuna
 1040128_18_a
-はは、これも俺たちの
-運命ってやつだよ
-キリト
+Ha ha, it must have been
+preordained!
+Kirito
 1040128_17_a
-はぁ……
-だから黙ってたのに……
+sigh
+This is why I kept my trap
+shut...
+Lisbeth
 1040128_16_a
-もちろん見に行くよ!
-アスナ
+Of course we'd come see you!
+Asuna
 1040128_15_a
-当然だ!
-キリト
+Well, duh!
+Kirito
 1040128_14_a
-あんた達にバイトの内容言ったら、
-絶対に面白半分で見に来るって
-思ったのよ
+I knew you'd come see me just to
+poke fun if I told you what
+job I landed...
+Lisbeth
 1040128_13_a
-もーっ!
-観察日記発表するみたいに
-言わないでいいから!
+Cut it ooout! Quit talking about
+me like some animal in a nature
+documentary!
+Lisbeth
 1040128_12_a
-ああ、あの営業スマイルならぬ
-営業ボイスはリズベット武具店と
-一緒だってな
-キリト
+That smile and that voice are
+indicative qualities of the
+enterprising Lizbethus Smithius--
+Kirito
 1040128_11_a
-うん、近づくと声が聞こえてきて、
-確信したんだよね
-アスナ
+Then we got close enough to hear
+you talking, so we knew there
+could be no mistake!
+Asuna
 1040128_10_a
-俺も最初は目を疑ったぞ
-あの巫女服の子……
-どっかで見たことあるって
-キリト
+I thought my eyes were playing
+tricks on me when I saw you in
+that shrine maiden get-up.
+Kirito
 1040128_9_a
-はぁ……しかしまさかあんた達が、
-あたしがバイトしてる神社に
-初詣に来るとは思わなかったわ
+sigh
+All the shrines in town and
+you end up coming to the one
+I work at...
+Lisbeth
 1040128_8_a
-うぷぷ……ご、ごめん
-アスナ
+Pfft... S-Sorry...
+Asuna
 1040128_7_a
-そういうアスナも笑ってるじゃない!
+Says the girl laughing her butt
+off at me!
+Lisbeth
 1040128_6_a
-ふふっ、キリトくんってば、
-あんまり言い過ぎたら、
-リズが可哀想だよ……ふふっ
-アスナ
+Hehe, come on, leave her be,
+Kirito. The poor thing... Ha ha...
+Asuna
 1040128_5_a
-くっ……!
+Grrr...!
+Lisbeth
 1040128_4_a
-アスナ
+Asuna
 1040128_3_a
+Lisbeth
 1040128_2_a
 bg_21_alne
-いや～いいもん、
-見させてもらったぜ
-キリト
+Well now, THERE'S a sight!
+Kirito
 1040128_1_a
-ああ、そうだな
-キリト
+Oh, right!
+Kirito
 1040127_18_a
-早くログアウトしよう!
-アスナ
+Hurry up and log out!
+Asuna
 1040127_17_a
-あっ、モタモタしてたら、
-みんなとの待ち合わせに遅れちゃう!
-アスナ
+Ah! We're going to be late
+meeting up with everyone!
+Asuna
 1040127_16_a
-どうなんだろうね……
-アスナ
+I have no idea...
+Asuna
 1040127_15_a
-そ、そうですね……でも正月の
-こんな時期にするバイトだなんて、
-うーん、コンビニ店員とかか……?
-キリト
+Y-Yeah... What kind of work could
+she get at this time of year?
+Convenience store clerk...?
+Kirito
 1040127_14_a
-リズが変なバイトなんて、
-するわけないでしょ?
-アスナ
+You know Liz better than that!
+Asuna
 1040127_13_a
-こら、キリトくん!
-どんな想像してるのよ!
-アスナ
+K-Kirito! Quit jumping to
+conclusions!
+Asuna
 1040127_12_a
-は、恥ずかしい……?
-まさかなんかヤバいバイトを!?
-キリト
+Why would she be...? Wait, is it
+one of THOSE kinds of jobs?!
+Kirito
 1040127_11_a
-それがね……
-なんか恥ずかしがっちゃって、
-全然教えてくれないんだよ
-アスナ
+Um... Well, she wouldn't tell me.
+She seemed kind of embarrassed.
+Asuna
 1040127_10_a
-あいつ一体どんなバイトを?
-キリト
+What kind of work is it?
+Kirito
 1040127_9_a
-バイト!?
-ああ、そう言えばするかもって
-言ってたな……
-キリト
+A job?!
+That's right, we did kind of
+talk about that earlier...
+Kirito
 1040127_8_a
-それなんだけどね
-リズ、どうやらバイトを
-始めたんだって
-アスナ
+Well, it actually sounds like
+she got a job.
+Asuna
 1040127_7_a
-正月ってみんな色々と
-プライベートもあるだろうし……
-キリト
+Everyone has their own stuff going
+on around New Year's, I guess.
+Kirito
 1040127_6_a
-そうか……せっかくの初詣だから
-みんなで行きたかったんだけど、
-まあ仕方ないよな
-キリト
+That's too bad. I really wanted to
+visit the shrine with everyone...
+Oh, well...
+Kirito
 1040127_5_a
-……あっ、そう言えばリズがね
-やっぱり参加は無理そうだって
-アスナ
+Oh, hey! That reminds me. Liz said
+she can't make it after all.
+Asuna
 1040127_4_a
-ああ、現実で集合だな
-キリト
+Yeah, I'll catch up with you in
+the real world.
+Kirito
 1040127_3_a
-キリト
+Kirito
 1040127_2_a
 bg_21_alne
-じゃあキリトくん
-また後で
-アスナ
+See you later, Kirito!
+Asuna
 1040127_1_a
+I will.
+Lisbeth
 1040125_23_a
-そうか……わかった
-心変わりでもしたら、
-また声をかけてくれ
-キリト
+I can understand that... Well, let
+me know if you change your mind.
+Kirito
 1040125_22_a
-今は現実の楽しさも感じていたいし、
-もうちょっと女子高生らしい
-バイトってのもしてみたいからね
+I get enough game-time here as it
+is, so maybe I ought to go for
+something more "real life"-y.
+Lisbeth
 1040125_21_a
-うーん……気持ちは嬉しいけど、
-そのバイトは止めとこっかな
+Not that I'm not grateful,
+but I don't think I am.
+Lisbeth
 1040125_20_a
-じゃあやっぱバイト紹介するか?
-キリト
+So you interested in that job,
+then?
+Kirito
 1040125_19_a
-ただでさえ二年経って
-スペック様変わりしてるから、
-早く新調したいわ……
+Even though it's only been two
+years, the specs have totally
+changed. I need to upgrade ASAP.
+Lisbeth
 1040125_18_a
-あたしなんて結局SAO時代から
-全然PC変えてないのよー
+I haven't changed my rig at all
+since SAO...
+Lisbeth
 1040125_17_a
-確かになー
-キリト
+Truer words, man.
+Kirito
 1040125_16_a
-はは、VRMMOゲーマーは
-周辺機器に金がかかるのは、
-避けて通れない道だからな
-エギル
+Ha ha, yeah. You really can't
+avoid dropping a lot of dough on
+good tech if you're into VRMMOs.
+Agil
 1040125_15_a
-PCももう少しグレードアップ
-したいしね……
+and maybe upgrade my PC...
+Lisbeth
 1040125_14_a
-女子高生は色々と入用なのよ
-現実でもアスナやシリカ達と
-もっと遊びたいし、
+Oh, a lot of things. I wanna hang
+out with Asuna and Silica in
+real life more...
+Lisbeth
 1040125_13_a
-そもそもリズはお金稼いで
-なにをしたいんだ?
-キリト
+Well, what is it that you want
+money for, anyway?
+Kirito
 1040125_12_a
-うーん、どうしよっかな……
+Hmmm... I dunno...
+Lisbeth
 1040125_11_a
-体験するバイトだよ
-セキュリティも
-万全だから心配する必要はない
-キリト
+where you test out experimental
+VRMMOs. It's totally secure, so
+there's nothing to worry about.
+Kirito
 1040125_10_a
-お、おいおい
-論点はそこじゃないだろ?
-試験的にVRMMOを
-キリト
+C-Come on, guys! You're missing
+the point! The job I got is one...
+Kirito
 1040125_9_a
-ミートゥーだ
-エギル
+Same here.
+Agil
 1040125_8_a
-キリトの腕前で少しとか言われると、
-ちょっと殺意が湧くけどね……
+Hearing you say it like that kind
+of makes me wanna strangle you.
+Lisbeth
 1040125_7_a
-それを活かしたバイトを
-今少しやってるんだよ……
-キリト
+So I've got a bit of work right
+now using those skills...
+Kirito
 1040125_6_a
-ツテってほどじゃないけど……
-ほら、俺そこそこゲーム得意だろ?
-キリト
+Connections is going a bit
+far... Look, I'm pretty decent
+with games, right?
+Kirito
 1040125_5_a
-えっ!?
-あんた一体どんなツテが
-あるのよ!?
+Seriously?! You got connections
+or something?!
+Lisbeth
 1040125_4_a
-エギル
+Agil
 1040125_3_a
+Lisbeth
 1040125_2_a
 bg_event_lisbeth_smith_alo
-なら話は戻るけど、
-バイトでも紹介するか?
-キリト
+So back to our original topic,
+I could probably hook you up
+with a job if you wanted.
+Kirito
 1040125_1_a
-ははは、そうだな
-オレも溜飲が下がったぜ
-エギル
+Hahaha, that's for sure.
+Man, what a relief.
+Agil
 1040123_27_a
-はは……逞しいな、リズは
-キリト
+Ha ha... You're one tough cookie,
+Liz.
+Kirito
 1040123_26_a
-あたしの悩みはそれよりも、
-もっとドライな話なの!
+My worries are a little less
+complex than that!
+Lisbeth
 1040123_25_a
-SAOサバイバーってだけで敬遠
-されちゃうなら、所詮はそれくらいの
-関係だったってことでしょ?
+arm's length just for being a
+survivor, that just shows the kind
+of people they are.
+Lisbeth
 1040123_24_a
-あはは、あたし的には
-別に疎遠になったっていいのよ
+Hahaha, I don't care if I'm all
+that close or not with my family.
+If they're gonna keep me at...
+Lisbeth
 1040123_23_a
-あっ、そうか……
-キリト
+Ah, yeah, okay...
+Kirito
 1040123_22_a
-親戚と疎遠になったことじゃなくて、
-お年玉減ったことが辛いだけだって
+It wasn't family drama but money
+troubles getting me down!
+Lisbeth
 1040123_21_a
-ちょ、ちょっと勘違いしないで
-さっきから言ってるじゃない
+D-Don't misunderstand!
+I already told you.
+Lisbeth
 1040123_20_a
-リズの悩みはそれだったのか……
-キリト
+So that's what was bugging you,
+Liz?
+Kirito
 1040123_19_a
+Yeah...
+Lisbeth
 1040123_18_a
-でも俺たちはその烙印とこれから
-ずっと付き合う必要があるわけだし、
-悩んでも仕方ないかもな……
-キリト
+Maybe it's always going to be a
+bit of a sore spot...
+Kirito
 1040123_17_a
-ま、まぁまぁ……
-エギルも落ち着けよ
-キリト
+C-Calm down, Agil... But I guess
+we'll be carrying that stigma with
+us the rest of our lives.
+Kirito
 1040123_16_a
-たとえそうでもオレは許せねえな
-同じ大人として、被害者の親戚の子を
-そんな風に扱うのは……
-エギル
+Even so, that's no way to treat
+someone who's been through
+something so horrible!
+Agil
 1040123_15_a
-そんな大層なもんじゃないわよ
-あの事件のせいで少しだけ
-疎遠になった……それくらいよ
+It's not that big of a deal. It's
+just that ever since then, we
+haven't been as close...
+Lisbeth
 1040123_14_a
-ちょっとエギル
-本気にならないでよ
+You don't need to get so worked up
+over it, Agil.
+Lisbeth
 1040123_13_a
-まさか世間で叩かれまくった
-SAOの生還者だから、
-リズを腫れ物扱いでもしたってのか?
-エギル
+You're an SAO survivor! The world
+chewed you up and spit you out!
+And now they're ignoring you?!
+Agil
 1040123_12_a
-おい、なんだそれは
-エギル
+What the hell, man?!
+Agil
 1040123_11_a
-えっ……?
-キリト
+Huh...?
+Kirito
 1040123_10_a
-というよりむしろ……
-親戚の人たち、やっぱあたし
-みたいなのを敬遠しちゃったみたい
+But it's like my family's been
+avoiding me or something...
+Lisbeth
 1040123_9_a
-そうね
+Beats me.
+Lisbeth
 1040123_8_a
-なんでだ?
-親戚と会う機会がなかったからとか?
-キリト
+Why's that?
+Kirito
 1040123_7_a
-あたしお年玉をまだもらえてたのよ
-でもね、今年もらえた額が
-ビックリするくらい少なくて……
+But this year, I hardly got any
+at all...
+Lisbeth
 1040123_6_a
-高校生にもなってって……
-思われるかもしれないけど、
+Bingo. Now normally I'm swimming
+in those things...
+Lisbeth
 1040123_5_a
-えと……お年玉か?
-キリト
+Um... Gifts from relatives?
+Kirito
 1040123_4_a
-エギル
+Agil
 1040123_3_a
-キリト
+Kirito
 1040123_2_a
 bg_event_lisbeth_smith_alo
-この時期、子供がお小遣い関連で
-当てにするものと言えば……
-さてなんでしょう?
+So, what's a kid's major source of
+income around this time of year?
+Lisbeth
 1040123_1_a
-あ、ああ
-キリト
+Yeah...?
+Kirito
 1040121_27_a
-まあそれは無理だと思うけど……
-一応聞いてくれる?
+I doubt it, but...
+Listen...
+Lisbeth
 1040121_26_a
-だ、だって俺に力になれることも
-あるかもしれないだろ?
-キリト
+C-Come on, maybe I can help...
+Kirito
 1040121_25_a
-……ホント、キリトって
-足突っ込むの好きねぇ……
+For mind-your-own-business,
+that's what it's for.
+Lisbeth
 1040121_24_a
-お金って小遣いのことか?
-何に必要なんだ?
-キリト
+What is it you need money for?
+Kirito
 1040121_23_a
-はぁ……バイトでもしようかしら?
+sigh
+... Maybe I should look for
+part-time work...
+Lisbeth
 1040121_22_a
-現実なだけにリアルな話だな……
-エギル
+Now there's a real life problem
+if I've ever heard one.
+Agil
 1040121_21_a
-お金!?
-キリト
+M-Money?
+Kirito
 1040121_20_a
-お金よ
-お・か・ね!
+It's money!
+Cold, hard, CASH!
+Lisbeth
 1040121_19_a
-俺でも聞ける話なら、
-なんでも言ってくれ
-キリト
+You can talk to me if you feel up
+to it.
+Kirito
 1040121_18_a
-あんまり力になれないかもだけど、
-まあ誰かに言って楽になるかも
-しれないし……
-キリト
+Maybe there's nothing we can do,
+but you might feel better getting
+it off your chest.
+Kirito
 1040121_17_a
-まあね……
+Eh, I guess...
+Lisbeth
 1040121_16_a
+Lisbeth
 1040121_15_a
-エギル
+Agil
 1040121_14_a
-リズ、なんか悩みか?
-現実のことなのか?
-キリト
+Is there something bothering you,
+Liz? Something in real life?
+Kirito
 1040121_13_a
-ぜんぶ聞こえてるんだからね
+I can hear EVERYTHING.
+Lisbeth
 1040121_12_a
-ちょっと～二人とも
-コソコソ話ならもっとボリューム
-小さくしてしゃべりなさいよ
+If you two are gonna whisper about
+me, at least do it quietly!
+Lisbeth
 1040121_11_a
-現実のこと……?
-キリト
+Real life, huh...?
+Kirito
 1040121_9_a
-エギル
+Agil
 1040121_10_a
-なんか現実のことで
-悩んでるらしいぜ
-詳しくは聞いてないが……
-エギル
+Something from real life bothering
+her, I think. I didn't ask for
+details though...
+Agil
 1040121_8_a
-なあ、エギル
-リズはどうしたんだ?
-さっきから溜息ついて……
-キリト
+Hey, Agil, what's up with Liz?
+She's been sighing like that
+for hours...
+Kirito
 1040121_7_a
-キリト
+Kirito
 1040121_6_a
-………………
-エギル
+...
+Agil
 1040121_5_a
-はぁ……
+sigh
+...
+Lisbeth
 1040121_4_a
-………………
+...
+Lisbeth
 1040121_3_a
-はぁ……
+sigh
+...
+Lisbeth
 1040121_2_a
 bg_event_lisbeth_smith_alo
-………………
+...
+Lisbeth
 1040121_1_a
 がんばってね、リズ!
 アスナ
@@ -140770,6 +143387,359 @@ bg_event_minotaur
 Is Asuna here?
 Queen
 650111_1_a
+Yes, we should!
+Yui
+650098_26_a
+You're right. We should tell the
+head priest what we've learned.
+Asuna
+650098_25_a
+And the area it lives in is pretty
+hard to get to!
+Yui
+650098_24_a
+I'm getting the feeling that
+little brat tricked us.
+Asuna
+650098_23_a
+It's possible. Oh no! The entrance
+has disappeared again.
+Asuna
+650098_22_a
+We cannot rely on our sense of
+direction. Was something warping
+spacetime?
+Yui
+650098_21_a
+All we did was keep walking.
+There weren't any forks in the
+road or anything...
+Yui
+650098_20_a
+Warp back to the temple
+grounds? I think so...
+Asuna
+650098_19_a
+Mommy, did we just...?
+Yui
+650098_18_a
+Yui
+650098_17_a
+bg_02_colloseo
+Huh?
+Asuna
+650098_16_a
+Asuna
+650098_15_a
+Okay!
+Yui
+650098_14_a
+Let's run after it!
+Asuna
+650098_13_a
+Hey, Mommy! It's getting away!
+Yui
+650098_12_a
+Hee!
+Monster
+650098_11_a
+Zashiki-warashi... The little
+childlike spirits that live in old
+houses and like to play?
+Yui
+650098_10_a
+I feel like I've seen a creature
+like that somewhere before.
+Is it a zashiki-warashi?
+Asuna
+650098_9_a
+Hee hee!
+Monster
+650098_8_a
+Oh, okay. Good.
+Yui
+650098_7_a
+Hehe, no, Yui, I'm fine. That one
+was still on the cute end of
+the spectrum.
+Asuna
+650098_6_a
+Are you scared?
+Yui
+650098_5_a
+What was that? Some sort of ghost
+or monster from Asuka Empire?
+Asuna
+650098_4_a
+Asuna
+650098_3_a
+Mommy, look out!
+Yui
+650098_2_a
+bg_02_forest
+Hee hee hee!
+???
+650098_1_a
+Okay!
+Yui
+650097_16_a
+So come on, Yui! Let's investigate
+this unknown area of the shrine
+together!
+Asuna
+650097_15_a
+Aww, Mommy!
+Yui
+650097_14_a
+And besides, I have to look after
+you! I can't let my own daughter
+see me cowering in fear!
+Asuna
+650097_13_a
+Yes, it'll be fine! I really don't
+feel uneasy around them in
+the slightest.
+Asuna
+650097_12_a
+Really? Are you sure about that?
+Yui
+650097_11_a
+Let's investigate this on our own.
+Asuna
+650097_10_a
+No. They might disappear when we
+go to get him.
+Asuna
+650097_9_a
+Should we call for the head
+priest?
+Yui
+650097_8_a
+I-I'm not sure.
+Asuna
+650097_7_a
+Why do they keep appearing and
+disappearing?
+Yui
+650097_6_a
+Wow! The torii gates are back!
+Asuna
+650097_5_a
+Over there! Look over there!
+Yui
+650097_4_a
+What is it, Yui?
+Asuna
+650097_3_a
+Asuna
+650097_2_a
+bg_02_forest
+Mommy, look!
+Yui
+650097_1_a
+But I wonder why that is...
+Asuna
+650095_17_a
+The torii gates didn't bother me
+at all. It's the horror stuff that
+I can't handle.
+Asuna
+650095_16_a
+Hehe, I'm fine, Yui. Thank you for
+asking.
+Asuna
+650095_15_a
+Are you okay, Mommy?
+Are you scared?
+Yui
+650095_14_a
+Precisely.
+Head Priest
+650095_13_a
+I see. So even the quests can be
+modeled on Japanese supernatural
+phenomena.
+Asuna
+650095_12_a
+Tales of oracles and good fortune,
+for instance. It's not all doom
+and gloom.
+Head Priest
+650095_11_a
+Ha ha! There are quite a number of
+ghost stories in Japanese culture,
+yes, but there are other tales.
+Head Priest
+650095_10_a
+Are you talking about ghosts and
+other spirits?
+Asuna
+650095_9_a
+I've heard tell that some of the
+more mysterious phenomena
+manifest themselves as quests.
+Head Priest
+650095_8_a
+Asuka Empire draws on the history
+and folklore of Japan to fill out
+its Japan-themed world.
+Head Priest
+650095_7_a
+Yui
+650095_6_a
+See what?
+Asuna
+650095_5_a
+Ah, I see...
+Head Priest
+650095_4_a
+Mommy, they're gone! They were all
+here just a second ago!
+Yui
+650095_3_a
+Yui
+650095_2_a
+bg_02_forest
+Wait... It was just around here...
+What's going on?!
+Asuna
+650095_1_a
+Of course.
+Asuna
+650093_16_a
+Would you show me the way?
+Head Priest
+650093_15_a
+Asuna
+650093_14_a
+Really? But...how?
+Yui
+650093_13_a
+W-Wait just a minute.
+I've never seen this place
+you speak of.
+Head Priest
+650093_12_a
+Yes. Are we responsible for
+cleaning that as well?
+Asuna
+650093_11_a
+bg_02_colloseo
+Torii-lined path...? Like Fushimi
+Inari, you say?
+Head Priest
+650093_10_a
+Good idea.
+Asuna
+650093_9_a
+Let's ask the head priest!
+Yui
+650093_8_a
+Though we should probably double
+check, now that I think about
+it...
+Asuna
+650093_7_a
+Ha ha, no, that would be asking
+the impossible of just two people.
+Asuna
+650093_6_a
+Do we have to clean all of that
+too?
+Yui
+650093_5_a
+It looks just like the Fushimi
+Inari shrine in Kyoto...
+Asuna
+650093_4_a
+There are a lot of them lining
+this stone path. I can't tell
+where they end!
+Yui
+650093_3_a
+Yui
+650093_2_a
+bg_02_forest
+Was that torii gate here
+yesterday?
+Asuna
+650093_1_a
+What is it, Mommy?
+Yui
+650091_21_a
+Hm?
+Asuna
+650091_20_a
+It is big, though, I'll say that.
+There are still parts of it
+that I haven't seen yet.
+Asuna
+650091_19_a
+Great!
+Yui
+650091_18_a
+Absolutely. The actual cleaning
+process has been greatly
+simplified. I think we can do it.
+Asuna
+650091_17_a
+Okay! But this shrine's quite big.
+Will we be able to clean it all
+by ourselves?
+Yui
+650091_16_a
+Yui
+650091_15_a
+Next we must clean the grounds.
+Asuna
+650091_14_a
+Well then, let's go!
+Yui
+650091_13_a
+I think they just might!
+Asuna
+650091_12_a
+Now that you've converted over
+to Asuka Empire from ALO,
+Asuna
+650091_11_a
+I see! Will my stats go up too?
+Yui
+650091_10_a
+Right. And it comes with a little
+stat boost, so there's extra
+incentive to follow the rules.
+Asuna
+650091_9_a
+Oh yes, that's right. We have to
+clean ourselves before we enter
+the shrine.
+Yui
+650091_8_a
+First come the purification rites.
+Asuna
+650091_7_a
+Okay! So, how do we do that?
+Yui
+650091_6_a
+Me too. Now let's give this
+shrine maiden sim a shot,
+shall we?
+Asuna
+650091_5_a
+Thank you! I'm so happy we get to
+do this shrine quest together.
+Yui
+650091_4_a
+Oh, Yui, it looks fantastic!
+Asuna
+650091_3_a
+Asuna
+650091_2_a
+bg_02_colloseo
+How does this look, Mommy?
+Yui
+650091_1_a
 Yeah! I'm ready to go!
 Asuna
 650088_14_a
@@ -164778,6 +167748,400 @@ Ahem, I mean, Joker!
 That's totally who you are!
 Yuuki
 250121_1_a
+Yes, of course!
+Suguha
+250118_15_a
+Ah, the next customer is here.
+Shino
+250118_14_a
+Excuse me. I'd like to buy these.
+Worshiper
+250118_13_a
+Then I guess I didn't need to
+worry!
+Shino
+250118_12_a
+I always try to keep things fun,
+in both kendo and ALO! Otherwise
+what's the point?
+Suguha
+250118_11_a
+Ha ha, don't worry about that.
+I won't get carried away.
+Suguha
+250118_10_a
+Yeah, just...don't get too carried
+away with the customer-as-opponent
+thing.
+Shino
+250118_9_a
+Either way, it seems like that was
+definitely the right call!
+Suguha
+250118_8_a
+Heh, yeah. Maybe it's the kendo
+practice or fighting in ALO.
+Suguha
+250118_7_a
+So I was right! Your natural
+talents come out when it feels
+more like a battle!
+Shino
+250118_6_a
+I'm doing even better than I
+thought I would!
+Suguha
+250118_5_a
+All thanks to you! I'm just
+following the advice you gave me.
+Suguha
+250118_4_a
+There you go. You're getting
+better at this, Suguha!
+Shino
+250118_3_a
+Thank you for your patronage.
+We humbly await your return.
+Suguha
+250118_2_a
+bg_02_colloseo
+Two charms and a votive picture.
+That will be 2,500 yen.
+Suguha
+250118_1_a
+Yeah, maybe...
+Suguha
+250117_19_a
+I know you're fast, so this should
+be second nature to you.
+Shino
+250117_18_a
+Pretend you're trying to get the
+jump on your opponent. Except your
+opponent is the customer's needs.
+Shino
+250117_17_a
+We're going to turn those nerves
+into the excitement you feel
+before a battle.
+Shino
+250117_16_a
+Say what?
+Suguha
+250117_15_a
+Okay then. New strategy.
+Your customers are no longer
+godlike. They're opponents.
+Shino
+250117_14_a
+It was just me and a bunch of
+my Sylph friends playing around.
+Suguha
+250117_13_a
+W-Well, yeah... I'm too young for
+a real job, and I've done stuff
+like this in ALO, but...
+Suguha
+250117_12_a
+This is the first job you've
+ever had, isn't it?
+Shino
+250117_11_a
+Unless what, Shino?
+Suguha
+250117_10_a
+Unless...
+Shino
+250117_9_a
+Though, top Sylph warrior or not,
+I guess you're still in middle
+school. This should be easy.
+Shino
+250117_8_a
+E-Exactly...!
+Suguha
+250117_7_a
+So when your customer is, in a
+sense, a literal deity, of course
+you're going to be nervous!
+Shino
+250117_6_a
+And now there's the added pressure
+of them telling us not to be shy
+because we serve a higher power.
+Shino
+250117_5_a
+What's the philosophy in almost
+any job? The customer is always
+right.
+Shino
+250117_4_a
+It might actually be a good sign.
+Think about it.
+Shino
+250117_3_a
+Shino
+250117_2_a
+bg_02_colloseo
+I've never been so nervous in
+front of people before. Why now?
+Suguha
+250117_1_a
+...
+Shino
+250115_21_a
+but when I'm actually standing in
+front of a customer, I panic.
+Suguha
+250115_20_a
+In my head, I know exactly what
+I'm doing and how to do it,
+Suguha
+250115_19_a
+Hah! You haven't been around me
+enough. Honestly, I don't know
+what it is...
+Suguha
+250115_18_a
+Where's all this coming from?
+You're usually so confident.
+Shino
+250115_17_a
+Yeah, I hope so...
+Suguha
+250115_16_a
+Just keep at it. It'll get easier.
+Shino
+250115_15_a
+You really should be more careful.
+Though I guess working the
+register takes getting used to.
+Shino
+250115_14_a
+Ooh, hot cocoa? Yes, please!
+sip
+Yeow, that's hot!
+Suguha
+250115_13_a
+Here, have a sip of this.
+It'll get you warmed up.
+Shino
+250115_12_a
+Ha ha, yeah, these winter nights
+get pretty cold.
+Suguha
+250115_11_a
+Yeah. That was quite the sigh you
+let out. I could see your breath
+from way over there!
+Shino
+250115_10_a
+Same to you, Shino.
+Are you on break too?
+Suguha
+250115_9_a
+Nice work, Suguha.
+Shino
+250115_8_a
+Whew...
+Suguha
+250115_7_a
+Ah, so sorry! I'll just be a
+moment!
+Suguha
+250115_6_a
+Are you finished?
+Worshiper
+250115_5_a
+You're right. I'm sorry!
+Suguha
+250115_4_a
+Suguha, be careful. That one is
+a different price.
+Shino
+250115_3_a
+Shino
+250115_2_a
+bg_02_colloseo
+Your total is... Uhh...
+Suguha
+250115_1_a
+Right, the interview! If you pass,
+you should totally ask if it's
+okay for us to work together!
+Suguha
+250113_23_a
+Ah, well, you know, schedules can
+be tough to coordinate, and I
+need to have an interview...
+Shino
+250113_22_a
+Huh? Well, yeah...
+He's my brother.
+Suguha
+250113_21_a
+B-But won't Kazuto be there too?
+Shino
+250113_20_a
+All the more reason for you to
+stay at my house! You know,
+when you have a shift!
+Suguha
+250113_19_a
+Hmm... It'd be nice to work
+together, but it's so far away...
+Shino
+250113_18_a
+And then you take their part-time
+job and start at the same time!
+Suguha
+250113_17_a
+This is actually pretty close to
+my house. Wait, how about this?
+I'll choose this one...
+Suguha
+250113_16_a
+I decided it was too far from
+my house, and it looked like
+hard work, to boot.
+Shino
+250113_15_a
+Yeah, I'm pretty sure I saw their
+job listing in a magazine.
+Shino
+250113_14_a
+Hey, now that you mention it,
+I think this shrine is hiring
+part-timers.
+Shino
+250113_13_a
+You think they would've just said
+they couldn't take anyone on
+for a work-study program.
+Suguha
+250113_12_a
+Yeah. It's the start of the new
+year, which is their busiest time.
+Shino
+250113_11_a
+Helping out at a shrine, you mean?
+Suguha
+250113_10_a
+Okay, let's talk about this one.
+Shino
+250113_9_a
+Well, I don't work all those jobs
+because I want to... Here, let me
+see that list.
+Shino
+250113_8_a
+Besides, I've heard you have like
+a million part-time jobs, so I
+figured you'd have some pointers.
+Suguha
+250113_7_a
+I-I'm not that much older than
+you...
+Shino
+250113_6_a
+Exactly! I wanted to get the
+opinion of someone far older
+and wiser than myself!
+Suguha
+250113_5_a
+So that's why you came to me?
+Shino
+250113_4_a
+Yeah, and Kazuto was actually
+making it harder to decide.
+Suguha
+250113_3_a
+Suguha
+250113_2_a
+bg_os_town_2
+A work-study program, eh?
+Shino
+250113_1_a
+Gee, thanks...
+Kazuto
+250111_20_a
+That's the first good idea you've
+had all day!
+Suguha
+250111_19_a
+Oh yeah, you're right!
+Suguha
+250111_18_a
+You've got a lot of older friends
+you could talk to, don't you?
+Kazuto
+250111_17_a
+Okay, okay, I'm sorry.
+You're right. Why don't
+you ask someone else?
+Kazuto
+250111_16_a
+This has nothing to do with you,
+so you're barely paying attention!
+Suguha
+250111_15_a
+If this were VR or something else
+you were super into, you'd be full
+of ideas. But noooo!
+Suguha
+250111_14_a
+I was just trying to help!
+Geez...
+Kazuto
+250111_13_a
+Did you even hear what I was
+asking myself? Easy doesn't always
+equal fun, y'know!
+Suguha
+250111_12_a
+Why don't you just pick the
+easiest one?
+Kazuto
+250111_11_a
+Yeah, I know. Which one sounds
+like the most fun?
+Suguha
+250111_10_a
+Ah yeah, tourism would be big in
+Kawagoe. It does have the nickname
+Little Edo, after all.
+Kazuto
+250111_9_a
+So the options are things like
+tour guide, store manager, and
+assistant at a shrine or temple.
+Suguha
+250111_8_a
+Well, this time around they're all
+jobs that are deeply tied to their
+location.
+Suguha
+250111_7_a
+Oh yeah? What are your options?
+Kazuto
+250111_6_a
+But I can't decide on one.
+Suguha
+250111_5_a
+My school's got a bunch of
+different work-study classes
+on offer...
+Suguha
+250111_4_a
+What's wrong?
+Kazuto
+250111_3_a
+Kazuto
+250111_2_a
+bg_event_kirigaya_living
+What should I do...?
+Suguha
+250111_1_a
 Definitely!
 Asuna
 250108_22_a
