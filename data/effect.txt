@@ -22,6 +22,8 @@ effect_eyes_flash_b_s
 effect_eyes_flash_b_s
 effect_eyes_flash_s
 effect_eyes_flash_s
+effect_warp_wicket_wreath_01_7
+effect_warp_wicket_wreath_01
 effect_warp_butterfly_blast
 effect_warp_plum
 effect_warp_afterimage_02

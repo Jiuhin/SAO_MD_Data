@@ -18092,114 +18092,114 @@ E%"
 01_hair
 02_sweat
 08_surprised
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 02_sweat
 07_serious
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 02_sweat
 06_sad
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 02_sweat
 05_normal
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 02_sweat
 04_fun
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 02_sweat
 03_shy
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 02_sweat
 02_trouble
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 02_sweat
 01_angry
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 01_shy_line
 08_surprised
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 01_shy_line
 07_serious
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 01_shy_line
 06_sad
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 01_shy_line
 05_normal
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 01_shy_line
 04_fun
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 01_shy_line
 03_shy
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 01_shy_line
 02_trouble
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 01_shy_line
 01_angry
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 08_surprised
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 07_serious
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 06_sad
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 05_normal
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 04_fun
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 03_shy
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 02_trouble
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 01_angry
-05_s2_ep2_uniform _coat
+05_s2_ep2_uniform_coat
 1004_sinon_shino
 01_hair
 03_glasses

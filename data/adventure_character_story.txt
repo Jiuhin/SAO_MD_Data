@@ -1,13 +1,13 @@
 Character Story
-[The Unexpected] Lv.80
+[The Unexpected] Sinon Lv.80
 Character Story
-[The Unexpected] Lv.70
+[The Unexpected] Sinon Lv.70
 Character Story
-[The Unexpected] Lv.50
+[The Unexpected] Sinon Lv.50
 Character Story
-[The Unexpected] Lv.30
+[The Unexpected] Sinon Lv.30
 Character Story
-[The Unexpected] Lv.10
+[The Unexpected] Sinon Lv.10
 Character Story
 [Snow Blessings] Sachi Lv.80
 Character Story
@@ -119,15 +119,15 @@ Character Story
 Character Story
 [Realization of Big Wishes] Leafa Lv.10
 Character Story
-[Sacred Dance] Lv.80
+[Sacred Dance] Yui Lv.80
 Character Story
-[Sacred Dance] Lv.70
+[Sacred Dance] Yui Lv.70
 Character Story
-[Sacred Dance] Lv.50
+[Sacred Dance] Yui Lv.50
 Character Story
-[Sacred Dance] Lv.30
+[Sacred Dance] Yui Lv.30
 Character Story
-[Sacred Dance] Lv.10
+[Sacred Dance] Yui Lv.10
 Character Story
 [Visitor in Snow] Leafa Lv.80
 Character Story
@@ -909,15 +909,15 @@ Character Story
 Character Story
 [The Queen of Hearts] Asuna Lv.10
 Character Story
-[Foxy Shrine Maiden] Lv.80
+[Foxy Shrine Maiden] Asuna Lv.80
 Character Story
-[Foxy Shrine Maiden] Lv.70
+[Foxy Shrine Maiden] Asuna Lv.70
 Character Story
-[Foxy Shrine Maiden] Lv.50
+[Foxy Shrine Maiden] Asuna Lv.50
 Character Story
-[Foxy Shrine Maiden] Lv.30
+[Foxy Shrine Maiden] Asuna Lv.30
 Character Story
-[Foxy Shrine Maiden] Lv.10
+[Foxy Shrine Maiden] Asuna Lv.10
 Character Story
 [Gift from Santa] Asuna Lv.80
 Character Story
@@ -1299,15 +1299,15 @@ Character Story
 Character Story
 [The Bunny Ace] Yuuki Lv.10
 Character Story
-[Gorgeous Priestess Costume] Lv.80
+[Gorgeous Priestess Costume] Suguha Lv.80
 Character Story
-[Gorgeous Priestess Costume] Lv.70
+[Gorgeous Priestess Costume] Suguha Lv.70
 Character Story
-[Gorgeous Priestess Costume] Lv.50
+[Gorgeous Priestess Costume] Suguha Lv.50
 Character Story
-[Gorgeous Priestess Costume] Lv.30
+[Gorgeous Priestess Costume] Suguha Lv.30
 Character Story
-[Gorgeous Priestess Costume] Lv.10
+[Gorgeous Priestess Costume] Suguha Lv.10
 Character Story
 [Christmas Miracle] Yuuki Lv.80
 Character Story

@@ -968,6 +968,46 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 5
+Kidnap Gang Returns (Master +1)
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4
+Kidnap Gang Returns (Master)
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3
+Kidnap Gang Returns (EX)
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2
+Kidnap Gang Returns (Expert)
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1
+Kidnap Gang Returns (Int.)
 "The Dark Werewolf" makes an assault!
 Beware of the snappish werewolf! 
 Survive fierce attacks and defeat
@@ -12140,6 +12180,46 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 5
+Kidnap Gang Returns (Master +1)
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4
+Kidnap Gang Returns (Master)
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3
+Kidnap Gang Returns (EX)
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2
+Kidnap Gang Returns (Expert)
+The NPC gang in ALO - appears 
+from deep inside the dungeon
+Defeat those bad guys! 
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1
+Kidnap Gang Returns (Int.)
 "The Dark Werewolf" makes an assault!
 Beware of the snappish werewolf! 
 Survive fierce attacks and defeat

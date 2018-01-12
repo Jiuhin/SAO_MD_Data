@@ -1,60 +1,69 @@
-l}	
-t{	
-xz	
-$z	
-(y	
-,x	
-0w	
-4v	
-8u	
-<t	
-8p	
-Xo	
-8n	
-<l	
-Hk	
-Tj	
-pi	
-$i	
-Dg	
-Tf	
-P]	
-X[	
-HZ	
-pY	
-(Y	
-PX	
-pW	
-$W	
-TU	
-pT	
-$T	
-PS	
-PR	
+(}	
+0{	
+4z	
+8y	
+<x	
+hw	
+(w	
+hv	
+(v	
+hu	
+(u	
+Ht	
+ps	
+(s	
+Pr	
+xq	
+,q	
+<p	
+Ho	
+dn	
+4m	
+Dl	
+Dk	
+Xj	
+xi	
+0i	
+pf	
+ld	
+Pb	
+ha	
+8_	
+4[	
+LZ	
+dY	
+8X	
+xW	
+8W	
+xV	
+8V	
+hU	
+lT	
+<S	
+LR	
 PQ	
-hP	
-xO	
-,O	
-LN	
-PM	
-TL	
-pJ	
-(I	
-DH	
-lG	
-$G	
-LF	
-xC	
-4C	
-hB	
-x<	
-l9	
+TP	
+hO	
+xN	
+$N	
+<M	
+<K	
+dH	
+pD	
+XB	
+tA	
+T9	
 l8	
-40	
-4,	
-p&	
-$%	
-h 	
+D6	
+(4	
+H2	
+01	
+X/	
+4.	
+l+	
+d(	
+X%	
+L"	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -599,6 +608,12 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+9UI
+Priestess Hairpin R3
+Priestess Hairpin R2
+Lovely Priestess Costume R3
+9)H
+Lovely Priestess Costume R2
 Lv. 80 Decryption Key x1
 9aG
 Lv. 70 Decryption Key x1
@@ -5307,6 +5322,14 @@ Col x301
 100EP
 75EP
 50EP
+Priestess Hairpin R3
+Priestess Hairpin R2
+Lovely Priestess Costume R3
+Lovely Priestess Costume R2
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 Apotropaic Hairpin R3
 Apotropaic Hairpin R2
 Scarlet Party Dress R3
@@ -7535,6 +7558,8 @@ New Year's Cuisine: Fine x10
 New Year's Cuisine: Standard x30
 New Year's Cuisine: Standard x20
 New Year's Cuisine: Standard x15
+New Spring Upgrade Crystal  x2
+New Spring Upgrade Crystal  x1
 Holy New Spring Hacking Crystal x9
 Holy New Spring Hacking Crystal x8
 Holy New Spring Hacking Crystal x7

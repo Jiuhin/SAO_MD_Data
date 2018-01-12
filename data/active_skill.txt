@@ -440,6 +440,10 @@ Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike
 skill_icon_lance_3_{}
+A combination skill. Attack enemies with a spinning naginata. Increase all the party members' attack. 
+Naginata Spinning
+Naginata Spinning
+skill_icon_lance_3_{}
 Emit light over a wide range. Attack with some holy power. 
 Luminous Garden
 Luminous Garden
@@ -543,6 +547,10 @@ skill_icon_lance_1_{}
 Thrust to stop the enemy's movement and rush rapidly.
 Sonic Charge
 Sonic Charge
+skill_icon_rod_3_{}
+A combination skill. Summon a fox and mess with enemies. Increase all the party members' attack. 
+Kagura Fox Dance
+Kagura Fox Dance
 skill_icon_rod_3_{}
 A combination skill. Move instantly to the back of an enemy and attack with flying butterflies. Activate a damage canceling barrier which cancels incoming damage twice.
 Butterfly Blast
@@ -1807,6 +1815,10 @@ A sword skill. Slash the enemy in the back after a colorful combo attack. Restor
 Dreamy Lady
 Dreamy Lady
 skill_icon_finesword_3_{}
+A combination skill. Inari fox possesses and claws out an enemy's body. Increase all the party members' attack. 
+Eccentric Inari Rupture
+Eccentric Inari Rupture
+skill_icon_finesword_3_{}
 A combination skill. Activate a damage canceling barrier and make yourself invisible, then perform a combo from an enemy's back.
 Chrysanthemum Birth
 Chrysanthemum Birth
@@ -2365,6 +2377,10 @@ skill_icon_sword_3_{}
 A sword skill. Resores your HP. Clinking beer mugs causes a shockwave and attacks an enemy. 
 Raise Your Glass
 Raise Your Glass
+skill_icon_sword_3_{}
+A combination skill. Attack enemies with a huge kagura bell. Increase all the party members' attack.
+Divine Bell Dance
+Divine Bell Dance
 skill_icon_sword_3_{}
 A combination skill. Move to an enemy's back, performing a spin attack. Activate a damage canceling barrier which cancels incoming damage twice.
 Blooming Sword Dance

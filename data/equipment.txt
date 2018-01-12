@@ -1,3 +1,13 @@
+/mk
+TBD
+Priestess Hairpin R4
+accessory01_0060
+TBD
+Priestess Hairpin R3
+accessory01_0060
+TBD
+Priestess Hairpin R2
+accessory01_0060
 3mk
 TBD
 Lucky Headband R4
@@ -520,6 +530,15 @@ armor03_0107
 TBD
 Scarlet Party Dress R2
 armor03_0107
+TBD
+Lovely Priestess Costume R4
+armor03_0106
+TBD
+Lovely Priestess Costume R3
+armor03_0106
+TBD
+Lovely Priestess Costume R2
+armor03_0106
 TBD
 Heart Dress R4
 armor03_0068

@@ -1,8 +1,5 @@
-<r	
-<e	
-<X	
-lW	
-8Q	
+(X	
+X 	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -1525,7 +1522,6 @@ JzP
 JzP
 JzP
 JzP
-pA4
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -2451,9 +2447,7 @@ dead
 bullet_4001_windshear_arrow
 wait
 dead
-bullet_3053_wolf
-wait
-dead
+appear
 bullet_3053_wolf
 dead
 bullet_3049_raise_your_glass
@@ -2663,6 +2657,12 @@ dead
 bullet_3019_casting
 dead
 bullet_3019_casting
+dead
+bullet_3019_casting
+wait
+bullet_3018_aqua_wave
+wait
+bullet_3018_aqua_wave
 wait
 bullet_3018_aqua_wave
 wait
@@ -3524,6 +3524,8 @@ bullet_1107_shishimai
 wait
 ground
 bullet_1106_darkness_smoke
+bullet_1105_the_end
+bullet_1105_the_end
 dead
 bullet_1104_xmas_gift_1
 dead

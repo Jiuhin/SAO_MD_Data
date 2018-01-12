@@ -210,6 +210,10 @@ images/event/9002/9002_top_2017.png
 images/event/9002/9002_banner_2017.png
 images/event/9002/9002_banner_2017.png
 Asuna's Birthday Quest 2017
+images/event/8035/8035_top.png
+images/event/8035/8035_banner.png
+images/event/8035/8035_banner.png
+Kidnap Gang Returns
 images/event/8034/8034_top.png
 images/event/8034/8034_banner.png
 images/event/8034/8034_banner.png

@@ -92,6 +92,7 @@ QCG
 L>d3
 >d3
 L>e3
+L>e3
 >e3
 >e3
 djF
@@ -182,6 +183,8 @@ L>e3
 >e3
 <e3
 L>f3
+L>f3
+L>f3
 djF
 L>f3
 djF
@@ -268,6 +271,7 @@ Ga>
 L>f3
 Ga>f3
 Ga>
+L>f3
 L>f3
 QCG
 >f3
@@ -686,8 +690,6 @@ L>e3
 L>e3
 L>e3
 >e3
->e3
->e3
 L>e3
 L>e3
 Ga>e3
@@ -949,7 +951,7 @@ L?d3
 >d3
 >d3
 >d3
-L>d3
+>d3
 >d3
 L>d3
 L>d3
@@ -1101,6 +1103,7 @@ L>d3
 >d3
 >d3
 >f3
+>d3
 >d3
 L>d3
 L>d3
@@ -1362,6 +1365,7 @@ L>f3
 7uP
 6uP
 5uP
+>d3
 sRP
 L>d3
 rRP
