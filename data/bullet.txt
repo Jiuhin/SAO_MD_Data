@@ -1,5 +1,4 @@
-(X	
-X 	
+,0	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -2030,6 +2029,8 @@ bullet_4026_ground_wind
 dead
 bullet_4026_ground_wind
 dead
+bullet_4026_ground_wind
+dead
 bullet_4026_24
 bullet_4026_ground_wind
 dead
@@ -2445,6 +2446,10 @@ wait
 ground
 dead
 bullet_4001_windshear_arrow
+wait
+dead
+appear
+bullet_3053_wolf
 wait
 dead
 appear
@@ -4550,6 +4555,8 @@ bullet_1006_smoke_grenade
 ground
 bullet_1006_smoke_grenade
 wait
+ground
+dead
 appear
 bullet_1005_grenade_bomb
 wait

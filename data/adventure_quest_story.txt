@@ -71,6 +71,42 @@ Event Story
 The Pristine Floating Castle
 Floor :100
 Event Story
+Inherited Tradition - A priests will
+A Priest's Will
+Event Story
+Inherited Tradition - A priests will
+Lesson
+Event Story
+Inherited Tradition - A priests will
+A Stray Dog's Past
+Event Story
+Inherited Tradition - A priests will
+Favor
+Event Story
+Inherited Tradition - A priests will
+Accidental Coincidence
+Event Story
+Inherited Tradition - A priests will
+Mysterious Logo
+Event Story
+Inherited Tradition - A priests will
+First Priestess Experience
+Event Story
+Inherited Tradition - A priests will
+I'm not mad
+Event Story
+Inherited Tradition - A priests will
+Secret
+Event Story
+Inherited Tradition - A priests will
+Unexpected Guest
+Event Story
+Inherited Tradition - A priests will
+Part-Time Job
+Event Story
+Inherited Tradition - A priests will
+Priestess Experience Event
+Event Story
 Mochi Mochi Panic! Mochi Pounding Party
 Never Ending Battle
 Event Story
@@ -328,45 +364,45 @@ Event Story
 Dungeon Assault Battle & Poker
 The Huge Maze
 1K?
-イベントストーリー
-荒野に咲く花々
-戦う理由
-イベントストーリー
-荒野に咲く花々
-強さの訳
+Event Story
+Flowers in the Wilderness
+Reasons to fight
+Event Story
+Flowers in the Wilderness
+Secret of Strength
 iJ?
-イベントストーリー
-荒野に咲く花々
-最深部で手に入れたもの
-イベントストーリー
-荒野に咲く花々
-GGOをプレイする理由
-イベントストーリー
-荒野に咲く花々
-狙う先
-イベントストーリー
-荒野に咲く花々
-契約と遊び
-イベントストーリー
-荒野に咲く花々
+Event Story
+Flowers in the Wilderness
+In the deepest part
+Event Story
+Flowers in the Wilderness
+Reasons to play GGO
+Event Story
+Flowers in the Wilderness
+Target
+Event Story
+Flowers in the Wilderness
+Contract and Play
+Event Story
+Flowers in the Wilderness
 RMT
 uH?
-イベントストーリー
-荒野に咲く花々
-プレイヤーを助けるかわりに…
-イベントストーリー
-荒野に咲く花々
-嵐の前の静けさ
-イベントストーリー
-荒野に咲く花々
-機関銃の使い手は?
+Event Story
+Flowers in the Wilderness
+Instead of saving players...
+Event Story
+Flowers in the Wilderness
+The Calm Before the Storm
+Event Story
+Flowers in the Wilderness
+Who's the shooter?
 IG?
-イベントストーリー
-荒野に咲く花々
-レア発掘品を求めて
-イベントストーリー
-荒野に咲く花々
-再びGGOへ
+Event Story
+Flowers in the Wilderness
+In Search of Rare Find
+Event Story
+Flowers in the Wilderness
+GGO again
 Event Story
 The Mother-Daughter Bond
 The Mother Daughter Bond

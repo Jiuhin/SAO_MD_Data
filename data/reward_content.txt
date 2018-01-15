@@ -1,69 +1,33 @@
-(}	
-0{	
-4z	
-8y	
+l}	
+8{	
 <x	
-hw	
-(w	
-hv	
-(v	
-hu	
-(u	
-Ht	
-ps	
-(s	
-Pr	
-xq	
-,q	
-<p	
-Ho	
-dn	
-4m	
-Dl	
-Dk	
-Xj	
-xi	
-0i	
-pf	
-ld	
-Pb	
-ha	
-8_	
-4[	
-LZ	
-dY	
-8X	
-xW	
-8W	
-xV	
-8V	
-hU	
-lT	
-<S	
-LR	
-PQ	
-TP	
-hO	
-xN	
-$N	
-<M	
-<K	
+dw	
+Lt	
+$r	
+dq	
+(p	
+xo	
+,l	
+tk	
+La	
+x_	
+L]	
+<V	
+tS	
+TM	
 dH	
-pD	
-XB	
-tA	
-T9	
-l8	
-D6	
-(4	
-H2	
-01	
-X/	
-4.	
-l+	
-d(	
-X%	
-L"	
+L>	
+P9	
+T.	
+P)	
+l'	
+D&	
+4%	
+L$	
+H"	
+8!	
+d 	
+$ 	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -115,6 +79,29 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+m:<
+A Priest's Will
+Lesson
+m::
+A Stray Dog's Past
+m:9
+Favor
+m:8
+Accidental Coincidence
+m:7
+Mysterious Logo
+m:6
+First Priestess Experience
+m:5
+I'm not mad
+m:4
+Secret
+m:3
+Unexpected Guest
+m:2
+Part-Time Job
+m:1
+Priestess Experience Event
 Never Ending Battle
 Chase the Oni Away
 Mochi is attacking us now!
@@ -608,6 +595,7 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+パフスリーブ・オブ・マスタースミスR4
 9UI
 Priestess Hairpin R3
 Priestess Hairpin R2
@@ -1024,6 +1012,10 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+eP	8
+Tradition Keeper
+P	8
+Inherited Tradition - A Priest's Will
 QK	8
 500EP
 J	8
@@ -2519,6 +2511,94 @@ MP Shard x20
 HP Shard x20
 2ee
 Stardust (Medium) x100
+EXP Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+EXP Hi-Potion x5
+Assault Team: The Shrine (Top 100)
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Memory Diamond x5
+Global Upgrade Crystal  x1
+Global Ticket x10
+Global Ticket Plus x5
+Assault Team: The Shrine (Top 50)
+EXP Hi-Potion x5
+Col x30000
+Memory Diamond x5
+Global Upgrade Crystal  x1
+Global Ticket x50
+Global Ticket Plus x5
+Global Ticket VIP x1
+Assault Team: The Shrine (Top 20)
+EXP X-Potion x5
+Col x50000
+Memory Diamond x5
+Global Upgrade Crystal  x2
+Global Ticket x50
+Global Ticket Plus x10
+Global Ticket VIP x3
+Assault Team: The Shrine (Top 10)
+EXP X-Potion x5
+Col x100000
+Memory Diamond x5
+Global Upgrade Crystal  x3
+Global Ticket x50
+Global Ticket Plus x15
+Global Ticket VIP x7
+Assault Team: The Shrine (5th)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Global Upgrade Crystal  x4
+Global Ticket x60
+Global Ticket Plus x20
+Global Ticket VIP x11
+Assault Team: The Shrine (4th)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Global Upgrade Crystal  x4
+Global Ticket x70
+Global Ticket Plus x25
+Global Ticket VIP x17
+Assault Team: The Shrine (3rd)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Global Upgrade Crystal  x5
+Global Ticket x80
+Global Ticket Plus x30
+Global Ticket VIP x21
+Assault Team: The Shrine (2nd)
+Rainbow Essence x1
+EXP X-Potion x5
+Col x300000
+Memory Diamond x5
+Global Upgrade Crystal  x5
+Global Ticket x90
+Global Ticket Plus x40
+Global Ticket VIP x23
+Assault Team: The Shrine (1st)
+Rainbow Essence x2
+EXP X-Potion x5
+Col x500000
+Memory Diamond x5
+Global Upgrade Crystal  x6
+Global Ticket x100
+Global Ticket Plus x50
+Global Ticket VIP x25
 2rI
 EXP Potion x5
 2rI
@@ -9517,6 +9597,56 @@ Col x4000
 Col x3000
 Col x2000
 Col x1000
+Col x10000
+Col x24000
+EXP X-Potion x4
+EXP Hi-Potion x2
+EXP Potion x2
+Lv. 80 Decryption Key x2
+Lv. 70 Decryption Key x2
+Holy Skill Crystal x14
+Holy Critical Crystal x14
+Holy Defense Crystal x14
+Holy Attack Crystal x14
+Holy MP Crystal x14
+Holy HP Crystal x14
+Skill Crystal x40
+Critical Crystal x40
+Defense Crystal x40
+Attack Crystal x40
+MP Crystal x40
+HP Crystal x40
+Skill Shard x56
+Critical Shard x56
+Defense Shard x56
+Attack Shard x56
+MP Shard x56
+HP Shard x56
+Col x10000
+Col x20000
+EXP X-Potion x3
+EXP Hi-Potion x2
+EXP Potion x2
+Lv. 80 Decryption Key x1
+Lv. 70 Decryption Key x1
+Holy Skill Crystal x10
+Holy Critical Crystal x10
+Holy Defense Crystal x10
+Holy Attack Crystal x10
+Holy MP Crystal x10
+Holy HP Crystal x10
+Skill Crystal x30
+Critical Crystal x30
+Defense Crystal x30
+Attack Crystal x30
+MP Crystal x30
+HP Crystal x30
+Skill Shard x40
+Critical Shard x40
+Defense Shard x40
+Attack Shard x40
+MP Shard x40
+HP Shard x40
 Col x2500
 Col x12000
 9r 
@@ -10678,6 +10808,24 @@ MP Shard x12
 MP Shard x4
 HP Shard x12
 HP Shard x4
+Attack Crystal x51
+Skill Shard x34
+Defense Shard x34
+MP Shard x34
+HP Shard x34
+Critical Shard x34
+Attack Shard x34
+HP Crystal x51
+Holy Skill Crystal x8
+Skill Crystal x28
+Skill Shard x36
+Critical Crystal x51
+Defense Crystal x51
+Skill Crystal x51
+MP Crystal x51
+Holy Critical Crystal x8
+Critical Crystal x28
+Critical Shard x36
 HP Shard x10
 MP Shard x10
 eqU

@@ -527,6 +527,11 @@ images/event/4701/4701_banner.png
 images/event/4701/4701_banner.png
 Breakthrough in Sand
 Global Scout
+images/event/4077/4077_top.png
+images/event/4077/4077_banner.png
+images/event/4077/4077_banner.png
+Inherited Tradition - A priests will
+Global Scout
 images/event/4075/event_item_4075.png
 images/event/4075/4075_top.png
 images/event/4075/4075_banner.png

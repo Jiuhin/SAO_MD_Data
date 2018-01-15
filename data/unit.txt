@@ -245,6 +245,13 @@ enemy_144_slime
 enemy_144_slime
 weapon_effect_gun
 weapon_gun
+enemy_138_behemoth
+head
+weapon_gun
+enemy_138_behemoth
+enemy_138_behemoth
+weapon_effect_gun
+weapon_gun
 enemy_136_automatic_gun_m
 head
 weapon_gun

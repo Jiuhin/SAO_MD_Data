@@ -1050,6 +1050,34 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4077026,1,100
+Complete "Inherited Tradition - A Priest's Will (Master+2)" with a 100-hit combo or more.
+4077026,1
+Complete "Inherited Tradition - A Priest's Will (Master +2)" without down.
+407701,200000
+Earn a score of 200,000 in Inherited Tradition - A Priest's Will
+407701,500000
+Earn a score of 500,000 in Inherited Tradition - A Priest's Will
+407701,1500000
+Earn a score of 1,500,000 in Inherited Tradition - A Priest's Will
+407701,2000000
+Earn a score of 2,000,000 in Inherited Tradition - A Priest's Will
+407701,2800000
+Earn a score of 2,800,000 in Inherited Tradition - A Priest's Will
+407701,3500000
+Earn a score of 3,500,000 in Inherited Tradition - A Priest's Will
+407701,4000000
+Earn a score of 4,000,000 in Inherited Tradition - A Priest's Will
+407701,4500000
+Earn a score of 4,500,000 in Inherited Tradition - A Priest's Will
+407701,4900000
+Earn a score of 4,900,000 in Inherited Tradition - A Priest's Will
+4077026,1,60
+Complete " Inherited Tradition - A Priest's Will (Master +2)" in under 1min.
+4077025
+Complete " Inherited Tradition - A Priest's Will (Master +1)".
+4077021
+Complete " Inherited Tradition - A Priest's Will (Int.)".
 4075024,2,1,1
 Complete "Mochi Mochi Panic! (Master)" with a sword character.
 4075025,2
@@ -1194,13 +1222,13 @@ Complete "Flowers in the Wilderness (Master +1)" without down.
 4068024,2
 Complete "Flowers in the Wilderness (Master)" without down.
 4068025,2,45
-Complete "Flowers in the Wilderness (Master +1)" under 45 Sec.
+Complete "Flowers in the Wilderness (Master +1)" in under 45 Sec.
 4068025,2,60
 Complete "Flowers in the Wilderness (Master +1)" in under 1min.
 4068025
 Complete "Flowers in the Wilderness (Master +1)".
 4068024,2,45
-Complete "Flowers in the Wilderness (Master)" under 45 Sec.
+Complete "Flowers in the Wilderness (Master)" in under 45 Sec.
 4068024,2,60
 Complete "Flowers in the Wilderness (Master)" in under 1min.
 4068024

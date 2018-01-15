@@ -4637,6 +4637,114 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 6
+Inherited Tradition - A Priest's Will (Master +2)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5
+Inherited Tradition - A Priest's Will (Master +1)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4
+Inherited Tradition - A Priest's Will (Master)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3
+Inherited Tradition - A Priest's Will (EX)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2
+Inherited Tradition - A Priest's Will (Expert)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1
+Inherited Tradition - A Priest's Will (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+A Priest's Will
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Lesson
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+A Stray Dog's Past
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Favor
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Accidental Coincidence
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Mysterious Logo
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+First Priestess Experience
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+I'm not mad
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Secret
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Unexpected Guest
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Part-Time Job
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Priestess Experience Event
 "Rumble Gigas" appears in Asuka Empire. 
 Figure out their attack pattern and parry them!
 Defeat All Enemies
@@ -15849,6 +15957,114 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 6
+Inherited Tradition - A Priest's Will (Master +2)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5
+Inherited Tradition - A Priest's Will (Master +1)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4
+Inherited Tradition - A Priest's Will (Master)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3
+Inherited Tradition - A Priest's Will (EX)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2
+Inherited Tradition - A Priest's Will (Expert)
+Dark Blue Fighting Dog appears! 
+Survive attacks from those stray dogs
+and parry the combo attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1
+Inherited Tradition - A Priest's Will (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+A Priest's Will
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Lesson
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+A Stray Dog's Past
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Favor
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Accidental Coincidence
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Mysterious Logo
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+First Priestess Experience
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+I'm not mad
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Secret
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Unexpected Guest
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Part-Time Job
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Priestess Experience Event
 "Rumble Gigas" appears in Asuka Empire. 
 Figure out their attack pattern and parry them!
 Defeat All Enemies

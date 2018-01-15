@@ -30,6 +30,8 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+逆襲のお祭りコボルトロード
+Equip Event
 Priestess Equipment Creation
 Equip Event
 New Year Fore-end Equipment Creation
@@ -183,7 +185,7 @@ Fierce Fight in Sand
 Event
 Inherited Tradition - A priests will
 Event
-2018年2月月初バレンタイン
+燃える純真!! バレンタイン・ウォーズ
 Event
 Mochi Mochi Panic! Mochi Pounding Party
 Event

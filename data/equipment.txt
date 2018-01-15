@@ -1195,6 +1195,12 @@ TBD
 Steel Chest Plate R1
 armor01_0001
 TBD
+Amulet R5
+weapon09_0018
+TBD
+Amulet R4
+weapon09_0018
+TBD
 Polaris Spear R4
 weapon09_0017
 TBD
@@ -1296,6 +1302,12 @@ weapon09_0001
 TBD
 Libra Hastam R4
 weapon09_0001
+TBD
+Purification R5
+weapon08_0038
+TBD
+Purification R4
+weapon08_0038
 TBD
 Flying Butterfly R5
 weapon08_0037
@@ -2415,6 +2427,12 @@ TBD
 Light Dagger R1
 weapon04_0001
 TBD
+Little Fox R5
+weapon03_0058
+TBD
+Little Fox R4
+weapon03_0058
+TBD
 Fluttery Chrysanthemum R5
 weapon03_0057
 TBD
@@ -2920,6 +2938,12 @@ weapon01_0110
 TBD
 Elucidator Rouge R4
 weapon01_0110
+TBD
+Kagura R5
+weapon01_0107
+TBD
+Kagura R4
+weapon01_0107
 TBD
 June Blade+1 R5
 weapon01_0106

@@ -163,6 +163,8 @@ Increases attack by 10% when equipped by Rain.
 Atk +10% (Rain)
 Increases attack by 10% when equipped by Strea.
 Atk +10% (Strea)
+リズベットが装備すると攻撃力が3%増加する
+リズベットの攻撃+3%
 Increases attack by 3% when equipped by Silica.
 Attack +3% (Silica)
 Increases attack by 10% when equipped by Sachi.
