@@ -44,12 +44,16 @@ Complete "Starburst Stream (EX)"
 Starburst Stream
 Participate in "The Order of the Immortal"
 The Order of the Immortal Participated Guild
+'Am
 Rank High on "The Order of the Immortal"
 The Order of the Immortal Assault Team
+'Am
 Rank 3rd on "The Order of the Immortal"
 The Order of the Immortal No.3 Guild
+'Am
 Rank 2nd on "The Order of the Immortal"
 The Order of the Immortal No.2 Guild
+'Am
 Rank 1st on "The Order of the Immortal"
 The Order of the Immortal No.1 Guild
 &Am
@@ -87,23 +91,23 @@ Complete  "60th floor the Shadowy Castle"
 Challenger of the Shadowy Castle
 Complete  "100th floor of the Shadowy Castle"
 Supreme ruler of the Shadowy Castle
-Rank Top 100 on "Inherited Tradition - A priests will"
+Rank Top 100 on "Inherited Tradition - A Priest's Will"
 Assault Team: The Shrine (Top 100)
-Rank Top 50 on "Inherited Tradition - A priests will"
+Rank Top 50 on "Inherited Tradition - A Priest's Will"
 Assault Team: The Shrine (Top 50)
-Rank Top 20 on "Inherited Tradition - A priests will"
+Rank Top 20 on "Inherited Tradition - A Priest's Will"
 Assault Team: The Shrine (Top 20)
-Rank Top 10 on "Inherited Tradition - A priests will"
+Rank Top 10 on "Inherited Tradition - A Priest's Will"
 Assault Team: The Shrine (Top 10)
-Rank 5th on "Inherited Tradition - A priests will"
+Rank 5th on "Inherited Tradition - A Priest's Will"
 Assault Team: The Shrine (5th)
-Rank 4th on "Inherited Tradition - A priests will"
+Rank 4th on "Inherited Tradition - A Priest's Will"
 Assault Team: The Shrine (4th)
-Rank 3rd on "Inherited Tradition - A priests will"
+Rank 3rd on "Inherited Tradition - A Priest's Will"
 Assault Team: The Shrine (3rd)
-Rank 2nd on "Inherited Tradition - A priests will"
+Rank 2nd on "Inherited Tradition - A Priest's Will"
 Assault Team: The Shrine (2nd)
-Rank 1st on "Inherited Tradition - A priests will"
+Rank 1st on "Inherited Tradition - A Priest's Will"
 Assault Team: The Shrine (1st)
 Complete "Inherited Tradition - A Priest's Will (Master+1)"
 Tradition Keeper

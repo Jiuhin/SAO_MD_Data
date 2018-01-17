@@ -1,4 +1,4 @@
-,0	
+44	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -1535,6 +1535,7 @@ JzP
 JzP
 JzP
 JzP
+A<l
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -3430,6 +3431,12 @@ dead
 bullet_1999_damage
 dead
 bullet_1999_damage
+wait
+bullet_1125_celestialon_energy
+wait
+bullet_1125_celestialon_energy
+wait
+bullet_1125_celestialon_energy
 dead
 bullet_1115_sickle
 dead
@@ -3604,6 +3611,10 @@ bullet_1085_object_eraser
 wait
 bullet_1084_excalibur_attack
 bullet_1083_watermelon_appear
+wait
+bullet_1082_shock_wave
+wait
+bullet_1082_shock_wave
 wait
 bullet_1082_shock_wave
 wait

@@ -526,6 +526,10 @@ images/event/4701/4701_top.png
 images/event/4701/4701_banner.png
 images/event/4701/4701_banner.png
 Breakthrough in Sand
+images/event/4079/4079_top.png
+images/event/4079/4079_banner.png
+images/event/4079/4079_banner.png
+Fierce Fight in Sand Again
 Global Scout
 images/event/4077/4077_top.png
 images/event/4077/4077_banner.png

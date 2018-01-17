@@ -163,8 +163,8 @@ Increases attack by 10% when equipped by Rain.
 Atk +10% (Rain)
 Increases attack by 10% when equipped by Strea.
 Atk +10% (Strea)
-リズベットが装備すると攻撃力が3%増加する
-リズベットの攻撃+3%
+Increases attack by 3% when equipped by Lisbeth.
+Attack +3% (Lisbeth)
 Increases attack by 3% when equipped by Silica.
 Attack +3% (Silica)
 Increases attack by 10% when equipped by Sachi.
@@ -254,11 +254,22 @@ Critical (with Skills)
 5hm
 Increases critical damage vs Non-elem. enemies by 5%
 Crit. Damage + 5% (vs. Non-elem.)
+Decreases Required MP of the party by 5% in the next Guild Event.
+Required MP DOWN in Next Guild Event
+)Am
+Decreases Required MP of the party by 10% in the next Guild Event.
+Required MP DOWN in Next Guild Event
+(Am
+Increases MP Recovery of the party by 50 in the next Guild Event.
+MP Recovery UP in Next Guild Event
+'Am
+Increases MP Recovery of the party by 100 in the next Guild Event.
+MP Recovery UP in Next Guild Event
 &Am
-Increases Atk. of the party by 5% at the next Guild Event.
+Increases Atk. of the party by 5% in the next Guild Event.
 Attack UP in Next Guild Event
 %Am
-Increases Atk. of the party by 10% at the next Guild Event.
+Increases Atk. of the party by 10% in the next Guild Event.
 Attack UP in Next Guild Event
 Increases skill dmg. 10%. of Dark-elem.
 Skill Damage +10% (Dark)

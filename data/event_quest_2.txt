@@ -163,6 +163,21 @@ Let's switch to a new party!
 images/battle/cutin/battle_cutin_65007.png
 Your current team is exhausted!
 Let's switch to a new party!
+images/battle/cutin/battle_cutin_65007.png
+Your current team is exhausted!
+Let's switch to a new party!
+images/battle/cutin/battle_cutin_65007.png
+Your current team is exhausted!
+Let's switch to a new party!
+images/battle/cutin/battle_cutin_65007.png
+Your current team is exhausted!
+Let's switch to a new party!
+images/battle/cutin/battle_cutin_65007.png
+Your current team is exhausted!
+Let's switch to a new party!
+images/battle/cutin/battle_cutin_65007.png
+Your current team is exhausted!
+Let's switch to a new party!
 -&>
 ,&>
 +&>

@@ -1,3 +1,5 @@
+se_scenario_photon_swords
+se_scenario_photon_sword_hit
 se_scenario_bullet_circle
 se_scenario_fanfare_ggo
 se_scenario_count_down_ggo
@@ -28,6 +30,13 @@ se_scenario_w_one_indoor_out
 se_scenario_w_one_indoor_in
 se_scenario_w_one_grass_out
 se_scenario_w_one_grass_in
+se_system_pvp_rankdown
+se_system_pvp_rankup
+se_system_pvp_losestar
+se_system_pvp_getstar
+se_system_pvp_noise
+se_system_pvp_countdown
+se_system_pvp_win
 se_system_ch_gacha_r5
 se_system_ch_gacha_6
 se_system_guild_level_up
@@ -41,6 +50,8 @@ se_system_ch_gacha_idol
 se_system_ch_sign_idol
 se_system_ch_gacha_idol_pre
 se_system_os_appear
+se_enemy_destroyer_charge
+se_enemy_berserker_dash
 se_enemy_karakuri_attack
 se_enemy_demon_dead
 se_enemy_demon_damage
@@ -68,6 +79,10 @@ se_enemy_griffin_appear
 se_enemy_kagachi_dead
 se_enemy_kagachi_damage
 se_enemy_kagachi_appear
+se_action_nitro_of_sadness
+se_action_comical_unicycle
+se_action_candy_love_shower
+se_action_crescendo_resonant
 se_action_raise_your_glass
 se_action_shuntou
 se_action_peony

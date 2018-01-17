@@ -1,33 +1,44 @@
-l}	
-8{	
-<x	
-dw	
-Lt	
-$r	
-dq	
-(p	
-xo	
-,l	
-tk	
-La	
-x_	
-L]	
-<V	
-tS	
-TM	
-dH	
-L>	
-P9	
-T.	
-P)	
-l'	
-D&	
-4%	
-L$	
-H"	
-8!	
-d 	
-$ 	
+L}	
+p{	
+4z	
+Ty	
+4x	
+Tt	
+hq	
+Po	
+ln	
+hm	
+Xi	
+Lf	
+de	
+td	
+<c	
+,[	
+dX	
+PR	
+DO	
+dL	
+4K	
+xG	
+TF	
+tD	
+,D	
+D>	
+X8	
+h7	
+X3	
+41	
+$-	
+(,	
+<)	
+p%	
+$%	
+P"	
+x!	
+4!	
+l 	
+( 	
+4		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -595,7 +606,7 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
-パフスリーブ・オブ・マスタースミスR4
+Master Smith's Puff Sleeves R4
 9UI
 Priestess Hairpin R3
 Priestess Hairpin R2
@@ -1016,6 +1027,10 @@ eP	8
 Tradition Keeper
 P	8
 Inherited Tradition - A Priest's Will
+O	8
+Battle Fur Coat R3
+9O	8
+Battle Fur Coat R2
 QK	8
 500EP
 J	8

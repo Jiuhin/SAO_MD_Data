@@ -218,6 +218,11 @@ mouth
 weapon
 enemy_148_little_nepenthes
 enemy_148_little_nepenthes
+enemy_148_little_nepenthes
+mouth
+weapon
+enemy_148_little_nepenthes
+enemy_148_little_nepenthes
 enemy_147_goblin
 head
 weapon

@@ -674,6 +674,8 @@ ss/unit/chara_2_sword_w/skill_effect_sword_0.png
 ss/unit/chara_2_sword_w/skill_effect_24126.png
 e26facff1c4e4fd7a86a9644dcb2bb7a
 ss/unit/chara_2_sword_w/skill_effect_24124.png
+d32092a9716bb1cb705bf4513e963a5c
+ss/unit/chara_2_sword_w/skill_effect_24122.png
 943428bf1eb5d9b6b38a1c81b457ae08
 ss/unit/chara_2_sword_w/skill_effect_24121.png
 fc6469f70da324f8f64222f9b5f7ada3
@@ -3388,6 +3390,10 @@ images/event/4702/4702_banner.png
 images/event/4701/4701_top.png
 83caecf96ce7930a1d2d0744cda34912
 images/event/4701/4701_banner.png
+793d07ffbd73ed40c57a15589263dd99
+images/event/4079/4079_top.png
+b6b23f4afc33d17421f914192be6e768
+images/event/4079/4079_banner.png
 d345d065ad3e8545d5d232ad5dd063af
 images/event/4077/4077_top.png
 ed175b29689b3d64ca5e825c4765d5ef

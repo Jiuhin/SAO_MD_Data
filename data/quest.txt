@@ -4637,6 +4637,50 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Beat up Silica and Pina with your friends and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 5
+Fierce Fight in Sand (Master +1)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Parry her attacks sucessfully
+and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 4
+Fierce Fight in Sand (Master)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Parry her attacks sucessfully
+and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 3
+Fierce Fight in Sand (EX)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Parry her attacks sucessfully
+and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 2
+Fierce Fight in Sand (Expert)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Parry her attacks sucessfully
+and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 1
+Fierce Fight in Sand (Int.)
 Dark Blue Fighting Dog appears! 
 Survive attacks from those stray dogs
 and parry the combo attack!
@@ -15957,6 +16001,50 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Beat up Silica and Pina with your friends and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 5
+Fierce Fight in Sand (Master +1)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Parry her attacks sucessfully
+and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 4
+Fierce Fight in Sand (Master)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Parry her attacks sucessfully
+and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 3
+Fierce Fight in Sand (EX)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Parry her attacks sucessfully
+and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 2
+Fierce Fight in Sand (Expert)
+Fight a battle again with Foxy Silica 
+in a priestess costume!
+Parry her attacks sucessfully
+and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Quest 1
+Fierce Fight in Sand (Int.)
 Dark Blue Fighting Dog appears! 
 Survive attacks from those stray dogs
 and parry the combo attack!

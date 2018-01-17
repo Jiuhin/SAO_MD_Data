@@ -145,6 +145,7 @@ images/event/4801/4801_banner.png
 images/event/4703/4703_banner.png
 images/event/4702/4702_banner.png
 images/event/4701/4701_banner.png
+images/event/4079/4079_banner.png
 images/event/4077/4077_banner.png
 images/event/4075/4075_banner.png
 images/event/4074/4074_banner.png

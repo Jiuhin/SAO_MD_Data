@@ -1,7 +1,10 @@
-HF}
-,u{
-8Py
-P-y
+XS}
+PJ{
+Xxz
+TDz
+p+z
+4Dy
+D+y
 HZx
 x%x
 lzw
@@ -218,20 +221,20 @@ Kazuto
 You would...
 Kazuto
 799999999_36_a
+0	z
 I don't want to be a pop star so
 much as I think it'd be cool to
 sing in front of an audience.
 Agil
 799999999_35_a
-8	z
 YOU want to be a pop star?
 Kazuto
 799999999_34_a
-hIz
 For the millionth time, I...
 Wait, what?
 Kazuto
 799999999_33_a
+Dcz
 Well then, how about I join up
 with your group when the real deal
 gets released?
@@ -241,7 +244,6 @@ D-Dude, how many times do I have
 to tell you? No way!
 Kazuto
 799999999_31_a
-8	z
 You totally wanted to be a pop
 star, didn't you?
 Agil
@@ -269,12 +271,13 @@ Okay, okay, if you say so.
 Alright, I should get going.
 Asuna
 799999999_24_a
-8Oz
+pRz
 I told you before, I just like
 experiencing everything a game
 has to offer!
 Kazuto
 799999999_23_a
+$Sz
 Th-That's not what I meant...!
 Kazuto
 799999999_22_a
@@ -283,6 +286,7 @@ wanted to get on stage and sing
 this whole time!
 Asuna
 799999999_21_a
+(Uz
 Yeah, and then maybe they'll let
 the guys be pop stars, too!
 Kazuto
@@ -378,37 +382,41 @@ bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100401_1_a
+T!z
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100301_1_a
+p!z
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100201_1_a
+$"z
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100101_1_a
-8 z
-$!z
 ...will give you a chance. 
 A chance to have a one-on-one
 battle with me.
 ???
 480404801_5_a
+H$z
 You are here finally. 
 You deserve some reward.
 ???
 480404801_4_a
 ???
 480404801_3_a
+H%z
 ???
 480404801_2_a
-x"z
 bg_black
 ???
 480404801_1_a
+0&z
+,(z
 Oh, you flatter me!
 Do take care now.
 Head Priest
@@ -418,23 +426,20 @@ It was an honor meeting one
 of our gaming forefathers.
 Asuna
 407701201_21_a
-D&z
 Well, as the designer, let me just
 say that I'm thrilled you got to
 play in the world I constructed.
 Head Priest
 407701201_20_a
-t%z
 Oh, wonderful!
 Head Priest
 407701201_19_a
-h(z
+()z
 No, not really. It's a story
 befitting of a head priest.
 I liked it.
 Asuna
 407701201_18_a
-D(z
 You didn't think the message was
 too overbearing?
 Head Priest
@@ -453,7 +458,7 @@ But I know I can be a preachy old
 trickster too. Forgive me!
 Head Priest
 407701201_13_a
-l)z
+H.z
 I thought it would be best if you
 went in knowing as little as
 possible.
@@ -467,26 +472,25 @@ Ahh, no wonder it felt like a
 parable.
 Sinon
 407701201_9_a
-D+z
 Silica
 407701201_10_a
-T-z
 And I figured if I were to make my
 own, it'd have to be a story
 befitting of my priesthood.
 Head Priest
 407701201_8_a
-x,z
+T1z
 The story of the old man and his
 grandson involved a player-made
 quest, which got me interested.
 Head Priest
 407701201_7_a
-H-z
+$2z
 Indeed! I taught myself by
 studying other players' quests.
 Head Priest
 407701201_6_a
+(1z
 Wait, are you saying a player
 designed that quest?!
 Leafa
@@ -494,6 +498,8 @@ Leafa
 So you did create it!
 Asuna
 407701201_4_a
+H2z
+D2z
 Leafa
 407701201_3_a
 Asuna
@@ -503,15 +509,16 @@ Brilliant! You managed to complete
 my quest.
 Head Priest
 407701201_1_a
-t0z
 Silica
 407701101_23_a
+0wz
 You'll see. Let's head back to the
 shrine in Kiyomihara.
 Asuna
 407701101_22_a
 Sinon
 407701101_21_a
+(xz
 Who did?
 Leafa
 407701101_20_a
@@ -521,18 +528,20 @@ Hehe, he had us right where he
 wanted us this whole time.
 Asuna
 407701101_18_a
+,9z
 See? I knew there was more to
 this quest!
 Leafa
 407701101_17_a
+H7z
 Leafa
 407701101_16_a
-(5z
 You're right. A lot of fables and
 folktales are meant to teach
 lessons like that.
 Sinon
 407701101_15_a
+X8z
 I feel the same way. This felt
 more like an old folk tale.
 Silica
@@ -554,7 +563,6 @@ Leafa
 407701101_9_a
 Sinon
 407701101_10_a
-X8z
 That's a fine idea.
 Asuna
 407701101_8_a
@@ -568,22 +576,23 @@ to ensure this never happens
 again.
 Townsperson
 407701101_6_a
-P:z
+,?z
 I don't think they'll bother you
 or your people anymore.
 Asuna
 407701101_5_a
+,>z
 But in the end, I think we got
 through to them.
 Asuna
 407701101_4_a
-<kz
+tnz
 Yes. I'm afraid that which is
 scorned does not return so easily.
 Asuna
 407701101_3_a
-<<z
-4<z
+t?z
+l?z
 Asuna
 407701101_2_a
 bg_event_riverside
@@ -591,11 +600,9 @@ So they disappeared into the
 mountains, did they?
 Townsperson
 407701101_1_a
-t?z
 I think they're remembering...
 Sinon
 407701001_47_a
-X>z
 Leafa
 407701001_46_a
 Sinon
@@ -603,17 +610,17 @@ Sinon
 They've gone quiet!
 Silica
 407701001_44_a
-x?z
 Grrr... Gr...
 Wild Dogs
 407701001_43_a
-PHz
+4Cz
 ...Ruff!
 Wild Dogs
 407701001_42_a
 Do you remember now?
 Asuna
 407701001_41_a
+8Dz
 They've reflected on their
 actions. They want you to
 come back. To come home.
@@ -624,7 +631,7 @@ It's a symbol of the connection
 you shared with the villagers!
 Asuna
 407701001_39_a
-8Lz
+pOz
 Silica
 407701001_38_a
 Sinon
@@ -632,10 +639,11 @@ Sinon
 Now's the time, Asuna!
 Leafa
 407701001_36_a
-lDz
 There they are!
 Sinon
 407701001_35_a
+XGz
+XGz
 Silica
 407701001_34_a
 Leafa
@@ -648,17 +656,18 @@ Wild Dogs
 Sounds like a plan!
 Sinon
 407701001_30_a
+HIz
 Silica
 407701001_29_a
+HSz
 Leafa
 407701001_28_a
 It's worth a shot!
 Asuna
 407701001_27_a
-0Gz
+hJz
 Asuna
 407701001_26_a
-xGz
 Silica
 407701001_25_a
 Hmm, maybe if we show it to them,
@@ -666,10 +675,11 @@ they'll remember that they used to
 be cared for?
 Leafa
 407701001_24_a
-4Jz
+lMz
 Do you think we could use it?
 Sinon
 407701001_23_a
+PLz
 Yeah, apparently they used these
 when they owned the dogs. There
 was only one left.
@@ -688,7 +698,6 @@ Sinon
 407701001_18_a
 Asuna
 407701001_17_a
-xUz
 Silica
 407701001_16_a
 Hey, Sinon's back!
@@ -697,6 +706,7 @@ Leafa
 Asuna! Guys!
 Sinon
 407701001_14_a
+PPz
 Leafa
 407701001_13_a
 It's possible. That's why we've
@@ -704,12 +714,12 @@ sent Sinonon back to the village
 to have another look.
 Asuna
 407701001_12_a
-,Nz
+dQz
+,Rz
 Maybe we need to trigger a
 scenario or something?
 Silica
 407701001_11_a
-pPz
 That's okay. What bothers me is
 that the game usually seems to
 be okay with this approach.
@@ -719,7 +729,7 @@ We wasted your time, bringing you
 all this way for nothing.
 Asuna
 407701001_9_a
-8Pz
+pSz
 Oh no, we should apologize to you,
 if anything!
 Asuna
@@ -727,11 +737,11 @@ Asuna
 S-Sorry... I couldn't help you...
 Silica
 407701001_7_a
-dQz
 maybe you can talk to these wild
 dogs too?
 Leafa
 407701001_6_a
+0Uz
 So we figured since you're a
 Beastmaster who can talk to
 animals like a Cait Sith,
@@ -740,18 +750,16 @@ Leafa
 N-Nope...
 Leafa
 407701001_4_a
-,Sz
-(Sz
+dVz
 Silica
 407701001_3_a
-tSz
 Leafa
 407701001_2_a
 bg_event_riverside
 That didn't go so well, did it?
 Asuna
 407701001_1_a
-xTz
+TXz
 Exactly!
 Asuna
 407700901_46_a
@@ -762,11 +770,10 @@ using what we delivered for
 another two days. There's time.
 Sinon
 407700901_44_a
-$Yz
 Let's think about it for a minute.
 Asuna
 407700901_43_a
-8Wz
+pZz
 I don't know... Maybe there's
 something more we can do.
 Asuna
@@ -774,13 +781,13 @@ Asuna
 Yes, according to the head priest.
 Sinon
 407700901_41_a
-pXz
+L]z
 Was the goal of this quest really
 just the delivery of some ritual
 stuff?
 Leafa
 407700901_40_a
-$Yz
+$]z
 Yeah, I guess neither option was
 great. That's pretty awful.
 Leafa
@@ -790,6 +797,7 @@ difficult choice for the sake
 of their own survival.
 Asuna
 407700901_38_a
+l_z
 We can't fault them entirely,
 though.
 Sinon
@@ -803,7 +811,6 @@ Sinon
 sigh
 Asuna
 407700901_34_a
-(_{
 That's terrible...
 Asuna
 407700901_33_a
@@ -812,14 +819,15 @@ mountains, in the hopes that
 they'd find a way to survive.
 Townsperson
 407700901_32_a
-l_z
 This is painful to admit, but...
 There was a famine some years ago.
 Townsperson
 407700901_31_a
+Tcz
 Did we own them, she asks!
 Townsperson
 407700901_30_a
+8bz
 I mean, did the village own them?
 Leafa
 407700901_29_a
@@ -837,27 +845,25 @@ that those wild dogs you saw stop
 terrorizing our village.
 Townsperson
 407700901_26_a
-hbz
 Um, may I ask what you're going to
 use these ritual items for?
 Sinon
 407700901_25_a
-Lbz
 We noticed. They didn't pose too
 much trouble, though.
 Asuna
 407700901_24_a
+(fz
 Well, those wild dogs have made
 their den on the only road between
 here and Kiyomihara.
 Townsperson
 407700901_23_a
-,fz
+diz
 We're just glad we could
 deliver them safely.
 Asuna
 407700901_22_a
-Ldz
 Asuna
 407700901_21_a
 Leafa
@@ -870,21 +876,20 @@ much for bringing them all this
 way!
 Townsperson
 407700901_18_a
+Hiz
 Me too.
 Asuna
 407700901_17_a
-Pgz
 Yeah, that's pretty tragic...
 I feel bad for those dogs now.
 Leafa
 407700901_16_a
-4gz
+ljz
 I'll buy that if it's true.
 It's a bit too real for me,
 but sure.
 Sinon
 407700901_15_a
-Xjz
 They could be dogs that were
 abandoned. And now they've gone
 feral and attack humans instead.
@@ -894,11 +899,12 @@ Lots of people had dogs back in
 the olden days. Maybe that's why?
 Asuna
 407700901_13_a
-Xiz
+Xmz
 You're not wrong. It's a bit
 ordinary, now that you mention it.
 Leafa
 407700901_12_a
+<mz
 We've fought wolves, monsters,
 and mythological creatures.
 But dogs? That's a first.
@@ -907,21 +913,26 @@ Sinon
 Is that weird?
 Asuna
 407700901_10_a
+xnz
 Yeah... But really? Wild dogs?
 Sinon
 407700901_9_a
+(	{
 Asuna
 407700901_8_a
+Loz
 Sinon
 407700901_7_a
 That should do it!
 Leafa
 407700901_6_a
+,pz
 whimper
 Wild Dogs
 407700901_5_a
 Asuna
 407700901_4_a
+Xqz
 Hyah!
 Asuna
 407700901_3_a
@@ -931,7 +942,7 @@ bg_08_forest
 Grrrrrr!!
 Wild Dogs
 407700901_1_a
-4pz
+lsz
 Right behind you!
 Asuna
 407700801_46_a
@@ -939,14 +950,14 @@ Whoa, the dogs! Let's take care of
 them first!
 Leafa
 407700801_45_a
-Lqz
+(vz
 Right on cue.
 Sinon
 407700801_44_a
 Grrrr...!
 ???
 407700801_43_a
-<rz
+tuz
 Yeah, what could THAT mean?
 Asuna
 407700801_42_a
@@ -960,42 +971,42 @@ He's a head priest... There must
 be some hidden meaning there.
 Asuna
 407700801_40_a
-Ltz
+Lxz
 Was the line about him not being
 good at combat just an excuse?
 Sinon
 407700801_39_a
+0xz
 Oh yeah, that IS weird...
 Leafa
 407700801_38_a
-Hvz
 Yeah, I was surprised he didn't
 come too. Especially since he's
 good at healing and support.
 Sinon
 407700801_37_a
-Lvz
 I'm just wondering why the head
 priest didn't come along.
 Asuna
 407700801_36_a
+,zz
 Is something wrong, Asuna?
 Sinon
 407700801_35_a
+,}z
 Mmhmm...
 Asuna
 407700801_34_a
+({z
 Right. And once we take them out,
 all we have to do is deliver the
 ritual items to the village ahead.
 Asuna
 407700801_33_a
-hzz
 A pack of wild dogs should spawn
 soon.
 Sinon
 407700801_32_a
-Tyz
 Yes, according to the head priest.
 Asuna
 407700801_31_a
@@ -1007,11 +1018,9 @@ bg_08_forest
 We just have to keep going, right?
 Leafa
 407700801_28_a
-0{z
 May I ask something of you three?
 Head Priest
 407700801_27_a
-h}z
 You know, I don't think it's
 coincidence that brought
 you here.
@@ -1022,7 +1031,6 @@ a healer or support unit. I'm a
 little old for combat, you see.
 Head Priest
 407700801_25_a
-<}z
 The job type you selected...
 You basically serve the deities,
 right?
@@ -1111,6 +1119,7 @@ Leafa
 407700801_5_a
 Sinon
 407700801_4_a
+H({
 Asuna
 407700801_3_a
 Leafa
@@ -1192,7 +1201,6 @@ Sinon
 407700701_30_a
 Leafa
 407700701_29_a
-H2{
 Asuna
 407700701_28_a
 Ah, why hello again.
@@ -1342,7 +1350,6 @@ have a little logo-looking mark
 on them.
 Suguha
 407700601_30_a
-L&{
 Huh, you know, I've been meaning
 to ask about that.
 Suguha
@@ -1447,11 +1454,13 @@ Now, allow me to explain your
 duties as shrine maidens.
 Shrine Employee
 407700601_5_a
+P:{
 Heh heh, why thank you.
 Suguha
 407700601_4_a
 Shino
 407700601_3_a
+<_{
 Suguha
 407700601_2_a
 bg_event_japan_castle
@@ -1463,6 +1472,7 @@ Suguha
 407700501_24_a
 Shino
 407700501_23_a
+X	{
 Yes!
 Shino & Suguha
 407700501_22_a
@@ -1491,10 +1501,8 @@ Yeah, it's pretty famous, even
 in Kawagoe.
 Suguha
 407700501_16_a
-lb{
 Suguha
 407700501_15_a
-x:{
 bg_event_japan_castle
 So this is where we'll be working?
 Wow, I can feel the history from
@@ -1542,8 +1550,10 @@ I should've told you I was working
 with Sinon.
 Leafa
 407700501_3_a
+Xm{
 Asuna
 407700501_2_a
+4G{
 bg_11_home_lounge
 Hey, Asuna. I'm sorry.
 Leafa
@@ -1561,7 +1571,6 @@ Asuna
 Totally. But...
 Asuna
 407700401_25_a
-HI{
 Y-Yeah! It was a total accident.
 Kirito
 407700401_24_a
@@ -1573,6 +1582,7 @@ Asuna
 Y-You do?
 Kirito
 407700401_22_a
+Pr{
 Kirito
 407700401_21_a
 bg_11_home_lounge
@@ -1602,7 +1612,6 @@ sigh
 Whatever...
 Shino
 407700401_13_a
-4	{
 Yeah, so she wouldn't find out
 about it through some rumor.
 Suguha
@@ -1624,6 +1633,7 @@ You didn't?! Why didn't you tell
 him it was me, Suguha?
 Shino
 407700401_8_a
+$"{
 But you didn't say it was Shino!
 Kazuto
 407700401_7_a
@@ -1648,12 +1658,12 @@ bg_event_kirigaya_living
 sigh
 Shino
 407700401_1_a
-({{
 Kazuto
 407700301_25_a
 Just shut the damn door already!!
 Shino
 407700301_24_a
+D'{
 Why are you even in my house?!
 What's going on here?! What's with
 the shrine maiden outfit?!
@@ -1691,7 +1701,6 @@ You're not even listening...
 Then we're going to Mars!
 Suguha
 407700301_13_a
-P+{
 Got it...
 Kazuto
 407700301_12_a
@@ -1699,7 +1708,6 @@ And she's a guest, so be on your
 best behavior!
 Suguha
 407700301_11_a
-d,{
 Got it...
 Kazuto
 407700301_10_a
@@ -1719,11 +1727,11 @@ Suguha
 Maybe it's time I bought it...
 Kazuto
 407700301_6_a
-l/{
 I was just checking out a really
 good deal on this motherboard.
 Kazuto
 407700301_5_a
+P3{
 Sorry. You're right.
 Kazuto
 407700301_4_a
@@ -1738,6 +1746,7 @@ bg_event_kirigaya_living
 sigh
 Kazuto
 407700301_1_a
+0i{
 O-Okay, I'll tell you...
 Kirito
 407700201_28_a
@@ -1746,7 +1755,6 @@ just tell me what happened. Or is
 it something she's hiding from me?
 Asuna
 407700201_27_a
-Tg{
 I-It was nothing!
 Kirito
 407700201_26_a
@@ -1769,14 +1777,17 @@ So nothing happened while she
 was there?
 Asuna
 407700201_20_a
+T:{
 R-Right...
 Kirito
 407700201_19_a
+T({
 I'm sure you're right. She was
 there as Suguha's friend. That's
 all.
 Asuna
 407700201_18_a
+<<{
 She just forgot to bring it up.
 She wasn't hiding it from you.
 At least, I don't think she was...
@@ -1811,10 +1822,10 @@ about this until after it
 happened, okay?
 Kirito
 407700201_10_a
-TG{
 Sh-She what?!
 Asuna
 407700201_9_a
+0u{
 Yeah. She stayed at my house
 for a couple of days.
 Kirito
@@ -1823,7 +1834,7 @@ Oh, cool! But...doesn't Sinon
 live in Tokyo?
 Asuna
 407700201_7_a
-4s{
+lv{
 Yeah. It was part of her school's
 work-study program. Sinon was
 the one working part-time.
@@ -1838,12 +1849,13 @@ how they hire extras around
 New Year's.
 Kirito
 407700201_4_a
+XN{
 Really? In Asuka Empire?!
 Asuna
 407700201_3_a
 Asuna
 407700201_2_a
-4){
+l,{
 bg_11_home_lounge
 I heard Sinon and Sugu tried it
 too.
@@ -1861,7 +1873,6 @@ Alice's level of devotion than
 anything.
 Asuna
 407700101_33_a
-0y{
 Ha ha, wow, that's harsh.
 I guess that's how he was
 before he lost his memory.
@@ -1876,6 +1887,7 @@ were enshrined there, Alice made
 a comment.
 Asuna
 407700101_30_a
+PK{
 Really? Huh. I wonder what makes
 them so different...
 Kirito
@@ -1885,7 +1897,6 @@ but it didn't move him like it
 moved Alice.
 Asuna
 407700101_28_a
-xI{
 So, what about Eugeo?
 Kirito
 407700101_27_a
@@ -1924,7 +1935,6 @@ peace, like something had calmed
 her from within.
 Asuna
 407700101_19_a
-dO{
 Really? Like what?
 Kirito
 407700101_18_a
@@ -1936,6 +1946,7 @@ Well, it's funny you should say
 that...
 Asuna
 407700101_16_a
+PT{
 Man, I just can't picture
 Alice doing all that.
 Kirito
@@ -1975,7 +1986,6 @@ Asuna
 Well, if memory serves...
 Asuna
 407700101_6_a
-XW{
 I didn't even have time to dive
 into VR that much.
 Kirito
@@ -2002,9 +2012,9 @@ Kirito
 407501201_28_a
 Yuuki
 407501201_27_a
-l"{
 Pina
 407501201_26_a
+(_{
 Heh heh! I guess the mochi fight
 continues for you two!
 Silica
@@ -2027,6 +2037,7 @@ Ha ha, well, no one's
 stopping you!
 Kirito
 407501201_20_a
+X){
 Pina
 407501201_19_a
 And, like Leafa said, you can get
@@ -2034,6 +2045,7 @@ right into that salty-sweet loop
 and eat your way to mochi heaven!
 Yuuki
 407501201_18_a
+p"{
 Really? I could still go for some.
 All that fighting made me hungry
 again!
@@ -2055,39 +2067,39 @@ Kirito
 407501201_13_a
 Kirito
 407501201_12_a
-P"{
 That ought to give you a leg up
 in other VRMMOs too. At least,
 I hope it helps!
 Leafa
 407501201_11_a
-d!{
+D&{
 And I learned how to fight in a
 raid, to boot! That was fun.
 Player F
 407501201_9_a
 Pina
 407501201_10_a
-De{
 Heh, you're very welcome! I'm glad
 the mochi-making competition had
 a happy ending.
 Silica
 407501201_8_a
+X&{
 Thanks, guys! We wouldn't have
 completed that quest without you.
 Player E
 407501201_7_a
 Silica
 407501201_6_a
+P'{
 Pina
 407501201_5_a
+XW{
 Yep. Man, that felt really cool!
 I'd never done a raid battle in
 AE before.
 Yuuki
 407501201_4_a
-(%{
 Nice one! That was the last of
 them.
 Leafa
@@ -2095,15 +2107,15 @@ Leafa
 GRRRRRGHHH!
 Ogre
 407501201_2_a
-<&{
+t){
 bg_event_ayakashi_street
 HYAAAAH!
 Kirito
 407501201_1_a
-('{
 Oh, right! That too!
 Kirito
 407501101_33_a
+T+{
 Don't forget the mochi monster!
 Leafa
 407501101_32_a
@@ -2113,18 +2125,17 @@ Okay, I think we're set.
 Let's kill some ogres!
 Kirito
 407501101_30_a
-D3{
 Pina
 407501101_29_a
 YEAH!
 Players
 407501101_28_a
-h+{
 Swords and spears, charge with me
 on my command!
 Yuuki
 407501101_27_a
-<+{
+x.{
+t.{
 Yuuki
 407501101_26_a
 Pina
@@ -2134,50 +2145,56 @@ Stay to the sides and heal our
 fighters!
 Silica
 407501101_24_a
+x_{
 Archery unit's in place!
 Leafa
 407501101_23_a
+P0{
+H0{
 Leafa
 407501101_22_a
 Here we go! Warriors, to the front
 lines!
 Kirito
 407501101_21_a
+81{
 Graaaaagh!
 Ogre
 407501101_20_a
 Alright, leave it to me!
 Kirito
 407501101_19_a
-P/{
+,4{
 I got some good mochi out of this!
 Running home screaming won't make
 for a story worth telling!
 Player G
 407501101_18_a
+T3{
 Yeah, I don't want this to end on
 a downer!
 Player G
 407501101_17_a
-X2{
 Okay then. Give us some roles!
 Player F
 407501101_16_a
+x4{
 Get that down and the routine
 won't change much from game
 to game.
 Kirito
 407501101_15_a
+$5{
 The key to a raid battle is
 knowing your role and
 executing it well!
 Kirito
 407501101_14_a
-P<{
 Yuuki
 407501101_13_a
 Leafa
 407501101_12_a
+<v{
 Ha ha, I don't know about that,
 but okay...
 Silica
@@ -2187,29 +2204,27 @@ But we'll get used to it soon
 enough.
 Kirito
 407501101_10_a
-(6{
 He's got a point. Have you guys
 fought in raids before?
 Player E
 407501101_9_a
-(5{
 We can't run away from this fight,
 and fighting through this battle
 will help us fight those to come!
 Kirito
 407501101_8_a
+09{
 Maybe this sudden quest is a trial
 run for large-scale battles that
 the admins came up with.
 Kirito
 407501101_7_a
-d8{
 Most of the game's quests can be
 done by one person or a small
 group.
 Player G
 407501101_6_a
-t7{
+P<{
 We've never really needed to,
 I guess.
 Player G
@@ -2218,13 +2233,11 @@ Asuka Empire has raid battles?
 I've never done one before.
 Player F
 407501101_4_a
-T:{
 I'm going to teach you all how to
 get into formation for a raid
 battle.
 Kirito
 407501101_3_a
-X9{
 Kirito
 407501101_2_a
 bg_event_ayakashi_street
@@ -2232,7 +2245,6 @@ What was the point of leading us
 here?
 Player E
 407501101_1_a
-l:{
 Leafa
 407501001_37_a
 Go for it!
@@ -2253,6 +2265,7 @@ attention and start leading
 them that way!
 Kirito
 407501001_31_a
+,A{
 Pina
 407501001_30_a
 It's still within the battle area,
@@ -2260,20 +2273,23 @@ though, so we can't hide there
 for long!
 Yuuki
 407501001_29_a
+0B{
 Silica
 407501001_28_a
+xB{
 Pina
 407501001_27_a
-Ho{
 There's a courtyard through that
 alley!
 Yuuki
 407501001_26_a
+dC{
 Yeah, that sounds like our only
 option. Yuuki, is there somewhere
 we can gather everyone together?
 Kirito
 407501001_25_a
+4D{
 We'll just have to teach them how
 to fight a raid battle on the fly!
 Leafa
@@ -2283,11 +2299,8 @@ Leafa
 I know...
 Kirito
 407501001_22_a
-xB{
-tB{
 Yuuki
 407501001_21_a
-xL{
 Pina
 407501001_20_a
 What do we do? I don't think we
@@ -2297,15 +2310,14 @@ Silica
 AHHHHHH!
 Player F
 407501001_18_a
-<D{
+tG{
 SKREEE!
 Mochi Monster
 407501001_17_a
 GRAAARRRR!
 Ogre
 407501001_16_a
-0E{
-(E{
+hH{
 Leafa
 407501001_15_a
 Yeah, come to think of it, the
@@ -2313,20 +2325,20 @@ players we met did say that AE
 plays pretty differently.
 Kirito
 407501001_14_a
-DF{
+,S{
 Pina
 407501001_13_a
-8H{
+pK{
 There's a lot of PvP, and people
 like to split off and explore the
 rich setting for themselves.
 Yuuki
 407501001_12_a
-$H{
 Ah yeah, teamwork is one of the
 weak points in the AE player base.
 Yuuki
 407501001_11_a
+DK{
 Pina
 407501001_9_a
 I don't know... Staying to fight
@@ -2334,20 +2346,20 @@ is important, but no one's
 working together!
 Silica
 407501001_8_a
+4L{
 Yuuki
 407501001_10_a
-hI{
 Kirito
 407501001_7_a
 Do AE players not know how to
 fight as a team?
 Leafa
 407501001_6_a
-PJ{
 We need healers, not shields!
 Someone's gotta keep us alive!
 Player G
 407501001_5_a
+<N{
 No, stay and fight! Here, you can
 be my human shield!
 Player F
@@ -2355,7 +2367,6 @@ Player F
 Run for your liiiiife!
 Player E
 407501001_3_a
-DL{
 Skraaawwr!
 SKRAAAAAHHH!
 Mochi Monster
@@ -2364,55 +2375,61 @@ bg_event_ayakashi_street
 GRAAAAAAHHHHH!
 Ogre
 407501001_1_a
-0N{
+hQ{
 It's no use! They're too panicked.
 Kirito
 407500901_63_a
-dP{
 HELP! There's no way we can
 beat them all!
 Players
 407500901_62_a
-TO{
 We need to get into a raid
 formation if we're gonna take
 all of these enemies on!
 Kirito
 407500901_61_a
+HS{
 I see that. Everyone, form up!
 Kirito
 407500901_60_a
+xU{
 Look! It says we've triggered an
 event battle!
 Leafa
 407500901_59_a
-4Q{
-,Q{
+lT{
+dT{
 Leafa
 407500901_58_a
+4W{
 Everyone's panicking...
 Kirito
 407500901_57_a
+<U{
 Pina
 407500901_56_a
+0W{
 The mochi's moving too!
 Player D
 407500901_55_a
 Skraaaaawrr!
 Mochi Monster
 407500901_54_a
+8X{
 Look out! The ogres are going
 nuts!
 Player C
 407500901_53_a
+$W{
 GYYYYAAAAAAAGGGGGHHH!
 Ogre
 407500901_52_a
-xT{
+TY{
 And now they're turning this
 mochi monstrosity loose on us!
 Yuuki
 407500901_51_a
+TX{
 The mochi making was just for
 show. They wanted to attract a
 crowd!
@@ -2447,21 +2464,24 @@ Silica
 Graaaaaaoooooh!
 Ogre
 407500901_40_a
-8Z{
+p]{
 Kirito
 407500901_39_a
-P[{
 I don't even know!
 Leafa
 407500901_38_a
 Pina
 407500901_37_a
+X_{
 What is it?! Some kind of mochi
 monster?!
 Yuuki
 407500901_36_a
+(_{
+$_{
 Yuuki
 407500901_35_a
+p_{
 Pina
 407500901_34_a
 The mochi is moving!!
@@ -2472,6 +2492,7 @@ Leafa
 What the hell is going on?!
 Kirito
 407500901_31_a
+$a{
 GRYAAAAAGH!
 ???
 407500901_30_a
@@ -2487,7 +2508,8 @@ Leafa
 Grugh!
 Ogre B
 407500901_26_a
-4$}
+pc{
+l'}
 GRWAAAWR!
 Ogre A
 407500901_25_a
@@ -2498,18 +2520,17 @@ It'll dry out if they don't put it
 away soon...
 Kirito
 407500901_23_a
-tk{
 Pina
 407500901_22_a
 Everyone got tired of eating mochi
 and now it's just piling up!
 Silica
 407500901_21_a
-4e{
+lh{
 Oh no, look!
 Silica
 407500901_20_a
-4c{
+lf{
 Silica
 407500901_19_a
 Pina
@@ -2519,17 +2540,18 @@ huh? This is probably their job,
 but their dedication is...slavish.
 Yuuki
 407500901_17_a
-Lf{
 How much mochi are they gonna
 make, anyway?
 Leafa
 407500901_16_a
-<e{
+th{
+<i{
 A lot of players have moved on,
 but these two are still going at
 it.
 Leafa
 407500901_15_a
+(i{
 Leafa
 407500901_14_a
 ...
@@ -2540,11 +2562,10 @@ Pina
 Grugh!
 Ogre B
 407500901_11_a
-tg{
-p+}
 GRWAAAWR!
 Ogre A
 407500901_10_a
+(k{
 They're just like any other snack!
 Once you start, you can't stop!
 Silica
@@ -2561,9 +2582,11 @@ one, so then I want a sweet one.
 That's how they get you!
 Leafa
 407500901_5_a
+<p{
 Of course not. You ate too much...
 Kirito
 407500901_4_a
+Pn{
 I don't think I can look at
 another mochi...
 Leafa
@@ -2574,7 +2597,6 @@ bg_event_ayakashi_street
 Oh yeah, that hit the spot.
 Kirito
 407500901_1_a
-Xm{
 Silica
 407500801_69_a
 Pina
@@ -2582,8 +2604,6 @@ Pina
 Sounds good!
 Yuuki
 407500801_67_a
-tn{
-ln{
 Leafa
 407500801_66_a
 Ha ha, then let's dig into this
@@ -2597,7 +2617,6 @@ I think my appetite just came
 back!
 Silica
 407500801_63_a
-Xp{
 Pina
 407500801_62_a
 Yuuki
@@ -2606,27 +2625,25 @@ Oh my gosh, that last one makes it
 sound like dessert!
 Silica
 407500801_60_a
-Ds{
 Roasted soybean flour! Cheese!
 Fermented soybeans! Black sesame
 seed paste and jam, even!!
 Leafa
 407500801_59_a
-dr{
 Kirito
 407500801_58_a
 Wow, you're right!
 Look at all that!
 Leafa
 407500801_57_a
-Hs{
 Pina
 407500801_56_a
-<u{
+tx{
 I bet you could create a lot of
 different flavor combinations!
 Yuuki
 407500801_55_a
+xw{
 Silica
 407500801_54_a
 Pina
@@ -2645,6 +2662,7 @@ Kirito
 407500801_50_a
 Pina
 407500801_49_a
+<z{
 Yuuki
 407500801_48_a
 I, um, might have overdone it on
@@ -2652,6 +2670,7 @@ mochi earlier... I'm not really
 hungry.
 Silica
 407500801_47_a
+H{{
 Yeah, let's!
 Leafa
 407500801_46_a
@@ -2665,6 +2684,8 @@ Players
 Grugh!
 Ogre B
 407500801_43_a
+T}{
+PA}
 GRWAAAWR!
 Ogre A
 407500801_42_a
@@ -2673,7 +2694,6 @@ Leafa
 Ha ha, was it that obvious?
 Kirito
 407500801_40_a
-p{{
 Silica
 407500801_39_a
 Pina
@@ -2770,7 +2790,7 @@ Yuuki
 Grugh!
 Ogre B
 407500801_9_a
-4N}
+lQ}
 GRWAAAWR!
 Ogre A
 407500801_8_a
@@ -2890,7 +2910,6 @@ Leafa
 407500701_5_a
 Leafa
 407500701_4_a
-tK}
 Huh? Guys, I think we're
 attracting a crowd...
 Kirito
@@ -3107,6 +3126,7 @@ Leafa
 Then come on!
 Kirito
 407500501_30_a
+TT}
 Sounds good!
 Leafa
 407500501_29_a
@@ -3707,7 +3727,6 @@ Wow! So this is that Asuka Empire
 I keep hearing about!
 Leafa
 407500101_17_a
-h6}
 Thanks.
 Kirito
 407500101_16_a
@@ -4445,7 +4464,7 @@ Kirito
 407400701_44_a
 Liz
 407400701_43_a
-0&}
+h)}
 Kirito
 407400701_42_a
 There's plenty to help out with,
@@ -4464,6 +4483,7 @@ Yeah, now's not the time
 for jokes, you guys!
 Silica
 407400701_37_a
+8,}
 Alicia
 407400701_36_a
 Whoa, guys! Don't kid
@@ -4511,7 +4531,7 @@ Kirito
 407400701_22_a
 Liz
 407400701_21_a
-<0}
+t3}
 Kirito
 407400701_20_a
 They're all in that tent over
@@ -4520,7 +4540,6 @@ Agil
 407400701_19_a
 Rain
 407400701_18_a
-t1}
 Silica
 407400701_17_a
 So where's everyone else?
@@ -4602,7 +4621,6 @@ Oh, you know, nothing really!
 Ha ha!
 Kirito
 407400601_45_a
-T>}
 Kirito
 407400601_44_a
 Rain
@@ -4610,7 +4628,6 @@ Rain
 Kirito!
 Sinon
 407400601_42_a
-d?}
 Alicia
 407400601_41_a
 People like us? What's that
@@ -4628,6 +4645,7 @@ thing's a big deal for people
 like us!
 Kirito
 407400601_36_a
+(E}
 Alicia
 407400601_35_a
 Ha ha, what are you talking
@@ -4637,10 +4655,8 @@ Liz
 407400601_34_a
 Sinon
 407400601_33_a
-DC}
 Kirito
 407400601_32_a
-D%}
 You're telling me...
 It feels like we just survived a
 fight by the skin of our teeth!
@@ -4650,6 +4666,7 @@ Hehe, I'm just glad you all found
 gifts!
 Silica
 407400601_30_a
+(H}
 Silica
 407400601_29_a
 Ahaha, I guess not...
@@ -4657,6 +4674,7 @@ Yuuki
 407400601_28_a
 Rain
 407400601_27_a
+LI}
 Kirito
 407400601_26_a
 Rain
@@ -4665,7 +4683,6 @@ Do you really want us to spoil
 the surprise?
 Sinon
 407400601_24_a
-HG}
 Silica
 407400601_23_a
 Oh, really? What'd you get?
@@ -4677,6 +4694,7 @@ Rain
 407400601_20_a
 Sinon
 407400601_19_a
+0(}
 Yeah, we're all set.
 Kirito
 407400601_18_a
@@ -4725,6 +4743,7 @@ We're back.
 Kirito
 407400601_1_a
 5pH
+L0}
 5pH
 Okay!
 Kirito
@@ -4734,7 +4753,6 @@ Understood. Let's head for the
 village, then.
 Sinon
 407400501_54_a
-$.}
 5pH
 Yeah, I think that was Asuna's
 point too.
@@ -4802,7 +4820,6 @@ Kirito
 Good-looking?
 Rain
 407400501_41_a
-l6}
 5pH
 Yeah. I found a good-looking
 town around here.
@@ -4844,6 +4861,7 @@ Liz
 Hurry up, guys!
 Liz
 407400501_32_a
+l>}
 5pH
 Totally! Silica and the others
 will be staying behind.
@@ -4852,6 +4870,7 @@ Alicia
 5pH
 Liz
 407400501_31_a
+xc}
 5pH
 Kirito
 407400501_29_a
@@ -4871,7 +4890,6 @@ Oh right! You guys haven't done
 that yet.
 Yuuki
 407400501_25_a
-lb}
 5pH
 Kirito
 407400501_24_a
@@ -5032,13 +5050,13 @@ Rain
 407400401_27_a
 Alicia
 407400401_26_a
-0 }
 Are you gonna be ready in time?
 We've gotta go!
 Yuuki
 407400401_25_a
 Silica
 407400401_24_a
+4X}
 Say what? You guys don't have
 gifts yet?!
 Liz
@@ -5053,7 +5071,7 @@ Rain
 407400401_20_a
 Sinon
 407400401_19_a
-,W}
+dZ}
 Yeah, of course.
 Kirito
 407400401_18_a
@@ -5089,12 +5107,11 @@ Christmas without some
 sort of roasted bird!
 Liz
 407400401_8_a
-D)}
 Alright then, I'll keep an eye
 out for some along the way.
 Yuuki
 407400401_7_a
-,1}
+d4}
 Thank you all for helping with
 the prep. We'll head out to
 Gnome territory soon!
@@ -5102,6 +5119,7 @@ Alicia
 407400401_6_a
 Alicia
 407400401_5_a
+4.}
 I'm sorry, did you say "hunt some
 chicken-like monsters"? Because
 I'm totally down for that!
@@ -5152,7 +5170,6 @@ Shh, keep your voice down.
 ...And no, I haven't.
 Sinon
 407400301_29_a
-De}
 moH
 Wait, are you saying you have?!
 Kirito
@@ -5163,7 +5180,6 @@ someone who's never attended a
 gift swap would come up with.
 Sinon
 407400301_27_a
-l<}
 moH
 Don't make this sound like a great
 idea. You're roping me into a
@@ -5179,7 +5195,6 @@ That's why I think the three of us
 should form an alliance.
 Kirito
 407400301_24_a
-T$}
 moH
 bg_event_alne_christmas
 Ah, I see where you're going
@@ -5246,7 +5261,6 @@ Silica and Sinon are going too,
 since they're Cait Sith.
 Kirito
 407400301_8_a
-hp}
 moH
 O-Okay.
 Rain
@@ -5264,6 +5278,7 @@ Are you sure I'm allowed to go
 to this thing?
 Rain
 407400301_4_a
+8/}
 moH
 No problem! I'm really excited
 for this gift swap!
@@ -5279,12 +5294,10 @@ invitation, guys.
 Kirito
 407400301_1_a
 	oH
-xA}
 	oH
 Uh, so... Who should we invite?
 Kirito
 407400201_37_a
-(u}
 	oH
 Yeah, I like that idea.
 Kirito
@@ -5294,6 +5307,7 @@ Maybe you should ask whoever
 you're going to invite?
 Yui
 407400201_35_a
+(3}
 	oH
 I-I see what you mean, and I do
 not have a perfect solution.
@@ -5321,6 +5335,7 @@ What kind of gift can I give
 that just anyone would like?
 Kirito
 407400201_30_a
+P	}
 	oH
 I've never done a gift swap like
 this before.
@@ -5368,7 +5383,6 @@ But you should probably stay here.
 I'm worried about those two.
 Kirito
 407400201_19_a
-P	}
 	oH
 That sounds like something she'd
 come up with. It sounds fun...
@@ -5397,7 +5411,6 @@ invite them to this event,
 I guess.
 Kirito
 407400201_14_a
-T<}
 	oH
 Agreed.
 Asuna
@@ -5470,6 +5483,7 @@ Yui
 How can you be sure, Yui?
 Asuna
 407400101_21_a
+P!}
 That appears to be the case,
 Mommy. It's not just you.
 Yui
@@ -5479,6 +5493,7 @@ like they're sleeping a bit longer
 every day.
 Asuna
 407400101_19_a
+8]}
 Really?
 Kirito
 407400101_18_a
@@ -5487,7 +5502,6 @@ they have been acting pretty
 strange lately.
 Asuna
 407400101_17_a
-lZ}
 Well, that Divine Object quest
 WAS pretty rough.
 Kirito
@@ -5518,14 +5532,15 @@ Yui
 407400101_11_a
 Kirito
 407400101_10_a
-lM}
 You do...?
 Kirito
 407400101_8_a
+8"}
 Ooh! Actually, you may not have
 to. I've got an idea...
 Alicia
 407400101_7_a
+4!}
 Oh, er, yeah. I'll be sure to
 repay the favor.
 Kirito
@@ -5539,6 +5554,7 @@ No problem! Wouldn't do it for
 anyone but you, Kirito.
 Alicia
 407400101_4_a
+He}
 Huh, okay. Well, thanks for
 checking.
 Kirito
@@ -5550,7 +5566,7 @@ Hmm... Nope, never seen that
 Cait Sith NPC before.
 Alicia
 407400101_1_a
-8"}
+p%}
 ...
 Kirito
 407201201_53_a
@@ -5559,6 +5575,7 @@ Kirito
 ...
 Asuna
 407201201_51_a
+<(}
 A-Alice!! You can't mean that!
 Eugeo
 407201201_50_a
@@ -5567,50 +5584,53 @@ spent, our memories of this place
 are unnecessary in our world.
 Alice
 407201201_49_a
-('}
 Of course, this does not sit well
 with me. But we must return to
 our world eventually...
 Alice
 407201201_48_a
-t%}
-Pq}
 You're just going to give up,
 Alice? Sit back and let our
 memories be destroyed?
 Eugeo
 407201201_47_a
-0&}
+h)}
 In which case, there is truly
 nothing we can do.
 Alice
 407201201_46_a
 Eugeo
 407201201_45_a
+8m}
 So...this is one of the rules
 of this world...
 Alice
 407201201_44_a
+Xl}
 z66
 This was decided long ago, when
 the Divine Objects were first
 forged...
 Urdr
 407201201_43_a
-h(}
+D-}
 z66
 I am eternally grateful to you.
 However, there is no changing
 your sad fate.
 Urdr
 407201201_42_a
+X,}
 Alice
 407201201_41_a
+Dk}
 I don't want to have my memory
 erased! Is there nothing we can
 do?
 Eugeo
 407201201_40_a
+P-}
+H-}
 Asuna
 407201201_39_a
 U-Uh, nothing, Alice...
@@ -5622,7 +5642,6 @@ AmuSphere? Augma?
 What are you two talking about?
 Alice
 407201201_36_a
-L.}
 but the AmuSphere shouldn't be
 able to do anything dangerous
 like that...
@@ -5632,18 +5651,19 @@ Y-Yeah... The Augma could kinda
 do that,
 Kirito
 407201201_34_a
+X0}
 Kirito
 407201201_33_a
-8.}
+p1}
 Umm... Kirito? The AmuSphere can't
 erase a person's memory...right?
 Asuna
 407201201_32_a
+X1}
 y66
 That is correct.
 Urdr
 407201201_31_a
-L8}
 Asuna
 407201201_30_a
 So in other words, if our memory
@@ -5651,34 +5671,35 @@ of the Divine Objects is wiped,
 this won't happen again?
 Kirito
 407201201_29_a
-P1}
 You mean...
 Eugeo
 407201201_28_a
+X3}
+P3}
 Eugeo
 407201201_27_a
 Wh-What speed!!
 Alice
 407201201_26_a
-Tr}
+$4}
 z66
 Thus, we gods ensure that all
 those who come into contact with
 it have their memories erased.
 Urdr
 407201201_25_a
-X3}
 {66
 Even mere knowledge of this power
 can lead to calamity.
 Urdr
 407201201_24_a
-T2}
+<?}
 Asuna
 407201201_23_a
 Y-Yeah, go on...
 Kirito
 407201201_22_a
+X6}
 y66
 As you know, the Divine Objects
 contain a power so terrible,
@@ -5690,18 +5711,20 @@ Kirito
 There is?
 Asuna
 407201201_19_a
+<y}
 y66
 Lastly...there is one thing
 I feel I must tell you...
 Urdr
 407201201_18_a
-<5}
+t8}
+$B}
 Asuna
 407201201_17_a
 You can count on us!
 Kirito
 407201201_16_a
-xw}
+H9}
 x66
 Please, brave fairies and warriors
 from another world, recover the
@@ -5719,7 +5742,7 @@ Hehe, if we have time, we can
 always go back.
 Asuna
 407201201_11_a
-4h}
+lk}
 Ha ha, yeah. We played karuta the
 whole time and barely even got
 to see the sights!
@@ -5740,16 +5763,13 @@ thought we'd have to chase our
 quarry across multiple worlds?
 Alice
 407201201_5_a
-p<}
 Well, I for one am happy we
 were finally able to finish off
 that Hi-Mob.
 Asuna
 407201201_4_a
-X<}
 Asuna
 407201201_3_a
-(?}
 Yup! Only one left to go.
 Kirito
 407201201_2_a
@@ -5760,8 +5780,6 @@ Object...
 Urdr
 407201201_1_a
 MeE
-p>}
-l>}
 MeE
 Asuna
 407201101_54_a
@@ -5788,7 +5806,7 @@ M-My warp portal...
 Y-You ruined it...!
 Hi-Mob
 407201101_48_a
-LA}
+4N}
 MeE
 Sinon
 407201101_47_a
@@ -5804,7 +5822,6 @@ luckily, it somehow managed to
 convert over with my character.
 Kirito
 407201101_45_a
-(C}
 MeE
 Yeah. It was originally an SAO
 item that nullified teleportation
@@ -5846,20 +5863,17 @@ MeE
 Asuna! You're up!
 Kirito
 407201101_35_a
-(H}
-$H}
 MeE
 Asuna
 407201101_34_a
 MeE
 Kirito
 407201101_33_a
-lJ}
 MeE
 He's trying to run!
 Sinon
 407201101_32_a
-DI}
+xL}
 MeE
 Eugeo
 407201101_31_a
@@ -5871,10 +5885,10 @@ Ah!
 Is that what I think it is?!
 Liz
 407201101_29_a
-lJ}
 MeE
 Hi-Mob
 407201101_28_a
+PN}
 MeE
 Gngh...!
 Hi-Mob
@@ -5892,6 +5906,7 @@ Kirito
 MeE
 Sinon
 407201101_23_a
+8Q}
 MeE
 Come on, everyone! Let's beat this
 guy and get that Divine Object!
@@ -5915,6 +5930,7 @@ Alice
 MeE
 Sinon
 407201101_17_a
+,S}
 MeE
 Asuna
 407201101_16_a
@@ -5923,7 +5939,6 @@ Cool. Thanks for the follow-up,
 Alice.
 Kirito
 407201101_15_a
-XS}
 MeE
 Perhaps our quarry used these
 "Spirit Skills" to create those
@@ -5936,7 +5951,6 @@ and she told me that there are
 Sacred Arts in this world too.
 Alice
 407201101_13_a
-XR}
 MeE
 Eugeo
 407201101_12_a
@@ -5949,19 +5963,18 @@ No one told me he could
 make copies of himself.
 Liz
 407201101_10_a
-(V}
 MeE
 So shouting out the answer forced
 him to take his true form.
 Kirito
 407201101_9_a
-XT}
 MeE
 Yeah, I think the quest was set to
 resolve when one of us revealed
 the bad guy's secret.
 Kirito
 407201101_8_a
+XX}
 MeE
 After you shouted, a bunch of
 players all sprinted at each
@@ -5972,8 +5985,7 @@ MeE
 Explanation, please?
 Sinon
 407201101_6_a
-hV}
-0W}
+hZ}
 MeE
 Kirito!
 Asuna
@@ -5981,15 +5993,16 @@ Asuna
 MeE
 Sinon
 407201101_4_a
-$W}
 MeE
 Asuna
 407201101_3_a
+,]}
 MeE
 There you are! We've been looking
 for you!
 Kirito
 407201101_2_a
+H[}
 MeE
 bg_event_ayakashi_street
 So you saw through my
@@ -6011,15 +6024,15 @@ Sinon
 Curses!
 Player B
 407201001_29_a
-l[}
 Huh...? Kirito...?
 Do you need to lie down?
 Asuna
 407201001_28_a
+8_}
 Good point...
 Player B
 407201001_27_a
-4f}
+li}
 Eugeo
 407201001_26_a
 Alice
@@ -6036,6 +6049,7 @@ Hey! Hi-Mob! I mean, originally
 cloaked Cait Sith bad guy dude!
 Kirito
 407201001_22_a
+Tb}
 So that was his plan... He wanted
 to beat us all quick and force us
 out of the tournament...
@@ -6054,44 +6068,42 @@ Kirito...? You're muttering to
 yourself. Is everything all right?
 Alice
 407201001_17_a
+,e}
 But there was nothing stopping
 him from assuming more than
 one form!
 Kirito
 407201001_16_a
-Ld}
 I was positive he had assumed
 another form when he converted
 over...
 Kirito
 407201001_15_a
-Xc}
 Wait... Of course! One of my key
 assumptions was wrong!
 Kirito
 407201001_14_a
+0g}
 So, there are a bunch of
 suspicious characters here...
 What can that mean...?
 Kirito
 407201001_13_a
-Xf}
 But I've been keeping an eye on
 Liz and Sinon's opponents too, and
 they both seem pretty robotic...
 Kirito
 407201001_12_a
-$g}
 He's fast, smart, and has amazing
 reactions, but he's not trying
 anything to counter Asuna's strat.
 Kirito
 407201001_11_a
-Lf}
 Asuna's opponent is pretty
 fishy...
 Kirito
 407201001_10_a
+<s}
 but only the one with that dip in
 intonation at the end of "winter"
 is followed by "loneliness"!
@@ -6101,21 +6113,22 @@ There are two poems that start
 with "winter,"
 Asuna
 407201001_8_a
-Ph}
+,m}
 ...loneliness in a mountain
 village grows only deeper...
 Reciter
 407201001_7_a
+,l}
 ...
 Player B
 407201001_6_a
-di}
 Got it!
 Asuna
 407201001_5_a
 Winter...
 Reciter
 407201001_4_a
+8o}
 ...
 Asuna
 407201001_3_a
@@ -6125,12 +6138,12 @@ bg_event_ayakashi_street
 ...
 Player B
 407201001_1_a
-Dl}
 Kirito
 407200901_63_a
 Yep! He's as good as caught!
 Asuna
 407200901_62_a
+Xp}
 Oh, yeah. He won't escape us.
 Sinon
 407200901_61_a
@@ -6140,17 +6153,19 @@ Huh. Well, I think we're close.
 We'll get that dastardly fiend.
 Liz
 407200901_59_a
+Tt}
 Sure, it can be devious and
 clever, but it's not adaptable.
 That's its biggest weakness.
 Kirito
 407200901_58_a
-ho}
 But I think even Cardinal can't
 replicate an AI of their level
 of complexity.
 Kirito
 407200901_57_a
+Xs}
+Ps}
 Asuna
 407200901_56_a
 That's right. And those two are
@@ -6158,22 +6173,21 @@ effectively no different from a
 human from the real world.
 Kirito
 407200901_55_a
-8q}
+pt}
 Liz
 407200901_54_a
-Lr}
 Hey... This "Hi-Mob" of yours...
 You said Cardinal made him from
 Alice and Eugeo's data, right?
 Sinon
 407200901_53_a
-Pr}
-Hr}
 Asuna
 407200901_52_a
+Px}
 ...
 Kirito
 407200901_51_a
+Dv}
 Eugeo
 407200901_50_a
 Good luck.
@@ -6181,12 +6195,14 @@ Alice
 407200901_49_a
 Alice
 407200901_48_a
+Pw}
 Liz
 407200901_47_a
 Roger that! Alice and I will get
 back to playing, then!
 Eugeo
 407200901_46_a
+Hx}
 Since it's not an elimination
 tournament, we still could
 play one of them again.
@@ -6194,6 +6210,7 @@ Asuna
 407200901_45_a
 Asuna
 407200901_44_a
+Ly}
 Sinon
 407200901_43_a
 Yeah. Everyone, keep a close eye
@@ -6201,11 +6218,10 @@ on those guys if you get another
 chance to play them.
 Kirito
 407200901_42_a
-0w}
-,w}
+hz}
+dz}
 Liz
 407200901_41_a
-tw}
 Eugeo
 407200901_40_a
 Interesting. I did get that sense
@@ -6218,7 +6234,6 @@ this...? Adaptability? He's not
 very flexible, I think.
 Kirito
 407200901_38_a
-Xy}
 Asuna
 407200901_37_a
 Sinon
@@ -194397,417 +194412,460 @@ bg_black
 ???
 33006_24_a
 still_s2_03_0093
-リンク・スタート
+Link Start!
 Shino
 33006_23_a
 still_s2_03_0091
-次のBoBで優勝できれば、
-その時はきっと……きっと
+Winning the next Bullet of Bullets
+will cure me, I know it will.
+It has to.
 Shino
 33006_22_a
 still_s2_03_0091
-そう信じて、私は《へカート
-一緒に戦い続けてきた
+So I keep fighting with my
+Hecate II, hoping it'll help
+me kick this phobia.
 Shino
 33006_21_a
 still_s2_03_0091
-シノンが強くなればなるほど、
-現実世界の私も強くなれる
+I figure the stronger Sinon gets,
+the stronger I'll get in the real
+world.
 Shino
 33006_20_a
 still_s2_03_0090
-不思議なことに、仮想世界のシノンで
-いる時は、銃を握っても向けられても
-発作は起きなかった
+And in a way, it did. As Sinon,
+when I'm holding a gun or facing
+one, I can handle it.
 Shino
 33006_19_a
-新川くんに勧められて
-GGOを始めたのも、
-一種の暴露療法のつもりだった
+One day, Shinkawa told me about
+GGO. I thought it could work as a
+kind of therapy for me.
 Shino
 33006_18_a
-故郷から遠く離れた
-東京の学校に進学しても、
-症状はほとんど改善しなかった
+I came to Tokyo for high school,
+thinking if I got far enough from
+home, it'd help. But it didn't.
 Shino
 33006_17_a
-郵便局での事件以来、私は銃の写真や
-映像を見ただけで、状況結合性の
-パニック発作を起こすようになった
+Ever since that day, whenever I
+see a gun, I freak out. Even just
+a picture gives me a panic attack.
 Shino
 33006_16_a
 bg_s2_02_shino_home
+...
 Shino
 33006_15_a
 still_s2_03_0081
-リンク・スタート
+Link Start!
 Kazuto
 33006_14_a
 still_s2_03_0079
-えと、それじゃあ……
-行ってきます
+Well, here goes.
+Wish me luck.
 Kazuto
 33006_13_a
 still_s2_03_0080
-よし、これでOK……っと
+There. You're good to go.
+Aki
 33006_12_a
 still_s2_03_0076
 Kazuto
 33006_11_a
 still_s2_03_0074
-電極、貼るから
-どうせ入院中に全部
-見ちゃったんだから
+For the electrodes? Oh, don't be
+shy. I've seen all your goodies
+before.
+Aki
 33006_10_a
 still_s2_03_0076
-は……はい!?
+Wh-Why?!
 Kazuto
 33006_9_a
 still_s2_03_0076
-じゃあ脱いで、桐ヶ谷君
+Okay, hot stuff! Strip!
+Aki
 33006_8_a
 still_s2_03_0074
-GGOにログインしている間の
-モニターチェックを菊岡に
-依頼されたらしい
-和人M
+(Apparently, Kikuoka asked her to
+keep an eye on my monitors while
+I dive into GGO.)
+Kazuto
 33006_7_a
 still_s2_03_0074
-安岐ナースは、
-リハビリの間お世話になった
-女性看護師だ
-和人M
+(Aki was the nurse in charge of my
+rehab after SAO.)
+Kazuto
 33006_6_a
 still_s2_03_0073
-あ……ど、どうも、
-ご無沙汰してます、
-安岐さん
+Huh?! Er... Hi, Ms. Aki...
+It's nice to see you again.
 Kazuto
 33006_5_a
 still_s2_03_0073
-おっす! 桐ヶ谷君、お久しぶり!
+What's going on, Kirigaya?
+Aki
 33006_4_a
 still_s2_03_0064
-しかし、残り1％の可能性が、
-俺の足をこの場所に向けた
+But there's still that 1% chance
+it could be true. That's why I'm
+here.
 Kazuto
 33006_3_a
 still_s2_03_0063
-仮想世界から、
-現実の人間に死をもたらす
-そんなことが可能とは信じられない
+You can't kill someone in the real
+world from the virtual anymore.
+I know that's impossible.
 Kazuto
 33006_2_a
 still_s2_03_0063
-《デスガン》の話は、
-99％まで噂の産物だろうと
-俺も思っている
+I'm 99% sure the Death Gun story's
+a hoax. Probably someone trolling.
 Kazuto
 33006_1_a
-《ガンゲイル・オンライン》って
-ゲームの内情を、ちょっと
-リサーチするだけなんだからさ
+I'll just dive into Gun Gale
+Online for a couple days, see
+what's going on, and that's that.
 Kirito
 33005_8_a
-もちろん
-すぐにALOに戻るよ
+Don't worry. I'll be back in ALO
+before you know it.
 Kirito
 33005_7_a
-できるだけ、早く帰ってきてね
-わたしたちの家は、
-たった一箇所なんだからね
+Just get back as soon as you can.
+This is our home, and it's not the
+same without you.
 Asuna
 33005_6_a
-菊岡さんの頼み事……なら、
-仕方ないのかもしれないけど……
+I guess if Mr. Kikuoka is asking
+you to, you can't say no.
 Asuna
 33005_5_a
-ちょっと訳ありで、
-他のVRMMOの様子見を
-しなきゃいけなくなって……
+See, there's this other VRMMO I
+need to check out. It's a favor
+for that guy from the government.
 Kirito
 33005_4_a
-ち、違う違う!
-ほんの数日だよ
-じ、実は……
+N-No! I'll just be gone for a
+couple of days! I'll convert
+back after that.
 Kirito
 33005_3_a
 Kirito
 33005_2_a
 bg_event_alne_field
-……え、えええ!?
-き……キリトくん、
-ALO辞めちゃうの……!?
+W-Wait, what?! You're kidding!
+You're quitting ALO?!
 Asuna
 33005_1_a
 still_s2_03_0059
-たすけて……
+Save me...
 Shino
 33004_6_a
 still_s2_03_0059
-助けて……誰か……
+Somebody... Anybody...
 Shino
 33004_5_a
 still_s2_03_0058
-……ひどい顔……
+sigh
+... I look awful...
 Shino
 33004_4_a
 still_s2_03_0057
-うぇ……っ
+Ulp... 
+blargh
 Shino
 33004_3_a
 still_s2_03_0056
-う……っ
+Ungh... Grk...
 Shino
 33004_2_a
 still_s2_03_0055
-あああああ……!!
+AHHhHhHHrHhhHHhgrh!!
 Shino
 33004_1_a
 still_s2_03_0054
-ヒッ……
+Ah...
 Shino
 33003_22_a
 still_s2_03_0053
-……!!
+Huh...?
 Shino
 33003_21_a
 still_s2_03_0051
-……お、おかあさ……ん……?
+M-Mommy...?
 Shino
 33003_20_a
 still_s2_03_0050
-……っ!!
+Hnngh...!
 Man
 33003_19_a
 still_s2_03_0049
-こ……こないで!!
+Stay away!!
 Shino
 33003_18_a
 still_s2_03_0045
-あぁ……ああぁぁ!!
-俺を撃ちやがったな……
-このおおおおおおお!!!
+Nrgh?! GRARGGHHH!
+She shot me!!
 Man
 33003_17_a
 still_s2_03_0043
-!!!
+Eek!
 Shino
 33003_16_a
 still_s2_03_0043
-返せ!!
-このガキぃ!! 
+You little...! Give it back, you
+brat! Let go! Let go of my gun!
 Man
 33003_15_a
 still_s2_03_0042
-拳銃が落ちた……!!
+(He dropped the gun!!)
 Shino
 33003_14_a
 still_s2_03_0041
-あぁぁ!?
-痛ぇっ
+Ahh! That hurt!
 Man
 33003_13_a
 still_s2_03_0041
-ウッ!!
+Ungh!
 Shino
 33003_12_a
 still_s2_03_0038
-（わ、わたしがお母さんを
-守らないと……!!）
+(I-I have to save Mom!!)
 Shino
 33003_11_a
 still_s2_03_0038
-早くしねえともう一人撃つぞ!!
-撃つぞォォォ!!
+Give me the money now, or I'm
+gonna kill her next! I swear I'll
+do it!
 Man
 33003_10_a
 still_s2_03_0038
-詩乃の母親
+Ahh!
+Shino's Mother
 33003_9_a
 still_s2_03_0038
-おい、お前!
-こっちに来て金を詰めろ!!
+Let's go! Fill it up, or you get
+it too!
 Man
 33003_8_a
 still_s2_03_0037
-ボタンを押すなと言ったろうがぁ!!
+I told him not to!
+You heard me!
 Man
 33003_7_a
 still_s2_03_0037
+...?!
 Shino
 33003_6_a
 still_s2_03_0037
-この鞄に、金を入れろ!
-警報ボタンを押すなよ!
+Put the money in the bag,
+goddammit! And don't hit
+the alarm, or else!
 Man
 33003_5_a
 still_s2_03_0032
-だがその平穏は、
-唐突に破られることになる
+And then, one day, that peace was
+shattered.
 Shino
 33003_4_a
 still_s2_03_0032
-事故の後、母と私は東京を出て
-母方の実家に身を寄せていた
-そこで平穏な日々を送っていた
+After the accident, my mom and I
+left Tokyo to live with her
+parents. It was peaceful there.
 Shino
 33003_3_a
 still_s2_03_0031
-私がまだ二歳にもならない頃に、
-交通事故で他界したと聞いている
+I remember hearing he died in a
+car accident, though, some time
+before I turned two.
 Shino
 33003_2_a
 still_s2_03_0031
-私は父親の顔を知らない
+I don't remember what Dad looked
+like.
 Shino
 33003_1_a
 still_s2_03_0016
-よろしい
+Roger that, hehe!
 Shino
 33002_20_a
 still_s2_03_0015
-大丈夫、順位は
-学校行ってた頃を維持してるよ
-問題ありません、教官どの
+It's going great! I'm keeping the
+same rank I had at school. Staying
+sharp, ma'am, locked and loaded!
+Kyouji
 33002_19_a
-模試とかどう?
+Well... What about cram school?
+Is that going okay?
 Shino
 33002_18_a
-うち、病院だからね
+Yeah, it is the family business.
+Kyouji
 33002_17_a
-そう……まあ、勉強もあるもんね
-医学部受けるんだっけ?
+Oh... Hmm... Hey, how are your
+studies coming along? You still
+want to be a doctor?
 Shino
 33002_16_a
-……うん
-出ても、無駄だからさ
+Nah. No point.
+I'll just die.
+Kyouji
 33002_15_a
-じゃあ、新川くんは次のBoBには
-エントリーしないの?
+Don't get so down about that
+stuff. Sign up for BoB and see
+what happens!
 Shino
 33002_14_a
-いや、AGI型じゃあ、よっぽどすごい
-レア銃でもないと、もう限界だよ
-ステ振り、間違ったなぁ……
+Ugh, whatever. An AGI build only
+gets you so far. A good gun helps
+too, but I spent my points wrong.
+Kyouji
 33002_13_a
-……そんなことないよ
-新川くんだって、前の予選じゃあ
-準決勝まで進んだじゃない
+That is so not true! In the last
+qualifier, you made it all the way
+to the semi-finals, remember?
 Shino
 33002_12_a
-そっかぁ……
-凄いな、僕がGGOに誘ったのに、
-すっかり置いていかれちゃったな
+Man... Asada, you're amazing.
+I'm the one who got you into GGO,
+but I've been totally left behind.
+Kyouji
 33002_11_a
-(敵を全て撃ち倒して
-私が最強だと確信できれば
-その時にはきっと……)
+(If I can take out all my enemies
+and prove I'm the strongest,
+I'll be free.)
 Shino
 33002_10_a
-……上位入賞を狙ってみる
+...I-I mean, crack the higher
+ranks.
 Shino
 33002_9_a
-出るよ、勿論
-今度はヘカートを持っていくつもり
-次こそは、全員殺……
+I'm definitely entering. I've got
+my Hecate now. With her in my
+hands, I'm sure I can kill...
 Shino
 33002_8_a
-ちぇ、ゼイタクな悩みだなあ
-……で、次のBoBはどうするの?
+Man, wish I had problems like
+that... So, what are your plans
+for the next BoB?
+Kyouji
 33002_7_a
-私のヘカートだって反則って言われてる
-使うほうにしてみれば、
-それなりに色々苦労はあるんだけどね
+Don't forget some people think my
+Hecate's a cheat too. It does have
+its own special problems, though.
 Shino
 33002_6_a
-反則だよ、あんな武器
+Ugh. Miniguns should be banned.
+Kyouji
 33002_5_a
-でも、凄いよ
-《ベヒモス》は集団戦で死んだことが
-ないって言われてたんだからさ
+You were rad, though! That Behemoth
+guy was kinda a legend 'cause he
+never bought it in a squad fight.
+Kyouji
 33002_4_a
-作戦的には失敗だったわ
-こっちのスコードロンは六人中
-四人もやられたんだから
+Yeah, but for a strategy, it was a
+fail. I mean, we started the op
+with six, and lost four.
 Shino
 33002_3_a
 Shino
 33002_2_a
 bg_os_cafe
-聞いたよ、一昨日の話
-大活躍だったんだって?
+So... I heard what happened the
+other day. You went on quite the
+rampage.
+Kyouji
 33002_1_a
 still_s2_03_0012
-……大丈夫
-ありがとう、新川くん
+Yeah... I am now.
+Thanks, Shinkawa.
 Shino
 33001_18_a
 still_s2_03_0012
-ハッ、ハッ…ハーッ……
-…………ハーッ
+pant
+pant
+...
+whimper
+...
 Shino
 33001_17_a
 Shino
 33001_16_a
 still_s2_03_0012
-……大丈夫、朝田さん?
+Asada? Are you okay?
+Kyouji
 33001_15_a
 still_s2_03_0010
-行くよっ
+Damn!
+Let's go!
+Endo
 33001_14_a
 still_s2_03_0010
-こっちです!
-お巡りさん、早く!!
+Officer! A girl's getting mugged
+in the alley! Hurry!
 ???
 33001_13_a
 still_s2_03_0009
-……グッ(声が……でない……!!)
+whimper
+(Someone...help me!)
 Shino
 33001_12_a
 still_s2_03_0009
-兄貴がモデルガン何個か持ってんだよ
-今度、学校で見せてやろうかぁ
-お前好きだろ、ピ・ス・ト・ル
+Hmm. Maybe I'll bring my brother's
+model guns to class. I know you
+like them. Especially pistols.
+Endo
 33001_11_a
 still_s2_03_0009
-クッフ……、なぁ、朝田ぁ
+Hehe. Aww, poor Asada.
+Endo
 33001_10_a
 still_s2_03_0007
+Ahhh!!
 Shino
 33001_9_a
 still_s2_03_0006
-ばぁん!
+Bang.
+Endo
 33001_8_a
 still_s2_03_0006
-(指で……ピストルを……!)
+gasp
+! (Her hand...
+looks like a pistol!)
 Shino
 33001_7_a
 still_s2_03_0006
-……くくっ
+Heh. Hehehe...
+Endo
 33001_6_a
 still_s2_03_0004
-もう行くから、そこをどいて
+Get out of the way, I want to go.
 Shino
 33001_5_a
 still_s2_03_0004
-てめぇ……ナメてんじゃねえぞ
+Fine.
+We'll do this the hard way.
+Endo
 33001_4_a
 still_s2_03_0003
-……一万円?
-そんなに持ってるわけない
-あなたにお金を貸す気はない
+Ten thousand? I don't have that
+much on me. And no. I'm not
+giving you guys any money.
 Shino
 33001_3_a
 still_s2_03_0003
-わり、朝田
-あたしら電車代なくなっちゃったぁ
-明日返すからさ、こんだけ貸して
+I need a favor. We don't have
+enough cash for the train. We'll
+need ten, but we'll pay you back.
+Endo
 33001_2_a
 still_s2_03_0003
 bg_os_town_1
-おい、さっさと歩けよ！
-女子高生
+Move. Quit dragging your feet!
+Girl
 33001_1_a
 still_s2_02_0099
 Asuna...
@@ -194854,13 +194912,14 @@ Leafa
 It's not fair, dammit...
 Liz
 32014_20_a
-リーファ
+Leafa
 32014_19_a_2
+Liz
 32014_19_a_1
 They're so into each other...
 Silica
 32014_19_a
-アスナ
+Asuna
 32014_18_a_1
 ...
 Kirito
@@ -195422,10 +195481,10 @@ still_s2_01_0077
 Sinon
 32003_10_a
 still_s2_01_0077
-(1,500 meters?
+1,500 meters?
 That's nothing
 like tossing a wad
-of paper into a trash can.)
+of paper into a trash can.
 Sinon
 32003_9_a
 still_s2_01_0077
@@ -195729,10 +195788,10 @@ still_s2_01_0081
 Sinon
 31002_39_a
 still_s2_01_0079
-(1,500 meters?
+1,500 meters?
 That's nothing
 like tossing a wad
-of paper into a trash can.)
+of paper into a trash can.
 Sinon
 31002_38_a
 still_s2_01_0077
@@ -196064,23 +196123,23 @@ XeXeed
 still_s2_01_0004
 If I were you, I wouldn't chock
 my wins up to my status type.
-???
+Yamikaze
 31001_14_a
 still_s2_01_0005
 The BoB is a solo journey, so it's
 way different. What worked for
 you before might not work again.
-???
+Yamikaze
 31001_13_a
 still_s2_01_0005
 It won't be that easy, XeXeed.
-???
+Yamikaze
 31001_12_a
 still_s2_01_0005
 Damn right, honey. I wouldn't
 be in it if I didn't think I can
 win it.
-???
+XeXeed
 31001_11_a
 still_s2_01_0004
 Oh please. So, do you think you
@@ -196092,7 +196151,7 @@ still_s2_01_0004
 I guess. But who knows if I'll be
 on MMO Stream again, so...
 might as well stir things up.
-???
+XeXeed
 31001_9_a
 still_s2_01_0004
 one of the most challenging
@@ -196108,31 +196167,31 @@ Moderator
 still_s2_01_0003
 Sucks to be you right now,
 don't it?
-???
+XeXeed
 31001_6_a
 still_s2_01_0002
 In fact, I got a message for the
 folks who spent the last eight
 months indoors boosting their AGI.
-???
+XeXeed
 31001_5_a
 still_s2_01_0002
 you could be the best. Till now,
 that is. Yeah, hate to say it, but
 it don't work like that anymore.
-???
+XeXeed
 31001_4_a
 still_s2_01_0002
 I mean, sure, firing speed and
 evasion are important, and if
 you rocked those two things,
-???
+XeXeed
 31001_3_a
 still_s2_01_0001
 These players who think it's all
 about their agility? Hah! Man,
 they're all living in a dream.
-???
+XeXeed
 31001_2_a
 still_s2_01_0000
 Inside GGO

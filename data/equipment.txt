@@ -1003,6 +1003,15 @@ TBD
 Sandstorm Garb R2
 armor01_0035
 TBD
+Battle Fur Coat R4
+armor01_0033
+TBD
+Battle Fur Coat R3
+armor01_0033
+TBD
+Battle Fur Coat R2
+armor01_0033
+TBD
 Blazing Plate R4
 armor01_0032
 TBD

@@ -901,23 +901,23 @@ Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
 T4-
-4703024,1,180
-Complete "One Lap Behind (Dark) (Master +1)" with a 180 sec remaining time.
+4703024,1,270
+Complete "One Lap Behind (Dark) (Master +1)" with a 4 min 30 sec remaining time.
 T3-
-4703023,1,180
-Complete "One Lap Behind (Holy) (Master +1)" with a 180 sec remaining time.
-T2-
-4703024,1,210
-Complete "One Lap Behind (Dark) (Master +1)" with a 210 sec remaining time.
-T1-
 4703023,1,210
-Complete "One Lap Behind (Holy) (Master +1)" with a 210 sec remaining time.
+Complete "One Lap Behind (Holy) (Master +1)" with a 3 min 30 sec remaining time.
+T2-
+4703024,1,220
+Complete "One Lap Behind (Dark) (Master +1)" with a 3 min 40 sec remaining time.
+T1-
+4703023,1,200
+Complete "One Lap Behind (Holy) (Master +1)" with a 3 min 20 sec remaining time.
 T0-
-4703022,1,210
-Complete "One Lap Behind (Dark) (Master)" with a 210 sec remaining time.
+4703022,1,220
+Complete "One Lap Behind (Dark) (Master)" with a 3 min 40 sec remaining time.
 T/-
-4703021,1,210
-Complete "One Lap Behind (Holy) (Master)" with a 210 sec remaining time.
+4703021,1,200
+Complete "One Lap Behind (Holy) (Master)" with a 3 min 20 sec remaining time.
 T.-
 4703016,1,270
 Complete "One Lap Behind (Earth) (Master +1)" with a 4 min 30 sec remaining time.
@@ -1050,6 +1050,84 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+Hx9
+4079005,2,60
+Complete "Fierce Fight in Sand (Master +1)" with guild members in Multi in under 1 min.
+Iw9
+4079005,2,50
+Complete "Fierce Fight in Sand (Master +1)" with guild members in Multi, achieving a 50+ hit combo.
+Jv9
+2110017-2110018-2110019-2110020-2110021,50
+Win 50 times [Foxy Priestess] Silica in the guild. 
+Ju9
+2110017-2110018-2110019-2110020-2110021,80
+Win 80 times [Foxy Priestess] Silica in the guild. 
+>t9
+4079005,2,50
+Complete "Fierce Fight in Sand (Master +1)" with a 50-hit combo or higher.
+4079005,2,45
+Complete "Fierce Fight in Sand (Master +1)" in under 45 sec.
+<r9
+4079005,2,5,2
+Complete "Fierce Fight in Sand (Master +1)" with at least two mace characters.
+<q9
+4079005,2,4,1
+Complete "Fierce Fight in Sand (Master +1)" with a dagger character.
+<p9
+4079005,2,8,1
+Complete "Fierce Fight in Sand (Master +1)" with a rod character.
+Bo9
+4079005,2
+Complete "Fierce Fight in Sand (Master +1)" without being parried except for ranged attacks.
++n9
+4079005,2
+Complete "Fierce Fight in Sand (Master +1)" without down.
+<m9
+4079005,2,3,2
+Complete "Fierce Fight in Sand (Master +1)" with at least two rapier characters.
+<l9
+4079005,2,7,1
+Complete "Fierce Fight in Sand (Master +1)" with a bow character.
+<k9
+4079005,2,9,1
+Complete "Fierce Fight in Sand (Master +1)" with a lance character.
+4079005,2,60
+Complete "Fierce Fight in Sand (Master +1)" in under 1 min.
+/i9
+4079005
+Complete "Fierce Fight in Sand (Master +1)".
+>h9
+4079004,1,30
+Complete "Fierce Fight in Sand (Master)" with a 30-hit combo or higher.
+4079004,1,60
+Complete "Fierce Fight in Sand (Master)" in under 1 min.
++f9
+4079004,1
+Complete "Fierce Fight in Sand (Master)" without down.
+4079004,1,6
+Parry 6 times and successfully complete "Fierce Fight in Sand (Master)".
+Bd9
+4079004,1
+Complete "Fierce Fight in Sand (Master)" without being parried except for ranged attacks.
++c9
+4079003,1
+Complete "Fierce Fight in Sand (EX)" without down.
++b9
+4079002,1
+Complete "Fierce Fight in Sand (Expert)" without down.
++a9
+4079001,1
+Complete "Fierce Fight in Sand (Int.)" without down.
+4079004
+Complete "Fierce Fight in Sand (Master)".
+/_9
+4079003
+Complete "Fierce Fight in Sand (EX)".
+4079002
+Complete "Fierce Fight in Sand (Expert)".
+/]9
+4079001
+Complete "Fierce Fight in Sand (Int.)".
 4077026,1,100
 Complete "Inherited Tradition - A Priest's Will (Master+2)" with a 100-hit combo or more.
 4077026,1

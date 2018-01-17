@@ -30,9 +30,9 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
-逆襲のお祭りコボルトロード
+Festival Kobold Returns
 Equip Event
-Priestess Equipment Creation
+Kidnap Gang Returns
 Equip Event
 New Year Fore-end Equipment Creation
 Equip Event
@@ -158,6 +158,8 @@ NICONICO USE
 Test Event
 TEST USE
 Test
+Dragons' Den
+Event
 The Order of the Immortal
 Event
 The Beast Lords in League
@@ -179,13 +181,14 @@ Event
 Breakthrough in Sand
 Event
 Event
-荒野に咲く花々
+Flowers in the Wilderness
 Event
 Fierce Fight in Sand
 Event
+Circus 2018.2
+Event
 Inherited Tradition - A priests will
 Event
-燃える純真!! バレンタイン・ウォーズ
 Event
 Mochi Mochi Panic! Mochi Pounding Party
 Event
