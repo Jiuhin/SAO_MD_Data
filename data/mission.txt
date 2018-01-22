@@ -1161,7 +1161,7 @@ Complete "Mochi Mochi Panic! (Master)" with a sword character.
 4075025,2
 Complete "Mochi Mochi Panic! (Master +1)" without down.
 4075025,2,45
-Complete "Mochi Mochi Panic! (Master +1)" under 45 Sec.
+Complete "Mochi Mochi Panic! (Master +1)" in under 45 Sec.
 4075025,2,60
 Complete "Mochi Mochi Panic! (Master +1)" in under 1min.
 4075025

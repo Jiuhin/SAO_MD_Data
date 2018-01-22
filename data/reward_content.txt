@@ -1,40 +1,47 @@
-D}	
-d{	
-lz	
-hx	
-Hw	
-Dv	
-xt	
-4s	
-Pr	
-Tp	
-Xl	
-,g	
-Df	
-4c	
-xa	
-x]	
-8Y	
-hV	
-HR	
-LP	
-8M	
-HH	
-0B	
-x>	
-0>	
-l<	
-0:	
-$5	
-,)	
-,(	
-L'	
-p&	
-x$	
-t"	
-d!	
-P 	
-l		
+H}	
+l{	
+xz	
+0z	
+Py	
+xx	
+0x	
+Xu	
+Pt	
+dq	
+Lo	
+hn	
+dm	
+Ti	
+Hf	
+pd	
+8c	
+<_	
+([	
+XU	
+LR	
+0K	
+tG	
+PF	
+pD	
+(D	
+X9	
+T8	
+d7	
+x6	
+T3	
+01	
+$,	
+8)	
+<(	
+X'	
+l%	
+L"	
+t!	
+0!	
+h 	
+$ 	
+x		
+0		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -1286,6 +1293,8 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+,G6
+Assault Team Record Crystal x10
 u,G6
 [Splash in Dirndl] Leafa
 ,G6

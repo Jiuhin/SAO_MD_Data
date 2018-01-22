@@ -255,10 +255,10 @@ Critical (with Skills)
 Increases critical damage vs Non-elem. enemies by 5%
 Crit. Damage + 5% (vs. Non-elem.)
 Decreases Required MP of the party by 5% in the next Guild Event.
-Required MP DOWN in Next Guild Event
+Required MP Down in Next Guild Event
 )Am
 Decreases Required MP of the party by 10% in the next Guild Event.
-Required MP DOWN in Next Guild Event
+Required MP Down in Next Guild Event
 (Am
 Increases MP Recovery of the party by 50 in the next Guild Event.
 MP Recovery UP in Next Guild Event
@@ -466,6 +466,9 @@ Increases Attack for 30-hit+ combos by 6%. (vs. Earth-elem.)
 /mk
 Increases Attack for 30-hit+ combos by 6%. (vs. Water-elem.)
 30+ Combo: Attack +6% (vs. Water)
+.mk
+30コンボ以上で火属性の敵に攻撃力が6%増加する
+30コンボ以上で対火属性の攻撃+6%
 -mk
 Survive a fatal damage with HP1% just once
 Fatal Damage Resistance

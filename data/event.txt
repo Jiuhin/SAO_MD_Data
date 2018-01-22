@@ -526,6 +526,14 @@ images/event/4701/4701_top.png
 images/event/4701/4701_banner.png
 images/event/4701/4701_banner.png
 Breakthrough in Sand
+images/event/dummy/dummy_top.png
+images/event/dummy/dummy_banner.png
+images/event/dummy/dummy_banner.png
+[Ended] Bullet of Bullets
+images/event/dummy/dummy_top.png
+images/event/dummy/dummy_banner.png
+images/event/dummy/dummy_banner.png
+Bullet of Bullets
 images/event/4079/4079_top.png
 images/event/4079/4079_banner.png
 images/event/4079/4079_banner.png

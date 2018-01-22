@@ -30,7 +30,7 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
-逆襲のガードルフ
+Guardolf Returns
 Equip Event
 Festival Kobold Returns
 Equip Event
@@ -182,12 +182,13 @@ The Archenemy
 Event
 Breakthrough in Sand
 Event
+Bullet of Bullets
 Event
 Flowers in the Wilderness
 Event
 Fierce Fight in Sand
 Event
-Circus 2018.2
+A Dark Plot Against Fliers
 Event
 Inherited Tradition - A priests will
 Event

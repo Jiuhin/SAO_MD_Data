@@ -35,6 +35,10 @@ Replenish your party's HP and temporarily increase both your defense and that of
 Protection
 Protection+
 skill_icon_bow_3_{}
+A sword skill. Shoots arrows towards the sky and shower them with the arrows. Restores your HP. Reduces incoming damage for a certain amount of time. 
+Graceful Wind+
+Graceful Wind+
+skill_icon_bow_3_{}
 Appears behind the enemy and attacks using her equipment as a whip. Activates an attack-invalidating barrier. Increases own attack and speed.
 Shining on Stage+
 Shining on Stage+
@@ -728,6 +732,10 @@ A low-level fire spell. Fire a small fireball at a target.
 Fireball
 Fireball
 skill_icon_bow_3_{}
+A sword skill. Shoots arrows towards the sky and shower them with the arrows. Restores your HP.
+Graceful Wind
+Graceful Wind
+skill_icon_bow_3_{}
 A combination skill. Activate a damage canceling barrier and shoot fire arrows. Explodes with New Year dance. 
 Early Spring Fan
 Early Spring Fan
@@ -895,6 +903,10 @@ skill_icon_bow_1_{}
 A sword skill for the long bow. Fire a flaming arrow that explodes on impact.
 Explode Arrow
 Explode Arrow
+skill_icon_gun_3_{}
+A combination skill. After shooting a gun, jump high up to fire a fatal shot. Recover your combination partner's MP.
+The End
+The End
 skill_icon_gun_3_{}
 After shooting a gun, hurl a grenade. Then fire a fatal shot. A combination skill that increase all the party members' critical.
 All Ignite
@@ -2740,6 +2752,10 @@ skill_icon_sword_1_{}
 A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
+skill_icon_sword_3_{}
+A combination skill. Move to the back of an enemy and perform combo attacks while dancing wildly. Recover your combination partner's MP.
+Skewed Square
+Skewed Square
 skill_icon_sword_3_{}
 A sword skill. Slash through an enemy's back and cause to burst. Restores your HP. 
 Shuntou Yoruhiraki
