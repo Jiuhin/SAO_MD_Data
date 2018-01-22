@@ -1,44 +1,40 @@
-L}	
-p{	
-4z	
-Ty	
-4x	
-Tt	
-hq	
-Po	
-ln	
-hm	
-Xi	
-Lf	
-de	
-td	
-<c	
-,[	
-dX	
-PR	
-DO	
-dL	
-4K	
-xG	
-TF	
-tD	
-,D	
-D>	
-X8	
-h7	
-X3	
-41	
-$-	
-(,	
-<)	
-p%	
-$%	
-P"	
-x!	
-4!	
-l 	
-( 	
-4		
+D}	
+d{	
+lz	
+hx	
+Hw	
+Dv	
+xt	
+4s	
+Pr	
+Tp	
+Xl	
+,g	
+Df	
+4c	
+xa	
+x]	
+8Y	
+hV	
+HR	
+LP	
+8M	
+HH	
+0B	
+x>	
+0>	
+l<	
+0:	
+$5	
+,)	
+,(	
+L'	
+p&	
+x$	
+t"	
+d!	
+P 	
+l		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -606,7 +602,6 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
-Master Smith's Puff Sleeves R4
 9UI
 Priestess Hairpin R3
 Priestess Hairpin R2

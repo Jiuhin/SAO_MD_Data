@@ -4639,7 +4639,8 @@ Quest 1-1
 Breakthrough in Sand (Expert)
 Fight a battle again with Foxy Silica 
 in a priestess costume!
-Beat up Silica and Pina with your friends and win the battle!
+Beat up Silica and Pina with 
+your friends and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003
@@ -16003,7 +16004,8 @@ Quest 1-1
 Breakthrough in Sand (Expert)
 Fight a battle again with Foxy Silica 
 in a priestess costume!
-Beat up Silica and Pina with your friends and win the battle!
+Beat up Silica and Pina with 
+your friends and win the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_8003

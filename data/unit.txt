@@ -88,6 +88,10 @@ head
 weapon
 enemy_301_kagachi_the_samurai_lord
 enemy_301_kagachi_the_samurai_lord
+enemy_219_drone_gunner
+body
+enemy_219_drone_gunner
+enemy_219_drone_gunner
 enemy_218_demon_effect
 enemy_218_demon
 head

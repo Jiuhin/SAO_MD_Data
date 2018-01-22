@@ -13,6 +13,7 @@ effect_1033_shoot_the_grenade_s
 effect_1029_thousand_rain_s
 ?!3
 effect_1011_multiple_chaser_s
+effect_status_06
 effect_appear_05_s
 effect_status_06
 effect_appear_01_short
@@ -160,6 +161,7 @@ effect_chargeattack_02
 effect_damage_01_polygon_s
 effect_damage_01_slash_s
 effect_parry_01_s
+effect_target_sign_04
 effect_roar_01
 effect_roar_02
 effect_earch_appear_01_s

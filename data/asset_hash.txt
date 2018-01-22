@@ -934,6 +934,8 @@ e8d35634d29b482c471876d8656509c2
 ss/unit/chara_1_sword_m/skill_effect_sword_1.png
 021eea1a5f57e212483816c0ef16d504
 ss/unit/chara_1_sword_m/skill_effect_sword_0.png
+8d266aa74df2f6424ae3b3584038b023
+ss/unit/chara_1_sword_m/skill_effect_14125.png
 b9efc5d9983d9c9d39f7e278dc1c78b0
 ss/unit/chara_1_sword_m/skill_effect_14123.png
 27380e2288eefb0d6ce1aa6e16471586
@@ -2260,9 +2262,13 @@ b7d2326211bacd7b02605c996c168f0b
 images/lottery/049/20491_scout_top_s.png
 37bd1a03fbd79cbc78fc17c612b289b3
 images/lottery/049/20491_scout_banner.png
-bf7651a42cd33268b0bf08e6ed85bf0f
+1178f74169a355cbe37ce1e5a9f64f1b
+images/lottery/049/10493_weapon_top_s.png
+588dff9f71532b692dca05e2c900e928
+images/lottery/049/10493_weapon_banner.png
+1178f74169a355cbe37ce1e5a9f64f1b
 images/lottery/049/10491_weapon_top_s.png
-eabc4bbfb454b5c65284077520f1e395
+588dff9f71532b692dca05e2c900e928
 images/lottery/049/10491_weapon_banner.png
 95477a9f512227b5fab255320d5a06b1
 images/lottery/048/20481_scout_top_s.png
@@ -2994,6 +3000,8 @@ f330ff2ed9d95c0e6d14fdbbc632f4ef
 images/event/ranking/badge/image_ranking_badge_02.png
 953e5cda1022836ce210c2b71764f565
 images/event/ranking/badge/image_ranking_badge_01.png
+5d9f2383f2071943b83868b794436300
+images/event/pvp/background_pvp.png
 66d1799fc0751a1d25ba6cedf42f4cea
 images/event/banner/event_quest_banner_m_6.png
 126171a6b0bd32b0bb3dc43a43bc885f

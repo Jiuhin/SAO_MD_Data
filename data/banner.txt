@@ -248,7 +248,6 @@ images/lottery/051/20513_scout_banner.png
 images/lottery/051/20512_scout_banner.png
 images/lottery/051/20511_scout_banner.png
 images/lottery/050/20501_scout_banner.png
-images/lottery/049/20491_scout_banner.png
 images/lottery/048/20481_scout_banner.png
 images/lottery/046/20463_scout_banner.png
 images/lottery/046/20462_scout_banner.png
@@ -364,7 +363,6 @@ images/lottery/055/10551_weapon_banner.png
 images/lottery/053/10531_weapon_banner.png
 images/lottery/052/10521_weapon_banner.png
 images/lottery/051/10511_weapon_banner.png
-images/lottery/049/10491_weapon_banner.png
 images/lottery/048/10481_weapon_banner.png
 images/lottery/046/10461_weapon_banner.png
 images/lottery/045/10451_weapon_banner.png
