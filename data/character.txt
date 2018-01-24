@@ -1,16 +1,21 @@
-ll9
-x-7
-Dy3
-hP3
-ta0
-HH/
-(%,
-h"'
-XO&
-,E%
-TA$
-Xk!
-hA 
+lW<
+Xa:
+x"9
+<a8
+H:8
+,u7
+8L7
+H_6
+d%3
+TU.
+L0.
+X	.
+Lm-
+p$,
+LO'
+Dx&
+tD%
+P}$
 P&	
 walk
 wakeup
@@ -532,8 +537,8 @@ wakeup
 wait
 stun
 step
-zDR
 skill_16310101
+zDP
 skill_163101
 skill_161201
 skill_161102
@@ -549,7 +554,6 @@ dead
 dash
 damage
 charge_old
-"Dz
 charge
 back_step
 attack_3
@@ -626,6 +630,7 @@ wait
 stun
 step
 m5	
+HD(O
 skill_103125
 skill_102202
 skill_101101
@@ -712,7 +717,6 @@ wakeup
 wait
 stun
 step
-HDZ
 skill_103122
 skill_102201
 skill_101101
@@ -1520,6 +1524,7 @@ stun
 step
 skill_2313001
 	5	
+zDV"
 skill_23130
 skill_22202
 skill_21101
@@ -2532,8 +2537,8 @@ wakeup
 wait
 stun
 step
+HD6U
 skill_18310101
-HD"Y
 skill_183101
 skill_182101
 skill_181101
@@ -2720,7 +2725,9 @@ down
 dead
 dash
 damage
+"DZ
 charge_old
+"DF
 charge
 back_step
 attack_3
@@ -2765,6 +2772,7 @@ dead
 dash
 damage
 charge_old
+"Dz.
 charge
 back_step
 attack_3
@@ -2810,7 +2818,9 @@ down
 dead
 dash
 damage
+"DBQ
 charge_old
+"D.S
 charge
 back_step
 attack_3
@@ -2841,7 +2851,7 @@ wakeup
 wait
 stun
 step
-Dva
+D8c
 skill_164101
 skill_161201
 skill_161102
@@ -2856,9 +2866,7 @@ down
 dead
 dash
 damage
-"Dvs
 charge_old
-"Dbu
 charge
 back_step
 attack_3
@@ -2902,8 +2910,8 @@ down
 dead
 dash
 damage
+"D"
 charge_old
-"Dj
 charge
 back_step
 attack_3
@@ -2992,7 +3000,9 @@ down
 dead
 dash
 damage
+"D:
 charge_old
+"D&
 charge
 back_step
 attack_3
@@ -3038,7 +3048,9 @@ down
 dead
 dash
 damage
+"Dj
 charge_old
+"DV
 charge
 back_step
 attack_3
@@ -3126,8 +3138,8 @@ down
 dead
 dash
 damage
+"D.X
 charge_old
-"DvY
 charge
 back_step
 attack_3
@@ -3158,6 +3170,7 @@ wait
 stun
 step
 r,	
+zD<B
 skill_163101
 skill_161201
 skill_161102
@@ -3172,8 +3185,8 @@ down
 dead
 dash
 damage
+"D2{
 charge_old
-"Dz
 charge
 back_step
 attack_3
@@ -3203,7 +3216,9 @@ wakeup
 wait
 stun
 step
+zDv
 skill_16310301
+zDF
 skill_163103
 skill_161201
 skill_161102
@@ -3263,9 +3278,7 @@ down
 dead
 dash
 damage
-"Dj
 charge_old
-"DV
 charge
 back_step
 attack_3
@@ -3309,9 +3322,7 @@ down
 dead
 dash
 damage
-"DZ
 charge_old
-"DF
 charge
 back_step
 attack_3
@@ -3403,8 +3414,8 @@ down
 dead
 dash
 damage
+"D.6
 charge_old
-"Dv7
 charge
 back_step
 attack_3
@@ -3434,7 +3445,7 @@ wakeup
 wait
 stun
 step
-DDI
+DZN
 skill_163113
 skill_161201
 skill_161102
@@ -3481,7 +3492,6 @@ wait
 stun
 step
 skill_16310101
-zDXN
 skill_163101
 skill_161201
 skill_161102
@@ -3496,9 +3506,7 @@ down
 dead
 dash
 damage
-"DR
 charge_old
-"D>
 charge
 back_step
 attack_3
@@ -3528,7 +3536,6 @@ wakeup
 wait
 stun
 step
-zDj
 skill_16310101
 skill_163101
 skill_161201
@@ -3544,7 +3551,9 @@ down
 dead
 dash
 damage
+"DZ
 charge_old
+"DF
 charge
 back_step
 attack_3
@@ -3588,7 +3597,6 @@ down
 dead
 dash
 damage
-"D.
 charge_old
 charge
 back_step
@@ -3634,9 +3642,7 @@ down
 dead
 dash
 damage
-"DJ
 charge_old
-"D6
 charge
 back_step
 attack_3
@@ -3681,7 +3687,6 @@ dead
 dash
 damage
 charge_old
-"Dr
 charge
 back_step
 attack_3
@@ -3725,6 +3730,7 @@ down
 dead
 dash
 damage
+"D>3
 charge_old
 charge
 back_step
@@ -3755,7 +3761,6 @@ wakeup
 wait
 stun
 step
-HD2C
 skill_14410501
 skill_144105
 skill_141202
@@ -3792,7 +3797,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_144014
-A Cait Sith in ALO. Sinon, with Leafa, practices the killer move that Asuna developed during the SAO monster conquest quest. Sinon has a hard time because of parrying with arrows but comes up with some idea.
+A Cait Sith in ALO. She is enjoying a walk, wearing a cute armor which is looking like a traditional Korean dress.
 serif
 4_sinon_144014
 Sinon
@@ -3802,6 +3807,7 @@ wakeup
 wait
 stun
 step
+aD q
 skill_144102
 skill_141201
 skill_141101
@@ -3984,7 +3990,6 @@ wait
 stun
 step
 skill_14410501
-HDv
 skill_144105
 skill_141202
 skill_141101
@@ -4020,7 +4025,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_144014
-A Cait Sith in ALO. Sinon, with Leafa, practices the killer move that Asuna developed during the SAO monster conquest quest. Sinon has a hard time because of parrying with arrows but comes up with some idea.
+A Cait Sith in ALO. She is enjoying a walk, wearing a cute armor which is looking like a traditional Korean dress.
 serif
 4_sinon_144014
 Sinon
@@ -4394,6 +4399,7 @@ wakeup
 wait
 stun
 step
+FzZ
 skill_141202
 skill_141201
 skill_141101
@@ -4756,7 +4762,7 @@ wakeup
 wait
 stun
 step
-Dzj
+Dfj
 skill_124102
 skill_121202
 skill_121102
@@ -4846,7 +4852,7 @@ wakeup
 wait
 stun
 step
-zDb
+zDN
 skill_123112
 skill_121202
 skill_121101
@@ -5512,6 +5518,7 @@ wakeup
 wait
 stun
 step
+HDr
 skill_104106
 skill_102201
 skill_101101
@@ -5596,8 +5603,7 @@ wakeup
 wait
 stun
 step
-zD"
-zDR
+zD>
 skill_104101
 skill_102201
 skill_101101
@@ -5683,7 +5689,6 @@ wakeup
 wait
 stun
 step
-zD d
 skill_104102
 skill_102201
 skill_101101
@@ -5937,7 +5942,8 @@ wakeup
 wait
 stun
 step
-CNS
+C:S
+CjS
 skill_103124
 skill_102201
 skill_101101
@@ -12451,7 +12457,7 @@ wakeup
 wait
 stun
 step
-HD6
+HD"
 skill_2412401
 skill_24124
 skill_22102
@@ -12535,6 +12541,7 @@ wakeup
 wait
 stun
 step
+HDz
 skill_24122
 skill_22204
 skill_21201
@@ -12948,6 +12955,7 @@ wait
 stun
 step
 skill_2412401
+HDro
 skill_24124
 skill_22102
 skill_21201
@@ -13238,7 +13246,7 @@ wakeup
 wait
 stun
 step
-HD8
+HD$
 skill_23142
 skill_22102
 skill_21201
@@ -13613,6 +13621,7 @@ stun
 step
 skill_2313001
 	5	
+zDJ
 skill_23130
 skill_22202
 skill_21101
@@ -14278,7 +14287,6 @@ wakeup
 wait
 stun
 step
-HD,
 skill_23107
 skill_22202
 skill_21201

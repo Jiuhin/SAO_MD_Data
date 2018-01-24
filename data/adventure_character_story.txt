@@ -119,6 +119,16 @@ Character Story
 Character Story
 [Realization of Big Wishes] Leafa Lv.10
 Character Story
+[Sacred Dance] Yui Lv.80
+Character Story
+[Sacred Dance] Yui Lv.70
+Character Story
+[Sacred Dance] Yui Lv.50
+Character Story
+[Sacred Dance] Yui Lv.30
+Character Story
+[Sacred Dance] Yui Lv.10
+Character Story
 [Visitor in Snow] Leafa Lv.80
 Character Story
 [Visitor in Snow] Leafa Lv.70
@@ -899,6 +909,26 @@ Character Story
 Character Story
 [The Queen of Hearts] Asuna Lv.10
 Character Story
+[Foxy Shrine Maiden] Asuna Lv.80
+Character Story
+[Foxy Shrine Maiden] Asuna Lv.70
+Character Story
+[Foxy Shrine Maiden] Asuna Lv.50
+Character Story
+[Foxy Shrine Maiden] Asuna Lv.30
+Character Story
+[Foxy Shrine Maiden] Asuna Lv.10
+Character Story
+[Votive Prayers] Asuna Lv.80
+Character Story
+[Votive Prayers] Asuna Lv.70
+Character Story
+[Votive Prayers] Asuna Lv.50
+Character Story
+[Votive Prayers] Asuna Lv.30
+Character Story
+[Votive Prayers] Asuna Lv.10
+Character Story
 [Gift from Santa] Asuna Lv.80
 Character Story
 [Gift from Santa] Asuna Lv.70
@@ -1288,6 +1318,16 @@ Character Story
 [Gorgeous Priestess Costume] Suguha Lv.30
 Character Story
 [Gorgeous Priestess Costume] Suguha Lv.10
+Character Story
+[Ring the Bell] Alice Lv.80
+Character Story
+[Ring the Bell] Alice Lv.70
+Character Story
+[Ring the Bell] Alice Lv.50
+Character Story
+[Ring the Bell] Alice Lv.30
+Character Story
+[Ring the Bell] Alice Lv.10
 Character Story
 [Christmas Miracle] Yuuki Lv.80
 Character Story

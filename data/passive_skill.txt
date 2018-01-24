@@ -183,6 +183,8 @@ Increases attack by 3% when equipped by Asuna.
 Attack +3% (Asuna)
 Increases HP by 6% when equipped by Asuna.
 HP +6% (Asuna)
+Increases attack by 3% when equipped by Kirito.
+Attack +3% (Kirito)
 Increases attack by 6% when equipped by Kirito.
 Attack +6% (Kirito)
 Increases MP by 3% when equipped by Kirito.
@@ -467,8 +469,8 @@ Increases Attack for 30-hit+ combos by 6%. (vs. Earth-elem.)
 Increases Attack for 30-hit+ combos by 6%. (vs. Water-elem.)
 30+ Combo: Attack +6% (vs. Water)
 .mk
-30コンボ以上で火属性の敵に攻撃力が6%増加する
-30コンボ以上で対火属性の攻撃+6%
+Increases Attack for 30-hit+ combos by 6%. (vs. Fire-elem.)
+30+ Combo: Attack +6% (vs. Fire)
 -mk
 Survive a fatal damage with HP1% just once
 Fatal Damage Resistance

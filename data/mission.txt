@@ -1050,6 +1050,10 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4080025,2,60
+Complete "Flowers in the Wilderness (Master +1)" in under 1min.
+4080024,2,60
+Complete "Flowers in the Wilderness (Master)" in under 1min.
 Hx9
 4079005,2,60
 Complete "Fierce Fight in Sand (Master +1)" with guild members in Multi in under 1 min.
@@ -2018,6 +2022,12 @@ Complete quests 10 times on hard difficulty.
 Use a Col Boost.
 Use an EXP Boost.
 Add slots to your equipment inventory.
+1033
+Complete GGO Chapter 3.
+1032
+Complete GGO Chapter 2.
+1031
+Complete GGO Chapter 1.
 1025
 Complete chapter 25.
 1024

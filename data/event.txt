@@ -534,6 +534,11 @@ images/event/dummy/dummy_top.png
 images/event/dummy/dummy_banner.png
 images/event/dummy/dummy_banner.png
 Bullet of Bullets
+images/event/4068/event_item_4068.png
+images/event/4080/4080_top.png
+images/event/4080/4080_banner.png
+images/event/4080/4080_banner.png
+Flowers in the Wilderness
 images/event/4079/4079_top.png
 images/event/4079/4079_banner.png
 images/event/4079/4079_banner.png

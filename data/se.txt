@@ -50,6 +50,7 @@ se_system_ch_gacha_idol
 se_system_ch_sign_idol
 se_system_ch_gacha_idol_pre
 se_system_os_appear
+se_enemy_mini_gun
 se_enemy_destroyer_charge
 se_enemy_berserker_dash
 se_enemy_karakuri_attack
@@ -79,6 +80,8 @@ se_enemy_griffin_appear
 se_enemy_kagachi_dead
 se_enemy_kagachi_damage
 se_enemy_kagachi_appear
+se_action_raygun_fire
+se_action_smg_fire
 se_action_nitro_of_sadness
 se_action_comical_unicycle
 se_action_candy_love_shower

@@ -39,6 +39,11 @@ weapon_rod_before
 weapon_rod
 chara_16_woman
 chara_16_rod_w
+effect_enemy_305_dolzel_the_chaosdrake
+enemy_305_dolzel_the_chaosdrake
+head
+enemy_305_dolzel_the_chaosdrake
+enemy_305_dolzel_the_chaosdrake
 elebute_the_hermit_effect
 enemy_304_the_strict_hermit_effect
 enemy_304_the_strict_hermit
@@ -263,7 +268,7 @@ weapon_effect_gun
 weapon_gun
 enemy_136_automatic_gun_m
 head
-weapon_gun
+weapon_automatic_gun
 enemy_136_automatic_gun_m
 enemy_136_automatic_gun_m
 weapon_effect_gun
@@ -520,6 +525,12 @@ head
 weapon
 enemy_101_frenzy_boar
 enemy_101_frenzy_boar
+chara_22_woman
+head
+weapon_automatic_gun_before
+weapon_automatic_gun
+chara_22_woman
+chara_22_automatic_gun_w
 weapon_2_effect
 weapon_1_effect
 skill_effect_sword

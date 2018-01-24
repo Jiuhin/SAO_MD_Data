@@ -10,6 +10,9 @@ Anniversary Bonus
 6oZ
 Anniversary Bonus
 Special Login Bonus
+hZ8
+comeback_bg
+daily_bonus_text_global_anniversary
 Renewal CP
 MgZo
 Anniversary Bonus

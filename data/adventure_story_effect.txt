@@ -1,3 +1,5 @@
+effect_scene_minigun_bulletline
+ss/effect/effect_scene_minigun_bulletline/
 effect_scene_lost_ggo
 ss/effect/effect_scene_lost_ggo/
 effect_scene_gun_flash1

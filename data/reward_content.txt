@@ -1,47 +1,45 @@
-H}	
-l{	
-xz	
-0z	
-Py	
-xx	
-0x	
-Xu	
-Pt	
-dq	
-Lo	
-hn	
-dm	
-Ti	
-Hf	
-pd	
-8c	
-<_	
-([	
-XU	
-LR	
-0K	
-tG	
-PF	
-pD	
-(D	
-X9	
-T8	
-d7	
-x6	
-T3	
-01	
-$,	
-8)	
-<(	
-X'	
-l%	
-L"	
-t!	
-0!	
-h 	
-$ 	
-x		
-0		
+d{	
+Tz	
+8x	
+Lv	
+dt	
+Hr	
+Xq	
+Xp	
+lg	
+Lf	
+td	
+xa	
+HZ	
+TX	
+(T	
+dP	
+8O	
+XL	
+xJ	
+PG	
+LB	
+X:	
+P6	
+(5	
+04	
+p3	
+t2	
+L1	
+p0	
+$0	
+P,	
+p+	
+P(	
+8'	
+t&	
+,&	
+X%	
+t$	
+($	
+h"	
+("	
+< 	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -999,6 +997,9 @@ The Fairy Daughter
 Midnight Beater
 8Yw
 Return of the Beast Lord
+Memories of Fresh Blood
+Ice Sniper
+The World of Guns
 The World Seed
 Gilded Hero
 Bonds
@@ -1316,6 +1317,27 @@ U)G6
 [Constant Love] Asuna
 'G6
 Memory Diamond x100
+Leaning on You Circulating Record Crystal x5
+Leaning on You Circulating Record Crystal x4
+Leaning on You Circulating Record Crystal x3
+Leaning on You Circulating Record Crystal x2
+Leaning on You Circulating Record Crystal x1
+5&Z
+Leaning on You Circulating Record Crystal x10
+5%Z
+Leaning on You Circulating Record Crystal x9
+5$Z
+Leaning on You Circulating Record Crystal x8
+Leaning on You Circulating Record Crystal x7
+5"Z
+Leaning on You Circulating Record Crystal x6
+5!Z
+Leaning on You Circulating Record Crystal x5
+5 Z
+Leaning on You Circulating Record Crystal x4
+Leaning on You Circulating Record Crystal x3
+Leaning on You Circulating Record Crystal x2
+Leaning on You Circulating Record Crystal x1
 Christmas Record Crystal x10
 Christmas Record Crystal x9
 Christmas Record Crystal x8
@@ -8687,12 +8709,6 @@ g'8
 g'8
 tO/
 Hades Hair Barrette R2
-f'8
-f'8
-Black Soaring Coat R3
-e'8
-e'8
-Black Soaring Coat R2
 Halloween Silver Medal x1
 Halloween Bronze Medal x1
 Halloween Upgrade Crystal x1
