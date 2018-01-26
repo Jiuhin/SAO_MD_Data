@@ -1,45 +1,56 @@
-d{	
-Tz	
-8x	
-Lv	
-dt	
-Hr	
-Xq	
-Xp	
-lg	
-Lf	
-td	
-xa	
-HZ	
-TX	
-(T	
-dP	
-8O	
-XL	
-xJ	
-PG	
-LB	
-X:	
+H}	
+p{	
+8z	
+<v	
+xu	
+$u	
+Ls	
+(r	
+Xl	
+Li	
+0b	
+P]	
+p[	
+([	
+<R	
+XP	
+TO	
+dN	
+xM	
+TJ	
+0H	
+$C	
+lA	
+<?	
+X>	
+l<	
+H:	
+L9	
+t8	
+08	
+h7	
+$7	
 P6	
-(5	
-04	
-p3	
-t2	
-L1	
-p0	
-$0	
-P,	
-p+	
-P(	
-8'	
-t&	
-,&	
-X%	
-t$	
-($	
-h"	
-("	
-< 	
+p5	
+$5	
+D4	
+T2	
+81	
+T0	
+t/	
+,/	
+<.	
+h-	
+x,	
+,,	
+H+	
+4)	
+d(	
+4%	
+L"	
+x 	
+0 	
+d		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -607,6 +618,7 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+Master Smith's Puff Sleeves R4
 9UI
 Priestess Hairpin R3
 Priestess Hairpin R2
@@ -1687,6 +1699,78 @@ Memory Diamond x5
 Bronze Medal x10
 Silver Medal x10
 Gold Medal x6
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+EXP Hi-Potion x5
+Col x30000
+Memory Diamond x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+EXP Hi-Potion x5
+Col x50000
+Memory Diamond x10
+Dragons' Den Participated Guild
+EXP X-Potion x5
+Rainbow Essence x1
+Col x100000
+Memory Diamond x15
+Memory Fragment x2
+Dragons' Den Participated Guild
+EXP X-Potion x5
+Rainbow Essence x1
+Col x100000
+Memory Diamond x20
+Memory Fragment x4
+Dragons' Den Participated Guild
+EXP X-Potion x5
+Rainbow Essence x1
+Col x100000
+Memory Diamond x25
+Memory Fragment x6
+Dragons' Den Assault Team
+EXP X-Potion x5
+Rainbow Essence x2
+Col x200000
+Memory Diamond x30
+Memory Fragment x8
+Dragons' Den Assault Team
+EXP X-Potion x5
+Rainbow Essence x2
+Col x300000
+Memory Diamond x40
+Memory Fragment x8
+Dragons' Den Assault Team
+EXP X-Potion x5
+Rainbow Essence x2
+Col x300000
+Memory Diamond x50
+Memory Fragment x10
+Dragons' Den No.3 Guild
+EXP X-Potion x5
+Rainbow Essence x2
+Col x500000
+Memory Diamond x50
+Memory Fragment x10
+Dragons' Den No.2 Guild
+EXP X-Potion x5
+Rainbow Essence x2
+Col x500000
+Memory Diamond x50
+Memory Fragment x10
+Dragons' Den No.1 Guild
+EXP X-Potion x5
+Rainbow Essence x2
+Col x500000
+Memory Diamond x50
+Memory Fragment x10
 Skill Shard x20
 Critical Shard x20
 Defense Shard x20
@@ -5675,6 +5759,7 @@ Earth Medallion x10
 Dark Medallion x10
 Dark Medallion x5
 Dark Medallion x15
+Master Smith's Puff Sleeves R3
 Silverthread Armor R3
 Insane Armor R3
 uO/

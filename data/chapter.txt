@@ -176,7 +176,7 @@ Twilight Castle in Akasha
 Event
 Shadowy castle in the night
 Event
-豪刀の裁断者
+Blade Arbiter
 Event
 One Lap Behind
 Event
@@ -185,6 +185,9 @@ Event
 Breakthrough in Sand
 Event
 Bullet of Bullets
+Event
+Event
+Feb the Second Half Ranking
 Event
 Flowers in the Wilderness
 Event

@@ -696,6 +696,96 @@ Party Cost
 </panel>
 Party Formation
 Parties
+<panel><image x
+'375.0f' y
+'470.0f' w 
+'650.0f' h 
+'733.9f'>dungeon/tips_guild_event.png</image>
+<body_text y
+'80.0f'  font_size 
+'24'>　Guild Competition Event is a limited time event where you
+　complete a quest with your guild members (multi-play)
+　by surviving during a given time. You earn a "Score" 
+　when the time is up. Compete for high scores with other guilds to 
+　win awesome rewards!
+　[Rewards]
+　There are three ways to win rewards:
+Individual Score Achievement Reward
+　It's based on the highest score that a player get in a battle.
+　You can receive "Fragments" that are exchangeable for 
+　a 
+5 upgradeable armor or a limited piece of 
+4 equipment 
+　at Exchange Shop. It will be given as you achieve a score.
+Multi Score Achievement Reward
+　It's based on the highest score from a battle that all 
+　your guild members share.
+　You can earn Memory Diamonds and Rainbow Essences. 
+　It will be given to all your guild members after the event.
+Ranking Reward
+　It's based on your rank at the end of the event.
+　You can receive "Fragments" that are exchangeable for 
+　a 
+5 upgradeable armor or a limited piece of 
+4 equipment 
+　at Exchange Shop. 
+　It will be given to all your guild members after the event.
+　[Rules]
+Given Time 
+　Players keep fighting a battle and survive a quest until 
+　the time is up.  During the given time, the bosses keep recovering their HP 
+　and undefeatable. 
+Weak Points
+　The bosses have weak points. As you attack enemies' weak points enough, 
+　a Break occurs and the enemies tumble. While they are tumbled, you can do huge damage to them.
+　[Scores]
+　There are three types of scores players compete for.
+Individual High Score
+　The best score you earn in a battle.
+　Damage Score - based on the damage you cause - will be added
+　Damage Received Score - based on the damage you receive - will be subtracted
+　Challenge Level Bonus - based on the level you complete - will multiply the score
+　(after the above calculations)
+Scores never fall under zero. 
+Even if damage you deal exceeds enemies' HP, the Damage Score
+　 won't be bigger than the HP.
+Multi High Score
+　The best total score your guild members earn in a battle.
+Multi High Score is calculated as a guild
+Guild Score
+　It's calculated for a guild every battle, total of the below numbers.
+　Multi High Score 
+　+ total of the Individual High Scores of TOP5 in a guild
+　+ total of the Individual High Scores of all the guild members
+　[Tips]
+All Individual Scores in a guild will be added to Guild Score. 
+　Your score counts!
+Title with special effects
+　You can earn a title at the previous Guild Competition. The title has special effects meant 
+　for the current competition. Get the title to win a higher score. 
+Fragments
+　You can carry over your earned Fragments. Save them up and get a 
+5 upgradeable armor or a limited piece of 
+4 equipment at Exchange Shop.
+　[Attentions]
+During the Guild Competition and three days after the event,
+　you are unable to leave your guild.
+　  
+When you don't belong to a guild, you can join one or create one anytime.
+To play this event, you must have completed Quests 3-10
+Find this event from "Quest" > "Extra Quest"
+As the HP of the party drops to zero, you fail your quest even
+　 if the time's not up yet.
+If your score was 0, "Ranking Reward" will not be given.
+Score is only updated as you complete a quest. 
+If you fail and continue it, it won't get updated.
+Score won't be updated when the event is over.
+After the event, Rewards will be given once the calculations is done.
+After the event period, players won't be able to complete missions. 
+In case there were multiple guilds with the same score, the earlier earning date will 
+　be prioritized.</body_text>
+</panel>
+Guild Competition Event
 <panel>
 <body_text font_size 
 '24'>　This is a solo-player event

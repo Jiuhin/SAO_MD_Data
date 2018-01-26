@@ -25,78 +25,78 @@ s)z
 r)z
 q)z
 	BI
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
-images/battle/cutin/battle_cutin_24046.png
-時間がありません!
-急いでください!!
-images/battle/cutin/battle_cutin_25014.png
-いい調子だね!
-このまま時間を稼いでいこう!!
+images/battle/cutin/battle_cutin_85003.png
+Time is almost up!
+Rout the enemy!
+images/battle/cutin/battle_cutin_165005.png
+Not bad!
+Let's buy some more time!
+images/battle/cutin/battle_cutin_85003.png
+Time is almost up!
+Rout the enemy!
+images/battle/cutin/battle_cutin_165005.png
+Not bad!
+Let's buy some more time!
+images/battle/cutin/battle_cutin_85003.png
+Time is almost up!
+Rout the enemy!
+images/battle/cutin/battle_cutin_165005.png
+Not bad!
+Let's buy some more time!
+images/battle/cutin/battle_cutin_85003.png
+Time is almost up!
+Rout the enemy!
+images/battle/cutin/battle_cutin_165005.png
+Not bad!
+Let's buy some more time!
+images/battle/cutin/battle_cutin_85003.png
+Hey! Not much time left!
+Hury up!
+images/battle/cutin/battle_cutin_165005.png
+Awesome!
+Keep going!
+images/battle/cutin/battle_cutin_85003.png
+Hey! Not much time left!
+Hury up!
+images/battle/cutin/battle_cutin_165005.png
+Awesome!
+Keep going!
+images/battle/cutin/battle_cutin_85003.png
+Hey! Not much time left!
+Hury up!
+images/battle/cutin/battle_cutin_165005.png
+Awesome!
+Keep going!
+images/battle/cutin/battle_cutin_85003.png
+Hey! Not much time left!
+Hury up!
+images/battle/cutin/battle_cutin_165005.png
+Awesome!
+Keep going!
+images/battle/cutin/battle_cutin_85003.png
+Time is running out!
+HURRY!
+images/battle/cutin/battle_cutin_165005.png
+Excellent!
+Let's gain some more time!
+images/battle/cutin/battle_cutin_85003.png
+Time is running out!
+HURRY!
+images/battle/cutin/battle_cutin_165005.png
+Excellent!
+Let's gain some more time!
+images/battle/cutin/battle_cutin_85003.png
+Time is running out!
+HURRY!
+images/battle/cutin/battle_cutin_165005.png
+Excellent!
+Let's gain some more time!
+images/battle/cutin/battle_cutin_85003.png
+Time is running out!
+HURRY!
+images/battle/cutin/battle_cutin_165005.png
+Excellent!
+Let's gain some more time!
 images/battle/cutin/battle_cutin_65008.png
 Time is running out!
 Bring them down NOW!
@@ -217,6 +217,21 @@ Bring them down NOW!
 images/battle/cutin/battle_cutin_65002.png
 Way to go! 
 Buy more time!
+wE>
+vE>
+uE>
+tE>
+sE>
+rE>
+qE>
+pE>
+oE>
+nE>
+mE>
+lE>
+kE>
+jE>
+iE>
 images/battle/cutin/battle_cutin_65012.png
 Your current team is exhausted!
 Let's switch to a new party!

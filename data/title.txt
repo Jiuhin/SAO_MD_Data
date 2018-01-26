@@ -42,34 +42,49 @@ Complete "Trick or Treat (Master)"
 Trick or Treat
 Complete "Starburst Stream (EX)"
 Starburst Stream
-Participate in "The Order of the Immortal"
+Participate in the 3rd Guild Ranking "Dragons' Den"
+Dragons' Den Participated Guild
+)Am
+Rank High on the 3rd Guild Ranking "Dragons' Den"
+Dragons' Den Assault Team
+)Am
+Rank 3rd on the 3rd Guild Ranking "Dragons' Den"
+Dragons' Den No.3 Guild
+)Am
+Rank 2nd on the 3rd Guild Ranking "Dragons' Den"
+Dragons' Den No.2 Guild
+)Am
+Rank 1st on the 3rd Guild Ranking "Dragons' Den"
+Dragons' Den No.1 Guild
+(Am
+Participate in the 2nd Guild Ranking "The Order of the Immortal"
 The Order of the Immortal Participated Guild
 'Am
-Rank High on "The Order of the Immortal"
+Rank High on the 2nd Guild Ranking "The Order of the Immortal"
 The Order of the Immortal Assault Team
 'Am
-Rank 3rd on "The Order of the Immortal"
+Rank 3rd on the 2nd Guild Ranking "The Order of the Immortal"
 The Order of the Immortal No.3 Guild
 'Am
-Rank 2nd on "The Order of the Immortal"
+Rank 2nd on the 2nd Guild Ranking "The Order of the Immortal"
 The Order of the Immortal No.2 Guild
 'Am
-Rank 1st on "The Order of the Immortal"
+Rank 1st on the 2nd Guild Ranking "The Order of the Immortal"
 The Order of the Immortal No.1 Guild
 &Am
-Participate in "The Beast Lords in League"
+Participate in the Guild Ranking "The Beast Lords in League"
 The Beast Lords in League Participated Guild
 %Am
-Rank High on "The Beast Lords in League"
+Rank High on the Guild Ranking "The Beast Lords in League"
 The Beast Lords in League Assault Team
 %Am
-Rank 3rd on "The Beast Lords in League"
+Rank 3rd on the Guild Ranking "The Beast Lords in League"
 The Beast Lords in League No.3 Guild
 %Am
-Rank 2nd on "The Beast Lords in League"
+Rank 2nd on the Guild Ranking "The Beast Lords in League"
 The Beast Lords in League No.2 Guild
 %Am
-Rank 1st on "The Beast Lords in League"
+Rank 1st on the Guild Ranking "The Beast Lords in League"
 The Beast Lords in League No.1 Guild
 Complete  "60th floor the Dark Castle on Holy Night"
 Challenger of the Dark Castle

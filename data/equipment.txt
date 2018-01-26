@@ -802,6 +802,15 @@ TBD
 White Knight Jacket R2
 armor03_0018
 TBD
+Master Smith's Puff Sleeves R5
+armor03_0007
+TBD
+Master Smith's Puff Sleeves R4
+armor03_0007
+TBD
+Master Smith's Puff Sleeves R3
+armor03_0007
+TBD
 Silverthread Armor R5
 armor03_0006
 TBD

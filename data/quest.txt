@@ -2645,6 +2645,61 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 5
+Dragons' Den (Master+1) (Ranged Crit)
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 4
+Dragons' Den (Master+1) (Slash Crit)
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 3
+Dragons' Den (Master) 
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 2
+Dragons' Den (EX) 
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 1
+Dragons' Den (Expert) 
 Dominant Dullahan the immortal. 
 Deal a lot of damage and attack
 their back as they fall over! 
@@ -4637,168 +4692,215 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
-tbd
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Nemesis the Fatal Scythe appears 
+in the Limestone Cave field. 
+Figure out their attacks with a sharp atrocious scythe
+to fight back!
 Survive until the end of time
 Quest
 bg_thumbnail_8004
 Quest 1-1
-N/A
-tbd
+Limestone Cave 
+Asmodeus the Mummy awakens with 
+Holy force and Earth force.
+Counter with Dark/Wind elemental skill
 Survive until the end of time
 Quest
 bg_thumbnail_8041
 Quest 1-1
-N/A
-tbd
+The Cloister
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
-tbd
+Burnt Field
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Nemesis the Fatal Scythe appears 
+in the Limestone Cave field. 
+Figure out their attacks with a sharp atrocious scythe
+to fight back!
 Survive until the end of time
 Quest
 bg_thumbnail_8004
 Quest 1-1
-N/A
-tbd
+Limestone Cave 
+Asmodeus the Mummy awakens with 
+Holy force and Earth force.
+Counter with Dark/Wind elemental skill
 Survive until the end of time
 Quest
 bg_thumbnail_8041
 Quest 1-1
-N/A
-tbd
+The Cloister
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
-tbd
+Burnt Field
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Nemesis the Fatal Scythe appears 
+in the Limestone Cave field. 
+Figure out their attacks with a sharp atrocious scythe
+to fight back!
 Survive until the end of time
 Quest
 bg_thumbnail_8004
 Quest 1-1
-N/A
-tbd
+Limestone Cave 
+Asmodeus the Mummy awakens with 
+Holy force and Earth force.
+Counter with Dark/Wind elemental skill
 Survive until the end of time
 Quest
 bg_thumbnail_8041
 Quest 1-1
-N/A
-tbd
+The Cloister
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
-tbd
+Burnt Field
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Asmodeus the Mummy awakens with 
+Holy force and Earth force.
+Counter with Dark/Wind elemental skill
 Survive until the end of time
 Quest
 bg_thumbnail_8041
 Quest 1-1
-N/A
-tbd
+The Cloister
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
-tbd
+Burnt Field
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
+Burnt Field
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -14379,6 +14481,61 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 5
+Dragons' Den (Master+1) (Ranged Crit)
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 4
+Dragons' Den (Master+1) (Slash Crit)
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 3
+Dragons' Den (Master) 
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 2
+Dragons' Den (EX) 
+Celestialon the Wyrm performs attacks
+while it summons others. 
+The weak point is its tail. 
+Destroy the tail first to stop the
+dragon summoning, 
+perform skills with your friends! 
+Survive until the end of time
+Quest
+bg_thumbnail_8044
+Quest 1
+Dragons' Den (Expert) 
 Dominant Dullahan the immortal. 
 Deal a lot of damage and attack
 their back as they fall over! 
@@ -16371,168 +16528,215 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
-tbd
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Nemesis the Fatal Scythe appears 
+in the Limestone Cave field. 
+Figure out their attacks with a sharp atrocious scythe
+to fight back!
 Survive until the end of time
 Quest
 bg_thumbnail_8004
 Quest 1-1
-N/A
-tbd
+Limestone Cave 
+Asmodeus the Mummy awakens with 
+Holy force and Earth force.
+Counter with Dark/Wind elemental skill
 Survive until the end of time
 Quest
 bg_thumbnail_8041
 Quest 1-1
-N/A
-tbd
+The Cloister
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
-tbd
+Burnt Field
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Nemesis the Fatal Scythe appears 
+in the Limestone Cave field. 
+Figure out their attacks with a sharp atrocious scythe
+to fight back!
 Survive until the end of time
 Quest
 bg_thumbnail_8004
 Quest 1-1
-N/A
-tbd
+Limestone Cave 
+Asmodeus the Mummy awakens with 
+Holy force and Earth force.
+Counter with Dark/Wind elemental skill
 Survive until the end of time
 Quest
 bg_thumbnail_8041
 Quest 1-1
-N/A
-tbd
+The Cloister
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
-tbd
+Burnt Field
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Nemesis the Fatal Scythe appears 
+in the Limestone Cave field. 
+Figure out their attacks with a sharp atrocious scythe
+to fight back!
 Survive until the end of time
 Quest
 bg_thumbnail_8004
 Quest 1-1
-N/A
-tbd
+Limestone Cave 
+Asmodeus the Mummy awakens with 
+Holy force and Earth force.
+Counter with Dark/Wind elemental skill
 Survive until the end of time
 Quest
 bg_thumbnail_8041
 Quest 1-1
-N/A
-tbd
+The Cloister
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
-tbd
+Burnt Field
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Asmodeus the Mummy awakens with 
+Holy force and Earth force.
+Counter with Dark/Wind elemental skill
 Survive until the end of time
 Quest
 bg_thumbnail_8041
 Quest 1-1
-N/A
-tbd
+The Cloister
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
-tbd
+Burnt Field
+Congratulations! You've got Lisbeth!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Congratulations! You've got Silica!
+Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
 bg_thumbnail_2023
 Quest 1-1
-N/A
-tbd
+Colosseum
+Vincent the Cyborg appears in the wilderness.
+Dodge mechanical ax swings and
+attack back quickly!
 Survive until the end of time
 Quest
 bg_thumbnail_4002
 Quest 1-1
-N/A
-tbd
+Wilderness
+The Camanideel Ape's got both Fire force and Wind force.
+Counter with Water/Fire elemental skill 
+and win a high score!
 Survive until the end of time
 Quest
 bg_thumbnail_8024
 Quest 1-1
-N/A
+Burnt Field
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!

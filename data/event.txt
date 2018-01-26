@@ -454,6 +454,14 @@ images/event/7001/7001_top.png
 images/event/7001/7001_banner.png
 images/event/7001/7001_banner.png
 [Black Swordsman] Kirito
+images/event/4903/4903_top.png
+images/event/4903/4903_banner.png
+images/event/4903/4903_banner.png
+[Ended] Dragons' Den
+images/event/4903/4903_top.png
+images/event/4903/4903_banner.png
+images/event/4903/4903_banner.png
+Dragons' Den
 images/event/4902/4902_top.png
 images/event/4902/4902_banner.png
 images/event/4902/4902_banner.png
@@ -527,12 +535,12 @@ images/event/4701/4701_banner.png
 images/event/4701/4701_banner.png
 Breakthrough in Sand
 images/event/dummy/dummy_top.png
-images/event/dummy/dummy_banner.png
-images/event/dummy/dummy_banner.png
+images/event/4601/4601_banner.png
+images/event/4601/4601_banner.png
 [Ended] Bullet of Bullets
 images/event/dummy/dummy_top.png
-images/event/dummy/dummy_banner.png
-images/event/dummy/dummy_banner.png
+images/event/4601/4601_banner.png
+images/event/4601/4601_banner.png
 Bullet of Bullets
 images/event/4068/event_item_4068.png
 images/event/4080/4080_top.png

@@ -11225,7 +11225,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64003
-This ALO Imp ends up benefitting when Asuna and Yui trigger a rare event while doing some trick-or-treating around town and land some special Halloween equipment.
+This ALO Imp ends up benefiting when Asuna and Yui trigger a rare event while doing some trick-or-treating around town and land some special Halloween equipment.
 serif
 4_yuuki_64003
 Yuuki
@@ -14068,7 +14068,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24015
-The only player with overwhelming force defeated Kirito second times, although Kirito did not use dualblades. She steps into the shoes of her older sister, and leads a guild "Sleeping knights".
+The only player with overwhelming force defeated Kirito second times, although Kirito did not use dual blades. She steps into the shoes of her older sister, and leads a guild "Sleeping knights".
 serif
 4_yuuki_24002
 Yuuki
