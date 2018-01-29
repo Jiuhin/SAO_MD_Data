@@ -194,8 +194,6 @@ eb18b0f8ccc0c78211d2aa043a086f5f
 ss/unit/chara_8_dagger_w/5_yui_85011.png
 d796a4b64dea99096dc288a3f1ded050
 ss/unit/chara_8_dagger_w/5_yui_85003.png
-eb18b0f8ccc0c78211d2aa043a086f5f
-ss/unit/chara_8_dagger_w/5_yui_84109.png
 aa805249caee4a4a2986e57f7159f57f
 ss/unit/chara_8_dagger_w/5_silica_85009.png
 666bf820aad51547852a14a0dea9a53d
@@ -398,6 +396,8 @@ b15b64f8a64ed0a3190bbf41bee107c3
 ss/unit/chara_6_finesword_w/skill_effect_63108.png
 e29af7293473d298b9bd3520173dcd83
 ss/unit/chara_6_finesword_w/skill_effect_6310799.png
+660114157b806774f0fbbcdd1fc7358d
+ss/unit/chara_6_finesword_w/skill_effect_6310798.png
 04946d0834945014cf4d7709358efbeb
 ss/unit/chara_6_finesword_w/skill_effect_63107.png
 c99cbc1bbf4864f9945d91aa2f593e83
@@ -1158,6 +1158,8 @@ ss/unit/chara_18_lance_w/skill_effect_lance_3.png
 ss/unit/chara_18_lance_w/skill_effect_lance_2.png
 ff3ea6f04ace78c9f6a6966d96c7e5e8
 ss/unit/chara_18_lance_w/skill_effect_lance_1.png
+be95b7bd7944c3abd0b4f03beb1db149
+ss/unit/chara_18_lance_w/skill_effect_184107.png
 915bcc70ab0520385453c127a186866d
 ss/unit/chara_18_lance_w/skill_effect_184106.png
 5c3ebc29814e343b0d50a38976aa3598
@@ -1196,6 +1198,8 @@ ss/unit/chara_18_lance_w/5_sinon_185003.png
 ss/unit/chara_18_lance_w/5_sachi_185004.png
 bc7927b356dc03d911f5f2d2414df14a
 ss/unit/chara_18_lance_w/5_lisbeth_185001.png
+bfed9ca6f07b4be000d075e37e9a8c1a
+ss/unit/chara_18_lance_w/5_leafa_185008.png
 97fdbe4ac78183ad7fb37b751aed51f2
 ss/unit/chara_18_lance_w/4_strea_184003.png
 282bd4c4793a5414543800e39af6a393
@@ -3146,6 +3150,10 @@ images/event/9002/9002_banner.png
 images/event/9001/9001_top.png
 f9cbc601493ad89a88fd1601cc5fd29e
 images/event/9001/9001_banner.png
+55c75f5592940e378fff9e8794e49101
+images/event/8036/8036_top.png
+18e53c500e5110c6fb9b3c10f5fb5d8a
+images/event/8036/8036_banner.png
 647d60c77259974eb1ff20b122be9261
 images/event/8035/8035_top.png
 d8438eaf4242b09a038eba55057985f0

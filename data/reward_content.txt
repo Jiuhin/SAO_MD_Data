@@ -1,56 +1,53 @@
-H}	
-p{	
-8z	
-<v	
-xu	
-$u	
-Ls	
-(r	
-Xl	
-Li	
-0b	
-P]	
-p[	
-([	
-<R	
-XP	
-TO	
-dN	
-xM	
-TJ	
-0H	
-$C	
-lA	
-<?	
-X>	
-l<	
-H:	
+$}	
+D{	
+,z	
+Tx	
+0w	
+ht	
+Tn	
+Hk	
+hh	
+8g	
+Xb	
+HZ	
+DW	
+lS	
+8M	
+(I	
+,H	
+tF	
+(F	
+DD	
+tA	
+(A	
+P?	
+T>	
+p<	
+,<	
+x:	
+,:	
 L9	
-t8	
-08	
-h7	
-$7	
-P6	
-p5	
-$5	
-D4	
-T2	
-81	
-T0	
-t/	
-,/	
+h8	
+44	
+D3	
+p2	
+41	
+P0	
+h/	
 <.	
-h-	
-x,	
-,,	
-H+	
-4)	
-d(	
-4%	
-L"	
+l-	
+$-	
+H,	
+d+	
+d)	
+8(	
+T'	
+h&	
+8%	
+X!	
 x 	
-0 	
-d		
+, 	
+T		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -618,6 +615,11 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+9IK
+Chocolate Beret R3
+Chocolate Beret R2
+Chocolate Dress R3
+Chocolate Dress R2
 Master Smith's Puff Sleeves R4
 9UI
 Priestess Hairpin R3
@@ -5527,6 +5529,14 @@ Col x301
 100EP
 75EP
 50EP
+Chocolate Beret R3
+Chocolate Beret R2
+Chocolate Dress R3
+Chocolate Dress R2
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 Priestess Hairpin R3
 Priestess Hairpin R2
 Lovely Priestess Costume R3
@@ -5948,6 +5958,10 @@ Girl's Treats x6
 Girl's Treats (Favorite) x1
 Girl's Treats x10
 Girl's Treats x3
+Chocolate Beret R3
+Chocolate Dress R3
+Chocolate Beret R3
+Chocolate Dress R3
 Priestess Hairpin R3
 Lovely Priestess Costume R3
 Priestess Hairpin R3

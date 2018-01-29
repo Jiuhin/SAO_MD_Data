@@ -968,6 +968,46 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 5
+Festival Kobold Returns  - Too Late! (Master +1)
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4
+Festival Kobold Returns  - Too Late! (Master)
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3
+Festival Kobold Returns  - Too Late! (EX)
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2
+Festival Kobold Returns  - Too Late! (Expert)
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1
+Festival Kobold Returns  - Too Late! (Int.)
 The NPC gang in ALO - appears 
 from deep inside the dungeon
 Defeat those bad guys! 
@@ -7123,7 +7163,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 4
-The meaning of Strength
+The Meaning of Strength
 Defeat All Enemies
 Quest
 bg_thumbnail_2001
@@ -12804,6 +12844,46 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 5
+Festival Kobold Returns  - Too Late! (Master +1)
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4
+Festival Kobold Returns  - Too Late! (Master)
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 3
+Festival Kobold Returns  - Too Late! (EX)
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 2
+Festival Kobold Returns  - Too Late! (Expert)
+Festival Kobold appears in the height of winter! 
+Parry their attacks and finish them off at all once!
+Just run when they hold two weapons!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 1
+Festival Kobold Returns  - Too Late! (Int.)
 The NPC gang in ALO - appears 
 from deep inside the dungeon
 Defeat those bad guys! 
@@ -18959,7 +19039,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 4
-The meaning of Strength
+The Meaning of Strength
 Defeat All Enemies
 Quest
 bg_thumbnail_2001

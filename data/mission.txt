@@ -155,6 +155,24 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+8036005,3,45
+Complete "Festival Kobold Returns - Too Late! (Master +1)" with guild members in Multi under 45 seconds.
+8036004,3,45
+Complete "Festival Kobold Returns - Too Late! (Master)" with guild members in Multi under 45 seconds.
+8036003,3
+Complete "Festival Kobold Returns - Too Late! (EX)" with guild members in Multi.
+1040143-1040144-1040145-1040146-1040147,50
+Defeat 50 of the Festival Kobold in the guild. 
+8036005,3
+Complete "Festival Kobold Returns - Too Late! (Master +1)" without down.
+8036004,3
+Complete "Festival Kobold Returns - Too Late! (Master)" without down.
+8036003,3
+Complete "Festival Kobold Returns - Too Late! (EX)" without down.
+8036002
+Complete "Festival Kobold Returns - Too Late! (Expert)"
+8036001
+Complete "Festival Kobold Returns - Too Late! (Int.)"
 8035005,3,45
 Complete "Kidnap Gang Returns (Master +1)" with guild members in Multi under 45 seconds.
 8035004,3,45

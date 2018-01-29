@@ -1,3 +1,13 @@
+.mk
+TBD
+Chocolate Beret R4
+accessory01_0061
+TBD
+Chocolate Beret R3
+accessory01_0061
+TBD
+Chocolate Beret R2
+accessory01_0061
 /mk
 TBD
 Priestess Hairpin R4
@@ -521,6 +531,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+Chocolate Dress R4
+armor03_0108
+TBD
+Chocolate Dress R3
+armor03_0108
+TBD
+Chocolate Dress R2
+armor03_0108
 TBD
 Scarlet Party Dress R4
 armor03_0107
