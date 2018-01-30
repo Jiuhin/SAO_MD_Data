@@ -1188,6 +1188,30 @@ Complete " Inherited Tradition - A Priest's Will (Master +2)" in under 1min.
 Complete " Inherited Tradition - A Priest's Will (Master +1)".
 4077021
 Complete " Inherited Tradition - A Priest's Will (Int.)".
+>88
+4076018,1,100
+Complete "Valentine's Day Frenzy (Master+1) Part2" with a 100-hit combo or more.
+>78
+4076017,1,100
+Complete "Valentine's Day Frenzy (Master+1) Part1" with a 100-hit combo or more.
+:68
+407601,4000000
+Earn a score of 4,000,000 in Valentine's Day Frenzy
+:58
+407601,4500000
+Earn a score of 4,500,000 in Valentine's Day Frenzy
+:48
+407601,4900000
+Earn a score of 4,900,000 in Valentine's Day Frenzy
+/38
+4076018
+Complete "Valentine's Day Frenzy (Master +1)".
+/28
+4076016
+Complete "Valentine's Day Frenzy (Master)".
+/18
+4076012
+Complete "alentine's Day Frenzy (Expert)".
 4075024,2,1,1
 Complete "Mochi Mochi Panic! (Master)" with a sword character.
 4075025,2

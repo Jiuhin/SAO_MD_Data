@@ -56,3 +56,7 @@ images/dungeon/quest_group/dungeon_quest_group_03.png
 11F Teleport Gate
 images/dungeon/quest_group/dungeon_quest_group_01.png
 1F Entrance
+images/dungeon/quest_group/dungeon_quest_group_03.png
+11F Teleport Gate
+images/dungeon/quest_group/dungeon_quest_group_01.png
+1F Entrance

@@ -137,6 +137,8 @@ Increases max HP by 6% when equipped by male characters.
 HP +6% (Male Character)
 Increases attack by 6% when using skills.
 Skill Atk +6%
+50% chance Holy-elem. gains 5 MP on enemy kill.
+MP Recovery on Kill (Holy)
 Gain 5 MP on enemy kill.
 5 MP Recovery on Kill
 Increases attack and critical by 3% when equipped by OS Characters.
@@ -465,6 +467,9 @@ Solo Dmg. +15%
 3mk
 Increases Attack for 30-hit+ combos by 6%. (vs. Earth-elem.)
 30+ Combo: Attack +6% (vs. Earth)
+2mk
+Increases Attack for 30-hit+ combos by 6%. (vs. Dark-elem.)
+30+ Combo: Attack +6% (vs. Dark)
 /mk
 Increases Attack for 30-hit+ combos by 6%. (vs. Water-elem.)
 30+ Combo: Attack +6% (vs. Water)

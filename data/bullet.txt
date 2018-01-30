@@ -1,6 +1,8 @@
-(9	
-46	
-<$	
+xI	
+h9	
+$8	
+X6	
+X%	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -37,6 +39,16 @@ dead
 bullet_900002_impact_point
 wait
 bullet_900001_drain
+wait
+ground
+dead
+appear
+bullet_7060_prick_ball
+wait
+ground
+dead
+appear
+bullet_7060_prick_ball
 bullet_7059_newyear_grenade
 wait
 dead
@@ -1544,7 +1556,6 @@ JzP
 JzP
 JzP
 JzP
-pAP
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -4155,6 +4166,10 @@ dead
 bullet_1062_witch_branch
 dead
 bullet_1062_witch_branch
+wait
+dead
+appear
+bullet_1061_poison_bubble
 wait
 dead
 appear

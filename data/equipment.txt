@@ -1889,6 +1889,12 @@ TBD
 Small Rifle R1
 weapon06_0001
 TBD
+Candy Flapper R5
+weapon05_0058
+TBD
+Candy Flapper R4
+weapon05_0058
+TBD
 Dog Paw R4
 weapon05_0057
 TBD
@@ -2183,6 +2189,12 @@ TBD
 Small Mace R1
 weapon05_0001
 TBD
+Pastry Dagger R5
+weapon04_0056
+TBD
+Pastry Dagger R4
+weapon04_0056
+TBD
 Kamaitachi R5
 weapon04_0054
 TBD
@@ -2463,6 +2475,12 @@ weapon04_0002
 TBD
 Light Dagger R1
 weapon04_0001
+TBD
+Lapiel de Fleur R5
+weapon03_0060
+TBD
+Lapiel de Fleur R4
+weapon03_0060
 TBD
 Little Fox R5
 weapon03_0058
@@ -2969,6 +2987,12 @@ TBD
 Dual Short Swords 
 2 R1
 weapon02_0001
+TBD
+Epee Ruban R5
+weapon01_0115
+TBD
+Epee Ruban R4
+weapon01_0115
 TBD
 Elucidator Rouge R5
 weapon01_0110

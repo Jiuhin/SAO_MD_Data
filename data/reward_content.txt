@@ -1,53 +1,79 @@
-$}	
-D{	
-,z	
-Tx	
-0w	
-ht	
-Tn	
-Hk	
-hh	
-8g	
-Xb	
-HZ	
-DW	
-lS	
-8M	
-(I	
-,H	
-tF	
-(F	
+h{	
+$y	
+dx	
+0q	
+Xn	
+(m	
+Hj	
+Li	
+$h	
+Hg	
+de	
+8d	
+(c	
+Hb	
+<a	
+t_	
+(_	
+L]	
+L[	
+lZ	
+$Z	
+4X	
+0V	
+TU	
+dT	
+$T	
+TR	
+pQ	
+$Q	
+8P	
+DN	
+hM	
+8L	
+<J	
+XI	
+tH	
+(H	
+XF	
+0E	
 DD	
-tA	
-(A	
-P?	
-T>	
-p<	
+xB	
+(B	
+LA	
+X?	
+t>	
+(>	
+t<	
 ,<	
-x:	
-,:	
-L9	
-h8	
+t9	
+,9	
+D8	
+d7	
+06	
+T5	
 44	
-D3	
-p2	
-41	
-P0	
-h/	
-<.	
-l-	
-$-	
+P3	
+l2	
+$2	
+L1	
+p0	
+$0	
+X.	
+h-	
 H,	
-d+	
-d)	
-8(	
-T'	
-h&	
-8%	
-X!	
-x 	
-, 	
-T		
+T)	
+x(	
+,(	
+H'	
+l&	
+$&	
+L%	
+h$	
+L"	
+d!	
+H 	
+D		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -615,6 +641,8 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+Global Upgrade Crystal  x1
+Global Ticket VIP x1
 9IK
 Chocolate Beret R3
 Chocolate Beret R2
@@ -1040,6 +1068,40 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+W	8
+Memory Diamond x10
+mW	8
+Valentine's Day Gold Medal x3
+V	8
+Valentine's Day Gold Medal x2
+AV	8
+Valentine's Day Gold Medal x1
+U	8
+Rainbow Essence x1
+U	8
+Valentine's Day Upgrade Crystal  x2
+T	8
+Valentine's Day Upgrade Crystal  x1
+MT	8
+Valentine's Day Gold Medal x1
+S	8
+500EP
+S	8	t
+300EP
+!S	8
+200EP
+R	8
+Fateful Valentine's Day
+YR	8
+Valentine's Day Upgrade Crystal  x1
+Q	8
+Valentine's Day Gold Medal x2
+Q	8
+Valentine's Day Gold Medal x1
+-Q	8
+Passionate Sweethearts
+P	8
+Passionate Pure Hearts - Valentine's Day Frenzy
 eP	8
 Tradition Keeper
 P	8
@@ -1331,6 +1393,26 @@ U)G6
 [Constant Love] Asuna
 'G6
 Memory Diamond x100
+5M[
+Chocolatiere Circulating Record Crystal x5
+5L[
+Chocolatiere Circulating Record Crystal x4
+5K[
+Chocolatiere Circulating Record Crystal x3
+騧5J[
+Chocolatiere Circulating Record Crystal x2
+5I[
+Chocolatiere Circulating Record Crystal x1
+Chocolatiere Circulating Record Crystal x10
+Chocolatiere Circulating Record Crystal x9
+Chocolatiere Circulating Record Crystal x8
+Chocolatiere Circulating Record Crystal x7
+Chocolatiere Circulating Record Crystal x6
+Chocolatiere Circulating Record Crystal x5
+Chocolatiere Circulating Record Crystal x4
+Chocolatiere Circulating Record Crystal x3
+Chocolatiere Circulating Record Crystal x2
+Chocolatiere Circulating Record Crystal x1
 Leaning on You Circulating Record Crystal x5
 Leaning on You Circulating Record Crystal x4
 Leaning on You Circulating Record Crystal x3
@@ -2726,6 +2808,174 @@ Global Upgrade Crystal  x6
 Global Ticket x100
 Global Ticket Plus x50
 Global Ticket VIP x25
+2:J
+EXP Potion x5
+2:J
+Skill Shard x20
+2:J
+Critical Shard x20
+2:J
+Defense Shard x20
+2:J
+Attack Shard x20
+2:J
+MP Shard x20
+2:J
+HP Shard x20
+29J
+Assault Team: Valentine's Day Frenzy (Top 100)
+29J
+EXP Hi-Potion x5
+29J
+Skill Shard x20
+29J
+Critical Shard x20
+29J
+Defense Shard x20
+29J
+Attack Shard x20
+29J
+MP Shard x20
+29J
+HP Shard x20
+29J
+Memory Diamond x5
+28J
+Assault Team: Valentine's Day Frenzy (Top 50)
+28J
+EXP Hi-Potion x5
+28J
+Col x30000
+28J
+Memory Diamond x5
+28J
+Valentine's Day Bronze Medal x5
+28J
+Valentine's Day Silver Medal x5
+28J
+Valentine's Day Gold Medal x2
+27J
+Assault Team: Valentine's Day Frenzy (Top 20)
+27J
+EXP X-Potion x5
+27J
+Col x50000
+27J
+Memory Diamond x5
+27J
+Valentine's Day Upgrade Crystal  x1
+27J
+Valentine's Day Bronze Medal x10
+27J
+Valentine's Day Silver Medal x5
+27J
+Valentine's Day Gold Medal x4
+26J
+Assault Team: Valentine's Day Frenzy (Top 10)
+26J
+EXP X-Potion x5
+26J
+Col x100000
+26J
+Memory Diamond x5
+26J
+Valentine's Day Upgrade Crystal  x2
+26J
+Valentine's Day Bronze Medal x10
+26J
+Valentine's Day Silver Medal x5
+26J
+Valentine's Day Gold Medal x6
+25J
+Assault Team: Valentine's Day Frenzy (5th)
+25J
+Rainbow Essence x1
+25J
+EXP X-Potion x5
+25J
+Col x200000
+25J
+Memory Diamond x5
+25J
+Valentine's Day Upgrade Crystal  x3
+25J
+Valentine's Day Bronze Medal x10
+25J
+Valentine's Day Silver Medal x5
+25J
+Valentine's Day Gold Medal x8
+24J
+Assault Team: Valentine's Day Frenzy (4th)
+24J
+Rainbow Essence x1
+24J
+EXP X-Potion x5
+24J
+Col x200000
+24J
+Memory Diamond x5
+24J
+Valentine's Day Upgrade Crystal  x3
+24J
+Valentine's Day Bronze Medal x10
+24J
+Valentine's Day Silver Medal x5
+24J
+Valentine's Day Gold Medal x9
+23J
+Assault Team: Valentine's Day Frenzy (3rd)
+23J
+Rainbow Essence x1
+23J
+EXP X-Potion x5
+23J
+Col x200000
+23J
+Memory Diamond x5
+23J
+Valentine's Day Upgrade Crystal  x4
+23J
+Valentine's Day Bronze Medal x10
+23J
+Valentine's Day Silver Medal x10
+23J
+Valentine's Day Gold Medal x11
+22J
+Assault Team: Valentine's Day Frenzy (2nd)
+22J
+Rainbow Essence x1
+22J
+EXP X-Potion x5
+22J
+Col x300000
+22J
+Memory Diamond x5
+22J
+Valentine's Day Upgrade Crystal  x4
+22J
+Valentine's Day Bronze Medal x10
+22J
+Valentine's Day Silver Medal x10
+22J
+Valentine's Day Gold Medal x13
+21J
+Assault Team: Valentine's Day Frenzy (1st)
+21J
+Rainbow Essence x2
+21J
+EXP X-Potion x5
+21J
+Col x500000
+21J
+Memory Diamond x5
+21J
+Valentine's Day Upgrade Crystal  x4
+21J
+Valentine's Day Bronze Medal x10
+21J
+Valentine's Day Silver Medal x10
+21J
+Valentine's Day Gold Medal x16
 2rI
 EXP Potion x5
 2rI

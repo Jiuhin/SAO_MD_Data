@@ -5194,6 +5194,150 @@ Story
 bg_thumbnail_0
 Story 1
 Priestess Experience Event
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 15-2
+Valentine's Day Frenzy Master +2
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 15-1
+Valentine's Day Frenzy Master +2
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 14-2
+Valentine's Day Frenzy Master +1
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 14-1
+Valentine's Day Frenzy Master +1
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 13-2
+Valentine's Day Frenzy Master
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 13-1
+Valentine's Day Frenzy Master
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 12-2
+Valentine's Day Frenzy EX
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 12-1
+Valentine's Day Frenzy EX
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 11-2
+Valentine's Day Frenzy Expert
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 11-1
+Valentine's Day Frenzy Expert
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Let's make chocolate!
+King of the rejects, 
+Salamander Lancer.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 9
+Valentine's Day Frenzy
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 8
+Special Patisserie 
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Suspicious Conversation
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 6
+Not Counted
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Patisserie Gathering
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 4
+Girl's Passionate Feelings
+Defeat All Enemies
+Quest
+bg_thumbnail_8021
+Quest 3
+The Reliable Man
+Defeat All Enemies
+Quest
+bg_thumbnail_8021
+Quest 2
+Screams in the Sweets Town
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Klein's Invitation
 "Rumble Gigas" appears in Asuka Empire. 
 Figure out their attack pattern and parry them!
 Defeat All Enemies
@@ -17070,6 +17214,150 @@ Story
 bg_thumbnail_0
 Story 1
 Priestess Experience Event
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 15-2
+Valentine's Day Frenzy Master +2
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 15-1
+Valentine's Day Frenzy Master +2
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 14-2
+Valentine's Day Frenzy Master +1
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 14-1
+Valentine's Day Frenzy Master +1
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 13-2
+Valentine's Day Frenzy Master
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 13-1
+Valentine's Day Frenzy Master
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 12-2
+Valentine's Day Frenzy EX
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 12-1
+Valentine's Day Frenzy EX
+A Kookie Fire Dragon, Hungry Destroyer
+makes an invasion! 
+Watch for a good chance to parry 
+in the orange area!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 11-2
+Valentine's Day Frenzy Expert
+Striking out with women made Salamander Lancer 
+more powerful.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 11-1
+Valentine's Day Frenzy Expert
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Let's make chocolate!
+King of the rejects, 
+Salamander Lancer.
+Watch for a good chance to parry an attack 
+and don't let them counter!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 9
+Valentine's Day Frenzy
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 8
+Special Patisserie 
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Suspicious Conversation
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 6
+Not Counted
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Patisserie Gathering
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Quest 4
+Girl's Passionate Feelings
+Defeat All Enemies
+Quest
+bg_thumbnail_8021
+Quest 3
+The Reliable Man
+Defeat All Enemies
+Quest
+bg_thumbnail_8021
+Quest 2
+Screams in the Sweets Town
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Klein's Invitation
 "Rumble Gigas" appears in Asuka Empire. 
 Figure out their attack pattern and parry them!
 Defeat All Enemies

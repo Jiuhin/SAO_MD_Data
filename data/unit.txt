@@ -14,6 +14,12 @@ weapon_sword_before
 weapon_sword
 chara_19_man
 chara_19_shield_m
+chara_22_woman
+head
+weapon_automatic_gun_before
+weapon_automatic_gun
+chara_22_woman
+chara_903_debugar
 skill_effect_attribute
 weapon_effect
 weapon_shield

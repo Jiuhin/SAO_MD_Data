@@ -550,6 +550,12 @@ L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
+You can do the Valentine's Day Gold Medal Scout.
+Valentine's Day Gold Medal
+You can do the Valentine's Day Silver Medal Scout.
+Valentine's Day Silver Medal
+You can do the Valentine's Day Bronze Medal Scout.
+Valentine's Day Bronze Medal
 You can do the "Global Scout VIP" on the 1st Anniversary Countdown Campaign.
 Global Ticket VIP
 You can do the "Global Scout Plus" on the 1st Anniversary Countdown Campaign.
@@ -620,6 +626,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
+You can use in the "Sweet Chocolatiere - Melt Your Sweetheart"
+Chocolatiere Circulating Record Crystal
+item_m_record_crystal_blue
 You can use in the "Leaning on You"
 Leaning on You Circulating Record Crystal
 item_m_record_crystal_2018
@@ -656,6 +665,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain in the "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20011
+Upgrades character
+([Spirited Chocolatier] Philia only) 
+Rarity: High
+Valentine's Day Upgrade Crystal 
 item_m_evolution_20010
 Upgrades characters
 (Global Ticket VIP limited characters only) 
@@ -813,6 +827,9 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
+Raises Heathcliff's level cap. ([Spirited Chocolatier] Philia only) 
+Rarity: High
+Valentine's Day Hacking Crystal
 Raises Global Ticket VIP limited characters' level cap.
 Global Hacking Crystal
 Raises [Santa is coming] Seven and [Personal Santa] Rain's level cap.

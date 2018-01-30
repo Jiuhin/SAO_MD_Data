@@ -100,7 +100,7 @@ d7595311191eb890c60c72fdb1b0bd54
 ss/unit/chara_8_dagger_w/skill_effect_dagger_2.png
 1d448670c30c70d850e7e013ff70b079
 ss/unit/chara_8_dagger_w/skill_effect_dagger_1.png
-2c31e3d58546caf9a30eb90d74ac3d2e
+9d28bfab883e247dae991dd874b55eb7
 ss/unit/chara_8_dagger_w/skill_effect_84109.png
 f37b754e4f6909655d7b2f3c8f2474a9
 ss/unit/chara_8_dagger_w/skill_effect_84108.png
@@ -1782,6 +1782,12 @@ e67406d597d7211fbdebd0ca5af5e1c0
 images/lottery/step_up/lottery_step_icon_2_3.png
 6a1fc69245d60a108dd1c4a8d1be8ea9
 images/lottery/step_up/lottery_step_icon_2.png
+f8acdd63a3d63bc03c220fd3c477db72
+images/lottery/medal/110183_medal_top.png
+2da19215f3ece8ad9d0377e13f88573d
+images/lottery/medal/110182_medal_top.png
+6567f7a2f6c5a68566a756d0c327bd1c
+images/lottery/medal/110181_medal_top.png
 0fb267c0106d0445aee0844f1d7d1873
 images/lottery/medal/110174_medal_top.png
 8c712a5336b4ca424314a750d2f4a52a
@@ -2022,6 +2028,8 @@ images/lottery/event/130012_event_top.png
 images/lottery/event/130011_event_top.png
 4b9fc6fa17365478d1e05a7dbe37a926
 images/lottery/crystal/140141_crystal_top.png
+0d990451882d12816dd0142d8a7c1974
+images/lottery/crystal/140131_crystal_top.png
 a0a6115764b24fe2501167925c11ecb4
 images/lottery/crystal/140121_crystal_top.png
 b92982dbc8b543dc12a5c6c1f7f9fb49
@@ -2108,6 +2116,22 @@ images/lottery/067/20671_scout_banner.png
 images/lottery/066/20661_scout_top_s.png
 4278e8365786ff888c4477db02ae9f41
 images/lottery/066/20661_scout_banner.png
+b1fd82ad2d20becb805fcabbb3d9ba87
+images/lottery/065/20653_scout_top_s.png
+3c13513298919febd8fe96ac5a80ad38
+images/lottery/065/20653_scout_banner.png
+810c2cfdc1f47ca54a39401649270bed
+images/lottery/065/20652_scout_top_s.png
+5d27f016848403f2f00f9604d0f5d2a7
+images/lottery/065/20652_scout_banner.png
+c5b5b829f879251cca4701c2fcaa0515
+images/lottery/065/20651_scout_top_s.png
+60d96c31188a2e14f51e0ba664927fd3
+images/lottery/065/20651_scout_banner.png
+3e652d2b0818916455c740ea7181ea3e
+images/lottery/065/10651_weapon_top_s.png
+fc46684c49538608429c57de16e9cfda
+images/lottery/065/10651_weapon_banner.png
 2749ffedc4d54cf0b14b7c25073c2391
 images/lottery/064/20646_scout_top_s.png
 f7ad512f94f337a80717f9a67ebd1ed1
@@ -3480,6 +3504,10 @@ d345d065ad3e8545d5d232ad5dd063af
 images/event/4077/4077_top.png
 ed175b29689b3d64ca5e825c4765d5ef
 images/event/4077/4077_banner.png
+96d0ea54d2db884f919abde2b8edb304
+images/event/4076/4076_top.png
+df84e0ffc682ce95d4c0c2bd1abb903f
+images/event/4076/4076_banner.png
 ec8448e9e666f4a3efe26db2ad4fb854
 images/event/4075/event_item_4075.png
 1708a04d64504a424c9058f2be154d81
@@ -3952,6 +3980,8 @@ images/character/party/party_92003.png
 images/character/party/party_92002.png
 75d351b20f4a56440235a81c2554878c
 images/character/party/party_92001.png
+ae9f33d8d4dbc919f36ecccf20bcf53d
+images/character/party/party_85007.png
 643787cb1a4a1f460fada3ae476d3bac
 images/character/party/party_85006.png
 2131f8c210dd482a8cbd930abad673db
@@ -4040,6 +4070,8 @@ images/character/party/party_82003.png
 images/character/party/party_82002.png
 f2f07d8f77641a335c2afc0d6e4097f4
 images/character/party/party_82001.png
+cf20a73514b5e31e178275472d44265c
+images/character/party/party_65012.png
 5a1c84ad038a0bd65f950b43ac6a1d0e
 images/character/party/party_65011.png
 7a6ae7f44dfb2c3aed3d54f74a099f5d
@@ -4174,6 +4206,8 @@ images/character/party/party_34002.png
 images/character/party/party_34001.png
 b55acb1f7f3d2b310ef430c95f5c8117
 images/character/party/party_25016.png
+efd29e1c3ca1e5e48c8e148f9487f8e2
+images/character/party/party_25013.png
 7e31739a98c5ea45b09149bd83527a18
 images/character/party/party_25012.png
 aed060771c7d488b763bb3aa240d87a4
@@ -4394,6 +4428,8 @@ bcf1f5ec8201bd699702b3b46a3740b7
 images/character/party/party_145002.png
 1ee2341dba3ebb43fa53714a198bc586
 images/character/party/party_145001.png
+78f7fc1781077e8f7960c63a3a342c18
+images/character/party/party_144015.png
 8a74de0dbc018fa6180091ff112be93e
 images/character/party/party_144014.png
 66e3844a8bb55eca84b6dae7754f2f60
@@ -4520,6 +4556,8 @@ images/character/party/party_113001.png
 images/character/party/party_11001.png
 fa3affccddf95c53f069dcfa6b2b4cb4
 images/character/party/party_105008.png
+a92a9b445bb0529fbb0ed48e349db506
+images/character/party/party_105007.png
 315fe272effddb9005ae426017495170
 images/character/party/party_105005.png
 6c6fc8aaa8b6ddc9efb5b87872b9a3ee
@@ -4660,6 +4698,8 @@ images/character/character_92003.png
 images/character/character_92002.png
 eb1a224d8fcff7e5159d639eb3f8fe2f
 images/character/character_92001.png
+adacc76735442ebd6477cf7ecea622c4
+images/character/character_85007.png
 b8b5a92c62d0969373fd0dab642b8a72
 images/character/character_85006.png
 aeff2bdc94659472d900be41ac5dbc9b
@@ -4772,6 +4812,8 @@ images/character/character_8062001.png
 images/character/character_8061001.png
 28416f94dc72dcae3d446da4938e90ca
 images/character/character_8014001.png
+fd723b043cf4dbdcca49d1fccc193dc8
+images/character/character_65012.png
 8933bd7f812c6c82ea97684d08eb577f
 images/character/character_65011.png
 e103f39522761797da4867b416f0957e
@@ -4908,6 +4950,8 @@ images/character/character_34002.png
 images/character/character_34001.png
 b4ee5f4afae6dd3b064405664257410e
 images/character/character_25016.png
+fddb75f6c4250951d440b8f827ef29f5
+images/character/character_25013.png
 9bb1537ce8170c26f52e6bed64723b0d
 images/character/character_25012.png
 6d623a3010ea8dde63b3614f29192033
@@ -5128,6 +5172,8 @@ images/character/character_145003.png
 images/character/character_145002.png
 5ad26b25bef7dc710d8da6c4c4f59735
 images/character/character_145001.png
+e3bb5572a3d4f19aca3ff0c53bd471b9
+images/character/character_144015.png
 d5d16db37eda369ae01aed76c34c6911
 images/character/character_144014.png
 e227804ccea4867b5985737af43ba640
@@ -5254,6 +5300,8 @@ images/character/character_113001.png
 images/character/character_11001.png
 4dd75f0f695b981d0a1aced3c9877153
 images/character/character_105008.png
+fa5a34fcd0c077e495f57b58baa442f8
+images/character/character_105007.png
 ba821f5f199dc2cc40689594fc4c4497
 images/character/character_105005.png
 e238e8920046534f8fe849043d6d4670
