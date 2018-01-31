@@ -827,7 +827,7 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
-Raises Heathcliff's level cap. ([Spirited Chocolatier] Philia only) 
+Raises Philia's level cap. ([Spirited Chocolatier] Philia only) 
 Rarity: High
 Valentine's Day Hacking Crystal
 Raises Global Ticket VIP limited characters' level cap.

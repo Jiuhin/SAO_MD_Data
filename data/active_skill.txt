@@ -36,8 +36,8 @@ Protection
 Protection+
 skill_icon_bow_3_{}
 A combination skill. With a little Required MP, it shoots an arrow over the enemies head and rains down arrows in a heart shaped pattern. Recovers all the party members' HP.
-Appassinato Blue+
-Appassinato Blue+
+Appassionato Blue+
+Appassionato Blue+
 skill_icon_bow_3_{}
 A sword skill. Shoots arrows towards the sky and shower them with the arrows. Restores your HP. Reduces incoming damage for a certain amount of time. 
 Graceful Wind+
@@ -736,9 +736,9 @@ A low-level fire spell. Fire a small fireball at a target.
 Fireball
 Fireball
 skill_icon_bow_3_{}
-A combination skill. Shoots an arrow over the enemies head and rains down arrows in a heart shaped pattern. Recovers all the party members' HP.
-Appassinato Blue
-Appassinato Blue
+Shoots an arrow over the enemies head and rains down arrows in a heart shaped pattern. Recovers all the party members' HP.
+Appassionato Blue
+Appassionato Blue
 skill_icon_bow_3_{}
 A sword skill. Shoots arrows towards the sky and shower them with the arrows. Restores your HP.
 Graceful Wind
@@ -1082,7 +1082,7 @@ Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed rig
 Prone Shot
 Prone Shot
 skill_icon_mace_3_{}
-A combination skill. Hit the ground and attack with sweets. Recover your combination partner's HP and raise thier critical damage.
+A combination skill. Hit the ground and attack with sweets. Recover your combination partner's HP and raise their critical damage.
 Sweet Moment
 Sweet Moment
 skill_icon_mace_3_{}
@@ -1531,7 +1531,7 @@ Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
 skill_icon_dagger_3_{}
-A combination skill. Mini-size candies rain down from a giant candy. Recovers your combination partner's HP and raises thier critical damage.
+A combination skill. Mini-size candies rain down from a giant candy. Recovers your combination partner's HP and raises their critical damage.
 Candy Rain
 Candy Rain
 skill_icon_dagger_3_{}
@@ -1839,7 +1839,7 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
-A combination skill. Slash through an enemy's back and attack with some fresh cream. Recover your combination partner's HP and raise thier critical damage.
+A combination skill. Slash through an enemy's back and attack with some fresh cream. Recover your combination partner's HP and raise their critical damage.
 Sweet Cream
 Sweet Cream
 skill_icon_finesword_3_{}
@@ -2406,7 +2406,7 @@ slash with the other.
 Double Circular
 Double Circular
 skill_icon_sword_3_{}
-A combination skill. Slash through an enemy's back and perform a combo attack. Recover your combination partner's HP and raise thier critical damage.
+A combination skill. Slash through an enemy's back and perform a combo attack. Recover your combination partner's HP and raise their critical damage.
 Screw Love Drive
 Screw Love Drive
 skill_icon_sword_3_{}

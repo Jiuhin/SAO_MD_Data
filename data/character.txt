@@ -1,22 +1,13 @@
-$t<
-,	<
-lR:
-Xm9
-,$6
-lT5
-0_4
-T64
-8m2
-hw0
-hS0
-4.0
-Do.
-H-.
-h&+
-,b%
-Dl"
-,J"
-(_!
+Xu<
+ln2
+h/0
+TK/
+xp.
+t9'
+(K$
+X $
+xm"
+P("
 P&	
 walk
 wakeup
@@ -182,7 +173,6 @@ dead
 dash
 damage
 charge_old
-"D6
 charge
 back_step
 attack_3
@@ -539,7 +529,7 @@ wakeup
 wait
 stun
 step
-zDj
+zD6
 skill_16310101
 skill_163101
 skill_161201
@@ -632,6 +622,7 @@ wait
 stun
 step
 m5	
+HDhg
 skill_103125
 skill_102202
 skill_101101
@@ -718,7 +709,7 @@ wakeup
 wait
 stun
 step
-HDr
+HD>
 skill_103122
 skill_102201
 skill_101101
@@ -1524,7 +1515,6 @@ wakeup
 wait
 stun
 step
-zDB9
 skill_2313001
 	5	
 skill_23130
@@ -2208,6 +2198,7 @@ wakeup
 wait
 stun
 step
+zDj
 skill_184101
 skill_182101
 skill_181101
@@ -2498,7 +2489,6 @@ wakeup
 wait
 stun
 step
-HD.G
 skill_183103
 skill_182101
 skill_181101
@@ -2540,8 +2530,8 @@ wakeup
 wait
 stun
 step
+HDvm
 skill_18310101
-HD:s
 skill_183101
 skill_182101
 skill_181101
@@ -2684,7 +2674,6 @@ down
 dead
 dash
 damage
-"D"
 charge_old
 charge
 back_step
@@ -2820,6 +2809,7 @@ dead
 dash
 damage
 charge_old
+"Dnk
 charge
 back_step
 attack_3
@@ -2850,6 +2840,8 @@ wakeup
 wait
 stun
 step
+Dx{
+DZz
 skill_164101
 skill_161201
 skill_161102
@@ -2864,8 +2856,9 @@ down
 dead
 dash
 damage
+"DZ
 charge_old
-"Dz
+"DF
 charge
 back_step
 attack_3
@@ -2909,7 +2902,9 @@ down
 dead
 dash
 damage
+"Db
 charge_old
+"DN
 charge
 back_step
 attack_3
@@ -2953,7 +2948,6 @@ down
 dead
 dash
 damage
-"D.
 charge_old
 charge
 back_step
@@ -2999,7 +2993,9 @@ down
 dead
 dash
 damage
+"Dz
 charge_old
+"Df
 charge
 back_step
 attack_3
@@ -3089,7 +3085,6 @@ down
 dead
 dash
 damage
-"D.N
 charge_old
 charge
 back_step
@@ -3134,7 +3129,9 @@ down
 dead
 dash
 damage
+"Dnp
 charge_old
+"DZr
 charge
 back_step
 attack_3
@@ -3165,6 +3162,7 @@ wait
 stun
 step
 r,	
+zDt
 skill_163101
 skill_161201
 skill_161102
@@ -3179,6 +3177,7 @@ down
 dead
 dash
 damage
+"Dr
 charge_old
 charge
 back_step
@@ -3269,8 +3268,9 @@ down
 dead
 dash
 damage
+"DN
 charge_old
-"Dn
+"D:
 charge
 back_step
 attack_3
@@ -3314,7 +3314,7 @@ down
 dead
 dash
 damage
-"Dr
+"D>
 charge_old
 charge
 back_step
@@ -3362,7 +3362,6 @@ down
 dead
 dash
 damage
-"D&,
 charge_old
 charge
 back_step
@@ -3408,7 +3407,9 @@ down
 dead
 dash
 damage
+"DnN
 charge_old
+"DZP
 charge
 back_step
 attack_3
@@ -3438,6 +3439,7 @@ wakeup
 wait
 stun
 step
+D(b
 skill_163113
 skill_161201
 skill_161102
@@ -3453,7 +3455,6 @@ down
 dead
 dash
 damage
-"D"{
 charge_old
 charge
 back_step
@@ -3484,8 +3485,8 @@ wakeup
 wait
 stun
 step
-zD2
 skill_16310101
+zDH
 skill_163101
 skill_161201
 skill_161102
@@ -3500,9 +3501,9 @@ down
 dead
 dash
 damage
-"Dj
+"D6
 charge_old
-"DV
+"D"
 charge
 back_step
 attack_3
@@ -3532,6 +3533,7 @@ wakeup
 wait
 stun
 step
+zDN
 skill_16310101
 skill_163101
 skill_161201
@@ -3591,9 +3593,7 @@ down
 dead
 dash
 damage
-"DF
 charge_old
-"D2
 charge
 back_step
 attack_3
@@ -3638,9 +3638,8 @@ down
 dead
 dash
 damage
-"Db
+"D.	
 charge_old
-"DN
 charge
 back_step
 attack_3
@@ -3684,7 +3683,9 @@ down
 dead
 dash
 damage
+"Dj
 charge_old
+"DV,
 charge
 back_step
 attack_3
@@ -3729,6 +3730,7 @@ dead
 dash
 damage
 charge_old
+"DjM
 charge
 back_step
 attack_3
@@ -3758,9 +3760,7 @@ wakeup
 wait
 stun
 step
-HDJ]
 skill_14410501
-HD&d
 skill_144105
 skill_141202
 skill_141101
@@ -3801,6 +3801,7 @@ serif
 4_sinon_144014
 Sinon
 [Korean Dress in Breeze] Sinon
+HCw'
 walk
 wakeup
 wait
@@ -3851,6 +3852,7 @@ wakeup
 wait
 stun
 step
+aDH
 skill_144102
 skill_141201
 skill_141101
@@ -4027,6 +4029,7 @@ serif
 4_sinon_144001
 Sinon
 [The Archer - overcoming the past] Sinon
+HCw'
 walk
 wakeup
 wait

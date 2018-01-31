@@ -5202,7 +5202,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 15-2
-Valentine's Day Frenzy Master +2
+Valentine's Day Frenzy (Master +2)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -5211,7 +5211,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 15-1
-Valentine's Day Frenzy Master +2
+Valentine's Day Frenzy (Master +2)
 A Kookie Fire Dragon, Hungry Destroyer
 makes an invasion! 
 Watch for a good chance to parry 
@@ -5220,7 +5220,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 14-2
-Valentine's Day Frenzy Master +1
+Valentine's Day Frenzy (Master +1)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -5229,7 +5229,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 14-1
-Valentine's Day Frenzy Master +1
+Valentine's Day Frenzy (Master +1)
 A Kookie Fire Dragon, Hungry Destroyer
 makes an invasion! 
 Watch for a good chance to parry 
@@ -5238,7 +5238,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 13-2
-Valentine's Day Frenzy Master
+Valentine's Day Frenzy (Master)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -5247,7 +5247,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 13-1
-Valentine's Day Frenzy Master
+Valentine's Day Frenzy (Master)
 A Kookie Fire Dragon, Hungry Destroyer
 makes an invasion! 
 Watch for a good chance to parry 
@@ -5256,7 +5256,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 12-2
-Valentine's Day Frenzy EX
+Valentine's Day Frenzy (EX)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -5265,7 +5265,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 12-1
-Valentine's Day Frenzy EX
+Valentine's Day Frenzy (EX)
 A Kookie Fire Dragon, Hungry Destroyer
 makes an invasion! 
 Watch for a good chance to parry 
@@ -5274,7 +5274,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 11-2
-Valentine's Day Frenzy Expert
+Valentine's Day Frenzy (Expert)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -5283,7 +5283,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 11-1
-Valentine's Day Frenzy Expert
+Valentine's Day Frenzy (Expert)
 Finish Story
 Story
 bg_thumbnail_0
@@ -17222,7 +17222,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 15-2
-Valentine's Day Frenzy Master +2
+Valentine's Day Frenzy (Master +2)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -17231,7 +17231,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 15-1
-Valentine's Day Frenzy Master +2
+Valentine's Day Frenzy (Master +2)
 A Kookie Fire Dragon, Hungry Destroyer
 makes an invasion! 
 Watch for a good chance to parry 
@@ -17240,7 +17240,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 14-2
-Valentine's Day Frenzy Master +1
+Valentine's Day Frenzy (Master +1)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -17249,7 +17249,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 14-1
-Valentine's Day Frenzy Master +1
+Valentine's Day Frenzy (Master +1)
 A Kookie Fire Dragon, Hungry Destroyer
 makes an invasion! 
 Watch for a good chance to parry 
@@ -17258,7 +17258,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 13-2
-Valentine's Day Frenzy Master
+Valentine's Day Frenzy (Master)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -17267,7 +17267,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 13-1
-Valentine's Day Frenzy Master
+Valentine's Day Frenzy (Master)
 A Kookie Fire Dragon, Hungry Destroyer
 makes an invasion! 
 Watch for a good chance to parry 
@@ -17276,7 +17276,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 12-2
-Valentine's Day Frenzy EX
+Valentine's Day Frenzy (EX)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -17285,7 +17285,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 12-1
-Valentine's Day Frenzy EX
+Valentine's Day Frenzy (EX)
 A Kookie Fire Dragon, Hungry Destroyer
 makes an invasion! 
 Watch for a good chance to parry 
@@ -17294,7 +17294,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 11-2
-Valentine's Day Frenzy Expert
+Valentine's Day Frenzy (Expert)
 Striking out with women made Salamander Lancer 
 more powerful.
 Watch for a good chance to parry an attack 
@@ -17303,7 +17303,7 @@ Defeat All Enemies
 Quest
 bg_thumbnail_8002
 Quest 11-1
-Valentine's Day Frenzy Expert
+Valentine's Day Frenzy (Expert)
 Finish Story
 Story
 bg_thumbnail_0

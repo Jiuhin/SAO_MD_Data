@@ -1,79 +1,77 @@
-h{	
-$y	
-dx	
-0q	
-Xn	
-(m	
-Hj	
-Li	
-$h	
-Hg	
-de	
-8d	
-(c	
-Hb	
-<a	
-t_	
-(_	
-L]	
-L[	
-lZ	
-$Z	
-4X	
-0V	
-TU	
+P}	
+Xz	
+(y	
+$x	
+4w	
+Hv	
+Lu	
+$s	
+hr	
+<j	
+Ti	
+Th	
+tg	
+(g	
+<e	
+Da	
+h_	
+h[	
+$[	
+PZ	
+pY	
+$Y	
+DX	
+8V	
+HU	
 dT	
-$T	
-TR	
-pQ	
-$Q	
-8P	
-DN	
-hM	
-8L	
-<J	
-XI	
+0S	
+PR	
+4Q	
+xO	
+,O	
+LN	
+tM	
+,M	
+LL	
+hK	
+0J	
+HI	
 tH	
 (H	
-XF	
-0E	
-DD	
-xB	
-(B	
-LA	
-X?	
-t>	
-(>	
-t<	
-,<	
+8G	
+TF	
+tE	
+lC	
+$C	
+LB	
+hA	
+d?	
+<>	
+p<	
 t9	
-,9	
-D8	
-d7	
-06	
-T5	
-44	
-P3	
-l2	
-$2	
+(9	
+<8	
+l7	
+$7	
+D6	
+<4	
+d3	
+42	
 L1	
-p0	
-$0	
-X.	
+d0	
+</	
+P.	
 h-	
-H,	
-T)	
-x(	
-,(	
-H'	
-l&	
-$&	
-L%	
-h$	
-L"	
+D,	
+l+	
+<(	
+x&	
+(&	
+<%	
+T$	
+X"	
 d!	
-H 	
-D		
+0 	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -1084,14 +1082,8 @@ T	8
 Valentine's Day Upgrade Crystal  x1
 MT	8
 Valentine's Day Gold Medal x1
-S	8
-500EP
-S	8	t
-300EP
-!S	8
-200EP
 R	8
-Fateful Valentine's Day
+Fatal Valentine's Day
 YR	8
 Valentine's Day Upgrade Crystal  x1
 Q	8
@@ -9000,6 +8992,19 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+Valentine's Day Upgrade Crystal  x1
+Valentine's Day Gold Medal x1
+1xi
+Valentine's Day Silver Medal x5
+Valentine's Day Silver Medal x3
+iwi
+Valentine's Day Silver Medal x2
+Valentine's Day Silver Medal x1
+Valentine's Day Bronze Medal x5
+Valentine's Day Bronze Medal x3
+Valentine's Day Bronze Medal x2
+uui
+Valentine's Day Bronze Medal x1
 )5Z
 Party Hakama R3
 Party Hakama R2

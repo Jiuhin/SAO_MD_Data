@@ -22,7 +22,7 @@ Complete OS Episode 0 "Someone's Requiem"
 Skill Slot material present!
 Join a Guild
 9016001
-Receive a gift with "Merry Christmas!" in Gift Frenzy Quest
+Receive a gift in the Gift Frenzy Quest  "Merry Christmas!" 
 9015004
 Complete SAO Game! (Complete SAO Game Complete Memorial Quest)
 9015003,1,12004
@@ -1188,30 +1188,28 @@ Complete " Inherited Tradition - A Priest's Will (Master +2)" in under 1min.
 Complete " Inherited Tradition - A Priest's Will (Master +1)".
 4077021
 Complete " Inherited Tradition - A Priest's Will (Int.)".
->88
-4076018,1,100
-Complete "Valentine's Day Frenzy (Master+1) Part2" with a 100-hit combo or more.
->78
-4076017,1,100
-Complete "Valentine's Day Frenzy (Master+1) Part1" with a 100-hit combo or more.
+4076020,1,40
+Complete "Valentine's Day Frenzy (Master+2) Part2" in under 40 sec.
+4076019,1,30
+Complete "Valentine's Day Frenzy (Master+2) Part1" in under 30 sec.
 :68
-407601,4000000
-Earn a score of 4,000,000 in Valentine's Day Frenzy
+407601,7400000
+Earn a score of 7,400,000 in Valentine's Day Frenzy
 :58
-407601,4500000
-Earn a score of 4,500,000 in Valentine's Day Frenzy
+407601,8000000
+Earn a score of 8,000,000 in Valentine's Day Frenzy
 :48
-407601,4900000
-Earn a score of 4,900,000 in Valentine's Day Frenzy
+407601,8600000
+Earn a score of 8,600,000 in Valentine's Day Frenzy
 /38
 4076018
-Complete "Valentine's Day Frenzy (Master +1)".
+Complete "Valentine's Day Frenzy (Master +1) Part 2".
 /28
 4076016
-Complete "Valentine's Day Frenzy (Master)".
+Complete "Valentine's Day Frenzy (Master) Part 2".
 /18
-4076012
-Complete "alentine's Day Frenzy (Expert)".
+4076009
+Complete "Valentine's Day Frenzy".
 4075024,2,1,1
 Complete "Mochi Mochi Panic! (Master)" with a sword character.
 4075025,2
