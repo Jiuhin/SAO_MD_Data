@@ -122,6 +122,7 @@ canvas_mask11.psb
 1005_yuuki
 1004_sinon_shino
 1004_sinon_os
+1004_sinon_alo_circus
 1004_sinon_alo_bath_towel
 1004_sinon_alo
 1004_sinon

@@ -73,6 +73,8 @@ hp_up
 ブレイクダメージ率+1000%
 [D]クリティカルなし
 [D]クリティカルなし
+Increases Attack by 50% vs Dark-elem. enemies 
+[Enemy Only] Attack +50% vs Dark-elem. 
 Increases damage by 100% vs Water-elem. enemies  
 [Enemy Only] Damage Received +100% vs Water-elem 
 Increases Attack by 50% vs Earth-elem. enemies 
@@ -249,6 +251,8 @@ Greatly increases max HP & guard durability.
 HP & Guard Durability Up
 Increases Non-elem. character's max HP and MP by 3%.
 Max HP/MP +3% (Non-elem.)
+Increases Attack and MP Recovery by 5% in the 2nd PvP Event.
+ATK&MP Recovery UP(2nd BoB)
 7hm
 Increases Attack for 30-hit+ combos by 6%. (Non-elem.)
 30+ Combo: Attack +6% (Non-elem.)
@@ -951,6 +955,8 @@ Increases max MP and Crit. by 12%.
 MP & Crit. +12%
 Increases max MP and Crit. by 3%.
 MP & Crit. +3%
+Increases max MP and Atk. by 20%.
+MP & Atk. +20%
 Increases max MP and Atk. by 15%.
 MP & Atk. +15%
 Increases max MP and Atk. by 12%.

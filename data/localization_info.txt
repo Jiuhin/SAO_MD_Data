@@ -1,4 +1,6 @@
 due to temporary data mismatch, a maintenance will be conducted. We sincerely apologize for any inconvenience caused.
+Your User Data is now linked to your Facebook account. 
+Your Facebook account is unlinked.
 Minute(s)
 Hour(s)
 Day(s)
@@ -272,6 +274,17 @@ The item didn't sell.
 Some items could not be received.
 {0} replaced with {1}x {2}
 Back to Co-op Party
+You will retire if you return from here. Still want to return?
+Ready to start
+Winning {0} consecutive victories! You get {0} pcs of Crown on your next victory!
+You get {0} pcs of Crown on your next victory!
+No match
+Start in : 
+Cancel
+Your Current BoB Rank
+Your Earned BoB Rank
+[Requirement] 
+Earn the BoB Rank {0}
 You can use {0} to unlock this quest.
 Failed to use {0}.
 Used {0}.
@@ -366,6 +379,7 @@ Rapier
 Dual Blades
 Sword
 {} acquired!
+Failed to report
 Party Num. +{}UP
 Top {} Players' Score
 Do you want to evacuate?
@@ -388,6 +402,7 @@ Max ATK: {2}
 Max DEF: {3}
 Max CRIT:{4}
 Not enough Memory Diamonds.
+Please wait...
 {0} eliminated combo window and buff effect.
 {0} eliminated combo window and buff effect.
 {0} eliminated combo window.

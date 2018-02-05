@@ -869,6 +869,12 @@ TBD
 Party Hakama R2
 armor02_0064
 TBD
+Black Soaring Coat R5
+armor02_0056
+TBD
+Black Soaring Coat R4
+armor02_0056
+TBD
 Blue Silver Knight Armor R4
 armor02_0055
 TBD

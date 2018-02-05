@@ -1,5 +1,3 @@
-チョコレート争奪クエスト!!
-Present
 Gift Frenzy Quest
 Present
 SAO Game Complete Memorial CP
@@ -32,16 +30,12 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
-Guardolf Returns
-Equip Event
 Festival Kobold Returns
 Equip Event
 Kidnap Gang Returns
 Equip Event
 New Year Fore-end Equipment Creation
 Equip Event
-The Evils
-Weekly Event
 Christmas Equipment Creation
 Equip Event
 Playing Cards Equipment Creation
@@ -178,24 +172,15 @@ Twilight Castle in Akasha
 Event
 Shadowy castle in the night
 Event
-Blade Arbiter
-Event
 One Lap Behind
 Event
 The Archenemy
 Event
-Breakthrough in Sand
-Event
 Bullet of Bullets
-Event
-Event
-Feb the Second Half Ranking
 Event
 Flowers in the Wilderness
 Event
 Fierce Fight in Sand
-Event
-A Dark Plot Against Fliers
 Event
 Inherited Tradition - A priests will
 Event
@@ -294,8 +279,6 @@ The stage and a cat fairy.
 Event
 Backed by the Cheer of My Daughter
 Event
-OS After Story
-Event
 OS Episode 0
 Event
 Bean Wars
@@ -352,17 +335,6 @@ Practice
 Chara Trial
 Memory Defrag
 Tutorial
-One Small Step
-Phantom Bullet
-Bullet of a Phantom
-What It Means to Be Strong
-Death Chaser
-Death Gun
-Bullet of Bullets
-Crimson Memories
-Showdown in the Wilderness
-Guns and Swords
-GGO
 Memories of Fresh Blood
 Ice Sniper
 The World of Guns

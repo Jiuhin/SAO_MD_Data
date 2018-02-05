@@ -71,6 +71,10 @@ ui/blacksmith/blacksmith_exchange_s.csb
 ui/blacksmith/blacksmith_change_equipment.csb
 ui/blacksmith/blacksmith_popup_not_gold_confirm_s.csb
 ui/gift_box/gift_box_popup_s.csb
+ui/common/common_list_pvp_reward.csb
+ui/common/common_quest_party.csb
+ui/common/common_pvp_rank_reward_s.csb
+ui/common/common_quest_pvp_window_widget.csb
 ui/common/common_popup_ep_market.csb
 ui/common/common_list_ep_market.csb
 ui/common/common_evolution_message_s.csb
@@ -132,6 +136,7 @@ ui/quest/quest_event_story_button.csb
 ui/quest/quest_world_select.csb
 ui/quest/quest_chapter_select.csb
 ui/confirm_popup/confirm_popup.csb
+ui/game/game_pvp_score_widget.csb
 ui/game/game_boss_description_sore.csb
 ui/game/game_event_floor.csb
 ui/game/game_practice_area.csb
@@ -186,6 +191,10 @@ ui/tower/party_character_widget.csb
 ui/tower/button_character_slot_widget.csb
 ui/story_archive/story_archive_button_select_widget.csb
 ui/story_archive/story_archive_s.csb
+ui/result/result_confirm_report.csb
+ui/result/result_clear_pvp_3.csb
+ui/result/result_clear_pvp_2.csb
+ui/result/result_clear_pvp_1.csb
 ui/result/result_ep_exchange_s.csb
 ui/result/result_user_rank_s.csb
 ui/result/result_treasure_popup.csb
@@ -210,6 +219,8 @@ ui/quest_board/quest_board_party_info_s.csb
 ui/quest_board/quest_board_party_edit.csb
 ui/quest_board/quest_board_invitation_candidate_list_s.csb
 ui/quest_board/quest_board_collaboration_party_list_s.csb
+ui/quest/quest_pvp_matching.csb
+ui/quest/quest_pvp_top.csb
 ui/quest/quest_multi_select_s.csb
 ui/quest/quest_supporter_select_s.csb
 ui/quest/quest_sub_status.csb

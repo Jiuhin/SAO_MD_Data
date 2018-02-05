@@ -4748,7 +4748,8 @@ Quest 1-1
 Colosseum
 Nemesis the Fatal Scythe appears 
 in the Limestone Cave field. 
-Figure out their attacks with a sharp atrocious scythe
+Figure out their attacks with
+a sharp atrocious scythe
 to fight back!
 Survive until the end of time
 Quest
@@ -4771,7 +4772,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time
@@ -4795,7 +4797,8 @@ Quest 1-1
 Colosseum
 Nemesis the Fatal Scythe appears 
 in the Limestone Cave field. 
-Figure out their attacks with a sharp atrocious scythe
+Figure out their attacks with
+a sharp atrocious scythe
 to fight back!
 Survive until the end of time
 Quest
@@ -4818,7 +4821,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time
@@ -4842,7 +4846,8 @@ Quest 1-1
 Colosseum
 Nemesis the Fatal Scythe appears 
 in the Limestone Cave field. 
-Figure out their attacks with a sharp atrocious scythe
+Figure out their attacks with
+a sharp atrocious scythe
 to fight back!
 Survive until the end of time
 Quest
@@ -4865,7 +4870,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time
@@ -4903,7 +4909,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time
@@ -4933,7 +4940,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time
@@ -16768,7 +16776,8 @@ Quest 1-1
 Colosseum
 Nemesis the Fatal Scythe appears 
 in the Limestone Cave field. 
-Figure out their attacks with a sharp atrocious scythe
+Figure out their attacks with
+a sharp atrocious scythe
 to fight back!
 Survive until the end of time
 Quest
@@ -16791,7 +16800,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time
@@ -16815,7 +16825,8 @@ Quest 1-1
 Colosseum
 Nemesis the Fatal Scythe appears 
 in the Limestone Cave field. 
-Figure out their attacks with a sharp atrocious scythe
+Figure out their attacks with
+a sharp atrocious scythe
 to fight back!
 Survive until the end of time
 Quest
@@ -16838,7 +16849,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time
@@ -16862,7 +16874,8 @@ Quest 1-1
 Colosseum
 Nemesis the Fatal Scythe appears 
 in the Limestone Cave field. 
-Figure out their attacks with a sharp atrocious scythe
+Figure out their attacks with
+a sharp atrocious scythe
 to fight back!
 Survive until the end of time
 Quest
@@ -16885,7 +16898,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time
@@ -16923,7 +16937,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time
@@ -16953,7 +16968,8 @@ Quest
 bg_thumbnail_4002
 Quest 1-1
 Wilderness
-The Camanideel Ape's got both Fire force and Wind force.
+The Camanideel Ape's 
+got both Fire force and Wind force.
 Counter with Water/Fire elemental skill 
 and win a high score!
 Survive until the end of time

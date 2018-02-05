@@ -52,6 +52,9 @@ Failed to exchange Item (P102902:{0})
 Failed to fetch Item list. (P102901:{0})
 Failed to unlock skill slot.
 (P102801:{0})
+Matching Error（P102707:{0}）
+Matching Error（P102706:{0}）
+Matching Error（P102705:{0}）
 You have already departed.
 (P102704:{0})
 Party could not be found.
@@ -89,6 +92,10 @@ Failed to reset game progress data.
 (P102402:{0})
 Failed to update game progress data.
 (P102401:{0})
+Failed to link to your Facebook account. 
+(P102333:{0}）
+Failed to unlink from your Facebook account.
+(P102332:{0}）
 An error has occured. (P102331:{0}）
 Please login to GooglePlayStore. (P102330:{0}）
 Purchase is restricted by device settings. (P102329:{0}）
@@ -253,6 +260,8 @@ Failed to send message.
 (P101102:{0})
 Failed to retrieve data.
 (P101101:{0})
+Failed to unlock attribute.
+P101007:{0}）
 Failed to retrieve character data.
 (P101006:{0})
 Failed to unlock attribute.

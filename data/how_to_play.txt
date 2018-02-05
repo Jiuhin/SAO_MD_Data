@@ -696,6 +696,108 @@ Party Cost
 </panel>
 Party Formation
 Parties
+<panel>
+<body_text font_size 
+'24'>　PvP event is a limited time event quest where you compete 
+with 
+　your matched opponent for high score. 
+　Upgrade your 
+BoB Rank to get awesome items!
+　[PvP Event Rewards]
+　There are two ways to earn rewards.
+"First Achieved BoB Rank Reward" 
+　It's based on your BoB Rank you reached during the event. 
+　You can get "Fragment" and other items that are exchangeable 
+for 
+5 Upgradable Armors or limited 
+4 weapons at Exchange Shop. 
+　You get this reward as you achieve each BoB Rank. 
+If you are seeded and start at some BoB Rank, 
+after finishing your first battle, 
+　you will be given all the rewards below your BoB Rank. 
+"Final Achieved BoB Rank Reward" 
+　It's based on your final BoB Rank.
+　You can get "Memory Diamond" or "Rainbow Essence". 
+　You will be rewarded after the PvP event. 
+　[PvP Event Rules] 
+Given Time 
+　In the event, players fight a battle within a given time 
+and complete 
+　with an opponent for score. 
+Before time is up, bosses restore their HP 
+and keep attacking you. 
+Hinder your opponent
+　you can make your opponent bend backward by performing 
+Head Splitter
+　(Flick down while jumping).
+Your opponent won't get damaged 
+NPC
+　As a result of matching, your opponent might be an NPC.
+　An NPC is not a real player but a party who participated 
+the PvP event before.
+　It displays NPC. 
+There's no change in the rules. 
+Crown
+　You earn a crown when you beat your opponent's score. 
+　There are consecutive victory 
+　bonus opportunities that you could earn two crowns at once. 
+However, if you lost a battle in a higher BoB Rank, 
+you may lose your earned crowns. 
+BoB Rank
+　Your BoB Rank upgrades as you earn enough crowns. 
+Try to win a higher rank to get better rewards!
+　You may lose your earned crowns when you lose 
+a battle in a higher BoB Rank.
+　  
+Retiring 
+　If you retire from a battle after matching opponents 
+　or during the battle, you lose it. 
+　Also, if your connection is dropped after matching opponents 
+　or during the battle, you automatically retire from the battle
+　and lose it.
+A Draw Game
+　If a game ends in a tie, both players will lose. 
+　[PvP Event Score] 
+　In the PvP Event, players compete with their opponent 
+　for score. 
+Score Calculation
+　Damage Score - based on the damage you cause
+　 - will be added
+　Damage Received Score - based on the damage you receive
+　 - will be subtracted
+　Also, when you succeed to parry, you get a parry bonus 
+　Which adds more damage on your attacks. 　
+Scores never be under zero.
+Parry bonuses will only be added to the players who did parry.
+Combo counts will also only be added to yourself. 
+　Your opponent won't be influenced.
+Even if damage you cause on regular enemies exceeds their HP, 
+the Damage Score won't be bigger than the HP.
+　[Tips] 
+Earn a title with special effects 
+　In a previous PvP event, you can earn a title with special 
+　effects for the next PvP Event.
+　Get one of those and try to win a higher score!
+Fragment Carry Over
+　You can carry over Fragments. 
+　Collect Fragments in every PvP Event to get
+5 Upgradable Armors or limited 
+4 weapons at Exchange Shop. 
+　[Attentions] 
+To play this event, you must have completed Quests 3-10
+Find this event from "Quest" > "Extra Quest".
+Even if your party's HP drops to 0, within a given time, 
+　it restores after the countdown. 
+After choosing Continue, your score will not be affected.
+Score won't be updated when the event is over.
+You will be given your Final Achieved BoB Rank Reward 
+　after the calculation.        
+After the event period, you won
+t be able to complete 
+　the mission even if you clear the quest.
+　</body_text>
+</panel>
+PvP Event
 <panel><image x
 '375.0f' y
 '470.0f' w 

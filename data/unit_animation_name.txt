@@ -80,6 +80,7 @@ charge_1
 jump_attack
 jump_attack
 jump_attack
+charge_reload
 guard
 jump
 jump
@@ -2643,6 +2644,7 @@ charge_1
 jump_attack
 jump_attack
 jump_attack
+charge_reload
 guard
 jump
 jump

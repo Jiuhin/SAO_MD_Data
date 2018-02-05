@@ -409,6 +409,34 @@ received!
 text_received
 You already have this character. You received an item instead!
 text_replaced_item_title
+Final
+text_ranking_title
+Change Party
+text_button_change_party
+Let's do this!
+text_gesture
+Ready
+text_ready
+In Preparation
+text_preparation
+Friends Only
+text_switch
+Recruit members among your friends
+text_lock_info
+Please wait...
+text_recruiting
+First BoB Rank Reward
+text_tab_2
+First BoB Rank Reward
+text_tab_2_active
+Final BoB Rank Reward
+text_tab_1
+Final BoB Rank Reward
+text_tab_1_active
+Details
+text_information
+Current BoB Rank
+text_bob_rank
 Total EP
 text_total_ep
 Complete!
@@ -837,6 +865,26 @@ Close
 text_watch
 Close
 text_close
+Do you want to report an abusive user? Please note that we do not reply to reports
+text_confirm
+Abusive User Report
+text_title
+Next Quest
+text_play_next
+Try Again
+text_play_again
+text_exp_after
+Used up all the strength and
+lost in the fierce battle...
+text_treasure_info
+No Rewards
+text_no_reward_lose
+No Rewards
+text_no_reward_win
+Reports
+text_report
+Event Over
+text_dates_end
 text_rank_ep
 Rank Bonus
 text_degree_of_difficulty_bonus
@@ -962,6 +1010,31 @@ Event Settings
 text_event_setting
 No suggested parties found.
 text_no_party
+Departure
+text_departures
+Second
+text_second
+Matching Time:
+text_matching_time
+Field:
+text_field
+This event has been ended.
+text_end
+Event Over
+text_dates_end
+ENTRY
+text_departures
+Edit
+text_edit_party
+Edit Party
+text_info
+Exchange
+Shop
+text_pvp_item_exchange
+Reward List
+text_pvp_compensation_list
+Rule
+text_pvp_rule
 Form Co-op Party
 text_party_edit
 Find a Party
