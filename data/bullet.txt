@@ -1,9 +1,11 @@
-hv	
-pE	
-,D	
-h9	
-P(	
-,&	
+Tv	
+lU	
+xR	
+LB	
+T9	
+p8	
+L1	
+<(	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -1560,7 +1562,7 @@ JzP
 JzP
 JzP
 JzP
-Ax7
+Al/
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -3632,6 +3634,9 @@ bullet_1999_damage
 dead
 bullet_1999_damage
 wait
+bullet_1129_automatic_gun_reverse
+bullet_1126_ray_drone_beam
+wait
 bullet_1125_celestialon_energy
 wait
 bullet_1125_celestialon_energy
@@ -3798,6 +3803,8 @@ dead
 appear
 bullet_1113_1
 bullet_1113_karuta
+wait
+bullet_1111_automatic_gun
 wait
 bullet_1111_automatic_gun
 wait
@@ -4391,6 +4398,8 @@ wait
 bullet_1046_samurai_kagachi
 wait
 bullet_1046_samurai_kagachi
+wait
+bullet_1045_samurai_kamaitachi_2
 wait
 bullet_1045_samurai_kamaitachi_2
 wait

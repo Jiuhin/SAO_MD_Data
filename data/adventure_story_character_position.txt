@@ -40,6 +40,10 @@ canvas_mask11.psb
 2003_pina
 2002_klein_avatar
 2001_kirito_avatar
+1068_daisy
+1067_arfa-sys
+1066_zeliska
+1065_kureha
 1061_orchis
 1060_epidend
 1056_arianrhod
@@ -110,11 +114,13 @@ canvas_mask11.psb
 1008_klein
 1007_lisbeth_tutorial
 1007_lisbeth_os
+1007_lisbeth_ggo_fb
 1007_lisbeth_equip
 1007_lisbeth_bath_towel
 1007_lisbeth_alo
 1007_lisbeth
 1006_silica_os
+1006_silica_ggo_fb
 1006_silica_bath_towel
 1006_silica_alo
 1006_silica
@@ -122,6 +128,7 @@ canvas_mask11.psb
 1005_yuuki
 1004_sinon_shino
 1004_sinon_os
+1004_sinon_ggo_fb
 1004_sinon_alo_circus
 1004_sinon_alo_bath_towel
 1004_sinon_alo
@@ -129,6 +136,7 @@ canvas_mask11.psb
 1004_shinon_alo
 1003_leafa_suguha_bath_towel
 1003_leafa_suguha
+1003_leafa_ggo_fb
 1003_leafa_bath_towel
 1003_leafa
 1002_asuna_titania
@@ -136,6 +144,7 @@ canvas_mask11.psb
 1002_asuna_real_world
 1002_asuna_os
 1002_asuna_hood
+1002_asuna_ggo_fb
 1002_asuna_bathrobe
 1002_asuna_bath_towel
 1002_asuna_alo_cinderella
@@ -145,6 +154,7 @@ canvas_mask11.psb
 1001_kirito_os
 1001_kirito_kazuto
 1001_kirito_halloween
+1001_kirito_ggo_fb
 1001_kirito_ggo
 1001_kirito_alo_s2
 1001_kirito_alo

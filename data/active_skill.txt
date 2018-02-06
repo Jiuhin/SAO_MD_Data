@@ -448,6 +448,10 @@ Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike
 skill_icon_lance_3_{}
+A combination skill. Stab an enemy with a lance and spin around the lance. Increases your speed and give away balloons from a unicycle. Decreases enemies' defense.
+Divine Scatter
+Divine Scatter
+skill_icon_lance_3_{}
 A combination skill. Attack enemies with a spinning naginata. Increase all the party members' attack. 
 Naginata Spinning
 Naginata Spinning
@@ -555,6 +559,10 @@ skill_icon_lance_1_{}
 Thrust to stop the enemy's movement and rush rapidly.
 Sonic Charge
 Sonic Charge
+skill_icon_rod_3_{}
+A combination skill. Increases your speed and sets summoned animals on enemies. Decreases enemies' defense.
+Animal Circus
+Animal Circus
 skill_icon_rod_3_{}
 A combination skill. Summon a fox and mess with enemies. Increase all the party members' attack. 
 Kagura Fox Dance
@@ -1530,6 +1538,10 @@ skill_icon_mace_1_{}
 Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
+skill_icon_dagger_3_{}
+A combination skill. Increases your speed and give away balloons from a unicycle. Decreases enemies' defense.
+Comical Unicycle
+Comical Unicycle
 skill_icon_dagger_3_{}
 A combination skill. Mini-size candies rain down from a giant candy. Recovers your combination partner's HP and raises their critical damage.
 Candy Rain
