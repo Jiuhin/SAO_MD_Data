@@ -1,10 +1,9 @@
-t}	
-,}	
-l{	
-0z	
-Ly	
-dx	
-8w	
+<}	
+p{	
+${	
+4z	
+tx	
+(x	
 hv	
 Du	
 8s	
@@ -22,64 +21,68 @@ xe
 ,e	
 Dd	
 Tc	
-4b	
-Ha	
-4]	
-8[	
-TZ	
-lY	
+xb	
+,b	
+Xa	
+0_	
+h[	
+8Z	
+XY	
 8X	
-PW	
-4V	
-PU	
-tS	
-$S	
-8R	
-XQ	
-0N	
+XW	
+pV	
+<U	
+XT	
+hS	
+pR	
+4Q	
+LP	
+xO	
+0O	
+LN	
 XM	
-4L	
-PK	
-dJ	
-4I	
-HH	
-TG	
-pE	
-$E	
-HD	
-tC	
-(C	
-4B	
-LA	
-x?	
-0?	
-T<	
-T:	
-t9	
-(9	
-<8	
-X7	
-t6	
-$6	
-45	
-<4	
+pL	
+4K	
+TJ	
+<I	
+xG	
+,G	
+TF	
+0E	
+LD	
+0B	
+DA	
+l>	
+l<	
+H:	
+h9	
+H8	
+d7	
+86	
+84	
 P3	
 h2	
-L1	
-x/	
-,/	
-8.	
-h-	
-0(	
-D'	
-x%	
-(%	
-4$	
-P"	
-t!	
-(!	
-P 	
-D		
+81	
+H0	
+P/	
+t-	
+,-	
+X,	
+p+	
+$+	
+L)	
+t(	
+,(	
+P'	
+l&	
+D%	
+l$	
+$$	
+T"	
+p!	
+$!	
+< 	
+p		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -131,6 +134,18 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+Afterward
+Their Intentions
+Share Your Reason!
+Almost
+Chase in the Forest
+To Catch Up
+Following the Circus
+Kirito's Reason
+Gone Circus
+Can't Fly!?
+Fairies' Remarks
+The circus is coming to town
 m:<
 A Priest's Will
 Lesson
@@ -1079,12 +1094,16 @@ W	8
 Memory Diamond x10
 mW	8
 Valentine's Day Gold Medal x3
+	W	8
+Memory Diamond x5
 V	8
 Valentine's Day Gold Medal x2
 AV	8
 Valentine's Day Gold Medal x1
 U	8
 Rainbow Essence x1
+yU	8
+A Dark Plot Against Fliers
 U	8
 Valentine's Day Upgrade Crystal  x2
 T	8
@@ -1371,6 +1390,8 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+9G6
+Col x300000
 ,G6
 Assault Team Record Crystal x10
 u,G6
@@ -1394,6 +1415,21 @@ U)G6
 [Constant Love] Asuna
 'G6
 Memory Diamond x100
+Dream Circus Circulating Record Crystal x5
+Dream Circus Circulating Record Crystal x4
+Dream Circus Circulating Record Crystal x3
+Dream Circus Circulating Record Crystal x2
+Dream Circus Circulating Record Crystal x1
+Dream Circus Circulating Record Crystal x10
+Dream Circus Circulating Record Crystal x9
+Dream Circus Circulating Record Crystal x8
+Dream Circus Circulating Record Crystal x7
+Dream Circus Circulating Record Crystal x6
+Dream Circus Circulating Record Crystal x5
+Dream Circus Circulating Record Crystal x4
+Dream Circus Circulating Record Crystal x3
+Dream Circus Circulating Record Crystal x2
+Dream Circus Circulating Record Crystal x1
 5M[
 Chocolatiere Circulating Record Crystal x5
 5L[
@@ -9419,6 +9455,10 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+Ringmaster's Dress R3
+Ringmaster's Dress R2
+Ringmaster's Hat R3
+Ringmaster's Hat R2
 Valentine's Day Upgrade Crystal  x1
 Valentine's Day Gold Medal x1
 1xi

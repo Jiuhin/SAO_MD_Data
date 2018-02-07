@@ -1,3 +1,13 @@
+2mk
+TBD
+Ringmaster's Hat R4
+accessory01_0062
+TBD
+Ringmaster's Hat R3
+accessory01_0062
+TBD
+Ringmaster's Hat R2
+accessory01_0062
 .mk
 TBD
 Chocolate Beret R4
@@ -531,6 +541,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+Ringmaster's Dress R4
+armor03_0109
+TBD
+Ringmaster's Dress R3
+armor03_0109
+TBD
+Ringmaster's Dress R2
+armor03_0109
 TBD
 Chocolate Dress R4
 armor03_0108
@@ -1238,6 +1257,12 @@ TBD
 Steel Chest Plate R1
 armor01_0001
 TBD
+Balloon Lance R5
+weapon09_0019
+TBD
+Balloon Lance R4
+weapon09_0019
+TBD
 Amulet R5
 weapon09_0018
 TBD
@@ -1345,6 +1370,12 @@ weapon09_0001
 TBD
 Libra Hastam R4
 weapon09_0001
+TBD
+Dove Rod R5
+weapon08_0039
+TBD
+Dove Rod R4
+weapon08_0039
 TBD
 Purification R5
 weapon08_0038
@@ -2194,6 +2225,12 @@ weapon05_0002
 TBD
 Small Mace R1
 weapon05_0001
+TBD
+Citrine Dagger R5
+weapon04_0057
+TBD
+Citrine Dagger R4
+weapon04_0057
 TBD
 Pastry Dagger R5
 weapon04_0056

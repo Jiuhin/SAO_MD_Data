@@ -3494,6 +3494,12 @@ images/event/4080/4080_banner.png
 images/event/4079/4079_top.png
 b6b23f4afc33d17421f914192be6e768
 images/event/4079/4079_banner.png
+d83bc342dd783ebc356c7490f0bc908f
+images/event/4078/event_item_4078.png
+c96246f60b7e3b43fe1c81188c94d1d2
+images/event/4078/4078_top.png
+4c08d80a408dc8ed2a9b972b3f03ada2
+images/event/4078/4078_banner.png
 d345d065ad3e8545d5d232ad5dd063af
 images/event/4077/4077_top.png
 ed175b29689b3d64ca5e825c4765d5ef

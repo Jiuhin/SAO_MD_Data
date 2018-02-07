@@ -140,7 +140,7 @@ HP +6% (Male Character)
 Increases attack by 6% when using skills.
 Skill Atk +6%
 50% chance Holy-elem. gains 5 MP on enemy kill.
-MP Recovery on Kill (Holy)
+MP Recovery on Kill (Holy-elem.)
 Gain 5 MP on enemy kill.
 5 MP Recovery on Kill
 Increases attack and critical by 3% when equipped by OS Characters.

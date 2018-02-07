@@ -1,4 +1,14 @@
 Character Story
+[Flying Without Wings] Leafa Lv.80
+Character Story
+[Flying Without Wings] Leafa Lv.70
+Character Story
+[Flying Without Wings] Leafa Lv.50
+Character Story
+[Flying Without Wings] Leafa Lv.30
+Character Story
+[Flying Without Wings] Leafa Lv.10
+Character Story
 [The Unexpected] Sinon Lv.80
 Character Story
 [The Unexpected] Sinon Lv.70
@@ -108,6 +118,16 @@ Character Story
 [Libra] Asuna Lv.30
 Character Story
 [Libra] Asuna Lv.10
+Character Story
+[Accompanied By Animals] Sinon  Lv.80
+Character Story
+[Accompanied By Animals] Sinon  Lv.70
+Character Story
+[Accompanied By Animals] Sinon  Lv.50
+Character Story
+[Accompanied By Animals] Sinon  Lv.30
+Character Story
+[Accompanied By Animals] Sinon  Lv.10
 Character Story
 [Realization of Big Wishes] Leafa Lv.80
 Character Story
@@ -328,6 +348,16 @@ Character Story
 [Cheer of Love] Asuna Lv.30
 Character Story
 [Cheer of Love] Asuna Lv.10
+Character Story
+[Choleric Cupid] Sinon Lv.80
+Character Story
+[Choleric Cupid] Sinon Lv.70
+Character Story
+[Choleric Cupid] Sinon Lv.50
+Character Story
+[Choleric Cupid] Sinon Lv.30
+Character Story
+[Choleric Cupid] Sinon Lv.10
 Character Story
 [Cool-Headed Sniper] Sinon Lv.80
 Character Story
@@ -659,6 +689,16 @@ Character Story
 Character Story
 [Brawny Axeman] Agil Lv.10
 Character Story
+[Keep Trying] Yui Lv.80
+Character Story
+[Keep Trying] Yui Lv.70
+Character Story
+[Keep Trying] Yui Lv.50
+Character Story
+[Keep Trying] Yui Lv.30
+Character Story
+[Keep Trying] Yui Lv.10
+Character Story
 [Lovely  Chocolatier] Silica Lv.80
 Character Story
 [Lovely  Chocolatier] Silica Lv.70
@@ -888,6 +928,16 @@ Character Story
 [Umbral Flight] Yuuki Lv.30
 Character Story
 [Umbral Flight] Yuuki Lv.10
+Character Story
+[Platonic Love] Silica Lv.80
+Character Story
+[Platonic Love] Silica Lv.70
+Character Story
+[Platonic Love] Silica Lv.50
+Character Story
+[Platonic Love] Silica Lv.30
+Character Story
+[Platonic Love] Silica Lv.10
 Character Story
 [Fairy Dragon Tamer] Silica Lv.80
 Character Story
@@ -1188,6 +1238,16 @@ Character Story
 [Shinobi Slash] Asuna Lv.30
 Character Story
 [Shinobi Slash] Asuna Lv.10
+Character Story
+[Enchanting Love] Asuna Lv.80
+Character Story
+[Enchanting Love] Asuna Lv.70
+Character Story
+[Enchanting Love] Asuna Lv.50
+Character Story
+[Enchanting Love] Asuna Lv.30
+Character Story
+[Enchanting Love] Asuna Lv.10
 Character Story
 [Lightning Flash] Asuna Lv.80
 Character Story
@@ -1658,6 +1718,16 @@ Character Story
 [Void Runner] Leafa Lv.30
 Character Story
 [Void Runner] Leafa Lv.10
+Character Story
+[Unfulfilled Wish] Leafa Lv.80
+Character Story
+[Unfulfilled Wish] Leafa Lv.70
+Character Story
+[Unfulfilled Wish] Leafa Lv.50
+Character Story
+[Unfulfilled Wish] Leafa Lv.30
+Character Story
+[Unfulfilled Wish] Leafa Lv.10
 Character Story
 [Happy Memories] Sachi Lv.80
 Character Story

@@ -1160,6 +1160,24 @@ Complete "Fierce Fight in Sand (Expert)".
 /]9
 4079001
 Complete "Fierce Fight in Sand (Int.)".
+4078025,2,45
+Complete "A Dark Plot Against Fliers (Master +1)" in under 45 Sec.
+4078025,2,60
+Complete "A Dark Plot Against Fliers (Master +1)" in under 1 min.
+4078025
+Complete "A Dark Plot Against Fliers (Master +1)".
+4078024,2,45
+Complete "A Dark Plot Against Fliers (Master)" in under 45 Sec.
+4078024,2,60
+Complete "A Dark Plot Against Fliers (Master)" in under 1 min.
+4078024
+Complete "A Dark Plot Against Fliers (Master)".
+4078025,2
+Complete "A Dark Plot Against Fliers (Master +1)" without down.
+4078024,2
+Complete "A Dark Plot Against Fliers (Master)" without down.
+4078024,2,4,1
+Complete "A Dark Plot Against Fliers (Master)" with a dagger character.
 4077026,1,100
 Complete "Inherited Tradition - A Priest's Will (Master+2)" with a 100-hit combo or more.
 4077026,1

@@ -3689,6 +3689,14 @@ forefront.png
 belt1.png
 pillar.png
 pillar.png
+pillar.png
+pillar.png
+wall.png
+333?
+forefront.png
+belt1.png
+pillar.png
+pillar.png
 wall.png
 333?
 forefront.png

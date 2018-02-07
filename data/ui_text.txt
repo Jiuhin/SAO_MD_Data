@@ -409,8 +409,6 @@ received!
 text_received
 You already have this character. You received an item instead!
 text_replaced_item_title
-Final
-text_ranking_title
 Change Party
 text_button_change_party
 Let's do this!
@@ -894,6 +892,8 @@ Total EP
 text_get_total_ep
 Total EP
 text_total_ep
+Weekly EP
+text_weekly_ep
 Daily EP
 text_daily_ep
 Next
@@ -1108,6 +1108,10 @@ Event Over
 text_dates_end
 EP Market
 text_ep_exchange
+Your Remaining Weekly EP
+text_possession_weekly_ep
+Your Remaining Daily EP
+text_possession_daily_ep
 Current Total EP
 text_possession_ep_exchange
 Event Details
@@ -1847,6 +1851,8 @@ Sort
 text_tab_select_sort
 Sort
 text_tab_normal_sort
+Automatic Rifle
+text_automaticgun
 Shieldblade
 text_shield
 Lance

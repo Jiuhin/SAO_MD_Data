@@ -1,11 +1,8 @@
-Tv	
-lU	
-xR	
-LB	
-T9	
-p8	
-L1	
-<(	
+HE	
+<9	
+l)	
+H'	
+$%	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -1562,7 +1559,6 @@ JzP
 JzP
 JzP
 JzP
-Al/
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -4233,6 +4229,9 @@ wait
 dead
 appear
 bullet_1075_ground_fissure
+wait
+dead
+bullet_1074_dragon_go_straight
 wait
 dead
 bullet_1074_dragon_go_straight

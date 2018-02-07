@@ -555,6 +555,12 @@ images/event/4079/4079_top.png
 images/event/4079/4079_banner.png
 images/event/4079/4079_banner.png
 Fierce Fight in Sand Again
+Medal Scout
+images/event/4078/event_item_4078.png
+images/event/4078/4078_top.png
+images/event/4078/4078_banner.png
+images/event/4078/4078_banner.png
+A Dark Plot Against Fliers
 Global Scout
 images/event/4077/4077_top.png
 images/event/4077/4077_banner.png

@@ -5094,6 +5094,106 @@ Quest
 bg_thumbnail_8003
 Quest 1
 Fierce Fight in Sand (Int.)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5
+A Dark Plot Against Fliers (Master +1)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4
+A Dark Plot Against Fliers (Master)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3
+A Dark Plot Against Fliers (EX)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2
+A Dark Plot Against Fliers (Expert)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1
+A Dark Plot Against Fliers (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Afterward
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Their Intentions
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Share Your Reason!
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Almost
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Chase in the Forest
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+To Catch Up
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Following the Circus
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Kirito's Reason
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Gone Circus
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Can't Fly!?
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Fairies' Remarks
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+The circus is coming to town
 Dark Blue Fighting Dog appears! 
 Survive attacks from those stray dogs
 and parry the combo attack!
@@ -17122,6 +17222,106 @@ Quest
 bg_thumbnail_8003
 Quest 1
 Fierce Fight in Sand (Int.)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5
+A Dark Plot Against Fliers (Master +1)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4
+A Dark Plot Against Fliers (Master)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3
+A Dark Plot Against Fliers (EX)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2
+A Dark Plot Against Fliers (Expert)
+Circus Tent Hermit hides in the forest.
+Parry them to freeze and attack from behind.
+Finish them off real quick!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1
+A Dark Plot Against Fliers (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Afterward
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Their Intentions
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Share Your Reason!
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Almost
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Chase in the Forest
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+To Catch Up
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Following the Circus
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Kirito's Reason
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Gone Circus
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Can't Fly!?
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Fairies' Remarks
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+The circus is coming to town
 Dark Blue Fighting Dog appears! 
 Survive attacks from those stray dogs
 and parry the combo attack!

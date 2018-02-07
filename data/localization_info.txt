@@ -276,7 +276,7 @@ Some items could not be received.
 Back to Co-op Party
 You will retire if you return from here. Still want to return?
 Ready to start
-Winning {0} consecutive victories! You get {0} pcs of Crown on your next victory!
+Winning {0} consecutive victories! You get {1} pcs of Crown on your next victory!
 You get {0} pcs of Crown on your next victory!
 No match
 Start in : 
