@@ -172,6 +172,8 @@ Twilight Castle in Akasha
 Event
 Shadowy castle in the night
 Event
+Blade Arbiter
+Event
 One Lap Behind
 Event
 The Archenemy

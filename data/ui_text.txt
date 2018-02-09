@@ -1108,11 +1108,11 @@ Event Over
 text_dates_end
 EP Market
 text_ep_exchange
-Your Remaining Weekly EP
+Weekly EP Left
 text_possession_weekly_ep
-Your Remaining Daily EP
+Daily EP Left
 text_possession_daily_ep
-Current Total EP
+Total EP
 text_possession_ep_exchange
 Event Details
 text_event_detail
@@ -1183,7 +1183,7 @@ This event has finished.
 text_ep_end
 This event has finished.
 text_end
-Current Total EP
+Total EP
 text_possession_ep
 Posted Until:
 text_date_end

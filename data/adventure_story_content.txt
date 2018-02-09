@@ -1,156 +1,154 @@
-$d}
-t_}
-dC{
-L4{
-h"{
-Xrz
-HNz
-8Cz
-t>y
-8Px
-H(w
-H2v
-Tju
-8?u
-Dqs
-D1r
-Dqq
-Xdq
-HMo
-(Cn
-87n
-TVm
-(zl
-hnl
-Hcl
-d%l
-l(j
-pri
-pdi
-(Yi
-dph
-(:h
-p1f
-p5e
-X"e
-$sc
-lvb
-,Ub
-,7b
-x'b
-hka
-(Ta
-,Z_
-p0_
-D!_
-xX]
-8']
-Hk[
-T{Z
-<iZ
-lLZ
-,&Z
-$OY
-d9Y
-P+Y
-$rX
-hYX
-lFX
-hsW
-TIW
-88W
-D,W
-T[V
-4'V
-LJS
-4}R
-<IR
-h7R
-x$R
-doQ
-8KQ
-TUP
-p0N
-8pM
-0NM
-$"K
-8dJ
-dVJ
-4}I
-$HI
-$3H
-(FG
-d&G
-P8F
-XJD
-05D
-xnC
-,3B
-T B
-HEA
-h/A
-pR?
-p'?
-Xf>
-p<<
-P<:
-l-:
-Dx9
-4a9
-(X9
-HO9
-P98
-0u7
-H$7
-Hw6
-XW5
-P<5
-P-5
-<84
-4l3
-(?3
-X+3
-DD2
-p 1
-HQ0
-,C0
-T60
-dn/
-$6.
-LU-
-8/,
-<c+
-D9)
-x')
-(B(
-Dp'
-PJ'
-Ln&
-Hh%
-pS%
-Dp$
-P>"
-Pu!
-,4!
-xY 
-Tk	
-dS	
-T1	
-8Mu
+l]}
+(U{
+xK{
+0){
+<sz
+$Xz
+h{y
+8ty
+Lry
+Lgy
+tKy
+Tzw
+$	v
+0qt
+Det
+0ws
+,}r
+LRr
+$lq
+$Jq
+D!q
+Dsp
+tdo
+pjn
+DBn
+4Tl
+l.l
+h$l
+, k
+XPj
+t!j
+<Xi
+<Ji
+0Vh
+X<h
+LAg
+,se
+xWe
+tnd
+d/c
+PGb
+4Qa
+p1a
+HL_
+tL]
+D>]
+,%]
+,l[
+0b[
+d7[
+8	[
+82Z
+TYY
+0hX
+4?X
+8,X
+lvW
+4YW
+X?W
+hLV
+(uU
+PFU
+p+U
+duS
+lpR
+XUR
+0UQ
+lsP
+LTP
+,-P
+lBO
+T2O
+tKN
+H4N
+$nK
+lHK
+0<J
+0oH
+P-H
+8kG
+haG
+L5F
+,)F
+PsE
+LJE
+(kD
+$0D
+DTC
+h5C
+pbB
+x1B
+tQA
+x_?
+xD?
+<8?
+Xw>
+$L>
+<"<
+8d:
+dE:
+l.:
+X	:
+tk9
+d}8
+T)8
+(N7
+h?7
+, 7
+HM6
+L%6
+HY4
+Dw3
+PE3
+$r2
+lO2
+pD2
+Tr1
+LG0
+(a/
+0T/
+h7/
+x}.
+db.
+TU.
+Tz)
+,a(
+TO(
+d{'
+,5&
+<9%
+X%%
+4o$
+dM"
+dR 
+D? 
+09	
+(gu
+lgu
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
 Repeat: The game has been cleared.
 System Announcement
 2017110701_13_a
-,Nu
 bg_black
 Kirito
 2017110701_12_a
 Did... Did that do it?
 Kirito
 2017110701_11_a
-0Ou
+diu
 still_14_heathcliff_dead
 Hngh!
 Kirito
@@ -160,10 +158,10 @@ bg_13_boss
 ...!
 Heathcliff
 2017110701_9_a
-xPu
 bg_black
 Kirito
 2017110701_8_a
+(ku
 still_14_kirito_revive
 RRRGH! HAAAAAH!
 Kirito
@@ -172,14 +170,12 @@ still_14_kirito_revive
 Huh?
 Heathcliff
 2017110701_6_a
-0Ru
+dlu
 still_14_kirito_revive
 bg_13_boss
 Urgh...! Nngh!
 Kirito
 2017110701_5_a
-(Su
-HFv
 bg_black
 No. Not yet...!
 Kirito
@@ -192,38 +188,41 @@ still_14_heathcliff_stab
 It's all over now...
 Kirito
 2017110701_2_a
+0ou
 still_14_heathcliff_stab
 bg_13_boss
 Gurgh!
 Kirito
 2017110701_1_a
+(pu
 Haha, Pop Star Online can't
 come out soon enough!
 Kazuto
 799999999_39_a
-8Wu
+lqu
+4ru
 Haha, maybe I'll serenade you
 sometime, if you're lucky.
 Agil
 799999999_38_a
-XZu
 I bet you'd be pretty dang good
 at it, too.
 Kazuto
 799999999_37_a
-tXu
 You would...
 Kazuto
 799999999_36_a
+$su
 I don't want to be a pop star so
 much as I think it'd be cool to
 sing in front of an audience.
 Agil
 799999999_35_a
+dvu
 YOU want to be a pop star?
 Kazuto
 799999999_34_a
-<Zu
+ptu
 For the millionth time, I...
 Wait, what?
 Kazuto
@@ -237,21 +236,21 @@ D-Dude, how many times do I have
 to tell you? No way!
 Kazuto
 799999999_31_a
+dvu
 You totally wanted to be a pop
 star, didn't you?
 Agil
 799999999_30_a
-D_u
+xyu
 ...
 Kazuto
 799999999_29_a
-8]u
+lwu
 Cool!
 Then I'll see you both later.
 Bye!
 Asuna
 799999999_28_a
-t_u
 I should be able to
 dive in tonight, too.
 Agil
@@ -263,7 +262,7 @@ I'll see you at the usual
 spot in ALO?
 Asuna
 799999999_25_a
-h_u
+dzu
 Okay, okay, if you say so.
 Alright, I should get going.
 Asuna
@@ -276,7 +275,6 @@ Kazuto
 Th-That's not what I meant...!
 Kazuto
 799999999_22_a
-Hau
 Hehe, I knew it, you secretly
 wanted to get on stage and sing
 this whole time!
@@ -286,7 +284,6 @@ Yeah, and then maybe they'll let
 the guys be pop stars, too!
 Kazuto
 799999999_20_a
-Tdu
 Maybe it'll get popular enough for
 them to make a whole game
 out of it.
@@ -301,24 +298,19 @@ they'd let the girls strut their
 stuff on stage or something.
 Kazuto
 799999999_17_a
-Dgu
 Well, there tend to be more guys
 in VRMMOs...
 Kazuto
 799999999_16_a
-deu
-,fu
 Hmm, you have a point. All the
 pop stars in our group and in
 Seven's were girls...
 Asuna
 799999999_15_a
-$fu
 You sure it's random? Not 'cause
 you're a guy?
 Agil
 799999999_14_a
-4iu
 You get assigned a random role
 the first time you dive in, and
 that's the one I got.
@@ -335,7 +327,6 @@ I dunno, I can't really picture
 you as a pop star, Agil.
 Kazuto
 799999999_10_a
-Hiu
 Huh... Sounds pretty interesting.
 Makes me wish I could've tried
 it out after all.
@@ -355,7 +346,6 @@ mechanics made it play far
 differently than any other game.
 Kazuto
 799999999_6_a
-Dlu
 It was pretty much your basic
 combat-centric VRMMO,
 Kazuto
@@ -364,7 +354,6 @@ Yeah... But it was a blast,
 wasn't it?
 Kazuto
 799999999_4_a
-tmu
 Kazuto
 799999999_3_a
 Agil
@@ -390,7 +379,6 @@ bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100301_1_a
-0qu
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
@@ -399,8 +387,6 @@ bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100101_1_a
-0su
-Tsu
 ...will give you a chance. 
 A chance to have a one-on-one
 battle with me.
@@ -410,1878 +396,1950 @@ You are here finally.
 You deserve some reward.
 ???
 480404801_4_a
-Dvu
 ???
 480404801_3_a
 ???
 480404801_2_a
-puu
 bg_black
 ???
 480404801_1_a
 Q!S
-Xvu
 Q!S
-ツェリスカ
+Zeliska
 408101201_43_a
 Q!S
-デイジー
+Daisy
 408101201_42_a
 Q!S
-うん!
-アスナ
+Okay!
+Asuna
 408101201_41_a
 Q!S
-よし、それじゃあ帰るとするか
-キリト
+Well, what do you say?
+Shall we head out?
+Kirito
 408101201_40_a
 Q!S
-あっ、それイイわね!
-あたしも自慢しよーっと!
-クレハ
+Great idea! I'm gonna brag my
+butt off too!
+Kureha
 408101201_39_a
 Q!S
-キリト
+Kirito
 408101201_38_a
 Q!S
-クレハ
+Kureha
 408101201_37_a
 Q!S
-はい、わたしは戻ったらこのことを
-マスターに自慢するのです!
-アファシス
+That's right! We worked REALLY
+hard and I'm going to brag to
+Master next time we meet!
+ArFA-sys
 408101201_36_a
-<zu
-4zu
 Q!S
-シノン
+Sinon
 408101201_35_a
 Q!S
-そんなことないですって
-クレハさんたちの頑張りのおかげ
-ですよ!
-リーファ
+Nah, we're nothing special.
+You guys worked just as hard
+as we did.
+Leafa
 408101201_34_a
 Q!S
-アファシス
+ArFA-sys
 408101201_33_a
-X}u
 Q!S
-さすがは伝説のプレイヤーさん
-たちだなぁ……
-クレハ
+Wow... No wonder you guys are
+living legends... You're amazing!
+Kureha
 408101201_32_a
 Q!S
-アファシス
+ArFA-sys
 408101201_31_a
 Q!S
-クレハ
+Kureha
 408101201_30_a
 Q!S
-へへっ、そうだろ?
-やっぱそういうのがあるから、
-VRMMOは止められないんだよな
-キリト
+Heh, I know, right?
+It's that sort of thrill that
+makes VRMMOs so addicting.
+Kirito
 408101201_29_a
 Q!S
-自分で発案してうまく行くのって
-ちょっと快感だなって思っちゃった
-アスナ
+But I must say, letting loose and
+being a bit reckless feels pretty
+good sometimes!
+Asuna
 408101201_28_a
 Q!S
-ツェリスカ
+Zeliska
 408101201_27_a
 Q!S
-デイジー
+Daisy
 408101201_26_a
 Q!S
-ふふっ、そうなんだろうね
-いつもはキリトくんが考えそうな
-感じの突飛なアイディアだけど
-アスナ
+Hehe, but we managed to do it with
+a wild, risky plan. It was like
+something you'd come up with.
+Asuna
 408101201_25_a
 Q!S
-アファシス
+ArFA-sys
 408101201_24_a
 Q!S
-クレハ
+Kureha
 408101201_23_a
 Q!S
-本来はもっとレベルを上げて
-少数で挑むのがこの塔のセオリー
-なんだろうけどな
-キリト
+I'm sure you're supposed to grind
+levels, get stronger, then take on
+this tower with a small party...
+Kirito
 408101201_22_a
 Q!S
-さすがよ……
-私もちょっとビックリしちゃったわ～
-ツェリスカ
+I'm honestly impressed.
+Zeliska
 408101201_21_a
 Q!S
-アスナ
+Asuna
 408101201_20_a
 Q!S
-デイジー
+Daisy
 408101201_19_a
 Q!S
-仮にできたとしても
-一番すごいのはあなたたちの
-その度胸ね……
-ツェリスカ
+Wow... Okay, even if you guys did
+make it, you have some serious
+guts to even try...
+Zeliska
 408101201_18_a
 Q!S
-えへへ……
-その節はお世話になりました
-シリカ
+Thank you very much for saving me.
+Silica
 408101201_17_a
 Q!S
-シリカが落ちちゃいそうになって、
-みんなで慌てて
-ワイヤー引っ張りあげましたし
+Silica almost fell too. We all had
+to grab her wire and pull up.
+I think she's traumatized now.
+Liz
 408101201_16_a
 Q!S
-シリカ
+Silica
 408101201_15_a
 Q!S
-できるというか
-無理やりそうしたって感じでしたねぇ
+I don't think it was, but we did
+it anyway.
+Liz
 408101201_14_a
 Q!S
-え、ええっ……?
-そんなことができるの?
-ツェリスカ
+W-Wow... That's...insane.
+I didn't even know that was
+possible.
+Zeliska
 408101201_13_a
 Q!S
-実は隣に別のビルがあって
-そっちにワイヤーで飛び移ってから
-上に登ってこっちに戻ったんです
-アスナ
+So, yeah. We shot a wire over to
+the next building, climbed up,
+then ziplined back.
+Asuna
 408101201_12_a
 Q!S
-……ええ
-ツェリスカ
+...Yeah.
+Zeliska
 408101201_11_a
 Q!S
-ツェリスカ
+Zeliska
 408101201_9_a
 Q!S
-一時はどうなることかと思いましたが
-結果的にクリアできて良かったですね
-マスター
-デイジー
+It was touch and go there for
+a few minutes, but we won.
+Congratulations, Master.
+Daisy
 408101201_8_a
+4<v
 Q!S
-アスナ
+Asuna
 408101201_10_a
 Q!S
-やりましたね!
-アファシス
+Hurrah! Woohoo!
+ArFA-sys
 408101201_7_a
 Q!S
-はい、これで塔も無事に踏破完了!
-クリア表示もされました!
-クレハ
+Yay! We won! We beat the tower!
+Congratulations!
+Kureha
 408101201_6_a
 Q!S
-よし、倒したぞ!
-キリト
+Tower boss, defeated!
+Kirito
 408101201_5_a
 Q!S
-アファシス
+ArFA-sys
 408101201_4_a
 Q!S
-クレハ
+Kureha
 408101201_3_a
 Q!S
-キリト
+Kirito
 408101201_2_a
 Q!S
 bg_s2_16_dungeon
-グロアアアアッ……!!!
-ボスエネミー
+Grnnnnkk...!!
+Boss
 408101201_1_a
-t(v
-キリト
+Kirito
 408101101_50_a
-デイジー
+Daisy
 408101101_49_a
-ええ、そうね!
-ツェリスカ
+Good point!
+Let it eat lead!
+Zeliska
 408101101_48_a
-今はこのエネミーを打倒しましょう!
-アスナ
+This boss is breathing down our
+necks!
+Asuna
 408101101_47_a
-リーファ
+Leafa
 408101101_46_a
-シノン
+Sinon
 408101101_45_a
-ツェリスカさん!
-後で教えてあげますよ!
-アスナ
+We'll tell you after the fight,
+Zeliska!
+Asuna
 408101101_44_a
-キリト
+4Cv
+Kirito
 408101101_43_a
-デイジー
+Daisy
 408101101_42_a
-でも本当に一体どうやって
-ここまで来たのかしら……?
-ツェリスカ
+Yeah, thanks. But seriously:
+how did you get here?
+Zeliska
 408101101_41_a
-クレハ
+lDv
+Kureha
 408101101_40_a
-みんな助けに来てくれて
-嬉しいのです!
-アファシス
+Thank you so much for coming in
+the nick of time!
+ArFA-sys
 408101101_39_a
-はい!
-やっぱりあたしたち、そういうのが
-楽しいって思っちゃう性質なんですね
-シリカ
+Yeah! We came here to win,
+so let's do it!
+Silica
 408101101_38_a
-シリカ
+Silica
 408101101_37_a
-ふふっ、いい響きね!
-塔の踏破!
+I like the sound of that!
+Victory or death! Chaaarge!!
+Liz
 408101101_36_a
-シノン
+Sinon
 408101101_35_a
-つまりソイツを倒せば
-塔の踏破完了ってことね!
-リーファ
+That's the boss, right?!
+Let's beat this tower!
+Leafa
 408101101_34_a
-リーファ
+Leafa
 408101101_33_a
-アスナ
+Asuna
 408101101_32_a
-話は後よ
-それよりも、それがボスエネミーね!
-シノン
+Talk later. Kill now.
+Sinon
 408101101_31_a
-ツェリスカ
+Zeliska
 408101101_30_a
-デイジー
+Daisy
 408101101_29_a
-アスナ、みんな!
-来てくれたのか……!
-でもどうやって……!?
-キリト
+Asuna! Everyone! Boy, are we glad
+to see you! But how did you get
+here?!
+Kirito
 408101101_28_a
-リーファ
+LJv
+Leafa
 408101101_27_a
-シノン
+Sinon
 408101101_26_a
-遅れてごめん!
-助けに来たよ!
-アスナ
+$A}
+Sorry we're late, but at least we
+made it in time!
+Asuna
 408101101_25_a
-82x
-えっ!?
-キリト
+Huh?!
+Kirito
 408101101_24_a
-お待たせ、キリトくん!!
+You called, Kirito?!
 ???
 408101101_23_a
-ツェリスカ
+Zeliska
 408101101_22_a
-デイジー
+Daisy
 408101101_21_a
-そうだな……
-せめてさっきのパーティ分の
-人数がいれば……
-キリト
+You're right... If only the others
+were here, we might have a chance!
+Kirito
 408101101_20_a
-アファシス
+ArFA-sys
 408101101_19_a
-で、でもここあんまり広くないですし
-そんなに散開もできません!
-クレハ
+B-But there's nowhere to run or
+hide! The room's too small!
+Kureha
 408101101_18_a
-ツェリスカ
+Zeliska
 408101101_17_a
-固まっているとまとめてやられるぞ!
-キリト
+If we clump together, it'll get us
+all in one hit!
+Kirito
 408101101_16_a
-ツェリスカ
+Zeliska
 408101101_15_a
-デイジー
+Daisy
 408101101_14_a
-ちっ……みんな!
-とりあえず散り散りになるんだ!
-キリト
+Damn... Everyone! Scatter!
+It's our only hope right now!
+Kirito
 408101101_13_a
-ヌゴアアアアアッ!!
-ボスエネミー
+NNNRRAAAGH!!
+Boss
 408101101_12_a
-な、なんか上の方に上がってから
-あたしたち逃げてばっかな
-気がするー!
-クレハ
+Is it just me, or have we been
+running in terror from everything
+since we got split up?!
+Kureha
 408101101_11_a
-こちらが攻撃を仕掛ける余裕が
-まったくないのです!
-アファシス
+At this rate, we won't even be
+able to scratch the thing!
+ArFA-sys
 408101101_10_a
-クレハ
+Kureha
 408101101_9_a
-こ、これは攻撃を避けるだけで
-精一杯なのです!
-アファシス
+We don't have time to do anything
+but dodge its attacks!
+ArFA-sys
 408101101_8_a
-そうみたいね……
-なんて強さかしら……?
-ツェリスカ
+It definitely hits like it...
+How is this thing so strong?
+Zeliska
 408101101_7_a
-これがこの塔の主……!
-最上階のボスエネミーのようです!
-デイジー
+This must be the tower's final
+boss!
+Daisy
 408101101_6_a
-くっ……!
-キリト
+Ngh!
+Kirito
 408101101_5_a
-ツェリスカ
+Zeliska
 408101101_4_a
-デイジー
+Daisy
 408101101_3_a
-キリト
+Kirito
 408101101_2_a
 bg_s2_16_dungeon
-グゴアアアアアッ!!!
-ボスエネミー
+Grawwwr!!
+Boss
 408101101_1_a
-よーく、狙いを定めて……
-ええいっ!!
-アスナ
+I just need to take careful aim,
+and... HERE GOES!!
+Asuna
 408101001_36_a
-ええ、がんばってアスナ
-シノン
+Try not to go splat.
+Sinon
 408101001_35_a
-リーファ
+$Yv
+Leafa
 408101001_34_a
-シノン
+Sinon
 408101001_33_a
-よーし、じゃあ言い出した
-わたしがまずやってみるね!
-アスナ
+Alright! I suggested this mad
+little venture, so I'll go first!
+Asuna
 408101001_32_a
-シリカ
+Silica
 408101001_31_a
-アンタ……ホント肝が座ってるわねぇ
+You must have nerves of steel,
+Asuna... Just looking down gives
+me the willies.
+Liz
 408101001_30_a
-リーファ
+t[v
+Leafa
 408101001_29_a
-シノン
+Sinon
 408101001_28_a
-ふふっ、何事も度胸だよリズ!
-アスナ
+Hehe, great! Now chin up, Liz!
+Show some backbone!
+Asuna
 408101001_27_a
-でもこの高さ……
-落ちたら確実に死ぬわよねぇ……
+I'm going to point out the
+obvious, though: if we fall,
+we are so, so, SO dead.
+Liz
 408101001_26_a
-シリカ
+Silica
 408101001_25_a
-P$v
-ううっ……わかったわよ
-あたしもやるわよ
+Ugh, seriously? Fine, fine.
+I'm in too.
+Liz
 408101001_24_a
-アスナ
+Asuna
 408101001_23_a
-dIv
-リーファ
+Leafa
 408101001_22_a
-まぁ反対はしないわ
-他に方法がないんじゃ仕方ないしね
-シノン
+I'm not against the idea, I just
+think there's probably a better
+way... 
+sigh
+Fine. I'm in.
+Sinon
 408101001_21_a
-xJv
+Liz
 408101001_20_a
-あ、あたしはアスナさんに賛成です!
-早くキリトさん……皆さんたちと
-合流したいです!
-シリカ
+W-Well, I think Asuna's idea is a
+good one and she's totally not
+crazy! Let's do it!
+Silica
 408101001_19_a
-シノン
+Sinon
 408101001_18_a
-飛べるALOならいざ知らず
-GGOでここを飛び移るのは
-勇気がいりますよね
-リーファ
+You'd have to be really brave, or
+utterly insane, to suggest flying
+across this gap in GGO.
+Leafa
 408101001_17_a
-シノン
+Sinon
 408101001_16_a
-アスナ
+Asuna
 408101001_15_a
-あはは、あたしも
-そう思っちゃいました……
-リーファ
+Ahaha, I was thinking the EXACT
+same thing!
+Leafa
 408101001_14_a
-シリカ
+Silica
 408101001_13_a
-だ、ダメじゃないけど……
-アスナって大人しそうなふりして
-意外に大胆なこと考えるわよねぇ……
+N-No, we're just surprised you'd
+suggest something so...reckless.
+You're usually so...even-keeled?
+Liz
 408101001_12_a
-シノン
+Sinon
 408101001_11_a
-あれ……みんなもしかして
-この作戦ダメだと思ってる?
-アスナ
+Er... Why are you all looking at
+me like that? You think I'm crazy,
+don't you?!
+Asuna
 408101001_10_a
-でもそうしないとキリトくんたちとは
-合流できないよ!
-アスナ
+But if we don't risk it, we'll
+never reach the others!
+Asuna
 408101001_9_a
-あんな離れた別の建物に
-行くためのシステムじゃ
-ないような気が……
-シノン
+It's not designed to leap across
+massive empty gaps like this...
+Sinon
 408101001_8_a
-元々GGOのワイヤーアクションは
-近くの高低差のある場所に
-素早く飛び移るためのものだから
-シノン
+GGO's wire action is only supposed
+to pull you up to nearby high
+vantage points.
+Sinon
 408101001_7_a
-寸法だよって……あなた
-あそことここってかなりの距離よ?
-シノン
+Well, that sounds insane.
+You realize how far away it is?
+Sinon
 408101001_6_a
-つまりあの廃ビルに飛び移って
-あっちで上層に登りまたこっちの塔に
-飛び移れば上に行けるって寸法だよ
-アスナ
+So if we zip over to it, climb up,
+then zip on back, we'll be able
+to get to the next floor.
+Asuna
 408101001_5_a
-この塔よりは低いけど、
-まだ上の階があるね
-アスナ
+It's shorter than this one, but it
+still goes a few floors higher
+than we are now.
+Asuna
 408101001_4_a
-hUv
-リーファ
+hiv
+Leafa
 408101001_3_a
-シノン
+Sinon
 408101001_2_a
 bg_s2_08_pub
-一番近い建物は
-あの茶色の廃ビルだね……
-アスナ
+That ruined, brownish building's
+closest. Okay, they're all brown,
+ruined buildings. THAT one.
+Asuna
 408101001_1_a
 % S
 % S
-もちろん本気だよ!
-アスナ
+I'm always serious!
+Asuna
 408100901_49_a
 % S
-ちょ、ちょっと本気!?
-シノン
+Y-You can't be serious!
+Sinon
 408100901_48_a
 % S
-ならではのアクションって……
-まさかワイヤーアクションで
-他の塔に飛び移るつもりですか!?
-リーファ
+That wire thingamabob? Wait...
+No... You want us to ZIPLINE
+over to the other tower?!
+Leafa
 408100901_47_a
 % S
-それを今使えるかもしれないよ!
-アスナ
+We can use that!
+Asuna
 408100901_46_a
 % S
-リーファ
+Leafa
 408100901_45_a
 % S
-シノン
+Sinon
 408100901_44_a
 % S
-GGOでは空は飛べない……
-でもこの世界ならではのアクションが
-あるでしょう?
-アスナ
+We can't fly in GGO, but there's
+something else we can do here!
+A unique action!
+Asuna
 408100901_43_a
 % S
+Liz
 408100901_42_a
 % S
-それは見ればわかりますけど……
-別の建物がどうかしたんですか?
-シリカ
+What about them?
+Silica
 408100901_41_a
 % S
-リーファ
+Leafa
 408100901_40_a
 % S
-シノン
+Sinon
 408100901_39_a
 % S
-塔が密集……ん?
-この塔の周囲にもいくつか
-別の建物があるじゃない!
-アスナ
+There are a lot of towers around
+here... Of course! That's it!
+The towers!
+Asuna
 408100901_38_a
 % S
-シリカ
+Silica
 408100901_37_a
 % S
-滅びた塔が密集したエリア……
-廃墟と化したドーム型の街……
-そしてどこまでも広がる荒地……かぁ
+But look at all the sights. A
+buncha ruined towers, a collapsed
+dome city, and, uh, a wasteland.
+Liz
 408100901_36_a
 % S
-シノン
+Sinon
 408100901_35_a
 % S
-確かに……
-SAOやALOにはない絶景って
-感じ……
-アスナ
+Yeah, you're right...
+It's beautiful, but sad.
+Very different from ALO or SAO.
+Asuna
 408100901_34_a
 % S
-アスナ
+Asuna
 408100901_33_a
 % S
-リーファ
+Leafa
 408100901_32_a
 % S
-GGOって朽ちた未来の惑星が
-舞台だから……こういう時間帯だと
-寂寥感があって見ごたえあるのよね
-シノン
+Pretty, yeah, but also depressing.
+GGO's set in a dystopian future on
+a ruined planet. It's so dreary.
+Sinon
 408100901_31_a
 % S
-ちょうど外が見える窓がありますね
-ここ……わあ、夕焼けが綺麗です
-シリカ
+We can see outside from that
+window... Wow! Look how pretty
+the sunset is!
+Silica
 408100901_30_a
 % S
-シリカ
+Silica
 408100901_29_a
 % S
-外……かぁ
+The outside, huh?
+Liz
 408100901_28_a
 % S
-シノン
+Sinon
 408100901_27_a
 % S
-あっ、あはは
-言われてみればそうですね
-リーファ
+Ha ha, yeah...
+I guess that's true.
+Leafa
 408100901_26_a
 % S
-ふふっ、空が飛べたら
-そもそも塔の中を攻略なんてせずに
-外から上まで行っちゃうでしょ?
-シノン
+Heh, if we could fly, we wouldn't
+be in the tower in the first place.
+We could just go up the outside.
+Sinon
 408100901_25_a
 % S
-シノン
+Sinon
 408100901_24_a
 % S
-アスナ
+Asuna
 408100901_23_a
-$Bv
 % S
-くぅぅ……こんな時、
-ALOだったら空飛べるのになぁ
-リーファ
+Grrr... If only this were ALO!
+We could just fly up!
+Leafa
 408100901_22_a
 % S
+Liz
 408100901_21_a
 % S
-ですね……
-どうしましょう……
-シリカ
+I'm definitely extremely
+discouraged right now...
+What should we do?
+Silica
 408100901_20_a
 % S
-シノン
+Sinon
 408100901_19_a
+LRv
 % S
 bg_s2_08_pub
-あそこ……
-あの崩れた所以外に上れる場所は……
-なかったね……
-アスナ
+Well, that's not very encouraging.
+That collapsed staircase seems to
+be the only way up.
+Asuna
 408100901_18_a
 % S
-そうね
-シノン
+Right.
+Sinon
 408100901_17_a
 % S
-と、とりあえずこのフロアで
-他の上に上れる階段がないか
-探してみましょうよ!
-リーファ
+Okay! Let's try to find another
+way up!
+Leafa
 408100901_16_a
 % S
-この塔も例外ではないから……
-キリトくんたちと
-どうにかして合流しないと……
-アスナ
+We've seen how hard this place is
+already... It's going to be bad
+unless we can find the others!
+Asuna
 408100901_15_a
+H}v
 % S
-リーファ
+Leafa
 408100901_14_a
 % S
-シノン
+Sinon
 408100901_13_a
 % S
-うん、でも上層に上るダンジョンは
-基本的に上に上るほど敵も強くなる
-そう、アインクラッドと同じようにね
-アスナ
+Like most tower dungeons, Aincrad
+included, enemies get stronger the
+higher you go.
+Asuna
 408100901_12_a
+h'v
 % S
-いくらキリトがいるって言っても……
+I mean, yeah, Kirito's so strong
+he's basically cheating, but
+still...
+Liz
 408100901_11_a
 % S
-上層のボスをあの人数で?
-これまでの状況を踏まえると
-とても勝てる気がしないわ
+They expect people to take down
+the final boss of this place with
+a tiny party? That's ridiculous!
+Liz
 408100901_10_a
 % S
+Liz
 408100901_9_a
 % S
-そ、それって強いボス攻略とかって
-意味ですよね?
-シリカ
+B-But that just makes the boss
+fight that much more scary,
+doesn't it?
+Silica
 408100901_8_a
 % S
-シノン
+Sinon
 408100901_7_a
 % S
-つまりこの先に
-少数パーティで挑むべきなにかが
-あるってことですよね
-リーファ
+In other words, the next area's
+supposed to be taken on by smaller
+parties?
+Leafa
 408100901_6_a
 % S
-こんな強制イベントがあるってことは
-どちらにしろ遠からずパーティは
-分断させられてたみたいね
-シノン
+Still, my guess is this would've
+happened sooner or later. This
+dungeon's designed to split us up.
+Sinon
 408100901_5_a
 % S
-分かれて行動してたから
-こうなってしまった……
-それに間違いはないけど
-シノン
+We messed up. We should have
+stayed closer to the others.
+Sinon
 408100901_4_a
 % S
-リーファ
+Leafa
 408100901_3_a
 % S
-シノン
+Sinon
 408100901_2_a
 % S
 bg_s2_06_glacier
-ダメだね……
-この瓦礫、
-全部破壊不能オブジェクトだよ
-アスナ
+It's no use... All this rubble is
+being treated as an immortal
+object.
+Asuna
 408100901_1_a
-アファシス
+ArFA-sys
 408100801_49_a
-そんな……
-せっかく大勢のパーティになれたのに
-また分かれちゃうなんて……
-クレハ
+That's so unfair! We just formed
+our big party too...
+Kureha
 408100801_48_a
-そう考えて間違いなさそうね……
-ツェリスカ
+Most likely...
+Zeliska
 408100801_47_a
-こいつは一定数以上のパーティを
-分断させるギミックか……?
-キリト
+Think this is another dungeon
+event? This time to split up
+bigger parties?
+Kirito
 408100801_46_a
-(wv
-キリト
+Kirito
 408100801_45_a
-ツェリスカ
+Zeliska
 408100801_44_a
-声も届かないようですね
-デイジー
+There's too much rubble in the
+way. They can't hear us.
+Daisy
 408100801_43_a
-お返事がないのです……
-アファシス
+I'm guessing that silence means
+"no"?
+ArFA-sys
 408100801_42_a
-クレハ
+Kureha
 408100801_41_a
-………………
-アファシス
+...
+ArFA-sys
 408100801_40_a
-ツェリスカ
+Zeliska
 408100801_39_a
-おい!
-アスナ!! みんな!!
-キリト
+Hey! Asuna!
+Can you hear me down there?!
+Kirito
 408100801_38_a
-これでは向こうに戻ることが
-できませんね……
-デイジー
+So the path behind us is closed.
+Daisy
 408100801_37_a
-デイジー
+Daisy
 408100801_36_a
-ツェリスカ
+Zeliska
 408100801_35_a
-なにっ!?
-キリト
+No way!
+Kirito
 408100801_34_a
-T.v
-た、大変です!
-天井が崩れ落ちて、
-階段が瓦礫で埋まってます!
-アファシス
+U-Uh oh! This is bad!
+The rubble from the ceiling's
+blocking the way back down!
+ArFA-sys
 408100801_33_a
-アファシス
+ArFA-sys
 408100801_32_a
-はあ……ビックリしましたね
-クレハ
+sigh
+That can't be good for
+my heart...
+Kureha
 408100801_31_a
-ええ、全員大丈夫そうよ
-ツェリスカ
+Yeah, I think we're all safe and
+sound.
+Zeliska
 408100801_30_a
-デイジー
+Daisy
 408100801_29_a
-ツェリスカ
+Zeliska
 408100801_28_a
-くっ……みんな無事か!?
-キリト
+Phew, that was close...
+Everyone okay?
+Kirito
 408100801_27_a
-アファシス
+ArFA-sys
 408100801_26_a
-わ、わかりました……!
-クレハ
+W-Well, if you say so!
+Kureha
 408100801_25_a
-この位置から戻るのは危険だわ!
-一気に階段を上り切りましょう!
-ツェリスカ
+It's too dangerous to go back!
+We've got to press forward!
+Zeliska
 408100801_24_a
-皆さん!
-天井が崩れます!
-移動してください!
-デイジー
+Run!
+The ceiling's collapsing!
+Daisy
 408100801_23_a
-なっ……これは!?
-キリト
+Huh?! What's that rumbling?!
+Kirito
 408100801_22_a
-デイジー
+Daisy
 408100801_21_a
-ツェリスカ
+Zeliska
 408100801_20_a
-はは、そうだな
-キリト
+Ha ha, that's right!
+We WILL beat this!
+Kirito
 408100801_19_a
-この十人なら
-きっと攻略できるはずです!
-アファシス
+Well, we've got ten people now!
+We can do it, I know we can!
+ArFA-sys
 408100801_18_a
-アファシス
+ArFA-sys
 408100801_17_a
-楽しみ半分、怖さもありますよね!
-クレハ
+I'm half-excited, half-terrified
+out of my mind!
+Kureha
 408100801_16_a
-ええ、上層には
-なにが待っているのかしらね～……
-ツェリスカ
+I'm looking forward to seeing what
+sort of surprises these upper
+floors have in store for us.
+Zeliska
 408100801_15_a
-じゃあ行こうぜ
-キリト
+Right, let's go.
+Kirito
 408100801_14_a
-わかったよー!
-今行くからー!
-アスナ
+Got it! We'll be there soon!
+Asuna
 408100801_13_a
-デイジー
+Daisy
 408100801_12_a
-ツェリスカ
+Zeliska
 408100801_11_a
-おーい、アスナ!
-先に上ってるぞー!
-キリト
+Hey, Asuna!
+We're going on ahead!
+Kirito
 408100801_10_a
-クレハ
+Kureha
 408100801_9_a
-あっちにいますよ
-ちょっと遅れているみたいです
-アファシス
+They're over there. They appear
+to be a bit delayed.
+ArFA-sys
 408100801_8_a
-ツェリスカ
+Zeliska
 408100801_7_a
-よし、行くか……
-ん、アスナたちは?
-キリト
+DCv
+Let's do it! Wait...
+Where's Asuna and the others?
+Kirito
 408100801_6_a
-ツェリスカ
+Zeliska
 408100801_5_a
-キリト
+Kirito
 408100801_4_a
-はい、恐らくここを上れば
-この塔の上層エリアになるものかと
-デイジー
+That's right. Once we climb these
+stairs, we'll be in the upper
+reaches of the tower.
+Daisy
 408100801_3_a
-アファシス
+ArFA-sys
 408100801_2_a
 bg_s2_06_glacier
-この階段を上ればいいんですかね?
-クレハ
+So we're almost at the top?
+Kureha
 408100801_1_a
-シリカ
+Silica
 408100701_59_a
-いえいえ、無用な気遣いだったわね
+H-Hey, think nothing of it...
+Liz
 408100701_58_a
-リーファ
+Leafa
 408100701_57_a
-シノン
+Sinon
 408100701_56_a
-ふふっ
-でも心配してくれてありがとう
-アスナ
+Hehe, well, I'm glad you're
+looking out for me, Liz.
+Asuna
 408100701_55_a
-まぁでもアスナが言いたいことは
-わかる気がするわ
+But I guess I get what you're
+saying.
+Liz
 408100701_54_a
-シリカ
+Silica
 408100701_53_a
-余裕なのねぇ
-さすがは正妻ポジションというか……
+Wow, someone's confident.
+Got Kirito wrapped around
+your finger that tight, huh?
+Liz
 408100701_52_a
-シノン
+Sinon
 408100701_51_a
-確かにそうですね
-あの関係性は揺るぎない……
-そんな感じがしますよね
-リーファ
+Yeah, I think I feel you there.
+They're closer than peas in a
+pod, that group.
+Leafa
 408100701_50_a
-リーファ
+Leafa
 408100701_49_a
-シノン
+Sinon
 408100701_48_a
-そう、レイちゃんのマスター……
-あの人を中心に繋がった絆だって
-思うから
-アスナ
+That's right. Rei's master.
+Asuna
 408100701_47_a
-シリカ
+Silica
 408100701_46_a
-ああ……
-今ここにはいない……
+<Lv
+Ahh, you mean the person who's
+conspicuously absent?
+Liz
 408100701_45_a
-シノン
+Sinon
 408100701_44_a
-あの人たちが一番心で繋がってるのは
-わたしたちやキリトくんじゃなく……
-アスナ
+But I think that there's someone
+they're far closer to than us or
+Kirito.
+Asuna
 408100701_43_a
-リーファ
+Leafa
 408100701_42_a
-シノン
+Sinon
 408100701_41_a
-うん、もちろんクレハさん達は
-わたしたちと
-仲良くしてくれてるけど
-アスナ
+Well, for one, those girls are our
+friends, and we all like each
+other too much to do that...
+Asuna
 408100701_40_a
-シリカ
+Silica
 408100701_39_a
-$Bv
-ちょっと違う?
+Why do you say that?
+Liz
 408100701_38_a
-p	v
-シノン
+Sinon
 408100701_37_a
-なによりもあの四人は……
-ちょっと違う気がするの
-アスナ
+Besides, I don't think those four
+have him in their romantic laser
+sights.
+Asuna
 408100701_36_a
-全然大丈夫だよ
-だってキリトくんは信頼してるし……
-アスナ
+I trust him completely.
+Asuna
 408100701_35_a
-あはは、リズったら
-そんなこと心配してたのね
-アスナ
+Ahaha! Oh, Liz.
+I'm not worried.
+Asuna
 408100701_34_a
-リーファ
+Leafa
 408100701_33_a
-アスナ
+Asuna
 408100701_32_a
-なるほど……あっちを見て
-リズが睨んでたのは
-そういうわけだったのね
-シノン
+Ahh, I see. That's why you were
+glaring. You're right: Kirito's
+doing the Kirito thing again.
+Sinon
 408100701_31_a
-恋人なんだから気が気じゃないとか
-そういう考えに至らないのかって
-聞いてるの
+You're his girlfriend, right?!
+You march over there right
+now and keep him in line!
+Liz
 408100701_30_a
-シリカ
+Silica
 408100701_29_a
-まーた、女の子が四人も加わって
-キリトが囲まれてることよ!
+Should be flipping out, duh!
+Look at him! Kirito's totally
+flirting with all those girls!
+Liz
 408100701_28_a
-リーファ
+Leafa
 408100701_27_a
-シノン
+Sinon
 408100701_26_a
-えっ、なにが……?
-アスナ
+Me of all people, what...?
+Asuna
 408100701_25_a
-シリカ
+Silica
 408100701_24_a
-それなんだけど……
-アスナ、あんた気にならないの?
+How am I the only one who's seeing
+flashing red lights and alarms
+here?! Asuna, you of all people!
+Liz
 408100701_23_a
-シノン
+Sinon
 408100701_22_a
-あれは……キリトくんが
-隠されたアイテムを見つける方法を
-みんなに教えてるんじゃないかな
-アスナ
+He's just showing them how to find
+hidden treasure. What's got you so
+upset?
+Asuna
 408100701_21_a
-$	v
-シノン
+Sinon
 408100701_20_a
-p	v
-アスナ
+Asuna
 408100701_19_a
-なんかあっちのクレハさんたちを見て
-顔しかめてます?
-リーファ
+You're frowning awfully hard at
+Kirito and the girls over there...
+Leafa
 408100701_18_a
-リズさん
-どうかしたんですか?
-シリカ
+Liz? What is it?
+Silica
 408100701_17_a
-シリカ
+Silica
 408100701_16_a
-う、うーん……
+Hmm... Danger sense, tingling...
+Liz
 408100701_15_a
-アファシス
+ArFA-sys
 408100701_14_a
-はい!
-クレハ
+Got it!
+Kureha
 408100701_13_a
-アファシス
+ArFA-sys
 408100701_12_a
-クレハ
+Kureha
 408100701_11_a
-ああ、小ネタだけど
-こういう探索も面白いだろ?
-キリト
+Exactly. This tower's not really
+about treasure hunting, but it's
+always fun to find loot, right?
+Kirito
 408100701_10_a
-デイジー
+,%v
+Daisy
 408100701_9_a
-なるほど
-ヒビの量に気づけば破壊可能か
-不可能か判断できるというわけね～
-ツェリスカ
+Ahh, I get it. It was the cracks,
+wasn't it? There were more than
+usual, come to think of it.
+Zeliska
 408100701_8_a
-ツェリスカ
+Zeliska
 408100701_7_a
-一見すると他の壁と
-大差ないように見えましたが……
-デイジー
+How did you know this wall was
+a fake? It looks just like every
+other one...
+Daisy
 408100701_6_a
 item_03_treasure_box
-壁の中にトレジャーボックスが
-隠されてましたよ!
-アファシス
+Look! A hidden treasure chest!
+ArFA-sys
 408100701_5_a
-アファシス
+ArFA-sys
 408100701_4_a
-わっ、壁が壊れた!
-クレハ
+Wow! The wall broke!
+Kureha
 408100701_3_a
-それで、
-ここに衝撃を加えれば……
-キリト
+Then hit the wall juuust right...
+Kirito
 408100701_2_a
 bg_s2_06_glacier
-この壁は
-こうするだろ……?
-キリト
+So if I do this, then that, then
+a liiittle bit of that...
+Kirito
 408100701_1_a
-クレハ
+x v
+Kureha
 408100601_50_a
-なんだか賑やかになって
-わたしも嬉しいのです!
-アファシス
+Double yay! I like hanging out
+with people! The more the merrier!
+ArFA-sys
 408100601_49_a
-はい、心強いです!
-シリカ
+Yay! Now I think we'll have a
+chance!
+Silica
 408100601_48_a
+x"v
+t"v
+Liz
 408100601_47_a
-シリカ
+Silica
 408100601_46_a
-人数を合わせれば……十人!
-ちょっとしたスコードロンですね!
-リーファ
+That makes ten people!
+A full squadron!
+Leafa
 408100601_45_a
-デイジー
+Daisy
 408100601_44_a
-それは妙案ね～
-私たちの方からぜひお願いしたい
-くらいだわ
-ツェリスカ
+p&v
+That's a wonderful idea!
+We'd love to!
+Zeliska
 408100601_43_a
-アスナ
+8.v
+Asuna
 408100601_42_a
-私たちも戦力的には足りない気が
-してたし、ここからは
-一緒に進んでみない?
-シノン
+What do you say?
+Want to join forces?
+Sinon
 408100601_41_a
-でもこんな場所で会えたのも
-不幸中の幸いだわ
-シノン
+h%v
+Actually, we're doubly lucky we
+ran into you. We were starting to
+have trouble with the mobs too.
+Sinon
 408100601_40_a
-シノン
+4&v
+0&v
+Sinon
 408100601_39_a
-キリト
+Kirito
 408100601_38_a
-なんとか間に合って良かったよ
-アスナ
+I'm just glad we were here to
+help.
+Asuna
 408100601_37_a
-アファシス
+d'v
+ArFA-sys
 408100601_36_a
-ありがとうございました!
-キリトさんたちのおかげで
-助かりました!
-クレハ
+Thank you so much for saving us!
+We owe you big time!
+Kureha
 408100601_35_a
-アスナ
+X(v
+Asuna
 408100601_34_a
-シノン
+Sinon
 408100601_33_a
-よし、これで大丈夫そうだな
-キリト
+Phew, looks like we're safe for
+now.
+Kirito
 408100601_32_a
-アファシス
+ArFA-sys
 408100601_31_a
-は、はい!
-クレハ
+G-Got it!
+Kureha
 408100601_30_a
-0(v
-アスナ
+Asuna
 408100601_29_a
-クレハたちは階段前で待ち構えてる
-モンスターを見ていてくれ!
-こちらに迫ってくるなら応戦頼む!
-キリト
+You keep an eye on the ones
+guarding the stairs down. If they
+make a move, deal with them!
+Kirito
 408100601_28_a
-アスナ
+x+v
+t+v
+Asuna
 408100601_27_a
-シノン
+Sinon
 408100601_26_a
-Xcv
-よし、俺たちは追ってきた奴らを
-対処するから、
-キリト
+Right! We'll handle the baddies
+charging us from thataway.
+Kirito
 408100601_25_a
-(!v
-クレハ
+Kureha
 408100601_24_a
-Xmv
-た、確かにそうしたいのです!
-アファシス
+Y-Yeah! Fight time!
+ArFA-sys
 408100601_23_a
-キリト
+Kirito
 408100601_22_a
-d"v
-シノン
+Sinon
 408100601_21_a
-ふふっ、みんな今はそれよりも先に
-あのモンスターたちをどうにかしよう
-アスナ
+Can we chat later? In case you've
+forgotten, there's a horde of
+monsters trying to murder us.
+Asuna
 408100601_20_a
-リーファ
+Leafa
 408100601_19_a
+D/v
+Liz
 408100601_18_a
-あはは……
-そういえばそうですね……
-シリカ
+Hehe, I guess that's a good point.
+Silica
 408100601_17_a
-四人ですごいと言うのなら
-そちらは六人……
-あまり変わりないのでは……?
-デイジー
+(0v
+You've only got six. That's not
+much better than our group.
+Daisy
 408100601_16_a
-デイジー
+Daisy
 408100601_15_a
-リーファちゃん、リズちゃん、
-シリカちゃんまで来てたのね……
-ツェリスカ
+Wow, the gang's all here, huh?
+Zeliska
 408100601_14_a
-シリカ
+Silica
 408100601_13_a
-ホント大したものだわ
-この辺の敵、
-みんな強かったでしょう?
+Yeah, seriously. What are you
+guys, insane? The monsters around
+here are crazy tough.
+Liz
 408100601_12_a
-でもたった四人でここまで
-来るなんて……皆さんすごいですね
-シリカ
+With only four people?!
+You're super brave!
+Silica
 408100601_11_a
-シリカ
+L3v
+H3v
+Silica
 408100601_9_a
-クレハさんたちも
-攻略してたんですね
-リーファ
+I didn't know you guys were taking
+on this tower too.
+Leafa
 408100601_8_a
+Liz
 408100601_10_a
-アファシス
+ArFA-sys
 408100601_7_a
-アスナ、シノン!
-クレハ
+Asuna! Sinon!
+Kureha
 408100601_6_a
-アスナ
+T5v
+Asuna
 408100601_5_a
-ふふっ、本当に偶然よね
-まさかこんなタワーの中で
-鉢合わせるなんて
-シノン
+l6v
+Heh. What are the chances we'd run
+into you guys in a tower this big?
+Sinon
 408100601_4_a
-キリト
+X6v
+Kirito
 408100601_3_a
-シノン
+Sinon
 408100601_2_a
 bg_s2_06_glacier
-わたしたちもいるよ
-アスナ
+Don't forget us!
+Asuna
 408100601_1_a
-アファシス
+ArFA-sys
 408100501_49_a
-hpv
-キ、キリトさん!
-クレハ
+K-Kirito!!
+Kureha
 408100501_48_a
-よっ、お前ら
-偶然だな
-キリト
+<Gv
+Hey, long time no see.
+Fancy running into you here.
+Kirito
 408100501_47_a
-X/v
-ガアアアアッ……!!
-モンスター
+NNRK?!
+Monster
 408100501_46_a
-キリト
+Kirito
 408100501_45_a
-うおおおおっ!!!
-キリト
+l:v
+HRAAAAGH!!
+Kirito
 408100501_44_a
-41v
-アファシス
+ArFA-sys
 408100501_43_a
-えっ、この声は……!?
-クレハ
+I know that voice!
+Kureha
 408100501_42_a
-そうだ……!
-諦めないことが一番大事なんだぜ!
+Never give up, never surrender!!
+Hope is just around the corner!
 ???
 408100501_41_a
-85v
-なにか……なにか方法は……!?
-クレハ
+(?v
+There's got to be a way to beat
+this! Think, Kureha, think!!
+Kureha
 408100501_40_a
-X3v
-クレハ
+Kureha
 408100501_39_a
-P5v
-ここまで来て
-グロッケンに戻されるのは
-イヤなのですぅ……!
-アファシス
+L?v
+But we've come so far! I don't
+wanna die and get sent back
+to Glocken!
+ArFA-sys
 408100501_38_a
-t4v
-l4v
-デイジー
+T>v
+Daisy
 408100501_37_a
-D7v
-残念だけど四人パーティだと
-このあたりが限界かしらねぇ～……
-ツェリスカ
+$Av
+Yeah, for a four-person squad.
+I think we've made it as far as
+we can.
+Zeliska
 408100501_36_a
-アファシス
+T?v
+ArFA-sys
 408100501_35_a
-h8v
-ツェリスカさん……
-じゃあ……
-クレハ
+(Bv
+But...that means it's
+impossible...
+Kureha
 408100501_34_a
-逃げるプレイヤーをここに追い込んで
-叩くっていうね……
-ツェリスカ
+If you try to retreat, you end up
+in this death trap.
+Zeliska
 408100501_33_a
-H7v
-デイジー
+Daisy
 408100501_32_a
-これは恐らく少数パーティを
-一網打尽にするために
-ゲーム的に仕組まれたことだもの
-ツェリスカ
+No, dummy. This is probably just a
+pre-programmed event made to wipe
+out small parties like ours.
+Zeliska
 408100501_31_a
-アファシス
+ArFA-sys
 408100501_30_a
-えっ……?
-クレハ
+But it's right THERE!
+Kureha
 408100501_29_a
-T9v
-デイジー
+Daisy
 408100501_28_a
-,<v
-クレハちゃんのせいじゃないわ
-ツェリスカ
+Oh, stop being dramatic.
+It's not your fault.
+Zeliska
 408100501_27_a
-P:v
-ごめんなさい……みんな
-あたしがここまで逃げようって
-言ったせいで……
-クレハ
+,Fv
+Sorry... This is all my fault...
+I should have never suggested
+we run back there...
+Kureha
 408100501_26_a
-クレハ
+pDv
+Kureha
 408100501_25_a
-挟み撃ちになっちゃうのです!
-アファシス
+WE'RE SURROUNDED HEEEELP!!
+ArFA-sys
 408100501_24_a
-デイジー
-408100501_23_a
-どうしましょうか……?
-後ろからはさっきのモンスター達が
-追いかけてきているし……
-ツェリスカ
-408100501_22_a
-そんな!
-さっきはいなかったのに……
-クレハ
-408100501_21_a
-か、階段前にもモンスターが!
-アファシス
-408100501_20_a
-グルアアアッ!!
-モンスター
-408100501_19_a
-$?v
-アファシス
-408100501_18_a
-えっ……?
-クレハ
-408100501_17_a
-ツェリスカ
-408100501_16_a
-待ってください!
-デイジー
-408100501_15_a
-アファシス
-408100501_14_a
-みんな、もう少しよ!
-クレハ
-408100501_13_a
-は、はい!
-アファシス
-408100501_12_a
-HBv
-確かあっちに下へ降りる
-階段があったわ!
-とりあえず今は逃げるわよ!
-クレハ
-408100501_11_a
-ど、どうするのです?
-まずはさっきのバトルの
-回復をしないと……
-アファシス
-408100501_9_a
-クレハ
-408100501_10_a
-4Dv
-,Dv
-デイジー
-408100501_8_a
-やっぱりこの辺から
-難易度も急に上がり出したわね～
-ツェリスカ
-408100501_7_a
 HEv
-アファシス
+Daisy
+408100501_23_a
+We're in trouble. Monsters ahead
+of us, monsters behind...
+Zeliska
+408100501_22_a
+<Fv
+No way! We cleared this place a
+few minutes ago!
+Kureha
+408100501_21_a
+EEP! A monster?! In front of the
+way back down?!
+ArFA-sys
+408100501_20_a
+xGv
+GRAAAWRGH!!
+Monster
+408100501_19_a
+ArFA-sys
+408100501_18_a
+But it's right THERE!
+Kureha
+408100501_17_a
+Zeliska
+408100501_16_a
+STOP!
+Daisy
+408100501_15_a
+ArFA-sys
+408100501_14_a
+We're almost there!
+Kureha
+408100501_13_a
+dJv
+G-Got it!
+ArFA-sys
+408100501_12_a
+XMv
+I think there's a way back down
+over there! Let's do that tactical
+retreat thing before we're toast!
+Kureha
+408100501_11_a
+XMv
+What do we do? We still haven't
+healed from that last battle...
+ArFA-sys
+408100501_9_a
+Kureha
+408100501_10_a
+Daisy
+408100501_8_a
+tOv
+Apparently not. The difficulty's
+ramping up really high, really
+fast.
+Zeliska
+408100501_7_a
+ArFA-sys
 408100501_6_a
-はあ……もうっ!
-息つく暇もないっていうの!?
-クレハ
+pant
+pant
+... UGH! Can't they
+leave us alone for, like, five
+minutes?! I need a break!
+Kureha
 408100501_5_a
-LFv
-皆さん!
-新手です!
-デイジー
+Look out! We have incoming!
+Daisy
 408100501_4_a
-ツェリスカ
+HOv
+Zeliska
 408100501_3_a
-(Gv
-デイジー
+Daisy
 408100501_2_a
 bg_s2_06_glacier
-グギャアアッ!!
-モンスター
+GRAAAGH!!
+Monster
 408100501_1_a
-4Hv
-アファシス
+ArFA-sys
 408100401_31_a
-そうですか……
-ああ……やっぱり引っ張ってでも
-アイツを連れてくるべきだったかも!
-クレハ
+Hmm... Alright, I think I'm going
+to have to drag our missing friend
+here to help us no matter what!
+Kureha
 408100401_30_a
-デイジー
+Daisy
 408100401_29_a
-さすがに四人だと
-これ以上は厳しいかもしれないわ……
-ツェリスカ
+You said it. Beating this tower
+is going to be tough with a
+four-person squad.
+Zeliska
 408100401_28_a
-lMv
-ここでこれだけ苦労してると
-ちょっと先が思いやられるかも……
-クレハ
+We're having this much trouble
+already... Things are only going
+to get worse from here on out.
+Kureha
 408100401_27_a
-クレハ
+Kureha
 408100401_26_a
-中層……まだまだ先は長い
-ということなのですね
-アファシス
+Hmm... Yeah, we still have a long
+way to go.
+ArFA-sys
 408100401_25_a
-そうね……
-でもまだここはタワーの階層としては
-中層の域よ……
-ツェリスカ
+It certainly felt like it. Still,
+we're only about halfway
+through this tower.
+Zeliska
 408100401_24_a
-ツェリスカ
+Zeliska
 408100401_23_a
-今のエネミーたちは
-このフロアのボスのようですね
-デイジー
+xWv
+This group of enemies appears
+to have been this floor's boss
+battle.
+Daisy
 408100401_22_a
-アファシス
+ArFA-sys
 408100401_21_a
-あっ、はい
-これで一息つけますね
-クレハ
+Oh, yeah. We're clear.
+Want to take a breather?
+Kureha
 408100401_20_a
-デイジー
-408100401_19_a
-dRv
-そっちも片付いたのね～
-ツェリスカ
-408100401_18_a
-あはは、冗談よ
-いつもどおりでいいって
-クレハ
-408100401_17_a
-$Qv
-そうなのですね!
-ではこれからもよろしくお願いします
-二番目のマスター!
-アファシス
-408100401_16_a
-tTv
-そう考えるとあたしは
-レイちゃんの二番目のマスターって
-感じかしら!
-クレハ
-408100401_15_a
-DUv
-それをアイツが偶然先に見つけて
-マスターって設定をしちゃったのよね
-クレハ
-408100401_14_a
-ちょっと前のことなのに
-なんだか懐かしいわね……元々は
-レイちゃんをあたしが欲しがってて
-クレハ
-408100401_13_a
-はい、そうなのです!
-アファシス
-408100401_12_a
-ふふっ、嬉しいこと言ってくれるわね
-確か……ナンバーが00だったから
-愛称をレイちゃんにしたのよね
-クレハ
-408100401_11_a
-そう呼んでもらえると
-なんだか仲がまた良くなった気が
-するのです!
-アファシス
-408100401_10_a
-えっ、突然どうしたの?
-クレハ
-408100401_9_a
 pWv
-ふふっ、わたしはこうしてクレハに
-レイちゃんと呼んでもらえることが
-とっても嬉しいのです!
-アファシス
+hWv
+Daisy
+408100401_19_a
+8Zv
+You finished up over there?
+Zeliska
+408100401_18_a
+DXv
+Ahaha, I was just kidding.
+"Kureha" is fine, as always!
+Kureha
+408100401_17_a
+Hey, that's a good point!
+From here on out, you are
+now officially Master 
+ArFA-sys
+408100401_16_a
+Hmm... So does that make me your
+second master?
+Kureha
+408100401_15_a
+8Zv
+I wanted you so bad too, hehe.
+But then I got beaten to the
+punch with master registration.
+Kureha
+408100401_14_a
+t]v
+It wasn't that long ago that we
+found you, but it feels like we've
+known each other for ages.
+Kureha
+408100401_13_a
+That's right! "Rei" means "zero"!
+ArFA-sys
+408100401_12_a
+"Bester best friends"? You're so
+cute! Hehe! Hey... That nickname's
+because you're number 00, right?
+Kureha
+408100401_11_a
+$]v
+It's just, I feel like we're even
+bester best friends now that
+you've called me "Rei"!
+ArFA-sys
+408100401_10_a
+Huh? What's with the gush of
+emotion?
+Kureha
+408100401_9_a
+Oh my gosh! I think that was the
+first time you ever called me
+"Rei"! I'm so happy!
+ArFA-sys
 408100401_8_a
-dXv
-まぁ見ていて
-少し危なっかしかったけどね……
-クレハ
+8_v
+Though it did look like you almost
+got yourself robot-stomped...
+Kureha
 408100401_7_a
-レイちゃん、ありがとう
-あなたの囮のおかげよ
-クレハ
+Thanks, Rei. You were a fantastic
+decoy.
+Kureha
 408100401_6_a
-はい!
-アファシス
+Got it!
+ArFA-sys
 408100401_5_a
-<Zv
-ふう……
-こっちも起動停止……
-全部倒せたわね
-クレハ
+dcv
+Phew... That's the last one.
+Kureha
 408100401_4_a
-アファシス
+tav
+pav
+ArFA-sys
 408100401_3_a
-クレハ
+Kureha
 408100401_2_a
 bg_s2_06_glacier
-ガガッ……ギギッ……
-メカ型エネミー
+Beep... Bzzt...
+Mech
 408100401_1_a
-クレハ
+,cv
+Kureha
 408100301_32_a
-あ、ありがとうございます!
-でもわたしも戦うのです!
-アファシス
+Th-Thank you so much, everyone!
+But I can fight too!
+ArFA-sys
 408100301_31_a
-0fv
-一掃します
-デイジー
+tlv
+Terminating enemies.
+Daisy
 408100301_30_a
-デイジー
+Daisy
 408100301_29_a
-背後ががら空きよ!
-ツェリスカ
+You left your backs exposed,
+robots! Now die!
+Zeliska
 408100301_28_a
-H_v
-クレハ、皆さん!
-アファシス
+Guys! You came for me!
+ArFA-sys
 408100301_27_a
-アファシス
+ArFA-sys
 408100301_26_a
-レイちゃんよくやってくれたわ!
-あとはあたしたちに任せて!
-クレハ
+Great job, Rei!
+Leave the rest to us!
+Kureha
 408100301_25_a
-あれれ?
-みんなやられていってるのです……?
-アファシス
+Pov
+Huh? They're all falling over?
+ArFA-sys
 408100301_24_a
-ガアアッ……!
-ガガガッ……ギギッ……
-メカ型エネミー
+BRRZT?!
+BWWOOOoooooppp...
+Mech
 408100301_23_a
-ううっ……!
-さすがにもう一人では限界ですー!
-アファシス
-408100301_22_a
-Tcv
-アファシス
-408100301_21_a
-グガアアアッ!!
-メカ型エネミー
-408100301_20_a
-Ldv
-デイジー
-408100301_19_a
-はい!
-クレハ
-408100301_18_a
-さあ、みんな!
-行きましょう!
-ツェリスカ
-408100301_17_a
-Xgv
-ええ、レイちゃんのおかげで
-完全に敵陣の背後に回れたわ
-ツェリスカ
-408100301_16_a
-tfv
-時間稼ぎとしては十分です
-デイジー
-408100301_15_a
-ツェリスカ
-408100301_14_a
-デイジー
-408100301_13_a
-レイちゃんへの
-攻撃が再開したみたいです!
-クレハ
-408100301_12_a
 hhv
-グガガッ!
-メカ型エネミー
+sniff
+...
+There's nowhere else to run...
+ArFA-sys
+408100301_22_a
+ArFA-sys
+408100301_21_a
+BEEP!! BOOP!! BAAP!!
+Mech
+408100301_20_a
+Daisy
+408100301_19_a
+Got it!
+Kureha
+408100301_18_a
+Hlv
+Let's scrap them!
+Open fire!!
+Zeliska
+408100301_17_a
+,kv
+She was an excellent decoy.
+We're in the perfect position
+to take them out.
+Zeliska
+408100301_16_a
+Well, she bought us enough time.
+Daisy
+408100301_15_a
+llv
+hlv
+Zeliska
+408100301_14_a
+Daisy
+408100301_13_a
+It looks like they've started
+attacking her again.
+Kureha
+408100301_12_a
+BOOP!
+Mech
 408100301_11_a
-そ、それは教えられませーん!!
-アファシス
+,nv
+I-I can't tell you! Sorry!
+ArFA-sys
 408100301_10_a
-ガアアアッ!!
-メカ型エネミー
+BEEP.
+Mech
 408100301_9_a
-,jv
-他の三人がどこにいるかとか、
-聞いてたりします?
-アファシス
+(ov
+You want to know where
+the other three are?
+ArFA-sys
 408100301_8_a
-ガガガガッ!!
-メカ型エネミー
+BZZRRRT!! BEEP BEEP BEEP!!
+Mech
 408100301_7_a
-tkv
-し、しまった……!
-も、もしかしてロボットさん
-怒ってます?
-アファシス
+Hpv
+U-Uh oh! I probably shouldn't have
+said that! Y-You're not mad at me,
+right, robot friends? Buddies?
+ArFA-sys
 408100301_6_a
-8lv
-ガガガガッ!!
-メカ型エネミー
+BZZRRRT!! BEEP BEEP BEEP!!
+Mech
 408100301_5_a
-はい、そうですよ
-わたしたちは全員で四人の
-パーティで……はっ!?
-アファシス
+Oh, yes, that's right. I'm here
+with my friends today. We're a
+party of fou -- EEP?!
+ArFA-sys
 408100301_4_a
-4vv
-ガガッ……?
-メカ型エネミー
+Beep?
+Mech
 408100301_3_a
-pnv
-ですが今日のこのタワーの攻略には
-都合が合わなくて……残念ながら
-わたしたちは四人で来たのです……
-アファシス
+(sv
+But Master couldn't come today,
+so it's just me and my three
+friends...
+ArFA-sys
 408100301_2_a
-pov
 bg_s2_06_glacier
-はい、そうなんです
-わたしのマスターはとっても
-素晴らしい方なのです
-アファシス
+Exactly! Master's the most
+wonderful, awesome, amazing master
+ever! You get me, right?!
+ArFA-sys
 408100301_1_a
-dpv
-ええ、そうね
-ツェリスカ
+duv
+Yeah. It's go time.
+Zeliska
 408100201_52_a
-0sv
-私たちはこの隙に
-敵陣の裏手に回り込みましょう
-デイジー
+Let's sneak behind them while
+they're distracted.
+Daisy
 408100201_51_a
-レイちゃんのあの性格が
-功を奏してるって感じかしら
-ツェリスカ
+I guess Rei's personality is
+actually helping her out here.
+Who would've guessed?
+Zeliska
 408100201_50_a
-ふふっ、敵たちはなんだか
-レイちゃんの言動を
-不思議がってるみたいね～
-ツェリスカ
+8wv
+Hehe, look at her go. She's acting
+so weird, the robots don't know
+how to react.
+Zeliska
 408100201_49_a
-デイジー
+Daisy
 408100201_48_a
-$tv
-ツェリスカ
+<xv
+Zeliska
 408100201_47_a
-な、なんか時間稼ぎは
-してくれてますね……
-結果的に……
-クレハ
+I-I think she bought us some
+time...
+Kureha
 408100201_46_a
-Huv
-アファシス
+(yv
+ArFA-sys
 408100201_45_a
-グガガッ……?
-メカ型エネミー
+Brrzt...?
+Mech
 408100201_44_a
-4vv
-ううっ、ええと……み、皆さん!
-ここは冷静に! お互いの理解を
-深めるため、話し合いましょう!
-アファシス
+EEEP! H-Hi there, big giant scary
+horde of angry robots! Let's, uh,
+talk this out, okay? Friends?
+ArFA-sys
 408100201_43_a
-(wv
-グガガガーーッ!!
-メカ型エネミー
+BEEP BEEP BEEP BOOOOP!!
+Mech
 408100201_42_a
-そ、そんなに沢山呼ぶなんて
-卑怯なのですよ!
-アファシス
+L{v
+D-Don't call so many friends!
+That's cheating!
+ArFA-sys
 408100201_41_a
-lxv
-グガアアッ!!
-メカ型エネミー
+BZZZRRRRT! BEEP BOOP!
+Mech
 408100201_40_a
-えっ!?
-しかも今の警音は……!?
-まさか仲間を……!?
-アファシス
+Huh?! Was that an alarm?!
+Is it calling for backup?!
+ArFA-sys
 408100201_39_a
-ピギイイーーーッ!
-メカ型エネミー
+WEEOOOWEEOOO!!
+Mech
 408100201_38_a
-Lzv
-わゃああっ!!
-いきなり撃ってくるのですか!?
-アファシス
+Waaah! You're supposed to chase
+me, not attack me! Meanie!
+ArFA-sys
 408100201_37_a
-グガアアッ!!
-メカ型エネミー
+BZZZRRRRT! BEEP BOOP!
+Mech
 408100201_36_a
-さあ、さあ、侵入者ですよ!
-わたしのこと捕まえてみるのです!
-アファシス
+Yeah, I'm talking to you!
+Look here! I'm an intruder!
+Come and get me!
+ArFA-sys
 408100201_35_a
-アファシス
+ArFA-sys
 408100201_34_a
-ガガッ!?
-メカ型エネミー
+BEEP?! BEEEP!!
+Mech
 408100201_33_a
-D}v
-さあ、こっちを見てください!
-アファシス
+Hey! Over here, scrap for brains!
+ArFA-sys
 408100201_32_a
-ガガッ……
-メカ型エネミー
+Bzzt. Beep. Boop.
+Mech
 408100201_31_a
-クレハ
+Kureha
 408100201_30_a
-はい!
-アファシス
+Got it!
+ArFA-sys
 408100201_29_a
-アファシス
+ArFA-sys
 408100201_28_a
-うーん、わ、わかりました
-じゃあレイちゃん頼むね
-クレハ
+Well, o-okay... Just don't get
+hurt, alright?
+Kureha
 408100201_27_a
-デイジー
+Daisy
 408100201_26_a
-そうよ～
-こういうのは何事も経験よ
-ツェリスカ
+Yeah, Kureha! Believe in her!
+Besides, it'll be a good learning
+experience.
+Zeliska
 408100201_25_a
-クレハ、わたしを信じてください!
-アファシス
+I'll be fine, Kureha!
+Believe in me!
+ArFA-sys
 408100201_24_a
-敵を出し抜くのって
-けっこう頭使うし……
-クレハ
+You need to really use your head
+if you want to lure all the bad
+guys out...
+Kureha
 408100201_23_a
-アファシス
+ArFA-sys
 408100201_22_a
-でもこういうのって一番
-レイちゃんに向いてないんじゃ……?
-クレハ
+Are you sure you'll be all right?
+Don't you think this might be a
+bit much?
+Kureha
 408100201_21_a
-デイジー
+Daisy
 408100201_20_a
-ふふっ、いいじゃない～
-レイちゃんにやらせてあげましょう
-ツェリスカ
+Hehe, why not?
+Rei, you've got the job!
+Zeliska
 408100201_19_a
-ええと、大丈夫……?
-クレハ
+Uhh... Sure, if you think you're
+up for it...
+Kureha
 408100201_18_a
-デイジーばかりに良いところを
-見せられてはサポートAIの
-名が廃ります!
-アファシス
+Besides, I can't let Daisy take
+all the glory! I need to show how
+good of a support AI I can be too!
+ArFA-sys
 408100201_17_a
-H w
-クレハ
+Kureha
 408100201_16_a
-なら囮と時間稼ぎは
-わたしがやります!
-アファシス
+Oooh! Oooh! Let me do it!
+I'll be the decoy!
+I love being the decoy!
+ArFA-sys
 408100201_15_a
-デイジー
+Daisy
 408100201_14_a
-そうね……
-正攻法だけどまずそれで
-やってみましょうか
-ツェリスカ
+Hmm... Sure. That's a pretty
+orthodox tactic. Let's try it and
+see what happens.
+Zeliska
 408100201_13_a
-囮で誰かが出てヘイト集めてる間に
-後ろから周り込んで叩くとか
-そういう戦法がいいですかね?
-クレハ
+I say one of us runs out there and
+draws aggro, and the others flank
+them while they're distracted.
+Kureha
 408100201_12_a
-なかなか手が込んでるわね
-どうします、ツェリスカさん?
-クレハ
+It sounds like this next area
+could be a huge pain in the rear.
+What's the plan, Zeliska?
+Kureha
 408100201_11_a
-なるほど……!
-勉強になるのです!
-アファシス
+Whoa...
+You're so smart...
+ArFA-sys
 408100201_9_a
-クレハ
+Kureha
 408100201_10_a
-ツェリスカ
+X'w
+Zeliska
 408100201_8_a
-わずかに駆動音がします
-恐らくは機械仕掛けのエネミーでは
-ないかと
-デイジー
+I detected faint vibrations of a
+likely artificial nature. I assume
+these are mechanical enemies.
+Daisy
 408100201_7_a
-$&w
-クレハ
+t(w
+Kureha
 408100201_6_a
-デイジーすごいのです!
-本来わからないなら、
-どうして気づけたんですか?
-アファシス
+Wow, Daisy! You're amazing! How
+did you notice them if they're
+so good at hiding?
+ArFA-sys
 408100201_5_a
-ハイディング能力が高い等、
-そういう仕様の敵なのだと思います
-デイジー
+I believe that's because they have
+high-level hiding abilities.
+Daisy
 408100201_4_a
-そうなの?
-索敵には引っかかってないけど……
-ツェリスカ
+Are you sure? I'm not picking up
+anything with my detection
+skill...
+Zeliska
 408100201_3_a
-ツェリスカ
+Zeliska
 408100201_2_a
 bg_s2_06_glacier
-皆さん、下がってください
-この先にエネミーが数多くいます
-デイジー
+Warning. Please retreat. There
+are too many enemies beyond
+this point for us to handle.
+Daisy
 408100201_1_a
-だ、だから違うってば～!!
-クレハ
+A-Am not!!
+Kureha
 408100101_39_a
-やっぱりクレハも寂しいんですね!
-アファシス
+I knew it! You're sad Master's not
+spending time with you! Admit it!
+ArFA-sys
 408100101_38_a
-アファシス
+ArFA-sys
 408100101_37_a
-アイツ、今日は用事があるみたいです
-まったくあたしたちにレイちゃん
-押し付けて自分だけ勝手なんだから!
-クレハ
+Her "master's" a big shot and had
+something MORE IMPORTANT to do
+than hang out with us! Hmph!
+Kureha
 408100101_36_a
-デイジー
+Daisy
 408100101_35_a
-ふふふっ……
-そういえばレイちゃんのご主人様は
-今日はどうしたの?
-ツェリスカ
+Hehehe, right. Sure you are. So,
+where is your master today, Rei?
+Zeliska
 408100101_34_a
-あ、あたしは別に
-寂しくなんかないけどねー!
-クレハ
+W-Well, I don't mind.
+I'm perfectly happy with
+this squad, okay?!
+Kureha
 408100101_33_a
-マスターがいないのは寂しいですが
-この四人で引き続き
-がんばりましょう!
-アファシス
+I'm a little sad Master isn't here
+to play with us, but it's still
+fun with just us four!
+ArFA-sys
 408100101_32_a
-アファシス
+ArFA-sys
 408100101_31_a
-はい、もちろんです!
-クレハ
+Of course!
+Kureha
 408100101_30_a
-そうね
-クレハちゃんたちも
-もう休憩はいいかしら?
-ツェリスカ
+Yeah, I'm ready to get back to it.
+You girls good for some more
+gaming?
+Zeliska
 408100101_29_a
-マスター、皆さん
-そろそろこの未踏破タワーの攻略を
-再開しましょう
-デイジー
+We've dawdled here long enough.
+Let's resume exploring this new
+tower.
+Daisy
 408100101_28_a
-デイジー
+Daisy
 408100101_27_a
-そ、そんなことないわ……
-ツェリスカ
+I-It's just common knowledge...
+Zeliska
 408100101_26_a
-アファシス
+ArFA-sys
 408100101_25_a
-ツェリスカさん
-さすが詳しいですね!
-クレハ
+Wow, Zeliska! I knew you were
+smart, but you sounded, like,
+super smart right there!
+Kureha
 408100101_24_a
-だからプレイヤーの性格や接し方で
-全く異なるパーソナルが出来上がると
-言われているわ
-ツェリスカ
+That's why how you talk to and
+treat your ArFA-sys changes who
+they become.
+Zeliska
 408100101_23_a
-デイジー
+Daisy
 408100101_22_a
-ええ、そうね
-プレイヤーと交流を重ねて
-それぞれが自我を芽生えさせていくの
-ツェリスカ
+Yeah, I'd agree with that
+sentiment. They all learn and grow
+by interacting with players too.
+Zeliska
 408100101_21_a
-プレイヤーにナビキャラとして
-付き従うオリジナルNPC……
-でも全然性格は違うんですよね
-クレハ
+Who would've thought they'd give
+navigation NPCs all totally unique
+personalities? It's awesome!
+Kureha
 408100101_20_a
-アファシス
+ArFA-sys
 408100101_19_a
-ふふっ、でも
-GGOのサポートAIって
-面白いですよね
-クレハ
+Hehe. It still impresses me how
+cool the support AIs are in GGO,
+though!
+Kureha
 408100101_18_a
-いえ、そういうわけではありません
-デイジー
+No, I will not "relax."
+I speak the truth, nothing more.
+Daisy
 408100101_17_a
-も～っ、デイジーちゃんったら
-仲が良いって言われて
-照れちゃってるのかしら～?
-ツェリスカ
+Yeesh, Daisy, way to make that
+awkward. Seriously, relax. You're
+my friend, not my slave.
+Zeliska
 408100101_16_a
-ツェリスカ
+X:w
+Zeliska
 408100101_15_a
-私はマスターに従属する身……
-指示に従うだけです
-デイジー
+Zeliska is my master, and I obey
+her will. That is all.
+Daisy
 408100101_14_a
-仲良しさんと言えば
-ツェリスカとデイジーも
-そうですよね!
-アファシス
+If we're talking about the bestest
+of best friends, Zeliska and Daisy
+are pretty close too, right?
+ArFA-sys
 408100101_13_a
-アファシス
+ArFA-sys
 408100101_12_a
-はい、昔は
-あたしの子分みたいなもん
-だったんですけどね～
-クレハ
+Yeah! Seriously, I feel ignored!
+We used to hang out all the time,
+but now? Hmph.
+Kureha
 408100101_11_a
-そうみたいね
-確かあの人とはこのGGOで
-久しぶりに再会したのよね
-ツェリスカ
+Speaking of which, I hear that you
+two met up with you-know-who in
+GGO for the first time in ages.
+Zeliska
 408100101_9_a
-デイジー
+Daisy
 408100101_10_a
-いやいや、ただの腐れ縁ですよ
-レイちゃんはアイツのサポートAI
-あたしはアイツの昔馴染みですからね
-クレハ
+Ignore her. We're second-degree
+acquaintances through her master
+slash my old friend.
+Kureha
 408100101_8_a
-クレハ
+Kureha
 408100101_7_a
-はい!
-クレハとは
-唯一無二の親友なのです!
-アファシス
+That's right! Kureha is my bestest
+best friend!
+ArFA-sys
 408100101_6_a
-デイジー
+Daisy
 408100101_5_a
-あらあら～
-本当にクレハちゃんとレイちゃんは
-仲が良いのね～
-ツェリスカ
+My my, you and Kureha really are
+just the fastest of friends,
+aren't you, Rei?
+Zeliska
 408100101_4_a
-はいなのです!
-アファシス
+Coming!
+ArFA-sys
 408100101_3_a
-アファシス
+ArFA-sys
 408100101_2_a
 bg_s2_06_glacier
-レイちゃん、こっちこっち!
-クレハ
+Rei, over here!
+Kureha
 408100101_1_a
 I bet the troupe will be thrilled!
 Sakuya

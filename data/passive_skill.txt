@@ -1,96 +1,19 @@
-ブレイクダメージ率が10%増加する
-ブレイクダメージ率+10%
 Increases 100 MP in the next guild event. (
 Plan to be updated in the next event)
 MP Recovery UP in Next Guild Event
 Attack of the party increases by 5% in the next guild event. (
 Plan to be updated in the next event)
 Attack UP in Next Guild Event
-[D]クエストクリア時、獲得コルが10%増加する
-[D]コル増加+10%
-[D]パーティリーダーの時、パーティ内のキャラの攻撃が6%増加する
-[D]リーダー: パーティの攻撃+6%
-[D]残りHPが50%以上の場合、残りHP以上のダメージを受けたときにHP1となる
-[D]一撃死回避
-[D]弱点属性の被ダメージ時スタン+1000%
-[D]弱点属性の被ダメージ時スタン+1000%
-[D]毒状態の敵にクリティカル
-[D]毒状態の敵にクリティカル
-[D]30秒クリティカルダメージ10%増
-[D]30秒クリティカルダメージ10%増
-[D]撃破数5以上でダメージが50%増加する
-[D]撃破数5でダメージ+50%
-[D]装備している武器と属性が一致した場合、攻撃力が15%増加する
-[D]武器の属性一致時攻撃+15%
-[D]パーティ内のキャラの攻撃が6%増加する
-[D]自パーティの攻撃+6%
-[D]全てのキャラの攻撃が6%増加する
-[D]全キャラの攻撃+6%
-[D]ソードスキルのバフ率が5%増加する
-[D]スキルバフ率+5%
-[D]ソードスキルのダメージ率が5%増加する
-[D]スキルダメージ率+5%
-[D]弱点部位への攻撃時ダメージが50%増加する
-[D]弱点攻撃時ダメージ+50%
-[D]背後からの攻撃時のダメージが50%増加する
-[D]背後攻撃時ダメージ+50%
-[D]スイッチスキル時のダメージが50%増加する
-[D]スイッチスキル時ダメージ+50%
-[D]デバフ状態の敵に対してダメージが50%増加する
-[D]デバフ時ダメージ+50%
-[D]50%の確率で無属性の敵からのダメージを無効化する
-[D]無属性のダメージ無効化
-[D]スキルチェイン時にダメージが50%増加する
-[D]スキルチェイン時ダメージ+50%
-[D]コンボ持続時間が3秒増える
-[D]コンボ持続時間+3秒
-[D]30コンボ以上でダメージが50%増加する
-[D]30コンボでダメージ+50%
-[D]消費MPが10増加し, ダメージが50%増加する
-[D]消費MP+10, ダメージ+50%
-[D]パーティ内で生存しているキャラが1人のときにダメージが50%増加する
-[D]ソロのときダメージ+50%
-[D]敵を撃破するたびにHPが600回復する
-[D]敵撃破でHP600回復
-[D]攻撃ヒット時のMP回復率が50%増加する
-[D]MP回復率50%上昇
-[D]クリティカル時のダメージ量が50%増加する
-[D]クリティカルダメージ50%上昇
-[D]攻撃力/最大HPが6%増加する
-[D]攻撃/HP+6%
-[D]被パリィ状態の敵に対して攻撃が6%増加する
-[D]パリィした敵に攻撃+6%
-[D]ダウンしている敵に対して攻撃が6%増加する
-[D]ダウンしている敵に攻撃+6%
-[D]控えにいる場合10秒ごとにMPが10回復する
-[D]控え時MP10自動回復
-[D]敵の攻撃をパリィするとMPが10回復する
-[D]パリィでMP10回復
-hp_up
-[D]クリティカル時にHPが600回復する
-[D]クリティカル時HP600回復
-ブレイクダメージ率が1000%増加する
-ブレイクダメージ率+1000%
-[D]クリティカルなし
-[D]クリティカルなし
 Increases Attack by 50% vs Dark-elem. enemies 
 [Enemy Only] Attack +50% vs Dark-elem. 
-Increases damage by 100% vs Water-elem. enemies  
-[Enemy Only] Damage Received +100% vs Water-elem 
 Increases Attack by 50% vs Earth-elem. enemies 
 [Enemy Only] Attack +50% vs Earth-elem. 
 Decreases damage by 25% vs Earth-elem. enemies  
 [Enemy Only] Damage Received -25% vs Earth-elem 
 Decreases Attack by 25% vs Fire-elem. enemies 
 [Enemy Only] Attack -25% vs Fire-elem. 
-Increases damage by 200% vs Fire-elem. enemies  
-[Enemy Only] Damage Received +200% vs Fire-elem 
-Increases damage by 100% vs Earth-elem. enemies  
-[Enemy Only] Damage Received +100% vs Earth-elem 
 Increases Attack by 50% vs Holy-elem. enemies 
 [Enemy Only] Attack +50% vs Holy-elem. 
-Increases damage by 200% vs Holy-elem. enemies  
-[Enemy Only] Damage Received +200% vs Holy-elem 
 Skill Damage Rate -2000 (Equipped One)
 Skill Damage Rate -2000 (Equipped One)
 Skill Damage Rate -1500 (Equipped One)
@@ -101,17 +24,17 @@ Skill Damage Rate -500 (Equipped One)
 Skill Damage Rate -500 (Equipped One)
 Zero damage received when enemy attacked.
 No damage received
-Attack of party members (Wind-elem.) increase by 6% when you are a leader.
+Attack of party members (Wind-elem.) increases by 6% when you are a leader.
 P-Members' (Wind-elem.) Atk +6% (P-Leader)
-Attack of party members (Dark-elem.) increase by 6% when you are a leader.
+Attack of party members (Dark-elem.) increases by 6% when you are a leader.
 P-Members' (Dark-elem.) Atk +6% (P-Leader)
 Attack of all party members increase by 6% when you are a leader.
 P-Members' Attack +6% (P-Leader)
 Attack of all party members increase by 3% when you are a leader.
 P-Members' Attack +3% (P-Leader)
-Attack & MP of party members (Dark-elem.) increase by 1%.
+Attack & MP of party members (Dark-elem.) increases by 1%.
 P-Members' Dark-elem. Atk&MP+1%
-Attack & MP of party members (Dark-elem.) increase by 3%.
+Attack & MP of party members (Dark-elem.) increases by 3%.
 P-Members' Dark-elem. Atk&MP+3%
 MP of all party members increase by 1%.
 Party Members' MP +1%
@@ -1114,5 +1037,3 @@ Increases max HP by 6%.
 HP +6%
 Increases max HP by 3%.
 HP +3%
-[D]クリティカル固定
-[D]クリティカル固定

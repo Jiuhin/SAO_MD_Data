@@ -4396,6 +4396,222 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-2
+Blade Arbiter (Earth) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dual blades & shieldblade" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-1
+Blade Arbiter (Holy) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-2
+Blade Arbiter (Earth) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dual blades & shieldblade" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-1
+Blade Arbiter (Holy) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-2
+Blade Arbiter (Earth) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dual blades & shieldblade" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-1
+Blade Arbiter (Holy) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-2
+Blade Arbiter (Earth) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dual blades & shieldblade" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-1
+Blade Arbiter (Holy) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"sword" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-2
+Blade Arbiter (Wind) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"mace & gun" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-1
+Blade Arbiter (Water) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"sword" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-2
+Blade Arbiter (Wind) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"mace & gun" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-1
+Blade Arbiter (Water) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"sword" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-2
+Blade Arbiter (Wind) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"mace & gun" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-1
+Blade Arbiter (Water) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"sword" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-2
+Blade Arbiter (Wind) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"mace & gun" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-1
+Blade Arbiter (Water) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"lance & rod" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-2
+Blade Arbiter (Dark) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dagger & bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-1
+Blade Arbiter (Fire) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"lance & rod" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-2
+Blade Arbiter (Dark) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dagger & bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-1
+Blade Arbiter (Fire) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"lance & rod" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-2
+Blade Arbiter (Dark) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dagger & bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-1
+Blade Arbiter (Fire) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"lance & rod" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-2
+Blade Arbiter (Dark) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dagger & bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-1
+Blade Arbiter (Fire) (Expert)
 "Gullinkambi" wakes up on top of Yggdrasil. 
 Organize a party with a Holy-elem. character 
 and stun the enemy!
@@ -16524,6 +16740,222 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-2
+Blade Arbiter (Earth) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dual blades & shieldblade" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-1
+Blade Arbiter (Holy) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-2
+Blade Arbiter (Earth) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dual blades & shieldblade" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-1
+Blade Arbiter (Holy) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-2
+Blade Arbiter (Earth) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dual blades & shieldblade" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-1
+Blade Arbiter (Holy) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-2
+Blade Arbiter (Earth) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dual blades & shieldblade" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-1
+Blade Arbiter (Holy) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"sword" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-2
+Blade Arbiter (Wind) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"mace & gun" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-1
+Blade Arbiter (Water) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"sword" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-2
+Blade Arbiter (Wind) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"mace & gun" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-1
+Blade Arbiter (Water) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"sword" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-2
+Blade Arbiter (Wind) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"mace & gun" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-1
+Blade Arbiter (Water) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with the advantageous weapons, 
+"sword" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-2
+Blade Arbiter (Wind) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"mace & gun" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-1
+Blade Arbiter (Water) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"lance & rod" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-2
+Blade Arbiter (Dark) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dagger & bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 4-1
+Blade Arbiter (Fire) (Master +1)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"lance & rod" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-2
+Blade Arbiter (Dark) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dagger & bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 3-1
+Blade Arbiter (Fire) (Master)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"lance & rod" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-2
+Blade Arbiter (Dark) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dagger & bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 2-1
+Blade Arbiter (Fire) (EX)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"lance & rod" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-2
+Blade Arbiter (Dark) (Expert)
+Dagon the Master Sahuagin appears 
+in the quiet cloister. 
+Organize a party with those advantageous weapons, 
+"dagger & bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Quest 1-1
+Blade Arbiter (Fire) (Expert)
 "Gullinkambi" wakes up on top of Yggdrasil. 
 Organize a party with a Holy-elem. character 
 and stun the enemy!

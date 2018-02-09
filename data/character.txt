@@ -1,19 +1,18 @@
-<i>
-hJ>
-PE<
-$)9
-hi5
-D!5
-HV3
-L/3
-t	2
-X1/
-0S-
-(z+
-pg&
-xZ$
-T,$
-<0!
+$k<
+XP8
+xP7
+PF5
+tX2
+H12
+D20
+<g.
+dn,
+<	,
+</+
+P3)
+(9'
+X9&
+0'%
 walk
 wakeup
 wait
@@ -550,7 +549,6 @@ dead
 dash
 damage
 charge_old
-"DJd
 charge
 back_step
 attack_3
@@ -627,6 +625,7 @@ wait
 stun
 step
 m5	
+HD,
 skill_103125
 skill_102202
 skill_101101
@@ -713,7 +712,6 @@ wakeup
 wait
 stun
 step
-HDj
 skill_103122
 skill_102201
 skill_101101
@@ -1519,9 +1517,9 @@ wakeup
 wait
 stun
 step
-zDNn
 skill_2313001
 	5	
+zDnq
 skill_23130
 skill_22202
 skill_21101
@@ -2161,7 +2159,6 @@ wakeup
 wait
 stun
 step
-HD80
 skill_184102
 skill_182101
 skill_181101
@@ -2245,6 +2242,7 @@ wakeup
 wait
 stun
 step
+zD&
 skill_184101
 skill_182101
 skill_181101
@@ -2535,6 +2533,7 @@ wakeup
 wait
 stun
 step
+HD:
 skill_183103
 skill_182101
 skill_181101
@@ -2576,7 +2575,6 @@ wakeup
 wait
 stun
 step
-HDz
 skill_18310101
 skill_183101
 skill_182101
@@ -2722,7 +2720,9 @@ down
 dead
 dash
 damage
+"Drp
 charge_old
+"Dbr
 charge
 back_step
 attack_3
@@ -2766,7 +2766,6 @@ down
 dead
 dash
 damage
-"D:
 charge_old
 charge
 back_step
@@ -2855,6 +2854,7 @@ down
 dead
 dash
 damage
+"D:
 charge_old
 charge
 back_step
@@ -2901,7 +2901,9 @@ down
 dead
 dash
 damage
+"D2
 charge_old
+"D"
 charge
 back_step
 attack_3
@@ -2946,7 +2948,9 @@ down
 dead
 dash
 damage
+"DN"
 charge_old
+"D>$
 charge
 back_step
 attack_3
@@ -3034,7 +3038,9 @@ down
 dead
 dash
 damage
+"Dve
 charge_old
+"Dfg
 charge
 back_step
 attack_3
@@ -3079,6 +3085,7 @@ down
 dead
 dash
 damage
+"D:
 charge_old
 charge
 back_step
@@ -3169,7 +3176,9 @@ down
 dead
 dash
 damage
+"DB
 charge_old
+"D2
 charge
 back_step
 attack_3
@@ -3213,9 +3222,7 @@ down
 dead
 dash
 damage
-"Db
 charge_old
-"DR	
 charge
 back_step
 attack_3
@@ -3246,7 +3253,6 @@ wait
 stun
 step
 r,	
-zD<l
 skill_163101
 skill_161201
 skill_161102
@@ -3261,7 +3267,9 @@ down
 dead
 dash
 damage
+"DB+
 charge_old
+"D2-
 charge
 back_step
 attack_3
@@ -3291,7 +3299,6 @@ wakeup
 wait
 stun
 step
-zD2
 skill_16310301
 skill_163103
 skill_161201
@@ -3308,7 +3315,6 @@ dead
 dash
 damage
 charge_old
-"DNQ
 charge
 back_step
 attack_3
@@ -3397,9 +3403,7 @@ down
 dead
 dash
 damage
-"DB
 charge_old
-"D2
 charge
 back_step
 attack_3
@@ -3446,7 +3450,6 @@ down
 dead
 dash
 damage
-"D:
 charge_old
 charge
 back_step
@@ -3537,7 +3540,9 @@ down
 dead
 dash
 damage
+"DV
 charge_old
+"DF
 charge
 back_step
 attack_3
@@ -3582,9 +3587,7 @@ down
 dead
 dash
 damage
-"DJ9
 charge_old
-"D:
 charge
 back_step
 attack_3
@@ -3614,6 +3617,7 @@ wakeup
 wait
 stun
 step
+zD>K
 skill_16310101
 skill_163101
 skill_161201
@@ -3630,6 +3634,7 @@ dead
 dash
 damage
 charge_old
+"Dzb
 charge
 back_step
 attack_3
@@ -3673,7 +3678,9 @@ down
 dead
 dash
 damage
+"DF
 charge_old
+"D6
 charge
 back_step
 attack_3
@@ -3762,6 +3769,7 @@ down
 dead
 dash
 damage
+"D&
 charge_old
 charge
 back_step
@@ -3807,6 +3815,7 @@ dead
 dash
 damage
 charge_old
+"Dn
 charge
 back_step
 attack_3
@@ -3836,7 +3845,9 @@ wakeup
 wait
 stun
 step
+HDZ
 skill_14410501
+HD6
 skill_144105
 skill_141202
 skill_141101
@@ -3883,6 +3894,7 @@ wakeup
 wait
 stun
 step
+zDN
 skill_144106
 skill_141202
 skill_141101
@@ -3928,6 +3940,7 @@ wakeup
 wait
 stun
 step
+aDnD
 skill_144102
 skill_141201
 skill_141101
@@ -4110,7 +4123,6 @@ wakeup
 wait
 stun
 step
-zDz
 skill_144106
 skill_141202
 skill_141101
@@ -4156,8 +4168,8 @@ wakeup
 wait
 stun
 step
+HD.
 skill_14410501
-HDr
 skill_144105
 skill_141202
 skill_141101
@@ -4294,7 +4306,6 @@ wakeup
 wait
 stun
 step
-Dz[
 skill_143108
 skill_141202
 skill_141101
@@ -4514,7 +4525,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_144006
-Kirito and friends were working tirelessly to gather materials for the decorative Ceremonial Arrow when they ran across a badly hurt Sinon. Apparently, she's in the middle of a quest to find a Ceremonial Bow for that Arrow...
+A Cait Sith in ALO. Asuna convinced Sinon to earn the Valentine's Day Quest reward. Sinon is reluctant to help the NPC girl for her chocolate giving on the event...
 serif
 4_sinon_144006
 Sinon
@@ -5020,7 +5031,6 @@ wakeup
 wait
 stun
 step
-zDv
 skill_123112
 skill_121202
 skill_121101
@@ -5728,6 +5738,8 @@ wakeup
 wait
 stun
 step
+HDf
+HDt
 skill_104106
 skill_102201
 skill_101101
@@ -5812,7 +5824,7 @@ wakeup
 wait
 stun
 step
-zDv<
+zD2
 skill_104101
 skill_102201
 skill_101101
@@ -6151,9 +6163,7 @@ wakeup
 wait
 stun
 step
-Cvz
-C2{
-Cb{
+C.{
 skill_103124
 skill_102201
 skill_101101
@@ -6282,7 +6292,6 @@ wakeup
 wait
 stun
 step
-HD&
 skill_103122
 skill_102201
 skill_101101
@@ -6411,7 +6420,6 @@ wait
 stun
 step
 e.	
-zCZ
 skill_103115
 skill_101201
 skill_101101
@@ -7806,6 +7814,7 @@ wakeup
 wait
 stun
 step
+DBi
 skill_84104
 skill_82202
 skill_81201
@@ -8751,7 +8760,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84015
-This Cait Sith kitty cat was surprised when Liz showed up on her race's home turf and opened up a branch of her shop. Although unaware of her friend's goals, Silica nevertheless agreed to help out. But when Alicia revealed Liz's intentions...
+An SAO player. Silica and Lisbeth are excited about Valentine's Day. However, Silica carries an unhappy memory in SAO and starts telling the story. 
 serif
 4_silica_84015
 Silica

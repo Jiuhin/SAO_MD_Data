@@ -504,6 +504,18 @@ images/event/4801/4801_banner.png
 Shadowy Castle in the Night
 EP Market
 images/common/event_point.png
+images/event/4704/4704_top.png
+images/event/4704/4704_banner.png
+images/event/4704/4704_banner.png
+[Ended] Blade Arbiter
+EP Market
+images/common/event_point.png
+images/event/4704/4704_top.png
+images/event/4704/4704_banner.png
+images/event/4704/4704_banner.png
+Blade Arbiter
+EP Market
+images/common/event_point.png
 images/event/4703/4703_top.png
 images/event/4703/4703_banner.png
 images/event/4703/4703_banner.png

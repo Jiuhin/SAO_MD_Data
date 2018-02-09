@@ -1,88 +1,92 @@
 <}	
-p{	
-${	
-4z	
-tx	
-(x	
-hv	
+d{	
+Dz	
+Xy	
+px	
+Pw	
+tv	
+(v	
 Du	
-8s	
-4q	
-Lp	
-xn	
-0n	
-Pm	
+ht	
+Hs	
+dr	
+0q	
+Hp	
+Dn	
 ll	
-hj	
-<i	
-Xh	
-8g	
-xe	
-,e	
+4k	
+Hj	
+hi	
+(i	
+Ph	
+pg	
+$g	
+he	
 Dd	
-Tc	
-xb	
-,b	
-Xa	
-0_	
-h[	
-8Z	
-XY	
-8X	
-XW	
-pV	
-<U	
-XT	
-hS	
-pR	
-4Q	
+tb	
+(b	
+Da	
+d_	
+4]	
+8[	
+DZ	
+pX	
+lV	
+$V	
+HU	
+dT	
+<S	
+dR	
+8Q	
 LP	
-xO	
-0O	
-LN	
-XM	
-pL	
-4K	
-TJ	
-<I	
-xG	
-,G	
-TF	
+hO	
+4N	
+DM	
+LL	
+xJ	
+0J	
+pH	
+<G	
+HF	
+xE	
 0E	
-LD	
-0B	
-DA	
-l>	
-l<	
-H:	
-h9	
-H8	
-d7	
-86	
-84	
-P3	
-h2	
-81	
-H0	
-P/	
-t-	
+PD	
+lC	
+HB	
+pA	
+$A	
+T?	
+p>	
+$>	
+D<	
+89	
+t7	
+(7	
+<6	
+<4	
+X3	
+t2	
+,2	
+T1	
+x0	
+,0	
+D/	
+x-	
 ,-	
-X,	
-p+	
-$+	
-L)	
-t(	
-,(	
-P'	
-l&	
+<,	
+D+	
+h)	
+L(	
+l'	
+x&	
+,&	
 D%	
-l$	
-$$	
-T"	
-p!	
-$!	
-< 	
-p		
+T$	
+<"	
+T!	
+d 	
+t		
+,		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -663,6 +667,57 @@ SA:O
 zi:爕
 White Knight Jacket R4
 Black Soaring Coat R4
+Lv. 80 Decryption Key x1
+9!Z
+Lv. 70 Decryption Key x1
+Lv. 60 Decryption Key x1
+9YY
+Lv. 50 Decryption Key x1
+Lv. 40 Decryption Key x1
+Lv. 30 Decryption Key x1
+9-X
+Lv. 20 Decryption Key x1
+Lv. 10 Decryption Key x1
+9eW
+Holy Skill Crystal x10
+Holy Critical Crystal x10
+Holy Defense Crystal x10
+99V
+Holy Attack Crystal x10
+Holy MP Crystal x10
+9qU
+Holy HP Crystal x10
+Skill Crystal x20
+Critical Crystal x20
+9ET
+Defense Crystal x20
+Attack Crystal x20
+9}S
+MP Crystal x20
+HP Crystal x20
+Skill Shard x50
+9QR
+Critical Shard x50
+Defense Shard x50
+Attack Shard x50
+9%Q
+MP Shard x50
+HP Shard x50
+9]P
+Earth Medallion x10
+Dark Medallion x10
+Holy Medallion x10
+91O
+Wind Medallion x10
+Water Medallion x10
+9iN
+Fire Medallion x10
+Void Medallion x10
+Exchange Sword R2
+Rainbow Essence x1
+Memory Diamond x5
+9uL
+Upgrade Crystal x1
 Global Upgrade Crystal  x1
 Global Ticket VIP x1
 9IK
@@ -1110,6 +1165,12 @@ T	8
 Valentine's Day Upgrade Crystal  x1
 MT	8
 Valentine's Day Gold Medal x1
+S	8
+500EP
+S	8	t
+300EP
+!S	8
+200EP
 R	8
 Fatal Valentine's Day
 YR	8

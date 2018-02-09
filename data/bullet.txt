@@ -1,8 +1,7 @@
-HE	
-<9	
-l)	
-H'	
-$%	
+xE	
+l9	
+x'	
+T%	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -1566,6 +1565,7 @@ JzP
 JzP
 JzP
 JzP
+pA,
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -1772,6 +1772,7 @@ bYC
 bYC
 bYC
 dead
+bullet_5011_2
 bullet_5011_earth_shaker
 cYC
 cYC
@@ -1790,6 +1791,7 @@ bYC
 bYC
 bYC
 dead
+bullet_5011_2
 bullet_5011_earth_shaker
 dead
 bullet_5027_earth_shaker_r
@@ -3220,6 +3222,14 @@ ground
 dead
 appear
 bullet_2032_wolf_grenade
+dYC
+dYC
+dYC
+dYC
+dYC
+dead
+bullet_2030_deus_ignis
+bullet_2030_deus_ignis
 dead
 bullet_2030_deus_ignis
 dead
@@ -3631,6 +3641,7 @@ dead
 bullet_1999_damage
 wait
 bullet_1129_automatic_gun_reverse
+bullet_1126_ray_drone_beam
 bullet_1126_ray_drone_beam
 wait
 bullet_1125_celestialon_energy
@@ -4217,6 +4228,8 @@ wait
 ground
 dead
 bullet_1077_broken_weapon_1
+dead
+bullet_1076_dragon_fly_away
 dead
 bullet_1076_dragon_fly_away
 dead

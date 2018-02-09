@@ -1000,7 +1000,7 @@ Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Decreases MP required.
 Sword Skill 3 Enhance Lv. 1
-slot_skill_icon_ss_enhance_3_7
+slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. You will be invincible whien using skills.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
@@ -1323,11 +1323,8 @@ slot_skill_icon_job_8
 Raises attack and crit. rate by 50
 Dark Magic Skill Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max MP by 20%
-Battle Skill 2 Transform Lv. 2
-slot_skill_icon_bs_change
-Transforms Battle Skill 2. Increases Max MP by 15%
-Battle Skill 2 Transform Lv. 1
+Transforms Battle Skill 3. Attack of party members (OS characters) increase by 10% when you are a leader.
+Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP by 20%
 Battle Skill 2 Transform Lv. 2
