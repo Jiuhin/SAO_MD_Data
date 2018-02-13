@@ -1,92 +1,84 @@
-<}	
-d{	
-Dz	
-Xy	
-px	
-Pw	
-tv	
-(v	
-Du	
-ht	
-Hs	
-dr	
-0q	
-Hp	
-Dn	
-ll	
-4k	
-Hj	
-hi	
-(i	
-Ph	
-pg	
-$g	
-he	
-Dd	
-tb	
-(b	
-Da	
+H{	
+dz	
+hx	
+8w	
+Pv	
+hu	
+8t	
+ds	
+(r	
+Tp	
+ho	
+Hn	
+pm	
+(m	
+Dl	
+di	
+0h	
+Hg	
+df	
+xe	
+(e	
+0d	
+<c	
+Tb	
+xa	
+8a	
 d_	
-4]	
-8[	
-DZ	
-pX	
-lV	
-$V	
-HU	
-dT	
-<S	
+D[	
+hZ	
+8Y	
+<W	
+XV	
+lU	
+<T	
+TS	
 dR	
-8Q	
-LP	
-hO	
-4N	
-DM	
-LL	
-xJ	
-0J	
-pH	
-<G	
-HF	
-xE	
-0E	
-PD	
-lC	
-HB	
-pA	
-$A	
-T?	
-p>	
-$>	
-D<	
-89	
-t7	
-(7	
-<6	
-<4	
-X3	
-t2	
-,2	
-T1	
-x0	
-,0	
-D/	
-x-	
-,-	
-<,	
-D+	
-h)	
-L(	
-l'	
-x&	
-,&	
-D%	
-T$	
-<"	
-T!	
-d 	
-t		
-,		
+lQ	
+,P	
+PO	
+,N	
+hK	
+(K	
+PJ	
+pI	
+$I	
+hG	
+DF	
+tD	
+(D	
+DC	
+XB	
+dA	
+4?	
+X>	
+H<	
+4:	
+x8	
+,8	
+L7	
+t6	
+,6	
+L5	
+d4	
+03	
+L2	
+d0	
+p/	
+(/	
+l-	
+$-	
+L+	
+t)	
+()	
+H(	
+t&	
+(&	
+4%	
+d$	
+X"	
+4!	
+T		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -667,6 +659,11 @@ SA:O
 zi:爕
 White Knight Jacket R4
 Black Soaring Coat R4
+Kureha's Leg Purse R3
+Kureha's Leg Purse R2
+9M[
+ArFA-sys Suit F R3
+ArFA-sys Suit F R2
 Lv. 80 Decryption Key x1
 9!Z
 Lv. 70 Decryption Key x1
@@ -6295,6 +6292,14 @@ Col x301
 100EP
 75EP
 50EP
+Kureha's Leg Purse R3
+Kureha's Leg Purse R2
+ArFA-sys Suit F R3
+ArFA-sys Suit F R2
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 Chocolate Beret R3
 Chocolate Beret R2
 Chocolate Dress R3
@@ -6724,6 +6729,10 @@ Girl's Treats x6
 Girl's Treats (Favorite) x1
 Girl's Treats x10
 Girl's Treats x3
+Kureha's Leg Purse R3
+ArFA-sys Suit F R3
+Kureha's Leg Purse R3
+ArFA-sys Suit F R3
 Chocolate Beret R3
 Chocolate Dress R3
 Chocolate Beret R3

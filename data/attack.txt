@@ -78,6 +78,19 @@ L>f3
 >f3
 >f3
 >f3
+QCG
+L>f3
+L>f3
+L>f3
+L>f3
+L>f3
+QCG
+>f3
+L>f3
+<f3
+<f3
+<f3
+Df3
 >d3
 L>d3
 L>d3
@@ -1366,7 +1379,6 @@ b>Q
 >d3
 a>Q
 >f3
->f3
 >d3
 m<Q
 L>d3
@@ -1657,6 +1669,9 @@ YYC
 L>d3
 .XC
 -XC
+lWC
+>d3
+kWC
 jWC
 >d3
 iWC
@@ -1816,6 +1831,7 @@ QCG
 v%C
 u%C
 I$C
+<f3
 L>d3
 >e3
 <e3

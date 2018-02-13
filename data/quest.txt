@@ -1,3 +1,51 @@
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 6
+Happy Valentine's Day! Yuna ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 5
+Happy Valentine's Day! Everyone ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 4
+Happy Valentine's Day! Silica ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 3
+Happy Valentine's Day! Sinon ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 2
+Happy Valentine's Day! Leafa ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 1
+Happy Valentine's Day! Asuna ver.
 Merry Christmas!
 Defeat those men in this battle and
 receive a Christmas gift from your loved one!
@@ -968,6 +1016,56 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 5
+Guardolf Returns (Master +1)
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 4
+Guardolf Returns (Master)
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 3
+Guardolf Returns (EX)
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 2
+Guardolf Returns (Expert)
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 1
+Guardolf Returns (Int.)
 Festival Kobold appears in the height of winter! 
 Parry their attacks and finish them off at all once!
 Just run when they hold two weapons!
@@ -12342,6 +12440,54 @@ Quest
 bg_thumbnail_2002
 Quest 1-1
 Horunka
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 6
+Happy Valentine's Day! Yuna ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 5
+Happy Valentine's Day! Everyone ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 4
+Happy Valentine's Day! Silica ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 3
+Happy Valentine's Day! Sinon ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 2
+Happy Valentine's Day! Leafa ver.
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
+Quest 1
+Happy Valentine's Day! Asuna ver.
 Merry Christmas!
 Defeat those men in this battle and
 receive a Christmas gift from your loved one!
@@ -13312,6 +13458,56 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 5
+Guardolf Returns (Master +1)
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 4
+Guardolf Returns (Master)
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 3
+Guardolf Returns (EX)
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 2
+Guardolf Returns (Expert)
+Ferocious monster,  Guardolf the Reindeer 
+returns to steal the sacred treasure! 
+When it starts moving their horns,
+figure out where to parry quickly
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8018
+Quest 1
+Guardolf Returns (Int.)
 Festival Kobold appears in the height of winter! 
 Parry their attacks and finish them off at all once!
 Just run when they hold two weapons!

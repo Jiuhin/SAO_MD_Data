@@ -21,6 +21,18 @@ Korean Ver is Released! Special Character Present!
 Complete OS Episode 0 "Someone's Requiem"
 Skill Slot material present!
 Join a Guild
+9018006
+Receive some chocolates in the Chocolate Frenzy Quest "Happy Valentine's Day! Yuna ver."
+9018005
+Receive some chocolates in the Chocolate Frenzy Quest "Happy Valentine's Day! Everyone ver."
+9018004
+Receive some chocolates in the Chocolate Frenzy Quest "Happy Valentine's Day! Silica ver."
+9018003
+Receive some chocolates in the Chocolate Frenzy Quest "Happy Valentine's Day! Sinon ver."
+9018002
+Receive some chocolates in the Chocolate Frenzy Quest "Happy Valentine's Day! Leafa ver."
+9018001
+Receive some chocolates in the Chocolate Frenzy Quest "Happy Valentine's Day! Asuna ver."
 9016001
 Receive a gift in the Gift Frenzy Quest  "Merry Christmas!" 
 9015004
@@ -155,6 +167,31 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+8037005,3,45
+Complete "Guardolf Returns (Master +1)" with guild members in Multi under 45 seconds.
+H}C
+8037004,3,45
+Complete "Guardolf Returns (Master)" with guild members in Multi under 45 seconds.
+8037003,3
+Complete "Guardolf Returns (EX)" with guild members in Multi.
+J{C
+3020027-3020028-3020029-3020030-3020031,50
+Defeat 50 of the Guardolf the Reindeer in the guild. 
++zC
+8037005,3
+Complete "Guardolf Returns (Master +1)" without down.
++yC
+8037004,3
+Complete "Guardolf Returns (Master)" without down.
++xC
+8037003,3
+Complete "Guardolf Returns (EX)" without down.
+/vC
+8037002
+Complete "Guardolf Returns (Expert)"
+/uC
+8037001
+Complete "Guardolf Returns (Int.)"
 8036005,3,45
 Complete "Festival Kobold Returns - Too Late! (Master +1)" with guild members in Multi under 45 seconds.
 8036004,3,45

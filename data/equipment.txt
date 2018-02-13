@@ -1,3 +1,12 @@
+TBD
+Kureha's Leg Purse R4
+accessory01_0063
+TBD
+Kureha's Leg Purse R3
+accessory01_0063
+TBD
+Kureha's Leg Purse R2
+accessory01_0063
 2mk
 TBD
 Ringmaster's Hat R4
@@ -541,6 +550,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+ArFA-sys Suit F R4
+armor03_0110
+TBD
+ArFA-sys Suit F R3
+armor03_0110
+TBD
+ArFA-sys Suit F R2
+armor03_0110
 TBD
 Ringmaster's Dress R4
 armor03_0109

@@ -23,6 +23,7 @@ effect_eyes_flash_b_s
 effect_eyes_flash_b_s
 effect_eyes_flash_s
 effect_eyes_flash_s
+effect_gun_change_01
 effect_warp_circus_5
 effect_warp_wicket_wreath_01
 effect_warp_circus_5

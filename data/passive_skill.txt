@@ -70,6 +70,8 @@ Increases attack and critical by 3% when equipped by OS Characters.
 Atk&Crit. +3% (OS Character)
 Increases HP and MP by 3% when equipped by OS Characters.
 HP&MP +3% (OS Character)
+Increases attack and critical by 3% when equipped by GGO Characters.
+Atk&Crit. +3% (GGO Character)
 Increases Crit. by 10% when equipped by Alice.
 Crit. +10% (Alice)
 50% chance Alice gains 5 MP on enemy kill.
@@ -492,6 +494,8 @@ Increases Water-elem. character's Attack by 3% when they attack weak points.
 Attack +3% on Attack Weak Points (Water-elem.)
 Increases Fire-elem. character's Attack by 3% when they attack weak points.
 Attack +3% on Attack Weak Points (Fire-elem.)
+Increases None-elem. character's Attack by 3% when they attack weak points.
+Attack +3% on Attack Weak Points (Non-elem.)
 Increases MP gain vs Water-elem. enemies.
 MP Recovery (vs. Water-elem.)
 Increases Earth-elem. character's Attack and Critical by 3%.

@@ -1,3 +1,4 @@
+sidetail_r
 wing_r
 wing_l
 wing_r
