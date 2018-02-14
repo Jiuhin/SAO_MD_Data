@@ -4321,6 +4321,9 @@ bullet_1074_dragon_go_straight
 wait
 dead
 bullet_1074_dragon_go_straight
+wait
+dead
+bullet_1074_dragon_go_straight
 dead
 bullet_1073_final_rain
 wait

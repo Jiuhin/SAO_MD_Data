@@ -70,6 +70,67 @@ Character Introduction: Kirito
 Event Story
 The Pristine Floating Castle
 Floor :100
+rE>
+Q!S
+rE>
+Event Story
+Steel, Break, Helpless
+Steel, Break, Helpless
+rE>
+Event Story
+Steel, Break, Helpless
+Steel, Break, Helpless
+qE>
+qE>
+% S
+Event Story
+Steel, Break, Helpless
+The Final Battle
+pE>
+% S
+pE>
+Event Story
+Steel, Break, Helpless
+Breakthrough
+pE>
+Event Story
+Steel, Break, Helpless
+Breakthrough
+oE>
+oE>
+Event Story
+Steel, Break, Helpless
+Divided
+nE>
+nE>
+Event Story
+Steel, Break, Helpless
+Unexpected Encounter
+mE>
+mE>
+Event Story
+Steel, Break, Helpless
+Desperate Situation
+lE>
+lE>
+Event Story
+Steel, Break, Helpless
+Kureha and ArFA-sys
+kE>
+kE>
+Event Story
+Steel, Break, Helpless
+Buying Time
+jE>
+jE>
+Event Story
+Steel, Break, Helpless
+Sign of the enemy
+iE>
+iE>
+Event Story
+Steel, Break, Helpless
+Encounter
 Event Story
 A Dark Plot Against Fliers
 Afterward

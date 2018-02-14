@@ -5263,6 +5263,116 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+wE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 15
+Steel, Break, Helpless (Master +2)
+vE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 14
+Steel, Break, Helpless (Master +1)
+uE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 13
+Steel, Break, Helpless (Master)
+tE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 12
+Steel, Break, Helpless (EX)
+sE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 11
+Steel, Break, Helpless (Expert)
+rE>
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Steel, Break, Helpless
+qE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 9
+Final Battle
+pE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 8
+Breakthrough
+oE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 7
+Divided
+nE>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Unexpected Encounter
+mE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 5
+Desperate Situation
+lE>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Kureha and ArFA-sys
+kE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 3
+Buying Time
+jE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2
+Sign of the enemy
+iE>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Encounter
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!
@@ -17705,6 +17815,116 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+wE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 15
+Steel, Break, Helpless (Master +2)
+vE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 14
+Steel, Break, Helpless (Master +1)
+uE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 13
+Steel, Break, Helpless (Master)
+tE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 12
+Steel, Break, Helpless (EX)
+sE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 11
+Steel, Break, Helpless (Expert)
+rE>
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Steel, Break, Helpless
+qE>
+《アングリー・バーサーカー》強襲!
+発熱したら要注意!! 
+危険範囲に入らないように
+距離をとって戦おう!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 9
+Final Battle
+pE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 8
+Breakthrough
+oE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 7
+Divided
+nE>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Unexpected Encounter
+mE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 5
+Desperate Situation
+lE>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Kureha and ArFA-sys
+kE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 3
+Buying Time
+jE>
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2
+Sign of the enemy
+iE>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Encounter
 The Toxic Rhinoceros hides in the basement. 
 Keep the target from a safe distance and 
 have other members attack it from behind!

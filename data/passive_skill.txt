@@ -494,7 +494,7 @@ Increases Water-elem. character's Attack by 3% when they attack weak points.
 Attack +3% on Attack Weak Points (Water-elem.)
 Increases Fire-elem. character's Attack by 3% when they attack weak points.
 Attack +3% on Attack Weak Points (Fire-elem.)
-Increases None-elem. character's Attack by 3% when they attack weak points.
+Increases Non-elem. character's Attack by 3% when they attack weak points.
 Attack +3% on Attack Weak Points (Non-elem.)
 Increases MP gain vs Water-elem. enemies.
 MP Recovery (vs. Water-elem.)
@@ -880,6 +880,8 @@ Increases Atk. and Defense by 10%.
 Atk. & Defense +10%
 Increases max MP and Crit. by 12%.
 MP & Crit. +12%
+Increases max MP and Crit. by 10%.
+MP & Crit. +10%
 Increases max MP and Crit. by 3%.
 MP & Crit. +3%
 Increases max MP and Atk. by 20%.

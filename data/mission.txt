@@ -1173,6 +1173,29 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+>,:
+4081015,1,300
+Complete "Steel, Break, Helpless (Master +2)" with a 300+ hit combo
+<+:
+4081015,1,11,1
+Complete "Steel, Break, Helpless (Master +2)" with an Automatic Rifle Gunner.
+408101,7400000
+Earn a score of 7,400,000 in Steel, Break, Helpless 
+:):
+408101,8000000
+Earn a score of 8,000,000 in Steel, Break, Helpless 
+:(:
+408101,8600000
+Earn a score of 8,600,000 in Steel, Break, Helpless 
+/':
+4081014
+Complete "Steel, Break, Helpless (Master +1)".
+/&:
+4081013
+Complete "Steel, Break, Helpless (Master)".
+/%:
+4081010
+Complete "Steel, Break, Helpless".
 4080025,2,60
 Complete "Flowers in the Wilderness (Master +1)" in under 1min.
 4080024,2,60

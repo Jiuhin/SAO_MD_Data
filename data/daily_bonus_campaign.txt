@@ -1,3 +1,7 @@
+ZoC
+daily_bonus_fb_bg
+daily_bonus_text_fb_2
+Special Login Bonus
 daily_bonus_fb_bg
 daily_bonus_text_fb_1
 Special Login Bonus

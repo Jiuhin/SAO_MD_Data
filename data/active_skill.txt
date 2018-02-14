@@ -51,6 +51,10 @@ Attacks by shower of holy pompons, increasing attack of all party members by che
 Cheers Fall+
 Cheers Fall+
 skill_icon_bow_3_{}
+Fly towards the targeted enemy and lower their defense with this arrow-based sword skill. Resores your HP.
+Cupid's Rain+
+Cupid's Rain+
+skill_icon_bow_3_{}
 Increase your own attack and teleport, then fire special arrows from behind the enemy while replenishing your HP.
 Devil's Sting+
 Devil's Sting+
@@ -123,6 +127,10 @@ Perform successive attack while the small dragon Pina's AI is breathing. Increas
 Draconic Stream+
 Draconic Stream+
 skill_icon_dagger_3_{}
+Sneak behind an enemy as Pina douses them in a defense-lowering breath attack. Resores your HP.
+Sweet Breath+2
+Sweet Breath+2
+skill_icon_dagger_3_{}
 Sneak behind an enemy as Pina douses them in a defense-lowering breath attack.
 Sweet Breath+
 Sweet Breath+
@@ -192,6 +200,10 @@ skill_icon_finesword_3_{}
 Performs a spinning slash which spills her hidden desserts. Enhances movement speed by eating the desserts.
 Unintended Rolling+
 Unintended Rolling+
+skill_icon_finesword_3_{}
+Move to the back of an enemy and perform thrusts in a heart shaped pattern. Reduces the enemy's defense. Resores your HP.
+Warm Splash+2
+Warm Splash+2
 skill_icon_finesword_3_{}
 Unleash a barrage of thrusts in the shape of a heart, then finish off the enemy with a single hit, lowering their defense.
 Warm Splash+
@@ -281,6 +293,10 @@ skill_icon_sword_3_{}
 A sword skill that delivers powerful combo taught by her daddy, increasing attack of all party members by cheering.
 Bravery Slash+
 Bravery Slash+
+skill_icon_sword_3_{}
+Move to the back of an enemy and emit a heart-shaped shock wave from your blade and lower the enemy's defense with this sword skill. Resores your HP.
+Radiant Heart+2
+Radiant Heart+2
 skill_icon_sword_3_{}
 Emit a heart-shaped shock wave from your blade and lower the enemy's defense with this sword skill.
 Radiant Heart+
@@ -379,6 +395,38 @@ skill_icon_mace_3_{}
 Increase your attack and swing your club violently, delivering a blow with meteoric power.
 Meteor Impact+
 Meteor Impact+
+skill_icon_ar_3_{}
+A combination skill. Holding a rocket launcher to shoot when kneeling down on one knee. Recovers HP automatically.
+Plasma Propelled Grenade
+Plasma Propelled Grenade
+skill_icon_ar_3_{}
+A combination skill. Shoots from an enemy's back keeping a distance. Recovers HP automatically.
+Bullet Storm
+Bullet Storm
+skill_icon_ar_3_{}
+A combination skill. Makes a powerful shot with a customized gun. Recovers HP automatically.
+Grief Bullet
+Grief Bullet
+skill_icon_ar_3_{}
+A combination skill. Shoots the ground repeatedly from the sky. Recovers HP automatically.
+Speed Holic Spree
+Speed Maniac
+skill_icon_ar_3_{}
+A combination skill. Shoots in a cross shaped pattern. Recovers HP automatically.
+Gunner's Rosario
+Gunner's Rosary
+skill_icon_ar_2_{}
+tbd
+skill_icon_ar_2_{}
+tbd
+skill_icon_ar_2_{}
+tbd
+skill_icon_ar_2_{}
+tbd
+skill_icon_ar_1_{}
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw
 skill_icon_shield_3_{}
 A combination skill. Jump toward an enemy's back guarding yourself and bear down the enemy by performing a combo attack. Restores your HP.
 Acute Blast

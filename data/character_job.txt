@@ -1,3 +1,7 @@
+weapon11_0000
+tbd
+遠隔・攻撃型
+Automatic Rifle
 weapon01_0001
 tbd
 近接・防御型

@@ -1,84 +1,92 @@
-H{	
-dz	
-hx	
+0}	
+4{	
+Dz	
+px	
 8w	
-Pv	
-hu	
-8t	
-ds	
-(r	
-Tp	
-ho	
-Hn	
-pm	
-(m	
-Dl	
-di	
-0h	
-Hg	
-df	
-xe	
+dv	
+Du	
+4s	
+4q	
+Lp	
+do	
+4n	
+Dm	
+Ll	
+Xk	
+pj	
+(j	
+Ti	
+lh	
+8g	
+Hf	
+pe	
 (e	
-0d	
-<c	
-Tb	
-xa	
-8a	
-d_	
-D[	
-hZ	
-8Y	
-<W	
-XV	
-lU	
-<T	
+Ld	
+hc	
+ha	
+P_	
+8]	
+P[	
+dZ	
+4Y	
+tW	
+$W	
+LU	
+4T	
 TS	
-dR	
-lQ	
-,P	
-PO	
-,N	
-hK	
-(K	
-PJ	
-pI	
-$I	
+pR	
+$R	
+LQ	
+tP	
+(P	
+DO	
+XN	
+tM	
+(M	
+<L	
+HK	
+TJ	
+dI	
+<H	
 hG	
-DF	
-tD	
-(D	
-DC	
-XB	
-dA	
-4?	
-X>	
-H<	
-4:	
-x8	
-,8	
-L7	
-t6	
-,6	
-L5	
-d4	
-03	
-L2	
-d0	
-p/	
-(/	
-l-	
-$-	
-L+	
-t)	
-()	
-H(	
-t&	
-(&	
-4%	
-d$	
-X"	
-4!	
-T		
+xF	
+(F	
+TD	
+lC	
+$C	
+8B	
+PA	
+<?	
+d>	
+T<	
+T:	
+l9	
+88	
+T7	
+d6	
+l5	
+x4	
+04	
+H3	
+t2	
+,2	
+H1	
+T0	
+l/	
+0.	
+P-	
+d,	
+0+	
+l)	
+$)	
+D(	
+<&	
+d%	
+4$	
+d"	
+,!	
+8 	
+h		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -1142,6 +1150,22 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+[	8
+Valentine's Day Gold Medal x1
+U[	8
+Valentine's Day Gold Medal x1
+Z	8
+Valentine's Day Gold Medal x1
+Z	8
+Valentine's Day Upgrade Crystal  x1
+)Z	8
+Valentine's Day Gold Medal x2
+Y	8
+Fatal Bullet
+aY	8
+Valentine's Day Gold Medal x1
+X	8
+Steel, Break, Helpless
 W	8
 Memory Diamond x10
 mW	8
@@ -1448,6 +1472,10 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+:G6
+Lucia G-F-1 R3
+!:G6
+[Seeking Strength] Kureha
 9G6
 Col x300000
 ,G6
@@ -3233,6 +3261,166 @@ m2E
 Col x50000
 m2E
 EXP Potion x10
+2.L
+EXP Potion x5
+2.L
+Skill Shard x20
+2.L
+Critical Shard x20
+2.L
+Defense Shard x20
+2.L
+Attack Shard x20
+2.L
+MP Shard x20
+2.L
+HP Shard x20
+2-L
+Assault Team: Firearms Top 100
+2-L
+EXP Hi-Potion x5
+2-L
+Skill Shard x20
+2-L
+Critical Shard x20
+2-L
+Defense Shard x20
+2-L
+Attack Shard x20
+2-L
+MP Shard x20
+2-L
+HP Shard x20
+2-L
+Memory Diamond x5
+2,L
+Assault Team: Firearms Top 50
+2,L
+EXP Hi-Potion x5
+2,L
+Col x30000
+2,L
+Memory Diamond x5
+2,L
+Valentine's Day Bronze Medal x5
+2,L
+Valentine's Day Silver Medal x5
+2,L
+Valentine's Day Gold Medal x2
+2+L
+Assault Team: Firearms Top 20
+2+L
+EXP X-Potion x5
+2+L
+Col x50000
+2+L
+Memory Diamond x5
+2+L
+Valentine's Day Upgrade Crystal  x1
+2+L
+Valentine's Day Bronze Medal x10
+2+L
+Valentine's Day Silver Medal x5
+2+L
+Valentine's Day Gold Medal x4
+Assault Team: Firearms Top 10
+EXP X-Potion x5
+Col x100000
+Memory Diamond x5
+Valentine's Day Upgrade Crystal  x2
+Valentine's Day Bronze Medal x10
+Valentine's Day Silver Medal x5
+Valentine's Day Gold Medal x6
+2)L
+Assault Team: Firearms 5th
+2)L
+Rainbow Essence x1
+2)L
+EXP X-Potion x5
+2)L
+Col x200000
+2)L
+Memory Diamond x5
+2)L
+Valentine's Day Upgrade Crystal  x3
+2)L
+Valentine's Day Bronze Medal x10
+2)L
+Valentine's Day Silver Medal x5
+2)L
+Valentine's Day Gold Medal x8
+2(L
+Assault Team: Firearms 4th
+2(L
+Rainbow Essence x1
+2(L
+EXP X-Potion x5
+2(L
+Col x200000
+2(L
+Memory Diamond x5
+2(L
+Valentine's Day Upgrade Crystal  x3
+2(L
+Valentine's Day Bronze Medal x10
+2(L
+Valentine's Day Silver Medal x5
+2(L
+Valentine's Day Gold Medal x9
+2'L
+Assault Team: Firearms 3rd
+2'L
+Rainbow Essence x1
+2'L
+EXP X-Potion x5
+2'L
+Col x200000
+2'L
+Memory Diamond x5
+2'L
+Valentine's Day Upgrade Crystal  x4
+2'L
+Valentine's Day Bronze Medal x10
+2'L
+Valentine's Day Silver Medal x10
+2'L
+Valentine's Day Gold Medal x11
+2&L
+Assault Team: Firearms 2nd
+2&L
+Rainbow Essence x1
+2&L
+EXP X-Potion x5
+2&L
+Col x300000
+2&L
+Memory Diamond x5
+2&L
+Valentine's Day Upgrade Crystal  x4
+2&L
+Valentine's Day Bronze Medal x10
+2&L
+Valentine's Day Silver Medal x10
+2&L
+Valentine's Day Gold Medal x13
+2%L
+Assault Team: Firearms 1st
+2%L
+Rainbow Essence x2
+2%L
+EXP X-Potion x5
+2%L
+Col x500000
+2%L
+Memory Diamond x5
+2%L
+Valentine's Day Upgrade Crystal  x4
+2%L
+Valentine's Day Bronze Medal x10
+2%L
+Valentine's Day Silver Medal x10
+2%L
+Valentine's Day Gold Medal x16
 EXP Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -9525,6 +9713,14 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+Valentine's Day Upgrade Crystal  x1
+Valentine's Day Gold Medal x1
+Valentine's Day Silver Medal x5
+Valentine's Day Silver Medal x3
+Valentine's Day Silver Medal x2
+Valentine's Day Bronze Medal x5
+Valentine's Day Bronze Medal x3
+Valentine's Day Bronze Medal x2
 Ringmaster's Dress R3
 Ringmaster's Dress R2
 Ringmaster's Hat R3

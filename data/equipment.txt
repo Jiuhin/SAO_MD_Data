@@ -1,4 +1,49 @@
 TBD
+Lucia G-F-1 R4
+weapon11_0005
+TBD
+Lucia G-F-1 R3
+weapon11_0005
+TBD
+Eliza R4
+weapon11_0004
+TBD
+Eliza R3
+weapon11_0004
+TBD
+Eliza R2
+weapon11_0004
+TBD
+Sturm KZ R5
+weapon11_0002
+TBD
+Sturm KZ R4
+weapon11_0002
+TBD
+Pink Camouflage LZ R5
+weapon11_0001
+TBD
+Pink Camouflage LZ R4
+weapon11_0001
+TBD
+Rebecca R4
+weapon10_0005
+TBD
+Rebecca R3
+weapon10_0005
+TBD
+Sylph Type-A R5
+weapon10_0002
+TBD
+Sylph Type-A R4
+weapon10_0002
+TBD
+SPB Rapier R5
+weapon10_0001
+TBD
+SPB Rapier R4
+weapon10_0001
+TBD
 Kureha's Leg Purse R4
 accessory01_0063
 TBD
@@ -1599,6 +1644,12 @@ TBD
 Small Rod R1
 weapon08_0001
 TBD
+Cupid's Passion +1 R5
+weapon07_0036
+TBD
+Cupid's Passion +1 R4
+weapon07_0036
+TBD
 Exorcism R5
 weapon07_0033
 TBD
@@ -2244,6 +2295,12 @@ TBD
 Small Mace R1
 weapon05_0001
 TBD
+Love Cake Knife +1 R5
+weapon04_0058
+TBD
+Love Cake Knife +1 R4
+weapon04_0058
+TBD
 Citrine Dagger R5
 weapon04_0057
 TBD
@@ -2536,6 +2593,12 @@ weapon04_0002
 TBD
 Light Dagger R1
 weapon04_0001
+TBD
+Treasured Rapier +1 R5
+weapon03_0061
+TBD
+Treasured Rapier +1 R4
+weapon03_0061
 TBD
 Lapiel de Fleur R5
 weapon03_0060
@@ -3096,6 +3159,12 @@ weapon01_0101
 TBD
 Miracle Impact R4
 weapon01_0101
+TBD
+Chocolate Grater +1 R5
+weapon01_0100
+TBD
+Chocolate Grater +1 R4
+weapon01_0100
 TBD
 Twinkle Christmas Eve R5
 weapon01_0099

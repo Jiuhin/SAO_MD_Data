@@ -184,6 +184,8 @@ The Archenemy
 Event
 Bullet of Bullets
 Event
+Steel, Break, Helpless
+Event
 Flowers in the Wilderness
 Event
 Fierce Fight in Sand

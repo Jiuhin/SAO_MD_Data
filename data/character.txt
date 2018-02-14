@@ -1,22 +1,15 @@
-dF?
-D!<
-db8
-8.8
-Xg6
-p34
-Da3
-463
-<W1
-4].
-X0.
-$L-
-PW,
-0M+
-,u(
-hn'
-lg&
-4Z$
-HY!
+h&?
+Hu>
+X{4
+0r3
+4)0
+lA/
+<c,
+h1,
+8')
+Du'
+Di"
+hH 
 walk
 wakeup
 wait
@@ -538,6 +531,7 @@ wait
 stun
 step
 skill_16310101
+zDl
 skill_163101
 skill_161201
 skill_161102
@@ -553,7 +547,6 @@ dead
 dash
 damage
 charge_old
-"D2
 charge
 back_step
 attack_3
@@ -676,6 +669,7 @@ wait
 stun
 step
 m5	
+HDD
 skill_103125
 skill_102202
 skill_101101
@@ -1014,7 +1008,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84015
-An SAO player. Silica and Lisbeth are excited about Valentine's Day. However, Silica carries an unhappy memory in SAO and starts telling the story. 
+An SAO player. In ALO, Silica and Lisbeth are excited about Valentine's Day. However, Silica carries an unhappy memory in SAO and starts telling the story. 
 serif
 4_silica_84015
 Silica
@@ -1661,7 +1655,6 @@ wakeup
 wait
 stun
 step
-zD"2
 skill_2313001
 	5	
 skill_23130
@@ -1738,7 +1731,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24014
-Sakuya's right-hand Sylph when it comes to making handcrafted chocolate confections. Everything was going smoothly until they found out that gathering the final materials would mean a fight outside their territory.
+An ALO player. Sakuya's right-hand Sylph when it comes to making handcrafted chocolate confections. Everything was going smoothly until they found out that gathering the final materials would mean a fight outside their territory.
 serif
 4_leafa_24014
 Leafa
@@ -1998,6 +1991,261 @@ serif
 4_klein_14001
 Klein
 [Furinkazan] Klein
+walk
+wakeup
+wait
+stun
+step
+skill_224105
+skill_221103
+skill_221101
+parry
+parried
+levelup
+jump_attack
+jump
+down
+dead
+dash_gun_front_reload
+dash_gun_front
+dash_gun_back_reload
+dash_gun_back
+dash
+damage
+charge_reload
+charge_2_bk
+charge_2
+charge_1
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_224105
+skill_221103
+skill_221101
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_225009
+A GGO player specializing in submachine guns. Kureha is an advanced player who has been playing in GGO from the early days. She is bright, active and caring.
+serif
+5_kureha_225009
+Kureha
+[Seeking Strength] Kureha
+walk
+wakeup
+wait
+stun
+step
+skill_224103
+skill_221204
+skill_221101
+parry
+parried
+levelup
+jump_attack
+jump
+down
+dead
+dash_gun_front_reload
+dash_gun_front
+dash_gun_back_reload
+dash_gun_back
+dash
+damage
+charge_reload
+charge_2_bk
+charge_2
+charge_1
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_224103
+skill_221204
+skill_221101
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_225004
+A GGO player specializing in shotguns and submachine guns. Liz is enthralled by Zeliska's beauty, and when Zeliska hears about this, she brings her to a ruined laboratory...
+serif
+5_lisbeth_225004
+Lisbeth
+[Stout Heart in the World of Steel] Lisbeth
+walk
+wakeup
+wait
+stun
+step
+skill_224104
+skill_221203
+skill_221104
+parry
+parried
+levelup
+jump_attack
+jump
+down
+dead
+dash_gun_front_reload
+dash_gun_front
+dash_gun_back_reload
+dash_gun_back
+dash
+damage
+charge_reload
+charge_2_bk
+charge_2
+charge_1
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_224104
+skill_221203
+skill_221104
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_225003
+A GGO player specializing in submachine guns. Silica gets the idea that Zeliska's support AI Daisy could use a pet, so she heads out into the wasteland and catches a wild horse mecha...
+serif
+5_silica_225003
+Silica
+[Dragon Tamer in the Wild] Silica
+walk
+wakeup
+wait
+stun
+step
+skill_224102
+skill_221104
+skill_221103
+parry
+parried
+levelup
+jump_attack
+jump
+down
+dead
+dash_gun_front_reload
+dash_gun_front
+dash_gun_back_reload
+dash_gun_back
+dash
+damage
+charge_reload
+charge_2_bk
+charge_2
+charge_1
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_224102
+skill_221104
+skill_221103
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_225002
+A GGO player specializing in assault rifles and Photon Swords. Kureha convinces Leafa and the others to train her in the art of close combat, but finds she has trouble grasping the basics...
+serif
+5_leafa_225002
+Leafa
+[Gale Gunner] Leafa
+walk
+wakeup
+wait
+stun
+step
+skill_224101
+skill_221103
+skill_221101
+parry
+parried
+levelup
+jump_attack
+jump
+down
+dead
+dash_gun_front_reload
+dash_gun_front
+dash_gun_back_reload
+dash_gun_back
+dash
+damage
+charge_reload
+charge_2_bk
+charge_2
+charge_1
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_224101
+skill_221101
+skill_221103
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_225001
+A GGO player specializing in assault rifles. Asuna teams up with Leafa and Kureha for some PvP, but the three find themselves facing twenty. They're at a big disadvantage, but Asuna's got a plan to turn the tables...
+serif
+5_asuna_225001
+Asuna
+[Flash Shooter] Asuna
 walk
 wakeup
 wait
@@ -2429,7 +2677,7 @@ wakeup
 wait
 stun
 step
-zD&
+zD.
 skill_184101
 skill_182101
 skill_181101
@@ -2720,7 +2968,7 @@ wakeup
 wait
 stun
 step
-HD:
+HDB
 skill_183103
 skill_182101
 skill_181101
@@ -2847,6 +3095,7 @@ wait
 stun
 step
 &A	
+D&1
 %A	
 skill_164105
 skill_161201
@@ -2907,9 +3156,9 @@ down
 dead
 dash
 damage
-"Drp
+"Dzn
 charge_old
-"Dbr
+"Djp
 charge
 back_step
 attack_3
@@ -3041,8 +3290,9 @@ down
 dead
 dash
 damage
-"D:
+"DB
 charge_old
+"D2
 charge
 back_step
 attack_3
@@ -3088,9 +3338,8 @@ down
 dead
 dash
 damage
-"D2
+"D:
 charge_old
-"D"
 charge
 back_step
 attack_3
@@ -3135,9 +3384,9 @@ down
 dead
 dash
 damage
-"DN"
+"DV 
 charge_old
-"D>$
+"DF"
 charge
 back_step
 attack_3
@@ -3225,9 +3474,8 @@ down
 dead
 dash
 damage
-"Dve
 charge_old
-"Dfg
+"Dne
 charge
 back_step
 attack_3
@@ -3272,8 +3520,9 @@ down
 dead
 dash
 damage
-"D:
+"DB
 charge_old
+"D2
 charge
 back_step
 attack_3
@@ -3363,9 +3612,9 @@ down
 dead
 dash
 damage
-"DB
+"DJ
 charge_old
-"D2
+"D:
 charge
 back_step
 attack_3
@@ -3440,6 +3689,7 @@ wait
 stun
 step
 r,	
+zDh
 skill_163101
 skill_161201
 skill_161102
@@ -3454,9 +3704,9 @@ down
 dead
 dash
 damage
-"DB+
+"DJ)
 charge_old
-"D2-
+"D:+
 charge
 back_step
 attack_3
@@ -3727,9 +3977,8 @@ down
 dead
 dash
 damage
-"DV
 charge_old
-"DF
+"DN
 charge
 back_step
 attack_3
@@ -3804,7 +4053,7 @@ wakeup
 wait
 stun
 step
-zD>K
+zDFI
 skill_16310101
 skill_163101
 skill_161201
@@ -3821,7 +4070,6 @@ dead
 dash
 damage
 charge_old
-"Dzb
 charge
 back_step
 attack_3
@@ -3865,9 +4113,9 @@ down
 dead
 dash
 damage
-"DF
+"DN
 charge_old
-"D6
+"D>
 charge
 back_step
 attack_3
@@ -3956,7 +4204,7 @@ down
 dead
 dash
 damage
-"D&
+"D.
 charge_old
 charge
 back_step
@@ -4002,7 +4250,7 @@ dead
 dash
 damage
 charge_old
-"Dn
+"Dv
 charge
 back_step
 attack_3
@@ -4032,9 +4280,9 @@ wakeup
 wait
 stun
 step
-HDZ
+HDb
 skill_14410501
-HD6
+HD>
 skill_144105
 skill_141202
 skill_141101
@@ -4081,7 +4329,7 @@ wakeup
 wait
 stun
 step
-zDN
+zDV!
 skill_144106
 skill_141202
 skill_141101
@@ -4127,7 +4375,7 @@ wakeup
 wait
 stun
 step
-aDnD
+aDvB
 skill_144102
 skill_141201
 skill_141101
@@ -4355,7 +4603,7 @@ wakeup
 wait
 stun
 step
-HD.
+HD6
 skill_14410501
 skill_144105
 skill_141202
@@ -4767,6 +5015,7 @@ wakeup
 wait
 stun
 step
+FFR
 skill_141202
 skill_141201
 skill_141101
@@ -5129,6 +5378,7 @@ wakeup
 wait
 stun
 step
+D"b
 skill_124102
 skill_121202
 skill_121102
@@ -5208,7 +5458,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_125001
-Cait Sith in ALO. Sinon becomes an apprentice with the witch in the castle of the demon to improve her magic skills. However, she is left with chores and getting fed up with that. Then she notices something...
+A Cait Sith in ALO. Sinon becomes an apprentice with the witch in the castle of the demon to improve her magic skills. However, she is left with chores and getting fed up with that. Then she notices something...
 serif
 5_sinon_125001
 Sinon
@@ -5252,7 +5502,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_124014
-Cait Sith in ALO. During the pirate quest, Sinon is assigned to do watch since she's got great vision. She gets bored as she could only see the ocean.
+A Cait Sith in ALO. During the pirate quest, Sinon is assigned to do watch since she's got great vision. She gets bored as she could only see the ocean.
 serif
 4_sinon_124014
 Sinon
@@ -5925,8 +6175,7 @@ wakeup
 wait
 stun
 step
-HDf
-HDt
+HDF
 skill_104106
 skill_102201
 skill_101101
@@ -6011,7 +6260,8 @@ wakeup
 wait
 stun
 step
-zD2
+zD>
+zDn
 skill_104101
 skill_102201
 skill_101101
@@ -6308,6 +6558,7 @@ wait
 stun
 step
 m5	
+HD4V
 skill_103125
 skill_102202
 skill_101101
@@ -6350,7 +6601,7 @@ wakeup
 wait
 stun
 step
-C.{
+Cjy
 skill_103124
 skill_102201
 skill_101101
@@ -8001,7 +8252,6 @@ wakeup
 wait
 stun
 step
-DBi
 skill_84104
 skill_82202
 skill_81201
@@ -8947,7 +9197,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84015
-An SAO player. Silica and Lisbeth are excited about Valentine's Day. However, Silica carries an unhappy memory in SAO and starts telling the story. 
+An SAO player. In ALO, Silica and Lisbeth are excited about Valentine's Day. However, Silica carries an unhappy memory in SAO and starts telling the story. 
 serif
 4_silica_84015
 Silica
@@ -10181,6 +10431,7 @@ wakeup
 wait
 stun
 step
+/DhW
 skill_64103
 skill_62101
 %&'
@@ -12579,6 +12830,7 @@ wakeup
 wait
 stun
 step
+HD2_
 skill_33108
 skill_32202
 skill_31201
@@ -12998,9 +13250,9 @@ wakeup
 wait
 stun
 step
-HD>
+HDV[
 skill_2412401
-HD&g
+HD>f
 skill_24124
 skill_22102
 skill_21201
@@ -13124,7 +13376,7 @@ wakeup
 wait
 stun
 step
-HD:
+HDR
 skill_24122
 skill_22204
 skill_21201
@@ -13248,7 +13500,7 @@ wakeup
 wait
 stun
 step
-zDrJ
+zD(K
 skill_24116
 skill_22102
 skill_21201
@@ -13538,9 +13790,9 @@ wakeup
 wait
 stun
 step
-HDJY
+HDbX
 skill_2412401
-HD2d
+HDJc
 skill_24124
 skill_22102
 skill_21201
@@ -14120,7 +14372,6 @@ wakeup
 wait
 stun
 step
-zDr
 skill_2313101
 skill_23131
 skill_22102
@@ -14206,6 +14457,7 @@ stun
 step
 skill_2313001
 	5	
+zD"
 skill_23130
 skill_22202
 skill_21101
@@ -14695,7 +14947,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24014
-Sakuya's right-hand Sylph when it comes to making handcrafted chocolate confections. Everything was going smoothly until they found out that gathering the final materials would mean a fight outside their territory.
+An ALO player. Sakuya's right-hand Sylph when it comes to making handcrafted chocolate confections. Everything was going smoothly until they found out that gathering the final materials would mean a fight outside their territory.
 serif
 4_leafa_24014
 Leafa
@@ -14872,6 +15124,7 @@ wakeup
 wait
 stun
 step
+HDp
 skill_23107
 skill_22202
 skill_21201
@@ -15362,7 +15615,7 @@ skill_cutin_10001
 battle_cutin_15014
 A GGO player. A year after completing SAO. Seijirou Kikuoka calls up Kirito to investigate a case in a virtual world. Kirito logs into GGO to find out who the Death Gun is and meets Sinon.
 serif
-5_kirito_15006
+4_kirito_14015
 Kirito
 [Stick to your beliefs] Kirito
 walk
@@ -15666,8 +15919,7 @@ wakeup
 wait
 stun
 step
-HDx
-HDZ
+HDp
 skill_14111
 skill_12101
 skill_11201
@@ -15753,6 +16005,7 @@ wakeup
 wait
 stun
 step
+zDr
 skill_14103
 skill_12101
 skill_11201

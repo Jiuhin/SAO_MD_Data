@@ -14,16 +14,31 @@ slot_skill_icon_def_light_1
 Reduces damage from Holy-elem. enemies by 15%
 Holy Resistance Lv1
 slot_skill_icon_bs_change
+バトルスキル3が変化して、最大MPと攻撃力が15%増加する
+バトルスキル3変化 Lv2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 12%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 12%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP & attack by 15%
-Battle Skill 3 Transform Lv. 1
+Transforms Battle Skill 3. Increases Max MP & attack by 20%
+Battle Skill 3 Transform Lv. 2
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP & attack by 12%
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 12%
@@ -36,6 +51,9 @@ Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP & Crit by 12%
+Battle Skill 2 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP & Crit by 10%
 Battle Skill 2 Transform Lv. 1
 slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 5 seconds during standby.
@@ -809,6 +827,9 @@ slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max HP & MP by 10%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
@@ -906,6 +927,9 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_7
 Enhances Sword Skill 3. Becomes powerful. Increase your own speed. Come real close to enemies.
 Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_7
+Enhances Sword Skill 3. Shorten charging/pausing time. Becomes powerful. Recovers HP.
+Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Increases own attack. 
 Sword Skill 3 Enhance Lv. 1
@@ -974,6 +998,9 @@ slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Enhance the effect of your increased attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_4
+Enhances Sword Skill 3. Becomes powerful. Increases the number of HIT. Recovers HP.
+Sword Skill 3 Enhance Lv. 2
+slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_4
@@ -1001,7 +1028,7 @@ slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Decreases MP required.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
-Enhances Sword Skill 3. You will be invincible whien using skills.
+Enhances Sword Skill 3. All party members can raise their crit. rate temporarily.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
@@ -1025,7 +1052,10 @@ slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Becomes powerful. Increases buff effect time period.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
-Enhances Sword Skill 3. Becomes powerful and increase the speed.
+Enhances Sword Skill 3. Move behind an enemy when using the skill. Recovers HP.
+Sword Skill 3 Enhance Lv. 2
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Becomes powerful and accelerates during skill.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
@@ -1093,6 +1123,9 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Increases own attack.
 Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Move behind an enemy when using the skill and increase the number of HIT. Recovers HP.
+Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
 Sword Skill 3 Enhance Lv. 1
@@ -1640,6 +1673,36 @@ HP Up Lv. 2
 slot_skill_icon_0
 During battle HP Increases by 300
 HP Up Lv. 1
+slot_skill_icon_job_11
+Raises attack and crit. rate by 500
+Automatic Rifle Gunner Skill Lv.10
+slot_skill_icon_job_11
+Raises attack and crit. rate by 450
+Automatic Rifle Gunner Skill Lv.9
+slot_skill_icon_job_11
+Raises attack and crit. rate by 400
+Automatic Rifle Gunner Skill Lv.8
+slot_skill_icon_job_11
+Raises attack and crit. rate by 350
+Automatic Rifle Gunner Skill Lv.7
+slot_skill_icon_job_11
+Raises attack and crit. rate by 300
+Automatic Rifle Gunner Skill Lv.6
+slot_skill_icon_job_11
+Raises attack and crit. rate by 250
+Automatic Rifle Gunner Skill Lv.5
+slot_skill_icon_job_11
+Raises attack and crit. rate by 200
+Automatic Rifle Gunner Skill Lv.4
+slot_skill_icon_job_11
+Raises attack and crit. rate by 150
+Automatic Rifle Gunner Skill Lv.3
+slot_skill_icon_job_11
+Raises attack and crit. rate by 100
+Automatic Rifle Gunner Skill Lv.2
+slot_skill_icon_job_11
+Raises attack and crit. rate by 50
+Automatic Rifle Gunner Skill Lv.1
 slot_skill_icon_job_10
 Raises attack and crit. rate by 500
 Shieldblade Skill Lv.10
