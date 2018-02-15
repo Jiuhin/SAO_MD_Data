@@ -1,3 +1,4 @@
+vc_battle_kureha
 vc_battle_eiji
 vc_battle_alice
 vc_battle_eugeo
@@ -53,6 +54,7 @@ vc_battle_sinon
 vc_battle_leafa
 vc_battle_asuna
 vc_battle_kirito
+vc_adv_kureha
 vc_adv_eiji
 vc_adv_alice
 vc_adv_eugeo

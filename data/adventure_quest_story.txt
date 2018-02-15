@@ -76,11 +76,11 @@ rE>
 Event Story
 Steel, Break, Helpless
 Steel, Break, Helpless
-rE>
+qE>
+qE>
 Event Story
 Steel, Break, Helpless
-Steel, Break, Helpless
-qE>
+The Final Battle
 qE>
 % S
 Event Story
@@ -91,16 +91,16 @@ pE>
 pE>
 Event Story
 Steel, Break, Helpless
-Breakthrough
+Parting
 pE>
 Event Story
 Steel, Break, Helpless
-Breakthrough
+Parting
 oE>
 oE>
 Event Story
 Steel, Break, Helpless
-Divided
+Liz's Concern
 nE>
 nE>
 Event Story

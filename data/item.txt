@@ -626,6 +626,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
+You can use in the "Fatal Bullet - Unstoppable Force"
+Fatal Bullet Circulating Record Crystal
+item_m_record_crystal_blue
 You can use in the "Dream Circus - Breathtaking Performances"
 Dream Circus Circulating Record Crystal
 item_m_record_crystal_blue

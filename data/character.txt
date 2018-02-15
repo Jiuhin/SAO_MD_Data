@@ -1,15 +1,17 @@
-h&?
-Hu>
-X{4
-0r3
-4)0
-lA/
-<c,
-h1,
-8')
-Du'
-Di"
-hH 
+h)?
+Hx>
+0u3
+t>2
+4,0
+lD/
+<f,
+h4,
+T +
+Dx'
+L&$
+Dl"
+hK 
+X  
 walk
 wakeup
 wait
@@ -3095,7 +3097,7 @@ wait
 stun
 step
 &A	
-D&1
+D&.
 %A	
 skill_164105
 skill_161201
@@ -3156,9 +3158,9 @@ down
 dead
 dash
 damage
-"Dzn
+"Dzk
 charge_old
-"Djp
+"Djm
 charge
 back_step
 attack_3
@@ -3384,9 +3386,9 @@ down
 dead
 dash
 damage
-"DV 
+"DV
 charge_old
-"DF"
+"DF
 charge
 back_step
 attack_3
@@ -3475,7 +3477,7 @@ dead
 dash
 damage
 charge_old
-"Dne
+"Dnb
 charge
 back_step
 attack_3
@@ -3704,9 +3706,9 @@ down
 dead
 dash
 damage
-"DJ)
+"DJ&
 charge_old
-"D:+
+"D:(
 charge
 back_step
 attack_3
@@ -4053,7 +4055,7 @@ wakeup
 wait
 stun
 step
-zDFI
+zDFF
 skill_16310101
 skill_163101
 skill_161201
@@ -4113,7 +4115,7 @@ down
 dead
 dash
 damage
-"DN
+"DN}
 charge_old
 "D>
 charge
@@ -4329,7 +4331,7 @@ wakeup
 wait
 stun
 step
-zDV!
+zDV
 skill_144106
 skill_141202
 skill_141101
@@ -4375,7 +4377,7 @@ wakeup
 wait
 stun
 step
-aDvB
+aDv?
 skill_144102
 skill_141201
 skill_141101
@@ -4650,6 +4652,7 @@ wakeup
 wait
 stun
 step
+skill_14311101
 skill_143111
 skill_141201
 skill_141102

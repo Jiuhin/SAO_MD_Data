@@ -1089,13 +1089,13 @@ Displays when an enemy is resilient
 　to your attack and it deals less damage
 　than normal.
 　Great
-Displays when using a gun's focus
+Displays when using a Sniper Rifle's focus
 　attack and you release your finger as the
 　impact zone's circle contracts,
 　resulting in a critical hit that deals
 　major damage.
 　Miss
-Displays when using a gun's focus
+Displays when using a Sniper Rifle's focus
 　attack and you release your finger as the
 　impact zone's circle expands, resulting
 　in the attack missing its target and
@@ -1230,11 +1230,12 @@ Applies to all swords, which have an
 　such as mantises and gerberas.
 　Strike
 Applies to single-handed clubs and
-　guns, which have an advantage over
-　hard-bodied enemies such as elementals
-　and skeletons.
+　Sniper Rifle, Automatic Rifle which have 
+　an advantage over hard-bodied enemies 
+　such as elementals and skeletons.
 　Pierce
-Applies to rapiers, daggers, bows, and lances which have an advantage over
+Applies to rapiers, daggers, bows, 
+　and lances which have an advantage over
 　tough-skinned enemies such as
 　lizardmen.
 　Magic
@@ -1508,9 +1509,10 @@ Quests/Battle
 <panel>
 <body_text font_size 
 '24'>　With a long-range weapon or weapons 
-　(guns, bows, rods), do the below actions in time with
+　(Sniper Rifle, bows, rods, Automatic Rifle),
+　do the below actions in time with
 　the enemy's attack to parry it. 
-　Gun
+　Sniper Rifle
 You get to parry as you flick the screen
 　         while charging attacks
 　Bow
@@ -1521,6 +1523,8 @@ You get to parry as you flick the screen or
 　　　take away fingers while charging attacks
 　　　(Focus Attacks won't activate by flicking
 　　　  while charging attacks.)
+　Automatic Rifle
+You get to parry as you flick the screen when attacking. 
 　When the enemy's eyes glow red, that's your
 　chance! Switching characters the
 　moment the parry succeeds will cause
@@ -1577,9 +1581,10 @@ Switching
 <panel>
 <body_text font_size 
 '24'>　Press and hold the screen when
-　carrying a long-range weapon (guns,
-　bows, rods) to charge up and deal
-　a more damaging attack than normal.</body_text>
+　carrying a long-range weapon 
+　(Sniper Rifle, Bows, Rods) to charge up
+　and deal a more damaging attack 
+　than normal.</body_text>
 </panel>
 Focus Attacks
 <panel>

@@ -1,92 +1,81 @@
-0}	
-4{	
-Dz	
-px	
-8w	
-dv	
-Du	
-4s	
-4q	
-Lp	
-do	
-4n	
-Dm	
-Ll	
-Xk	
-pj	
-(j	
-Ti	
-lh	
-8g	
-Hf	
-pe	
-(e	
-Ld	
-hc	
-ha	
-P_	
-8]	
-P[	
-dZ	
-4Y	
-tW	
-$W	
-LU	
-4T	
+4}	
+x{	
+,{	
+Lz	
+ty	
+,y	
+Lx	
+dw	
+0v	
+Lu	
+ds	
+pr	
+(r	
+lp	
+$p	
+8o	
+Pn	
+dk	
+4j	
+Xi	
+8h	
+Tg	
+hf	
+8e	
+Pd	
+hb	
+(a	
+x_	
+(_	
+X]	
+L[	
+lZ	
+<Y	
+dX	
+pU	
+$U	
 TS	
-pR	
-$R	
-LQ	
-tP	
-(P	
-DO	
-XN	
-tM	
-(M	
-<L	
-HK	
-TJ	
-dI	
-<H	
-hG	
-xF	
-(F	
-TD	
+lQ	
+0P	
+TO	
+4N	
+XL	
+lK	
+<J	
+PI	
+hH	
+,G	
+TF	
+0E	
+LD	
 lC	
 $C	
-8B	
-PA	
-<?	
-d>	
-T<	
-T:	
-l9	
-88	
-T7	
-d6	
-l5	
-x4	
-04	
-H3	
-t2	
-,2	
-H1	
-T0	
-l/	
-0.	
-P-	
-d,	
-0+	
-l)	
-$)	
+LB	
+lA	
+P?	
+l>	
+4<	
+D9	
+l7	
+46	
+H5	
+h4	
+,3	
+H2	
+T1	
+<0	
+x.	
+,.	
+T-	
+0,	
+L+	
+0)	
 D(	
-<&	
-d%	
-4$	
-d"	
-,!	
-8 	
-h		
+P'	
+l%	
+D$	
+0"	
+H!	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -666,6 +655,7 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+Lucia G-F-1 R3
 Black Soaring Coat R4
 Kureha's Leg Purse R3
 Kureha's Leg Purse R2
@@ -1150,6 +1140,11 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+400イベントpt
+	8)t
+250イベントpt
+_	8(t
+150イベントpt
 [	8
 Valentine's Day Gold Medal x1
 U[	8
@@ -1501,6 +1496,21 @@ U)G6
 [Constant Love] Asuna
 'G6
 Memory Diamond x100
+Fatal Bullet Circulating Record Crystal x5
+Fatal Bullet Circulating Record Crystal x4
+Fatal Bullet Circulating Record Crystal x3
+Fatal Bullet Circulating Record Crystal x2
+Fatal Bullet Circulating Record Crystal x1
+Fatal Bullet Circulating Record Crystal x10
+Fatal Bullet Circulating Record Crystal x9
+Fatal Bullet Circulating Record Crystal x8
+Fatal Bullet Circulating Record Crystal x7
+Fatal Bullet Circulating Record Crystal x6
+Fatal Bullet Circulating Record Crystal x5
+Fatal Bullet Circulating Record Crystal x4
+Fatal Bullet Circulating Record Crystal x3
+Fatal Bullet Circulating Record Crystal x2
+Fatal Bullet Circulating Record Crystal x1
 Dream Circus Circulating Record Crystal x5
 Dream Circus Circulating Record Crystal x4
 Dream Circus Circulating Record Crystal x3

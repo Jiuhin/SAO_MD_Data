@@ -395,35 +395,43 @@ skill_icon_mace_3_{}
 Increase your attack and swing your club violently, delivering a blow with meteoric power.
 Meteor Impact+
 Meteor Impact+
-skill_icon_ar_3_{}
+skill_icon_automatic_gun_3_{}
 A combination skill. Holding a rocket launcher to shoot when kneeling down on one knee. Recovers HP automatically.
 Plasma Propelled Grenade
 Plasma Propelled Grenade
-skill_icon_ar_3_{}
+skill_icon_automatic_gun_3_{}
 A combination skill. Shoots from an enemy's back keeping a distance. Recovers HP automatically.
 Bullet Storm
 Bullet Storm
-skill_icon_ar_3_{}
+skill_icon_automatic_gun_3_{}
 A combination skill. Makes a powerful shot with a customized gun. Recovers HP automatically.
 Grief Bullet
 Grief Bullet
-skill_icon_ar_3_{}
+skill_icon_automatic_gun_3_{}
 A combination skill. Shoots the ground repeatedly from the sky. Recovers HP automatically.
 Speed Holic Spree
 Speed Maniac
-skill_icon_ar_3_{}
+skill_icon_automatic_gun_3_{}
 A combination skill. Shoots in a cross shaped pattern. Recovers HP automatically.
 Gunner's Rosario
 Gunner's Rosary
-skill_icon_ar_2_{}
-tbd
-skill_icon_ar_2_{}
-tbd
-skill_icon_ar_2_{}
-tbd
-skill_icon_ar_2_{}
-tbd
-skill_icon_ar_1_{}
+skill_icon_automatic_gun_2_{}
+Take out a shotgun (sub-weapon) and shoot 
+Burst Shot
+Burst Shot
+skill_icon_automatic_gun_2_{}
+Throw a grenade when jumping aside.
+Plazma Grenade
+Plazma Grenade
+skill_icon_automatic_gun_2_{}
+Jump and shoot continuously while preforming a mid-air somersault.
+Sonic Rampage
+Sonic Rampage
+skill_icon_automatic_gun_2_{}
+Shooting continuously when sliding forward.
+Vorpal Assault
+Vorpal Assault
+skill_icon_automatic_gun_1_{}
 Pull out your fully-automatic sidearm and fire multiple shots.
 Quick Draw
 Quick Draw

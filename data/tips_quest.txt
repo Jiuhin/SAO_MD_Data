@@ -1,3 +1,7 @@
+tips14.png
+Weapon Types - Automatic Rifle
+Withan automatic rifle, you can auto attack just by moving.
+Continuous shots are fired by long pressing.
 tips13.png
 Against Gunfighters
 Watch out! Gunfighters can be lethal up close!

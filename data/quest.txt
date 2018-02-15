@@ -5264,46 +5264,45 @@ bg_thumbnail_8024
 Quest 1-1
 Burnt Field
 wE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
 Quest 15
 Steel, Break, Helpless (Master +2)
 vE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
 Quest 14
 Steel, Break, Helpless (Master +1)
 uE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
 Quest 13
 Steel, Break, Helpless (Master)
 tE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
 Quest 12
 Steel, Break, Helpless (EX)
 sE>
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
@@ -5316,10 +5315,9 @@ bg_thumbnail_0
 Story 10
 Steel, Break, Helpless
 qE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4018
@@ -5330,13 +5328,13 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4019
 Quest 8
-Breakthrough
+Parting
 oE>
 Defeat All Enemies
 Quest
 bg_thumbnail_4019
 Quest 7
-Divided
+Liz's Concern
 nE>
 Finish Story
 Story
@@ -17816,46 +17814,45 @@ bg_thumbnail_8024
 Quest 1-1
 Burnt Field
 wE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
 Quest 15
 Steel, Break, Helpless (Master +2)
 vE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
 Quest 14
 Steel, Break, Helpless (Master +1)
 uE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
 Quest 13
 Steel, Break, Helpless (Master)
 tE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
 Quest 12
 Steel, Break, Helpless (EX)
 sE>
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4020
@@ -17868,10 +17865,9 @@ bg_thumbnail_0
 Story 10
 Steel, Break, Helpless
 qE>
-《アングリー・バーサーカー》強襲!
-発熱したら要注意!! 
-危険範囲に入らないように
-距離をとって戦おう!
+Angry Berserker makes an assault!
+Be careful when they generate heat. 
+Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
 bg_thumbnail_4018
@@ -17882,13 +17878,13 @@ Defeat All Enemies
 Quest
 bg_thumbnail_4019
 Quest 8
-Breakthrough
+Parting
 oE>
 Defeat All Enemies
 Quest
 bg_thumbnail_4019
 Quest 7
-Divided
+Liz's Concern
 nE>
 Finish Story
 Story

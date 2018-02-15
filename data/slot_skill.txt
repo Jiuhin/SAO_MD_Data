@@ -14,9 +14,6 @@ slot_skill_icon_def_light_1
 Reduces damage from Holy-elem. enemies by 15%
 Holy Resistance Lv1
 slot_skill_icon_bs_change
-バトルスキル3が変化して、最大MPと攻撃力が15%増加する
-バトルスキル3変化 Lv2
-slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
@@ -882,6 +879,9 @@ Battle Skill 2 Transform Lv. 1
 slot_skill_icon_ss_enhance_3_9
 Enhances Sword Skill 3. Becomes powerful. Increases stun and fastens the trigger of the combination skill.
 Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Move behind an enemy to attack.
+Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_9
 Enhances Sword Skill 3. Reduces required MP.  Becomes powerful.
 Sword Skill 3 Enhance Lv. 1
@@ -920,6 +920,9 @@ Enhances Sword Skill 3. Decreases MP required.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_7
 Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Shorten charging time. Becomes powerful. Increase the number of HIT.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_7
 Enhances Sword Skill 3. Reduces required MP. Increases own attack and speed.
@@ -1036,6 +1039,9 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Decrease enemies' defense greatly.
 Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Enhance the effect of your increased speed.
+Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Decreases MP required. Adds more hits.
 Sword Skill 3 Enhance Lv. 1
@@ -1118,13 +1124,16 @@ slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Becomes powerful. Increases buff effect.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
-Enhances Sword Skill 3. Increases own attack.
+Enhances Sword Skill 3. Becomes powerful. Increase the number of HIT.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Increases own attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
-Enhances Sword Skill 3. Move behind an enemy when using the skill and increase the number of HIT. Recovers HP.
+Enhances Sword Skill 3. Increases own attack.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+Enhances SS3. Move behind enemies when using the skill. Increases the number of HIT. Recovers HP.
 Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
@@ -1173,6 +1182,9 @@ Enhances Sword Skill 3. Reduces charge time and raises attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
@@ -1675,34 +1687,34 @@ During battle HP Increases by 300
 HP Up Lv. 1
 slot_skill_icon_job_11
 Raises attack and crit. rate by 500
-Automatic Rifle Gunner Skill Lv.10
+Automatic Rifle Skill Lv.10
 slot_skill_icon_job_11
 Raises attack and crit. rate by 450
-Automatic Rifle Gunner Skill Lv.9
+Automatic Rifle Skill Lv.9
 slot_skill_icon_job_11
 Raises attack and crit. rate by 400
-Automatic Rifle Gunner Skill Lv.8
+Automatic Rifle Skill Lv.8
 slot_skill_icon_job_11
 Raises attack and crit. rate by 350
-Automatic Rifle Gunner Skill Lv.7
+Automatic Rifle Skill Lv.7
 slot_skill_icon_job_11
 Raises attack and crit. rate by 300
-Automatic Rifle Gunner Skill Lv.6
+Automatic Rifle Skill Lv.6
 slot_skill_icon_job_11
 Raises attack and crit. rate by 250
-Automatic Rifle Gunner Skill Lv.5
+Automatic Rifle Skill Lv.5
 slot_skill_icon_job_11
 Raises attack and crit. rate by 200
-Automatic Rifle Gunner Skill Lv.4
+Automatic Rifle Skill Lv.4
 slot_skill_icon_job_11
 Raises attack and crit. rate by 150
-Automatic Rifle Gunner Skill Lv.3
+Automatic Rifle Skill Lv.3
 slot_skill_icon_job_11
 Raises attack and crit. rate by 100
-Automatic Rifle Gunner Skill Lv.2
+Automatic Rifle Skill Lv.2
 slot_skill_icon_job_11
 Raises attack and crit. rate by 50
-Automatic Rifle Gunner Skill Lv.1
+Automatic Rifle Skill Lv.1
 slot_skill_icon_job_10
 Raises attack and crit. rate by 500
 Shieldblade Skill Lv.10
