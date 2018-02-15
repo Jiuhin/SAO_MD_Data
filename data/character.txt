@@ -15615,7 +15615,7 @@ skill_cutin_10001
 battle_cutin_15014
 A GGO player. A year after completing SAO. Seijirou Kikuoka calls up Kirito to investigate a case in a virtual world. Kirito logs into GGO to find out who the Death Gun is and meets Sinon.
 serif
-4_kirito_14015
+5_kirito_15006
 Kirito
 [Stick to your beliefs] Kirito
 walk

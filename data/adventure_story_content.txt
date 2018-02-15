@@ -1,141 +1,135 @@
-d[}
-,m{
-(yz
-0wz
-Xuz
-(nz
-<lz
-<az
-dEz
-p9z
-0ry
-Dtx
-h5v
-P{u
-4_u
-<Ls
-p,s
-xpr
-4mq
-p+q
-HVo
-xKo
-4<o
-thn
-pRn
-tem
-$Nm
-l_l
-HJk
-,Rj
-,Dj
-Pri
-Pbi
-H6i
-pRh
-pHh
-8}g
-tmg
-<yf
-hQf
-lDf
-dhe
-l<e
-pzd
-pld
-l5d
-T)d
-Psc
-Phc
-(Vc
-$Kb
-d-a
-T{_
-(r_
-HZ_
-hL_
-P:_
-d$]
-(,[
-llZ
-L_Z
-DSZ
-$9Y
-(&Y
-$SX
-xDX
-H9X
-XFW
-l'W
-tdV
-ToT
-PKT
-XzS
-HOS
-<NQ
-LtP
-liP
-tZP
-D,P
-P P
-dEO
-8.O
-xjN
-tGN
-D{M
-pfK
-l%K
-8ZI
-(eH
-X[H
-xgG
-</G
-<DF
-PoD
-4ND
-xDD
-X/D
-h+C
-dKB
-l9B
-8eA
-,LA
-Hq?
-L4?
-Xj>
-Lw:
-(m:
-4]:
-(P:
-l,:
-hk9
-xQ9
-X}8
-H)8
-<M6
-P_5
-TO5
-<Y4
-8w3
-DE3
-dD2
-Hr1
-$T/
-l}.
-Xb.
-HU.
-pD.
-Hz)
-HO(
-X{'
-tE'
-px%
-09%
-L%%
-(o$
-XM"
-XR 
-8? 
+<y}
+(1}
+D"}
+Pm{
+8R{
+(.{
+Lyz
+Twz
+Lnz
+Try
+htx
+4Jv
+t{u
+Dku
+X_u
+Dqt
+$Qt
+8fr
+$Qr
+8Dr
+Xmq
+(-p
+lVo
+X<o
+46n
+HNm
+(Cm
+lJk
+(cj
+PRj
+PDj
+D{i
+tri
+tbi
+DPi
+l6i
+0yh
+(fh
+x)d
+tsc
+thc
+LVc
+dAc
+$yb
+HKb
+4Ea
+D6a
+x{_
+Lr_
+lZ_
+t:_
+0	_
+4[[
+L,[
+p_Z
+hSZ
+DbY
+H9Y
+L&Y
+HSX
+l9X
+4)X
+<oV
+xoT
+tKT
+lOS
+DOR
+45Q
+ptP
+h,P
+t P
+h{M
+8hL
+D6K
+(vJ
+DiI
+d'I
+LeH
+dmF
+,qE
+<eE
+toD
+XND
+(%B
+PLA
+lq?
+8F?
+p4?
+d{<
+<[<
+pw:
+Lm:
+X]:
+LP:
+D7:
+,59
+8e8
+l)8
+D 7
+,]6
+$46
+d%6
+t_5
+xO5
+4"5
+hE3
+<r2
+lr1
+4g1
+dG0
+,70
+HT/
+lU.
+0o-
+lz)
+Da(
+lO(
+(V'
+40'
+0T&
+D5&
+4!&
+,N%
+T9%
+p%%
+Lo$
+(V$
+4$"
+4[!
+4D!
+4f 
+dmt
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -152,21 +146,21 @@ still_14_heathcliff_dead
 Hngh!
 Kirito
 2017110701_10_a
-Xpt
+4pt
 still_14_heathcliff_dead
 bg_13_boss
 ...!
 Heathcliff
 2017110701_9_a
-x{t
+T{t
 bg_black
 Kirito
 2017110701_8_a
+dqt
 still_14_kirito_revive
 RRRGH! HAAAAAH!
 Kirito
 2017110701_7_a
-,rt
 still_14_kirito_revive
 Huh?
 Heathcliff
@@ -180,7 +174,7 @@ bg_black
 No. Not yet...!
 Kirito
 2017110701_4_a
-Ltt
+(tt
 still_14_asuna_lost
 (I believe in you, Kirito.)
 Asuna
@@ -189,21 +183,23 @@ still_14_heathcliff_stab
 It's all over now...
 Kirito
 2017110701_2_a
+lut
 still_14_heathcliff_stab
 bg_13_boss
 Gurgh!
 Kirito
 2017110701_1_a
-,wt
+dvt
 Haha, Pop Star Online can't
 come out soon enough!
 Kazuto
 799999999_39_a
+pxt
 Haha, maybe I'll serenade you
 sometime, if you're lucky.
 Agil
 799999999_38_a
-txt
+Pxt
 I bet you'd be pretty dang good
 at it, too.
 Kazuto
@@ -211,13 +207,12 @@ Kazuto
 You would...
 Kazuto
 799999999_36_a
-({t
 I don't want to be a pop star so
 much as I think it'd be cool to
 sing in front of an audience.
 Agil
 799999999_35_a
-Lzt
+(zt
 YOU want to be a pop star?
 Kazuto
 799999999_34_a
@@ -225,7 +220,6 @@ For the millionth time, I...
 Wait, what?
 Kazuto
 799999999_33_a
-d{t
 Well then, how about I join up
 with your group when the real deal
 gets released?
@@ -239,6 +233,7 @@ You totally wanted to be a pop
 star, didn't you?
 Agil
 799999999_30_a
+<}t
 ...
 Kazuto
 799999999_29_a
@@ -349,7 +344,6 @@ Yeah... But it was a blast,
 wasn't it?
 Kazuto
 799999999_4_a
-,(u
 Kazuto
 799999999_3_a
 Agil
@@ -420,7 +414,7 @@ Great idea! I'm gonna brag my
 butt off too!
 Kureha
 408101201_39_a
-T3u
+03u
 Q!S
 Kirito
 408101201_38_a
@@ -496,7 +490,6 @@ Q!S
 I'm honestly impressed.
 Zeliska
 408101201_21_a
-0<u
 Q!S
 Asuna
 408101201_20_a
@@ -552,6 +545,7 @@ a few minutes, but we won.
 Congratulations, Master.
 Daisy
 408101201_8_a
+pBu
 Q!S
 Asuna
 408101201_10_a
@@ -574,7 +568,6 @@ ArFA-sys
 Q!S
 Kureha
 408101201_3_a
-<Eu
 Q!S
 Kirito
 408101201_2_a
@@ -595,6 +588,7 @@ This boss is breathing down our
 necks!
 Asuna
 408101101_47_a
+<Hu
 Leafa
 408101101_46_a
 Sinon
@@ -603,6 +597,7 @@ We'll tell you after the fight,
 Zeliska!
 Asuna
 408101101_44_a
+pIu
 Kirito
 408101101_43_a
 Daisy
@@ -633,7 +628,6 @@ That's the boss, right?!
 Let's beat this tower!
 Leafa
 408101101_34_a
-4Nu
 Leafa
 408101101_33_a
 Asuna
@@ -658,7 +652,6 @@ Sorry we're late, but at least we
 made it in time!
 Asuna
 408101101_25_a
-DOw
 Huh?!
 Kirito
 408101101_24_a
@@ -705,6 +698,7 @@ At this rate, we won't even be
 able to scratch the thing!
 ArFA-sys
 408101101_10_a
+8Yu
 Kureha
 408101101_9_a
 We don't have time to do anything
@@ -872,7 +866,7 @@ No... You want us to ZIPLINE
 over to the other tower?!
 Leafa
 408100901_47_a
-L%u
+(%u
 % S
 We can use that!
 Asuna
@@ -889,7 +883,7 @@ something else we can do here!
 A unique action!
 Asuna
 408100901_43_a
-puu
+Luu
 % S
 Liz
 408100901_42_a
@@ -934,7 +928,7 @@ Asuna
 Leafa
 408100901_32_a
 % S
-bg_s2_06_glacier
+bg_event_inside_tower
 Pretty, yeah, but also depressing.
 GGO's set in a dystopian future on
 a ruined planet. It's so dreary.
@@ -950,7 +944,7 @@ Silica
 % S
 Silica
 408100901_29_a
-p"u
+P"u
 % S
 The outside, huh?
 Liz
@@ -958,7 +952,7 @@ Liz
 % S
 Sinon
 408100901_27_a
-T&u
+4&u
 % S
 Ha ha, yeah...
 I guess that's true.
@@ -1026,7 +1020,7 @@ included, enemies get stronger the
 higher you go.
 Asuna
 408100901_12_a
-H.u
+(.u
 % S
 I mean, yeah, Kirito's so strong
 he's basically cheating, but
@@ -1075,7 +1069,7 @@ Leafa
 Sinon
 408100901_2_a
 % S
-bg_s2_06_glacier
+bg_event_inside_tower
 It's no use... All this rubble is
 being treated as an immortal
 object.
@@ -1128,7 +1122,7 @@ Zeliska
 No way!
 Kirito
 408100801_34_a
-hEu
+LEu
 U-Uh oh! This is bad!
 The rubble from the ceiling's
 blocking the way back down!
@@ -1166,7 +1160,6 @@ Run!
 The ceiling's collapsing!
 Daisy
 408100801_23_a
-xAu
 Huh?! What's that rumbling?!
 Kirito
 408100801_22_a
@@ -1178,6 +1171,7 @@ Ha ha, that's right!
 We WILL beat this!
 Kirito
 408100801_19_a
+$Mu
 Well, we've got ten people now!
 We can do it, I know we can!
 ArFA-sys
@@ -1203,6 +1197,7 @@ Daisy
 408100801_12_a
 Zeliska
 408100801_11_a
+xGu
 Hey, Asuna!
 We're going on ahead!
 Kirito
@@ -1215,7 +1210,6 @@ ArFA-sys
 408100801_8_a
 Zeliska
 408100801_7_a
-$Ju
 Let's do it! Wait...
 Where's Asuna and the others?
 Kirito
@@ -1229,10 +1223,10 @@ stairs, we'll be in the upper
 reaches of the tower.
 Daisy
 408100801_3_a
-8	u
+$	u
 ArFA-sys
 408100801_2_a
-bg_s2_06_glacier
+bg_event_inside_tower
 So we're almost at the top?
 Kureha
 408100801_1_a
@@ -1298,7 +1292,7 @@ Asuna
 408100701_40_a
 Silica
 408100701_39_a
-<Wu
+$Wu
 Why do you say that?
 Liz
 408100701_38_a
@@ -1332,6 +1326,7 @@ Liz
 408100701_30_a
 Silica
 408100701_29_a
+p[u
 Should be flipping out, duh!
 Look at him! Kirito's totally
 flirting with all those girls!
@@ -1339,7 +1334,6 @@ Liz
 408100701_28_a
 Leafa
 408100701_27_a
-$$u
 Sinon
 408100701_26_a
 Me of all people, what...?
@@ -1384,12 +1378,13 @@ ArFA-sys
 408100701_12_a
 Kureha
 408100701_11_a
-<Qu
+$Qu
 Exactly. This tower's not really
 about treasure hunting, but it's
 always fun to find loot, right?
 Kirito
 408100701_10_a
+D"u
 Daisy
 408100701_9_a
 Ahh, I get it. It was the cracks,
@@ -1399,17 +1394,17 @@ Zeliska
 408100701_8_a
 Zeliska
 408100701_7_a
+xYu
 How did you know this wall was
 a fake? It looks just like every
 other one...
 Daisy
 408100701_6_a
+d$u
 item_03_treasure_box
 Look! A hidden treasure chest!
 ArFA-sys
 408100701_5_a
-,%u
-$%u
 ArFA-sys
 408100701_4_a
 Wow! The wall broke!
@@ -1418,12 +1413,12 @@ Kureha
 Then hit the wall juuust right...
 Kirito
 408100701_2_a
-bg_s2_06_glacier
+bg_event_inside_tower
 So if I do this, then that, then
 a liiittle bit of that...
 Kirito
 408100701_1_a
-X'u
+D'u
 Kureha
 408100601_50_a
 Double yay! I like hanging out
@@ -1434,8 +1429,7 @@ Yay! Now I think we'll have a
 chance!
 Silica
 408100601_48_a
-X)u
-T)u
+D)u
 Liz
 408100601_47_a
 Silica
@@ -1446,19 +1440,20 @@ Leafa
 408100601_45_a
 Daisy
 408100601_44_a
-P-u
+<-u
 That's a wonderful idea!
 We'd love to!
 Zeliska
 408100601_43_a
-h+u
+T+u
 Asuna
 408100601_42_a
+H-u
 What do you say?
 Want to join forces?
 Sinon
 408100601_41_a
-H,u
+4,u
 Actually, we're doubly lucky we
 ran into you. We were starting to
 have trouble with the mobs too.
@@ -1468,44 +1463,44 @@ Sinon
 408100601_39_a
 Kirito
 408100601_38_a
+h.u
 I'm just glad we were here to
 help.
 Asuna
 408100601_37_a
-D.u
-<.u
+0.u
+(.u
 ArFA-sys
 408100601_36_a
 Thank you so much for saving us!
 We owe you big time!
 Kureha
 408100601_35_a
-8/u
+$/u
 Asuna
 408100601_34_a
+l/u
 Sinon
 408100601_33_a
 Phew, looks like we're safe for
 now.
 Kirito
 408100601_32_a
-t0u
-l0u
+X0u
 ArFA-sys
 408100601_31_a
 G-Got it!
 Kureha
 408100601_30_a
+,1u
 Asuna
 408100601_29_a
-ttu
 You keep an eye on the ones
 guarding the stairs down. If they
 make a move, deal with them!
 Kirito
 408100601_28_a
-X2u
-T2u
+D2u
 Asuna
 408100601_27_a
 Sinon
@@ -1519,12 +1514,11 @@ Kureha
 Y-Yeah! Fight time!
 ArFA-sys
 408100601_23_a
-p4u
 Kirito
 408100601_22_a
 Sinon
 408100601_21_a
-dCu
+PCu
 Can we chat later? In case you've
 forgotten, there's a horde of
 monsters trying to murder us.
@@ -1532,9 +1526,9 @@ Asuna
 408100601_20_a
 Leafa
 408100601_19_a
-$6u
 Liz
 408100601_18_a
+,7u
 Hehe, I guess that's a good point.
 Silica
 408100601_17_a
@@ -1544,11 +1538,10 @@ Daisy
 408100601_16_a
 Daisy
 408100601_15_a
-t:u
 Wow, the gang's all here, huh?
 Zeliska
 408100601_14_a
-4Bu
+p8u
 Silica
 408100601_13_a
 Yeah, seriously. What are you
@@ -1556,12 +1549,11 @@ guys, insane? The monsters around
 here are crazy tough.
 Liz
 408100601_12_a
+H:u
 With only four people?!
 You're super brave!
 Silica
 408100601_11_a
-,:u
-(:u
 Silica
 408100601_9_a
 I didn't know you guys were taking
@@ -1575,7 +1567,6 @@ ArFA-sys
 Asuna! Sinon!
 Kureha
 408100601_6_a
-4<u
 Asuna
 408100601_5_a
 Heh. What are the chances we'd run
@@ -1586,11 +1577,11 @@ Kirito
 408100601_3_a
 Sinon
 408100601_2_a
-bg_s2_06_glacier
+bg_event_inside_tower
 Don't forget us!
 Asuna
 408100601_1_a
-t>u
+d>u
 ArFA-sys
 408100501_49_a
 K-Kirito!!
@@ -1605,7 +1596,7 @@ Monster
 408100501_46_a
 Kirito
 408100501_45_a
-LAu
+<Au
 HRAAAAGH!!
 Kirito
 408100501_44_a
@@ -1622,17 +1613,16 @@ There's got to be a way to beat
 this! Think, Kureha, think!!
 Kureha
 408100501_40_a
-8Du
+(Du
 Kureha
 408100501_39_a
-,Fu
 But we've come so far! I don't
 wanna die and get sent back
 to Glocken!
 ArFA-sys
 408100501_38_a
-<Eu
-4Eu
+,Eu
+$Eu
 Daisy
 408100501_37_a
 Yeah, for a four-person squad.
@@ -1640,8 +1630,8 @@ I think we've made it as far as
 we can.
 Zeliska
 408100501_36_a
-<Fu
-4Fu
+,Fu
+$Fu
 ArFA-sys
 408100501_35_a
 But...that means it's
@@ -1654,6 +1644,7 @@ Zeliska
 408100501_33_a
 Daisy
 408100501_32_a
+tJu
 No, dummy. This is probably just a
 pre-programmed event made to wipe
 out small parties like ours.
@@ -1666,7 +1657,7 @@ Kureha
 408100501_29_a
 Daisy
 408100501_28_a
-tLu
+dLu
 Oh, stop being dramatic.
 It's not your fault.
 Zeliska
@@ -1676,13 +1667,11 @@ I should have never suggested
 we run back there...
 Kureha
 408100501_26_a
-PKu
 Kureha
 408100501_25_a
 WE'RE SURROUNDED HEEEELP!!
 ArFA-sys
 408100501_24_a
-(Lu
 Daisy
 408100501_23_a
 We're in trouble. Monsters ahead
@@ -1697,7 +1686,7 @@ EEP! A monster?! In front of the
 way back down?!
 ArFA-sys
 408100501_20_a
-XNu
+HNu
 GRAAAWRGH!!
 Monster
 408100501_19_a
@@ -1711,39 +1700,40 @@ Zeliska
 STOP!
 Daisy
 408100501_15_a
-lPu
-dPu
+TPu
 ArFA-sys
 408100501_14_a
 We're almost there!
 Kureha
 408100501_13_a
-DQu
-x	w
+4Qu
+h	w
 G-Got it!
 ArFA-sys
 408100501_12_a
-8Tu
+(Tu
 I think there's a way back down
 over there! Let's do that tactical
 retreat thing before we're toast!
 Kureha
 408100501_11_a
-8Tu
+(Tu
 What do we do? We still haven't
 healed from that last battle...
 ArFA-sys
 408100501_9_a
 Kureha
 408100501_10_a
+tSu
 Daisy
 408100501_8_a
-TVu
+DVu
 Apparently not. The difficulty's
 ramping up really high, really
 fast.
 Zeliska
 408100501_7_a
+tTu
 ArFA-sys
 408100501_6_a
 pant
@@ -1756,16 +1746,15 @@ Kureha
 Look out! We have incoming!
 Daisy
 408100501_4_a
-(Vu
 Zeliska
 408100501_3_a
-pVu
 Daisy
 408100501_2_a
-bg_s2_06_glacier
+bg_event_inside_tower
 GRAAAGH!!
 Monster
 408100501_1_a
+TWu
 ArFA-sys
 408100401_31_a
 Hmm... Alright, I think I'm going
@@ -1803,7 +1792,8 @@ to have been this floor's boss
 battle.
 Daisy
 408100401_22_a
-d]u
+X]u
+P]u
 ArFA-sys
 408100401_21_a
 Oh, yeah. We're clear.
@@ -1815,7 +1805,6 @@ Daisy
 You finished up over there?
 Zeliska
 408100401_18_a
-$_u
 Ahaha, I was just kidding.
 "Kureha" is fine, as always!
 Kureha
@@ -1834,7 +1823,7 @@ But then I got beaten to the
 punch with master registration.
 Kureha
 408100401_14_a
-Tdu
+Hdu
 It wasn't that long ago that we
 found you, but it feels like we've
 known each other for ages.
@@ -1843,7 +1832,7 @@ Kureha
 That's right! "Rei" means "zero"!
 ArFA-sys
 408100401_12_a
-4cu
+(cu
 "Bester best friends"? You're so
 cute! Hehe! Hey... That nickname's
 because you're number 00, right?
@@ -1854,11 +1843,12 @@ bester best friends now that
 you've called me "Rei"!
 ArFA-sys
 408100401_10_a
+4gu
 Huh? What's with the gush of
 emotion?
 Kureha
 408100401_9_a
-Xeu
+Leu
 Oh my gosh! I think that was the
 first time you ever called me
 "Rei"! I'm so happy!
@@ -1868,26 +1858,26 @@ Though it did look like you almost
 got yourself robot-stomped...
 Kureha
 408100401_7_a
-<iu
+0iu
 Thanks, Rei. You were a fantastic
 decoy.
 Kureha
 408100401_6_a
-Xgu
+Lgu
 Got it!
 ArFA-sys
 408100401_5_a
-Dju
+8ju
 Phew... That's the last one.
 Kureha
 408100401_4_a
-Thu
-Phu
+Hhu
+Dhu
 ArFA-sys
 408100401_3_a
 Kureha
 408100401_2_a
-bg_s2_06_glacier
+bg_event_inside_tower
 Beep... Bzzt...
 Mech
 408100401_1_a
@@ -1897,17 +1887,18 @@ Th-Thank you so much, everyone!
 But I can fight too!
 ArFA-sys
 408100301_31_a
-Tsu
+Lsu
 Terminating enemies.
 Daisy
 408100301_30_a
+tku
 Daisy
 408100301_29_a
 You left your backs exposed,
 robots! Now die!
 Zeliska
 408100301_28_a
-plu
+hlu
 Guys! You came for me!
 ArFA-sys
 408100301_27_a
@@ -1920,12 +1911,13 @@ Kureha
 Huh? They're all falling over?
 ArFA-sys
 408100301_24_a
-pnu
+hnu
 BRRZT?!
 BWWOOOoooooppp...
 Mech
 408100301_23_a
-Lou
+Dou
+x'w
 sniff
 ...
 There's nowhere else to run...
@@ -1936,13 +1928,13 @@ ArFA-sys
 BEEP!! BOOP!! BAAP!!
 Mech
 408100301_20_a
-tzu
+lzu
 Daisy
 408100301_19_a
 Got it!
 Kureha
 408100301_18_a
-,su
+$su
 Let's scrap them!
 Open fire!!
 Zeliska
@@ -1952,12 +1944,11 @@ We're in the perfect position
 to take them out.
 Zeliska
 408100301_16_a
-htu
 Well, she bought us enough time.
 Daisy
 408100301_15_a
-Psu
-Lsu
+Hsu
+Dsu
 Zeliska
 408100301_14_a
 Daisy
@@ -1972,7 +1963,7 @@ Mech
 I-I can't tell you! Sorry!
 ArFA-sys
 408100301_10_a
-,	v
+$	v
 BEEP.
 Mech
 408100301_9_a
@@ -1983,7 +1974,7 @@ ArFA-sys
 BZZRRRT!! BEEP BEEP BEEP!!
 Mech
 408100301_7_a
-,wu
+$wu
 U-Uh oh! I probably shouldn't have
 said that! Y-You're not mad at me,
 right, robot friends? Buddies?
@@ -2005,7 +1996,7 @@ so it's just me and my three
 friends...
 ArFA-sys
 408100301_2_a
-bg_s2_06_glacier
+bg_event_inside_tower
 Exactly! Master's the most
 wonderful, awesome, amazing master
 ever! You get me, right?!
@@ -2165,7 +2156,7 @@ ArFA-sys
 408100201_9_a
 Kureha
 408100201_10_a
-<.v
+8.v
 Zeliska
 408100201_8_a
 I detected faint vibrations of a
@@ -2173,7 +2164,7 @@ likely artificial nature. I assume
 these are mechanical enemies.
 Daisy
 408100201_7_a
-X/v
+T/v
 Kureha
 408100201_6_a
 Wow, Daisy! You're amazing! How
@@ -2192,7 +2183,7 @@ Zeliska
 408100201_3_a
 Zeliska
 408100201_2_a
-bg_s2_06_glacier
+bg_event_inside_tower
 Warning. Please retreat. There
 are too many enemies beyond
 this point for us to handle.

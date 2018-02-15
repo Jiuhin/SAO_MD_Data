@@ -3330,6 +3330,16 @@ bullet_2024_cupid_rain_3
 ground
 dead
 bullet_2024_cupid_rain_3
+ground
+dead
+bullet_2024_cupid_rain_3
+ground
+dead
+bullet_2024_cupid_rain_3
+wait
+ground
+dead
+bullet_2023_cupid_rain_2
 wait
 ground
 dead
