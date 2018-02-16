@@ -204,6 +204,7 @@ images/event/4032/4032_banner.png
 images/event/4031/4031_banner.png
 images/event/4030/4030_banner.png
 images/event/4029/4029_banner.png
+images/event/4028/4028_banner.png
 images/event/4027/4027_banner_1.png
 images/event/4027/4027_banner_2.png
 images/event/4026/4026_banner.png

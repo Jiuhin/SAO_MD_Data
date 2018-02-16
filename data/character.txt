@@ -1,17 +1,24 @@
-h)?
-Hx>
-0u3
-t>2
-4,0
-lD/
-<f,
-h4,
-T +
-Dx'
-L&$
-Dl"
-hK 
-X  
+lb?
+(f>
+$6>
+P[<
+tq:
+,g7
+<O6
+Py4
+$R4
+x,2
+<]0
+4)0
+ts/
+dS+
+<Y)
+h-)
+lY(
+dC'
+<L&
+(6%
+(u!
 walk
 wakeup
 wait
@@ -532,8 +539,8 @@ wakeup
 wait
 stun
 step
+zD",
 skill_16310101
-zDl
 skill_163101
 skill_161201
 skill_161102
@@ -549,6 +556,7 @@ dead
 dash
 damage
 charge_old
+"DNC
 charge
 back_step
 attack_3
@@ -671,7 +679,7 @@ wait
 stun
 step
 m5	
-HDD
+HDh
 skill_103125
 skill_102202
 skill_101101
@@ -758,6 +766,7 @@ wakeup
 wait
 stun
 step
+HD>
 skill_103122
 skill_102201
 skill_101101
@@ -1657,6 +1666,7 @@ wakeup
 wait
 stun
 step
+zD:
 skill_2313001
 	5	
 skill_23130
@@ -2202,6 +2212,10 @@ wakeup
 wait
 stun
 step
+DV1
+DZ2
+DD4
+Db4
 skill_224101
 skill_221103
 skill_221101
@@ -2596,6 +2610,7 @@ wakeup
 wait
 stun
 step
+HD(
 skill_184102
 skill_182101
 skill_181101
@@ -2679,7 +2694,6 @@ wakeup
 wait
 stun
 step
-zD.
 skill_184101
 skill_182101
 skill_181101
@@ -2970,7 +2984,6 @@ wakeup
 wait
 stun
 step
-HDB
 skill_183103
 skill_182101
 skill_181101
@@ -3012,6 +3025,7 @@ wakeup
 wait
 stun
 step
+HDj}
 skill_18310101
 skill_183101
 skill_182101
@@ -3097,7 +3111,6 @@ wait
 stun
 step
 &A	
-D&.
 %A	
 skill_164105
 skill_161201
@@ -3158,9 +3171,7 @@ down
 dead
 dash
 damage
-"Dzk
 charge_old
-"Djm
 charge
 back_step
 attack_3
@@ -3234,6 +3245,7 @@ wakeup
 wait
 stun
 step
+DbF
 skill_164104
 skill_161201
 skill_161102
@@ -3292,9 +3304,7 @@ down
 dead
 dash
 damage
-"DB
 charge_old
-"D2
 charge
 back_step
 attack_3
@@ -3340,8 +3350,8 @@ down
 dead
 dash
 damage
-"D:
 charge_old
+"Dz
 charge
 back_step
 attack_3
@@ -3386,9 +3396,7 @@ down
 dead
 dash
 damage
-"DV
 charge_old
-"DF
 charge
 back_step
 attack_3
@@ -3477,7 +3485,6 @@ dead
 dash
 damage
 charge_old
-"Dnb
 charge
 back_step
 attack_3
@@ -3522,9 +3529,7 @@ down
 dead
 dash
 damage
-"DB
 charge_old
-"D2
 charge
 back_step
 attack_3
@@ -3614,9 +3619,7 @@ down
 dead
 dash
 damage
-"DJ
 charge_old
-"D:
 charge
 back_step
 attack_3
@@ -3660,7 +3663,9 @@ down
 dead
 dash
 damage
+"DR
 charge_old
+"DB
 charge
 back_step
 attack_3
@@ -3691,7 +3696,6 @@ wait
 stun
 step
 r,	
-zDh
 skill_163101
 skill_161201
 skill_161102
@@ -3706,9 +3710,7 @@ down
 dead
 dash
 damage
-"DJ&
 charge_old
-"D:(
 charge
 back_step
 attack_3
@@ -3738,6 +3740,7 @@ wakeup
 wait
 stun
 step
+zD"
 skill_16310301
 skill_163103
 skill_161201
@@ -3753,7 +3756,9 @@ down
 dead
 dash
 damage
+"DN
 charge_old
+"D>
 charge
 back_step
 attack_3
@@ -3842,7 +3847,9 @@ down
 dead
 dash
 damage
+"D2>
 charge_old
+"D"
 charge
 back_step
 attack_3
@@ -3980,7 +3987,6 @@ dead
 dash
 damage
 charge_old
-"DN
 charge
 back_step
 attack_3
@@ -4011,6 +4017,7 @@ wait
 stun
 step
 skill_16310101
+zDh
 skill_163101
 skill_161201
 skill_161102
@@ -4025,6 +4032,7 @@ down
 dead
 dash
 damage
+"D:
 charge_old
 charge
 back_step
@@ -4055,7 +4063,6 @@ wakeup
 wait
 stun
 step
-zDFF
 skill_16310101
 skill_163101
 skill_161201
@@ -4115,9 +4122,7 @@ down
 dead
 dash
 damage
-"DN}
 charge_old
-"D>
 charge
 back_step
 attack_3
@@ -4206,8 +4211,8 @@ down
 dead
 dash
 damage
-"D.
 charge_old
+"Dnf
 charge
 back_step
 attack_3
@@ -4252,7 +4257,6 @@ dead
 dash
 damage
 charge_old
-"Dv
 charge
 back_step
 attack_3
@@ -4282,9 +4286,7 @@ wakeup
 wait
 stun
 step
-HDb
 skill_14410501
-HD>
 skill_144105
 skill_141202
 skill_141101
@@ -4331,7 +4333,6 @@ wakeup
 wait
 stun
 step
-zDV
 skill_144106
 skill_141202
 skill_141101
@@ -4377,7 +4378,7 @@ wakeup
 wait
 stun
 step
-aDv?
+aDd
 skill_144102
 skill_141201
 skill_141101
@@ -4514,6 +4515,7 @@ wakeup
 wait
 stun
 step
+DZG
 skill_144101
 skill_141201
 skill_141101
@@ -4560,6 +4562,7 @@ wakeup
 wait
 stun
 step
+zDjk
 skill_144106
 skill_141202
 skill_141101
@@ -4605,8 +4608,8 @@ wakeup
 wait
 stun
 step
-HD6
 skill_14410501
+HDb
 skill_144105
 skill_141202
 skill_141101
@@ -5018,7 +5021,6 @@ wakeup
 wait
 stun
 step
-FFR
 skill_141202
 skill_141201
 skill_141101
@@ -5381,7 +5383,6 @@ wakeup
 wait
 stun
 step
-D"b
 skill_124102
 skill_121202
 skill_121102
@@ -6178,7 +6179,8 @@ wakeup
 wait
 stun
 step
-HDF
+HD6
+HDD
 skill_104106
 skill_102201
 skill_101101
@@ -6263,8 +6265,6 @@ wakeup
 wait
 stun
 step
-zD>
-zDn
 skill_104101
 skill_102201
 skill_101101
@@ -6350,6 +6350,7 @@ wakeup
 wait
 stun
 step
+zDP/
 skill_104102
 skill_102201
 skill_101101
@@ -6561,7 +6562,6 @@ wait
 stun
 step
 m5	
-HD4V
 skill_103125
 skill_102202
 skill_101101
@@ -6604,7 +6604,6 @@ wakeup
 wait
 stun
 step
-Cjy
 skill_103124
 skill_102201
 skill_101101
@@ -6733,6 +6732,7 @@ wakeup
 wait
 stun
 step
+HDR
 skill_103122
 skill_102201
 skill_101101
@@ -9991,6 +9991,56 @@ wakeup
 wait
 stun
 step
+skill_6411401
+skill_64114
+skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+skill_61201
+parry
+parried
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_64114
+skill_62201
+skill_61201
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_64036
+An SAO player. Yuna loves singing. Her beautiful singing voice cheers up players in the death game. 
+serif
+5_yuna_65014
+Yuna
+[Sweet Idol Singer] Yuna
+walk
+wakeup
+wait
+stun
+step
 skill_6411201
 skill_64112
 skill_62202
@@ -10434,7 +10484,6 @@ wakeup
 wait
 stun
 step
-/DhW
 skill_64103
 skill_62101
 %&'
@@ -10577,6 +10626,56 @@ serif
 4_asuna_64001
 Asuna
 [The Will - changing the fate] Asuna
+walk
+wakeup
+wait
+stun
+step
+skill_6411401
+skill_64114
+skill_62201
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+%&'
+skill_61201
+parry
+parried
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_64114
+skill_62201
+skill_61201
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_64036
+An SAO player. Yuna loves singing. Her beautiful singing voice cheers up players in the death game. 
+serif
+5_yuna_65014
+Yuna
+[Sweet Idol Singer] Yuna
 walk
 wakeup
 wait

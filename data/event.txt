@@ -951,6 +951,10 @@ images/event/4029/4029_top.png
 images/event/4029/4029_banner.png
 images/event/4029/4029_banner.png
 Backed by the Cheer of My Daughter
+images/event/4028/4028_top.png
+images/event/4028/4028_banner.png
+images/event/4028/4028_banner.png
+Aincrad Idol Singer
 Medal Scout
 images/event/4027/4027_top_1.png
 images/event/4027/4027_banner_1.png

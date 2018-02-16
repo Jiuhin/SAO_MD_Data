@@ -14,17 +14,17 @@ slot_skill_icon_def_light_1
 Reduces damage from Holy-elem. enemies by 15%
 Holy Resistance Lv1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP & attack by 15%
-Battle Skill 3 Transform Lv. 1
-slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 12%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP & attack by 15%
-Battle Skill 3 Transform Lv. 1
+バトルスキル3が変化して、最大MPと攻撃力が10%増加する
+バトルスキル3変化 Lv1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+バトルスキル3が変化して、最大MPと攻撃力が12%増加する
+バトルスキル3変化 Lv1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
@@ -879,9 +879,6 @@ Battle Skill 2 Transform Lv. 1
 slot_skill_icon_ss_enhance_3_9
 Enhances Sword Skill 3. Becomes powerful. Increases stun and fastens the trigger of the combination skill.
 Sword Skill 3 Enhance Lv. 1
-slot_skill_icon_ss_enhance_3_1
-Enhances Sword Skill 3. Move behind an enemy to attack.
-Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_9
 Enhances Sword Skill 3. Reduces required MP.  Becomes powerful.
 Sword Skill 3 Enhance Lv. 1
@@ -1039,9 +1036,6 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Decrease enemies' defense greatly.
 Sword Skill 3 Enhance Lv. 1
-slot_skill_icon_ss_enhance_3_1
-Enhances Sword Skill 3. Enhance the effect of your increased speed.
-Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Decreases MP required. Adds more hits.
 Sword Skill 3 Enhance Lv. 1

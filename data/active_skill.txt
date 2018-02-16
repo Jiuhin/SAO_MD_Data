@@ -395,6 +395,10 @@ skill_icon_mace_3_{}
 Increase your attack and swing your club violently, delivering a blow with meteoric power.
 Meteor Impact+
 Meteor Impact+
+skill_icon_finesword_3_{}
+A combination skill. Perform a thrust after singing. Gives auto-recovery and a critical gain (temporalily) to all party members.
+Resonant Crescendo+
+Resonant Crescendo+
 skill_icon_automatic_gun_3_{}
 A combination skill. Holding a rocket launcher to shoot when kneeling down on one knee. Recovers HP automatically.
 Plasma Propelled Grenade
@@ -1906,6 +1910,10 @@ skill_icon_dagger_1_{}
 Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
+skill_icon_finesword_3_{}
+A combination skill. Perform a thrust after singing. Gives auto-recovery to all party members.
+Resonant Crescendo 
+Resonant Crescendo 
 skill_icon_finesword_3_{}
 A combination skill. Slash through an enemy's back and attack with some fresh cream. Recover your combination partner's HP and raise their critical damage.
 Sweet Cream

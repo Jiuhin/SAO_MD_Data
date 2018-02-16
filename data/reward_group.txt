@@ -281,6 +281,19 @@ A6D
 $6D
 "6D
 !6D
+UYA
+TYA
+SYA
+RYA
+QYA
+PYA
+OYA
+NYA
+MYA
+!XA
+[WA
+ZWA
+YWA
 !}?
 -{?
 &[?
@@ -336,6 +349,7 @@ Hh5
 Gh5
 Fh5
 Eh5
+-32
 }80
 {80
 z80

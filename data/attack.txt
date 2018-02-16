@@ -179,6 +179,7 @@ L>e3
 >e3
 QCG
 >e3
+QCG
 Ae3
 Ae3
 QCG
@@ -1333,6 +1334,7 @@ L>d3
 L>d3
 L>d3
 L>d3
+L>d3
 xDf3
 L>d3
 L>d3
@@ -1380,6 +1382,7 @@ b>Q
 a>Q
 >f3
 >d3
+L>d3
 m<Q
 L>d3
 	<Q

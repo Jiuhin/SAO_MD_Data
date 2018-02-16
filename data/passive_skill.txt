@@ -24,6 +24,8 @@ Skill Damage Rate -500 (Equipped One)
 Skill Damage Rate -500 (Equipped One)
 Zero damage received when enemy attacked.
 No damage received
+Attack of party members (OS characters) increases by 10% when you are a leader.
+P-Members' (OS characters) Atk +10% (P-Leader)
 Attack of party members (Wind-elem.) increases by 6% when you are a leader.
 P-Members' (Wind-elem.) Atk +6% (P-Leader)
 Attack of party members (Dark-elem.) increases by 6% when you are a leader.

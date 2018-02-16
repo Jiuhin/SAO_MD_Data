@@ -1,81 +1,86 @@
-4}	
-x{	
-,{	
-Lz	
-ty	
-,y	
-Lx	
-dw	
-0v	
-Lu	
-ds	
-pr	
-(r	
-lp	
-$p	
-8o	
-Pn	
-dk	
-4j	
-Xi	
-8h	
-Tg	
-hf	
-8e	
-Pd	
-hb	
-(a	
-x_	
-(_	
-X]	
-L[	
-lZ	
-<Y	
-dX	
-pU	
-$U	
-TS	
-lQ	
-0P	
-TO	
-4N	
-XL	
-lK	
-<J	
-PI	
-hH	
-,G	
-TF	
-0E	
-LD	
-lC	
-$C	
-LB	
-lA	
-P?	
-l>	
-4<	
-D9	
-l7	
-46	
-H5	
-h4	
-,3	
-H2	
-T1	
-<0	
-x.	
-,.	
-T-	
-0,	
-L+	
-0)	
-D(	
-P'	
-l%	
-D$	
-0"	
-H!	
+l}	
+4{	
+Xz	
+8y	
+Hx	
+tv	
+$v	
+<u	
+Xt	
+ls	
+4r	
+Tq	
+4p	
+Po	
+ln	
+$n	
+Lm	
+pl	
+$l	
+<k	
+Tj	
+pi	
+$i	
+4h	
+<g	
+Hf	
+Dd	
+dc	
+pb	
+$b	
+<a	
+l_	
+L]	
+<[	
+0Y	
+TX	
+4W	
+PV	
+dU	
+4T	
+LS	
+dQ	
+xP	
+$P	
+HO	
+tN	
+(N	
+8M	
+PL	
+dK	
+xJ	
+,J	
+HI	
+xG	
+$G	
+DF	
+lE	
+$E	
+<B	
+D?	
+,<	
+P:	
+t9	
+49	
+d8	
+45	
+03	
+D2	
+,0	
+</	
+D.	
+X-	
+p,	
+(,	
+T+	
+x(	
+,(	
+T'	
+0&	
+L%	
+D"	
+P!	
+0		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -1140,11 +1145,11 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
-400イベントpt
+400EP
 	8)t
-250イベントpt
+250EP
 _	8(t
-150イベントpt
+150EP
 [	8
 Valentine's Day Gold Medal x1
 U[	8
@@ -1161,6 +1166,10 @@ aY	8
 Valentine's Day Gold Medal x1
 X	8
 Steel, Break, Helpless
+X	8
+Song of Diva
+5X	8
+Aincrad Idol Singer
 W	8
 Memory Diamond x10
 mW	8
@@ -8650,6 +8659,132 @@ Girl's Treats x5
 Girl's Treats x4
 Girl's Treats x3
 Girl's Treats x2
+Idol Singer's Hacking Crystal x25
+Idol Singer's Hacking Crystal x10
+Lv. 80 Idol Singer's Key x1
+Lv. 70 Idol Singer's Key x1
+Lv. 60 Idol Singer's Key x1
+Lv. 50 Idol Singer's Key x1
+Lv. 40 Idol Singer's Key x1
+Lv. 30 Idol Singer's Key x1
+Lv. 20 Idol Singer's Key x1
+Lv. 10 Idol Singer's Key x1
+UYA
+UYA
+Idol Singer's Hacking Shard x15
+TYA
+TYA
+Idol Singer's Hacking Shard x10
+SYA
+SYA
+Idol Singer's Instrument (L) x10
+RYA
+RYA
+Idol Singer's Instrument (M) x20
+QYA
+QYA
+Idol Singer's Instrument (M) x15
+PYA
+PYA
+Idol Singer's Instrument (M) x10
+OYA
+OYA
+Idol Singer's Instrument (S) x30
+NYA
+NYA
+Idol Singer's Instrument (S) x20
+MYA
+MYA
+Idol Singer's Instrument (S) x15
+Idol Singer's Upgrade Crystal  x2
+Idol Singer's Upgrade Crystal  x1
+Idol Singer's Instrument (L) x5
+Idol Singer's Instrument (M) x23
+Idol Singer's Instrument (S) x30
+!XA
+!XA
+Idol Singer's Instrument (L) x4
+!XA
+Idol Singer's Instrument (M) x17
+!XA
+Idol Singer's Instrument (S) x26
+Holy Idol Singer's Hacking Crystal x7
+Idol Singer's Hacking Crystal x9
+Idol Singer's Hacking Shard x5
+Idol Singer's Instrument (L) x3
+Idol Singer's Instrument (M) x12
+Idol Singer's Instrument (S) x17
+Holy Idol Singer's Hacking Crystal x1
+[WA
+[WA
+Idol Singer's Hacking Crystal x1
+ZWA
+ZWA
+Idol Singer's Hacking Shard x1
+YWA
+YWA
+Idol Singer's Instrument (L) x1
+YWA
+Idol Singer's Instrument (M) x4
+YWA
+Idol Singer's Instrument (S) x6
+Idol Singer's Instrument (L) x1
+Idol Singer's Instrument (M) x3
+Idol Singer's Instrument (S) x4
+Holy Idol Singer's Hacking Crystal x9
+Holy Idol Singer's Hacking Crystal x8
+Holy Idol Singer's Hacking Crystal x7
+Holy Idol Singer's Hacking Crystal x6
+Holy Idol Singer's Hacking Crystal x5
+Holy Idol Singer's Hacking Crystal x4
+Holy Idol Singer's Hacking Crystal x3
+Holy Idol Singer's Hacking Crystal x2
+Holy Idol Singer's Hacking Crystal x1
+Idol Singer's Hacking Crystal x9
+Idol Singer's Hacking Crystal x8
+Idol Singer's Hacking Crystal x7
+Idol Singer's Hacking Crystal x6
+Idol Singer's Hacking Crystal x5
+Idol Singer's Hacking Crystal x4
+Idol Singer's Hacking Crystal x3
+Idol Singer's Hacking Crystal x2
+Idol Singer's Hacking Crystal x1
+Idol Singer's Hacking Shard x9
+Idol Singer's Hacking Shard x8
+Idol Singer's Hacking Shard x7
+Idol Singer's Hacking Shard x6
+Idol Singer's Hacking Shard x5
+Idol Singer's Hacking Shard x4
+Idol Singer's Hacking Shard x3
+Idol Singer's Hacking Shard x2
+Idol Singer's Hacking Shard x1
+Idol Singer's Instrument (L) x9
+Idol Singer's Instrument (L) x8
+Idol Singer's Instrument (L) x7
+Idol Singer's Instrument (L) x6
+Idol Singer's Instrument (L) x5
+Idol Singer's Instrument (L) x4
+Idol Singer's Instrument (L) x3
+Idol Singer's Instrument (L) x2
+Idol Singer's Instrument (L) x1
+Idol Singer's Instrument (M) x9
+Idol Singer's Instrument (M) x8
+Idol Singer's Instrument (M) x7
+Idol Singer's Instrument (M) x6
+Idol Singer's Instrument (M) x5
+Idol Singer's Instrument (M) x4
+Idol Singer's Instrument (M) x3
+Idol Singer's Instrument (M) x2
+Idol Singer's Instrument (M) x1
+Idol Singer's Instrument (S) x9
+Idol Singer's Instrument (S) x8
+Idol Singer's Instrument (S) x7
+Idol Singer's Instrument (S) x6
+Idol Singer's Instrument (S) x5
+Idol Singer's Instrument (S) x4
+Idol Singer's Instrument (S) x3
+Idol Singer's Instrument (S) x2
+Idol Singer's Instrument (S) x1
 MT-
 Cookware Hacking Crystal x1
 Cookware Hacking Shard x6
@@ -9993,6 +10128,35 @@ Hina Doll's Kimono R2
 Kanzashi of Spring Breeze R3
 zN/
 Kanzashi of Spring Breeze R2
+-32
+-32
+[Sweet Idol Singer] Yuna
+Lv. 90 Idol Singer's Key x1
+Lv. 80 Idol Singer's Key x1
+Lv. 70 Idol Singer's Key x1
+Lv. 60 Idol Singer's Key x1
+Lv. 50 Idol Singer's Key x1
+Lv. 40 Idol Singer's Key x1
+Lv. 30 Idol Singer's Key x1
+Lv. 20 Idol Singer's Key x1
+Lv. 10 Idol Singer's Key x1
+Holy Idol Singer's Hacking Crystal x25
+Idol Singer's Hacking Crystal x100
+Idol Singer's Hacking Crystal x50
+Idol Singer's Hacking Shard x200
+Idol Singer's Hacking Shard x200
+Idol Singer's Hacking Shard x100
+Idol Singer's Hacking Shard x50
+Idol Singer's Instrument (L) x100
+Idol Singer's Instrument (L) x30
+Idol Singer's Instrument (L) x20
+Idol Singer's Instrument (M) x250
+Idol Singer's Instrument (M) x80
+Idol Singer's Instrument (M) x60
+Idol Singer's Instrument (M) x50
+Idol Singer's Instrument (S) x300
+Idol Singer's Instrument (S) x100
+Idol Singer's Instrument (S) x50
 Ogre Mace R3
 Ogre Mace R2
 qE_

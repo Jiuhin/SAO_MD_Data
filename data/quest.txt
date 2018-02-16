@@ -5320,19 +5320,19 @@ Be careful when they generate heat.
 Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
-bg_thumbnail_4018
+bg_thumbnail_4020
 Quest 9
 Final Battle
 pE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 8
 Parting
 oE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 7
 Liz's Concern
 nE>
@@ -5344,7 +5344,7 @@ Unexpected Encounter
 mE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 5
 Desperate Situation
 lE>
@@ -5356,13 +5356,13 @@ Kureha and ArFA-sys
 kE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 3
 Buying Time
 jE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 2
 Sign of the enemy
 iE>
@@ -10344,6 +10344,46 @@ Story
 bg_thumbnail_0
 Story 1
 Yui's Question
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 5
+Aincrad Idol Singer (Master+1)
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 4
+Aincrad Idol Singer (Master)
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 3
+Aincrad Idol Singer (EX)
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 2
+Aincrad Idol Singer (Expert)
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 1
+Aincrad Idol Singer (Int.)
 Here in OS the grudging Samurai Soul is back.
 Repulse the ghost snake shots to 
 take down the renegade!
@@ -17870,19 +17910,19 @@ Be careful when they generate heat.
 Keep distance while fighting the battle!
 Defeat All Enemies
 Quest
-bg_thumbnail_4018
+bg_thumbnail_4020
 Quest 9
 Final Battle
 pE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 8
 Parting
 oE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 7
 Liz's Concern
 nE>
@@ -17894,7 +17934,7 @@ Unexpected Encounter
 mE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 5
 Desperate Situation
 lE>
@@ -17906,13 +17946,13 @@ Kureha and ArFA-sys
 kE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 3
 Buying Time
 jE>
 Defeat All Enemies
 Quest
-bg_thumbnail_4019
+bg_thumbnail_4020
 Quest 2
 Sign of the enemy
 iE>
@@ -22894,6 +22934,46 @@ Story
 bg_thumbnail_0
 Story 1
 Yui's Question
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 5
+Aincrad Idol Singer (Master+1)
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 4
+Aincrad Idol Singer (Master)
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 3
+Aincrad Idol Singer (EX)
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 2
+Aincrad Idol Singer (Expert)
+The Flame Eyes appears in the cloister.
+Watch for a good chance to parry an attack 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8041
+Quest 1
+Aincrad Idol Singer (Int.)
 Here in OS the grudging Samurai Soul is back.
 Repulse the ghost snake shots to 
 take down the renegade!

@@ -91,6 +91,52 @@ Raises stats for
 [Hide-and-seek Girl] Sphica
 Girl's Treats
 Unlocks lv. 90+ attributes for
+[Sweet Idol Singer] Yuna
+Lv. 90 Idol Singer's Key
+Unlocks lv. 80+ attributes for
+[Sweet Idol Singer] Yuna
+Lv. 80 Idol Singer's Key
+Unlocks lv. 70+ attributes for
+[Sweet Idol Singer] Yuna
+Lv. 70 Idol Singer's Key
+Unlocks lv. 60+ attributes for
+[Sweet Idol Singer] Yuna
+Lv. 60 Idol Singer's Key
+Unlocks lv. 50+ attributes for
+[Sweet Idol Singer] Yuna
+Lv. 50 Idol Singer's Key
+Unlocks lv. 40+ attributes for
+[Sweet Idol Singer] Yuna
+Lv. 40 Idol Singer's Key
+Unlocks lv. 30+ attributes for
+[Sweet Idol Singer] Yuna
+Lv. 30 Idol Singer's Key
+Unlocks lv. 20+ attributes for
+[Sweet Idol Singer] Yuna
+Lv. 20 Idol Singer's Key
+Unlocks lv. 10+ attributes for
+[Sweet Idol Singer] Yuna
+Lv. 10 Idol Singer's Key
+Raises a character's level cap.
+[Sweet Idol Singer] Yuna
+Holy Idol Singer's Hacking Crystal
+Raises a character's level cap.
+[Sweet Idol Singer] Yuna
+Idol Singer's Hacking Crystal
+Raises a character's level cap.
+[Sweet Idol Singer] Yuna
+Idol Singer's Hacking Shard
+Raises stats for
+[Sweet Idol Singer] Yuna
+Idol Singer's Instrument (L)
+Raises stats for
+[Sweet Idol Singer] Yuna
+Idol Singer's Instrument (M)
+L>2
+Raises stats for
+[Sweet Idol Singer] Yuna
+Idol Singer's Instrument (S)
+Unlocks lv. 90+ attributes for
 [Queen of chef] Rechka
 Lv. 90 Cookware Key
 Unlocks lv. 80+ attributes for
@@ -671,6 +717,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain in the "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20012
+Upgrades character
+([Sweet Idol Singer] Yuna only) 
+Rarity: High
+Idol Singer's Upgrade Crystal 
 item_m_evolution_20011
 Upgrades character
 ([Spirited Chocolatier] Philia only) 
@@ -735,6 +786,9 @@ At the Exchange Shop, exchangeable with Medallions and so on.
 Stardust (Medium)
 At the Exchange Shop, exchangeable with various equipment and so on.
 Stardust (Small)
+Unlocks skill slots.
+Rarity: Very High
+Butterfly Medallion 
 Unlocks skill slots.
 Rarity: Very High
 Memorial Medallion

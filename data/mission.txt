@@ -168,10 +168,10 @@ Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
 8037005,3,45
-Complete "Guardolf Returns (Master +1)" with guild members in Multi under 45 seconds.
+Complete "Guardolf Returns (Master +1)" with guild members in Multi in under 45 seconds.
 H}C
 8037004,3,45
-Complete "Guardolf Returns (Master)" with guild members in Multi under 45 seconds.
+Complete "Guardolf Returns (Master)" with guild members in Multi in under 45 seconds.
 8037003,3
 Complete "Guardolf Returns (EX)" with guild members in Multi.
 J{C
@@ -983,18 +983,18 @@ Complete "Blade Arbiter (Holy) (Master+1)" with a dual blades character.
 Complete Part 1 (Holy) & Part 2 (Earth) of "Blade Arbiter (Master)" with an A+ rank.
 4704021+4704022,1,1
 Complete Part 1 (Holy) & Part 2 (Earth) of "Blade Arbiter (Master)" with an S rank.
-4704016,1,300
-Complete "Blade Arbiter (Wind) (Master +1)" with a 5 min or more remaining time.
-4704015,1,260
-Complete "Blade Arbiter (Water) (Master +1)" with a 4 min 20 sec or more remaining time.
 4704016,1,240
 Complete "Blade Arbiter (Wind) (Master +1)" with a 4 min or more remaining time.
-4704015,1,220
-Complete "Blade Arbiter (Water) (Master +1)" with a 3 min 40 sec or more remaining time.
-4704014,1,220
-Complete "Blade Arbiter (Wind) (Master)" with a 3 min 40 sec or more remaining time.
-4704013,1,200
-Complete "Blade Arbiter (Water) (Master)" with a 3 min 20 sec or more remaining time.
+4704015,1,210
+Complete "Blade Arbiter (Water) (Master +1)" with a 3 min 30 sec or more remaining time.
+4704016,1,230
+Complete "Blade Arbiter (Wind) (Master +1)" with a 3 min 50 sec or more remaining time.
+4704015,1,190
+Complete "Blade Arbiter (Water) (Master +1)" with a 3 min 10 sec or more remaining time.
+4704014,1,230
+Complete "Blade Arbiter (Wind) (Master)" with a 3 min 50 sec or more remaining time.
+4704013,1,190
+Complete "Blade Arbiter (Water) (Master)" with a 3 min 10 sec or more remaining time.
 4704015,1,5,1
 Complete "Blade Arbiter (Water) (Master+1)" with a mace character.
 4704013+4704014,1,2
@@ -2037,6 +2037,28 @@ Earn a score of 2,250,000 in the "Backed by the Cheer of My Daughter" Raning eve
 Complete "13-2 Voices of Support in Despair (Master+1)".
 4029009
 Complete "8-2 Voices of Support in Despair".
+Jw%
+1190112-1190113-1190114-1190115-1190116,50
+Defeat 50 of The Flame Eyes from "Aincrad Idol Singer" in the guild. 
++v%
+4028025,2
+Complete "Aincrad Idol Singer (Master +1)" without down.
+/u%
+4028025
+Complete "Aincrad Idol Singer (Master +1)".
++t%
+4028024,2
+Complete "Aincrad Idol Singer (Master)" without down.
+/s%
+4028024
+Complete "Aincrad Idol Singer (Master)".
+/r%
+4028023
+Complete "Aincrad Idol Singer (EX)".
+/q%
+-32
+4028021
+Complete "Aincrad Idol Singer (Int.)".
 402702,800000
 Earn a score of 800,000 in the "OS Episode 0" Raning event.
 402702,1200000

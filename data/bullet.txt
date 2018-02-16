@@ -1570,6 +1570,7 @@ JzP
 JzP
 JzP
 JzP
+pAl
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -2815,6 +2816,8 @@ dead
 bullet_3019_casting
 dead
 bullet_3019_casting
+dead
+bullet_3019_casting
 wait
 bullet_3018_aqua_wave
 wait
@@ -3690,6 +3693,12 @@ dead
 bullet_1999_damage
 dead
 bullet_1999_damage
+wait
+bullet_1141_bullet_magiccircle_0502
+wait
+bullet_1141_bullet_magiccircle_0502
+dead
+bullet_1140_bullet_magiccircle_0501
 dead
 bullet_1137_gunners_rosario_mark_left
 dead
@@ -5034,6 +5043,12 @@ wait
 bullet_1009_bow_attack
 wait
 bullet_1009_bow_attack
+appear
+bullet_1008_lazer_rifel
+appear
+bullet_1008_lazer_rifel
+appear
+bullet_1008_lazer_rifel
 wait
 appear
 bullet_1008_lazer_rifel
