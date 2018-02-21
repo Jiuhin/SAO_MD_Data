@@ -1,89 +1,92 @@
-<}	
-<{	
-Xz	
-ty	
-,y	
-Tx	
-xw	
-,w	
-Dv	
-xt	
-,t	
-<s	
-Dr	
+x{	
+,{	
+Pz	
+0y	
+<x	
+Tw	
+hv	
+8u	
+Lt	
+ds	
+xr	
+(r	
 Pq	
-hp	
-Lo	
-ln	
-xm	
-,m	
-Dl	
-Tk	
-tj	
-(j	
-<i	
-Th	
-dg	
+xp	
+,p	
+Ho	
+hn	
+Hm	
+hl	
+0k	
+Lj	
+hi	
+xh	
+(h	
+0g	
 Df	
-he	
-8d	
-<b	
-Xa	
-<_	
-d]	
-,[	
-PZ	
-0Y	
-XW	
-lV	
-4U	
-PT	
-dS	
-,R	
-LQ	
-tP	
-,P	
-HO	
-dN	
-DM	
-hL	
-4K	
-LJ	
-hI	
-,H	
-4G	
+hb	
+0a	
+d_	
+D]	
+8[	
+XZ	
+tY	
+(Y	
+PX	
+xW	
+,W	
+HV	
+xT	
+,T	
+LR	
+XQ	
+hP	
+xN	
+0N	
+XM	
+tL	
+(L	
+HK	
+pJ	
+(J	
+HI	
+xG	
+,G	
+HF	
 XE	
-<D	
 lC	
 $C	
-HB	
-dA	
-d?	
-8>	
-h<	
-D:	
-L9	
-x7	
-07	
-D5	
-d4	
-43	
-81	
-T0	
-h/	
-8.	
-L-	
-X,	
+<B	
+hA	
+t?	
+(?	
+D>	
+H<	
+x:	
+,:	
+H9	
+p7	
+x6	
+(6	
+85	
+H3	
+p2	
+(2	
+D1	
+d.	
+0-	
+H,	
 d+	
-L)	
+0)	
 <(	
-d'	
-4&	
-T%	
-4$	
-l"	
-8!	
-T 	
+T'	
+x&	
+8&	
+h%	
+D$	
+8"	
+4 	
+8		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -663,6 +666,7 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+Amour Fleche R4
 Lucia G-F-1 R3
 Black Soaring Coat R4
 Kureha's Leg Purse R3
@@ -3283,6 +3287,53 @@ m2E
 Col x50000
 m2E
 EXP Potion x10
+Void Medallion x5
+Skill Shard x50
+Critical Shard x50
+Defense Shard x50
+Attack Shard x50
+MP Shard x50
+HP Shard x50
+Skill Crystal x30
+Critical Crystal x30
+Defense Crystal x30
+Attack Crystal x30
+MP Crystal x30
+HP Crystal x30
+Holy Skill Crystal x10
+Holy Critical Crystal x10
+Holy Defense Crystal x10
+Holy Attack Crystal x10
+Holy MP Crystal x10
+Holy HP Crystal x10
+The Maze Solver
+Col x100000
+Stardust (Medium) x250
+Rainbow Essence x1
+Memory Fragment x1
+Void Medallion x3
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Skill Crystal x10
+Critical Crystal x10
+Defense Crystal x10
+Attack Crystal x10
+MP Crystal x10
+HP Crystal x10
+Holy Skill Crystal x5
+Holy Critical Crystal x5
+Holy Defense Crystal x5
+Holy Attack Crystal x5
+Holy MP Crystal x5
+Holy HP Crystal x5
+The Quester in the Evil Labyrinth
+Col x50000
+Stardust (Medium) x150
+Memory Fragment x1
 2.L
 EXP Potion x5
 2.L

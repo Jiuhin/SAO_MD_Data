@@ -1320,6 +1320,12 @@ TBD
 Steel Chest Plate R1
 armor01_0001
 TBD
+Divine Shiner +1 R5
+weapon09_0022
+TBD
+Divine Shiner +1 R4
+weapon09_0022
+TBD
 Balloon Lance R5
 weapon09_0019
 TBD
@@ -1644,11 +1650,20 @@ TBD
 Small Rod R1
 weapon08_0001
 TBD
+Rain-making Long Bow +1 R5
+weapon07_0038
+TBD
+Rain-making Long Bow +1 R4
+weapon07_0038
+TBD
 Cupid's Passion +1 R5
 weapon07_0036
 TBD
 Cupid's Passion +1 R4
 weapon07_0036
+TBD
+Amour Fleche R4
+weapon07_0035
 TBD
 Exorcism R5
 weapon07_0033
@@ -2594,6 +2609,12 @@ TBD
 Light Dagger R1
 weapon04_0001
 TBD
+Gemini Gradius+2 R5
+weapon03_0066
+TBD
+Gemini Gradius+2 R4
+weapon03_0066
+TBD
 Treasured Rapier +1 R5
 weapon03_0061
 TBD
@@ -3111,6 +3132,12 @@ TBD
 Dual Short Swords 
 2 R1
 weapon02_0001
+TBD
+Fragrant Olive Sword +2 R5
+weapon01_0122
+TBD
+Fragrant Olive Sword +2 R4
+weapon01_0122
 TBD
 Epee Ruban R5
 weapon01_0115

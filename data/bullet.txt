@@ -1,7 +1,11 @@
-4y	
-<B	
-d5	
-h&	
+tX	
+hL	
+t:	
+P8	
+,6	
+x+	
+T)	
+0'	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -27,6 +31,8 @@ dead
 bullet_910001_single_dummy
 dead
 bullet_910001_single_dummy
+dead
+bullet_900002_impact_point
 bullet_900001_drain
 bullet_900001_drain
 bullet_900001_drain
@@ -1564,7 +1570,6 @@ JzP
 JzP
 JzP
 JzP
-Alq
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -1579,6 +1584,7 @@ JzP
 JzP
 JzP
 JzP
+A4k
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -2670,6 +2676,8 @@ ground
 dead
 appear
 bullet_3034_sonic_spike
+dead
+bullet_3033_umbrella_rain
 dead
 bullet_3033_umbrella_rain
 bullet_3032_hydrangea
@@ -4329,6 +4337,8 @@ wait
 ground
 dead
 bullet_1077_broken_weapon_1
+dead
+bullet_1076_dragon_fly_away
 dead
 bullet_1076_dragon_fly_away
 dead

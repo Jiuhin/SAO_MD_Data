@@ -566,6 +566,10 @@ images/event/dummy/dummy_top.png
 images/event/4601/4601_banner.png
 images/event/4601/4601_banner.png
 Bullet of Bullets
+images/event/4082/4082_top.png
+images/event/4082/4082_banner.png
+images/event/4082/4082_banner.png
+The Evil Labyrinth
 Medal Scout
 images/event/4081/4081_top.png
 images/event/4081/4081_banner.png

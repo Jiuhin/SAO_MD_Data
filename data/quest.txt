@@ -5263,6 +5263,105 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+]I>
+Enemy Lv: 120
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :25
+Enemy Lv: 120
+Better for: Water
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :23 
+[I>
+Enemy Lv: 110
+Better for: Strike
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :21 
+ZI>
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :19 
+YI>
+Enemy Lv: 100
+Better for: Thrust
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :16 
+XI>
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2002
+Floor :15
+WI>
+Enemy Lv: 100
+Better for: Strike
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :13 
+VI>
+Enemy Lv: 80
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :11 
+UI>
+Enemy Lv: 80
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :10
+TI>
+Enemy Lv: 90
+Better for: Thrust
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :8 
+SI>
+Enemy Lv: 80
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :6 
+RI>
+Enemy Lv: 80
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :4 
+QI>
+Enemy Lv: 80
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :1 
 wE>
 Angry Berserker makes an assault!
 Be careful when they generate heat. 
@@ -17829,6 +17928,105 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+]I>
+Enemy Lv: 120
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :25
+Enemy Lv: 120
+Better for: Water
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :23 
+[I>
+Enemy Lv: 110
+Better for: Strike
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :21 
+ZI>
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :19 
+YI>
+Enemy Lv: 100
+Better for: Thrust
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :16 
+XI>
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2002
+Floor :15
+WI>
+Enemy Lv: 100
+Better for: Strike
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :13 
+VI>
+Enemy Lv: 80
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :11 
+UI>
+Enemy Lv: 80
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :10
+TI>
+Enemy Lv: 90
+Better for: Thrust
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :8 
+SI>
+Enemy Lv: 80
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :6 
+RI>
+Enemy Lv: 80
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :4 
+QI>
+Enemy Lv: 80
+Appears: Non-Attr.
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :1 
 wE>
 Angry Berserker makes an assault!
 Be careful when they generate heat. 

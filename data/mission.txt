@@ -1173,6 +1173,51 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4082001+4082002+4082003+4082004+4082005+4082006+4082007+4082008+4082009+4082010+4082011+4082012+4082013,1,1
+Complete all the 1-25F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
+4082006+4082007+4082008+4082009+4082010+4082011+4082012+4082013,1,1
+Complete all the 11-25F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
+4082001+4082002+4082003+4082004+4082005,1,1
+Complete all the 1-10F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
+4082013,1,100
+Complete the 25F at the QT Point Clearing Event "The Evil Labyrinth" with a 100+ hit combo
+4082010,1,45
+Complete the 19-20F at the QT Point Clearing Event "The Evil Labyrinth" in under 45 sec.
+4082008,1,45
+Complete the 15F at the QT Point Clearing Event "The Evil Labyrinth" in under 45 sec.
+4082005,1,60
+Complete the 10F at the QT Point Clearing Event "The Evil Labyrinth" with a 60+ hit combo
+4082002,1,45
+Complete the 4-5F at the QT Point Clearing Event "The Evil Labyrinth" in under 45 sec.
+4082013,1
+Complete the 25F at the QT Point Clearing Event "The Evil Labyrinth" without down.
+4082012,1,1
+Complete the 23-24F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
+4082011,1,11,1
+Complete the 21-22F at the QT Point Clearing Event "The Evil Labyrinth" with a Automatic Rifle character.
+4082010,1
+Complete the 19F-20F at the QT Point Clearing Event "The Evil Labyrinth" without down.
+4082010,1,1
+Complete the 19F-20F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
+4082009,1,7,1
+Complete the 16-18F at the QT Point Clearing Event "The Evil Labyrinth" with a bow character.
+4082008,1
+Complete the 15F at the QT Point Clearing Event "The Evil Labyrinth" without down.
+4082007,1,11,1
+Complete the 13-14F at the QT Point Clearing Event "The Evil Labyrinth" with a Automatic Rifle character.
+4082006,1,1
+Complete the 11-12F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
+4082005,1
+Complete the 10F at the QT Point Clearing Event "The Evil Labyrinth" without down.
+4082004,1,7,1
+Complete the 8-9F at the QT Point Clearing Event "The Evil Labyrinth" with a bow character.
+4082003,1,1
+Complete the 6-7F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
+4082002,1
+Complete the 4-5F at the QT Point Clearing Event "The Evil Labyrinth
+without down.
+4082001,1,1
+Complete the 1-3F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
 >,:
 4081015,1,150
 Complete "Steel, Break, Helpless (Master +2)" with a 150+ hit combo

@@ -1524,7 +1524,8 @@ You get to parry as you flick the screen or
 　　　(Focus Attacks won't activate by flicking
 　　　  while charging attacks.)
 　Automatic Rifle
-You get to parry as you do a long press and flick the screen when attacking. 
+You get to parry as you do a long press
+　　　 and flick the screen when attacking. 
 　When the enemy's eyes glow red, that's your
 　chance! Switching characters the
 　moment the parry succeeds will cause

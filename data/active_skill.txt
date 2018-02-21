@@ -43,6 +43,10 @@ A sword skill. Shoots arrows towards the sky and shower them with the arrows. Re
 Graceful Wind+
 Graceful Wind+
 skill_icon_bow_3_{}
+Restores HP and reduces damage received temporarily. It dumps umbrellas with magical power.
+Rain of Umbrella+
+Rain of Umbrella+
+skill_icon_bow_3_{}
 Appears behind the enemy and attacks using her equipment as a whip. Activates an attack-invalidating barrier. Increases own attack and speed.
 Shining on Stage+
 Shining on Stage+
@@ -293,6 +297,10 @@ skill_icon_sword_3_{}
 A sword skill that delivers powerful combo taught by her daddy, increasing attack of all party members by cheering.
 Bravery Slash+
 Bravery Slash+
+skill_icon_sword_3_{}
+Release the hidden memory of "Fragrant Olive Sword", and change the blade into thousands of Golden Flowers. Regenerates HP and raise ATK.
+Release Recollection+
+Fragrant Olive Sword+
 skill_icon_sword_3_{}
 Move to the back of an enemy and emit a heart-shaped shock wave from your blade and lower the enemy's defense with this sword skill. Resores your HP.
 Radiant Heart+2

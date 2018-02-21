@@ -40,9 +40,9 @@ Character Introduction: Asuna
 Character Introduction Story
 [Angel Cheer] Yui
 Character Introduction: Yui
-Character Introduction Story
-[Hero's return] Kirito
-Character Introduction: Kirito
+Event Story
+ORDINAL SCALE Another Stage
+[Hero's return] Kirito Lv.10
 Character Introduction Story
 [Platonic Love] Silica
 Character Introduction: Silica
