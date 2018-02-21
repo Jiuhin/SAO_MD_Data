@@ -1911,7 +1911,7 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
-A combination skill. Perform a thrust after singing. Gives auto-recovery to all party members.
+A sword skill. Perform a thrust after singing. Gives auto-recovery to all party members.
 Resonant Crescendo 
 Resonant Crescendo 
 skill_icon_finesword_3_{}

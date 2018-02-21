@@ -1,9 +1,7 @@
-PL	
-t0	
-P.	
-,,	
-x!	
-(		
+4y	
+<B	
+d5	
+h&	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -182,6 +180,8 @@ bullet_7026_musoyonjin_2
 wait
 appear
 bullet_7025_musoyonjin_1
+dead
+bullet_7024_nue_lightning
 Kc 
 dead
 bullet_7024_nue_lightning
@@ -777,6 +777,7 @@ wait
 ground
 dead
 bullet_7001_dement_shot
+bullet_6066_extensive_flame
 &A	
 wait
 bullet_6065_effect_hula_hoop
@@ -1563,6 +1564,7 @@ JzP
 JzP
 JzP
 JzP
+Alq
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -1570,7 +1572,6 @@ JzP
 JzP
 JzP
 JzP
-pAl
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -1725,6 +1726,7 @@ bullet_5019_balloon
 dead
 bullet_5019_balloon
 wait
+dead
 appear
 bullet_5017_osmanthus
 wait
@@ -3694,9 +3696,16 @@ bullet_1999_damage
 dead
 bullet_1999_damage
 wait
+appear
+bullet_1998_invisible_damage
+wait
 bullet_1141_bullet_magiccircle_0502
 wait
 bullet_1141_bullet_magiccircle_0502
+wait
+dead
+bullet_1140_bullet_magiccircle_0501
+wait
 dead
 bullet_1140_bullet_magiccircle_0501
 dead
@@ -4616,6 +4625,10 @@ wait
 bullet_1035_gullinkambi_charge
 wait
 bullet_1035_gullinkambi_charge
+wait
+bullet_1035_gullinkambi_charge
+wait
+bullet_1035_gullinkambi_charge
 bvP
 bvP
 bvP
@@ -5043,10 +5056,13 @@ wait
 bullet_1009_bow_attack
 wait
 bullet_1009_bow_attack
+wait
 appear
 bullet_1008_lazer_rifel
+wait
 appear
 bullet_1008_lazer_rifel
+wait
 appear
 bullet_1008_lazer_rifel
 wait

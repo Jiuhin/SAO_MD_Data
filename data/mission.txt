@@ -2024,11 +2024,6 @@ Earn a score of 1,750,000 in the "Demon conquer of Alfheim" Raning event.
 Complete "Demon Conquerors (Master)".
 4031009
 Complete "Demon Conquerors".
-4030024,2,60
-Complete "The stage and a cat fairy. (Master)" in under 1 minute.
-/9&
-4030024
-Complete "The stage and a cat fairy. (Master)".
 402901,1600000
 Earn a score of 1,600,000 in the "Backed by the Cheer of My Daughter" Raning event.
 402901,2250000

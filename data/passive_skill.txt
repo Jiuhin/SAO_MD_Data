@@ -72,6 +72,8 @@ Increases attack and critical by 3% when equipped by OS Characters.
 Atk&Crit. +3% (OS Character)
 Increases HP and MP by 3% when equipped by OS Characters.
 HP&MP +3% (OS Character)
+Increases attack by 10% when equipped by OS Characters.
+Atk +10% (OS Character)
 Increases attack and critical by 3% when equipped by GGO Characters.
 Atk&Crit. +3% (GGO Character)
 Increases Crit. by 10% when equipped by Alice.
@@ -92,6 +94,8 @@ Increases attack by 10% when equipped by Seven.
 Atk +10% (Seven)
 Increases attack by 10% when equipped by Rain.
 Atk +10% (Rain)
+Increases attack by 10% when equipped by Philia.
+Atk +10% (Philia)
 Increases attack by 10% when equipped by Strea.
 Atk +10% (Strea)
 Increases attack by 3% when equipped by Lisbeth.
@@ -680,6 +684,8 @@ Increases Water-elem. character's defense by 6%.
 Def. +6% (Water)
 Reduces Water-elem. character's Required MP by -10%, increases Critical damage by 10%
 Required MP -10% / Critical damage +10% (Water)
+Reduces Water-elem. character's Required MP by -10%.
+Required MP -10% (Water)
 Increases Water-elem. character's MP & def. by 3%.
 MP & Def. +3% (Water)
 Increases Water-elem. character's attack by 3%.

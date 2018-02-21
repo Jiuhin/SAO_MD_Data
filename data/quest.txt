@@ -10160,30 +10160,6 @@ Story
 bg_thumbnail_0
 Story 1
 Samurai Klein
-Attack the Cursed Doll from behind with your teammates and get Hishimochi!!
-Defeat All Enemies
-Quest
-bg_thumbnail_2014
-Quest 4
-The stage and a cat fairy (Master)
-Attack the Cursed Doll from behind with your teammates and get Hishimochi!!
-Defeat All Enemies
-Quest
-bg_thumbnail_2014
-Quest 3
-The stage and a cat fairy (EX)
-Attack the Cursed Doll from behind with your teammates and get Hishimochi!!
-Defeat All Enemies
-Quest
-bg_thumbnail_2014
-Quest 2
-The stage and a cat fairy (Expert)
-Attack the Cursed Doll from behind with your teammates and get Hishimochi!!
-Defeat All Enemies
-Quest
-bg_thumbnail_2014
-Quest 1
-The stage and a cat fairy (Int.)
 Finish Story
 Story
 bg_thumbnail_0
@@ -22750,30 +22726,6 @@ Story
 bg_thumbnail_0
 Story 1
 Samurai Klein
-Attack the Cursed Doll from behind with your teammates and get Hishimochi!!
-Defeat All Enemies
-Quest
-bg_thumbnail_2014
-Quest 4
-The stage and a cat fairy (Master)
-Attack the Cursed Doll from behind with your teammates and get Hishimochi!!
-Defeat All Enemies
-Quest
-bg_thumbnail_2014
-Quest 3
-The stage and a cat fairy (EX)
-Attack the Cursed Doll from behind with your teammates and get Hishimochi!!
-Defeat All Enemies
-Quest
-bg_thumbnail_2014
-Quest 2
-The stage and a cat fairy (Expert)
-Attack the Cursed Doll from behind with your teammates and get Hishimochi!!
-Defeat All Enemies
-Quest
-bg_thumbnail_2014
-Quest 1
-The stage and a cat fairy (Int.)
 Finish Story
 Story
 bg_thumbnail_0

@@ -320,7 +320,7 @@ ss/unit/chara_6_finesword_w/skill_effect_finesword_2.png
 ss/unit/chara_6_finesword_w/skill_effect_finesword_1.png
 d709c88a676d61666ba26b105a6224c9
 ss/unit/chara_6_finesword_w/skill_effect_64118.png
-748697b20238508e3b0d07778bedef01
+dc931b7e854b992c57e3f342138c6d74
 ss/unit/chara_6_finesword_w/skill_effect_64117.png
 16d5475e89a5d4c1f8c711b423071575
 ss/unit/chara_6_finesword_w/skill_effect_64114.png
@@ -420,6 +420,8 @@ ss/unit/chara_6_finesword_w/skill_effect_63102.png
 ss/unit/chara_6_finesword_w/effect_wepon_change.png
 d666d036ce1a1203a2cb61a006039027
 ss/unit/chara_6_finesword_w/effect_weapon_yuuki_ghost.png
+9dc9b586b9f276dc80f3424d019a8216
+ss/unit/chara_6_finesword_w/5_yuna_65021.png
 85a95fcba583431bcadf806d2443da92
 ss/unit/chara_6_finesword_w/5_yuna_65014.png
 8ba4d1486e3f6645d08131a884ce2900
@@ -2180,6 +2182,14 @@ images/lottery/500/15001_weapon_banner.png
 images/lottery/200/12001_weapon_top_s.png
 34343c96e7834b5b233a580d1a280e34
 images/lottery/200/12001_scout_top_s.png
+59651881a7af82fcc5c1497265f0b795
+images/lottery/073/20731_scout_top_s.png
+751c2afce45dbdf6f2bd1baa0423b102
+images/lottery/073/20731_scout_banner.png
+31126f8388b2acb5f05f6891210d4787
+images/lottery/073/10731_weapon_top_s.png
+aad2b5828618b469ee57d1c492543061
+images/lottery/073/10731_weapon_banner.png
 b3b967971014091c554f273322914ec0
 images/lottery/071/20713_scout_top_s.png
 4b9fc27d226dd5bcc756eac31f0dea06
