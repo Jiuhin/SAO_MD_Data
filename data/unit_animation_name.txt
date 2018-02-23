@@ -218,10 +218,10 @@ down
 parried
 damage
 guard
-step
-step
-step
-step
+jump
+jump
+jump
+jump
 back_step
 back_step
 back_step

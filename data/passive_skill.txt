@@ -72,8 +72,8 @@ Increases attack and critical by 3% when equipped by OS Characters.
 Atk&Crit. +3% (OS Character)
 Increases HP and MP by 3% when equipped by OS Characters.
 HP&MP +3% (OS Character)
-Increases attack by 10% when equipped by OS Characters.
-Atk +10% (OS Character)
+Increases attack by 3% when equipped by OS Characters.
+Atk +3% (OS Character)
 Increases attack and critical by 3% when equipped by GGO Characters.
 Atk&Crit. +3% (GGO Character)
 Increases Crit. by 10% when equipped by Alice.
@@ -878,6 +878,8 @@ Increases MP gain 100.
 MP Recovery Ratio +100
 Increases MP gain 50.
 MP Recovery Ratio +50
+会心と攻撃力が20%増加する
+会心&攻撃+20%
 Increases max HP and Defense by 15%.
 HP & Defense +15%
 Increases max HP and Defense by 10%.

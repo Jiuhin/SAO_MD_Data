@@ -1,19 +1,20 @@
-TZ?
-dv>
-x1>
-hi<
-PD9
-dn6
-dK5
-T 5
-xk3
-PG0
-<7-
-Xz(
-8n&
-pg%
-Dz$
-dH$
+Xn?
+l}<
+l-<
+TX9
+8"8
+l-6
+005
+T{3
+8Q3
+,W0
+Xz.
+8Q.
+45)
+4H'
+Pv&
+4D&
+4U"
 4w	
 walk
 wakeup
@@ -577,7 +578,7 @@ wait
 stun
 step
 skill_16310101
-zDp
+zDl
 skill_163101
 skill_161201
 skill_161102
@@ -593,7 +594,6 @@ dead
 dash
 damage
 charge_old
-"D.
 charge
 back_step
 attack_3
@@ -1801,6 +1801,7 @@ stun
 step
 skill_2313001
 	5	
+zD&
 skill_23130
 skill_22202
 skill_21101
@@ -2386,10 +2387,6 @@ wakeup
 wait
 stun
 step
-Df,
-D -
-Dj-
-D".
 skill_224101
 skill_221103
 skill_221101
@@ -2992,7 +2989,7 @@ wakeup
 wait
 stun
 step
-TDn
+TDj
 skill_183108
 skill_182101
 skill_181101
@@ -3158,7 +3155,7 @@ wakeup
 wait
 stun
 step
-HD:P
+HD6<
 skill_183103
 skill_182101
 skill_181101
@@ -3345,9 +3342,8 @@ down
 dead
 dash
 damage
-"Dr
+"Dn
 charge_old
-"Db
 charge
 back_step
 attack_3
@@ -3479,8 +3475,9 @@ down
 dead
 dash
 damage
-"D:t
+"D6
 charge_old
+"D&b
 charge
 back_step
 attack_3
@@ -3526,9 +3523,8 @@ down
 dead
 dash
 damage
-"D2
+"D.
 charge_old
-"D"
 charge
 back_step
 attack_3
@@ -3573,9 +3569,9 @@ down
 dead
 dash
 damage
-"DN
+"DJ
 charge_old
-"D>
+"D:
 charge
 back_step
 attack_3
@@ -3663,9 +3659,9 @@ down
 dead
 dash
 damage
-"Dv
+"Dr
 charge_old
-"Df
+"Db
 charge
 back_step
 attack_3
@@ -3710,8 +3706,9 @@ down
 dead
 dash
 damage
-"D:1
+"D6
 charge_old
+"D&
 charge
 back_step
 attack_3
@@ -3801,9 +3798,9 @@ down
 dead
 dash
 damage
-"DB
+"D>j
 charge_old
-"D2
+"D.l
 charge
 back_step
 attack_3
@@ -3892,9 +3889,9 @@ down
 dead
 dash
 damage
-"DB
+"D>
 charge_old
-"D2
+"D.
 charge
 back_step
 attack_3
@@ -4165,9 +4162,9 @@ down
 dead
 dash
 damage
-"DV
+"DR
 charge_old
-"DF
+"DB
 charge
 back_step
 attack_3
@@ -4242,7 +4239,7 @@ wakeup
 wait
 stun
 step
-zD>
+zD:
 skill_16310101
 skill_163101
 skill_161201
@@ -4259,7 +4256,7 @@ dead
 dash
 damage
 charge_old
-"Dz
+"Dv
 charge
 back_step
 attack_3
@@ -4303,9 +4300,9 @@ down
 dead
 dash
 damage
-"DF
+"DB
 charge_old
-"D6
+"D2
 charge
 back_step
 attack_3
@@ -4394,7 +4391,7 @@ down
 dead
 dash
 damage
-"D&_
+"D"K
 charge_old
 charge
 back_step
@@ -4439,8 +4436,9 @@ down
 dead
 dash
 damage
+"Dzl
 charge_old
-"Dn
+"Djn
 charge
 back_step
 attack_3
@@ -4470,9 +4468,9 @@ wakeup
 wait
 stun
 step
-HDZ
+HDV}
 skill_14410501
-HD6
+HD2
 skill_144105
 skill_141202
 skill_141101
@@ -4519,7 +4517,7 @@ wakeup
 wait
 stun
 step
-zDR
+zDN
 skill_144106
 skill_141202
 skill_141101
@@ -4565,8 +4563,8 @@ wakeup
 wait
 stun
 step
-aD<
-aDr
+aD8
+aDn
 skill_144102
 skill_141201
 skill_141101
@@ -4794,7 +4792,7 @@ wakeup
 wait
 stun
 step
-HD:
+HD6r
 skill_14410501
 skill_144105
 skill_141202
@@ -6365,7 +6363,7 @@ wakeup
 wait
 stun
 step
-HD6
+HD2x
 skill_104106
 skill_102201
 skill_101101
@@ -6450,7 +6448,7 @@ wakeup
 wait
 stun
 step
-zD.
+zDZ
 skill_104101
 skill_102201
 skill_101101
@@ -6747,7 +6745,7 @@ wait
 stun
 step
 m5	
-HD$
+HD 
 skill_103125
 skill_102202
 skill_101101
@@ -8977,6 +8975,7 @@ wakeup
 wait
 stun
 step
+skill_8311702
 skill_8311701
 skill_83117
 skill_82102
@@ -10669,7 +10668,6 @@ wakeup
 wait
 stun
 step
-/Dh%
 skill_64103
 skill_62101
 %&'
@@ -10807,7 +10805,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_65001
-An SAO survivor, Undine in ALO. Argo visits Asuna and asks for the killer move that she developed during the SAO monster conquest quest. She offers that for free but he insists to pay...
+An SAO survivor, Undine in ALO. Argo visits Asuna and asks for the killer move that she developed during the SAO monster conquest quest. She offers that for free but she insists to pay...
 serif
 4_asuna_64001
 Asuna
@@ -11469,6 +11467,7 @@ wakeup
 wait
 stun
 step
+skill_6311102
 skill_6311101
 skill_63111
 skill_62202
@@ -13036,7 +13035,6 @@ wakeup
 wait
 stun
 step
-zD<
 skill_34102
 skill_32202
 skill_31201
@@ -14199,7 +14197,6 @@ wakeup
 wait
 stun
 step
-HDB
 skill_23146
 skill_22202
 skill_21201
@@ -14366,8 +14363,7 @@ wakeup
 wait
 stun
 step
-HD,
-HDb
+HD:
 skill_23142
 skill_22102
 skill_21201
@@ -14615,6 +14611,7 @@ wakeup
 wait
 stun
 step
+skill_2312702
 skill_2312701
 skill_23127
 skill_22202

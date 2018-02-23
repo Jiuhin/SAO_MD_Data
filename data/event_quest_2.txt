@@ -217,6 +217,20 @@ Bring them down NOW!
 images/battle/cutin/battle_cutin_65002.png
 Way to go! 
 Buy more time!
+DM>
+CM>
+BM>
+AM>
+?M>
+>M>
+<M>
+:M>
+9M>
+QM>
+PM>
+OM>
+NM>
+MM>
 ]I>
 ]I>
 [I>

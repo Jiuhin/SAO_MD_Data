@@ -965,18 +965,18 @@ Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,
 Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
-4704024,1,300
-Complete "Blade Arbiter (Earth) (Master +1)" with a 5 min or more remaining time.
-4704023,1,260
-Complete "Blade Arbiter (Holy) (Master +1)" with a 4 min 20 sec or more remaining time.
 4704024,1,240
 Complete "Blade Arbiter (Earth) (Master +1)" with a 4 min or more remaining time.
-4704023,1,220
-Complete "Blade Arbiter (Holy) (Master +1)" with a 3 min 40 sec or more remaining time.
-4704022,1,220
-Complete "Blade Arbiter (Earth) (Master)" with a 3 min 40 sec or more remaining time.
-4704021,1,200
-Complete "Blade Arbiter (Holy) (Master)" with a 3 min 20 sec or more remaining time.
+4704023,1,210
+Complete "Blade Arbiter (Holy) (Master +1)" with a 3 min 30 sec or more remaining time.
+4704024,1,230
+Complete "Blade Arbiter (Earth) (Master +1)" with a 3 min 50 sec or more remaining time.
+4704023,1,190
+Complete "Blade Arbiter (Holy) (Master +1)" with a 3 min 10 sec or more remaining time.
+4704022,1,230
+Complete "Blade Arbiter (Earth) (Master)" with a 3 min 50 sec or more remaining time.
+4704021,1,190
+Complete "Blade Arbiter (Holy) (Master)" with a 3 min 10 sec or more remaining time.
 4704023,1,2,1
 Complete "Blade Arbiter (Holy) (Master+1)" with a dual blades character.
 4704021+4704022,1,2
