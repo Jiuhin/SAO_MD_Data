@@ -214,6 +214,10 @@ images/event/9002/9002_top_2017.png
 images/event/9002/9002_banner_2017.png
 images/event/9002/9002_banner_2017.png
 Asuna's Birthday Quest 2017
+images/event/8038/8038_top.png
+images/event/8038/8038_banner.png
+images/event/8038/8038_banner.png
+The Strict Hermit
 images/event/8037/8037_top.png
 images/event/8037/8037_banner.png
 images/event/8037/8037_banner.png
@@ -566,6 +570,16 @@ images/event/dummy/dummy_top.png
 images/event/4601/4601_banner.png
 images/event/4601/4601_banner.png
 Bullet of Bullets
+Medal Scout
+images/event/4089/4089_top.png
+images/event/4089/4089_banner.png
+images/event/4089/4089_banner.png
+[Ended] ORDINAL SCALE Another Stage
+Medal Scout
+images/event/4089/4089_top.png
+images/event/4089/4089_banner.png
+images/event/4089/4089_banner.png
+ORDINAL SCALE Another Stage
 images/event/4082/4082_top.png
 images/event/4082/4082_banner.png
 images/event/4082/4082_banner.png

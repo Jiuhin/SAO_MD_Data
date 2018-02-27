@@ -32,6 +32,8 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+The Strict Hermit
+Equip Event
 Guardolf Returns
 Equip Event
 Festival Kobold Returns
@@ -184,7 +186,8 @@ The Archenemy
 Event
 Bullet of Bullets
 Event
-February QT
+ORDINAL SCALE Another Stage
+Event
 Event
 Steel, Break, Helpless
 Event

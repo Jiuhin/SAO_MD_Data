@@ -1,91 +1,85 @@
-x{	
-,{	
-Pz	
-0y	
-<x	
-Tw	
-hv	
-8u	
-Lt	
-ds	
-xr	
-(r	
-Pq	
-xp	
-,p	
-Ho	
-hn	
-Hm	
-hl	
-0k	
-Lj	
-hi	
-xh	
-(h	
-0g	
-Df	
-hb	
-0a	
-d_	
-D]	
-8[	
-XZ	
-tY	
-(Y	
-PX	
-xW	
-,W	
-HV	
+<{	
+,y	
+Dx	
+tv	
+$v	
+,u	
+8t	
+Ps	
+tr	
+4r	
+dq	
+4n	
+0l	
+Dk	
+,i	
+<h	
+Dg	
+Xf	
+pe	
+(e	
+Td	
+<c	
+xa	
+,a	
+0_	
+D[	
+PZ	
+lX	
+DW	
+4V	
 xT	
 ,T	
-LR	
-XQ	
-hP	
-xN	
-0N	
-XM	
-tL	
-(L	
-HK	
-pJ	
-(J	
-HI	
+LS	
+tR	
+,R	
+LQ	
+dP	
+0O	
+LN	
+dL	
+pK	
+(K	
+lI	
+$I	
+TH	
 xG	
 ,G	
 HF	
-XE	
-lC	
-$C	
-<B	
-hA	
+lE	
+$E	
+LD	
+hC	
+0B	
+LA	
 t?	
-(?	
-D>	
-H<	
-x:	
-,:	
-H9	
-p7	
-x6	
-(6	
-85	
-H3	
-p2	
-(2	
-D1	
-d.	
-0-	
-H,	
-d+	
-0)	
-<(	
-T'	
-x&	
-8&	
+,>	
+<:	
+08	
+T7	
+46	
+P5	
+d4	
+43	
+L2	
+d0	
+x/	
+$/	
+H.	
+t-	
+4-	
+l,	
+$,	
+H+	
+<)	
+d(	
+8'	
+L&	
 h%	
-D$	
-8"	
-4 	
+4$	
+H"	
+t 	
+, 	
 8		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
@@ -667,6 +661,14 @@ SA:O
 zi:爕
 White Knight Jacket R4
 Amour Fleche R4
+95_
+OS Diva Dress R3
+OS Diva Dress R2
+OS Ranker Coat R3
+OS Ranker Coat R2
+Symbol of a Diva R3
+9A]
+Symbol of a Diva R2
 Lucia G-F-1 R3
 Black Soaring Coat R4
 Kureha's Leg Purse R3
@@ -1152,11 +1154,25 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+e	88t
+Ordinal Scale
 400EP
 	8)t
 250EP
 _	8(t
 150EP
+_	8't
+Butterfly Medallion  x1
+	8&t
+OS Upgrade Crystal  x1
+	8%t
+OS Gold Medal x2
+	8$t
+OS Gold Medal x1
+]	8
+Hero in the AR world
+I]	8"t
+Ordinal Scale Another Stage
 [	8
 Valentine's Day Gold Medal x1
 U[	8
@@ -1512,6 +1528,29 @@ U)G6
 [Constant Love] Asuna
 'G6
 Memory Diamond x100
+Reawakened Memories C.R.Crystal x5
+Reawakened Memories C.R.Crystal x4
+Reawakened Memories C.R.Crystal x3
+Reawakened Memories C.R.Crystal x2
+Reawakened Memories C.R.Crystal x1
+5F]
+Reawakened Memories C.R.Crystal x10
+5E]
+Reawakened Memories C.R.Crystal x9
+5D]
+Reawakened Memories C.R.Crystal x8
+5C]
+Reawakened Memories C.R.Crystal x7
+5B]
+Reawakened Memories C.R.Crystal x6
+5A]
+Reawakened Memories C.R.Crystal x5
+Reawakened Memories C.R.Crystal x4
+5?]
+Reawakened Memories C.R.Crystal x3
+5>]
+Reawakened Memories C.R.Crystal x2
+Reawakened Memories C.R.Crystal x1
 Fatal Bullet Circulating Record Crystal x5
 Fatal Bullet Circulating Record Crystal x4
 Fatal Bullet Circulating Record Crystal x3
@@ -3287,6 +3326,174 @@ m2E
 Col x50000
 m2E
 EXP Potion x10
+2NO
+EXP Potion x5
+2NO
+Skill Shard x20
+2NO
+Critical Shard x20
+2NO
+Defense Shard x20
+2NO
+Attack Shard x20
+2NO
+MP Shard x20
+2NO
+HP Shard x20
+2MO
+OS Another Stage Top100
+2MO
+EXP Hi-Potion x5
+2MO
+Skill Shard x20
+2MO
+Critical Shard x20
+2MO
+Defense Shard x20
+2MO
+Attack Shard x20
+2MO
+MP Shard x20
+2MO
+HP Shard x20
+2MO
+Memory Diamond x5
+2LO
+OS Another Stage Top50
+2LO
+EXP Hi-Potion x5
+2LO
+Col x30000
+2LO
+Memory Diamond x5
+2LO
+OS Bronze Medal x5
+2LO
+OS Silver Medal x5
+2LO
+OS Gold Medal x2
+2KO
+OS Another Stage Top20
+2KO
+EXP X-Potion x5
+2KO
+Col x50000
+2KO
+Memory Diamond x5
+2KO
+OS Upgrade Crystal  x1
+2KO
+OS Bronze Medal x10
+2KO
+OS Silver Medal x5
+2KO
+OS Gold Medal x4
+2JO
+OS Another Stage Top10
+2JO
+EXP X-Potion x5
+2JO
+Col x100000
+2JO
+Memory Diamond x5
+2JO
+OS Upgrade Crystal  x2
+2JO
+OS Bronze Medal x10
+2JO
+OS Silver Medal x5
+2JO
+OS Gold Medal x6
+2IO
+OS Another Stage 5th
+2IO
+Rainbow Essence x1
+2IO
+EXP X-Potion x5
+2IO
+Col x200000
+2IO
+Memory Diamond x5
+2IO
+OS Upgrade Crystal  x3
+2IO
+OS Bronze Medal x10
+2IO
+OS Silver Medal x5
+2IO
+OS Gold Medal x8
+2HO
+OS Another Stage 4th
+2HO
+Rainbow Essence x1
+2HO
+EXP X-Potion x5
+2HO
+Col x200000
+2HO
+Memory Diamond x5
+2HO
+OS Upgrade Crystal  x3
+2HO
+OS Bronze Medal x10
+2HO
+OS Silver Medal x5
+2HO
+OS Gold Medal x9
+2GO
+OS Another Stage 3rd
+2GO
+Rainbow Essence x1
+2GO
+EXP X-Potion x5
+2GO
+Col x200000
+2GO
+Memory Diamond x5
+2GO
+OS Upgrade Crystal  x4
+2GO
+OS Bronze Medal x10
+2GO
+OS Silver Medal x10
+2GO
+OS Gold Medal x11
+2FO
+OS Another Stage 2nd
+2FO
+Rainbow Essence x1
+2FO
+EXP X-Potion x5
+2FO
+Col x300000
+2FO
+Memory Diamond x5
+2FO
+OS Upgrade Crystal  x4
+2FO
+OS Bronze Medal x10
+2FO
+OS Silver Medal x10
+2FO
+OS Gold Medal x13
+2EO
+OS Another Stage 1st
+2EO
+Rainbow Essence x2
+2EO
+EXP X-Potion x5
+2EO
+Col x500000
+2EO
+Memory Diamond x5
+2EO
+OS Upgrade Crystal  x4
+2EO
+OS Bronze Medal x10
+2EO
+OS Silver Medal x10
+2EO
+OS Gold Medal x16
 Void Medallion x5
 Skill Shard x50
 Critical Shard x50
@@ -6553,6 +6760,16 @@ Col x301
 100EP
 75EP
 50EP
+OS Diva Dress R3
+OS Diva Dress R2
+OS Ranker Coat R3
+OS Ranker Coat R2
+Symbol of a Diva R3
+Symbol of a Diva R2
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 Kureha's Leg Purse R3
 Kureha's Leg Purse R2
 ArFA-sys Suit F R3
@@ -6971,6 +7188,12 @@ Paint x6
 Artist's Paint x1
 Paint x10
 Paint x3
+OS Diva Dress R3
+OS Ranker Coat R3
+Symbol of a Diva R3
+OS Diva Dress R3
+OS Ranker Coat R3
+Symbol of a Diva R3
 Holy Bravery Hacking Crystal x3
 Bravery Hacking Crystal x6
 Bravery Hacking Shard x15
@@ -9946,6 +10169,13 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+OS Gold Medal x1
+OS Silver Medal x5
+OS Silver Medal x3
+OS Silver Medal x2
+OS Bronze Medal x5
+OS Bronze Medal x3
+OS Bronze Medal x2
 Valentine's Day Upgrade Crystal  x1
 Valentine's Day Gold Medal x1
 Valentine's Day Silver Medal x5

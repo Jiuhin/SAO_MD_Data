@@ -17,8 +17,8 @@ slot_skill_icon_reseve_healing_mp
 Restores 10 MP every 10 seconds during standby.
 Emergency Heal (MP) Lv.1
 slot_skill_icon_bs_change
-バトルスキル3が変化して、会心と攻撃力が20%増加する
-バトルスキル3変化 Lv1
+Enhances Sword Skill 3. Increases your own attack and critica by 20%l.
+Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 10%
 Battle Skill 3 Transform Lv. 1
@@ -29,32 +29,32 @@ slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 12%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-バトルスキル3が変化して、会心と攻撃力が20%増加する
-バトルスキル3変化 Lv1
+Enhances Sword Skill 3. Increases your own attack and critica by 20%l.
+Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-バトルスキル3が変化して、会心と攻撃力が20%増加する
-バトルスキル3変化 Lv1
-slot_skill_icon_bs_change
-バトルスキル3が変化して、会心と攻撃力が20%増加する
-バトルスキル3変化 Lv1
-slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP & attack by 12%
+Enhances Sword Skill 3. Increases your own attack and critica by 20%l.
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-バトルスキル3が変化して、会心と攻撃力が20%増加する
-バトルスキル3変化 Lv1
-slot_skill_icon_bs_change
-Transforms Battle Skill 3. Increases Max MP & attack by 15%
+Enhances Sword Skill 3. Increases your own attack and critica by 20%l.
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 12%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-バトルスキル3が変化して、会心と攻撃力が20%増加する
-バトルスキル3変化 Lv1
+Enhances Sword Skill 3. Increases your own attack and critica by 20%l.
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases Max MP & attack by 12%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+Enhances Sword Skill 3. Increases your own attack and critica by 20%l.
+Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 20%
 Battle Skill 3 Transform Lv. 2
@@ -62,8 +62,8 @@ slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
-バトルスキル3が変化して、会心と攻撃力が20%増加する
-バトルスキル3変化 Lv1
+Enhances Sword Skill 3. Increases your own attack and critica by 20%l.
+Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases Max MP & attack by 12%
 Battle Skill 3 Transform Lv. 1
@@ -1021,8 +1021,8 @@ slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Decrease enemies' defense greatly.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_4
-ソードスキル3が強化され、敵の背後に回る効果が付く
-ソードスキル3強化 Lv2
+Enhances Sword Skill 3. Move behind an enemy.
+Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Reduces required MP. Enhance the effect of your increased attack.
 Sword Skill 3 Enhance Lv. 1
@@ -1078,8 +1078,8 @@ slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Decreases MP required. Adds more hits.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
-ソードスキル3が強化され、HIT数が上昇し、敵の背後に移動する効果が付く
-ソードスキル3強化 Lv2
+Enhances Sword Skill 3. Increase the number of HIT and move behind an enemy.
+Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Reduces required MP. Extends the effect time period of the rise speed.
 Sword Skill 3 Enhance Lv. 1
@@ -1131,6 +1131,10 @@ Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_2
 Enhances Sword Skill 3. Increases own attack.
 Sword Skill 3 Enhance Lv. 1
+Y,p
+slot_skill_icon_ss_enhance_3_1
+Enhances Sword Skill 3. Recovers MP when skills are connected.
+Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
 Sword Skill 3 Enhance Lv. 1
@@ -1147,8 +1151,8 @@ slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Becomes powerful and extends the range of attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
-ソードスキル3が強化され、敵の背後に移動する効果が付く
-ソードスキル3強化 Lv2
+Enhances Sword Skill 3. Move behind an enemy.
+Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Reduces required MP. Extends the effect time period of the rise speed.
 Sword Skill 3 Enhance Lv. 1

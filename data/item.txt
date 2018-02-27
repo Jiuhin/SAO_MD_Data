@@ -596,6 +596,12 @@ L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
+You can do the OS Gold Medal Scout.
+OS Gold Medal
+You can do the OS Silver Medal Scout.
+OS Silver Medal
+You can do the OS Bronze Medal Scout.
+OS Bronze Medal
 You can do the Valentine's Day Gold Medal Scout.
 Valentine's Day Gold Medal
 You can do the Valentine's Day Silver Medal Scout.
@@ -672,6 +678,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
+You can use in the "Reawakened Memories"
+Reawakened Memories C.R.Crystal
+item_m_record_crystal_blue
 You can use in the "Fatal Bullet - Unstoppable Force"
 Fatal Bullet Circulating Record Crystal
 item_m_record_crystal_blue
@@ -717,6 +726,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain in the "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20013
+Upgrades character
+([Tied Together] Yuuki only) 
+Rarity: High
+OS Upgrade Crystal 
 item_m_evolution_20012
 Upgrades character
 ([Sweet Idol Singer] Yuna only) 
@@ -887,6 +901,9 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
+Raises Philia's level cap. ([Tied Together] Yuuki only) 
+Rarity: High
+OS Hacking Crystal
 Raises Philia's level cap. ([Spirited Chocolatier] Philia only) 
 Rarity: High
 Valentine's Day Hacking Crystal

@@ -261,6 +261,11 @@ skill_icon_dualblade_3_{}
 Increase your attack power and quickly swing both swords in a 16-hit combo.
 Starburst Stream+
 Starburst Stream+
+Y,p
+skill_icon_sword_3_{}
+A combination skill. Slash through an enemy's back and perform a combo attack as dancing around the enemy. Recovers MP of the combination partner who initiated the skill.
+Stand With You+
+Stand With You+
 skill_icon_sword_3_{}
 A sword skill. Resores your HP. Clinking beer mugs causes a shockwave and attacks an enemy. Reduces imcoming damage for a certain amount of time.
 Raise Your Glass+
@@ -1919,6 +1924,14 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
+A combination skill. The attack goes through from the head of an enemy to the ground. Recovers MP of the combination partner who initiated the skill.  
+Memory Rewrite
+Memory Rewrite
+skill_icon_finesword_3_{}
+A combination skill. Perform attacks with lights when singing in the air. Recovers MP of the combination partner who initiated the skill.  
+Ubiquitous Decibel
+Ubiquitous Decibel
+skill_icon_finesword_3_{}
 A sword skill. Perform a thrust after singing. Gives auto-recovery to all party members.
 Resonant Crescendo 
 Resonant Crescendo 
@@ -2490,6 +2503,10 @@ slash with the other.
 Double Circular
 Double Circular
 skill_icon_sword_3_{}
+A combination skill. Slash through an enemy's back and perform a combo attack as dancing around the enemy. 
+Stand With You
+Stand With You
+skill_icon_sword_3_{}
 A combination skill. Slash through an enemy's back and perform a combo attack. Recover your combination partner's HP and raise their critical damage.
 Screw Love Drive
 Screw Love Drive
@@ -2861,6 +2878,10 @@ A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
 skill_icon_sword_3_{}
+A combination skill. Move to the back of an enemy and perform combo attacks. Recovers MP of the combination partner who initiated the skill. 
+Rising Rush
+Rising Rush
+skill_icon_sword_3_{}
 A combination skill. Move to the back of an enemy and perform combo attacks while dancing wildly. Recover your combination partner's MP.
 Skewed Square
 Skewed Square
@@ -2880,6 +2901,10 @@ skill_icon_sword_3_{}
 A combination skill. Dropping a coin is not the way to begin!? Quick draw just like a gunfighter in a Western film.
 Beater the Kid
 Beater the Kid
+skill_icon_sword_3_{}
+A combination skill. Slash through an enemy's back swiftly, counter with wind pressure. Recovers MP of the combination partner who initiated the skill.  
+Rush in a Moment
+Rush in a Moment
 skill_icon_sword_3_{}
 A combination skill. Increase all the party members' critical. After slashing an enemy super quickly, shoot a gun and stab the enemy at the end.
 Berserk Finish

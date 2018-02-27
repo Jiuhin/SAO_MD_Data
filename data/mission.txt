@@ -167,6 +167,24 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+8038005,3,45
+Complete "The Strict hermit (Master +1)" with guild members in Multi in under 45 seconds.
+8038004,3,45
+Complete "The Strict hermit (Master)" with guild members in Multi in under 45 seconds.
+8038003,3
+Complete "The Strict hermit (EX)" with guild members in Multi.
+3040061-3040062-3040063-3040064-3040065,50
+Defeat 50 of The Strict hermit in the guild. 
+8038005,3
+Complete "The Strict hermit (Master +1)" without down.
+8038004,3
+Complete "The Strict hermit (Master)" without down.
+8038003,3
+Complete "The Strict hermit (EX)" without down.
+8038002
+Complete "The Strict hermit (Expert)"
+8038001
+Complete "The Strict hermit (Int.)"
 8037005,3,45
 Complete "Guardolf Returns (Master +1)" with guild members in Multi in under 45 seconds.
 H}C
@@ -1173,6 +1191,24 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4089006,1
+Complete "ORDINAL SCALE Another Stage (Master +2)" without down.
+4089006,1,60
+Complete "ORDINAL SCALE Another Stage (Master +2)" in under 1min.
+408901,4000000
+Earn a score of 4,000,000 in ORDINAL SCALE Another Stage
+408901,4600000
+Earn a score of 4,600,000 in ORDINAL SCALE Another Stage
+408901,5000000
+Earn a score of 5,000,000 in IORDINAL SCALE Another Stage
+408901,5500000
+Earn a score of 5,500,000 in ORDINAL SCALE Another Stage
+4089005
+Complete "ORDINAL SCALE Another Stage (Master +1)".
+4089004
+Complete "ORDINAL SCALE Another Stage (EX)".
+4089001
+Complete "ORDINAL SCALE Another Stage(Int.)".
 4082001+4082002+4082003+4082004+4082005+4082006+4082007+4082008+4082009+4082010+4082011+4082012+4082013,1,1
 Complete all the 1-25F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
 4082006+4082007+4082008+4082009+4082010+4082011+4082012+4082013,1,1

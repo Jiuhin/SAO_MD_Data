@@ -1,11 +1,5 @@
-tX	
-hL	
-t:	
-P8	
-,6	
-x+	
-T)	
-0'	
+TT	
+d3	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -59,6 +53,8 @@ bullet_7058_mini_barbatos_r
 wait
 dead
 bullet_7058_mini_barbatos_r
+dead
+bullet_7057_lucky_strike
 dead
 bullet_7057_lucky_strike
 dead
@@ -1591,7 +1587,6 @@ JzP
 JzP
 JzP
 JzP
-ALE
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -2121,6 +2116,12 @@ dead
 bullet_4028_stormy_bloom
 dead
 bullet_4028_stormy_bloom
+dead
+bullet_4028_stormy_bloom
+wait
+ground
+dead
+bullet_4027_huuga_senka
 wait
 ground
 dead
@@ -3746,6 +3747,7 @@ dead
 bullet_1135_gunners_rosario_mark_down
 dead
 bullet_1133_spout_star
+dead
 bullet_1132_appear_smoke
 dead
 bullet_1131_speedholic_supply
@@ -4029,6 +4031,8 @@ bullet_1108_blaster
 wait
 bullet_1108_blaster
 wait
+bullet_1108_blaster
+wait
 ground
 dead
 appear
@@ -4071,6 +4075,8 @@ bullet_1103_rino_missile
 wait
 dead
 bullet_1101_healing_circle
+dead
+bullet_1100_wide_explosion
 dead
 bullet_1100_wide_explosion
 dead

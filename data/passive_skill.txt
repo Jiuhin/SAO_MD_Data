@@ -28,6 +28,8 @@ Attack of party members (OS characters) increases by 10% when you are a leader.
 P-Members' (OS characters) Atk +10% (P-Leader)
 Attack of party members (Wind-elem.) increases by 6% when you are a leader.
 P-Members' (Wind-elem.) Atk +6% (P-Leader)
+Attack of party members (Dark-elem.) increases by 10% when you are a leader.
+P-Members' (Dark-elem.) Atk +10% (P-Leader)
 Attack of party members (Dark-elem.) increases by 6% when you are a leader.
 P-Members' (Dark-elem.) Atk +6% (P-Leader)
 Attack of all party members increase by 6% when you are a leader.
@@ -878,8 +880,8 @@ Increases MP gain 100.
 MP Recovery Ratio +100
 Increases MP gain 50.
 MP Recovery Ratio +50
-会心と攻撃力が20%増加する
-会心&攻撃+20%
+Increases Atk. and Crit. by 20%.
+Crit. & Atk. +20%
 Increases max HP and Defense by 15%.
 HP & Defense +15%
 Increases max HP and Defense by 10%.

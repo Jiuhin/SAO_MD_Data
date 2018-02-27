@@ -44,6 +44,15 @@ TBD
 SPB Rapier R4
 weapon10_0001
 TBD
+Symbol of a Diva R4
+accessory01_0064
+TBD
+Symbol of a Diva R3
+accessory01_0064
+TBD
+Symbol of a Diva R2
+accessory01_0064
+TBD
 Kureha's Leg Purse R4
 accessory01_0063
 TBD
@@ -596,6 +605,15 @@ TBD
 Ruby Earring R2
 accessory01_0001
 TBD
+OS Diva Dress R4
+armor03_0111
+TBD
+OS Diva Dress R3
+armor03_0111
+TBD
+OS Diva Dress R2
+armor03_0111
+TBD
 ArFA-sys Suit F R4
 armor03_0110
 TBD
@@ -941,6 +959,15 @@ armor03_0002
 TBD
 Asuna's Apron R2
 armor03_0001
+TBD
+OS Ranker Coat R4
+armor02_0065
+TBD
+OS Ranker Coat R3
+armor02_0065
+TBD
+OS Ranker Coat R2
+armor02_0065
 TBD
 Party Hakama R4
 armor02_0064
@@ -2609,11 +2636,23 @@ TBD
 Light Dagger R1
 weapon04_0001
 TBD
+Deep Courage R5
+weapon03_0116
+TBD
+Deep Courage R4
+weapon03_0116
+TBD
 Gemini Gradius+2 R5
 weapon03_0066
 TBD
 Gemini Gradius+2 R4
 weapon03_0066
+TBD
+Emotiongraphy R5
+weapon03_0062
+TBD
+Emotiongraphy R4
+weapon03_0062
 TBD
 Treasured Rapier +1 R5
 weapon03_0061
@@ -3144,6 +3183,18 @@ weapon01_0115
 TBD
 Epee Ruban R4
 weapon01_0115
+TBD
+Sword of Nautilus R5
+weapon01_0113
+TBD
+Sword of Nautilus R4
+weapon01_0113
+TBD
+Eternal Promise R5
+weapon01_0111
+TBD
+Eternal Promise R4
+weapon01_0111
 TBD
 Elucidator Rouge R5
 weapon01_0110

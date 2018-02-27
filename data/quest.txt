@@ -1016,7 +1016,52 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
-Ferocious monster,  Guardolf the Reindeer 
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 5
+The Strict Hermit (Master +1)
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 4
+The Strict Hermit (Master)
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 3
+The Strict Hermit (EX)
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 2
+The Strict Hermit (Expert)
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 1
+The Strict Hermit (Int.)
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -1026,7 +1071,7 @@ Quest
 bg_thumbnail_8018
 Quest 5
 Guardolf Returns (Master +1)
-Ferocious monster,  Guardolf the Reindeer 
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -1036,7 +1081,7 @@ Quest
 bg_thumbnail_8018
 Quest 4
 Guardolf Returns (Master)
-Ferocious monster,  Guardolf the Reindeer 
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -1046,7 +1091,7 @@ Quest
 bg_thumbnail_8018
 Quest 3
 Guardolf Returns (EX)
-Ferocious monster,  Guardolf the Reindeer 
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -1056,7 +1101,7 @@ Quest
 bg_thumbnail_8018
 Quest 2
 Guardolf Returns (Expert)
-Ferocious monster,  Guardolf the Reindeer 
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -5263,6 +5308,260 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+[Heart of Confront] Asuna Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+[Heart of Confront] Asuna Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+[Heart of Confront] Asuna Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+[Heart of Confront] Asuna Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+[Heart of Confront] Asuna Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+[Hero's return] Kirito Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+[Hero's return] Kirito Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+[Hero's return] Kirito Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+[Hero's return] Kirito Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+[Hero's return] Kirito Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+[Faroff Fencer] Suguha Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+[Faroff Fencer] Suguha Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+[Faroff Fencer] Suguha Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+[Faroff Fencer] Suguha Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+[Faroff Fencer] Suguha Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+[Progressive Gunner] Sinon Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+[Progressive Gunner] Sinon Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+[Progressive Gunner] Sinon Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+[Progressive Gunner] Sinon Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+[Progressive Gunner] Sinon Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+[Band Together] Agil Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+[Band Together] Agil Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+[Band Together] Agil Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+[Band Together] Agil Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+[Band Together] Agil Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+[Strong Mind] Klein Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+[Strong Mind] Klein Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+[Strong Mind] Klein Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+[Strong Mind] Klein Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+[Strong Mind] Klein Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+[Augmented Tamer] Silica Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+[Augmented Tamer] Silica Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+[Augmented Tamer] Silica Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+[Augmented Tamer] Silica Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+[Augmented Tamer] Silica Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+[Efficient Smith] Lizbeth Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+[Efficient Smith] Lizbeth Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+[Efficient Smith] Lizbeth Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+[Efficient Smith] Lizbeth Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+[Efficient Smith] Lizbeth Lv.10
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 6
+ORDINAL SCALE Another Stage (Master +2)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 5
+ORDINAL SCALE Another Stage (Master +1)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 4
+ORDINAL SCALE Another Stage (Master)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 3
+ORDINAL SCALE Another Stage (EX)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 2
+ORDINAL SCALE Another Stage (Expert)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 1
+ORDINAL SCALE Another Stage (Int.)
 ]I>
 Enemy Lv: 120
 Appears: Non-Attr.
@@ -13681,7 +13980,52 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
-Ferocious monster,  Guardolf the Reindeer 
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 5
+The Strict Hermit (Master +1)
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 4
+The Strict Hermit (Master)
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 3
+The Strict Hermit (EX)
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 2
+The Strict Hermit (Expert)
+The Strict Hermit appears!
+Don't be fooled by their dodgy moves!
+Counter with your friends 
+and finish them off!
+Defeat All Enemies
+Quest
+bg_thumbnail_8022
+Quest 1
+The Strict Hermit (Int.)
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -13691,7 +14035,7 @@ Quest
 bg_thumbnail_8018
 Quest 5
 Guardolf Returns (Master +1)
-Ferocious monster,  Guardolf the Reindeer 
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -13701,7 +14045,7 @@ Quest
 bg_thumbnail_8018
 Quest 4
 Guardolf Returns (Master)
-Ferocious monster,  Guardolf the Reindeer 
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -13711,7 +14055,7 @@ Quest
 bg_thumbnail_8018
 Quest 3
 Guardolf Returns (EX)
-Ferocious monster,  Guardolf the Reindeer 
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -13721,7 +14065,7 @@ Quest
 bg_thumbnail_8018
 Quest 2
 Guardolf Returns (Expert)
-Ferocious monster,  Guardolf the Reindeer 
+Ferocious monster, Guardolf the Reindeer 
 returns to steal the sacred treasure! 
 When it starts moving their horns,
 figure out where to parry quickly
@@ -17928,6 +18272,260 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+[Heart of Confront] Asuna Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+[Heart of Confront] Asuna Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+[Heart of Confront] Asuna Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+[Heart of Confront] Asuna Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+[Heart of Confront] Asuna Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+[Hero's return] Kirito Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+[Hero's return] Kirito Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+[Hero's return] Kirito Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+[Hero's return] Kirito Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+[Hero's return] Kirito Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+[Faroff Fencer] Suguha Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+[Faroff Fencer] Suguha Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+[Faroff Fencer] Suguha Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+[Faroff Fencer] Suguha Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+[Faroff Fencer] Suguha Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+[Progressive Gunner] Sinon Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+[Progressive Gunner] Sinon Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+[Progressive Gunner] Sinon Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+[Progressive Gunner] Sinon Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+[Progressive Gunner] Sinon Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+[Band Together] Agil Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+[Band Together] Agil Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+[Band Together] Agil Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+[Band Together] Agil Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+[Band Together] Agil Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+[Strong Mind] Klein Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+[Strong Mind] Klein Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+[Strong Mind] Klein Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+[Strong Mind] Klein Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+[Strong Mind] Klein Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+[Augmented Tamer] Silica Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+[Augmented Tamer] Silica Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+[Augmented Tamer] Silica Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+[Augmented Tamer] Silica Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+[Augmented Tamer] Silica Lv.10
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+[Efficient Smith] Lizbeth Lv.80
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+[Efficient Smith] Lizbeth Lv.70
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+[Efficient Smith] Lizbeth Lv.50
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+[Efficient Smith] Lizbeth Lv.30
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+[Efficient Smith] Lizbeth Lv.10
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 6
+ORDINAL SCALE Another Stage (Master +2)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 5
+ORDINAL SCALE Another Stage (Master +1)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 4
+ORDINAL SCALE Another Stage (Master)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 3
+ORDINAL SCALE Another Stage (EX)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 2
+ORDINAL SCALE Another Stage (Expert)
+Zeministerg the Caller appears.
+Be careful with their spin attacks. Don't be blown away!
+Wait for a chance to parry somewhere safe
+or parry attacks quickly!
+Defeat All Enemies
+Quest
+bg_thumbnail_8049
+Quest 1
+ORDINAL SCALE Another Stage (Int.)
 ]I>
 Enemy Lv: 120
 Appears: Non-Attr.

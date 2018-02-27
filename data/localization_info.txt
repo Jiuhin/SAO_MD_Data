@@ -4,6 +4,7 @@ Your Facebook account is unlinked.
 Minute(s)
 Hour(s)
 Day(s)
+world type: {}
 Gender: {}
 Weapon Types: {}
 Character: {}
@@ -274,6 +275,8 @@ The item didn't sell.
 Some items could not be received.
 {0} replaced with {1}x {2}
 Back to Co-op Party
+BoB Rank {0} 到達報酬
+通信が切断されたため敗北となります。
 You will retire if you return from here. Still want to return?
 Ready to start
 Winning {0} consecutive victories! You get {1} pcs of Crown on your next victory!
@@ -402,6 +405,7 @@ Max ATK: {2}
 Max DEF: {3}
 Max CRIT:{4}
 Not enough Memory Diamonds.
+{0} eliminated effects of buff, barrier and auto-heal altogether.
 Please wait...
 {0} eliminated combo window and buff effect.
 {0} eliminated combo window and buff effect.
