@@ -2337,6 +2337,12 @@ TBD
 Small Mace R1
 weapon05_0001
 TBD
+Blade of Bight Festival +1 R5
+weapon04_0060
+TBD
+Blade of Bight Festival +1 R4
+weapon04_0060
+TBD
 Love Cake Knife +1 R5
 weapon04_0058
 TBD
@@ -2642,11 +2648,20 @@ TBD
 Deep Courage R4
 weapon03_0116
 TBD
+Breeze of the Fortunate Pattern +1 R5
+weapon03_0067
+TBD
+Breeze of the Fortunate Pattern +1 R4
+weapon03_0067
+TBD
 Gemini Gradius+2 R5
 weapon03_0066
 TBD
 Gemini Gradius+2 R4
 weapon03_0066
+TBD
+Huli jing Sword R4
+weapon03_0064
 TBD
 Emotiongraphy R5
 weapon03_0062
@@ -3171,6 +3186,12 @@ TBD
 Dual Short Swords 
 2 R1
 weapon02_0001
+TBD
+Paired Blossoms +1 R5
+weapon01_0123
+TBD
+Paired Blossoms +1 R4
+weapon01_0123
 TBD
 Fragrant Olive Sword +2 R5
 weapon01_0122

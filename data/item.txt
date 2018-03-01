@@ -901,7 +901,7 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
-Raises Philia's level cap. ([Tied Together] Yuuki only) 
+Raises Yuuki's level cap. ([Tied Together] Yuuki only) 
 Rarity: High
 OS Hacking Crystal
 Raises Philia's level cap. ([Spirited Chocolatier] Philia only) 

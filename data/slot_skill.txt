@@ -1078,7 +1078,7 @@ slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Decreases MP required. Adds more hits.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
-Enhances Sword Skill 3. Increase the number of HIT and move behind an enemy.
+Enhances Sword Skill 3. Becomes more powerful. Increase the number of HIT and move behind an enemy.
 Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Reduces required MP. Extends the effect time period of the rise speed.
@@ -1133,7 +1133,7 @@ Enhances Sword Skill 3. Increases own attack.
 Sword Skill 3 Enhance Lv. 1
 Y,p
 slot_skill_icon_ss_enhance_3_1
-Enhances Sword Skill 3. Recovers MP when skills are connected.
+Enhances Sword Skill 3. As a Combination Skill is activated, MP recovery of combination starter.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
@@ -1151,7 +1151,7 @@ slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Becomes powerful and extends the range of attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_1
-Enhances Sword Skill 3. Move behind an enemy.
+Enhances Sword Skill 3. Becomes more powerful. Move behind an enemy.
 Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_1
 Enhances Sword Skill 3. Reduces required MP. Extends the effect time period of the rise speed.

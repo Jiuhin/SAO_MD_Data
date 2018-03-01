@@ -122,7 +122,7 @@ Rank Top 10 on "ORDINAL SCALE Another Stage"
 OS Another Stage Top10
 Rank 5th on "ORDINAL SCALE Another Stage"
 OS Another Stage 5th
-Rank 5th on "ORDINAL SCALE Another Stage"
+Rank 4th on "ORDINAL SCALE Another Stage"
 OS Another Stage 4th
 Rank 3rd on "ORDINAL SCALE Another Stage"
 OS Another Stage 3rd
@@ -131,8 +131,8 @@ OS Another Stage 2nd
 Rank 1st on "ORDINAL SCALE Another Stage"
 OS Another Stage 1st
 Rank 1st on two rankings in March
-Ordinal Scale
-Complete "Ordinal Scale Another Stage Master +1"
+-Ordinal Scale-
+Complete "Ordinal Scale Another Stage (Master +1)"
 Hero in the AR world
 Complete "Ordinal Scale Another Stage (Int.)"
 Ordinal Scale Another Stage
@@ -150,7 +150,7 @@ Rank Top 10 on "Steel, Break, Helpless"
 Assault Team: Firearms Top 10
 Rank 5th on "Steel, Break, Helpless"
 Assault Team: Firearms 5th
-Rank 5th on "Steel, Break, Helpless"
+Rank 4th on "Steel, Break, Helpless"
 Assault Team: Firearms 4th
 Rank 3rd on "Steel, Break, Helpless"
 Assault Team: Firearms 3rd

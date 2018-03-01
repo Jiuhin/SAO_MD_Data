@@ -119,7 +119,11 @@ A sword skill that uses a curtain to attack after moving quickly. Activates an a
 Raise the Curtain+
 Raise the Curtain+
 skill_icon_dagger_3_{}
-Shoots a flower like shock wave after continuous attacks. Also enhances your movement speed and attack.
+Perfoms combo attacks after rushing and shoots a flower like shock wave. Also enhances your movement speed and attack.
+Elegant Blooming+2
+Elegant Blooming+2
+skill_icon_dagger_3_{}
+Shoots a flower like shock wave after combo attacks. Also enhances your movement speed and attack.
 Elegant Blooming+
 Elegant Blooming+
 skill_icon_dagger_3_{}
@@ -201,7 +205,11 @@ Increase your attack and auto heals HP and deal ten hits in the shape of a cross
 Mother's Rosario+
 Mother's Rosario+
 skill_icon_finesword_3_{}
-Performs a spinning slash which spills her hidden desserts. Enhances movement speed by eating the desserts.
+Performs a spinning slash which spills her hidden dessert behind an enemy's back. Enhances speed by eating the desserts.
+Unintended Rolling+2
+Unintended Rolling+2
+skill_icon_finesword_3_{}
+Performs a spinning slash which spills her hidden desserts. Enhances speed by eating the desserts.
 Unintended Rolling+
 Unintended Rolling+
 skill_icon_finesword_3_{}
@@ -263,7 +271,7 @@ Starburst Stream+
 Starburst Stream+
 Y,p
 skill_icon_sword_3_{}
-A combination skill. Slash through an enemy's back and perform a combo attack as dancing around the enemy. Recovers MP of the combination partner who initiated the skill.
+A combination skill. Slash through an enemy's back and perform a combo attack as dancing around the enemy. MP recovery of combination starter.
 Stand With You+
 Stand With You+
 skill_icon_sword_3_{}
@@ -295,7 +303,11 @@ A sparkling spell creates a prism clock shooting 12 swords as the time ticks. De
 Midnight Prism+
 Midnight Prism+
 skill_icon_sword_3_{}
-Enhance movement speed and blows a strong wind by the flute.
+Enhance speed and blows a strong wind by the flute.
+Stormy Bloom+2
+Stormy Bloom+2
+skill_icon_sword_3_{}
+Enhance speed and blows a strong wind by the flute.
 Stormy Bloom+
 Stormy Bloom+
 skill_icon_sword_3_{}
@@ -1696,7 +1708,7 @@ After a combo, jump up high to stick a dugger on ground and blow up explosive fl
 Deus Ignis
 Deus Ignis
 skill_icon_dagger_3_{}
-Shoots a flower like shock wave after continuous attacks. Also enhances your movement speed.
+Shoots a flower like shock wave after continuous attacks. Also enhances your speed.
 Elegant Blooming
 Elegant Blooming
 skill_icon_dagger_3_{}
@@ -1924,11 +1936,11 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
-A combination skill. The attack goes through from the head of an enemy to the ground. Recovers MP of the combination partner who initiated the skill.  
+A combination skill. The attack goes through from the head of an enemy to the ground. MP recovery of combination starter.
 Memory Rewrite
 Memory Rewrite
 skill_icon_finesword_3_{}
-A combination skill. Perform attacks with lights when singing in the air. Recovers MP of the combination partner who initiated the skill.  
+A combination skill. Perform attacks with lights when singing in the air. MP recovery of combination starter.
 Ubiquitous Decibel
 Ubiquitous Decibel
 skill_icon_finesword_3_{}
@@ -2065,7 +2077,7 @@ Increase your attack and auto heals HP and deal ten hits in the shape of a cross
 Mother's Rosario
 Mother's Rosario
 skill_icon_finesword_3_{}
-Performs a spinning slash which spills her hidden desserts. Enhances movement speed by eating the desserts.
+Performs a spinning slash which spills her hidden desserts. Enhances speed by eating the desserts.
 Unintended Rolling
 Unintended Rolling
 skill_icon_finesword_3_{}
@@ -2503,7 +2515,7 @@ slash with the other.
 Double Circular
 Double Circular
 skill_icon_sword_3_{}
-A combination skill. Slash through an enemy's back and perform a combo attack as dancing around the enemy. 
+Slash through an enemy's back and perform a combo attack as dancing around the enemy. 
 Stand With You
 Stand With You
 skill_icon_sword_3_{}
@@ -2631,7 +2643,7 @@ Activates attack-invalidating barrier, and gives enemy one big swing from above.
 Adorably Amorous
 Adorably Amorous
 skill_icon_sword_3_{}
-Enhance movement speed and blows a strong wind by the flute.
+Enhance speed and blows a strong wind by the flute.
 Stormy Bloom
 Stormy Bloom
 skill_icon_sword_3_{}
@@ -2878,7 +2890,7 @@ A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
 skill_icon_sword_3_{}
-A combination skill. Move to the back of an enemy and perform combo attacks. Recovers MP of the combination partner who initiated the skill. 
+A combination skill. Move to the back of an enemy and perform combo attacks. MP recovery of combination starter. 
 Rising Rush
 Rising Rush
 skill_icon_sword_3_{}
@@ -2902,7 +2914,7 @@ A combination skill. Dropping a coin is not the way to begin!? Quick draw just l
 Beater the Kid
 Beater the Kid
 skill_icon_sword_3_{}
-A combination skill. Slash through an enemy's back swiftly, counter with wind pressure. Recovers MP of the combination partner who initiated the skill.  
+A combination skill. Slash through an enemy's back swiftly, counter with wind pressure. MP recovery of combination starter.
 Rush in a Moment
 Rush in a Moment
 skill_icon_sword_3_{}

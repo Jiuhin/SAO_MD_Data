@@ -5509,7 +5509,8 @@ bg_thumbnail_0
 Story 1
 [Efficient Smith] Lizbeth Lv.10
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -5518,7 +5519,8 @@ bg_thumbnail_8049
 Quest 6
 ORDINAL SCALE Another Stage (Master +2)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -5527,7 +5529,8 @@ bg_thumbnail_8049
 Quest 5
 ORDINAL SCALE Another Stage (Master +1)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -5536,7 +5539,8 @@ bg_thumbnail_8049
 Quest 4
 ORDINAL SCALE Another Stage (Master)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -5545,7 +5549,8 @@ bg_thumbnail_8049
 Quest 3
 ORDINAL SCALE Another Stage (EX)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -5554,7 +5559,8 @@ bg_thumbnail_8049
 Quest 2
 ORDINAL SCALE Another Stage (Expert)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -10558,6 +10564,46 @@ Story
 bg_thumbnail_0
 Story 1
 Samurai Klein
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 5
+The stage and a cat fairy (Master+1)
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 4
+The stage and a cat fairy (Master)
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 3
+The stage and a cat fairy (EX)
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 2
+The stage and a cat fairy (Expert)
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 1
+The stage and a cat fairy (Int.)
 Finish Story
 Story
 bg_thumbnail_0
@@ -18473,7 +18519,8 @@ bg_thumbnail_0
 Story 1
 [Efficient Smith] Lizbeth Lv.10
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -18482,7 +18529,8 @@ bg_thumbnail_8049
 Quest 6
 ORDINAL SCALE Another Stage (Master +2)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -18491,7 +18539,8 @@ bg_thumbnail_8049
 Quest 5
 ORDINAL SCALE Another Stage (Master +1)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -18500,7 +18549,8 @@ bg_thumbnail_8049
 Quest 4
 ORDINAL SCALE Another Stage (Master)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -18509,7 +18559,8 @@ bg_thumbnail_8049
 Quest 3
 ORDINAL SCALE Another Stage (EX)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -18518,7 +18569,8 @@ bg_thumbnail_8049
 Quest 2
 ORDINAL SCALE Another Stage (Expert)
 Zeministerg the Caller appears.
-Be careful with their spin attacks. Don't be blown away!
+Be careful with their spin attacks.
+Don't be blown away!
 Wait for a chance to parry somewhere safe
 or parry attacks quickly!
 Defeat All Enemies
@@ -23522,6 +23574,46 @@ Story
 bg_thumbnail_0
 Story 1
 Samurai Klein
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 5
+The stage and a cat fairy (Master+1)
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 4
+The stage and a cat fairy (Master)
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 3
+The stage and a cat fairy (EX)
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 2
+The stage and a cat fairy (Expert)
+Use a combination skill to deliver huge damage 
+when parrying and defeat 
+the Cursed Doll to get Hishimochi!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 1
+The stage and a cat fairy (Int.)
 Finish Story
 Story
 bg_thumbnail_0

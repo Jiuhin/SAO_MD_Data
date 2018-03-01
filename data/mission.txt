@@ -1200,13 +1200,13 @@ Earn a score of 4,000,000 in ORDINAL SCALE Another Stage
 408901,4600000
 Earn a score of 4,600,000 in ORDINAL SCALE Another Stage
 408901,5000000
-Earn a score of 5,000,000 in IORDINAL SCALE Another Stage
+Earn a score of 5,000,000 in ORDINAL SCALE Another Stage
 408901,5500000
 Earn a score of 5,500,000 in ORDINAL SCALE Another Stage
 4089005
 Complete "ORDINAL SCALE Another Stage (Master +1)".
 4089004
-Complete "ORDINAL SCALE Another Stage (EX)".
+Complete "ORDINAL SCALE Another Stage (Master)".
 4089001
 Complete "ORDINAL SCALE Another Stage(Int.)".
 4082001+4082002+4082003+4082004+4082005+4082006+4082007+4082008+4082009+4082010+4082011+4082012+4082013,1,1
@@ -2105,6 +2105,83 @@ Earn a score of 1,750,000 in the "Demon conquer of Alfheim" Raning event.
 Complete "Demon Conquerors (Master)".
 4031009
 Complete "Demon Conquerors".
+<P&
+4030025,2,9,1
+Complete "The stage and a cat fairy (Master +1)" with at least one lance character.
+<O&
+4030025,2,7,1
+Complete "The stage and a cat fairy (Master +1)" with at least one bow character.
+<N&
+4030025,2,11,1
+Complete "The stage and a cat fairy (Master +1)" with at least one automatic rifle character.
+<M&
+4030025,2,4,2
+Complete "The stage and a cat fairy (Master +1)" with at least two dagger characters.
+<L&
+4030025,2,3,2
+Complete "The stage and a cat fairy (Master +1)" with at least two rapier characters.
+<K&
+4030025,2,6,1
+Complete "The stage and a cat fairy (Master +1)" with at least one sniper rifle character.
+<J&
+4030025,2,8,1
+Complete "The stage and a cat fairy (Master +1)" with at least one rod character.
+<I&
+4030025,2,2,1
+Complete "The stage and a cat fairy (Master +1)" with at least one dual blades character.
+<H&
+4030025,2,5,2
+Complete "The stage and a cat fairy (Master +1)" with at least two mace characters.
+<G&
+4030025,2,1,2
+Complete "The stage and a cat fairy (Master +1)" with at least two sword characters.
+OF&
+403001,60000
+Earn 60,000 EP
+in the "The stage and a cat fairy" event.
+OE&
+403001,59000
+Earn 59,000 EP
+in the "The stage and a cat fairy" event.
+OD&
+403001,58000
+Earn 58,000 EP
+in the "The stage and a cat fairy" event.
+OC&
+403001,57000
+Earn 57,000 EP
+in the "The stage and a cat fairy" event.
+OB&
+403001,56000
+Earn 56,000 EP
+in the "The stage and a cat fairy" event.
+OA&
+403001,55000
+Earn 55,000 EP
+in the "The stage and a cat fairy" event.
+403001,54000
+Earn 54,000 EP
+in the "The stage and a cat fairy" event.
+O?&
+403001,53000
+Earn 53,000 EP
+in the "The stage and a cat fairy" event.
+O>&
+403001,52000
+Earn 52,000 EP
+in the "The stage and a cat fairy" event.
+403001,51000
+Earn 51,000 EP
+in the "The stage and a cat fairy" event.
+4030025,2,60
+Complete "The stage and a cat fairy. (Master+1)" in under 1 minute.
+4030025
+Complete "The stage and a cat fairy. (Master+1)".
+4030024,2,60
+Complete "The stage and a cat fairy. (Master)" in under 1 minute.
+/9&
+4030024
+Complete "The stage and a cat fairy. (Master)".
 402901,1600000
 Earn a score of 1,600,000 in the "Backed by the Cheer of My Daughter" Raning event.
 402901,2250000

@@ -40,8 +40,7 @@ Character Introduction: Asuna
 Character Introduction Story
 [Angel Cheer] Yui
 Character Introduction: Yui
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Hero's return] Kirito Lv.10
 Character Introduction Story
 [Platonic Love] Silica
@@ -70,125 +69,85 @@ Character Introduction: Kirito
 Event Story
 The Pristine Floating Castle
 Floor :100
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Heart of Confront] Asuna Lv.80
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Heart of Confront] Asuna Lv.70
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Heart of Confront] Asuna Lv.50
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Heart of Confront] Asuna Lv.30
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Heart of Confront] Asuna Lv.10
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Hero's return] Kirito Lv.80
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Hero's return] Kirito Lv.70
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Hero's return] Kirito Lv.50
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Hero's return] Kirito Lv.30
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Hero's return] Kirito Lv.10
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Faroff Fencer] Suguha Lv.80
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Faroff Fencer] Suguha Lv.70
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Faroff Fencer] Suguha Lv.50
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Faroff Fencer] Suguha Lv.30
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Faroff Fencer] Suguha Lv.10
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Progressive Gunner] Sinon Lv.80
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Progressive Gunner] Sinon Lv.70
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Progressive Gunner] Sinon Lv.50
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Progressive Gunner] Sinon Lv.30
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Progressive Gunner] Sinon Lv.10
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Band Together] Agil Lv.80
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Band Together] Agil Lv.70
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Band Together] Agil Lv.50
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Band Together] Agil Lv.30
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Band Together] Agil Lv.10
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Strong Mind] Klein Lv.80
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Strong Mind] Klein Lv.70
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Strong Mind] Klein Lv.50
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Strong Mind] Klein Lv.30
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Strong Mind] Klein Lv.10
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Augmented Tamer] Silica Lv.80
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Augmented Tamer] Silica Lv.70
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Augmented Tamer] Silica Lv.50
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Augmented Tamer] Silica Lv.30
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Augmented Tamer] Silica Lv.10
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Efficient Smith] Lizbeth Lv.80
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Efficient Smith] Lizbeth Lv.70
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Efficient Smith] Lizbeth Lv.50
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Efficient Smith] Lizbeth Lv.30
-Event Story
-ORDINAL SCALE Another Stage
+Character Story
 [Efficient Smith] Lizbeth Lv.10
 rE>
 Q!S
