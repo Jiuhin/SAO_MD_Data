@@ -14923,7 +14923,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24034
-An OS player. In the real world, Leafa visit a river in a mountain to hung out with Philia and Kirito. When they boot their Ogumas, they know the area is OS playable area. Three of them starts exploring the area. 
+An OS player. In the real world, Leafa visit a river in a mountain to hung out with Philia and Kirito. When they boot their Ogumas, they know the area is OS playable area. Three of them starts exploring the area.
 serif
 4_leafa_24034
 Suguha

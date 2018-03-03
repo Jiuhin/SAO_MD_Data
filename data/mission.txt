@@ -2122,7 +2122,7 @@ Complete "The stage and a cat fairy (Master +1)" with at least two dagger charac
 Complete "The stage and a cat fairy (Master +1)" with at least two rapier characters.
 <K&
 4030025,2,6,1
-Complete "The stage and a cat fairy (Master +1)" with at least one sniper rifle character.
+Complete "The stage and a cat fairy (Master +1)" with at least one gun (sniper rifle) character.
 <J&
 4030025,2,8,1
 Complete "The stage and a cat fairy (Master +1)" with at least one rod character.
@@ -2174,11 +2174,11 @@ in the "The stage and a cat fairy" event.
 Earn 51,000 EP
 in the "The stage and a cat fairy" event.
 4030025,2,60
-Complete "The stage and a cat fairy. (Master+1)" in under 1 minute.
+Complete "The stage and a cat fairy. (Master+1)" under 1 minute.
 4030025
 Complete "The stage and a cat fairy. (Master+1)".
 4030024,2,60
-Complete "The stage and a cat fairy. (Master)" in under 1 minute.
+Complete "The stage and a cat fairy. (Master)" under 1 minute.
 /9&
 4030024
 Complete "The stage and a cat fairy. (Master)".

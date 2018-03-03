@@ -26,8 +26,8 @@ Zero damage received when enemy attacked.
 No damage received
 Attack of party members (OS characters) increases by 10% when you are a leader.
 P-Members' (OS characters) Atk +10% (P-Leader)
-Attack of party members (Wind-elem.) increases by 6% when you are a leader.
-P-Members' (Wind-elem.) Atk +6% (P-Leader)
+パーティリーダーの時、パーティ内の風属性キャラの攻撃が6%増加する
+LS:パーティの風属性の攻撃+6%
 Attack of party members (Dark-elem.) increases by 10% when you are a leader.
 P-Members' (Dark-elem.) Atk +10% (P-Leader)
 Attack of party members (Dark-elem.) increases by 6% when you are a leader.
@@ -66,8 +66,8 @@ Increases max HP by 6% when equipped by male characters.
 HP +6% (Male Character)
 Increases attack by 6% when using skills.
 Skill Atk +6%
-火属性が装備すると敵撃破時に50%の確率でMPが5回復する
-火属性で敵撃破時MP回復
+50% chance Fire-elem. gains 5 MP on enemy kill.
+MP Recovery on Kill (Fire-elem.)
 50% chance Holy-elem. gains 5 MP on enemy kill.
 MP Recovery on Kill (Holy-elem.)
 Gain 5 MP on enemy kill.
@@ -422,8 +422,8 @@ Increases Attack for 30-hit+ combos by 6%. (vs. Dark-elem.)
 30+ Combo: Attack +6% (vs. Dark)
 Increases Attack for 30-hit+ combos by 6%. (vs. Wind-elem.)
 30+ Combo: Attack +6% (vs. Wind)
-30コンボ以上で火属性の攻撃が6%増加する
-30コンボ以上で火属性の攻撃+6%
+Increases Attack for 30-hit+ combos by 6%. (vs. Fire-elem.)
+30+ Combo: Attack +6% (vs. Fire)
 hlk
 Increases Attack for 30-hit+ combos by 6%.
 30+ Combo: Attack +6%

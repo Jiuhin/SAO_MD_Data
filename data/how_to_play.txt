@@ -52,7 +52,7 @@ Noticeboard
 <body_text font_size 
 '24'>　You can check about guild members.
 　Commanders and Vice Commanders can do the things below
-　・Edit guild members' roles 
+　・Edit guild members' roles (Commanders only)
 　・Force guild members to leave
 　・Accept/reject requests to join</body_text>
 </panel>
@@ -90,21 +90,25 @@ Guild Menu
 <panel>
 <body_text font_size 
 '24'>　There are two roles, Commander and Vice Commander.
-　Only Commanders and Vice Commanders can edit roles, 
+　Only Commanders can edit roles, 
 　do forced leave and invite.
-　Commanders and Vice Commanders can do management and 
+　Commanders and Vice Commanders can do management, 
+　forced leave, invite players to their guild and 
 　edit the noticeboard.
-In case that players don't log in for 7 days, roles will be downgraded 
-　　 such as Commanders - Vice Commanders, 
-　　 Vice Commanders - members.</body_text>
+If a Commander doesn't log in for 7 days, they 
+　will be automatically downgraded to a member.  
+When a Commander is downgraded, 
+　the Vice Commander who has been 
+　playing the role for the longest time 
+　among others will be promoted 
+　to a Commander.</body_text>
 </panel>
 Roles
 <panel>
 <body_text font_size 
-'24'>　In case that players don't log in for 7 days, 
-　roles will be downgraded such as Commanders - Vice Commanders, 
-　Vice Commanders - members. 
-　And when members don't log in for 14 days, they will have to leave. </body_text>
+'24'>　If a Commander doesn't log in for 7 days, they 
+　will be automatically downgraded to a member.  
+　Also, when members don't log in for 14 days, they will have to leave. </body_text>
 </panel>
 Forced Leave
 <panel>
@@ -691,8 +695,9 @@ Party Cost
 <panel>
 <body_text font_size 
 '24'>　Up to three characters can be used to
-　form a party. It is possible to form up
-　to five parties in advance.</body_text>
+　form a party. The number of parties you can form up 
+　increases as your user rank goes up.
+　</body_text>
 </panel>
 Party Formation
 Parties
