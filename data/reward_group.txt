@@ -336,6 +336,16 @@ QI>
 iE>
 uC>
 IB>
+aq:
+_q:
+]q:
+[q:
+Zq:
+Yq:
+Xq:
+Wq:
+Vq:
+Uq:
 h'8
 g'8
 Ph5

@@ -1,19 +1,18 @@
-8qB
-8">
-<g<
-49<
-4j:
-x3:
-tz7
-$S1
-H&1
-Pv/
-0M/
-Dj+
-4b&
-,.%
-8u"
-T>"
+dBC
+dcA
+xS?
+P >
+$D8
+,!7
+PQ5
+<m4
+l84
+TV3
+,x1
+$m&
+<]!
+h+ 
+df	
 walk
 wakeup
 wait
@@ -178,7 +177,7 @@ dead
 dash
 damage
 charge_old
-"D"n
+"DB
 charge
 back_step
 attack_3
@@ -566,7 +565,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184005
-An NPC of SAO who is converted to ALO. Premiere checks out the festival in Arun. It seems like she gets a feeling of exoticism from the bon dance and such. 
+An NPC of SA:O who is converted to ALO. Premiere checks out the festival in Arun. It seems like she gets a feeling of exoticism from the bon dance and such. 
 serif
 4_premiere_184005
 Premiere
@@ -577,6 +576,7 @@ wait
 stun
 step
 skill_16310101
+zD0
 skill_163101
 skill_161201
 skill_161102
@@ -835,8 +835,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104024
-An NPC of ALO as a navigation pixie. Strea made a sailor suit assumed the smallest size for Yui, but it was still too large to her.
-Used Leprechaun magic to make equipments smaller temporarily...
+An NPC of ALO as a navigation pixie. Strea made a sailor suit assumed the smallest size for Yui, but it was still too large to her. Used Leprechaun magic to make equipments smaller temporarily...
 serif
 4_yui_104024
 Yui
@@ -1437,7 +1436,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64022
-An SA:O NPC who's transferred her data over to ALO. She was interested in the Hina-Matsuri Festival and invites Kirito to a difficult Quest.
+An NPC in SA:O who's transferred her data over to ALO. She was interested in the Hina-Matsuri Festival and invites Kirito to a difficult Quest.
 serif
 4_premiere_64022
 Premiere
@@ -1891,9 +1890,8 @@ wakeup
 wait
 stun
 step
-"DRc
+"Dr
 skill_2312702
-CNg
 skill_2312701
 skill_23127
 skill_22202
@@ -1926,7 +1924,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24033
-Argo a info broker in ALO was taking a time out during Alicia's event. However, after restarting some players seems to be holding a grudge against her.
+Argo, an info broker in ALO, was taking a time out during Alicia's event. However, after restarting some players seem to be holding a grudge against her.
 serif
 4_argo_24033
 Argo
@@ -1936,6 +1934,7 @@ wakeup
 wait
 stun
 step
+zD2
 skill_2313001
 	5	
 skill_23130
@@ -2370,7 +2369,6 @@ wakeup
 wait
 stun
 step
-DVk
 skill_224103
 skill_221204
 skill_221101
@@ -2649,7 +2647,7 @@ weapon_shield_195002
 attack_1
 skill_cutin_10001
 battle_cutin_195002
-An SAO player. Kirito challenges Heathcliff in order to release Asuna and fights a duel with him.  However, Kirito lose the fight and ends up joining the Knights of the Blood.
+An SAO player. Kirito challenges Heathcliff in order to release Asuna and fights a duel with him.  However, Kirito loses the fight and ends up joining the Knights of the Blood.
 serif
 5_kirito_195002
 Kirito
@@ -2789,6 +2787,47 @@ serif
 5_leafa_185008
 Leafa
 [Flying Without Wings] Leafa
+walk
+wakeup
+wait
+stun
+step
+skill_184108
+skill_182101
+skill_181101
+parry
+parried
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_184108
+skill_182101
+skill_181101
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_185007
+An Imp in ALO. Yuuki comes up with a plan to test prospective students for Asuna's school to see if they're serious about education. Her "simple" solution is to duel every applicant...
+serif
+5_yuuki_185007
+Yuuki
+[The Coveted Life] Yuuki
 walk
 wakeup
 wait
@@ -2949,7 +2988,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_185003
-A Cait Sith in ALO. Sinon and others hear that voyeurs are seen here and there and start investing. They have a telecope in mind initially but it seems wrong.
+A Cait Sith in ALO. Sinon and others hear that voyeurs are seen here and there and start investing. They have a telescope in mind initially but it seems wrong.
 serif
 5_sinon_185003
 Sinon
@@ -3001,6 +3040,7 @@ wakeup
 wait
 stun
 step
+zDR
 skill_184101
 skill_182101
 skill_181101
@@ -3198,7 +3238,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184007
-A SAO Player who belongs to a guild called "Moonlit Black Cats". She continues this game with close friends to buy a home of their guild, fighting against the fear of death.
+An SAO Player who belongs to a guild called "Moonlit Black Cats". She continues this game with her close friends to buy a home of their guild, fighting against the fear of death.
 serif
 2_sachi_22002
 Sachi
@@ -3281,7 +3321,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_184005
-An NPC of SAO who is converted to ALO. Premiere checks out the festival in Arun. It seems like she gets a feeling of exoticism from the bon dance and such. 
+An NPC of SA:O who is converted to ALO. Premiere checks out the festival in Arun. It seems like she gets a feeling of exoticism from the bon dance and such. 
 serif
 4_premiere_184005
 Premiere
@@ -3332,6 +3372,7 @@ wakeup
 wait
 stun
 step
+HDv!
 skill_18310101
 skill_183101
 skill_182101
@@ -3521,9 +3562,9 @@ down
 dead
 dash
 damage
-"D>
+"D6
 charge_old
-"D.
+"D&
 charge
 back_step
 attack_3
@@ -3567,7 +3608,7 @@ down
 dead
 dash
 damage
-"D.
+"D&
 charge_old
 charge
 back_step
@@ -3970,9 +4011,8 @@ down
 dead
 dash
 damage
-"Dfl
 charge_old
-"DVn
+"DNM
 charge
 back_step
 attack_3
@@ -4047,7 +4087,7 @@ wakeup
 wait
 stun
 step
-zD6
+zD.
 skill_16310301
 skill_163103
 skill_161201
@@ -4063,9 +4103,9 @@ down
 dead
 dash
 damage
-"Db
+"DZ
 charge_old
-"DR
+"DJ
 charge
 back_step
 attack_3
@@ -4154,9 +4194,9 @@ down
 dead
 dash
 damage
-"DF
+"D>
 charge_old
-"D6
+"D.
 charge
 back_step
 attack_3
@@ -4203,9 +4243,9 @@ down
 dead
 dash
 damage
-"D>(
+"D6
 charge_old
-"D.
+"D&	
 charge
 back_step
 attack_3
@@ -4280,7 +4320,7 @@ wakeup
 wait
 stun
 step
-Dnd
+DfC
 skill_163113
 skill_161201
 skill_161102
@@ -4327,6 +4367,7 @@ wait
 stun
 step
 skill_16310101
+zDts
 skill_163101
 skill_161201
 skill_161102
@@ -4341,9 +4382,9 @@ down
 dead
 dash
 damage
-"DN
+"DF}
 charge_old
-"D>
+"D6
 charge
 back_step
 attack_3
@@ -4522,6 +4563,7 @@ dead
 dash
 damage
 charge_old
+"Dz
 charge
 back_step
 attack_3
@@ -4595,7 +4637,54 @@ wakeup
 wait
 stun
 step
+skill_144107
+skill_141202
+skill_141101
+parry
+parried
+levelup
+jump_attack
+jump
+down
+dead
+dash
+damage
+charge
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+air_attack
+air_attack_3
+air_attack_2
+air_attack_1
+skill_144107
+skill_141202
+skill_141101
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_145007
+An Undine in ALO. Asuna built a school in VR and is now acting superintendent. Running a school is tough, and despite having a whole bunch of administrative problems to deal with, she decides to focus on improving student motivation...
+serif
+5_asuna_145007
+Asuna
+[Youthful Days] Asuna
+walk
+wakeup
+wait
+stun
+step
+HDf[
 skill_14410501
+HDBb
 skill_144105
 skill_141202
 skill_141101
@@ -4687,8 +4776,6 @@ wakeup
 wait
 stun
 step
-aD0
-aDf
 skill_144102
 skill_141201
 skill_141101
@@ -4871,7 +4958,6 @@ wakeup
 wait
 stun
 step
-zD"2
 skill_144106
 skill_141202
 skill_141101
@@ -4917,6 +5003,7 @@ wakeup
 wait
 stun
 step
+HD"R
 skill_14410501
 skill_144105
 skill_141202
@@ -5192,7 +5279,6 @@ wait
 stun
 step
 skill_14310601
-DfK
 skill_143106
 skill_141202
 %(	
@@ -5869,7 +5955,6 @@ wakeup
 wait
 stun
 step
-DF]
 skill_123110
 skill_121202
 skill_121102
@@ -5904,7 +5989,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_124012
-An OS player, Sinon plays shooting game but keeps missing the targets. Kirito wonders why she sucks as she looks like a good player. She figures out why after Seven comes in.
+An OS player, Sinon plays a shooting game but keeps missing the targets. Kirito wonders why she sucks as she looks like a good player. Then, Seven comes by and figures out why Sinon is bad at shooting.
 serif
 4_sinon_124012
 Sinon
@@ -6489,6 +6574,7 @@ wakeup
 wait
 stun
 step
+HDj
 skill_104106
 skill_102201
 skill_101101
@@ -6573,7 +6659,8 @@ wakeup
 wait
 stun
 step
-zDv
+zD2
+zDb
 skill_104101
 skill_102201
 skill_101101
@@ -6648,7 +6735,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104031
-A Gnomes in ALO. She enjoys hot springs and feels great. She bubbles over about her very first Japanese bath experience and forgets that she's only wearing a bath towel. 
+An NPC, Gnomes in ALO. She enjoys hot springs and feels great. She bubbles over about her very first Japanese bath experience and forgets that she's only wearing a bath towel. 
 serif
 4_strea_104031
 Strea
@@ -6659,7 +6746,7 @@ wakeup
 wait
 stun
 step
-zDP
+zDJ
 skill_104102
 skill_102201
 skill_101101
@@ -6734,7 +6821,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104031
-A Gnomes in ALO. She enjoys hot springs and feels great. She bubbles over about her very first Japanese bath experience and forgets that she's only wearing a bath towel. 
+An NPC, Gnomes in ALO. She enjoys hot springs and feels great. She bubbles over about her very first Japanese bath experience and forgets that she's only wearing a bath towel. 
 serif
 4_strea_104031
 Strea
@@ -6776,7 +6863,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104030
-An NPC of ALO. She wears a rolling diner waitress outfit.
+An NPC in ALO. She's wearing a roller skating waitress outfit.
 serif
 4_yuna_104030
 Yuna
@@ -6871,6 +6958,7 @@ wait
 stun
 step
 m5	
+HDl
 skill_103125
 skill_102202
 skill_101101
@@ -6988,8 +7076,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_104024
-An NPC of ALO as a navigation pixie. Strea made a sailor suit assumed the smallest size for Yui, but it was still too large to her.
-Used Leprechaun magic to make equipments smaller temporarily...
+An NPC of ALO as a navigation pixie. Strea made a sailor suit assumed the smallest size for Yui, but it was still too large to her. Used Leprechaun magic to make equipments smaller temporarily...
 serif
 4_yui_104024
 Yui
@@ -7041,7 +7128,6 @@ wakeup
 wait
 stun
 step
-HD&m
 skill_103122
 skill_102201
 skill_101101
@@ -7170,7 +7256,6 @@ wait
 stun
 step
 e.	
-zCZ
 skill_103115
 skill_101201
 skill_101101
@@ -8086,7 +8171,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_95001
-OS player. Gnomes in ALO. Rain comes to Agil's shop to ask questions about some items. Agil offers to give some more information about other stuff, then she happily takes the offer. 
+An OS player. Gnomes in ALO. Rain comes to Agil's shop to ask questions about some items. Agil offers to give some more information about other stuff, then she happily takes the offer. 
 serif
 5_agil_95001
 Agil
@@ -8128,7 +8213,7 @@ special_1
 attack_1
 skill_cutin_10001
 battle_cutin_94003
-ALO player. Earth fairy, Gnome. He is still a merchant in ALO, and he runs a place in  Yggdrasil city. Even though he is a merchant , he still has ability to fight just as strong as top players.
+An ALO player. Earth fairy, Gnome. He is still a merchant in ALO, and he runs a place in  Yggdrasil city. Even though he is a merchant, he still has ability to fight just as strong as top players.
 serif
 4_agil_94003
 Agil
@@ -8720,7 +8805,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_85001
-A SAO survivor, Cait Sith in ALO. To master Asuna's killer move, Silica tries to find a partner but has trouble finding one.
+An SAO survivor, Cait Sith in ALO. To master Asuna's killer move, Silica tries to find a partner but has trouble finding one.
 serif
 4_silica_84001
 Silica
@@ -8844,7 +8929,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84034
-OS player. Silica joins a small event which is to collect ores. Dr. Fish gets in her way as they start poking her legs. For Pina's food,  she comes up with a good idea.
+An OS player. Silica joins a small event which is to collect ores. Dr. Fish gets in her way as they start poking her legs. For Pina's food, she comes up with a good idea.
 serif
 4_silica_84034
 Silica
@@ -8885,7 +8970,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84033
-OS player. Kazuto and Suguha head to the festival. On the way, Suguha looses up her summer kimono because of the heat and Kirito chides her. While they enjoy the summer evening breeze, they start OS.
+An OS player. Kazuto and Suguha head to the festival. On the way, Suguha looses up her summer kimono because of the heat and Kirito chides her. While they enjoy the summer evening breeze, they start OS.
 serif
 4_leafa_84033
 Suguha
@@ -8927,7 +9012,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84032
-An ALO player, Spriggan. After Star Festival Quest, Philia heads to Another Quest which is based on Greek traditional star festival. This episode seems like the same story as the famous lyra mythology.
+An ALO player, Spriggan. After the Star Festival Quest, Philia heads to Another Quest which is based on Greek traditional star festival. This episode seems like the same story as the famous lyra mythology.
 serif
 4_philia_84032
 Philia
@@ -9176,7 +9261,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84026
-An ALO player, Music fairy Pooka. Seven enjoys maid event but she conflicts with other players who like otaku and recent maid culture. It seems that the cause of conflicts is contradiction. 
+An ALO player, Music fairy Pooka. Seven enjoys the maid event but she conflicts with other players who like otaku and recent maid culture. It seems that the cause of conflicts is contradiction. 
 serif
 4_seven_84026
 Seven
@@ -9217,7 +9302,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84025
-An ALO Player. Wind fairy Sylph.Leafa and Yuuki  are experiencing the little mermaid story in Anderson island. The little mermaid story, however, is a tragic love story. As Leafa did not want to face such a sad ending, she was terribly saddened.
+An ALO Player, Wind fairy Sylph. Leafa and Yuuki are experiencing the little mermaid story in Anderson island. The little mermaid story, however, is a tragic love story. As Leafa did not want to face such a sad ending, she was terribly saddened.
 serif
 4_leafa_84025
 Leafa
@@ -9260,7 +9345,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_84024
-A player of the limited VRMMO Pop Star Online.The type is Young Idol. Her trauma from the initial SAO recalls as she gains popularity, and Pina recognizes...
+A player of the limited VRMMO Pop Star Online. The type is Young Idol. Her trauma from the initial SAO recalls as she gains popularity, and Pina recognizes...
 serif
 4_silica_84024
 Silica
@@ -10786,7 +10871,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_65006
-An SAO player. Vice Commander of the Knights of the Blood Oath and one o the top players in the Assault Team. Her ethnic costume is the reason for her shiny smile?
+An SAO player. Vice Commander of the Knights of the Blood Oath and the top players in the Assault Team. Her ethnic costume is the reason for her shiny smile?
 serif
 5_asuna_65006
 Asuna
@@ -10895,7 +10980,6 @@ wakeup
 wait
 stun
 step
-/D<L
 skill_64103
 skill_62101
 %&'
@@ -11280,7 +11364,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64032
-A Sylph in ALO. They are short on staff to carry the portable shrine at the festival. Leafa come by but she doesn't seem to be a big help.
+A Sylph in ALO. They are short on staff to carry the portable shrine at the festival. Later, Leafa comes to help but she doesn't seem to be a big help.
 serif
 4_leafa_64032
 Leafa
@@ -11290,7 +11374,7 @@ wakeup
 wait
 stun
 step
-/D:
+/D&
 skill_63131
 skill_62101
 %&'
@@ -11429,7 +11513,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64029
-An ALO player, Cait Sith. After Star Festival Quest, Silica heads to Another Quest which is based on Finnish traditional star festival. The story unfolds as the old couple became stars after their deaths.
+An ALO player, Cait Sith. After Star Festival Quest, Silica heads to another quest which is based on Finnish traditional star festival. The story unfolds as the old couple became stars after their deaths.
 serif
 4_silica_64029
 Silica
@@ -11686,7 +11770,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64024
-Limited VRMMO game, PSO Player. In new VRMMO, she dresses in matching outfits with her mum and enjoys the game as an idol player.
+A player in the Limited VRMMO game, PSO. In new VRMMO, she dresses in matching outfits with her mum and enjoys the game as an idol player.
 serif
 4_yui_64024
 Yui
@@ -11737,7 +11821,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64022
-An SA:O NPC who's transferred her data over to ALO. She was interested in the Hina-Matsuri Festival and invites Kirito to a difficult Quest.
+An NPC in SA:O who's transferred her data over to ALO. She was interested in the Hina-Matsuri Festival and invites Kirito to a difficult Quest.
 serif
 4_premiere_64022
 Premiere
@@ -11933,7 +12017,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64018
-A player of the limited VRMMO Pop Star Online.The type is Natural Pops Idol. Yuuki was always felt nervous when dancing in public. With the help of Kirito, She secretly practices.
+A player of the limited VRMMO Pop Star Online. The type is Natural Pops Idol. Yuuki was always felt nervous when dancing in public. With the help of Kirito, She secretly practices.
 serif
 4_yuuki_64018
 Yuuki
@@ -12031,7 +12115,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_64016
-An SA:O NPC who's transferred her data over to ALO. This hungry girl believes that food
+An NPC in SA:O. who's transferred her data over to ALO. This hungry girl believes that food
 and eating all of it
 is the key to understanding the world. But unexpectedly...
 serif
@@ -13808,9 +13892,9 @@ wakeup
 wait
 stun
 step
-HD>
+HD:
 skill_2412401
-HD&
+HD"
 skill_24124
 skill_22102
 skill_21201
@@ -13934,7 +14018,7 @@ wakeup
 wait
 stun
 step
-HD:<
+HD6<
 skill_24122
 skill_22204
 skill_21201
@@ -14058,8 +14142,8 @@ wakeup
 wait
 stun
 step
-zD<
-zDr
+zD8
+zDn
 skill_24116
 skill_22102
 skill_21201
@@ -14173,7 +14257,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_25006
-ALO player, Sylph. Lisbeth creates some special shoes as their secret weapons that are looking pretty noticeable. To cover them, Leafa comes up with some idea...  
+An ALO player, Sylph. Lisbeth creates some special shoes as their secret weapons that are looking pretty noticeable. To cover them, Leafa comes up with some idea...  
 serif
 5_leafa_25006
 Leafa
@@ -14468,7 +14552,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24046
-An NPC  in SAO. She loses her memory and wanders around in the forest. She gets her memory back as she bumps into Kirito and Asuna. Though she remembers her role but saves Kirito and Asuna disobeying the system.
+An NPC in SAO. She loses her memory and wanders around in the forest. She gets her memory back as she bumps into Kirito and Asuna. Though she remembers her role but saves Kirito and Asuna, disobeying the system.
 serif
 4_yui_24046
 Yui
@@ -14758,7 +14842,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24038
-Leafa goes to Aries quest after playing Athena quest in Thule island, . She ends up role-playing the legendary history of Aries with Kirito, although the brother and sister in the history are destined to be disrupted...
+Leafa takes the Aries quest after playing the Athena quest in Thule island, . She ends up role-playing the legendary history of Aries with Kirito, although the brother and sister are destined to be disrupted...
 serif
 4_leafa_24038
 Leafa
@@ -14923,7 +15007,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24034
-An OS player. In the real world, Leafa visit a river in a mountain to hung out with Philia and Kirito. When they boot their Ogumas, they know the area is OS playable area. Three of them starts exploring the area.
+An OS player. In the real world, Leafa visit a river in a mountain to hung out with Philia and Kirito. Whe they boot their Ogumas, they know the area is OS playable area. The three of them start exploring the area. 
 serif
 4_leafa_24034
 Suguha
@@ -14933,9 +15017,8 @@ wakeup
 wait
 stun
 step
-"Df
 skill_2312702
-Cb.
+CZ.
 skill_2312701
 skill_23127
 skill_22202
@@ -14968,7 +15051,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24033
-Argo a info broker in ALO was taking a time out during Alicia's event. However, after restarting some players seems to be holding a grudge against her.
+Argo, an info broker in ALO, was taking a time out during Alicia's event. However, after restarting some players seem to be holding a grudge against her.
 serif
 4_argo_24033
 Argo
@@ -15010,7 +15093,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24031
-ALO player and  blacksmith fairy Leprechaun. Because of her reputation as a maid of Rain, she is in danger to be exposed her identity in the real world. Kirito attempts taking a countermeasure with Seven to help Rain.
+Rain, an ALO player and a blacksmith fairy Leprechaun. Because of her reputation as a maid, she is in danger to be exposed her identity in the real world. Kirito attempts taking a countermeasure with Seven to help Rain.
 serif
 4_rain_24031
 Rain
@@ -15051,7 +15134,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24030
-An ALO Player. Earth fairy, Gnome. Strea loved sailor suits and equipped it regardless of place. The Quality, however, was not the greatest. Strea drags Kirito and party members down on difficult Quests.
+An ALO Player. Earth fairy, Gnome. Strea loved her sailor suits and equipped it regardless of place. The quality, however, was not the greatest. Strea drags Kirito and party members down on difficult Quests.
 serif
 4_strea_24030
 Strea
@@ -15301,7 +15384,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_24024
-An OS player. Kirigaya Suguha. ALO Sylph,Sakuya tells her that there are not enough players in their regular tournament in Sylph's tribe while she's into OS. 
+An OS player. Kirigaya Suguha. ALO Sylph, Sakuya tells her that there are not enough players in their regular tournament in Sylph's tribe while she's into OS. 
 serif
 4_leafa_24024
 Suguha

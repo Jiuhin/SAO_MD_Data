@@ -44,6 +44,15 @@ TBD
 SPB Rapier R4
 weapon10_0001
 TBD
+Hopeful Bow Tie R4
+accessory01_0065
+TBD
+Hopeful Bow Tie R3
+accessory01_0065
+TBD
+Hopeful Bow Tie R2
+accessory01_0065
+TBD
 Symbol of a Diva R4
 accessory01_0064
 TBD
@@ -604,6 +613,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+Blazer in Youth R4
+armor03_0112
+TBD
+Blazer in Youth R3
+armor03_0112
+TBD
+Blazer in Youth R2
+armor03_0112
 TBD
 OS Diva Dress R4
 armor03_0111
@@ -1353,6 +1371,12 @@ TBD
 Divine Shiner +1 R4
 weapon09_0022
 TBD
+Spring Evening Spear R5
+weapon09_0020
+TBD
+Spring Evening Spear R4
+weapon09_0020
+TBD
 Balloon Lance R5
 weapon09_0019
 TBD
@@ -1682,6 +1706,12 @@ weapon07_0038
 TBD
 Rain-making Long Bow +1 R4
 weapon07_0038
+TBD
+Cherry Blossom Longbow R5
+weapon07_0037
+TBD
+Cherry Blossom Longbow R4
+weapon07_0037
 TBD
 Cupid's Passion +1 R5
 weapon07_0036

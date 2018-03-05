@@ -580,6 +580,12 @@ images/event/4089/4089_top.png
 images/event/4089/4089_banner.png
 images/event/4089/4089_banner.png
 ORDINAL SCALE Another Stage
+Medal Scout
+images/event/4083/event_item_4083.png
+images/event/4083/4083_top.png
+images/event/4083/4083_banner.png
+images/event/4083/4083_banner.png
+School Life with Friends
 images/event/4082/4082_top.png
 images/event/4082/4082_banner.png
 images/event/4082/4082_banner.png

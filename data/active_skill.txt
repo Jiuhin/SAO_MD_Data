@@ -533,6 +533,10 @@ Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike
 skill_icon_lance_3_{}
+A Combination skill. A gust of wind with cherry blossom petals swallows up an enemy to attack.
+Spring Celebration
+Spring Celebration
+skill_icon_lance_3_{}
 A combination skill. Stab an enemy with a lance and spin around the lance. Increases your speed and give away balloons from a unicycle. Decreases enemies' defense.
 Divine Scatter
 Divine Scatter
@@ -828,6 +832,10 @@ skill_icon_rod_1_{}
 A low-level fire spell. Fire a small fireball at a target.
 Fireball
 Fireball
+skill_icon_bow_3_{}
+A combination skill. With sunlight, arrows rain down from a magical cherry blossom shape in the sky.
+Spring Storm
+Spring Storm
 skill_icon_bow_3_{}
 Shoots an arrow over the enemies head and rains down arrows in a heart shaped pattern. Recovers all the party members' HP.
 Appassionato Blue

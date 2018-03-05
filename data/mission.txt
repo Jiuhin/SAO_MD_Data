@@ -1209,6 +1209,24 @@ Complete "ORDINAL SCALE Another Stage (Master +1)".
 Complete "ORDINAL SCALE Another Stage (Master)".
 4089001
 Complete "ORDINAL SCALE Another Stage(Int.)".
+4083025,2,45
+Complete "School Life with Friends (Master +1)" in under 45 sec.
+4083025,2,60
+Complete "School Life with Friends (Master +1)" in under 1min.
+4083025
+Complete "School Life with Friends (Maste +1)".
+4083024,2,45
+Complete "School Life with Friends(Master)" in under 45 sec.
+4083024,2,60
+Complete "School Life with Friends (Master)" in under 1min.
+4083024
+Complete "School Life with Friends (Master)".
+4083025,2
+Complete "School Life with Friends (Master +1)" without down.
+4083024,2
+Complete "School Life with Friends (Master)" without down.
+4083024,2,100
+Complete "School Life with Friends (Master)" with a 100+ hit combo
 4082001+4082002+4082003+4082004+4082005+4082006+4082007+4082008+4082009+4082010+4082011+4082012+4082013,1,1
 Complete all the 1-25F at the QT Point Clearing Event "The Evil Labyrinth" with an S rank.
 4082006+4082007+4082008+4082009+4082010+4082011+4082012+4082013,1,1

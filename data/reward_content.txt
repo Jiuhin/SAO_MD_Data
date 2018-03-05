@@ -1,92 +1,79 @@
-<}	
-8{	
-xy	
+D}	
+D{	
+ty	
 (y	
-pv	
-(u	
-4t	
-Ls	
-pr	
-0r	
-<p	
-Xo	
-xn	
-0n	
-Xm	
-xl	
-,l	
-xi	
-(i	
-8h	
-Tf	
-le	
-$e	
-Pd	
-8c	
-Xb	
-ta	
-(a	
-x_	
+Dx	
+Tw	
+hu	
+8t	
+ds	
+Lr	
+pq	
+$q	
+do	
+Dn	
+tl	
+(l	
+Dk	
+li	
+th	
+$h	
+4g	
+Xf	
+De	
+ld	
+$d	
+<a	
 ,_	
-LZ	
-XY	
-hX	
-xV	
-0V	
-XU	
-tT	
-(T	
-HS	
-pR	
-(R	
-HQ	
-xO	
+,[	
+8Z	
+PY	
+tX	
+4X	
+dW	
+4T	
+0R	
+DQ	
 ,O	
-HN	
-XM	
-lK	
-$K	
-<J	
-hI	
-PH	
-tG	
-(G	
-DF	
-hE	
-HD	
-dC	
-xB	
-,B	
-HA	
-p?	
-x>	
-(>	
-8:	
-x8	
-,8	
-P7	
-x6	
-06	
-L5	
-03	
-H2	
-X1	
-t/	
-D.	
-p-	
-0-	
-h,	
-D+	
-8)	
-4'	
-H&	
-d%	
-0$	
-D"	
-X!	
-p 	
-( 	
-4		
+<N	
+DM	
+XL	
+pK	
+(K	
+TJ	
+LI	
+tH	
+(H	
+DG	
+dF	
+DE	
+dD	
+,C	
+HB	
+dA	
+,?	
+<<	
+x9	
+,9	
+L8	
+t7	
+,7	
+L6	
+d5	
+04	
+L3	
+l0	
+$0	
+</	
+h.	
+8,	
+H)	
+P(	
+X'	
+<&	
+l%	
+0"	
+H 	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -138,6 +125,39 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+5n:
+DM>
+School Life with Friends
+-5n:
+CM>
+Our Scool
+4n:
+BM>
+Almost Done
+e4n:
+AM>
+Taking Actions
+4n:
+A New Suggestion
+3n:
+?M>
+Heavy Labor
+93n:
+>M>
+Building a School
+2n:
+Looking for a place
+q2n:
+<M>
+Coveted Uniform
+2n:
+A Great Plan
+1n:
+:M>
+Making a Uniform
+E1n:
+9M>
+Desire for Uniforms
 Afterward
 Their Intentions
 Share Your Reason!
@@ -1162,6 +1182,24 @@ Beater
 The World of Swords
 e	88t
 -Ordinal Scale-
+}e	87t
+OS Gold Medal x2
+e	86t
+Memory Diamond x5
+d	85t
+OS Gold Medal x2
+Qd	84t
+OS Gold Medal x1
+c	83t
+Rainbow Essence x1
+c	82t
+School Life with Friends
+%c	81t
+OS Upgrade Crystal  x2
+b	80t
+OS Upgrade Crystal  x1
+]b	8/t
+OS Gold Medal x1
 400EP
 	8)t
 250EP
@@ -1534,6 +1572,21 @@ U)G6
 [Constant Love] Asuna
 'G6
 Memory Diamond x100
+Uniform C.R.Crystal x5
+Uniform C.R.Crystal x4
+Uniform C.R.Crystal x3
+Uniform C.R.Crystal x2
+Uniform C.R.Crystal x1
+Uniform C.R.Crystal x10
+Uniform C.R.Crystal x9
+Uniform C.R.Crystal x8
+Uniform C.R.Crystal x7
+Uniform C.R.Crystal x6
+Uniform C.R.Crystal x5
+Uniform C.R.Crystal x4
+Uniform C.R.Crystal x3
+Uniform C.R.Crystal x2
+Uniform C.R.Crystal x1
 Reawakened Memories C.R.Crystal x5
 Reawakened Memories C.R.Crystal x4
 Reawakened Memories C.R.Crystal x3
@@ -10182,6 +10235,39 @@ OS Silver Medal x2
 OS Bronze Medal x5
 OS Bronze Medal x3
 OS Bronze Medal x2
+aq:
+aq:
+OS Upgrade Crystal  x1
+OS Gold Medal x1
+_q:
+_q:
+OS Silver Medal x5
+OS Silver Medal x3
+]q:
+]q:
+OS Silver Medal x2
+OS Bronze Medal x5
+[q:
+[q:
+OS Bronze Medal x3
+Zq:
+Zq:
+OS Bronze Medal x2
+Yq:
+Yq:
+OS Bronze Medal x1
+Xq:
+Xq:
+Blazer in Youth R3
+Wq:
+Wq:
+Blazer in Youth R2
+Vq:
+Vq:
+Hopeful Bow Tie R3
+Uq:
+Uq:
+Hopeful Bow Tie R2
 Valentine's Day Upgrade Crystal  x1
 Valentine's Day Gold Medal x1
 Valentine's Day Silver Medal x5

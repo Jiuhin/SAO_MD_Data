@@ -149,6 +149,64 @@ Character Story
 [Efficient Smith] Lizbeth Lv.30
 Character Story
 [Efficient Smith] Lizbeth Lv.10
+DM>
+DM>
+Event Story
+School Life with Friends
+School Life with Friends
+CM>
+-.V
+CM>
+Event Story
+School Life with Friends
+Our Scool
+BM>
+BM>
+Event Story
+School Life with Friends
+Almost Done
+AM>
+e-V
+AM>
+Event Story
+School Life with Friends
+Taking Actions
+Event Story
+School Life with Friends
+A New Suggestion
+?M>
+?M>
+Event Story
+School Life with Friends
+Heavy Labor
+>M>
+9,V
+>M>
+Event Story
+School Life with Friends
+Building a School
+Event Story
+School Life with Friends
+Looking for a place
+<M>
+q+V
+<M>
+Event Story
+School Life with Friends
+Coveted Uniform
+Event Story
+School Life with Friends
+A Great Plan
+:M>
+:M>
+Event Story
+School Life with Friends
+Making a Uniform
+9M>
+9M>
+Event Story
+School Life with Friends
+Desire for Uniforms
 rE>
 Q!S
 rE>

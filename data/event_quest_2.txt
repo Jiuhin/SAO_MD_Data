@@ -219,36 +219,36 @@ Way to go!
 Buy more time!
 ?Q>
 images/battle/cutin/battle_cutin_65016.png
-疲れてる仲間たちに変わって
-新しいパーティとスイッチよ!
+Your current team is exhausted!
+Let's switch to a new party!
 >Q>
 >Q>
 images/battle/cutin/battle_cutin_65016.png
-疲れてる仲間たちに変わって
-新しいパーティとスイッチよ!
+Your current team is exhausted!
+Let's switch to a new party!
 <Q>
 <Q>
 images/battle/cutin/battle_cutin_65016.png
-疲れてる仲間たちに変わって
-新しいパーティとスイッチよ!
+Your current team is exhausted!
+Let's switch to a new party!
 :Q>
 9Q>
 :Q>
 images/battle/cutin/battle_cutin_65016.png
-疲れてる仲間たちに変わって
-新しいパーティとスイッチよ!
+Your current team is exhausted!
+Let's switch to a new party!
 8Q>
 7Q>
 8Q>
 images/battle/cutin/battle_cutin_65016.png
-疲れてる仲間たちに変わって
-新しいパーティとスイッチよ!
+Your current team is exhausted!
+Let's switch to a new party!
 6Q>
 5Q>
 6Q>
 images/battle/cutin/battle_cutin_65016.png
-疲れてる仲間たちに変わって
-新しいパーティとスイッチよ!
+Your current team is exhausted!
+Let's switch to a new party!
 ,Q>
 +Q>
 )Q>

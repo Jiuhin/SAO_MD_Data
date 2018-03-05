@@ -5568,6 +5568,130 @@ Quest
 bg_thumbnail_8049
 Quest 1
 ORDINAL SCALE Another Stage (Int.)
+QM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 5
+School Life with Friends (Master +1)
+PM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 4
+School Life with Friends (Master)
+OM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 3
+School Life with Friends (EX)
+NM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 2
+School Life with Friends (Expert)
+MM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 1
+School Life with Friends (Int.)
+DM>
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+School Life with Friends
+CM>
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Our Scool
+BM>
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Almost Done
+AM>
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Taking Actions
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+A New Suggestion
+?M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Heavy Labor
+>M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Building a School
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Looking for a place
+<M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Coveted Uniform
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+A Great Plan
+:M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Making a Uniform
+9M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Desire for Uniforms
 ]I>
 Enemy Lv: 120
 Appears: Non-Attr.
@@ -18578,6 +18702,130 @@ Quest
 bg_thumbnail_8049
 Quest 1
 ORDINAL SCALE Another Stage (Int.)
+QM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 5
+School Life with Friends (Master +1)
+PM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 4
+School Life with Friends (Master)
+OM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 3
+School Life with Friends (EX)
+NM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 2
+School Life with Friends (Expert)
+MM>
+Boss Goblin appears at school, 
+where they are totally uncalled for. 
+Bosses will get hit by their ball and 
+weakened when parrying attacks. 
+Parry and finish them off in a flash!
+Defeat All Enemies
+Quest
+bg_thumbnail_8043
+Quest 1
+School Life with Friends (Int.)
+DM>
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+School Life with Friends
+CM>
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Our Scool
+BM>
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Almost Done
+AM>
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Taking Actions
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+A New Suggestion
+?M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Heavy Labor
+>M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Building a School
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Looking for a place
+<M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Coveted Uniform
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+A Great Plan
+:M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Making a Uniform
+9M>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Desire for Uniforms
 ]I>
 Enemy Lv: 120
 Appears: Non-Attr.

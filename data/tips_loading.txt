@@ -112,15 +112,8 @@ goes up, so does your team cost limit!
 Chat
 You can chat with other players in towns
 or when on Co-op Quests.
+tips_15.png
 Elemental Affinities
-Fire>Wind
-Wind>Earth
-Earth>Water
-Water>Fire
-Holy>Dark
-Dark>Holy
-Non-elemental 
-no elemental weakness.
 Burn
 If you get burned by certain fire
 attacks, you'll continue to take damage

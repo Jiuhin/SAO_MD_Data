@@ -678,6 +678,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
+You can use in the "The Vernal Memory of Uniform"
+Uniform C.R.Crystal
+item_m_record_crystal_blue
 You can use in the "Reawakened Memories"
 Reawakened Memories C.R.Crystal
 item_m_record_crystal_blue

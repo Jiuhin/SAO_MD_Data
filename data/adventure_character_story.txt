@@ -63,6 +63,16 @@ Character Story
 Character Story
 [Flying Without Wings] Leafa Lv.10
 Character Story
+[The Coveted Life] Yuuki Lv.80
+Character Story
+[The Coveted Life] Yuuki Lv.70
+Character Story
+[The Coveted Life] Yuuki Lv.50
+Character Story
+[The Coveted Life] Yuuki Lv.30
+Character Story
+[The Coveted Life] Yuuki Lv.10
+Character Story
 [The Unexpected] Sinon Lv.80
 Character Story
 [The Unexpected] Sinon Lv.70
@@ -302,6 +312,16 @@ Character Story
 [Star Scientist] Seven Lv.30
 Character Story
 [Star Scientist] Seven Lv.10
+Character Story
+[Youthful Days] Asuna Lv.80
+Character Story
+[Youthful Days] Asuna Lv.70
+Character Story
+[Youthful Days] Asuna Lv.50
+Character Story
+[Youthful Days] Asuna Lv.30
+Character Story
+[Youthful Days] Asuna Lv.10
 Character Story
 [The Wild Joker] Sinon Lv.80
 Character Story

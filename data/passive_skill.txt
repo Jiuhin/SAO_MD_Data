@@ -26,12 +26,14 @@ Zero damage received when enemy attacked.
 No damage received
 Attack of party members (OS characters) increases by 10% when you are a leader.
 P-Members' (OS characters) Atk +10% (P-Leader)
-パーティリーダーの時、パーティ内の風属性キャラの攻撃が6%増加する
-LS:パーティの風属性の攻撃+6%
 Attack of party members (Dark-elem.) increases by 10% when you are a leader.
 P-Members' (Dark-elem.) Atk +10% (P-Leader)
 Attack of party members (Dark-elem.) increases by 6% when you are a leader.
 P-Members' (Dark-elem.) Atk +6% (P-Leader)
+Attack of party members (Wind-elem.) increases by 6% when you are a leader.
+P-Members' (Wind-elem.) Atk +6% (P-Leader)
+Attack of party members (Non-elem.) increases by 6% when you are a leader.
+P-Members' (Non-elem.) Atk +6% (P-Leader)
 Attack of all party members increase by 6% when you are a leader.
 P-Members' Attack +6% (P-Leader)
 Attack of all party members increase by 3% when you are a leader.
@@ -418,12 +420,12 @@ Increases Attack for 30-hit+ combos by 6%. (vs. Fire-elem.)
 -mk
 Survive a fatal damage with HP1% just once
 Fatal Damage Resistance
-Increases Attack for 30-hit+ combos by 6%. (vs. Dark-elem.)
-30+ Combo: Attack +6% (vs. Dark)
-Increases Attack for 30-hit+ combos by 6%. (vs. Wind-elem.)
-30+ Combo: Attack +6% (vs. Wind)
-Increases Attack for 30-hit+ combos by 6%. (vs. Fire-elem.)
-30+ Combo: Attack +6% (vs. Fire)
+Increases Attack for 30-hit+ combos by 6%. (Dark-elem.)
+30+ Combo: Attack +6% (Dark)
+Increases Attack for 30-hit+ combos by 6%. (Wind-elem.)
+30+ Combo: Attack +6% (Wind)
+Increases Attack for 30-hit+ combos by 6%. (Fire-elem.)
+30+ Combo: Attack +6% (Fire)
 hlk
 Increases Attack for 30-hit+ combos by 6%.
 30+ Combo: Attack +6%
