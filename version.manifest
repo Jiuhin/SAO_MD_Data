@@ -2,7 +2,7 @@
     "host": "https://assets-defrag-gl.gree.net/assets/en/",
     "manifestPath": "1/22/",
     "remoteVersionUrl": "version.manifest",
-    "remoteManifestUrl": "project_828a1392a2b7c339ae18b28165f02085.manifest",
-    "version": "1.22.27",
+    "remoteManifestUrl": "project_5ebe7b474e5e8608f343c9de313e8085.manifest",
+    "version": "1.22.28",
     "engineVersion": "Cocos2d-x v3.7"
 }

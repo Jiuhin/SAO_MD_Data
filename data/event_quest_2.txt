@@ -24,6 +24,11 @@ t)z
 s)z
 r)z
 q)z
+m1k
+l1k
+k1k
+j1k
+i1k
 	BI
 images/battle/cutin/battle_cutin_35001.png
 Time is almost up!

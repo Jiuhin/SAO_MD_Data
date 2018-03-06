@@ -174,7 +174,6 @@ Q8>
 QCG
 QCG
 L>e3
-<e3
 >e3
 <e3
 QCG

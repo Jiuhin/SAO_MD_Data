@@ -2200,6 +2200,10 @@ images/lottery/500/15001_weapon_banner.png
 images/lottery/200/12001_weapon_top_s.png
 34343c96e7834b5b233a580d1a280e34
 images/lottery/200/12001_scout_top_s.png
+aaf37d9a55f2138e73b9d8276d9b5e45
+images/lottery/078/20781_scout_top_s.png
+ca3c1315e2abe627bbeea48141a93ad9
+images/lottery/078/20781_scout_banner.png
 2f2d757045fbd88b34d03291791e2043
 images/lottery/075/20751_scout_top_s.png
 c8b8ac57bb33478050f7577d217191e3

@@ -1,143 +1,183 @@
-Ht{
-P&{
-P0z
-L	y
-Hkx
-h1x
-Low
-H9w
-L/v
-Lou
-$[u
-$bt
-HWs
-PKs
-$0s
-0Ar
-0xp
-plp
-Pap
-h8o
-t&n
-xpm
-xbm
-0Wm
-lnl
-08l
-x/j
-x3i
-t4h
-xyg
-H7g
-(ef
-H<f
-tWe
-Hsc
-DDc
-0ka
-$.a
-Tr[
-T?[
-TnZ
-0iY
-,&Y
-lKX
-L?X
-D2X
-t!X
-DBW
-pOV
-<BT
-l3S
-PqR
-LRQ
-XDQ
-P6P
-lpO
-D]O
-0RO
-89O
-t0O
-HyN
-$LN
-X4N
-$iM
-8TL
-h	L
-PvK
-lNK
-pJJ
-p5J
-DzI
-PnI
-8AH
-xZG
-pzF
-XdF
-D$F
-hcE
-$/E
-p4D
-4?B
-,"A
-pu<
-Hf:
-L(9
-$j8
-,68
-lu7
-D87
-,B6
-4z5
-4.5
-P84
-T-4
-,l3
-8[3
-lA3
-l.3
-PE2
-002
-xW1
-L 1
-HK0
-8>0
-8E,
-8c+
-Hd)
-xR)
-d.)
-Xz'
-0o'
-<7'
-d"'
-$w&
-8?&
-Ta%
-l.%
-DO"
-l("
-dQ!
-pJ	
-DPq
+Xy}
+pN}
+,U{
+,rz
+0cz
+hLz
+0Xx
+,Gx
+l(x
+DLw
+8"w
+p}v
+(Av
+8-u
+l)t
+lrs
+(or
+<Tr
+(4q
+dVp
+$6p
+Hzo
+,2o
+tyn
+XMn
+,Mm
+x+l
+pSk
+dCk
+T/k
+dqj
+0cj
+8Aj
+t	j
+LRi
+L.h
+dHg
+8uf
+D&f
+4je
+pJe
+X2e
+0Ud
+tLd
+Hec
+4<c
+</c
+Xyb
+xkb
+tea
+DWa
+,>a
+,s_
+$I_
+(?_
+tO]
+TB]
+L6]
+8R[
+T&[
+0gZ
+tZZ
+x2Z
+4(Z
+H	Z
+DeY
+PFY
+0QW
+d7W
+,-W
+d!W
+$<V
+TKU
+tvT
+(bT
+(6T
+0GS
+t(S
+l<Q
+D"Q
+<wP
+$,P
+hGM
+D6M
+t5L
+pDK
+8+K
+<qJ
+x J
+$aI
+(GI
+4SH
+(qG
+<gG
+,PG
+0AG
+0QF
+4HE
+(FD
+(oC
+xIC
+(pA
+h[A
+TCA
+PF?
+te>
+d'>
+(q<
+Le<
+([<
+4K<
+t%<
+0x:
+hS:
+$B:
+T.:
+hz9
+$j9
+LS9
+DI9
+p<9
+0b8
+T"8
+l+7
+<p6
+4!5
+<U4
+0'4
+dU3
+,"3
+Pc2
+pO1
+xB1
+$F/
+(8/
+hz-
+<k-
+(N-
+P7-
+Tz,
+(o,
+Lc,
+T6,
+xw+
+XD)
+0M'
+Lk&
+x%&
+4z%
+HN%
+Ps$
+(J$
+8'$
+Hm"
+$x!
+T6!
+0	!
+DI 
+t1 
+h8	
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
 Repeat: The game has been cleared.
 System Announcement
 2017110701_13_a
-8Qq
+4"z
 bg_black
 Kirito
 2017110701_12_a
+TLq
+(os
 Did... Did that do it?
 Kirito
 2017110701_11_a
-<Rq
 still_14_heathcliff_dead
 Hngh!
 Kirito
 2017110701_10_a
+lMq
 still_14_heathcliff_dead
 bg_13_boss
 ...!
@@ -146,7 +186,6 @@ Heathcliff
 bg_black
 Kirito
 2017110701_8_a
-dtx
 still_14_kirito_revive
 RRRGH! HAAAAAH!
 Kirito
@@ -155,14 +194,11 @@ still_14_kirito_revive
 Huh?
 Heathcliff
 2017110701_6_a
-<Uq
 still_14_kirito_revive
 bg_13_boss
 Urgh...! Nngh!
 Kirito
 2017110701_5_a
-4Vq
-TIr
 bg_black
 No. Not yet...!
 Kirito
@@ -171,7 +207,6 @@ still_14_asuna_lost
 (I believe in you, Kirito.)
 Asuna
 2017110701_3_a
-hWq
 still_14_heathcliff_stab
 It's all over now...
 Kirito
@@ -185,12 +220,10 @@ Haha, Pop Star Online can't
 come out soon enough!
 Kazuto
 799999999_39_a
-DZq
 Haha, maybe I'll serenade you
 sometime, if you're lucky.
 Agil
 799999999_38_a
-d]q
 I bet you'd be pretty dang good
 at it, too.
 Kazuto
@@ -198,35 +231,35 @@ Kazuto
 You would...
 Kazuto
 799999999_36_a
+<Xq
 I don't want to be a pop star so
 much as I think it'd be cool to
 sing in front of an audience.
 Agil
 799999999_35_a
-<_q
 YOU want to be a pop star?
 Kazuto
 799999999_34_a
-H]q
 For the millionth time, I...
 Wait, what?
 Kazuto
 799999999_33_a
+xXq
 Well then, how about I join up
 with your group when the real deal
 gets released?
 Agil
 799999999_32_a
+8Yq
 D-Dude, how many times do I have
 to tell you? No way!
 Kazuto
 799999999_31_a
-<_q
 You totally wanted to be a pop
 star, didn't you?
 Agil
 799999999_30_a
-Pbq
+tZq
 ...
 Kazuto
 799999999_29_a
@@ -235,11 +268,11 @@ Then I'll see you both later.
 Bye!
 Asuna
 799999999_28_a
+x[q
 I should be able to
 dive in tonight, too.
 Agil
 799999999_27_a
-paq
 Y-Yeah...
 Kazuto
 799999999_26_a
@@ -247,8 +280,6 @@ I'll see you at the usual
 spot in ALO?
 Asuna
 799999999_25_a
-tbq
-<cq
 Okay, okay, if you say so.
 Alright, I should get going.
 Asuna
@@ -261,7 +292,6 @@ Kazuto
 Th-That's not what I meant...!
 Kazuto
 799999999_22_a
-Tdq
 Hehe, I knew it, you secretly
 wanted to get on stage and sing
 this whole time!
@@ -276,70 +306,74 @@ them to make a whole game
 out of it.
 Agil
 799999999_19_a
-lfq
 Either way, this was probably
 some sort of test version, right?
 Agil
 799999999_18_a
+(dq
 Who knows, maybe they figured
 they'd let the girls strut their
 stuff on stage or something.
 Kazuto
 799999999_17_a
-Pjq
+tbq
 Well, there tend to be more guys
 in VRMMOs...
 Kazuto
 799999999_16_a
-phq
-8iq
 Hmm, you have a point. All the
 pop stars in our group and in
 Seven's were girls...
 Asuna
 799999999_15_a
-0iq
+peq
 You sure it's random? Not 'cause
 you're a guy?
 Agil
 799999999_14_a
+ddq
 You get assigned a random role
 the first time you dive in, and
 that's the one I got.
 Kazuto
 799999999_13_a
+$eq
 N-No! I was their manager.
 Kazuto
 799999999_12_a
+pfq
 What? Wait, were you a pop star
 in the game, too?
 Agil
 799999999_11_a
+Hfq
 I dunno, I can't really picture
 you as a pop star, Agil.
 Kazuto
 799999999_10_a
-Tlq
 Huh... Sounds pretty interesting.
 Makes me wish I could've tried
 it out after all.
 Agil
 799999999_9_a
+Tiq
 the more I loved improving my
 singing abilities, and helping the
 group perform better and better.
 Asuna
 799999999_8_a
+Diq
 Hehe, yeah. It was kind of weird
 at first, but the more I played,
 Asuna
 799999999_7_a
+,iq
 but adding those singing
 mechanics made it play far
 differently than any other game.
 Kazuto
 799999999_6_a
-Poq
+dlq
 It was pretty much your basic
 combat-centric VRMMO,
 Kazuto
@@ -350,6 +384,7 @@ Kazuto
 799999999_4_a
 Kazuto
 799999999_3_a
+dkq
 Agil
 799999999_2_a
 bg_16_pub
@@ -357,74 +392,77 @@ And so the final curtain has
 fallen on Pop Star Online...
 Asuna
 799999999_1_a
-lqq
+xlq
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100601_1_a
+Tmq
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100501_1_a
-lsq
+pmq
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100401_1_a
+$nq
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100301_1_a
-<tq
+poq
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100201_1_a
+$pq
 bg_09_dungeon_boss
 ぎゃぁぁぁあぁ……
 軍のメンバー
 500100101_1_a
-<vq
-(wq
 ...will give you a chance. 
 A chance to have a one-on-one
 battle with me.
 ???
 480404801_5_a
+xrq
 You are here finally. 
 You deserve some reward.
 ???
 480404801_4_a
-Pyq
+Hrq
 ???
 480404801_3_a
+Ttq
 ???
 480404801_2_a
 bg_black
 ???
 480404801_1_a
+,tq
+$tq
 Leafa
 408401201_57_a
 Ha ha ha...
 Kirito
 408401201_56_a
-Xzq
-Pzq
 Alicia
 408401201_55_a
 Asuna! We're not done here!
 Sinon
 408401201_54_a
-,{q
+lwq
 Come on, Sinonon! Stop sulking!
 Let's go help some animals!
 Asuna
 408401201_53_a
+lvq
 Oh, yeah! Perfect excuse!
 Let's do that!
 Asuna
 408401201_52_a
-0}q
 Change us back later! We have to
 bring the animals back to the
 circus!
@@ -433,6 +471,8 @@ Leafa
 ...
 Kirito
 408401201_50_a
+(xq
+$xq
 Leafa
 408401201_49_a
 Kirito
@@ -440,6 +480,8 @@ Kirito
 Don't do it!
 Asuna
 408401201_47_a
+Dyq
+<yq
 Alicia
 408401201_46_a
 Do it already!
@@ -447,12 +489,14 @@ Sinon
 408401201_45_a
 Asuna
 408401201_44_a
+Xzq
 Leafa
 408401201_43_a
 Uhh... So, am I changing us back,
 or what?
 Kirito
 408401201_42_a
+H{q
 Alicia
 408401201_41_a
 My bunny abilities are terrible!
@@ -467,6 +511,8 @@ Besides, it's not just cute,
 but powerful too!
 Asuna
 408401201_37_a
+x}q
+p}q
 Alicia
 408401201_36_a
 No. Just, no.
@@ -564,7 +610,6 @@ Kirito
 408401201_8_a
 Leafa
 408401201_7_a
-$,r
 Kirito
 408401201_6_a
 But in the end, they got away from
@@ -579,7 +624,6 @@ a bunch of polymorphed Cait Sith
 bandits?
 Alicia
 408401201_3_a
-0.r
 Sinon
 408401201_2_a
 bg_event_alo_cait_sith_palace
@@ -603,7 +647,6 @@ Their taming abilities are still
 dangerous!
 Asuna
 408401101_22_a
-hhr
 Graaawr!!
 Monster
 408401101_21_a
@@ -671,6 +714,7 @@ Asuna
 408401101_4_a
 Asuna
 408401101_3_a
+<7r
 Kirito
 408401101_2_a
 bg_02_forest
@@ -699,7 +743,6 @@ The fact that my powder worked
 was the clue we needed...
 Sinon
 408401001_29_a
-PAr
 Asuna
 408401001_28_a
 Leafa
@@ -745,7 +788,6 @@ Sinon
 Where have you been?!
 Leafa
 408401001_15_a
-($r
 Hey look, it's Kirito.
 Asuna
 408401001_14_a
@@ -794,7 +836,6 @@ bg_02_forest
 Graaawr!
 Monster
 408401001_1_a
-p,r
 Yeah!
 Asuna
 408400901_46_a
@@ -858,7 +899,6 @@ Asuna
 Grrr...
 Animal
 408400901_29_a
-86r
 Yeah... Let's return them to the
 circus safe and sound.
 Asuna
@@ -876,6 +916,7 @@ as animal shields while they run
 away!
 Asuna
 408400901_25_a
+H	r
 Looks like it! And these animals,
 they're from the circus!
 Leafa
@@ -955,9 +996,9 @@ Asuna
 408400901_4_a
 Leafa
 408400901_3_a
+$dr
 Asuna
 408400901_2_a
-dCr
 bg_02_forest
 Grrr...
 Cu Sith
@@ -999,10 +1040,8 @@ Kirito
 That's it!
 Kirito
 408400801_27_a
-hpr
 Kirito
 408400801_26_a
-t"r
 Huh. That's a thought.
 Asuna
 408400801_25_a
@@ -1016,6 +1055,7 @@ Sinon
 408400801_23_a
 Sinon
 408400801_22_a
+XIr
 I cannot wait to get my claws on!
 Leafa
 408400801_21_a
@@ -1027,6 +1067,7 @@ Kirito
 408400801_19_a
 Sinon
 408400801_18_a
+4Kr
 I know, it's awesome!!
 Besides, it was cheap when only
 they had them, but now? Ha ha ha!
@@ -1041,6 +1082,7 @@ In which case, I guess you get
 them by fighting and gaining EXP?
 Asuna
 408400801_15_a
+xqr
 Kirito
 408400801_14_a
 So you didn't have these right
@@ -1061,12 +1103,12 @@ Sinon
 408400801_10_a
 Asuna
 408400801_9_a
+lPr
 Looks that way, yeah. But I'm
 positive we didn't have these
 when we first got transformed.
 Kirito
 408400801_8_a
-xqr
 From the names, they have to be
 the same abilities that those
 Cu Sith had, right?
@@ -1080,6 +1122,7 @@ Yeah! Special skills!
 Fang attack! Claw attack! Rawr!
 Leafa
 408400801_5_a
+Hwr
 Leafa
 408400801_4_a
 So you got them too?
@@ -1104,7 +1147,6 @@ Kirito
 408400701_50_a
 Asuna
 408400701_49_a
-D7z
 Hey guys! Get over here!
 Leafa
 408400701_48_a
@@ -1116,6 +1158,7 @@ into this, but I doubt it's just
 something they added for fun.
 Asuna
 408400701_46_a
+pYr
 It really is. I wonder if it's
 supposed to be a puzzle that
 we have to figure out.
@@ -1126,7 +1169,6 @@ new race, then this whole event
 is a bit of a mystery.
 Asuna
 408400701_44_a
-p,r
 Yeah, I agree. And if they did,
 they'd probably have a big
 announcement and update...
@@ -1154,7 +1196,6 @@ Ah. I can see why. We know so
 little about them.
 Asuna
 408400701_38_a
-h1r
 I was just thinking about those
 Cu Sith...
 Kirito
@@ -1220,6 +1261,7 @@ Alicia
 408400701_18_a
 Sinon
 408400701_17_a
+0ir
 So they can tame animals AND
 monsters... Ugh.
 Leafa
@@ -1248,6 +1290,7 @@ Asuna
 408400701_11_a
 Kirito
 408400701_10_a
+l:r
 Sorry! I can't heal everyone fast
 enough!
 Leafa
@@ -1273,7 +1316,6 @@ Alicia
 408400701_1_a
 Asuna
 408400601_36_a
-<wr
 Ouch... Weapons, claws, fangs...
 These guys are way too powerful!
 Kirito
@@ -1306,9 +1348,11 @@ I parried this guy's attack, but
 I'm still hurt somehow!
 Kirito
 408400601_28_a
+p0r
 Kirito! Are you okay?!
 Asuna
 408400601_27_a
+Lwr
 Ngh...! Wh-What's with this guy?!
 Kirito
 408400601_26_a
@@ -1344,6 +1388,7 @@ come from, and when did they
 surround us?!
 Leafa
 408400601_16_a
+0Ir
 What?!
 Kirito
 408400601_15_a
@@ -1400,7 +1445,6 @@ Asuna
 408400501_31_a
 Asuna
 408400501_30_a
-<Xr
 Ha ha, you really don't like these
 dog fairies, do you, Sinon?
 Kirito
@@ -1453,7 +1497,6 @@ Kirito
 408400501_16_a
 Kirito
 408400501_15_a
-(Mr
 Sure! Besides, I can't just sit on
 the sidelines while they're
 attacking the Cait Sith.
@@ -1471,6 +1514,7 @@ See this expression?
 It means "no."
 Sinon
 408400501_11_a
+HJr
 What, no! Keep the ears, Sinonon!
 They're SO cute!
 Asuna
@@ -1489,7 +1533,6 @@ to talk to them if we ever want
 to get rid of these ears.
 Sinon
 408400501_6_a
-H%r
 So maybe there's some sort of
 limited trial period for this new
 fairy race or something?
@@ -1500,7 +1543,6 @@ bunch of rare fairies a while
 back. The Dwarfs.
 Kirito
 408400501_4_a
-L$r
 Maybe they're a new fairy added in
 the latest update?
 Asuna
@@ -1511,32 +1553,35 @@ bg_11_home_lounge
 Hmm, Cu Sith. Cool.
 Asuna
 408400501_1_a
+x r
 Seconded.
 Kirito
 408400401_43_a
+t!r
+Pmr
 Agreed. I suggest we find these
 Cu Sith and have a sit-down chat
 with them.
 Sinon
 408400401_42_a
-0)r
+("r
 I'd like to know too, but I'm more
 interested in finding a way to
 turn us back.
 Leafa
 408400401_41_a
-D(r
 Sinon
 408400401_40_a
 Leafa
 408400401_39_a
+dfr
 That's weird. Why just us?
 Kirito
 408400401_38_a
-l)r
 No, not that I know of.
 Alicia
 408400401_37_a
+<{r
 Kirito
 408400401_36_a
 Leafa
@@ -1545,7 +1590,6 @@ Has anyone else been polymorphed
 like us by these Cu Sith?
 Sinon
 408400401_34_a
-0+r
 Fine, Cu Sith it is.
 So, Alicia...
 Sinon
@@ -1555,17 +1599,17 @@ Cu Sith, huh? Sounds a lot like
 that for now at least.
 Kirito
 408400401_32_a
-,.r
+$'r
 I read something about dog fairies
 in a book on Irish folklore once.
 They were called "Cu Sith."
 Leafa
 408400401_31_a
-T-r
-8pr
 Leafa? You okay there?
 Kirito
 408400401_30_a
+t(r
+p(r
 Sinon
 408400401_29_a
 Kirito
@@ -1587,24 +1631,23 @@ can tame too. So I guess all beast
 fairies have animal affinity?
 Sinon
 408400401_23_a
-D1r
+X.r
 Which makes them...what?
 Doig Sith?
 Kirito
 408400401_22_a
-H4r
+l,r
 So you've got a horde of angry
 dog-eared fairies attacking the
 kitty cat Cait Sith, right, Alicia?
 Kirito
 408400401_21_a
+8-r
 Degree of flop depends on the
 bunny, but I think we should get
 back to the enemy invasion now.
 Kirito
 408400401_20_a
-h3r
-04r
 Aren't bunny ears longer and
 straighter and less floppy?
 Sinon
@@ -1614,20 +1657,22 @@ both doggies. You've got...
 What are those, bunny?
 Leafa
 408400401_18_a
+h/r
 Kirito
 408400401_17_a
 Leafa
 408400401_16_a
-46r
 Just Kirito and Leafa? Not me?
 So...dog ears?
 Sinon
 408400401_15_a
+l1r
 But you know, the more I look, the
 more I realize Kirito and Leafa's
 ears are similar to theirs.
 Alicia
 408400401_14_a
+t1r
 It's the same story out here.
 Alicia
 408400401_13_a
@@ -1636,7 +1681,7 @@ stats, the group tactics, and the
 big ears that aren't Cait Sith...
 Alicia
 408400401_12_a
-,8r
+l4r
 But it sounds like the ones who
 got you are the same ones
 attacking our territory.
@@ -1645,15 +1690,14 @@ Alicia
 Wow, tough luck.
 Alicia
 408400401_10_a
-l9r
 Leafa
 408400401_9_a
-lCr
 Sinon
 408400401_8_a
 So, here's what happened...
 Kirito
 408400401_7_a
+,5r
 Yeah, but you can't blame 'em.
 Leafa
 408400401_6_a
@@ -1674,10 +1718,11 @@ bg_05_danac
 Thanks for coming, Sinon!
 Alicia
 408400401_1_a
-d>r
+l8r
 Whaaat?!
 Kirito
 408400301_43_a
+t9r
 Leafa
 408400301_42_a
 Cait Sith territory is being
@@ -1685,7 +1730,6 @@ attacked by fairies no one's
 ever seen before?!
 Sinon
 408400301_41_a
-4Hr
 Alicia... She says...
 Sinon
 408400301_40_a
@@ -1696,20 +1740,18 @@ Huh, what's this...? Also,
 seriously, Asuna, stop.
 Sinon
 408400301_38_a
-<qr
+(<r
 Asuna! Not there! It's sensitive!
 Sinon
 408400301_37_a
 Asuna
 408400301_36_a
-dBr
 Sinon
 408400301_35_a
 Waah!
 D-Don't rub my ears like that!!
 Leafa
 408400301_34_a
-PCr
 Fine, no love for you. Come
 here, Leafa! You too, Sinonon!
 I'mma rub you!
@@ -1718,13 +1760,11 @@ Asuna
 H-Hey, back off! No touching!
 Kirito
 408400301_32_a
-TEr
+(?r
 Still, bad guys or not...
 You guys are just TOO CUTE!!
 Asuna
 408400301_31_a
-0Er
-(Er
 Asuna
 408400301_30_a
 Yeah, which means the god angle's
@@ -1732,7 +1772,7 @@ a bust. So... Who in the world
 were they?
 Kirito
 408400301_29_a
-8Fr
+xBr
 We're in a Norse-themed game, and
 Norse gods generally use magic or
 items to fly, not wings.
@@ -1742,13 +1782,12 @@ And they were, without a doubt,
 fairy wings.
 Sinon
 408400301_27_a
-Hwr
+4Br
 I'm going to agree with Leafa.
 They were so fast, I was only able
 to catch a glimpse of their wings.
 Sinon
 408400301_26_a
-lHr
 But these guys were broken good!
 I call hacks!
 Leafa
@@ -1760,39 +1799,37 @@ supposed to have strong
 and weak points, right?!
 Leafa
 408400301_23_a
+xEr
 Wow... Doesn't that sound a little
 OP?
 Asuna
 408400301_22_a
+DEr
 they're master tamers, and they
 can polymorph their enemies.
 Multiple fairies, at least...
 Kirito
 408400301_21_a
-lKr
 Honestly, no idea. We barely got
 a glimpse of them. All we know is
 that they're strong and fast,
 Kirito
 408400301_20_a
-8Lr
+xHr
 So... Who were they? What did they
 look like?
 Asuna
 408400301_19_a
+lGr
 Yup...
 Kirito
 408400301_18_a
-DMr
 Kirito
 408400301_17_a
-8Or
 Wait... You mean the bad guys got
 you?
 Asuna
 408400301_16_a
-$Nr
-0	w
 I never imagined they were just
 distracting us while their friends
 snuck up on us from the sky...
@@ -1803,33 +1840,33 @@ Leafa
 An enemy got the drop on us.
 Sinon
 408400301_13_a
+lJr
 No way, can't you tell? This is
 most definitely not equipment...
 Kirito
 408400301_12_a
-$Rr
 Where'd you get them? Is it a
 unique hat or something? Spill!
 Asuna
 408400301_11_a
-(Qr
+x{r
 Whoa, what're those!
 They're...adorable!!
 Asuna
 408400301_9_a
 Kirito
 408400301_10_a
+$Or
 I'm beat...
 Leafa
 408400301_8_a
 Leafa
 408400301_7_a
+8Nr
 sigh
 ...
 Sinon
 408400301_6_a
-LSr
-DSr
 Asuna
 408400301_5_a
 ...
@@ -1838,54 +1875,54 @@ Kirito
 えっ、えええーーーっ!?
 Asuna
 408400301_3_a
-<Vr
+4Or
 So, how'd the quest go?
 Find those animals?
 Asuna
 408400301_2_a
-,Ur
 bg_11_home_lounge
 Oh, hey Kirito. Welcome back.
 Asuna
 408400301_1_a
-dVr
-,Wr
+xPr
 Grr! You're gonna regret that!
 Sinon
 408400201_32_a
+0Sr
 An aerial attack?!
 Leafa
 408400201_31_a
-lWr
 What?! Where?!
 Oh, above us!!
 Kirito
 408400201_30_a
-DXr
 Yeah. I don't think they're after
 us... AH! Danger!
 Sinon
 408400201_29_a
+DTr
 Hmm... It looks like they're
 keeping an eye on us from
 a distance for now.
 Leafa
 408400201_28_a
+4Tr
 So... Are we being attacked or
 what?
 Kirito
 408400201_27_a
-(Zr
 Wow. Sylph ears and Cait Sith eyes
 are awesome! I can't see or hear
 them at all!
 Kirito
 408400201_26_a
+(Wr
 They're stealthy and slinking
 through the shadows...like a
 pack of wolves.
 Sinon
 408400201_25_a
+8Vr
 I can see sunlight flashing off
 the eyes of sneaky things trying
 to hide in those shadows.
@@ -1900,14 +1937,15 @@ What? What happened?
 What am I missing?!
 Kirito
 408400201_22_a
+<Xr
 Incoming!
 Leafa
 408400201_21_a
-prv
 I mean, maybe, but...
 Hold up!
 Sinon
 408400201_20_a
+<Yr
 Well, okay. There could be a
 unique NPC involved here.
 We've seen them before.
@@ -1921,11 +1959,11 @@ Leafa
 Well, how about this theory?
 Leafa
 408400201_17_a
+L[r
 I have to agree. It seems like the
 most logical conclusion.
 Kirito
 408400201_16_a
-Xar
 The only explanation I can think
 of is that someone used the taming
 skill on them.
@@ -1936,25 +1974,25 @@ they were, and quite friendly.
 Now they're running wild.
 Sinon
 408400201_14_a
+t]r
 And secondly, there's the animal
 connection.
 Sinon
 408400201_13_a
-pcr
 Truth.
 Kirito
 408400201_12_a
+H_r
 But Cait Sith are the only fairies
 in ALO with big ears, right?
 Sinon
 408400201_11_a
-4fr
+,_r
 Hey, don't worry! The circus lady
 said it wasn't a Cait Sith,
 you can trust her!
 Leafa
 408400201_10_a
-Ler
 Well... Yeah.
 Sinon
 408400201_9_a
@@ -1963,27 +2001,27 @@ Cait Sith that're causing all this
 trouble, aren't you?
 Kirito
 408400201_8_a
+$ar
 Hold on, I know that tone...
 Kirito
 408400201_7_a
+xbr
 We're pretty close to Cait Sith
 territory...
 Sinon
 408400201_6_a
-Tir
+Lbr
 Of course, the circus animals were
 seen running rampant over here,
 so...yeah.
 Leafa
 408400201_5_a
-hhr
 Yeah. Or at least, that's what the
 circus lady would have us believe!
 Leafa
 408400201_4_a
 Sinon
 408400201_3_a
-dir
 Leafa
 408400201_2_a
 bg_04_field_flower_night
@@ -1995,32 +2033,31 @@ Kirito
 Well, that's vague...
 Leafa
 408400101_34_a
-Dmr
+<fr
 Hmm... No, I think they were a
 little...different.
 Circus Woman
 408400101_33_a
-Dlr
 Cait Sith?
 Kirito
 408400101_32_a
+Xgr
 Hmm...
 Sinon
 408400101_31_a
-,mr
+lir
 But I think they all had big ears.
 Circus Woman
 408400101_30_a
-dor
 No...
 Circus Woman
 408400101_29_a
-8nr
+xjr
 Hey, do you know what race these
 fairies were?
 Leafa
 408400101_28_a
-tpr
+lir
 Well, each fairy race in ALO looks
 different. Maybe we can narrow it
 down?
@@ -2046,6 +2083,8 @@ the animals slipped out of their
 cages and left us...
 Circus Woman
 408400101_21_a
+0mr
+(mr
 Yui
 408400101_20_a
 Well, let's go swing by the circus
@@ -2053,6 +2092,7 @@ and ask. Maybe they know
 something.
 Kirito
 408400101_19_a
+4nr
 I'm with Leafa here. The animals
 were treated well, and there was
 no cruelty I could see.
@@ -2060,7 +2100,6 @@ Sinon
 408400101_18_a
 Sinon
 408400101_17_a
-xur
 That can't be it... The trainers
 were really nice to those animals,
 and they all loved each other.
@@ -2075,17 +2114,15 @@ Yui
 Well, then that means...
 Kirito
 408400101_13_a
-lyr
 All the creatures you just named
 were those that the circus NPCs
 used for their tricks.
 Sinon
 408400101_12_a
-,zr
+Prr
 Ahh, I get it.
 Sinon
 408400101_11_a
-,xr
 Oh!
 Leafa
 408400101_9_a
@@ -2099,41 +2136,44 @@ Yikes. It sounds like a madhouse
 out there... Hey, waaait a sec...
 Kirito
 408400101_7_a
-4zr
+tvr
 Rumors say the animals attacking
 people include lions and tigers
 and bears...oh my. Monkeys too.
 Yui
 408400101_6_a
-t}r
 There were those beasties Yuuki
 made for that event that caused
 havoc... That sort of thing again?
 Kirito
 408400101_5_a
+dvr
 That's...odd. We're living in a
 fantasy world, so animals here are
 either "neutral" or "murder" mode.
 Kirito
 408400101_4_a
+8wr
 That's correct. Wild animals
 throughout Alfheim have suddenly
 begun attacking fairies.
 Yui
 408400101_3_a
-T}r
 Yui
 408400101_2_a
+p/u
 bg_event_alne_field
 Animals are running amok?!
 Kirito
 408400101_1_a
+dyr
 Leave the security to us!
 Klein
 408301201_32_a
 No problem!
 Kirito
 408301201_31_a
+dzr
 Thanks, you two!
 Asuna
 408301201_30_a
@@ -2495,7 +2535,6 @@ Honestly, this is a real lucky
 break for us.
 Kirito
 408300901_15_a
-()s
 e-V
 Yeah, that's part of why Asuna
 agreed to let them join the
@@ -2556,9 +2595,11 @@ e-V
 Arianrhod's friends, I hear.
 Kirito
 408300901_3_a
+XOs
 e-V
 Kirito
 408300901_2_a
+4)s
 e-V
 bg_20_butterfly_valley
 Hey, who're those guys?
@@ -2718,6 +2759,7 @@ Yui
 408300701_29_a
 Yui
 408300701_28_a
+hft
 I'm gonna put this together now!
 Sphica
 408300701_27_a
@@ -2751,7 +2793,6 @@ Agil
 NNNRRRGH!!
 Klein
 408300701_19_a
-POs
 Right, right... Fine, I'll do it
 by myself. Sheesh. Here we
 go... HUP!
@@ -2794,6 +2835,7 @@ Aren't Salamanders supposed to be
 pretty strong?
 Agil
 408300701_7_a
+pPs
 Yeah, well, they're Gnomes, and so
 are you!
 Klein
@@ -2811,6 +2853,7 @@ Yeah! Lemme just pick this up,
 and... Whoa! This thing's HEAVY!
 Klein
 408300701_3_a
+Dws
 Klein
 408300701_2_a
 bg_20_butterfly_valley
@@ -2854,7 +2897,6 @@ Yuuki
 9,V
 Siune
 408300601_22_a
-x4s
 9,V
 I wanna go to virtual school too!
 I'm helping!
@@ -2869,7 +2911,6 @@ thought it'd be nice to share. We
 can only let in people we trust.
 Asuna
 408300601_19_a
-0-s
 9,V
 So Asuna decided to issue an open
 invitation for those people to
@@ -2918,7 +2959,6 @@ Asuna
 What do you mean?
 Yuuki
 408300601_8_a
-(3s
 9,V
 Hehe, that's not exactly the case.
 Asuna
@@ -2941,6 +2981,7 @@ for me! It'd be great, but it's
 way too much effort!
 Yuuki
 408300601_4_a
+tcs
 9,V
 Yup, that's right!
 Asuna
@@ -2953,11 +2994,10 @@ bg_20_butterfly_valley
 You're...building a school?
 Yuuki
 408300601_1_a
-$ks
+xes
 Alright!
 Asuna
 408300501_49_a
-D%s
 Yay! I think we have a ray of
 hope!
 Silica
@@ -2970,6 +3010,7 @@ Silica
 408300501_46_a
 Asuna
 408300501_45_a
+t!s
 They're perfect! They're basically
 neutral ground,
 Leafa
@@ -3001,6 +3042,7 @@ Yeah? What? Also, why are you
 staring at the sky?
 Leafa
 408300501_37_a
+t9s
 Wait!
 Asuna
 408300501_36_a
@@ -3008,7 +3050,6 @@ Leafa
 408300501_35_a
 Asuna
 408300501_34_a
-,Is
 Yeah... This is really tough.
 Silica
 408300501_33_a
@@ -3067,6 +3108,7 @@ Ahaha, yeah. It's way too
 dangerous there.
 Asuna
 408300501_16_a
+tCs
 Mainly because the levels of
 the monsters that spawn are
 ridiculous.
@@ -3085,6 +3127,7 @@ There shouldn't be any places that
 are open for construction.
 Asuna
 408300501_11_a
+hEs
 Yeah, each floor's designed around
 a specific quest chain, hub town,
 or dungeon.
@@ -3098,6 +3141,7 @@ Silica
 Aincrad's probably out too...
 Silica
 408300501_8_a
+X{s
 Agreed.
 Asuna
 408300501_7_a
@@ -3111,6 +3155,7 @@ race's territory, there are bound
 to be problems.
 Leafa
 408300501_5_a
+pIs
 Yeah... I think so too.
 Asuna
 408300501_4_a
@@ -3123,6 +3168,7 @@ It's going to be tough to build it
 somewhere in Alfheim proper.
 Leafa
 408300501_1_a
+0	s
 q+V
 q+V
 Well, okay! You bet!
@@ -3197,7 +3243,6 @@ q+V
 Yuuki...
 Kirito
 408300401_20_a
-0ds
 q+V
 I mean, just kidding! I won't do
 that, honest! Also, please don't
@@ -3242,6 +3287,7 @@ It was a girl's uniform. In your
 room. Ho ho.
 Strea
 408300401_12_a
+pps
 q+V
 By the waaay, whose uniform DID
 you take pictures of, hmm?
@@ -3269,7 +3315,6 @@ like, three paces? You're...
 uncomfortably close.
 Kirito
 408300401_7_a
-0!s
 q+V
 Hehe, I know, I'm amazing.
 Now come here and give me
@@ -3292,7 +3337,6 @@ Kirito
 q+V
 Strea
 408300401_2_a
-DG}
 q+V
 bg_21_alne
 Whoa, that's so cute!
@@ -3302,18 +3346,17 @@ I like that! Thanks for all the
 help, Liz!
 Asuna
 408300301_25_a
-h%s
 My enthusiasm is a plague! But
 let's think some more and see if
 we can come up with other ideas.
 Liz
 408300301_24_a
-0&s
 Your enthusiasm is definitely
 infectious. Maybe we should do
 it...
 Asuna
 408300301_23_a
+0!s
 Then we just set it so you can't
 see in from outside, and bam!
 Perfect privacy, no risk.
@@ -3324,11 +3367,11 @@ owner, you can only let people
 in if and when you want to.
 Liz
 408300301_21_a
+(%s
 I'm sure it'd feel just like going
 to school!
 Asuna
 408300301_20_a
-l+s
 Still, a school, huh? If we could
 make one, then hang out in it in
 uniform, Yuuki'd be super happy.
@@ -3339,18 +3382,18 @@ right. We'll definitely need a lot
 of help.
 Asuna
 408300301_18_a
+t&s
 Then we gather the materials,
 get a bunch of people, and build
 it. It'll be a ton of work.
 Liz
 408300301_17_a
-<+s
+X&s
 Who knows? But it's worth a shot!
 We'll need to find a spot and hire
 players with the right skills.
 Liz
 408300301_16_a
-,ns
 Are you kidding me? Is that even
 possible?
 Asuna
@@ -3360,55 +3403,55 @@ little cottage, Asuna! Think big!
 Let's build an entire school!
 Liz
 408300301_14_a
-d-s
 I guess we could, but why would
 we?
 Asuna
 408300301_13_a
+D(s
 We made candy houses! I forgot
 that players can make their own
 buildings in ALO! Let's do it!
 Liz
 408300301_12_a
+,ks
 Yeah, I do, but what about it?
 Asuna
 408300301_11_a
-</s
+4+s
 You remember THAT mess, right?!
 Liz
 408300301_10_a
+0gw
 Wait, I've got it! That
 Valentine's Day quest! The
 one in Salamander territory!
 Liz
 408300301_9_a
-D1s
 Hmm...
 Liz
 408300301_8_a
 For sure.
 Asuna
 408300301_7_a
-d1s
 Half the fun is in showing off
 sweet outfits and equips.
 Liz
 408300301_6_a
+X,s
 Besides, this is an MMO.
 Liz
 408300301_5_a
-(4s
 Yeah. She could just wear it in a
 locked, private room. No risk,
 but that's no fun.
 Liz
 408300301_4_a
-<3s
 Yuuki's pretending that she
 doesn't mind, but it's obvious
 she's really disappointed.
 Asuna
 408300301_3_a
+P.s
 Asuna
 408300301_2_a
 bg_21_alne
@@ -3416,22 +3459,24 @@ Ahh, I see the problem.
 That's a toughie.
 Liz
 408300301_1_a
-t5s
-Xxs
+L/s
 ...
 Kirito
 408300201_40_a
+80s
 Kirito
 408300201_39_a
+P1s
 So...what are we doing?
 Should I only make one for Yuuki?
 Strea
 408300201_38_a
+01s
 Okay, no sweat! I'll just wear it
 in private!
 Yuuki
 408300201_37_a
-x7s
+D4s
 Still, I don't want to do anything
 that might cause trouble for the
 SAO Survivors' School...
@@ -3442,13 +3487,14 @@ already using my real name
 in-game. That's risky enough.
 Asuna
 408300201_35_a
+T3s
 Asuna
 408300201_34_a
 Oh... Well, I'd hate it if I
 caused trouble for you or Asuna...
 Yuuki
 408300201_33_a
-p<s
+L4s
 But still, it could somehow end up
 with people finding out who we are
 in real life.
@@ -3478,20 +3524,20 @@ design is just a slight variation
 on our school's uniform.
 Kirito
 408300201_25_a
-x>s
 Asuna
 408300201_24_a
 No?
 Yuuki
 408300201_23_a
-4?s
 Wouldn't it be bad if other
 players saw you in that particular
 school uniform?
 Kirito
 408300201_22_a
+8:s
 Strea
 408300201_21_a
+t}s
 Hey, hold up a sec...
 Kirito
 408300201_20_a
@@ -3518,34 +3564,33 @@ Idea! Once it's finished, let's go
 out somewhere fun and party!
 Asuna
 408300201_14_a
-<Ds
 As long as I can wear it here,
 I'm happy!
 Yuuki
 408300201_13_a
+$?s
 Asuna
 408300201_12_a
 I don't mind that much.
 Yuuki
 408300201_11_a
+pBs
 But even if we can get her a
 school uniform, she still can't
 wear it to school in real life.
 Kirito
 408300201_9_a
-LFs
 Strea
 408300201_10_a
 Hehe, glad it all worked out.
 Asuna
 408300201_8_a
-DGs
 Asuna
 408300201_7_a
-Dws
 Woohoo! Strea, you're the best!
 Yuuki
 408300201_6_a
+tBs
 As long as you don't want any
 super fancy frills, I can design
 you a Strea original, no problem!
@@ -3559,49 +3604,59 @@ Strea
 Really?
 Kirito
 408300201_3_a
-$Js
+xDs
 Kirito
 408300201_2_a
+Hh}
 bg_21_alne
 Sure, I can make you one.
 It'll be easy.
 Strea
 408300201_1_a
-$Ks
+xEs
+bg_21_alne_inn
 You do?
 Yuuki
 408300101_35_a
-(Ls
+Kazuto
+408300101_34_a_1
+,uw
 Well, if wearing one in ALO is
 good enough, I know just who
 to talk to!
 Asuna
 408300101_34_a
+Asuna
+408300101_33_a_1
+bg_18_school
 I doubt there are any. ALO's a
 fantasy world, so it'd be weird to
 have real world school uniforms.
 Kazuto
 408300101_33_a
-TOs
 Even if there's a school uniform
 outfit in ALO, it won't matter if
 I'm not wearing it IN school.
 Yuuki
 408300101_32_a
-DOs
+lJs
 Never mind, then! I'm fine!
 Yuuki
 408300101_31_a
+,Js
+bg_21_alne_inn
 Oh, yeah... Sorry! I forgot about
 that!
 Yuuki
 408300101_30_a
-8Qs
+Asuna
+408300101_29_a_1
 I guess you could wear a uniform
 in ALO, but I get the feeling
 that's not what you're after.
 Kazuto
 408300101_29_a
+dNs
 You're not here in the flesh,
 you're just a projection.
 Kazuto
@@ -3611,11 +3666,14 @@ in VR, like sight, to the cameras
 and so on of the probe.
 Kazuto
 408300101_27_a
+PMs
 But...I don't think it's
 possible, Yuuki.
 Kazuto
 408300101_26_a
-TRs
+Kazuto
+408300101_25_a_1
+bg_18_school
 Er, right... Okay, sure.
 Asuna
 408300101_25_a
@@ -3623,10 +3681,15 @@ It's so pure and...youthful!
 And I bet it'll be fun!
 Yuuki
 408300101_24_a
+bg_21_alne_inn
 Because it looks super cute,
 that's why!
 Yuuki
 408300101_23_a
+,Ps
+Kazuto
+408300101_22_a_1
+bg_18_school
 Really? Why?
 Asuna
 408300101_22_a
@@ -3635,79 +3698,107 @@ I've never done! I want to wear
 a school uniform!
 Yuuki
 408300101_21_a
-PUs
+bg_21_alne_inn
 Hmm, I think I've done everything
 I was really looking forward to!
 Yuuki
 408300101_20_a
+Asuna
+408300101_19_a_1
+bg_18_school
 Hey guys! Let's stop chatting and
 get back to having fun! Yuuki,
 where would you like to go?
 Kazuto
 408300101_19_a
-lXs
+bg_21_alne_inn
 Asuna...
 Yuuki
 408300101_18_a
-<Ws
+PTs
+Kazuto
+408300101_17_a_1
 But in the end, I decided that I
 started my VR adventures as Asuna,
 so Asuna I'll stay.
 Asuna
 408300101_17_a
-tZs
 I did think about picking a
 different name for ALO.
 Asuna
 408300101_16_a
+Kazuto
+408300101_15_a_1
+bg_18_school
 Hehe, then we'd have the same
 name, silly.
 Asuna
 408300101_15_a
-0Ys
 Like "Yuuki"! Use your last name!
 Yuuki
 408300101_14_a
+bg_21_alne_inn
 Why didn't you use a different
 name when you started ALO?
 Yuuki
 408300101_13_a
+HXs
+Kazuto
+408300101_12_a_1
 Ugh, do you always have to bring
 that up? I get it, it's unusual,
 but it's not THAT unusual!
 Asuna
 408300101_12_a
-([s
+XYs
+Asuna
+408300101_11_a_1
+bg_18_school
 Yup! She was a total noob when she
 started SAO, so she used her real
 name.
 Kazuto
 408300101_11_a
+bg_21_alne_inn
 Hehe, sorry!
 Asuna's Asuna, though!
 Yuuki
 408300101_10_a
+([s
+Asuna
+408300101_9_a_1
 People besides us can hear you.
 Call me Kazuto, okay?
 Kazuto
 408300101_9_a
+Asuna
+408300101_8_a_1
+bg_18_school
 Glad to hear it. But please,
 don't use our game names here? 
 Kazuto
 408300101_8_a
+$]s
+xks
 It's all thanks to you two...and
 this awesome probe! Kirito, Asuna,
 you guys are the best!
 Yuuki
 408300101_7_a
+bg_21_alne_inn
 Yup, that's the one! But man,
 I'm just so happy I get to go
 to school in real life! Woo!
 Yuuki
 408300101_6_a
+xhs
+Asuna
+408300101_5_a_1
+bg_18_school
 Asuka Empire?
 Kazuto
 408300101_5_a
+bg_21_alne_inn
 Yeah, it was fun! Besides,
 studying old Japanese will help in
 that VRMMO we play sometimes!
@@ -3717,7 +3808,7 @@ Kazuto
 408300101_3_a
 Yuuki
 408300101_2_a
-bg_event_grounds
+bg_18_school
 You seemed to enjoy that last
 class, Yuuki!
 Asuna

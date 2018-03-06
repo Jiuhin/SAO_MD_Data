@@ -1,3 +1,6 @@
+comeback_bg
+daily_bonus_text_spring
+Comeback Bonus
 Zo[
 Special Login Bonus
 Special Login Bonus
@@ -35,7 +38,7 @@ Special Login Bonus
 Special Login Bonus
 OZo
 Special Login Bonus
-Vpd
+xVo
 Fan Event Bonus
 daily_bonus_global_eve_bg
 daily_bonus_text_global_campaign
@@ -54,7 +57,7 @@ B?Z_,dZ
 daily_bonus_new_years_eve_bg
 daily_bonus_text_new_years_eve
 TVCM Bonus
-Vpd
+fjV
 Fan Event Bonus
 comeback_bg
 tvcm_comeback_text
@@ -68,7 +71,7 @@ Special Login Bonus
 Special Login Bonus
 Special Login Bonus
 Special Login Bonus
-Vpd
+3Vo
 Fan Event Bonus
 SAO Clear Bonus
 Halloween Ghost Bonus
@@ -90,7 +93,6 @@ Gqr
 Fqr
 Eqr
 Weekend Bonus
-Vpd
 Fan Event Bonus
 Live Streaming Bonus
 daily_bonus_text_1st_the_seconedhalf_bg
@@ -112,11 +114,9 @@ G<f
 F<f
 E<f
 niconico Live CP
-Vpd
 Fan Event Bonus
-Vpd
 Fan Event Bonus
-Vpd
+Uow
 Special Login Bonus
 pQ{Y
 Special Login Bonus
@@ -164,7 +164,7 @@ Y Y
 Guerrilla Bonus
 Yoe
 Guerrilla Bonus
-Vpd
+7FUorOU
 Fan Event Bonus
 "YoN$Y
 Birthday Bonus
