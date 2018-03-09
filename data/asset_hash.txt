@@ -3644,6 +3644,10 @@ images/event/4801/4801_name.png
 images/event/4801/4801_banner.png
 3210e63632f0aff5e0fc4499f0ad8f12
 images/event/4801/4801_announce.png
+c67bb96ccde49ded1e38fff5e1c63087
+images/event/4705/4705_top.png
+fd551fab90e1aa9cb5f1f2efc466b736
+images/event/4705/4705_banner.png
 8647d02e0f657862936d5614dda091c0
 images/event/4704/4704_top.png
 aa366dc757beb2f41fed39aefe9a1958

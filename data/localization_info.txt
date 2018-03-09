@@ -195,6 +195,7 @@ Notices
 Weapons
 Scout
 Quests
+Do you want to copy the party number?
 Set a title
 Party {0}
 You cannot skip the stories of quests you

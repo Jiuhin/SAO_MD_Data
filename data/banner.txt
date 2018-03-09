@@ -149,6 +149,7 @@ images/event/4804/4804_banner.png
 images/event/4803/4803_banner.png
 images/event/4802/4802_banner.png
 images/event/4801/4801_banner.png
+images/event/4705/4705_banner.png
 images/event/4704/4704_banner.png
 images/event/4703/4703_banner.png
 images/event/4702/4702_banner.png
@@ -477,7 +478,7 @@ images/lottery/003/10034_weapon_banner.png
 images/lottery/003/10034_weapon_banner.png
 images/lottery/003/10034_weapon_banner.png
 images/lottery/003/10034_weapon_banner.png
-BNEI0271_tier.34sale,saomd_tier.34sale,jp.co.bandainamcoent.BNEI0294_SaleE,com.bandainamcoent.saomdas_sale_e,jp.co.bandainamcoent.BNEI0292_SaleE,com.bandainamcoent.saomdna_sale_e,jp.co.bandainamcoent.BNEI0293_SaleE,com.bandainamcoent.saomdeu_sale_e,BNEI0271_tier.34sale.qa,saomd_tier.34sale.qa,BNEI0271_tier.34sale.qagl,saomd_tier.34sale.qagl
+BNEI0271_tier.34sale,saomd_tier.34sale,jp.co.bandainamcoent.BNEI0294_SaleD,com.bandainamcoent.saomdas_sale_e,jp.co.bandainamcoent.BNEI0292_SaleD,com.bandainamcoent.saomdna_sale_e,jp.co.bandainamcoent.BNEI0293_SaleD,com.bandainamcoent.saomdeu_sale_e,BNEI0271_tier.34sale.qa,saomd_tier.34sale.qa,BNEI0271_tier.34sale.qagl,saomd_tier.34sale.qagl
 images/announcement/201803_sale_diamond_2.png
 BNEI0271_tier.18sale2,BNEI0271_tier.45sale2,BNEI0271_tier.56sale,saomd_tier.18sale2,saomd_tier.45sale2,saomd_tier.56sale2,jp.co.bandainamcoent.BNEI0294_SaleA,jp.co.bandainamcoent.BNEI0294_SaleB,jp.co.bandainamcoent.BNEI0294_SaleC,com.bandainamcoent.saomdas_sale_a,com.bandainamcoent.saomdas_sale_b,com.bandainamcoent.saomdas_sale_c,jp.co.bandainamcoent.BNEI0292_SaleA,jp.co.bandainamcoent.BNEI0292_SaleB,jp.co.bandainamcoent.BNEI0292_SaleC,com.bandainamcoent.saomdna_sale_a,com.bandainamcoent.saomdna_sale_b,com.bandainamcoent.saomdna_sale_c,jp.co.bandainamcoent.BNEI0293_SaleA,jp.co.bandainamcoent.BNEI0293_SaleB,jp.co.bandainamcoent.BNEI0293_SaleC,com.bandainamcoent.saomdeu_sale_1,com.bandainamcoent.saomdeu_sale_2,com.bandainamcoent.saomdeu_sale_3
 images/announcement/201803_sale_diamond.png

@@ -1,79 +1,93 @@
-D}	
-D{	
-ty	
-(y	
-Dx	
-Tw	
-hu	
-8t	
-ds	
-Lr	
-pq	
-$q	
-do	
-Dn	
-tl	
-(l	
-Dk	
-li	
-th	
-$h	
-4g	
-Xf	
-De	
-ld	
-$d	
-<a	
-,_	
-,[	
-8Z	
-PY	
-tX	
-4X	
-dW	
-4T	
+t}	
+(}	
+x{	
+,{	
+Hz	
+xx	
+,x	
+Lv	
+Xu	
+ht	
+xr	
+0r	
+Xq	
+tp	
+(p	
+Ho	
+pn	
+(n	
+Hm	
+xk	
+,k	
+Hj	
+Xi	
+lg	
+$g	
+<f	
+he	
+Pd	
+tc	
+(c	
+Db	
+ha	
+d_	
+H]	
+p[	
+xZ	
+(Z	
+8Y	
+HW	
+8V	
+xT	
+,T	
+PS	
+xR	
 0R	
-DQ	
-,O	
-<N	
-DM	
-XL	
-pK	
-(K	
-TJ	
-LI	
-tH	
-(H	
+LQ	
+0O	
+HN	
+XM	
+tK	
+DJ	
+pI	
+0I	
+hH	
 DG	
-dF	
-DE	
-dD	
-,C	
+8E	
+4C	
 HB	
 dA	
-,?	
-<<	
-x9	
-,9	
-L8	
-t7	
-,7	
-L6	
-d5	
-04	
-L3	
-l0	
-$0	
-</	
-h.	
-8,	
-H)	
-P(	
-X'	
-<&	
-l%	
-0"	
-H 	
+<?	
+D>	
+p<	
+(<	
+L:	
+l9	
+H8	
+,6	
+45	
+D4	
+p3	
+03	
+T2	
+t1	
+,1	
+L0	
+d/	
+t.	
+(-	
+L,	
+L+	
+L)	
+L(	
+L'	
+L&	
+4%	
+d"	
+D!	
+l 	
+$ 	
+d		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -686,6 +700,56 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+9qn
+Lv. 80 Decryption Key x1
+Lv. 70 Decryption Key x1
+Lv. 60 Decryption Key x1
+9Em
+Lv. 50 Decryption Key x1
+Lv. 40 Decryption Key x1
+9}l
+Lv. 30 Decryption Key x1
+Lv. 20 Decryption Key x1
+Lv. 10 Decryption Key x1
+9Qk
+Holy Skill Crystal x10
+Holy Critical Crystal x10
+Holy Defense Crystal x10
+9%j
+Holy Attack Crystal x10
+Holy MP Crystal x10
+9]i
+Holy HP Crystal x10
+Skill Crystal x20
+Critical Crystal x20
+91h
+Defense Crystal x20
+Attack Crystal x20
+9ig
+MP Crystal x20
+HP Crystal x20
+Skill Shard x50
+Critical Shard x50
+Defense Shard x50
+9ue
+Attack Shard x50
+MP Shard x50
+HP Shard x50
+9Id
+Earth Medallion x10
+Dark Medallion x10
+Holy Medallion x10
+Wind Medallion x10
+Water Medallion x10
+9Ub
+Fire Medallion x10
+Void Medallion x10
+Exchange Sword R2
+9)a
+Rainbow Essence x1
+Memory Diamond x5
+Upgrade Crystal x1
+OS Gold Medal x1
 Amour Fleche R4
 95_
 OS Diva Dress R3
@@ -1200,6 +1264,14 @@ b	80t
 OS Upgrade Crystal  x1
 ]b	8/t
 OS Gold Medal x1
+a	8.t
+350EP
+a	8-t
+250EP
+1a	8,t
+200EP
+	8+t
+150EP
 400EP
 	8)t
 250EP

@@ -102,6 +102,78 @@ HURRY!
 images/battle/cutin/battle_cutin_85001.png
 Excellent!
 Let's gain some more time!
+images/battle/cutin/battle_cutin_35001.png
+Time is almost up!
+Rout the enemy!
+images/battle/cutin/battle_cutin_35001.png
+Not bad!
+Let's buy some more time!
+images/battle/cutin/battle_cutin_35001.png
+Time is almost up!
+Rout the enemy!
+images/battle/cutin/battle_cutin_35001.png
+Not bad!
+Let's buy some more time!
+images/battle/cutin/battle_cutin_35001.png
+Time is almost up!
+Rout the enemy!
+images/battle/cutin/battle_cutin_35001.png
+Not bad!
+Let's buy some more time!
+images/battle/cutin/battle_cutin_35001.png
+Time is almost up!
+Rout the enemy!
+images/battle/cutin/battle_cutin_35001.png
+Not bad!
+Let's buy some more time!
+images/battle/cutin/battle_cutin_105003.png
+Hey! Not much time left!
+Hury up!
+images/battle/cutin/battle_cutin_105003.png
+Awesome!
+Keep going!
+images/battle/cutin/battle_cutin_105003.png
+Hey! Not much time left!
+Hury up!
+images/battle/cutin/battle_cutin_105003.png
+Awesome!
+Keep going!
+images/battle/cutin/battle_cutin_105003.png
+Hey! Not much time left!
+Hury up!
+images/battle/cutin/battle_cutin_105003.png
+Awesome!
+Keep going!
+images/battle/cutin/battle_cutin_105003.png
+Hey! Not much time left!
+Hury up!
+images/battle/cutin/battle_cutin_105003.png
+Awesome!
+Keep going!
+images/battle/cutin/battle_cutin_85001.png
+Time is running out!
+HURRY!
+images/battle/cutin/battle_cutin_85001.png
+Excellent!
+Let's gain some more time!
+images/battle/cutin/battle_cutin_85001.png
+Time is running out!
+HURRY!
+images/battle/cutin/battle_cutin_85001.png
+Excellent!
+Let's gain some more time!
+images/battle/cutin/battle_cutin_85001.png
+Time is running out!
+HURRY!
+images/battle/cutin/battle_cutin_85001.png
+Excellent!
+Let's gain some more time!
+images/battle/cutin/battle_cutin_85001.png
+Time is running out!
+HURRY!
+images/battle/cutin/battle_cutin_85001.png
+Excellent!
+Let's gain some more time!
 images/battle/cutin/battle_cutin_65008.png
 Time is running out!
 Bring them down NOW!

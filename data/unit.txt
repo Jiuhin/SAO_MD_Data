@@ -272,6 +272,13 @@ enemy_138_behemoth
 enemy_138_behemoth
 weapon_effect_gun
 weapon_gun
+enemy_137_automatic_gun_w
+head
+weapon_automatic_gun
+enemy_137_automatic_gun_w
+enemy_137_automatic_gun_w
+weapon_effect_gun
+weapon_gun
 enemy_136_automatic_gun_m
 head
 weapon_automatic_gun

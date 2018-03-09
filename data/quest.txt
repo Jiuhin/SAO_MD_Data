@@ -4539,6 +4539,210 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+X'rphan the White Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"automatic rifle/rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 4-2
+Adventurers' Trials (Non) (Master +1)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"rod/dagger" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 4-1
+Adventurers' Trials (Earth) (Master +1)
+X'rphan the White Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"automatic rifle/rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 3-2
+Adventurers' Trials (Non) (Master)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"rod/dagger" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 3-1
+Adventurers' Trials (Earth) (Master)
+X'rphan the White Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"automatic rifle/rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 2-2
+Adventurers' Trials (Non) (EX)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"rod/dagger" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 2-1
+Adventurers' Trials (Earth) (EX)
+X'rphan the White Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"automatic rifle/rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 1-2
+Adventurers' Trials (Non) (Expert)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"rod/dagger" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 1-1
+Adventurers' Trials (Earth) (Expert)
+X'rphan the Tempest Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"lance/dual blades" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 4-2
+Adventurers' Trials (Wind) (Master +1)
+The Kobold Lord awaits adventurers.
+Organize a party with an advantageous weapon
+"mace" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 4-1
+Adventurers' Trials (Water) (Master +1)
+X'rphan the Tempest Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"lance/dual blades" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 3-2
+Adventurers' Trials (Wind) (Master)
+The Kobold Lord awaits adventurers.
+Organize a party with an advantageous weapon
+"mace" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 3-1
+Adventurers' Trials (Water) (Master)
+X'rphan the Tempest Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"lance/dual blades" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 2-2
+Adventurers' Trials (Wind) (EX)
+The Kobold Lord awaits adventurers.
+Organize a party with an advantageous weapon
+"mace" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 2-1
+Adventurers' Trials (Water) (EX)
+X'rphan the Tempest Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"lance/dual blades" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 1-2
+Adventurers' Trials (Wind) (Expert)
+The Kobold Lord awaits adventurers.
+Organize a party with an advantageous weapon
+"mace" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 1-1
+Adventurers' Trials (Water) (Expert)
+Lindorm the Scarlet Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"shieldblade/bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 4-2
+Adventurers' Trials (Fire) (Master +1)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"sword/sniper rifle" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 4-1
+Adventurers' Trials (Holy) (Master +1)
+Lindorm the Scarlet Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"shieldblade/bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 3-2
+Adventurers' Trials (Fire) (Master)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"sword/sniper rifle" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 3-1
+Adventurers' Trials (Holy) (Master)
+Lindorm the Scarlet Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"shieldblade/bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 2-2
+Adventurers' Trials (Fire) (EX)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"sword/sniper rifle" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 2-1
+Adventurers' Trials (Holy) (EX)
+Lindorm the Scarlet Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"shieldblade/bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 1-2
+Adventurers' Trials (Fire) (Expert)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"sword/sniper rifle" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 1-1
+Adventurers' Trials (Holy) (Expert)
 Dagon the Master Sahuagin appears 
 in the quiet cloister. 
 Organize a party with the advantageous weapons, 
@@ -17673,6 +17877,210 @@ Defeat All Enemies
 Quest
 bg_thumbnail_2002
 Floor :1 
+X'rphan the White Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"automatic rifle/rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 4-2
+Adventurers' Trials (Non) (Master +1)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"rod/dagger" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 4-1
+Adventurers' Trials (Earth) (Master +1)
+X'rphan the White Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"automatic rifle/rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 3-2
+Adventurers' Trials (Non) (Master)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"rod/dagger" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 3-1
+Adventurers' Trials (Earth) (Master)
+X'rphan the White Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"automatic rifle/rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 2-2
+Adventurers' Trials (Non) (EX)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"rod/dagger" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 2-1
+Adventurers' Trials (Earth) (EX)
+X'rphan the White Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"automatic rifle/rapier" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 1-2
+Adventurers' Trials (Non) (Expert)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"rod/dagger" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 1-1
+Adventurers' Trials (Earth) (Expert)
+X'rphan the Tempest Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"lance/dual blades" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 4-2
+Adventurers' Trials (Wind) (Master +1)
+The Kobold Lord awaits adventurers.
+Organize a party with an advantageous weapon
+"mace" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 4-1
+Adventurers' Trials (Water) (Master +1)
+X'rphan the Tempest Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"lance/dual blades" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 3-2
+Adventurers' Trials (Wind) (Master)
+The Kobold Lord awaits adventurers.
+Organize a party with an advantageous weapon
+"mace" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 3-1
+Adventurers' Trials (Water) (Master)
+X'rphan the Tempest Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"lance/dual blades" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 2-2
+Adventurers' Trials (Wind) (EX)
+The Kobold Lord awaits adventurers.
+Organize a party with an advantageous weapon
+"mace" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 2-1
+Adventurers' Trials (Water) (EX)
+X'rphan the Tempest Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"lance/dual blades" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_2019
+Quest 1-2
+Adventurers' Trials (Wind) (Expert)
+The Kobold Lord awaits adventurers.
+Organize a party with an advantageous weapon
+"mace" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 1-1
+Adventurers' Trials (Water) (Expert)
+Lindorm the Scarlet Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"shieldblade/bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 4-2
+Adventurers' Trials (Fire) (Master +1)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"sword/sniper rifle" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 4-1
+Adventurers' Trials (Holy) (Master +1)
+Lindorm the Scarlet Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"shieldblade/bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 3-2
+Adventurers' Trials (Fire) (Master)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"sword/sniper rifle" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 3-1
+Adventurers' Trials (Holy) (Master)
+Lindorm the Scarlet Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"shieldblade/bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 2-2
+Adventurers' Trials (Fire) (EX)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"sword/sniper rifle" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 2-1
+Adventurers' Trials (Holy) (EX)
+Lindorm the Scarlet Wyrm roars 
+in the deep dungeon.
+Organize a party with advantageous weapons 
+"shieldblade/bow" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Quest 1-2
+Adventurers' Trials (Fire) (Expert)
+The Kobold Lord awaits adventurers.
+Organize a party with advantageous weapons 
+"sword/sniper rifle" and do "break"!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 1-1
+Adventurers' Trials (Holy) (Expert)
 Dagon the Master Sahuagin appears 
 in the quiet cloister. 
 Organize a party with the advantageous weapons, 

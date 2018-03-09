@@ -983,6 +983,64 @@ Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,
 Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
+4705024,1,300
+Complete "Adventurers' Trials (Non) (Master +1)" with a 5 min or more remaining time.
+4705023,1,260
+Complete "Adventurers' Trials (Earth) (Master +1)" with a 4 min 20 sec or more remaining time.
+4705024,1,240
+Complete "Adventurers' Trials (Non) (Master +1)" with a 4 min or more remaining time.
+4705023,1,220
+Complete "Adventurers' Trials (Earth) (Master +1)" with a 3 min 40 sec or more remaining time.
+4705022,1,220
+Complete "Adventurers' Trials (Non) (Master)" with a 3 min 40 sec or more remaining time.
+4705021,1,200
+Complete "Adventurers' Trials (Earth) (Master)" with a 3 min 20 sec or more remaining time.
+4705024,1,3,1
+Complete "Adventurers' Trials (Non) (Master+1)" with a rapier character.
+4705021+4705022,1,2
+Complete Part 1 (Earth) & Part 2 (Non) of "Adventurers' Trials (Master)" with an A+ rank.
+4705021+4705022,1,1
+Complete Part 1 (Earth) & Part 2 (Non) of "Adventurers' Trials (Master)" with an S rank.
+4705016,1,240
+Complete "Adventurers' Trials (Wind) (Master +1)" with a 4 min or more remaining time.
+4705015,1,210
+Complete "Adventurers' Trials(Water) (Master +1)" with a 3 min 30 sec or more remaining time.
+4705016,1,230
+Complete "Adventurers' Trials (Wind) (Master +1)" with a 3 min 50 sec or more remaining time.
+4705015,1,190
+Complete "Adventurers' Trials (Water) (Master +1)" with a 3 min 10 sec or more remaining time.
+4705014,1,230
+Complete "Adventurers' Trials (Wind) (Master)" with a 3 min 50 sec or more remaining time.
+4705013,1,190
+Complete "Adventurers' Trials (Water) (Master)" with a 3 min 10 sec or more remaining time.
+4705015,1,5,1
+Complete "Adventurers' Trials (Water) (Master+1)" with a mace character.
+4705013+4705014,1,2
+Complete Part 1 (Water) & Part 2 (Wind) of "Adventurers' Trials (Master)" with an A+ rank.
+4705013+4705014,1,1
+Complete Part 1 (Water) & Part 2 (Wind) of "Adventurers' Trials (Master)" with an S rank.
+4705008,1,240
+Complete "Adventurers' Trials (Fire) (Master +1)" with a 4 min or more remaining time.
+4705007,1,210
+Complete "Adventurers' Trials(Holy) (Master +1)" with a 3 min 30 sec or more remaining time.
+4705008,1,230
+Complete "Adventurers' Trials (Fire) (Master +1)" with a 3 min 50 sec or more remaining time.
+4705007,1,190
+Complete "Adventurers' Trials (Holy) (Master +1)" with a 3 min 10 sec or more remaining time.
+4705006,1,230
+Complete "Adventurers' Trials (Fire) (Master)" with a 3 min 50 sec or more remaining time.
+4705005,1,190
+Complete "Adventurers' Trials (Holy) (Master)" with a 3 min 10 sec or more remaining time.
+4705007,1,1,1
+Complete "Adventurers' Trials (Holy) (Master+1)" with a sword character.
+4705005+4705006,1,2
+Complete Part 1 (Holy) & Part 2 (Fire) of "Adventurers' Trials(Master)" with an A+ rank.
+4705005+4705006,1,1
+Complete Part 1 (Holy) & Part 2 (Fire) of "Adventurers' Trials (Master)" with an S rank.
+4705016,1,50
+Complete "Adventurers' Trials (Wind) (Master +1)" with a 50+ hit combo.
+4705015,1,50
+Complete "Adventurers' Trials (Water) (Master +1)" with a 50+ hit combo.
 4704024,1,240
 Complete "Blade Arbiter (Earth) (Master +1)" with a 4 min or more remaining time.
 4704023,1,210
