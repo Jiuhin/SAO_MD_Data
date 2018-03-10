@@ -398,6 +398,10 @@ images/event/8006/8006_top_1.png
 images/event/8006/8006_banner_1.png
 images/event/8006/8006_banner_1.png
 Return of the Storm Wyrm
+images/event/7025/7025_top.png
+images/event/7025/7025_banner.png
+images/event/7025/7025_banner.png
+[SAO Alternative GGO] Llenn & Pitohui
 images/event/7024/7024_top.png
 images/event/7024/7024_banner.png
 images/event/7024/7024_banner.png

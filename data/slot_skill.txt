@@ -85,6 +85,18 @@ Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 10 seconds during standby.
 Emergency Heal (HP&MP) Lv.1
+'a>
+&a>
+%a>
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Non-elem. enemies.
+Skill Damage Up (vs. Non-elem.) Lv. 2
+'a>
+&a>
+%a>
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Non-elem. enemies.
+Skill Damage Up (vs. Non-elem.) Lv. 1
 slot_skill_icon_skill_damage
 Increases skill damage by 10% vs Non-elem. enemies.
 Skill Damage Up (vs. Non-elem.) Lv. 2
@@ -118,6 +130,10 @@ pZ3
 slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Holy-elem. enemies.
 Skill Damage Up (vs. Holy) Lv. 1
+6hm
+slot_skill_icon_skill_critical_ensure
+Critical is ensured when using skills.
+Critical (with Skills)
 6hm
 slot_skill_icon_skill_critical_ensure
 Critical is ensured when using skills.
@@ -647,6 +663,22 @@ elk
 slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
+flk
+slot_skill_icon_combo_damage
+Increases damage for 20-hit+ combos by 5%.
+Combo Damage Up Lv. 2
+elk
+slot_skill_icon_combo_damage
+Increases damage for 30-hit+ combos by 5%.
+Combo Damage Up Lv. 1
+VEk
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+UEk
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
 UEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 3 secs.
@@ -911,6 +943,12 @@ Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
+'a>
+&a>
+%a>
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Decreases MP required.
+Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_9
 Enhances Sword Skill 3. Becomes powerful. Increases stun and fastens the trigger of the combination skill.
 Sword Skill 3 Enhance Lv. 1
@@ -1244,6 +1282,75 @@ slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
 VEk
+'a>
+&a>
+%a>
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+UEk
+'a>
+&a>
+%a>
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+'a>
+&a>
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 500
+Automatic Rifle Skill Lv.10
+'a>
+&a>
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 450
+Automatic Rifle Skill Lv.9
+'a>
+&a>
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 400
+Automatic Rifle Skill Lv.8
+'a>
+&a>
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 350
+Automatic Rifle Skill Lv.7
+'a>
+&a>
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 300
+Automatic Rifle Skill Lv.6
+'a>
+&a>
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 250
+Automatic Rifle Skill Lv.5
+&a>
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 200
+Automatic Rifle Skill Lv.4
+&a>
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 150
+Automatic Rifle Skill Lv.3
+&a>
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 100
+Automatic Rifle Skill Lv.2
+%a>
+slot_skill_icon_job_11
+Raises attack and crit. rate by 50
+Automatic Rifle Skill Lv.1
+VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
 Combo Window Up Lv. 2
@@ -1409,6 +1516,20 @@ Dark Magic Skill Lv. 2
 slot_skill_icon_job_8
 Raises attack and crit. rate by 50
 Dark Magic Skill Lv. 1
+flk
+'a>
+&a>
+%a>
+slot_skill_icon_combo_damage
+Increases damage for 20-hit+ combos by 5%.
+Combo Damage Up Lv. 2
+elk
+'a>
+&a>
+%a>
+slot_skill_icon_combo_damage
+Increases damage for 30-hit+ combos by 5%.
+Combo Damage Up Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Attack of OS party members  increase by 10% when you are a leader.
 Battle Skill 3 Transform Lv. 1

@@ -424,6 +424,16 @@ skill_icon_finesword_3_{}
 A combination skill. Perform a thrust after singing. Gives auto-recovery and a critical gain (temporalily) to all party members.
 Resonant Crescendo+
 Resonant Crescendo+
+/2"
+skill_icon_automatic_gun_3_{}
+A combination skill. Fires various guns blindly. Recovers your HP and increase all the party members' critical damage.
+Spend All
+Spend All
+%2"
+skill_icon_automatic_gun_3_{}
+A combination skill. Slashes with a knife and fires a gun with no break. Increases all the party members' critical damage, increases your own movement speed and recovers HP.
+Rapid Rampage
+Rapid Rampage
 skill_icon_automatic_gun_3_{}
 A combination skill. Holding a rocket launcher to shoot when kneeling down on one knee. Recovers HP automatically.
 Plasma Propelled Grenade

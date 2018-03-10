@@ -779,6 +779,40 @@ Return of the Storm Wyrm: Complete "Return of the Storm Wyrm (Expert)".
 /Y7
 8006001
 Return of the Storm Wyrm: Complete "Return of the Storm Wyrm (Int.)".
+220006-220007-220008-220009-220010,2
+Defeat Pitohui twice in the vs Char. Quest "SAO Alternative GGO"
+220001-220002-220003-220004-220005,2
+Defeat LLENN twice in the vs Char. Quest "SAO Alternative GGO"
+220006-220007-220008-220009-220010,2
+Defeat Pitohui twice in the vs Char. Quest "SAO Alternative GGO"
+220001-220002-220003-220004-220005,2
+Defeat LLENN twice in the vs Char. Quest "SAO Alternative GGO"
+220006-220007-220008-220009-220010,2
+Defeat Pitohui twice in the vs Char. Quest "SAO Alternative GGO"
+220001-220002-220003-220004-220005,2
+Defeat LLENN twice in the vs Char. Quest "SAO Alternative GGO"
+220006-220007-220008-220009-220010,2
+Defeat Pitohui twice in the vs Char. Quest "SAO Alternative GGO"
+220001-220002-220003-220004-220005,2
+Defeat LLENN twice in the vs Char. Quest "SAO Alternative GGO"
+220006-220007-220008-220009-220010,2
+Defeat Pitohui twice in the vs Char. Quest "SAO Alternative GGO"
+220001-220002-220003-220004-220005,2
+Defeat LLENN twice in the vs Char. Quest "SAO Alternative GGO"
+220006-220007-220008-220009-220010,2
+Defeat Pitohui twice in the vs Char. Quest "SAO Alternative GGO"
+220001-220002-220003-220004-220005,2
+Defeat LLENN twice in the vs Char. Quest "SAO Alternative GGO"
+220009,1
+Defeat Pitohui in the vs Char. Quest "SAO Alternative GGO (Master)"
+220004,1
+Defeat LLENN in the vs Char. Quest "SAO Alternative GGO (Master)"
+7025004,1,60
+Complete the vs Char. Quest "SAO Alternative GGO (Master)" in under 1min.
+7025004
+Complete the vs Char. Quest "SAO Alternative GGO (Master)"
+7025003
+Complete the vs Char. Quest "SAO Alternative GGO (EX)"
 7024005
 Complete "CM Character Introduction (?) (Master+1)"
 7024005

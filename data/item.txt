@@ -678,6 +678,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
+You can use in the "Another Gun Gale Online"
+Another GGO C.R. Crystal
+item_m_record_crystal_blue
 You can use in the "The Vernal Memory of Uniform"
 Uniform C.R.Crystal
 item_m_record_crystal_blue
@@ -803,6 +806,9 @@ At the Exchange Shop, exchangeable with Medallions and so on.
 Stardust (Medium)
 At the Exchange Shop, exchangeable with various equipment and so on.
 Stardust (Small)
+Unlocks skill slots.
+Rarity: Very High
+Bullet Medallion
 Unlocks skill slots.
 Rarity: Very High
 Butterfly Medallion 

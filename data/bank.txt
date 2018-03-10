@@ -1,5 +1,7 @@
 vc_battle_kureha
 vc_battle_eiji
+vc_battle_pitohui
+vc_battle_llenn
 vc_battle_alice
 vc_battle_eugeo
 vc_battle_girl_4

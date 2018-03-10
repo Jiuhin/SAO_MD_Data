@@ -32,6 +32,8 @@ Attack of party members (Dark-elem.) increases by 6% when you are a leader.
 P-Members' (Dark-elem.) Atk +6% (P-Leader)
 Attack of party members (Wind-elem.) increases by 6% when you are a leader.
 P-Members' (Wind-elem.) Atk +6% (P-Leader)
+Attack of party members (Non-elem.) increases by 10% when you are a leader.
+P-Members' (Non-elem.) Atk +10% (P-Leader)
 Attack of party members (Non-elem.) increases by 6% when you are a leader.
 P-Members' (Non-elem.) Atk +6% (P-Leader)
 Attack of all party members increase by 6% when you are a leader.

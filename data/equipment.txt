@@ -14,6 +14,12 @@ TBD
 Eliza R2
 weapon11_0004
 TBD
+my darling P. R5
+weapon11_0003
+TBD
+my darling P. R4
+weapon11_0003
+TBD
 Sturm KZ R5
 weapon11_0002
 TBD
@@ -31,6 +37,12 @@ weapon10_0005
 TBD
 Rebecca R3
 weapon10_0005
+TBD
+Serpens G-P-1 R5
+weapon10_0003
+TBD
+Serpens G-P-1 R4
+weapon10_0003
 TBD
 Sylph Type-A R5
 weapon10_0002

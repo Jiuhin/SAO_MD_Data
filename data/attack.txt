@@ -81,7 +81,8 @@ L>f3
 >f3
 >f3
 >f3
->f3
+L>f3
+L>f3
 QCG
 L>f3
 L>f3
@@ -596,6 +597,9 @@ uLV
 >f3
 >f3
 >f3
+L>e3
+L>e3
+L>e3
 >e3
 djF
 QCG
@@ -739,6 +743,9 @@ L>e3
 L>e3
 djF
 >e3
+QCG
+QCG
+QCG
 >e3
 >e3
 QCG
@@ -984,6 +991,9 @@ L?d3
 <ff
 >d3
 <ff
+>d3
+>d3
+>d3
 >d3
 >d3
 >d3
@@ -1471,6 +1481,8 @@ L>f3
 L>f3
 L>f3
 L>f3
+L>f3
+>f3
 >f3
 >f3
 VxP
@@ -1479,9 +1491,11 @@ UxP
 ,wP
 +wP
 )wP
+jvP
 ivP
 hvP
 gvP
+fvP
 evP
 dvP
 cvP
@@ -1555,6 +1569,7 @@ L>f3
 <d3
 <d3
 <d3
+<d3
 Q8>
 Q8>f3
 Q8>
@@ -1578,6 +1593,7 @@ Y(G
 f&G
 e&G
 ]>F
+<f3
 <f3
 <f3
 <f3

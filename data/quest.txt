@@ -2433,6 +2433,36 @@ Quest
 bg_thumbnail_2018
 Quest 1
 Return of the Storm Wyrm (Int.)
+m1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+SAO Alternative GGO (Master +1)
+l1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 4
+SAO Alternative GGO (Master)
+k1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 3
+SAO Alternative GGO (EX)
+j1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 2
+SAO Alternative GGO (Expert)
+i1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1
+SAO Alternative GGO (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2023
@@ -15771,6 +15801,36 @@ Quest
 bg_thumbnail_2018
 Quest 1
 Return of the Storm Wyrm (Int.)
+m1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+SAO Alternative GGO (Master +1)
+l1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 4
+SAO Alternative GGO (Master)
+k1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 3
+SAO Alternative GGO (EX)
+j1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 2
+SAO Alternative GGO (Expert)
+i1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1
+SAO Alternative GGO (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2023

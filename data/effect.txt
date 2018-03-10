@@ -23,6 +23,9 @@ effect_eyes_flash_b_s
 effect_eyes_flash_b_s
 effect_eyes_flash_s
 effect_eyes_flash_s
+333?
+effect_warp_rabbit
+effect_warp_rabbit
 effect_gun_cartridge_01
 effect_warp_cherryblossom_01
 effect_gun_change_01
