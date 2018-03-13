@@ -722,6 +722,8 @@ Reduces Non-elem. character's Required MP by -10%, increases Critical damage by 
 Required MP -10% / Critical damage +10% (Non-elem.)
 Increases Non-elem. character's MP & def. by 3%.
 MP & Def. +3% (Non-elem.)
+Increases Non-elem. character's defense by 6%.
+Def. +6% (Non-elem.)
 Increases Non-elem. character's attack by 3%.
 Atk +3% (Non-elem.)
 Increases Non-elem. character's MP by 3%.

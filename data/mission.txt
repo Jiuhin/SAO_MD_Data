@@ -21,6 +21,8 @@ Korean Ver is Released! Special Character Present!
 Complete OS Episode 0 "Someone's Requiem"
 Skill Slot material present!
 Join a Guild
+9019001
+Receive a gift in the Gift Frenzy Quest "Happy White Day!"
 9018006
 Receive some chocolates in the Chocolate Frenzy Quest "Happy Valentine's Day! Yuna ver."
 9018005
@@ -1283,6 +1285,64 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4090005,2,50
+Complete "Brave Battles in the Dense Forest (Master +1)" with guild members in Multi under 50 seconds.
+4090005,2,30
+Complete "Brave Battles in the Dense Forest (Master +1)" with guild members in Multi under 30 seconds.
+4090005
+Complete "Brave Battles in the Dense Forest (Master +1)" with guild members in Multi.
+2040074-2040075-2040076-2040077-2040078,50
+Defeat 50 of Minotaurus Horn in the guild. 
+4090003,1,4
+Complete "Brave Battles in the Dense Forest (EX)" with 
+4 or below characters only. 
+4090001,1,3
+Complete "Brave Battles in the Dense Forest (Int.)" with 
+3 or below characters only. 
+4090005,2,1,2
+Complete "Brave Battles in the Dense Forest (Master +1)" with two sword characters.
+4090005,2,8,1
+Complete "Brave Battles in the Dense Forest (Master +1)" with a rod character.
+4090004,1,7,1
+Complete "Brave Battles in the Dense Forest (Master)" with a bow character.
+4090003,1,9,1
+Complete "Brave Battles in the Dense Forest (EX)" with a lance character.
+4090005,2,120
+Complete "Brave Battles in the Dense Forest (Master +1)" with a 120+ hit combo.
+4090004,1,80
+Complete "Brave Battles in the Dense Forest (Master)" with a 80+ hit combo.
+4090005,2,11,1
+Complete "Brave Battles in the Dense Forest (Master +1)" with an automatic rifle character.
+4090004,1,3,2
+Complete "Brave Battles in the Dense Forest (Master)" with two rapier characters.
+4090003,1,9,1
+Complete "Brave Battles in the Dense Forest (EX)" with a lance character.
+4090003+4090004,1,1
+Complete "Brave Battles in the Dense Forest (EX) & (Master)" with an S rank.
+4090001+4090002,1,1
+Complete "Brave Battles in the Dense Forest (Int.) & (Expert)" with an S rank.
+2040074-2040075-2040076-2040077-2040078,15
+Defeat 15 of Minotaurus Horn from "Brave Battles in the Dense Forest".
+2040074-2040075-2040076-2040077-2040078,5
+Defeat 5 of Minotaurus Horn from "Brave Battles in the Dense Forest".
+4090005,2,30
+Complete "Brave Battles in the Dense Forest (Master +1)" in under 30 Sec.
+4090005,2,45
+Complete "Brave Battles in the Dense Forest (Master +1)" in under 45 Sec.
+4090004,1,60
+Complete "Brave Battles in the Dense Forest (Master)" in under 1min.
+4090005,2
+Complete "Brave Battles in the Dense Forest (Master +1)" without down.
+4090004,1
+Complete "Brave Battles in the Dense Forest (Master)" without down.
+4090003,1
+Complete "Brave Battles in the Dense Forest (EX)" without down.
+4090003
+Complete "Brave Battles in the Dense Forest (EX)".
+4090002
+Complete "Brave Battles in the Dense Forest (Expert)".
+4090001
+Complete "Brave Battles in the Dense Forest (Int.)".
 4089006,1
 Complete "ORDINAL SCALE Another Stage (Master +2)" without down.
 4089006,1,60

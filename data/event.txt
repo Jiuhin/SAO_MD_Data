@@ -38,6 +38,10 @@ images/event/4001/4001_01_top_monday.png
 images/event/4001/4001_01_banner_monday.png
 images/event/4001/4001_01_banner_monday.png
 Mon. Defense
+images/event/9019/9019_top.png
+images/event/9019/9019_banner.png
+images/event/9019/9019_banner.png
+Gift Frenzy Quest
 images/event/9018/9018_top.png
 images/event/9018/9018_banner.png
 images/event/9018/9018_banner.png
@@ -586,6 +590,10 @@ images/event/dummy/dummy_top.png
 images/event/4601/4601_banner.png
 images/event/4601/4601_banner.png
 Bullet of Bullets
+images/event/4090/4090_top.png
+images/event/4090/4090_banner.png
+images/event/4090/4090_banner.png
+Brave Battles in the Dense Forest
 Medal Scout
 images/event/4089/4089_top.png
 images/event/4089/4089_banner.png

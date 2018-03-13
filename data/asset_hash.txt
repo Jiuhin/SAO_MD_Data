@@ -704,6 +704,8 @@ e8d35634d29b482c471876d8656509c2
 ss/unit/chara_2_sword_w/skill_effect_sword_1.png
 021eea1a5f57e212483816c0ef16d504
 ss/unit/chara_2_sword_w/skill_effect_sword_0.png
+dd8802eba62289ed848f675975213d47
+ss/unit/chara_2_sword_w/skill_effect_24134.png
 c2020f6a222ba14a6c1350145a3568ff
 ss/unit/chara_2_sword_w/skill_effect_24128.png
 4cb57e53641b24dfefdcda76f381ca19
@@ -954,6 +956,8 @@ c752f3f0185980a8727145f5444821f5
 ss/unit/chara_22_automatic_gun_w/weapon06_0004.png
 3493a5c5b9d8d2fd62583c1f59b3e679
 ss/unit/chara_22_automatic_gun_w/skill_gun_01.png
+79bdb1171db71e43eb317fb14e85c590
+ss/unit/chara_22_automatic_gun_w/skill_effect_224109.png
 3f63d4a647ce0984cd29ab242d366304
 ss/unit/chara_22_automatic_gun_w/skill_effect_224107.png
 e5370e4fd66269e0ed4c8a58ce33660c
@@ -1146,6 +1150,8 @@ ss/unit/chara_1_sword_m/2_kidnapper_001_1.png
 ss/unit/chara_1_sword_m/2_diavel_12003.png
 539d56f95c158d6b686f214c92706ffa
 ss/unit/chara_1_sword_m/2_corvatz_12004.png
+4065f1174c2653f0b41daf327d23eb94
+ss/unit/chara_1_sword_m/2_agil_92001.png
 8ee3a1b280ee4b2346fd06471ff8ae1e
 ss/unit/chara_1_sword_m/1_titans_hand_b_001_1.png
 ae0dca66d8aac8a0f3492a9a1bf31a5d
@@ -3262,6 +3268,10 @@ images/event/ranking/badge/image_ranking_badge_01.png
 images/event/banner/event_quest_banner_m_6.png
 126171a6b0bd32b0bb3dc43a43bc885f
 images/event/banner/event_quest_banner_m_5.png
+7389e845d465f81d95d399bb02decc68
+images/event/9019/9019_top.png
+c2491a1492bea200d4946f2ed3501fa5
+images/event/9019/9019_banner.png
 aefa3da14278074d59012b09ce9a4002
 images/event/9018/9018_top.png
 2ad9016e0ee85113a88802c7703d6f9a
@@ -3688,6 +3698,10 @@ images/event/4701/4701_top.png
 images/event/4701/4701_banner.png
 b1c2d2dbd9d80f1e19d55cc1c2fa484a
 images/event/4601/4601_banner.png
+85756fbfe1bbcf0b1a8ccbfd5c8929ca
+images/event/4090/4090_top.png
+94cf848784ad8b7002951c30b8035bc1
+images/event/4090/4090_banner.png
 95903536e4102ad013a85143a49238e4
 images/event/4089/4089_top.png
 4c6f43e07eccec26ef4ef9ee68e87d21

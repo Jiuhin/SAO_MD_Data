@@ -1,3 +1,5 @@
+White Chocolate Frenzy Quest
+Present
 Chocolate Frenzy Quest
 Present
 Gift Frenzy Quest
@@ -188,6 +190,8 @@ Event
 The Archenemy
 Event
 Bullet of Bullets
+Event
+Brave Battles in the Dense Forest
 Event
 ORDINAL SCALE Another Stage
 Event

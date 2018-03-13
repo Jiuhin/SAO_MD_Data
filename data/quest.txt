@@ -4,6 +4,14 @@ receive a gift from your loved one!
 Defeat Enemies In Time
 Quest
 bg_thumbnail_2025
+Quest 1
+Happy White Day!
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
 Quest 6
 Happy Valentine's Day! Yuna ver.
 Happy Valentine's Day! 
@@ -5542,6 +5550,41 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5
+Brave Battles in the Dense Forest (Master +1)
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4
+Brave Battles in the Dense Forest (Master)
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3
+Brave Battles in the Dense Forest (EX)
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2
+Brave Battles in the Dense Forest (Expert)
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1
+Brave Battles in the Dense Forest (Int.)
 Finish Story
 Story
 bg_thumbnail_0
@@ -13372,6 +13415,14 @@ receive a gift from your loved one!
 Defeat Enemies In Time
 Quest
 bg_thumbnail_2025
+Quest 1
+Happy White Day!
+Happy Valentine's Day! 
+Defeat those men in this battle and
+receive a gift from your loved one!
+Defeat Enemies In Time
+Quest
+bg_thumbnail_2025
 Quest 6
 Happy Valentine's Day! Yuna ver.
 Happy Valentine's Day! 
@@ -18910,6 +18961,41 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5
+Brave Battles in the Dense Forest (Master +1)
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4
+Brave Battles in the Dense Forest (Master)
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3
+Brave Battles in the Dense Forest (EX)
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2
+Brave Battles in the Dense Forest (Expert)
+Minotaurus Horn roars and makes an assault. 
+Overcome your fear and win the battle!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1
+Brave Battles in the Dense Forest (Int.)
 Finish Story
 Story
 bg_thumbnail_0
