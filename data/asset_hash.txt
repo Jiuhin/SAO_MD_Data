@@ -3360,6 +3360,10 @@ images/event/9002/9002_banner.png
 images/event/9001/9001_top.png
 f9cbc601493ad89a88fd1601cc5fd29e
 images/event/9001/9001_banner.png
+8c2ef95b498551e4f51f96d1c5802f74
+images/event/8039/8039_top.png
+140499d1955f77a8186ac8796006aa7d
+images/event/8039/8039_banner.png
 1e876e0ca1810d4d68295d9d74a16cfd
 images/event/8038/8038_top.png
 9084228812745bd04960aa355792943a

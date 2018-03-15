@@ -218,6 +218,10 @@ images/event/9002/9002_top_2017.png
 images/event/9002/9002_banner_2017.png
 images/event/9002/9002_banner_2017.png
 Asuna's Birthday Quest 2017
+images/event/8039/8039_top.png
+images/event/8039/8039_banner.png
+images/event/8039/8039_banner.png
+Gullinkambi Returns
 images/event/8038/8038_top.png
 images/event/8038/8038_banner.png
 images/event/8038/8038_banner.png

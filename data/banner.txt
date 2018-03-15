@@ -56,6 +56,7 @@ images/event/9007/9007_banner.png
 images/event/9005/9005_banner_2017.png
 images/event/9004/9004_banner_2017.png
 images/event/9002/9002_banner_2017.png
+images/event/8039/8039_banner.png
 images/event/8038/8038_banner.png
 images/event/8037/8037_banner.png
 images/event/8036/8036_banner.png

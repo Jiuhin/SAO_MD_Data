@@ -40,6 +40,7 @@ canvas_mask11.psb
 2003_pina
 2002_klein_avatar
 2001_kirito_avatar
+1069_waals
 1068_daisy
 1067_arfa-sys
 1066_zeliska

@@ -743,9 +743,10 @@ L>e3
 L>e3
 djF
 >e3
-QCG
-QCG
-QCG
+<e3
+djF
+<e3
+<e3
 >e3
 >e3
 QCG
@@ -991,7 +992,6 @@ L?d3
 <ff
 >d3
 <ff
->d3
 >d3
 >d3
 >d3

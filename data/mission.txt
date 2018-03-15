@@ -102,7 +102,7 @@ Day2: Complete "Vanguard & Rearguard (Int.)" with at least one Rapier character.
 9007124,2,8,1
 Day1: Complete "Vanguard & Rearguard (Int.)" with at least one Rod character.
 9007117-9007120-9007123,1,50
-Episode Gullinkambi: Clear any of Master quests under 50 secs
+Episode Gullinkambi: Clear any of Master quests within 50 secs
 9007094,2
 Complete "Call for Help (Master)" without down.
 9007093,2
@@ -110,19 +110,19 @@ Complete "Call for Help (Expert)" without down.
 9007092,2
 Complete "Call for Help (Int.)" without down.
 9007094,2,30
-Day 7 Mission Challenge: Clear "Master" in under 30 secs
+Day 7 Mission Challenge: Clear "Master" within 30 secs
 9007094,2,50
-Day 5 Mission Challenge: Clear "Master" in under 50 secs
+Day 5 Mission Challenge: Clear "Master" within 50 secs
 9007094,2,60
-Day 5 Mission Challenge: Clear "Master" in under 60 secs
+Day 5 Mission Challenge: Clear "Master" within 60 secs
 9007094,2,80
-Day 4 Mission Challenge: Clear "Master" in under 80 secs
+Day 4 Mission Challenge: Clear "Master" within 80 secs
 9007094,2,90
-Day 3 Mission Challenge: Clear "Master" in under 90 secs
+Day 3 Mission Challenge: Clear "Master" within 90 secs
 9007092-9007093-9007094,2,40
-Day 2 Mission Challenge: Clear any quest in under 40 secs
+Day 2 Mission Challenge: Clear any quest within 40 secs
 9007092-9007093-9007094,2,60
-Day 1 Mission Challenge: Clear any quest in under 60 secs
+Day 1 Mission Challenge: Clear any quest within 60 secs
 1220013-1220016-1220019,15
 Defeat 15 The Gold King of Lakes at the Event Quest
 1220012-1220015-1220018,15
@@ -169,6 +169,31 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+HED
+8039005,3,45
+Complete "Gullinkambi Returns (Master +1)" with guild members in Multi in under 45 seconds.
+HDD
+8039004,3,45
+Complete "Gullinkambi Returns (Master)" with guild members in Multi in under 45 seconds.
+GCD
+8039003,3
+Complete "Gullinkambi Returns (EX)" with guild members in Multi.
+JBD
+2080301-2080302-2080303-2080304-2080305,50
+Defeat 50 of Gullinkambi  in the guild. 
++AD
+8039005,3
+Complete "Gullinkambi Returns (Master +1)" without down.
+8039004,3
+Complete "Gullinkambi Returns (Master)" without down.
++?D
+8039003,3
+Complete "Gullinkambi Returns (EX)" without down.
+/>D
+8039002
+Complete "Gullinkambi Returns (Expert)"
+8039001
+Complete "Gullinkambi Returns (Int.)"
 8038005,3,45
 Complete "The Strict hermit (Master +1)" with guild members in Multi in under 45 seconds.
 8038004,3,45
@@ -1285,10 +1310,10 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
-4090005,2,50
-Complete "Brave Battles in the Dense Forest (Master +1)" with guild members in Multi under 50 seconds.
-4090005,2,30
-Complete "Brave Battles in the Dense Forest (Master +1)" with guild members in Multi under 30 seconds.
+4090005,2,45
+Complete "Brave Battles in the Dense Forest (Master +1)" with guild members in Multi under 45 seconds.
+4090005,2,60
+Complete "Brave Battles in the Dense Forest (Master +1)" with guild members in Multi under 1 minute.
 4090005
 Complete "Brave Battles in the Dense Forest (Master +1)" with guild members in Multi.
 2040074-2040075-2040076-2040077-2040078,50
@@ -1307,8 +1332,8 @@ Complete "Brave Battles in the Dense Forest (Master +1)" with a rod character.
 Complete "Brave Battles in the Dense Forest (Master)" with a bow character.
 4090003,1,9,1
 Complete "Brave Battles in the Dense Forest (EX)" with a lance character.
-4090005,2,120
-Complete "Brave Battles in the Dense Forest (Master +1)" with a 120+ hit combo.
+4090005,2,100
+Complete "Brave Battles in the Dense Forest (Master +1)" with a 100+ hit combo.
 4090004,1,80
 Complete "Brave Battles in the Dense Forest (Master)" with a 80+ hit combo.
 4090005,2,11,1
@@ -1325,10 +1350,10 @@ Complete "Brave Battles in the Dense Forest (Int.) & (Expert)" with an S rank.
 Defeat 15 of Minotaurus Horn from "Brave Battles in the Dense Forest".
 2040074-2040075-2040076-2040077-2040078,5
 Defeat 5 of Minotaurus Horn from "Brave Battles in the Dense Forest".
-4090005,2,30
-Complete "Brave Battles in the Dense Forest (Master +1)" in under 30 Sec.
 4090005,2,45
 Complete "Brave Battles in the Dense Forest (Master +1)" in under 45 Sec.
+4090005,2,60
+Complete "Brave Battles in the Dense Forest (Master +1)" in under 1min.
 4090004,1,60
 Complete "Brave Battles in the Dense Forest (Master)" in under 1min.
 4090005,2
@@ -2183,7 +2208,7 @@ Complete "Battle against the Goddess (Master+1)".
 4042008
 Complete "Battle against the Goddess".
 4040024,2,60
-Complete "Black Flame in Backwater (Master)" in under 1 minute.
+Complete "Black Flame in Backwater (Master)" within 1 minute.
 4040024
 Complete "Black Flame in Backwater (Master)".
 4039012,1,30
@@ -2232,7 +2257,7 @@ Complete "A witch to destroy Fairyland (Master+1)"
 4036010
 Complete "A witch to destroy Fairyland"
 4035024,2,60
-Complete "Longing for Sailor Suit (Master)" in under 1 minute.
+Complete "Longing for Sailor Suit (Master)" within 1 minute.
 /-(
 4035024
 Complete "Longing for Sailor Suit (Master)" .

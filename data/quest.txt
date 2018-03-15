@@ -1024,6 +1024,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 5
+Gullinkambi Returns (Master +1)
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 4
+Gullinkambi Returns (Master)
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 3
+Gullinkambi Returns (EX)
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 2
+Gullinkambi Returns (Expert)
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 1
+Gullinkambi Returns (Int.)
 The Strict Hermit appears!
 Don't be fooled by their dodgy moves!
 Counter with your friends 
@@ -14435,6 +14480,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 5
+Gullinkambi Returns (Master +1)
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 4
+Gullinkambi Returns (Master)
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 3
+Gullinkambi Returns (EX)
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 2
+Gullinkambi Returns (Expert)
+Gullinkambi swoops down.
+Watch their move carefully to parry an attack.
+Be ready when they fly high up. 
+Their attack will begin!
+Defeat All Enemies
+Quest
+bg_thumbnail_8030
+Quest 1
+Gullinkambi Returns (Int.)
 The Strict Hermit appears!
 Don't be fooled by their dodgy moves!
 Counter with your friends 

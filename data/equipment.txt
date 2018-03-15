@@ -56,6 +56,15 @@ TBD
 SPB Rapier R4
 weapon10_0001
 TBD
+Fox Ear Headband R4
+accessory01_0066
+TBD
+Fox Ear Headband R3
+accessory01_0066
+TBD
+Fox Ear Headband R2
+accessory01_0066
+TBD
 Hopeful Bow Tie R4
 accessory01_0065
 TBD
@@ -625,6 +634,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+Moon Rabbit's Suit R4
+armor03_0113
+TBD
+Moon Rabbit's Suit R3
+armor03_0113
+TBD
+Moon Rabbit's Suit R2
+armor03_0113
 TBD
 Blazer in Youth R4
 armor03_0112
