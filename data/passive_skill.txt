@@ -110,7 +110,7 @@ Increases attack by 3% when equipped by Lisbeth.
 Attack +3% (Lisbeth)
 Increases attack by 3% when equipped by Silica.
 Attack +3% (Silica)
-Increases attack by 10% when equipped by Sachi.
+Increases attack by 10% when equipped by Sinon.
 Attack +10% (Sinon)
 Increases attack by 3% when equipped by Sinon.
 Attack +3% (Sinon)

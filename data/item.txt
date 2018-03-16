@@ -796,15 +796,15 @@ Upgrades characters
 [Holy Sword] Heathcliff 
 Rarity: High
 Cross Swords Upgrade Crystal
-At the Exchange Shop, exchangeable with various items and so on.
+At the Exchange Shop, exchangeable for various items and so on.
 Christmas Stocking
-At the Exchange Shop, exchangeable with various items and so on.
+At the Exchange Shop, exchangeable for various items and so on.
 Sundust (Small)
-At the Exchange Shop, exchangeable with various equipment and so on.
+At the Exchange Shop, exchangeable for various equipment and so on.
 Moondust (Small)
-At the Exchange Shop, exchangeable with Medallions and so on.
+At the Exchange Shop, exchangeable for Medallions and so on.
 Stardust (Medium)
-At the Exchange Shop, exchangeable with various equipment and so on.
+At the Exchange Shop, exchangeable for various equipment and so on.
 Stardust (Small)
 Unlocks skill slots.
 Rarity: Very High
@@ -859,7 +859,7 @@ reward_item_medallion
 Unlocks skill slots.
 Rarity: High
 Void Medallion
-Exchangeable with 
+Exchangeable for 
 5 upgradable equipments
 and limited 
 4 weapons at the exchange shop.

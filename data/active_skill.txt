@@ -1,13 +1,13 @@
 skill_icon_lance_3_{}
-Emit light over a wide range. Attack with some holy power. Likely to stun an enemy. 
+Emit light over a wide range. Attack with some holy power. High chance of stunning an enemy.
 Luminous Garden+
 Luminous Garden+
 skill_icon_lance_3_{}
-Dives into the enemy with a thrust and continues the attack with Libra magic. Likely to stun an enemy.
+Dives into the enemy with a thrust and continues the attack with Libra magic. High chance of stunning an enemy.
 Libra Spark+
 Libra Spark+
 skill_icon_lance_3_{}
-Showers lances and splits the enemy apart with the power of the Leo. Likely to stun an enemy.
+Showers lances and splits the enemy apart with the power of the Leo. High chance of stunning an enemy.
 Leo Shower+
 Leo Shower+
 skill_icon_rod_3_{}
@@ -187,7 +187,7 @@ After throwing a syringe, attack and fire a fatal shot. Decreases defense and at
 Love Injection+
 Love Injection+
 skill_icon_finesword_3_{}
-Casts a shining spell and attack enemies with a swift thrust and multiple magic arts. Likely to stun an enemy.
+Casts a shining spell and attack enemies with a swift thrust and multiple magic arts. High chance of stunning an enemy.
 Shining Gemini+
 Shining Gemini+
 skill_icon_finesword_3_{}
@@ -246,7 +246,7 @@ Star Splash+
 Star Splash+
 !LC
 skill_icon_dualblade_3_{}
-Deliver a swift slash and attack with a sacred wreath. Likely to stun an enemy. 
+Deliver a swift slash and attack with a sacred wreath. High chance of stunning an enemy.
 Sacred Wreath+
 Sacred Wreath+
 skill_effect_33103
@@ -287,7 +287,7 @@ Restores your party's HP, making yourself unbeatable. Attack enemies with tropic
 Tropical Rocket+
 Tropical Rocket+
 skill_icon_sword_3_{}
-Casts a fountain from the ground. Heals your HP and is likely to stun an enemy.
+Casts a fountain from the ground. Heals your HP and is High chance of stunning an enemy.
 Aqua fountain+
 Aqua fountain+
 skill_icon_sword_3_{}
@@ -583,7 +583,7 @@ Rushes forward as scraping the ground while it also restores HP. Throws a bunch 
 Scrape Ice
 Scrape Ice
 skill_icon_lance_3_{}
-Summon a fox statue and explode it as enhancing your attack. Likely to stun an enemy.
+Summon a fox statue and explode it as enhancing your attack. High chance of stunning an enemy.
 Basalt Collapse
 Basalt Collapse
 skill_icon_lance_3_{}
@@ -595,11 +595,11 @@ Textbooks fall down on the enemy's head as the pointer moves. Decreases enemy de
 Daemon Teacher
 Daemon Teacher
 skill_icon_lance_3_{}
-Dives into the enemy with a thrust and continues the attack with Libra magic. Likely to stun an enemy.
+Dives into the enemy with a thrust and continues the attack with Libra magic. High chance of stunning an enemy.
 Libra Spark
 Libra Spark
 skill_icon_lance_3_{}
-Showers lances and splits the enemy apart with the power of the Leo. Likely to stun an enemy.
+Showers lances and splits the enemy apart with the power of the Leo. High chance of stunning an enemy.
 Leo Shower
 Leo Shower
 skill_icon_lance_2_{}
@@ -671,7 +671,7 @@ A combination skill. Move instantly to the back of an enemy and attack with flyi
 Butterfly Blast
 Butterfly Blast
 skill_icon_rod_3_{}
-A combination skill. Attack with shiny ornaments. Likely to stun an enemy. 
+A combination skill. Attack with shiny ornaments. High chance of stunning an enemy.
 Split Ornament
 Smashing Ornaments
 skill_icon_rod_3_{}
@@ -875,7 +875,7 @@ Restores HP and reduces damage received temporarily. It dumps umbrellas with mag
 Rain of Umbrella
 Rain of Umbrella
 skill_icon_bow_3_{}
-Sit on materialized chair, healing yourself. And then release lucky birds to attack. Likely to stun an enemy.
+Sit on materialized chair, healing yourself. And then release lucky birds to attack. High chance of stunning an enemy.
 Dove Splash
 Dove Splash
 skill_icon_bow_3_{}
@@ -1043,7 +1043,7 @@ Come around behind an enemy by jumping and attack with water pressure from a hos
 Acrobat Splash
 Acrobat Splash
 skill_icon_gun_3_{}
-Shoot a bullet as enhancing your attack and produce a large flower. Likely to stun an enemy.
+Shoot a bullet as enhancing your attack and produce a large flower. High chance of stunning an enemy.
 Early Call
 Early Call
 skill_icon_gun_3_{}
@@ -1233,11 +1233,11 @@ Flutter ruffles as swinging a mace around the enemy. Decreases defense and attac
 Swift Waitress
 Swift Waitress
 skill_icon_mace_3_{}
-Increases speed and toss a huge bouquet with an exuberance. Heals yourself. Likely to stun an enemy.
+Increases speed and toss a huge bouquet with an exuberance. Heals yourself. High chance of stunning an enemy.
 Bouquet of Happiness
 Bouquet of Happiness
 skill_icon_mace_3_{}
-Busts a dome of water and smashes the enemy. Heals your HP and is likely to stun an enemy.
+Busts a dome of water and smashes the enemy. Heals your HP and is High chance of stunning an enemy.
 Splash Impact
 Splash Impact
 skill_icon_mace_3_{}
@@ -1686,7 +1686,7 @@ Spin attack with sunflowers as it restores HP.
 Sunny Day's Step
 Sunny Day's Step
 skill_icon_dagger_3_{}
-Increase your attack. Unleash a chain of attacks keeping the chocolate bananas. Likely to stun an enemy.
+Increase your attack. Unleash a chain of attacks keeping the chocolate bananas. High chance of stunning an enemy.
 Sweet Temptation
 Sweet Temptation
 skill_icon_dagger_3_{}
@@ -1702,11 +1702,11 @@ Slam down carrier bag and decreases attack and defense of enemies. Aircrafts do 
 Traveling Smash
 Traveling Smash
 skill_icon_dagger_3_{}
-Attacks enemy by splashing water. Philia becomes drenched but heals HP and is likely to stun an enemy.
+Attacks enemy by splashing water. Philia becomes drenched but heals HP and is High chance of stunning an enemy.
 Flash Flood
 Flash Flood
 skill_icon_dagger_3_{}
-After healing yourself, rush by the holy brightness of the ring on her ring finger. Likely to stun an enemy.
+After healing yourself, rush by the holy brightness of the ring on her ring finger. High chance of stunning an enemy.
 Glitter Ring
 Glitter Ring
 skill_icon_dagger_3_{}
@@ -1982,7 +1982,7 @@ A combination skill. Activate a damage canceling barrier and make yourself invis
 Chrysanthemum Birth
 Chrysanthemum Birth
 skill_icon_finesword_3_{}
-A combination skill. Move instantly to the back of an enemy and attack with a large lucent wreath. Likely to stun an enemy. 
+A combination skill. Move instantly to the back of an enemy and attack with a large lucent wreath. High chance of stunning an enemy.
 Lucent Wreath
 Lucent Wreath
 skill_icon_finesword_3_{}
@@ -2026,7 +2026,7 @@ It throws a swim high up in the air and attack enemies. It restores HP.
 Catch the Sun
 Catch the Sun
 skill_icon_finesword_3_{}
-Increase your attack and unleash a chain of attacks in a flurry of sparks. Likely to stun an enemy.
+Increase your attack and unleash a chain of attacks in a flurry of sparks. High chance of stunning an enemy.
 Last Sparkler
 Last Sparkler
 skill_icon_finesword_3_{}
@@ -2042,11 +2042,11 @@ After throwing a syringe, attack and fire a fatal shot. Decreases defense and at
 Love Injection
 Love Injection
 skill_icon_finesword_3_{}
-After healing yourself, attack rapidly and pack enemies in holy light. Likely to stun an enemy.
+After healing yourself, attack rapidly and pack enemies in holy light. High chance of stunning an enemy.
 Blessing Light
 Blessing Light
 skill_icon_finesword_3_{}
-Casts a shining spell and attack enemies with a swift thrust and some magic. Likely to stun an enemy.
+Casts a shining spell and attack enemies with a swift thrust and some magic. High chance of stunning an enemy.
 Shining Gemini
 Shining Gemini
 skill_icon_finesword_3_{}
@@ -2315,7 +2315,7 @@ Restores HP and reduces damage received for a certain period of time. After 6 co
 Final Rain
 Final Rain
 skill_icon_dualblade_3_{}
-Enhance your attack and unleash a chain of attacks with a fluid motion.  Likely to stun an enemy.
+Enhance your attack and unleash a chain of attacks with a fluid motion.  High chance of stunning an enemy.
 Illusional Wreath
 Illusional Wreath
 skill_icon_dualblade_3_{}
@@ -2561,7 +2561,7 @@ A combination skill. Performs a spinning slash and give away presents.  High cha
 Precious Present
 Precious Present
 skill_icon_sword_3_{}
-A combination skill. Release the memory of "Fragrant Olive Sword" and shoot out a streaming, powerful beam of energy.  Likely to stun an enemy. 
+A combination skill. Release the memory of "Fragrant Olive Sword" and shoot out a streaming, powerful beam of energy.  High chance of stunning an enemy.
 Release Recollection
 Holy Light Fragrant Olive 
 skill_icon_sword_3_{}
@@ -2621,15 +2621,15 @@ It restores HP and reduces damage received for a certain period of time. It dart
 Hydrangea
 Hydrangea
 skill_icon_sword_3_{}
-Heals yourself with the power of flower and move instantly to the back of an enemy. And then, chop down and thrust the enemy. Likely to stun an enemy.
+Heals yourself with the power of flower and move instantly to the back of an enemy. And then, chop down and thrust the enemy. High chance of stunning an enemy.
 Unrequited Love
 Unrequited Love
 skill_icon_sword_3_{}
-Release the memory of "Fragrant Olive Sword", and make float golden flowers on holy carpet. Heals your HP. Likely to stun an enemy.
+Release the memory of "Fragrant Olive Sword", and make float golden flowers on holy carpet. Heals your HP. High chance of stunning an enemy.
 Release Recollection
 Holy Carpet of Fragrant Olive
 skill_icon_sword_3_{}
-Calls a Meteor from the sky and performs a multi-combo attack. Likely to stun an enemy.
+Calls a Meteor from the sky and performs a multi-combo attack. High chance of stunning an enemy.
 Aries Barrage
 Aries Barrage
 skill_icon_sword_3_{}
@@ -2637,7 +2637,7 @@ Use knowledge of martial arts and attack immediately. Keep your mind focused aft
 Zan-Shin
 Zan-Shin
 skill_icon_sword_3_{}
-Casts a fountain from the ground. Heals your HP and is likely to stun an enemy.
+Casts a fountain from the ground. Heals your HP and is High chance of stunning an enemy.
 Aqua fountain
 Aqua fountain
 skill_icon_sword_3_{}
@@ -2924,7 +2924,7 @@ A combination skill. Slash down an enemy, wearing a dog's face. Activates a dama
 Flash Mastiff
 Flash Mastiff
 skill_icon_sword_3_{}
-A combination skill. Release the memory of "Blue Rose Sword" and change the background to snowy landscape. Likely to stun an enemy.
+A combination skill. Release the memory of "Blue Rose Sword" and change the background to snowy landscape. High chance of stunning an enemy.
 Release Recollection
 Snow on Christmas Eve
 skill_icon_sword_3_{}
@@ -2940,7 +2940,7 @@ A combination skill. Increase all the party members' critical. After slashing an
 Berserk Finish
 Berserk Finish
 skill_icon_sword_3_{}
-A combination skill. After recovering from damage, attack an enemy with a swift thrust and radiate holy light. Likely to stun an enemy.
+A combination skill. After recovering from damage, attack an enemy with a swift thrust and radiate holy light. High chance of stunning an enemy.
 Ideal Marriage
 Ideal Marriage
 skill_icon_sword_3_{}

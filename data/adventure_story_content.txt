@@ -585,6 +585,7 @@ Waals
 408801101_12_a
 Asuna
 408801101_11_a
+P._
 ...
 Waals
 408801101_10_a
@@ -604,12 +605,14 @@ Can you really use a blast that
 big to move? Seems suicidal.
 Liz
 408801101_6_a
+F._
 Y-Yeah...
 Waals
 408801101_5_a
 Yikes! Waals! Are you okay?!
 Asuna
 408801101_4_a
+Z._
 Gnngh!!
 Waals
 408801101_3_a
@@ -802,6 +805,7 @@ Liz
 408800901_12_a
 Sinon
 408800901_11_a
+Z._
 B-But I...!
 Waals
 408800901_10_a
@@ -1261,6 +1265,7 @@ Sinon
 408800501_23_a
 Sinon
 408800501_22_a
+F._
 I lost...
 Waals
 408800501_21_a

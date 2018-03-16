@@ -13251,253 +13251,253 @@ EXP Potion x4
 EXP Potion x3
 EXP Potion x2
 EXP Potion x1
-スキルの聖晶石
-スキルの聖晶石
-スキルの聖晶石
-スキルの聖晶石
+Holy Skill Crystal x20
+Holy Skill Crystal x16
+Holy Skill Crystal x13
+Holy Skill Crystal x12
 Holy Skill Crystal x10
-スキルの聖晶石
-スキルの聖晶石
-スキルの聖晶石
-スキルの聖晶石
+Holy Skill Crystal x9
+Holy Skill Crystal x8
+Holy Skill Crystal x7
+Holy Skill Crystal x6
 Holy Skill Crystal x5
 Holy Skill Crystal x4
 Holy Skill Crystal x3
 Holy Skill Crystal x2
 Holy Skill Crystal x1
-会心の聖晶石
-会心の聖晶石
-会心の聖晶石
-会心の聖晶石
+Holy Critical Crystal x20
+Holy Critical Crystal x16
+Holy Critical Crystal x13
+Holy Critical Crystal x12
 Holy Critical Crystal x10
-会心の聖晶石
-会心の聖晶石
-会心の聖晶石
-会心の聖晶石
+Holy Critical Crystal x9
+Holy Critical Crystal x8
+Holy Critical Crystal x7
+Holy Critical Crystal x6
 Holy Critical Crystal x5
 Holy Critical Crystal x4
 Holy Critical Crystal x3
 Holy Critical Crystal x2
 Holy Critical Crystal x1
-防御の聖晶石
-防御の聖晶石
-防御の聖晶石
-防御の聖晶石
+Holy Defense Crystal x20
+Holy Defense Crystal x16
+Holy Defense Crystal x13
+Holy Defense Crystal x12
 Holy Defense Crystal x10
-防御の聖晶石
-防御の聖晶石
-防御の聖晶石
-防御の聖晶石
+Holy Defense Crystal x9
+Holy Defense Crystal x8
+Holy Defense Crystal x7
+Holy Defense Crystal x6
 Holy Defense Crystal x5
 Holy Defense Crystal x4
 Holy Defense Crystal x3
 Holy Defense Crystal x2
 Holy Defense Crystal x1
-攻撃の聖晶石
-攻撃の聖晶石
-攻撃の聖晶石
-攻撃の聖晶石
+Holy Attack Crystal x20
+Holy Attack Crystal x16
+Holy Attack Crystal x13
+Holy Attack Crystal x12
 Holy Attack Crystal x10
-攻撃の聖晶石
-攻撃の聖晶石
-攻撃の聖晶石
-攻撃の聖晶石
+Holy Attack Crystal x9
+Holy Attack Crystal x8
+Holy Attack Crystal x7
+Holy Attack Crystal x6
 Holy Attack Crystal x5
 Holy Attack Crystal x4
 Holy Attack Crystal x3
 Holy Attack Crystal x2
 Holy Attack Crystal x1
-MPの聖晶石
-MPの聖晶石
-MPの聖晶石
-MPの聖晶石
+Holy MP Crystal x20
+Holy MP Crystal x16
+Holy MP Crystal x13
+Holy MP Crystal x12
 Holy MP Crystal x10
-MPの聖晶石
-MPの聖晶石
-MPの聖晶石
-MPの聖晶石
+Holy MP Crystal x9
+Holy MP Crystal x8
+Holy MP Crystal x7
+Holy MP Crystal x6
 Holy MP Crystal x5
 Holy MP Crystal x4
 Holy MP Crystal x3
 Holy MP Crystal x2
 Holy MP Crystal x1
-HPの聖晶石
-HPの聖晶石
-HPの聖晶石
-HPの聖晶石
+Holy HP Crystal x20
+Holy HP Crystal x16
+Holy HP Crystal x13
+Holy HP Crystal x12
 Holy HP Crystal x10
-HPの聖晶石
-HPの聖晶石
-HPの聖晶石
-HPの聖晶石
+Holy HP Crystal x9
+Holy HP Crystal x8
+Holy HP Crystal x7
+Holy HP Crystal x6
 Holy HP Crystal x5
 Holy HP Crystal x4
 Holy HP Crystal x3
 Holy HP Crystal x2
 Holy HP Crystal x1
-スキル結晶
-スキル結晶
-スキル結晶
-スキル結晶
+Skill Crystal x20
+Skill Crystal x16
+Skill Crystal x13
+Skill Crystal x12
 Skill Crystal x10
-スキル結晶
-スキル結晶
-スキル結晶
-スキル結晶
+Skill Crystal x9
+Skill Crystal x8
+Skill Crystal x7
+Skill Crystal x6
 Skill Crystal x5
 Skill Crystal x4
 Skill Crystal x3
 Skill Crystal x2
 Skill Crystal x1
-会心結晶
-会心結晶
-会心結晶
-会心結晶
+Critical Crystal x20
+Critical Crystal x16
+Critical Crystal x13
+Critical Crystal x12
 Critical Crystal x10
-会心結晶
-会心結晶
-会心結晶
-会心結晶
+Critical Crystal x9
+Critical Crystal x8
+Critical Crystal x7
+Critical Crystal x6
 Critical Crystal x5
 Critical Crystal x4
 Critical Crystal x3
 Critical Crystal x2
 Critical Crystal x1
-防御結晶
-防御結晶
-防御結晶
-防御結晶
+Defense Crystal x20
+Defense Crystal x16
+Defense Crystal x13
+Defense Crystal x12
 Defense Crystal x10
-防御結晶
-防御結晶
-防御結晶
-防御結晶
+Defense Crystal x9
+Defense Crystal x8
+Defense Crystal x7
+Defense Crystal x6
 Defense Crystal x5
 Defense Crystal x4
 Defense Crystal x3
 Defense Crystal x2
 Defense Crystal x1
-攻撃結晶
-攻撃結晶
-攻撃結晶
-攻撃結晶
+Attack Crystal x20
+Attack Crystal x16
+Attack Crystal x13
+Attack Crystal x12
 Attack Crystal x10
-攻撃結晶
-攻撃結晶
-攻撃結晶
-攻撃結晶
+Attack Crystal x9
+Attack Crystal x8
+Attack Crystal x7
+Attack Crystal x6
 Attack Crystal x5
 Attack Crystal x4
 Attack Crystal x3
 Attack Crystal x2
 Attack Crystal x1
-MP結晶
-MP結晶
-MP結晶
-MP結晶
+MP Crystal x20
+MP Crystal x16
+MP Crystal x13
+MP Crystal x12
 MP Crystal x10
-MP結晶
-MP結晶
-MP結晶
-MP結晶
+MP Crystal x9
+MP Crystal x8
+MP Crystal x7
+MP Crystal x6
 MP Crystal x5
 MP Crystal x4
 MP Crystal x3
 MP Crystal x2
 MP Crystal x1
-HP結晶
-HP結晶
-HP結晶
-HP結晶
+HP Crystal x20
+HP Crystal x16
+HP Crystal x13
+HP Crystal x12
 HP Crystal x10
-HP結晶
-HP結晶
-HP結晶
-HP結晶
+HP Crystal x9
+HP Crystal x8
+HP Crystal x7
+HP Crystal x6
 HP Crystal x5
 HP Crystal x4
 HP Crystal x3
 HP Crystal x2
 HP Crystal x1
-スキル結晶のかけら
-スキル結晶のかけら
-スキル結晶のかけら
-スキル結晶のかけら
+Skill Shard x20
+Skill Shard x16
+Skill Shard x13
+Skill Shard x12
 Skill Shard x10
-スキル結晶のかけら
-スキル結晶のかけら
-スキル結晶のかけら
-スキル結晶のかけら
+Skill Shard x9
+Skill Shard x8
+Skill Shard x7
+Skill Shard x6
 Skill Shard x5
 Skill Shard x4
 Skill Shard x3
 Skill Shard x2
 Skill Shard x1
-会心結晶のかけら
-会心結晶のかけら
-会心結晶のかけら
-会心結晶のかけら
+Critical Shard x20
+Critical Shard x16
+Critical Shard x13
+Critical Shard x12
 Critical Shard x10
-会心結晶のかけら
-会心結晶のかけら
-会心結晶のかけら
-会心結晶のかけら
+Critical Shard x9
+Critical Shard x8
+Critical Shard x7
+Critical Shard x6
 Critical Shard x5
 Critical Shard x4
 Critical Shard x3
 Critical Shard x2
 Critical Shard x1
-防御結晶のかけら
-防御結晶のかけら
-防御結晶のかけら
-防御結晶のかけら
+Defense Shard x20
+Defense Shard x16
+Defense Shard x13
+Defense Shard x12
 Defense Shard x10
-防御結晶のかけら
-防御結晶のかけら
-防御結晶のかけら
-防御結晶のかけら
+Defense Shard x9
+Defense Shard x8
+Defense Shard x7
+Defense Shard x6
 Defense Shard x5
 Defense Shard x4
 Defense Shard x3
 Defense Shard x2
 Defense Shard x1
-攻撃結晶のかけら
-攻撃結晶のかけら
-攻撃結晶のかけら
-攻撃結晶のかけら
+Attack Shard x20
+Attack Shard x16
+Attack Shard x13
+Attack Shard x12
 Attack Shard x10
-攻撃結晶のかけら
-攻撃結晶のかけら
-攻撃結晶のかけら
-攻撃結晶のかけら
+Attack Shard x9
+Attack Shard x8
+Attack Shard x7
+Attack Shard x6
 Attack Shard x5
 Attack Shard x4
 Attack Shard x3
 Attack Shard x2
 Attack Shard x1
-MP結晶のかけら
-MP結晶のかけら
-MP結晶のかけら
-MP結晶のかけら
+MP Shard x20
+MP Shard x16
+MP Shard x13
+MP Shard x12
 MP Shard x10
-MP結晶のかけら
-MP結晶のかけら
-MP結晶のかけら
-MP結晶のかけら
+MP Shard x9
+MP Shard x8
+MP Shard x7
+MP Shard x6
 MP Shard x5
 MP Shard x4
 MP Shard x3
 MP Shard x2
 MP Shard x1
-HP結晶のかけら
-HP結晶のかけら
-HP結晶のかけら
-HP結晶のかけら
+HP Shard x20
+HP Shard x16
+HP Shard x13
+HP Shard x12
 HP Shard x10
-HP結晶のかけら
-HP結晶のかけら
-HP結晶のかけら
-HP結晶のかけら
+HP Shard x9
+HP Shard x8
+HP Shard x7
+HP Shard x6
 HP Shard x5
 HP Shard x4
 HP Shard x3
