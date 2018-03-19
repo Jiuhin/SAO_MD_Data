@@ -609,6 +609,16 @@ images/event/4089/4089_banner.png
 images/event/4089/4089_banner.png
 ORDINAL SCALE Another Stage
 Medal Scout
+images/event/4084/4084_top.png
+images/event/4084/4084_banner.png
+images/event/4084/4084_banner.png
+[Ended] New Breed!? Tremendous Dog Fairy
+Medal Scout
+images/event/4084/4084_top.png
+images/event/4084/4084_banner.png
+images/event/4084/4084_banner.png
+New Breed!? Tremendous Dog Fairy
+Medal Scout
 images/event/4083/event_item_4083.png
 images/event/4083/4083_top.png
 images/event/4083/4083_banner.png

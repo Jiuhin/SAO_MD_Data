@@ -149,6 +149,62 @@ Character Story
 [Efficient Smith] Lizbeth Lv.30
 Character Story
 [Efficient Smith] Lizbeth Lv.10
+,Q>
+,Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+Happily Ever After?
++Q>
++Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+True Identity of The Cu Sith
+Event Story
+New Breed!? Tremendous Dog Fairy
+Chasing After The Cu Sith
+)Q>
+)Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+Battle Again
+(Q>
+(Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+Realization and Discovery
+'Q>
+'Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+After the Battle
+&Q>
+&Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+Face Off
+%Q>
+%Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+The Cu Sith
+$Q>
+$Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+An Assault
+Event Story
+New Breed!? Tremendous Dog Fairy
+More Adorable
+"Q>
+"Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+Unknown Enemy
+!Q>
+!Q>
+Event Story
+New Breed!? Tremendous Dog Fairy
+Abnormal Change in Animals
 DM>
 DM>
 Event Story

@@ -1386,6 +1386,22 @@ Complete "ORDINAL SCALE Another Stage (Master +1)".
 Complete "ORDINAL SCALE Another Stage (Master)".
 4089001
 Complete "ORDINAL SCALE Another Stage(Int.)".
+4084032,1,45
+Complete "New Breed!? Tremendous Dog Fairy (Master +2) Part 2" in under 45 sec.
+4084031,1
+Complete "New Breed!? Tremendous Dog Fairy (Master +2) Part 1" without down.
+408401,7500000
+Earn a score of 7,500,000 in New Breed!? Tremendous Dog Fairy
+408401,8000000
+Earn a score of 8,000,000 in New Breed!? Tremendous Dog Fairy
+408401,8500000
+Earn a score of 8,500,000 in New Breed!? Tremendous Dog Fairy
+4084030
+Complete "New Breed!? Tremendous Dog Fairy (Master +1) Part 2".
+4084028
+Complete "New Breed!? Tremendous Dog Fairy (Master) Part 2".
+4084022
+Complete "New Breed!? Tremendous Dog Fairy (Int.) Part 2".
 4083025,2,45
 Complete "School Life with Friends (Master +1)" in under 45 sec.
 4083025,2,60

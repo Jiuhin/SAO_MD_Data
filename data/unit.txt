@@ -379,6 +379,7 @@ head
 weapon
 enemy_120_heathcliff
 enemy_120_heathcliff
+weapon_effect
 skill_effect_enemy_119_the_gleam_eyes
 weapon
 enemy_119_the_gleam_eyes

@@ -5890,6 +5890,190 @@ Quest
 bg_thumbnail_8049
 Quest 1
 ORDINAL SCALE Another Stage (Int.)
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 6-2
+New Breed!? Tremendous Dog Fairy  (Master +2)
+?Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and defend yourself from more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 6-1
+New Breed!? Tremendous Dog Fairy  (Master +2)
+>Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5-2
+New Breed!? Tremendous Dog Fairy  (Master +1)
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and defend yourself from more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5-1
+New Breed!? Tremendous Dog Fairy  (Master +1)
+<Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4-2
+New Breed!? Tremendous Dog Fairy (Master)
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and defend yourself from more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4-1
+New Breed!? Tremendous Dog Fairy (Master)
+:Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3-2
+New Breed!? Tremendous Dog Fairy (EX)
+9Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3-1
+New Breed!? Tremendous Dog Fairy (EX)
+8Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2-2
+New Breed!? Tremendous Dog Fairy (Expert)
+7Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2-1
+New Breed!? Tremendous Dog Fairy (Expert)
+6Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1-2
+New Breed!? Tremendous Dog Fairy (Int.)
+5Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1-1
+New Breed!? Tremendous Dog Fairy (Int.)
+,Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Happily Ever After?
++Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+True Identity of The Cu Sith
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Chasing After The Cu Sith
+)Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Battle Again
+(Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Realization and Discovery
+'Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+After the Battle
+&Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Face Off
+%Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+The Cu Sith
+$Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Attack
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+More Adorable
+"Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Unknown Enemy
+!Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Abnormal Change in Animals
 QM>
 Boss Goblin appears at school, 
 where they are totally uncalled for. 
@@ -19346,6 +19530,190 @@ Quest
 bg_thumbnail_8049
 Quest 1
 ORDINAL SCALE Another Stage (Int.)
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 6-2
+New Breed!? Tremendous Dog Fairy  (Master +2)
+?Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and defend yourself from more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 6-1
+New Breed!? Tremendous Dog Fairy  (Master +2)
+>Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5-2
+New Breed!? Tremendous Dog Fairy  (Master +1)
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and defend yourself from more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 5-1
+New Breed!? Tremendous Dog Fairy  (Master +1)
+<Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4-2
+New Breed!? Tremendous Dog Fairy (Master)
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and defend yourself from more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 4-1
+New Breed!? Tremendous Dog Fairy (Master)
+:Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3-2
+New Breed!? Tremendous Dog Fairy (EX)
+9Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 3-1
+New Breed!? Tremendous Dog Fairy (EX)
+8Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2-2
+New Breed!? Tremendous Dog Fairy (Expert)
+7Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 2-1
+New Breed!? Tremendous Dog Fairy (Expert)
+6Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack
+and make them stun!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1-2
+New Breed!? Tremendous Dog Fairy (Int.)
+5Q>
+Cu Sith the dog fairy tamed 
+the Feral Werewolf. 
+Don't miss a chance to parry their attack!
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1-1
+New Breed!? Tremendous Dog Fairy (Int.)
+,Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Happily Ever After?
++Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+True Identity of The Cu Sith
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Chasing After The Cu Sith
+)Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Battle Again
+(Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Realization and Discovery
+'Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+After the Battle
+&Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Face Off
+%Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+The Cu Sith
+$Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Attack
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+More Adorable
+"Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Unknown Enemy
+!Q>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Abnormal Change in Animals
 QM>
 Boss Goblin appears at school, 
 where they are totally uncalled for. 

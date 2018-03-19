@@ -183,6 +183,16 @@ Character Story
 Character Story
 [Libra] Asuna Lv.10
 Character Story
+[Innocent Puppy] Leafa Lv.80
+Character Story
+[Innocent Puppy] Leafa Lv.70
+Character Story
+[Innocent Puppy] Leafa Lv.50
+Character Story
+[Innocent Puppy] Leafa Lv.30
+Character Story
+[Innocent Puppy] Leafa Lv.10
+Character Story
 [Accompanied By Animals] Sinon  Lv.80
 Character Story
 [Accompanied By Animals] Sinon  Lv.70
@@ -773,6 +783,16 @@ Character Story
 Character Story
 [Keep Trying] Yui Lv.10
 Character Story
+[Cute Bunny] Sinon Lv.80
+Character Story
+[Cute Bunny] Sinon Lv.70
+Character Story
+[Cute Bunny] Sinon Lv.50
+Character Story
+[Cute Bunny] Sinon Lv.30
+Character Story
+[Cute Bunny] Sinon Lv.10
+Character Story
 [Lovely  Chocolatier] Silica Lv.80
 Character Story
 [Lovely  Chocolatier] Silica Lv.70
@@ -1042,6 +1062,16 @@ Character Story
 [Dragon Tamer] Silica Lv.30
 Character Story
 [Dragon Tamer] Silica Lv.10
+Character Story
+[Foxy Beauty] Asuna Lv.80
+Character Story
+[Foxy Beauty] Asuna Lv.70
+Character Story
+[Foxy Beauty] Asuna Lv.50
+Character Story
+[Foxy Beauty] Asuna Lv.30
+Character Story
+[Foxy Beauty] Asuna Lv.10
 Character Story
 [Affectionate Chocolatier] Asuna Lv.80
 Character Story

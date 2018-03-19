@@ -47,6 +47,8 @@ canvas_mask11.psb
 1065_kureha
 1061_orchis
 1060_epidend
+1059_fukaziroh_miyu
+1057_llenn_karen
 1056_arianrhod
 1054_alice
 1053_eugeo_halloween

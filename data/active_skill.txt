@@ -659,6 +659,10 @@ Thrust to stop the enemy's movement and rush rapidly.
 Sonic Charge
 Sonic Charge
 skill_icon_rod_3_{}
+A combination skill. Summon a magical wolf and attack with a cyclone. High chance of stunning an enemy. Increases critical damage of a combination partner.
+Beast Rush
+Beast Rush
+skill_icon_rod_3_{}
 A combination skill. Increases your speed and sets summoned animals on enemies. Decreases enemies' defense.
 Animal Circus
 Animal Circus
@@ -1642,6 +1646,10 @@ Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
 skill_icon_dagger_3_{}
+A combination skill. Ride a stuffed big rabbit and dive above an enemy's head. High chance of stunning an enemy. Increases critical damage of a combination partner.
+Overhead Rabbit Drop
+Overhead Rabbit Drop
+skill_icon_dagger_3_{}
 A combination skill. Increases your speed and give away balloons from a unicycle. Decreases enemies' defense.
 Comical Unicycle
 Comical Unicycle
@@ -1961,6 +1969,10 @@ skill_icon_finesword_3_{}
 A combination skill. Perform attacks with lights when singing in the air. MP recovery of combination starter.
 Ubiquitous Decibel
 Ubiquitous Decibel
+skill_icon_finesword_3_{}
+A combination skill. Perform a combo attack with their tale and slash through an enemy's back. High chance of stunning an enemy. Increases critical damage of a combination partner.
+Fury Tails
+Fury Tails
 skill_icon_finesword_3_{}
 A sword skill. Perform a thrust after singing. Gives auto-recovery to all party members.
 Resonant Crescendo 
@@ -2532,6 +2544,10 @@ A sword skill unique to Dual Blades. Thrust with one sword
 slash with the other.
 Double Circular
 Double Circular
+skill_icon_sword_3_{}
+A combination skill. Release the memory of "Fragrant Olive Sword" and slash through an enemy's back. High chance of stunning an enemy. Increases critical damage of a combination partner.
+Release Recollection
+Fragrant Olive Wind Dance
 skill_icon_sword_3_{}
 Slash through an enemy's back and perform a combo attack as dancing around the enemy. 
 Stand With You

@@ -1530,6 +1530,12 @@ TBD
 Libra Hastam R4
 weapon09_0001
 TBD
+Faithful Dog's Fang R5
+weapon08_0040
+TBD
+Faithful Dog's Fang R4
+weapon08_0040
+TBD
 Dove Rod R5
 weapon08_0039
 TBD
@@ -2412,6 +2418,12 @@ TBD
 Blade of Bight Festival +1 R4
 weapon04_0060
 TBD
+Moon Rabbit's Dagger R5
+weapon04_0059
+TBD
+Moon Rabbit's Dagger R4
+weapon04_0059
+TBD
 Love Cake Knife +1 R5
 weapon04_0058
 TBD
@@ -2728,6 +2740,12 @@ weapon03_0066
 TBD
 Gemini Gradius+2 R4
 weapon03_0066
+TBD
+Huli jing Sword R5
+weapon03_0064
+TBD
+Huli jing Sword R4
+weapon03_0064
 TBD
 Emotiongraphy R5
 weapon03_0062
@@ -3264,6 +3282,12 @@ weapon01_0122
 TBD
 Fragrant Olive Sword +2 R4
 weapon01_0122
+TBD
+Tanuki Sword R5
+weapon01_0118
+TBD
+Tanuki Sword R4
+weapon01_0118
 TBD
 Epee Ruban R5
 weapon01_0115

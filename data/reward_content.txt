@@ -1,103 +1,95 @@
-x}	
-0}	
-h{	
-Hz	
-ly	
-8x	
-Pw	
-lv	
-0u	
-8t	
-Ds	
-pp	
-(p	
-Lo	
-hn	
-hl	
-<k	
+L}	
+0{	
+Lz	
+lx	
+xw	
+$w	
+<v	
+Xt	
+0q	
+Xp	
+4o	
+Pn	
+dm	
+4l	
+Hk	
 Pj	
-li	
-8h	
-Hg	
-Pf	
-de	
-4d	
-Xb	
-4a	
-p_	
-(_	
+lh	
+Dg	
+<f	
+le	
+dc	
+0b	
 p]	
 $]	
-T[	
-pZ	
-0Y	
-8X	
-LW	
-dV	
-HU	
-hS	
-8R	
-XQ	
-8P	
-XO	
-pN	
+d[	
+0Z	
+8Y	
+HX	
+tW	
+4W	
+tV	
+4V	
+tU	
+4U	
+tT	
+4T	
+tS	
+4S	
+tR	
+4R	
+tQ	
+,Q	
+TP	
+4O	
 <M	
-XL	
-hK	
+dL	
+DK	
 lJ	
-xI	
-0I	
-HH	
-tG	
-,G	
-lF	
+$J	
+LI	
+tH	
+,H	
+TG	
+pF	
 $F	
-DE	
-hD	
-8C	
-TB	
-H?	
-x>	
-,>	
-p<	
-$<	
-L:	
-T9	
+xC	
+,C	
+HB	
+lA	
+$A	
+t?	
+(?	
+D>	
+t<	
+(:	
+L9	
 l8	
 $8	
-d7	
-$7	
-d6	
-$6	
-d5	
-$5	
-d4	
-$4	
-d3	
-$3	
-d2	
-$2	
-T1	
-40	
-<.	
+D7	
+p5	
+<4	
+X3	
+42	
+L1	
+d0	
+l/	
+$/	
+D.	
 d-	
-D,	
-l+	
-$+	
-t)	
+4,	
+P+	
+x)	
 ,)	
-T(	
-x'	
-,'	
-H&	
-d%	
-4$	
-l"	
-$"	
-L!	
-t 	
-, 	
-P		
+H(	
+d'	
+4&	
+P%	
+l$	
+X"	
+t!	
+(!	
+D 	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -149,6 +141,28 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+,Q>
+Happily Ever After?
++Q>
+True Identity of The Cu Sith
+Chasing After The Cu Sith
+)Q>
+Battle Again
+(Q>
+Realization and Discovery
+'Q>
+After the Battle
+&Q>
+Face Off
+%Q>
+The Cu Sith
+$Q>
+An Assault
+More Adorable
+"Q>
+Unknown Enemy
+!Q>
+Abnormal Change in Animals
 5n:
 DM>
 School Life with Friends
@@ -1265,6 +1279,22 @@ j	8Dt
 Coat of Barrios R3
 -j	8Ct
 Coat of Barrios R2
+i	8
+OS Gold Medal x1
+h	8?t
+OS Gold Medal x1
+9h	8>t
+OS Gold Medal x1
+g	8
+OS Gold Medal x1
+qg	8<t
+OS Upgrade Crystal  x1
+g	8
+OS Gold Medal x2
+f	8:t
+Morph
+Ef	89t
+Tremendous Dog Fairy
 e	88t
 -Ordinal Scale-
 }e	87t
@@ -1680,6 +1710,26 @@ Another GGO C.R. Crystal x4
 Another GGO C.R. Crystal x3
 Another GGO C.R. Crystal x2
 Another GGO C.R. Crystal x1
+55_
+Furry C.R.Crystal x5
+54_
+Furry C.R.Crystal x4
+53_
+Furry C.R.Crystal x3
+52_
+Furry C.R.Crystal x2
+51_
+Furry C.R.Crystal x1
+Furry C.R.Crystal x10
+Furry C.R.Crystal x9
+Furry C.R.Crystal x8
+Furry C.R.Crystal x7
+Furry C.R.Crystal x6
+Furry C.R.Crystal x5
+Furry C.R.Crystal x4
+Furry C.R.Crystal x3
+Furry C.R.Crystal x2
+Furry C.R.Crystal x1
 Uniform C.R.Crystal x5
 Uniform C.R.Crystal x4
 Uniform C.R.Crystal x3
@@ -3660,6 +3710,174 @@ OS Bronze Medal x10
 2EO
 OS Silver Medal x10
 2EO
+OS Gold Medal x16
+2ZM
+EXP Potion x5
+2ZM
+Skill Shard x20
+2ZM
+Critical Shard x20
+2ZM
+Defense Shard x20
+2ZM
+Attack Shard x20
+2ZM
+MP Shard x20
+2ZM
+HP Shard x20
+2YM
+Assault Team: Dog Fairy Top 100
+2YM
+EXP Hi-Potion x5
+2YM
+Skill Shard x20
+2YM
+Critical Shard x20
+2YM
+Defense Shard x20
+2YM
+Attack Shard x20
+2YM
+MP Shard x20
+2YM
+HP Shard x20
+2YM
+Memory Diamond x5
+2XM
+Assault Team: Dog Fairy Top 50
+2XM
+EXP Hi-Potion x5
+2XM
+Col x30000
+2XM
+Memory Diamond x5
+2XM
+OS Bronze Medal x5
+2XM
+OS Silver Medal x5
+2XM
+OS Gold Medal x2
+2WM
+Assault Team: Dog Fairy Top 20
+2WM
+EXP X-Potion x5
+2WM
+Col x50000
+2WM
+Memory Diamond x5
+2WM
+OS Upgrade Crystal  x1
+2WM
+OS Bronze Medal x10
+2WM
+OS Silver Medal x5
+2WM
+OS Gold Medal x4
+2VM
+Assault Team: Dog FairyTop 10
+2VM
+EXP X-Potion x5
+2VM
+Col x100000
+2VM
+Memory Diamond x5
+2VM
+OS Upgrade Crystal  x2
+2VM
+OS Bronze Medal x10
+2VM
+OS Silver Medal x5
+2VM
+OS Gold Medal x6
+2UM
+Assault Team: Dog Fairy 5th
+2UM
+Rainbow Essence x1
+2UM
+EXP X-Potion x5
+2UM
+Col x200000
+2UM
+Memory Diamond x5
+2UM
+OS Upgrade Crystal  x3
+2UM
+OS Bronze Medal x10
+2UM
+OS Silver Medal x5
+2UM
+OS Gold Medal x8
+2TM
+Assault Team: Dog Fairy 4th
+2TM
+Rainbow Essence x1
+2TM
+EXP X-Potion x5
+2TM
+Col x200000
+2TM
+Memory Diamond x5
+2TM
+OS Upgrade Crystal  x3
+2TM
+OS Bronze Medal x10
+2TM
+OS Silver Medal x5
+2TM
+OS Gold Medal x9
+2SM
+Assault Team: Dog Fairy 3rd
+2SM
+Rainbow Essence x1
+2SM
+EXP X-Potion x5
+2SM
+Col x200000
+2SM
+Memory Diamond x5
+2SM
+OS Upgrade Crystal  x4
+2SM
+OS Bronze Medal x10
+2SM
+OS Silver Medal x10
+2SM
+OS Gold Medal x11
+2RM
+Assault Team: Dog Fairy 2nd
+2RM
+Rainbow Essence x1
+2RM
+EXP X-Potion x5
+2RM
+Col x300000
+2RM
+Memory Diamond x5
+2RM
+OS Upgrade Crystal  x4
+2RM
+OS Bronze Medal x10
+2RM
+OS Silver Medal x10
+2RM
+OS Gold Medal x13
+2QM
+Assault Team: Dog Fairy 1st
+2QM
+Rainbow Essence x2
+2QM
+EXP X-Potion x5
+2QM
+Col x500000
+2QM
+Memory Diamond x5
+2QM
+OS Upgrade Crystal  x4
+2QM
+OS Bronze Medal x10
+2QM
+OS Silver Medal x10
+2QM
 OS Gold Medal x16
 Void Medallion x5
 Skill Shard x50
@@ -10352,6 +10570,13 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+OS Gold Medal x1
+OS Silver Medal x5
+OS Silver Medal x3
+OS Silver Medal x2
+OS Bronze Medal x5
+OS Bronze Medal x3
+OS Bronze Medal x2
 OS Gold Medal x1
 OS Silver Medal x5
 OS Silver Medal x3
