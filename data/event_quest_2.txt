@@ -294,19 +294,19 @@ Bring them down NOW!
 images/battle/cutin/battle_cutin_65002.png
 Way to go! 
 Buy more time!
-images/battle/cutin/battle_cutin_65012.png
+images/battle/cutin/battle_cutin_165009.png
 Your current team is exhausted!
 Let's switch to a new party!
-images/battle/cutin/battle_cutin_65012.png
+images/battle/cutin/battle_cutin_165009.png
 Your current team is exhausted!
 Let's switch to a new party!
-images/battle/cutin/battle_cutin_65012.png
+images/battle/cutin/battle_cutin_165009.png
 Your current team is exhausted!
 Let's switch to a new party!
-images/battle/cutin/battle_cutin_65012.png
+images/battle/cutin/battle_cutin_165009.png
 Your current team is exhausted!
 Let's switch to a new party!
-images/battle/cutin/battle_cutin_65012.png
+images/battle/cutin/battle_cutin_165009.png
 Your current team is exhausted!
 Let's switch to a new party!
 	U>

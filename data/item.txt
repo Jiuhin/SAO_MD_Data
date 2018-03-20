@@ -681,6 +681,9 @@ item_m_record_crystal_blue
 You can use in the "Another Gun Gale Online"
 Another GGO C.R. Crystal
 item_m_record_crystal_blue
+You can use in the "Furry Morphin' Time 
+Furry C.R.Crystal
+item_m_record_crystal_blue
 You can use in the "The Vernal Memory of Uniform"
 Uniform C.R.Crystal
 item_m_record_crystal_blue

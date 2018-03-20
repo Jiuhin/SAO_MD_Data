@@ -1,20 +1,22 @@
-$YD
-D:D
-$xC
-4k?
-df<
-Hd5
-x/5
-ha3
-( 2
-8M0
-h3/
-8g-
-L9'
-l/$
-P8"
-Tt 
-l" 
+dYD
+dxC
+<TC
+tk?
+L_>
+8B<
+XB:
+TN8
+(	7
+pa3
+0 2
+p3/
+h8-
+P9'
+p/$
+T8"
+DS!
+Xt 
+p" 
 walk
 wakeup
 wait
@@ -179,7 +181,7 @@ dead
 dash
 damage
 charge_old
-"Dv$
+"D6$
 charge
 back_step
 attack_3
@@ -578,7 +580,7 @@ wait
 stun
 step
 skill_16310101
-zDd
+zD$
 skill_163101
 skill_161201
 skill_161102
@@ -594,7 +596,6 @@ dead
 dash
 damage
 charge_old
-"D"
 charge
 back_step
 attack_3
@@ -1895,7 +1896,7 @@ stun
 step
 skill_2312702
 skill_2312701
-Cf"
+C&"
 skill_23127
 skill_22202
 skill_21201
@@ -1980,8 +1981,8 @@ wakeup
 wait
 stun
 step
+CVj
 skill_2311901
-CZm
 skill_23119
 skill_22102
 skill_21201
@@ -2373,7 +2374,7 @@ wakeup
 wait
 stun
 step
-Df"
+D&"
 skill_224107
 skill_221204
 skill_221103
@@ -2478,8 +2479,7 @@ wakeup
 wait
 stun
 step
-D2x
-D.y
+DJy
 skill_224103
 skill_221204
 skill_221101
@@ -3068,6 +3068,7 @@ wakeup
 wait
 stun
 step
+HDx
 skill_184102
 skill_182101
 skill_181101
@@ -3276,6 +3277,7 @@ wakeup
 wait
 stun
 step
+TDJ
 skill_183108
 skill_182101
 skill_181101
@@ -3441,7 +3443,6 @@ wakeup
 wait
 stun
 step
-HDZ
 skill_183103
 skill_182101
 skill_181101
@@ -3483,7 +3484,6 @@ wakeup
 wait
 stun
 step
-HD2
 skill_18310101
 skill_183101
 skill_182101
@@ -3628,9 +3628,7 @@ down
 dead
 dash
 damage
-"D6
 charge_old
-"D&
 charge
 back_step
 attack_3
@@ -3660,7 +3658,7 @@ wakeup
 wait
 stun
 step
-D8"
+Dj&
 skill_163113
 skill_161201
 skill_161102
@@ -3720,9 +3718,8 @@ down
 dead
 dash
 damage
-"Df
+"D&
 charge_old
-"DV
 charge
 back_step
 attack_3
@@ -3766,9 +3763,7 @@ down
 dead
 dash
 damage
-"DV
 charge_old
-"DF
 charge
 back_step
 attack_3
@@ -3859,6 +3854,7 @@ dead
 dash
 damage
 charge_old
+"Dv
 charge
 back_step
 attack_3
@@ -3947,7 +3943,6 @@ down
 dead
 dash
 damage
-"D.
 charge_old
 charge
 back_step
@@ -4083,9 +4078,7 @@ down
 dead
 dash
 damage
-"DB
 charge_old
-"D2
 charge
 back_step
 attack_3
@@ -4173,7 +4166,9 @@ down
 dead
 dash
 damage
+"DN
 charge_old
+"D>
 charge
 back_step
 attack_3
@@ -4249,7 +4244,6 @@ wait
 stun
 step
 skill_16310301
-zD.
 skill_163103
 skill_161201
 skill_161102
@@ -4264,8 +4258,9 @@ down
 dead
 dash
 damage
+"DJ
 charge_old
-"Dz
+"D:
 charge
 back_step
 attack_3
@@ -4310,7 +4305,6 @@ down
 dead
 dash
 damage
-"D:C
 charge_old
 charge
 back_step
@@ -4355,7 +4349,7 @@ down
 dead
 dash
 damage
-"Dnh
+"D.h
 charge_old
 charge
 back_step
@@ -4403,9 +4397,8 @@ down
 dead
 dash
 damage
-"Df
+"D&
 charge_old
-"DV
 charge
 back_step
 attack_3
@@ -4450,7 +4443,6 @@ down
 dead
 dash
 damage
-"D&
 charge_old
 charge
 back_step
@@ -4526,8 +4518,8 @@ wakeup
 wait
 stun
 step
-zD>
 skill_16310101
+zDd
 skill_163101
 skill_161201
 skill_161102
@@ -4542,9 +4534,9 @@ down
 dead
 dash
 damage
-"Dv
+"D6
 charge_old
-"Df
+"D&
 charge
 back_step
 attack_3
@@ -4575,7 +4567,6 @@ wait
 stun
 step
 skill_16310101
-zD8 
 skill_163101
 skill_161201
 skill_161102
@@ -4679,7 +4670,6 @@ down
 dead
 dash
 damage
-"D:m
 charge_old
 charge
 back_step
@@ -4724,7 +4714,9 @@ down
 dead
 dash
 damage
+"Dz
 charge_old
+"Dj
 charge
 back_step
 attack_3
@@ -4844,6 +4836,7 @@ wait
 stun
 step
 skill_14410501
+HDb
 skill_144105
 skill_141202
 skill_141101
@@ -4935,7 +4928,6 @@ wakeup
 wait
 stun
 step
-aDj/
 skill_144102
 skill_141201
 skill_141101
@@ -5118,7 +5110,6 @@ wakeup
 wait
 stun
 step
-zD&
 skill_144106
 skill_141202
 skill_141101
@@ -5164,8 +5155,9 @@ wakeup
 wait
 stun
 step
+HDF
 skill_14410501
-HDb
+HD"
 skill_144105
 skill_141202
 skill_141101
@@ -5348,6 +5340,7 @@ wakeup
 wait
 stun
 step
+Dzo
 skill_143109
 skill_141202
 skill_141101
@@ -5939,6 +5932,7 @@ wakeup
 wait
 stun
 step
+DFX
 skill_124102
 skill_121202
 skill_121102
@@ -5984,7 +5978,6 @@ wakeup
 wait
 stun
 step
-DN{
 skill_124101
 skill_121202
 skill_121101
@@ -6029,7 +6022,7 @@ wakeup
 wait
 stun
 step
-zDn
+zD.
 skill_123112
 skill_121202
 skill_121101
@@ -6737,7 +6730,6 @@ wakeup
 wait
 stun
 step
-HD(
 skill_104106
 skill_102201
 skill_101101
@@ -6822,6 +6814,8 @@ wakeup
 wait
 stun
 step
+zDF1
+zDv1
 skill_104101
 skill_102201
 skill_101101
@@ -6907,7 +6901,6 @@ wakeup
 wait
 stun
 step
-zD0
 skill_104102
 skill_102201
 skill_101101
@@ -7161,8 +7154,8 @@ wakeup
 wait
 stun
 step
-C&p
-CVp
+CZo
+CFp
 skill_103124
 skill_102201
 skill_101101
@@ -7290,7 +7283,6 @@ wakeup
 wait
 stun
 step
-HDJ
 skill_103122
 skill_102201
 skill_101101
@@ -7419,6 +7411,7 @@ wait
 stun
 step
 e.	
+zC>s
 skill_103115
 skill_101201
 skill_101101
@@ -10730,7 +10723,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_65016
-An Asuka Empire Blade Priestess. Asuna, disappointed that she couldn't get cute cat ears in ALO, heads to Asuka Empire for a similar event. But when she gets there, she finds out that this event has a rather unusual theme...
+An ALO player. Blade Priestess in AE. Asuna, disappointed that she couldn't get cute cat ears in ALO, heads to Asuka Empire for a similar event. But when she gets there, she finds out that this event has a rather unusual theme...
 serif
 5_asuna_65016
 Asuna
@@ -11233,6 +11226,7 @@ wakeup
 wait
 stun
 step
+/D(
 skill_64103
 skill_62101
 %&'
@@ -13600,7 +13594,6 @@ wakeup
 wait
 stun
 step
-zDP
 skill_34102
 skill_32202
 skill_31201
@@ -14093,7 +14086,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_25019
-A knight from another world embarrassed she's been turned into a tanuki.
+A mysterious knight from another world. Embarrassed she's been turned into a tanuki.
 serif
 5_alice_25019
 Alice

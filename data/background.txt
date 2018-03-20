@@ -3102,6 +3102,12 @@ belt1.png
 belt2.png
 rock.png
 sky.png
+forefront_rock.png
+belt2.png
+belt1.png
+belt2.png
+rock.png
+sky.png
 forefront.png
 ground.png
 belt1.png

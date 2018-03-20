@@ -712,8 +712,6 @@ e8d35634d29b482c471876d8656509c2
 ss/unit/chara_2_sword_w/skill_effect_sword_1.png
 021eea1a5f57e212483816c0ef16d504
 ss/unit/chara_2_sword_w/skill_effect_sword_0.png
-dd8802eba62289ed848f675975213d47
-ss/unit/chara_2_sword_w/skill_effect_24134.png
 dad5c7b8316e5c14e67bb7542a7a5248
 ss/unit/chara_2_sword_w/skill_effect_24130.png
 c2020f6a222ba14a6c1350145a3568ff
@@ -2258,7 +2256,7 @@ images/lottery/076/20762_scout_banner.png
 images/lottery/076/20761_scout_top_s.png
 d99790b34b1f9eabdee0b5f5934d1284
 images/lottery/076/20761_scout_banner.png
-7d69880d192081c7ab49229a1dec9667
+0e2b4bceb12e851e0c7586678ff3a786
 images/lottery/076/10761_weapon_top_s.png
 81265e812ec1c7c06ba39a318a2c6ffc
 images/lottery/076/10761_weapon_banner.png
