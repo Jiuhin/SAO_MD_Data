@@ -1,4 +1,53 @@
 Unlocks lv. 90+ attributes for
+[Cool Screw] Waals
+Lv. 90 Screw Key
+Unlocks lv. 80+ attributes for
+[Cool Screw] Waals
+Lv. 80 Screw Key
+Unlocks lv. 70+ attributes for
+[Cool Screw] Waals
+Lv. 70 Screw Key
+Unlocks lv. 60+ attributes for
+[Cool Screw] Waals
+Lv. 60 Screw Key
+Unlocks lv. 50+ attributes for
+[Cool Screw] Waals
+Lv. 50 Screw Key
+Unlocks lv. 40+ attributes for
+[Cool Screw] Waals
+Lv. 40 Screw Key
+Unlocks lv. 30+ attributes for
+[Cool Screw] Waals
+Lv. 30 Screw Key
+Unlocks lv. 20+ attributes for
+[Cool Screw] Waals
+Lv. 20 Screw Key
+Unlocks lv. 10+ attributes for
+[Cool Screw] Waals
+Lv. 10 Screw Key
+Raises a character's level cap.
+[Cool Screw] Waals
+Holy Screw Hacking Crystal
+Raises a character's level cap.
+[Cool Screw] Waals
+Screw Hacking Crystal
+Raises a character's level cap.
+[Cool Screw] Waals
+Screw Hacking Shard
+'a>
+Raises stats for
+[Cool Screw] Waals
+Screw (L)
+&a>
+Raises stats for
+[Cool Screw] Waals
+Screw (M)
+%a>
+L>2
+Raises stats for
+[Cool Screw] Waals
+Screw (S)
+Unlocks lv. 90+ attributes for
 [Genius Creator] Yuuki
 Lv. 90 Artistic Taste Key
 Unlocks lv. 80+ attributes for
@@ -413,50 +462,50 @@ Raises stats for
 [Pure-Hearted Warrior of Flora] Sinon
 Hard Worker's New Bud
 Unlocks lv. 90+ attributes for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 90 Fisherman's Key
 Unlocks lv. 80+ attributes for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 80 Fisherman's Key
 Unlocks lv. 70+ attributes for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 70 Fisherman's Key
 Unlocks lv. 60+ attributes for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 60 Fisherman's Key
 Unlocks lv. 50+ attributes for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 50 Fisherman's Key
 Unlocks lv. 40+ attributes for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 40 Fisherman's Key
 Unlocks lv. 30+ attributes for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 30 Fisherman's Key
 Unlocks lv. 20+ attributes for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 20 Fisherman's Key
 Unlocks lv. 10+ attributes for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 10 Fisherman's Key
 Raises a character's level cap.
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Holy Fisherman Hacking Crystal
 Raises a character's level cap.
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Fisherman Hacking Crystal
 Raises a character's level cap.
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Fisherman Hacking Shard
 Raises stats for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lunker Fishing Rod
 Raises stats for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Big Fishing Rod
 L>2
 Raises stats for
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Fishing Rod
 Unlocks lv. 90+ attributes for
 [Rejoicing Witch] Leafa
@@ -678,25 +727,26 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
-You can use in the "Another Gun Gale Online"
+You can obtain in Another Gun Gale Online Scout
 Another GGO C.R. Crystal
 item_m_record_crystal_blue
-You can use in the "Furry Morphin' Time 
+You can obtain in Furry Morphin' Time 
+Scout
 Furry C.R.Crystal
 item_m_record_crystal_blue
-You can use in the "The Vernal Memory of Uniform"
+You can obtain in The Vernal Memory of Uniform Scout
 Uniform C.R.Crystal
 item_m_record_crystal_blue
-You can use in the "Reawakened Memories"
+You can obtain in Reawakened Memories Scout
 Reawakened Memories C.R.Crystal
 item_m_record_crystal_blue
-You can use in the "Fatal Bullet - Unstoppable Force"
+You can obtain in Fatal Bullet - Unstoppable Force Scout
 Fatal Bullet Circulating Record Crystal
 item_m_record_crystal_blue
-You can use in the "Dream Circus - Breathtaking Performances"
+You can use in the "Dream Circus - Breathtaking Performances" Scout
 Dream Circus Circulating Record Crystal
 item_m_record_crystal_blue
-You can use in the "Sweet Chocolatiere - Melt Your Sweetheart"
+You can use in the "Sweet Chocolatiere - Melt Your Sweetheart" Scout
 Chocolatiere Circulating Record Crystal
 item_m_record_crystal_blue
 You can use in the "Leaning on You"
@@ -709,32 +759,37 @@ You can use in Christmas Record Crystal Scout
 Christmas Record Crystal
 item_m_record_crystal_emerald
 You can attain in "The Crimson Trump
-Card"
+Card" Scout
 Crimson Trump Card Crystal
 item_m_record_crystal_emerald
-You can attain in the "Steamy Beauty Bath Time"
+You can attain in "Steamy Beauty Bath Time" Scout
 Steamy Beauty Bath Time Record Crystal
 item_m_record_crystal_emerald
-You can attain in the "Baton of Friendship! Sports Festival Scout"
+You can attain in "Baton of Friendship! Sports Festival Scout"
 Sports Festival Record Crystal
 item_m_record_crystal_emerald
-You can attain in the "Happy Halloween Night Scout"
+You can attain in "Happy Halloween Night Scout"
 Happy Halloween Night Record Crystal
 item_m_record_crystal_emerald
-You can attain in the "Moonlight Halloween Parade Scout"
+You can attain in "Moonlight Halloween Parade Scout"
 Moonlight Halloween Record Crystal
 item_m_record_crystal_guaranteed
-You can use in the "Assault Team Record Crystal" Scout
+You can use in "Assault Team Record Crystal" Scout
 Assault Team Record Crystal
 item_m_record_crystal_emerald
-You can attain in the "Jolly Roger in the Stormy Sea" Scout
+You can attain in "Jolly Roger in the Stormy Sea" Scout
 Pirate Record Crystal
 item_m_record_crystal_emerald
-You can attain in the "Summer Girl" Scout
+You can attain in "Summer Girl" Scout
 Summer Girl Record Crystal
 item_m_record_crystal_emerald
-You can attain in the "YUKATA Night" Scout
+You can attain in "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20014
+Upgrades character
+([Cool Screw] Waals only) 
+Rarity: High
+Screw Upgrade Crystal
 item_m_evolution_20013
 Upgrades character
 ([Tied Together] Yuuki only) 

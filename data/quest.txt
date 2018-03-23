@@ -5595,6 +5595,100 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+Hello New Me (Master +1)
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 4
+Hello New Me (Master)
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 3
+Hello New Me (EX)
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 2
+Hello New Me (Expert)
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1
+Hello New Me (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+And..
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Pink Devil Awakening
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Not to Waste
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Hello Cutie
+}l>
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Good Bye "ALO"
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Hello "ALO"
+{l>
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Becoming Somebody Else
+zl>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+A Tall Girl's Dream
+yl>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+A Girl from "the Gun World"
 Minotaurus Horn roars and makes an assault. 
 Overcome your fear and win the battle!
 Defeat All Enemies
@@ -5890,6 +5984,106 @@ Quest
 bg_thumbnail_8049
 Quest 1
 ORDINAL SCALE Another Stage (Int.)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 5
+Awesome Newbie (Master +1)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 4
+Awesome Newbie (Master)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 3
+Awesome Newbie (EX)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2
+Awesome Newbie (Expert)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 1
+Awesome Newbie (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Awesome Newbie
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Go with the Flow
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+A Secret Plan
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Sinon's Inspiration
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Why I Came
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+The Reason Why
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+A Selected Weapon
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Practice and Knowledge
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+The Hard Worker
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+The First Battle
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+The Reserved Newbie
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Strange Favor
 Cu Sith the dog fairy tamed 
 the Feral Werewolf. 
 Don't miss a chance to parry their attack
@@ -19235,6 +19429,100 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+Hello New Me (Master +1)
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 4
+Hello New Me (Master)
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 3
+Hello New Me (EX)
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 2
+Hello New Me (Expert)
+Barnabas The Land GunFish appears!
+Shock waves can be avoidable 
+if you jump at the right timing.
+Be careful with a barrage of gunfire!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1
+Hello New Me (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+And..
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Pink Devil Awakening
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Not to Waste
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Hello Cutie
+}l>
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Good Bye "ALO"
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Hello "ALO"
+{l>
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Becoming Somebody Else
+zl>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+A Tall Girl's Dream
+yl>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+A Girl from "the Gun World"
 Minotaurus Horn roars and makes an assault. 
 Overcome your fear and win the battle!
 Defeat All Enemies
@@ -19530,6 +19818,106 @@ Quest
 bg_thumbnail_8049
 Quest 1
 ORDINAL SCALE Another Stage (Int.)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 5
+Awesome Newbie (Master +1)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 4
+Awesome Newbie (Master)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 3
+Awesome Newbie (EX)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2
+Awesome Newbie (Expert)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 1
+Awesome Newbie (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Awesome Newbie
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Go with the Flow
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+A Secret Plan
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Sinon's Inspiration
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Why I Came
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+The Reason Why
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+A Selected Weapon
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Practice and Knowledge
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+The Hard Worker
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+The First Battle
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+The Reserved Newbie
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Strange Favor
 Cu Sith the dog fairy tamed 
 the Feral Werewolf. 
 Don't miss a chance to parry their attack

@@ -72,6 +72,8 @@ Increases max HP by 6% when equipped by male characters.
 HP +6% (Male Character)
 Increases attack by 6% when using skills.
 Skill Atk +6%
+50% chance Non-elem. gains 5 MP on enemy kill.
+MP Recovery on Kill (Non-elem.)
 50% chance Fire-elem. gains 5 MP on enemy kill.
 MP Recovery on Kill (Fire-elem.)
 50% chance Holy-elem. gains 5 MP on enemy kill.

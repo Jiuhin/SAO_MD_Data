@@ -34,6 +34,7 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+Gullinkambi Returns
 Equip Event
 The Strict Hermit
 Equip Event
@@ -192,9 +193,13 @@ The Archenemy
 Event
 Bullet of Bullets
 Event
+こんにちは チビの私
+Event
 Brave Battles in the Dense Forest
 Event
 ORDINAL SCALE Another Stage
+Event
+Awesome Newbie
 Event
 New Breed!? Tremendous Dog Fairy
 Event

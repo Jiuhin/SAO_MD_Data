@@ -221,6 +221,12 @@ $LL
 "LL
 !LL
 	LL
+4{J
+3{J
+2{J
+1{J
+uxJ
+IwJ
 d6D
 c6D
 b6D

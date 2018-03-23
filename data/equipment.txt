@@ -55,6 +55,16 @@ weapon10_0001
 TBD
 SPB Rapier R4
 weapon10_0001
+7hm
+TBD
+Rabbit Cap R4
+accessory01_0069
+TBD
+Rabbit Cap R3
+accessory01_0069
+TBD
+Rabbit Cap R2
+accessory01_0069
 TBD
 Fox Ear Headband R4
 accessory01_0066
@@ -634,6 +644,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+Desert Battlewear F R4
+armor03_0119
+TBD
+Desert Battlewear F R3
+armor03_0119
+TBD
+Desert Battlewear F R2
+armor03_0119
 TBD
 Moon Rabbit's Suit R4
 armor03_0113

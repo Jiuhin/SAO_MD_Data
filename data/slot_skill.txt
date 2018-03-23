@@ -946,7 +946,7 @@ Battle Skill 2 Transform Lv. 1
 'a>
 &a>
 %a>
-slot_skill_icon_ss_enhance_3_3
+slot_skill_icon_ss_enhance_3_11
 Enhances Sword Skill 3. Decreases MP required.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_9

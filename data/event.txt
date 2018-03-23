@@ -594,6 +594,11 @@ images/event/dummy/dummy_top.png
 images/event/4601/4601_banner.png
 images/event/4601/4601_banner.png
 Bullet of Bullets
+images/event/4091/event_item_4091.png
+images/event/4091/4091_top.png
+images/event/4091/4091_banner.png
+images/event/4091/4091_banner.png
+Hello New Me
 images/event/4090/4090_top.png
 images/event/4090/4090_banner.png
 images/event/4090/4090_banner.png
@@ -608,6 +613,11 @@ images/event/4089/4089_top.png
 images/event/4089/4089_banner.png
 images/event/4089/4089_banner.png
 ORDINAL SCALE Another Stage
+images/event/4088/event_item_4088.png
+images/event/4088/4088_top.png
+images/event/4088/4088_banner.png
+images/event/4088/4088_banner.png
+Awesome Newbie
 Medal Scout
 images/event/4084/4084_top.png
 images/event/4084/4084_banner.png

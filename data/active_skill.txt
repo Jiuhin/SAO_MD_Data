@@ -1,3 +1,7 @@
+skill_icon_automatic_gun_3_{}
+A combination skill. Produces bursts of electricity around an enemy by throwing a bolt and slide to the enemy to attack more. 
+Electric Bolt+
+Electric Bolt+
 skill_icon_lance_3_{}
 Emit light over a wide range. Attack with some holy power. High chance of stunning an enemy.
 Luminous Garden+
@@ -424,6 +428,16 @@ skill_icon_finesword_3_{}
 A combination skill. Perform a thrust after singing. Gives auto-recovery and a critical gain (temporalily) to all party members.
 Resonant Crescendo+
 Resonant Crescendo+
+a2"
+skill_icon_automatic_gun_3_{}
+A combination skill. Causes to burst with grenades. Shoots the last grenade to set off an enormous explosion.
+Snipe and Explosion
+Snipe and Explosion
+92"
+skill_icon_automatic_gun_3_{}
+Produces bursts of electricity around an enemy by throwing a bolt and slide to the enemy to attack more. 
+Electric Bolt
+Electric Bolt
 /2"
 skill_icon_automatic_gun_3_{}
 A combination skill. Fires various guns blindly. Recovers your HP and increase all the party members' critical damage.
@@ -1646,6 +1660,10 @@ Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
 skill_icon_dagger_3_{}
+A combination skill. While receiving benefits from Pina's breath, perform combo attacks. Restores your HP automatically and increases attack power. 
+Dragon's Aquastream
+Dragon's Aquastream
+skill_icon_dagger_3_{}
 A combination skill. Ride a stuffed big rabbit and dive above an enemy's head. High chance of stunning an enemy. Increases critical damage of a combination partner.
 Overhead Rabbit Drop
 Overhead Rabbit Drop
@@ -2545,6 +2563,10 @@ slash with the other.
 Double Circular
 Double Circular
 skill_icon_sword_3_{}
+A combination skill. Enhances your allies defense and restores their MP with a smash hit augmented reality pop song.
+Cardinal Scale
+Cardinal Scale
+skill_icon_sword_3_{}
 A combination skill. Release the memory of "Fragrant Olive Sword" and slash through an enemy's back. High chance of stunning an enemy. Increases critical damage of a combination partner.
 Release Recollection
 Fragrant Olive Wind Dance
@@ -2704,7 +2726,7 @@ Release the hidden memory of "Fragrant Olive Sword", and change the blade into t
 Release Recollection
 Fragrant Olive Sword
 skill_icon_sword_3_{}
-Buff all allies and restore MP with a smash hit augmented reality pop song.
+Enhances your allies defense and restore MP with a smash hit augmented reality pop song.
 Ordinal Scale
 Ordinal Scale
 skill_icon_sword_3_{}

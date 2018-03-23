@@ -180,7 +180,7 @@ GCD
 Complete "Gullinkambi Returns (EX)" with guild members in Multi.
 JBD
 2080301-2080302-2080303-2080304-2080305,50
-Defeat 50 of Gullinkambi  in the guild. 
+Defeat 50 of Gullinkambi in the guild. 
 +AD
 8039005,3
 Complete "Gullinkambi Returns (Master +1)" without down.
@@ -1044,18 +1044,18 @@ Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,
 Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
-4705024,1,300
-Complete "Adventurers' Trials (Non) (Master +1)" with a 5 min or more remaining time.
-4705023,1,260
-Complete "Adventurers' Trials (Earth) (Master +1)" with a 4 min 20 sec or more remaining time.
 4705024,1,240
 Complete "Adventurers' Trials (Non) (Master +1)" with a 4 min or more remaining time.
-4705023,1,220
-Complete "Adventurers' Trials (Earth) (Master +1)" with a 3 min 40 sec or more remaining time.
-4705022,1,220
-Complete "Adventurers' Trials (Non) (Master)" with a 3 min 40 sec or more remaining time.
-4705021,1,200
-Complete "Adventurers' Trials (Earth) (Master)" with a 3 min 20 sec or more remaining time.
+4705023,1,210
+Complete "Adventurers' Trials (Earth) (Master +1)" with a 3 min 30 sec or more remaining time.
+4705024,1,230
+Complete "Adventurers' Trials (Non) (Master +1)" with a 3 min 50 sec or more remaining time.
+4705023,1,190
+Complete "Adventurers' Trials (Earth) (Master +1)" with a 3 min 10 sec or more remaining time.
+4705022,1,230
+Complete "Adventurers' Trials (Non) (Master)" with a 3 min 50 sec or more remaining time.
+4705021,1,190
+Complete "Adventurers' Trials (Earth) (Master)" with a 3 min 10 sec or more remaining time.
 4705024,1,3,1
 Complete "Adventurers' Trials (Non) (Master+1)" with a rapier character.
 4705021+4705022,1,2
@@ -1310,6 +1310,26 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4091025,2,11,1
+Complete "Hello New Me (Master +1)" with an automatic rifle character.
+4091024,2
+Complete "Hello New Me (Master)" without down.
+4091024,2,100
+Complete "Hello New Me (Master)" with a 100+ hit combo.
+4091024,2,11,1
+Complete "Hello New Me (Master +1)" in under 1min.
+4091025,2,60
+Complete "Hello New Me (Master +1)" in under 1min.
+4091025,2,45
+Complete "Hello New Me (Master +1)" in under 45 sec.
+4091025
+Complete "Hello New Me (Maste +1)".
+4091024
+Complete "Hello New Me (Master)".
+4091024,2,60
+Complete "Hello New Me (Master)" in under 1min.
+4091024,2,45
+Complete "Hello New Me (Master)" in under 45 sec.
 4090005,2,45
 Complete "Brave Battles in the Dense Forest (Master +1)" with guild members in Multi under 45 seconds.
 4090005,2,60
@@ -1386,6 +1406,20 @@ Complete "ORDINAL SCALE Another Stage (Master +1)".
 Complete "ORDINAL SCALE Another Stage (Master)".
 4089001
 Complete "ORDINAL SCALE Another Stage(Int.)".
+2050081-2050082-2050083-2050084-2050085,50
+Defeat 50 of Twin Head Daddy from "Awesome Newbie" in the guild. 
+4088025,2
+Complete "Awesome Newbie (Master +1)" without down.
+4088025
+Complete "Awesome Newbie (Master +1)".
+4088024,2
+Complete "Awesome Newbie (Master)" without down.
+4088024
+Complete "Awesome Newbie (Master)".
+4088023
+Complete "Awesome Newbie (EX)".
+4088021
+Complete "Awesome Newbie (Int.)".
 4084032,1,45
 Complete "New Breed!? Tremendous Dog Fairy (Master +2) Part 2" in under 45 sec.
 4084031,1

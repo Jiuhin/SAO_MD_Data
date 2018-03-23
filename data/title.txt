@@ -116,6 +116,8 @@ Rank Top 80 on "The 1st Bullet of Bullets"
 BoB1 Top Player
 Rank Top 100 on "The 1st Bullet of Bullets"
 BoB1 Legend Player
+Complete "Hello New Me (Master)"
+Hello New Me
 Rank Top 100 on "ORDINAL SCALE Another Stage"
 OS Another Stage Top100
 Rank Top 50 on "ORDINAL SCALE Another Stage"
@@ -140,6 +142,10 @@ Complete "Ordinal Scale Another Stage (Master +1)"
 Hero in the AR world
 Complete "Ordinal Scale Another Stage (Int.)"
 Ordinal Scale Another Stage
+Complete "Awesome Newbie (Master+1)"
+Super Speed Specialist
+Complete "Awesome Newbie (EX)"
+Awesome Newbie 
 Rank Top 100 on "New Breed!? Tremendous Dog Fairy"
 Assault Team: Dog Fairy Top 100
 Rank Top 50 on "New Breed!? Tremendous Dog Fairy"

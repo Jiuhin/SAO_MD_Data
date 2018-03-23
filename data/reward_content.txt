@@ -1,90 +1,80 @@
-H}	
-x{	
-,{	
-Hz	
-hx	
-tw	
-8v	
-Tt	
-<s	
-xq	
-,q	
-Tp	
-0o	
-Ln	
-0l	
-Dk	
-Lj	
-Xi	
-hh	
-xf	
-8f	
-he	
-<d	
-xb	
-,b	
-<a	
-l]	
+h{	
+xx	
+,x	
+0w	
+4v	
+Du	
+dt	
+Xr	
+tq	
+$q	
+0p	
+To	
+tn	
+,n	
+Lm	
+dl	
+tk	
+4h	
+Lg	
+df	
+le	
+$e	
+Dd	
+0b	
+La	
+8_	
+p]	
+$]	
+xZ	
 ,Z	
-4Y	
-DX	
-pW	
-0W	
-pV	
-0V	
-pU	
-0U	
-pT	
-0T	
-pS	
-0S	
-pR	
-0R	
-pQ	
-(Q	
-PP	
+HY	
+dX	
+4W	
+DV	
+TU	
+dT	
+tS	
+$S	
+4R	
+DQ	
 xO	
-0O	
-XN	
-8M	
-hJ	
-HI	
-pH	
-(H	
-PG	
-lF	
+(O	
+8N	
+HM	
+XL	
+hK	
+4J	
+LI	
+lG	
+,F	
 <E	
 XD	
 tC	
 (C	
 DB	
-hA	
-p?	
-$?	
-p<	
+L?	
+(<	
 x:	
-$:	
-H9	
-h8	
-X6	
+d9	
+T7	
 l5	
-84	
-T3	
-02	
-H1	
-h/	
-0,	
-L+	
-t)	
+04	
+L2	
+X1	
+p0	
+0/	
+T-	
+p,	
+$,	
+4+	
 ()	
-D(	
-0&	
-L%	
-h$	
-T"	
-p!	
-$!	
-<		
+t(	
+l'	
+d&	
+x 	
+( 	
+0		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -136,6 +126,27 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+n:-
+And..
+n:,
+Pink Devil Awakening
+n:+
+Not to Waste
+Hello Cutie
+n:)
+}l>
+Good Bye "ALO"
+n:(
+Hello "ALO"
+n:'
+{l>
+Becoming Somebody Else
+n:&
+zl>
+A Tall Girl's Dream
+n:%
+yl>
+A Girl from "the Gun World"
 ,Q>
 Happily Ever After?
 +Q>
@@ -158,6 +169,30 @@ More Adorable
 Unknown Enemy
 !Q>
 Abnormal Change in Animals
+n:h
+Awesome Newbie
+n:g
+Go with the Flow
+[n:f
+A Secret Plan
+u[n:e
+Sinon's Inspiration
+[n:d
+Why I Came
+Zn:c
+The Reason Why
+IZn:b
+A Selected Weapon
+Yn:a
+Practice and Knowledge
+Yn:
+The Hard Worker
+Yn:_
+The First Battle
+Xn:
+The Reserved Newbie
+UXn:]
+Strange Favor
 5n:
 DM>
 School Life with Friends
@@ -1270,10 +1305,34 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+yn	8Nt
+Bullet Medallion x2
+n	8Mt
+Rainbow Essence x1
+m	8Lt
+Bullet Medallion x1
+Mm	8Kt
+Bullet Medallion x1
+l	8Jt
+Memory Diamond x5
+l	8It
+Bullet Medallion x2
+!l	8Ht
+Bullet Medallion x1
+k	8Gt
+Hello New Me
+Yk	8Ft
+Rainbow Essence x1
+j	8Et
+Bullet Medallion x1
 j	8Dt
 Coat of Barrios R3
 -j	8Ct
 Coat of Barrios R2
+i	8Bt
+Super Speed Specialist
+ei	8At
+Awesome Newbie 
 i	8
 OS Gold Medal x1
 h	8?t
@@ -1661,6 +1720,8 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+:G6
+[Charming Rider] Sinon
 :G6
 Lucia G-F-1 R3
 !:G6
@@ -7411,6 +7472,7 @@ Dark Medallion x15
 Master Smith's Puff Sleeves R3
 Silverthread Armor R3
 Insane Armor R3
+Bullet Medallion x1
 uO/
 Hades Hair Barrette R3
 tO/
@@ -7547,6 +7609,56 @@ Yq)&
 Fire Medallion x1
 p)&
 Void Medallion x1
+Holy Screw Hacking Crystal x10
+Screw Hacking Crystal x20
+Screw Hacking Shard x25
+'a>
+Screw (L) x15
+&a>
+Screw (M) x35
+%a>
+Screw (S) x45
+Holy Screw Hacking Crystal x8
+Screw Hacking Crystal x13
+Screw Hacking Shard x20
+'a>
+Screw (L) x15
+&a>
+Screw (M) x30
+%a>
+Screw (S) x40
+Holy Screw Hacking Crystal x3
+Screw Hacking Crystal x10
+Screw Hacking Shard x20
+'a>
+Screw (L) x20
+&a>
+Screw (M) x35
+%a>
+Screw (S) x45
+Holy Screw Hacking Crystal x1
+Screw Hacking Crystal x3
+Screw Hacking Shard x8
+'a>
+Screw (L) x6
+&a>
+Screw (M) x8
+%a>
+Screw (S) x14
+'a>
+Screw (L) x2
+&a>
+Screw (M) x5
+%a>
+Screw (S) x12
+%a>
+Screw (S) x6
+&a>
+Screw (M) x1
+%a>
+Screw (S) x10
+%a>
+Screw (S) x3
 Holy Artistic Taste Hacking Crystal x4
 Artistic Taste Hacking Crystal x8
 Artistic Taste Hacking Shard x17
@@ -9095,6 +9207,181 @@ HP Shard x4
 HP Shard x3
 HP Shard x2
 HP Shard x1
+Screw Hacking Crystal x25
+Screw Hacking Crystal x10
+Lv. 80 Screw Key x1
+Lv. 70 Screw Key x1
+Lv. 60 Screw Key x1
+Lv. 50 Screw Key x1
+Lv. 40 Screw Key x1
+Lv. 30 Screw Key x1
+Lv. 20 Screw Key x1
+Lv. 10 Screw Key x1
+Screw Hacking Shard x15
+Screw Hacking Shard x10
+'a>
+Screw (L) x10
+&a>
+Screw (M) x20
+&a>
+Screw (M) x15
+&a>
+Screw (M) x10
+%a>
+Screw (S) x30
+%a>
+Screw (S) x20
+%a>
+Screw (S) x15
+Screw Upgrade Crystal x2
+Screw Upgrade Crystal x1
+Holy Screw Hacking Crystal x9
+Holy Screw Hacking Crystal x8
+Holy Screw Hacking Crystal x7
+Holy Screw Hacking Crystal x6
+Holy Screw Hacking Crystal x5
+Holy Screw Hacking Crystal x4
+Holy Screw Hacking Crystal x3
+Holy Screw Hacking Crystal x2
+Holy Screw Hacking Crystal x1
+Screw Hacking Crystal x9
+Screw Hacking Crystal x8
+Screw Hacking Crystal x7
+Screw Hacking Crystal x6
+Screw Hacking Crystal x5
+Screw Hacking Crystal x4
+Screw Hacking Crystal x3
+Screw Hacking Crystal x2
+Screw Hacking Crystal x1
+Screw Hacking Shard x9
+Screw Hacking Shard x8
+Screw Hacking Shard x7
+Screw Hacking Shard x6
+Screw Hacking Shard x5
+Screw Hacking Shard x4
+Screw Hacking Shard x3
+Screw Hacking Shard x2
+Screw Hacking Shard x1
+'a>
+Screw (L) x9
+'a>
+Screw (L) x8
+'a>
+Screw (L) x7
+'a>
+Screw (L) x6
+'a>
+Screw (L) x5
+'a>
+Screw (L) x4
+'a>
+Screw (L) x3
+'a>
+Screw (L) x2
+'a>
+Screw (L) x1
+&a>
+Screw (M) x9
+&a>
+Screw (M) x8
+&a>
+Screw (M) x7
+&a>
+Screw (M) x6
+&a>
+Screw (M) x5
+&a>
+Screw (M) x4
+&a>
+Screw (M) x3
+&a>
+Screw (M) x2
+&a>
+Screw (M) x1
+%a>
+Screw (S) x9
+%a>
+Screw (S) x8
+%a>
+Screw (S) x7
+%a>
+Screw (S) x6
+%a>
+Screw (S) x5
+%a>
+Screw (S) x4
+%a>
+Screw (S) x3
+%a>
+Screw (S) x2
+%a>
+Screw (S) x1
+'a>
+Screw (L) x5
+&a>
+Screw (M) x23
+%a>
+Screw (S) x30
+'a>
+Screw (L) x4
+&a>
+Screw (M) x17
+%a>
+Screw (S) x26
+Holy Screw Hacking Crystal x7
+Screw Hacking Crystal x9
+Screw Hacking Shard x5
+'a>
+Screw (L) x3
+&a>
+Screw (M) x12
+%a>
+Screw (S) x17
+4{J
+4{J
+Holy Screw Hacking Crystal x1
+3{J
+3{J
+Screw Hacking Crystal x1
+2{J
+2{J
+Screw Hacking Shard x1
+1{J
+1{J
+'a>
+Screw (L) x1
+1{J
+&a>
+Screw (M) x4
+1{J
+%a>
+Screw (S) x6
+'a>
+Screw (L) x1
+&a>
+Screw (M) x3
+%a>
+Screw (S) x4
+'a>
+Screw (L) x1
+&a>
+Screw (M) x3
+%a>
+Screw (S) x4
+%a>
+Screw (S) x5
+%a>
+Screw (S) x4
+uxJ
+uxJ
+%a>
+Screw (S) x3
+%a>
+Screw (S) x2
+IwJ
+IwJ
+%a>
+Screw (S) x2
 d6D
 d6D
 Holy Defense Crystal x3
@@ -10565,6 +10852,13 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+Desert Battlewear F R3
+aXN
+Desert Battlewear F R2
+Rabbit Cap R3
+Rabbit Cap R2
+5WN
+Bullet Medallion x1
 OS Gold Medal x1
 OS Silver Medal x5
 OS Silver Medal x3
@@ -10572,6 +10866,43 @@ OS Silver Medal x2
 OS Bronze Medal x5
 OS Bronze Medal x3
 OS Bronze Medal x2
+[Cool Screw] Waals
+Lv. 90 Screw Key x1
+Lv. 80 Screw Key x1
+Lv. 70 Screw Key x1
+Lv. 60 Screw Key x1
+Lv. 50 Screw Key x1
+Lv. 40 Screw Key x1
+Lv. 30 Screw Key x1
+Lv. 20 Screw Key x1
+Lv. 10 Screw Key x1
+Holy Screw Hacking Crystal x25
+Screw Hacking Crystal x100
+Screw Hacking Crystal x50
+Screw Hacking Shard x200
+Screw Hacking Shard x200
+Screw Hacking Shard x100
+Screw Hacking Shard x50
+'a>
+Screw (L) x100
+'a>
+Screw (L) x30
+'a>
+Screw (L) x20
+&a>
+Screw (M) x250
+&a>
+Screw (M) x80
+&a>
+Screw (M) x60
+&a>
+Screw (M) x50
+%a>
+Screw (S) x300
+%a>
+Screw (S) x100
+%a>
+Screw (S) x50
 OS Gold Medal x1
 OS Silver Medal x5
 OS Silver Medal x3
@@ -11146,7 +11477,7 @@ Silver Medal x3
 Bronze Medal x3
 Silver Medal x2
 Bronze Medal x2
-[The Fisherman] Sima
+[Pole and Line Fishing] Sima
 Lv. 90 Fisherman's Key x1
 Lv. 80 Fisherman's Key x1
 Lv. 70 Fisherman's Key x1

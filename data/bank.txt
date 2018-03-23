@@ -58,6 +58,8 @@ vc_battle_asuna
 vc_battle_kirito
 vc_adv_kureha
 vc_adv_eiji
+vc_adv_pitohui
+vc_adv_llenn
 vc_adv_alice
 vc_adv_eugeo
 vc_adv_girl_4

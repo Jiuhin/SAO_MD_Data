@@ -294,6 +294,15 @@ Bring them down NOW!
 images/battle/cutin/battle_cutin_65002.png
 Way to go! 
 Buy more time!
+ep>
+dp>
+cp>
+bp>
+ap>
+}l>
+{l>
+zl>
+yl>
 images/battle/cutin/battle_cutin_165009.png
 Your current team is exhausted!
 Let's switch to a new party!

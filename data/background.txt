@@ -2506,6 +2506,14 @@ sky4.png
 sky3.png
 sky2.png
 sky1.png
+forefront.png
+front.png
+rock.png
+belt1.png
+sky4.png
+sky3.png
+sky2.png
+sky1.png
 forefront1.png
 forefront2.png
 forefront3.png
