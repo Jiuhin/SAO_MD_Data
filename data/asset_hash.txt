@@ -976,8 +976,6 @@ ss/unit/chara_22_automatic_gun_w/weapon06_0004.png
 ss/unit/chara_22_automatic_gun_w/skill_gun_01.png
 629e9c1e5b385614c11ff5b3fb6cefc7
 ss/unit/chara_22_automatic_gun_w/skill_effect_224112.png
-79bdb1171db71e43eb317fb14e85c590
-ss/unit/chara_22_automatic_gun_w/skill_effect_224109.png
 725340e69597f1bd685a576c996cbf8d
 ss/unit/chara_22_automatic_gun_w/skill_effect_224108.png
 3f63d4a647ce0984cd29ab242d366304
@@ -3412,6 +3410,10 @@ images/event/9002/9002_banner.png
 images/event/9001/9001_top.png
 f9cbc601493ad89a88fd1601cc5fd29e
 images/event/9001/9001_banner.png
+6eb1af1f754a4ab77e4852f94c00179b
+images/event/8040/8040_top.png
+0018043e5d6323ea1c24458b60c0d423
+images/event/8040/8040_banner.png
 8c2ef95b498551e4f51f96d1c5802f74
 images/event/8039/8039_top.png
 140499d1955f77a8186ac8796006aa7d
@@ -3916,9 +3918,9 @@ images/event/4055/event_item_4055.png
 images/event/4055/4055_top.png
 d4b86036ec5bf823560b90a1585da75c
 images/event/4055/4055_banner.png
-e88767ae4099fe85b3a638a90a2db457
+fb85da1691ac1ebec8fddf1f12755fe9
 images/event/4054/4054_top.png
-4a8d3b0a0fe800ffdac699aaef918169
+c7bc0c4c462c69016355ecd3799d6d87
 images/event/4054/4054_banner.png
 5a64fae374e279aba4589d98a2732c06
 images/event/4052/4052_top_2.png

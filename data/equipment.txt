@@ -55,6 +55,18 @@ weapon10_0001
 TBD
 SPB Rapier R4
 weapon10_0001
+TBD
+Musical Note Tie R4
+accessory01_0071
+)P/
+TBD
+Musical Note Tie R3
+accessory01_0071
+(P/
+)P/
+TBD
+Musical Note Tie R2
+accessory01_0071
 7hm
 TBD
 Rabbit Cap R4
@@ -653,6 +665,15 @@ armor03_0119
 TBD
 Desert Battlewear F R2
 armor03_0119
+TBD
+Twinkle Pop Dress R4
+armor03_0118
+TBD
+Twinkle Pop Dress R3
+armor03_0118
+TBD
+Twinkle Pop Dress R2
+armor03_0118
 TBD
 Moon Rabbit's Suit R4
 armor03_0113

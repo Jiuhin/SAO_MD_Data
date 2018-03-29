@@ -26,6 +26,7 @@ effect_eyes_flash_b_s
 effect_eyes_flash_b_s
 effect_eyes_flash_s
 effect_eyes_flash_s
+effect_warp_flower
 effect_water_note_appear_06_s
 effect_water_note_appear_01_s
 333?

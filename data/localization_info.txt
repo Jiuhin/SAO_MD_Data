@@ -276,8 +276,8 @@ The item didn't sell.
 Some items could not be received.
 {0} replaced with {1}x {2}
 Back to Co-op Party
-BoB Rank {0} 到達報酬
-通信が切断されたため敗北となります。
+BoB Rank {0} Achieved Reward
+Your connection has been lost. You lost your battle. 
 You will retire if you return from here. Still want to return?
 Ready to start
 Winning {0} consecutive victories! You get {1} pcs of Crown on your next victory!

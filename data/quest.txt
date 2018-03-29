@@ -1024,6 +1024,46 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 5
+Lucian Returns (Master +1)
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 4
+Lucian Returns (Master)
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 3
+Lucian Returns (EX)
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 2
+Lucian Returns (Expert)
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 1
+Lucian Returns (Int.)
 Gullinkambi swoops down.
 Watch their move carefully to parry an attack.
 Be ready when they fly high up. 
@@ -9497,31 +9537,46 @@ Story
 bg_thumbnail_0
 Story 1
 Festival in Arun
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 5
 Magic Gems of the Forest (Master+1)
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 4
 Magic Gems of the Forest (Master)
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 3
 Magic Gems of the Forest (EX)
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 2
 Magic Gems of the Forest (Exp.)
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
@@ -15038,6 +15093,46 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 5
+Lucian Returns (Master +1)
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 4
+Lucian Returns (Master)
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 3
+Lucian Returns (EX)
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 2
+Lucian Returns (Expert)
+Lucian the Big Idol Fan appears.
+Parry attacks and defeat them in a flash!
+Run when they cross their arms!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 1
+Lucian Returns (Int.)
 Gullinkambi swoops down.
 Watch their move carefully to parry an attack.
 Be ready when they fly high up. 
@@ -23511,31 +23606,46 @@ Story
 bg_thumbnail_0
 Story 1
 Festival in Arun
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 5
 Magic Gems of the Forest (Master+1)
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 4
 Magic Gems of the Forest (Master)
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 3
 Magic Gems of the Forest (EX)
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003
 Quest 2
 Magic Gems of the Forest (Exp.)
-"Little Nepenthes" pops up one after another. Protect the Crystal Monument! Look for the individual differences in their heads!
+"Little Nepenthes" pops up one after another. 
+Protect the Crystal Monument! 
+Look for the individual differences
+in their heads!
 Defeat All Enemies
 Quest
 bg_thumbnail_2003

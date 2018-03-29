@@ -6,6 +6,8 @@ PQS
 OQS
 NQS
 MQS
+RgR
+QgR
 V}Q
 U}Q
 6/Q

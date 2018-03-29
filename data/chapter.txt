@@ -34,6 +34,8 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+Lucian Returns
+Equip Event
 Gullinkambi Returns
 Equip Event
 The Strict Hermit
@@ -195,7 +197,7 @@ Event
 Event
 Bullet of Bullets
 Event
-こんにちは チビの私
+Hello New Me
 Event
 Brave Battles in the Dense Forest
 Event
@@ -207,6 +209,7 @@ New Breed!? Tremendous Dog Fairy
 Event
 School Life with Friends
 Event
+February QT
 Event
 Steel, Break, Helpless
 Event
@@ -218,6 +221,7 @@ A Dark Plot Against Fliers
 Event
 Inherited Tradition - A priests will
 Event
+Valentine's Day Early Feb 2018
 Event
 Mochi Mochi Panic! Mochi Pounding Party
 Event

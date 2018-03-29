@@ -169,6 +169,24 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+8040005,3,45
+Complete "Lucian Returns (Master +1)" with guild members in Multi in under 45 seconds.
+8040004,3,45
+Complete "Lucian Returns (Master)" with guild members in Multi in under 45 seconds.
+8040003,3
+Complete "Lucian Returns (EX)" with guild members in Multi.
+1100156-1100157-1100158-1100159-1100160,50
+Defeat 50 of Lucian the Big Idol Fan in the guild. 
+8040005,3
+Complete "Lucian Returns (Master +1)" without down.
+8040004,3
+Complete "Lucian Returns (Master)" without down.
+8040003,3
+Complete "Lucian Returns (EX)" without down.
+8040002
+Complete "Lucian Returns (Expert)"
+8040001
+Complete "Lucian Returns (Int.)"
 HED
 8039005,3,45
 Complete "Gullinkambi Returns (Master +1)" with guild members in Multi in under 45 seconds.
@@ -2047,6 +2065,16 @@ Complete "Premiere's Summer Festival (Master)" under 45 Sec.
 Complete "Premiere's Summer Festival (Master)" under 1 min.
 4055024
 Complete "Premiere's Summer Festival (Master)". 
+1480034,20
+Defeat 20 of the flower head Little Nepenthes from "Magic Gems of the Forest (Master +1)"
+1480033,10
+Defeat 10 of the flower head Little Nepenthes from "Magic Gems of the Forest (Master)" 
+4054005,2,2160005,5000
+Complete "Magic Gems of the Forest (Master +1)" keeping more than 50% of HP of each Crystal
+4054004,2,2160004,5000
+Complete "Magic Gems of the Forest (Master)" keeping more than 50% of HP of each Crystal
+4054003,2,2160003,5000
+Complete "Magic Gems of the Forest (EX)" keeping more than 50% of HP of each Crystal
 4054005,2,2160005,5000
 Complete "Magic Gems of the Forest (Master +1)" keeping more than 50% of HP of each Crystal
 4054004,2,2160004,5000
@@ -2522,6 +2550,20 @@ Complete "The Moonlit Black Cats (EX)".
 /] 
 4015009
 Complete "The Moonlit Black Cats"
+401001,55000
+Earn 55,000 EP in the "Shimmering Secret " event.
+401001,45000
+Earn 45,000 EP in the "Shimmering Secret " event.
+1220008-1220009,50
+Defeat 50 of Dipnorhynchus the lungfish from "Shimmering Secret Master/Master +1" in the guild. 
+4010016,3,45
+Complete "Shimmering Secret (Master +1)" in under 45 sec.
+4010016
+Complete "Shimmering Secret (Master +1)".
+4010015,3
+Complete "Shimmering Secret (Master)" without down.
+4010015
+Complete "Shimmering Secret (Master)".
 4008009
 Complete "Flying Broomstick".
 4008012
