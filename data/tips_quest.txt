@@ -23,7 +23,7 @@ Weapon Types - Bows
 Tap and hold to charge a bow attack!
 It will stagger most enemies!
 tips08.png
-Weapon Types - Guns
+Weapon Types - Sniper Rifle
 Tap and hold to charge a gun attack!
 Release once the impact circle contracts!
 tips07.png

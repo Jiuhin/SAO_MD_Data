@@ -91,6 +91,7 @@ se_enemy_griffin_appear
 se_enemy_kagachi_dead
 se_enemy_kagachi_damage
 se_enemy_kagachi_appear
+se_action_strea_os_appear
 se_action_rumbling
 se_action_heartbeat
 se_action_thousand_cymbal

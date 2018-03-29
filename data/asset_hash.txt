@@ -2248,6 +2248,10 @@ images/lottery/500/15001_weapon_banner.png
 images/lottery/200/12001_weapon_top_s.png
 34343c96e7834b5b233a580d1a280e34
 images/lottery/200/12001_scout_top_s.png
+fdb67ae0a1acbad1867371d7d9a9acf1
+images/lottery/080/20801_scout_top_s.png
+3e298f7fb4896724e58a4789cf09f37f
+images/lottery/080/20801_scout_banner.png
 aaf37d9a55f2138e73b9d8276d9b5e45
 images/lottery/078/20781_scout_top_s.png
 ca3c1315e2abe627bbeea48141a93ad9
@@ -3748,6 +3752,8 @@ images/event/4702/4702_banner.png
 images/event/4701/4701_top.png
 83caecf96ce7930a1d2d0744cda34912
 images/event/4701/4701_banner.png
+ee900c34eb5c3f882408a35f870bd13e
+images/event/4602/4602_banner.png
 b1c2d2dbd9d80f1e19d55cc1c2fa484a
 images/event/4601/4601_banner.png
 d4f5dc58bb03b8a626dbdb8c36d90ac6

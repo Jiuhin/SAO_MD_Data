@@ -917,6 +917,9 @@ reward_item_medallion
 Unlocks skill slots.
 Rarity: High
 Void Medallion
+Exchangeable for limited 
+4 weapons at the exchange shop.
+Sword Fragment
 Exchangeable for 
 5 upgradable equipments
 and limited 

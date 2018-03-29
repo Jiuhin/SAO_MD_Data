@@ -133,6 +133,7 @@ canvas_mask11.psb
 1004_sinon_shino
 1004_sinon_os
 1004_sinon_ggo_fb
+1004_sinon_band
 1004_sinon_alo_circus
 1004_sinon_alo_bath_towel
 1004_sinon_alo
@@ -148,9 +149,11 @@ canvas_mask11.psb
 1002_asuna_real_world
 1002_asuna_os
 1002_asuna_hood
+1002_asuna_grils_band
 1002_asuna_ggo_fb
 1002_asuna_bathrobe
 1002_asuna_bath_towel
+1002_asuna_band
 1002_asuna_alo_cinderella
 1002_asuna_alo
 1002_asuna

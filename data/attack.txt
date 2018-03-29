@@ -243,6 +243,7 @@ L>f3
 >f3
 >f3
 L>f3
+A33
 >f3
 >f3
 <f3
@@ -748,6 +749,7 @@ L>e3
 L>e3
 L>e3
 >e3
+>e3
 L>e3
 djF
 >e3
@@ -1000,7 +1002,6 @@ L?d3
 <ff
 >d3
 <ff
->d3
 >d3
 >d3
 >d3
@@ -1415,6 +1416,13 @@ Dd3
 L>d3
 >d3
 L>d3
+>f3
+}vR
+QuR
+'tR
+&tR
+?f3
+%tR
 ]sR
 1rR
 iqR

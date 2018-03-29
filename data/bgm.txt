@@ -9,6 +9,8 @@ se_scenario_ep11_lake
 se_scenario_ep04_pub
 se_scenario_ep02_forest
 se_scenario_ep02_night
+sao5_37_town_01
+sao5_36_title_01
 sao5_35_trauma_01
 sao5_34_asuna_hospital_01
 sao5_33_sao_friend_01

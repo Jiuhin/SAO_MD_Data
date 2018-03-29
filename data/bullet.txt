@@ -1,7 +1,4 @@
-ps	
-hi	
-tU	
-LF	
+T5	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -1153,6 +1150,8 @@ dead
 bullet_6025_lightning_blast
 dead
 bullet_6025_lightning_blast
+dead
+bullet_6025_lightning_blast
 wait
 bullet_6023_flying_cd
 wait
@@ -1616,7 +1615,6 @@ JzP
 JzP
 JzP
 JzP
-AH}
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -1638,6 +1636,7 @@ JzP
 JzP
 JzP
 JzP
+A8x
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -3512,11 +3511,13 @@ bullet_2029_flyme_heaven
 wait
 bullet_2029_flyme_heaven
 wait
+ground
 dead
 appear
 bullet_2027_3
 bullet_2027_pina_fire_breath
 wait
+ground
 dead
 appear
 bullet_2027_pina_fire_breath
@@ -3947,8 +3948,12 @@ bullet_1146_snipe_and_explode_2_1of3
 dead
 bullet_1145_snipe_and_explode
 wait
+dead
+appear
 bullet_1143_ground_musical_score_2
 wait
+dead
+appear
 bullet_1142_ground_musical_score_1
 wait
 bullet_1141_bullet_magiccircle_0502
@@ -4031,6 +4036,8 @@ dead
 bullet_1134_rapid_rampage
 dead
 bullet_1133_spout_star
+dead
+bullet_1132_appear_smoke
 dead
 bullet_1132_appear_smoke
 dead
@@ -4961,7 +4968,9 @@ wait
 ground
 dead
 bullet_1051_extended_spark
+dead
 bullet_1049_ordinal_scale_2
+dead
 bullet_1049_ordinal_scale_2
 dead
 bullet_1048_extended_charge
@@ -4969,7 +4978,9 @@ dead
 bullet_1048_extended_charge
 dead
 bullet_1048_extended_charge
+dead
 bullet_1047_ordinal_scale_1
+dead
 bullet_1047_ordinal_scale_1
 wait
 bullet_1046_samurai_kagachi
@@ -5628,6 +5639,7 @@ wait
 bullet_1001_gun_attack
 wait
 bullet_1001_gun_attack
+dead
 bullet_99915_pina_harmonize_bubble
 dead
 bullet_99911_pina_dragons_stream

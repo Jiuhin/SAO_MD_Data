@@ -5379,6 +5379,186 @@ bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
 Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+The Ancient Eyes appears on the rocky mountain. 
+Dodge their powerful attacks 
+and counter swiftly!
+Survive until the end of time
+Quest
+bg_thumbnail_2024
+Quest 1-1
+Rocky Mountain
+The Toxic Rhinoceros appears
+in the underground dungeon.
+Be careful with a laser beam from their tail
+and watch for a chance to attack!
+Survive until the end of time
+Quest
+bg_thumbnail_4001
+Quest 1-1
+Underground Dungeon
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
+The Ancient Eyes appears on the rocky mountain. 
+Dodge their powerful attacks 
+and counter swiftly!
+Survive until the end of time
+Quest
+bg_thumbnail_2024
+Quest 1-1
+Rocky Mountain
+The Toxic Rhinoceros appears
+in the underground dungeon.
+Be careful with a laser beam from their tail
+and watch for a chance to attack!
+Survive until the end of time
+Quest
+bg_thumbnail_4001
+Quest 1-1
+Underground Dungeon
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
+The Ancient Eyes appears on the rocky mountain. 
+Dodge their powerful attacks 
+and counter swiftly!
+Survive until the end of time
+Quest
+bg_thumbnail_2024
+Quest 1-1
+Rocky Mountain
+The Toxic Rhinoceros appears
+in the underground dungeon.
+Be careful with a laser beam from their tail
+and watch for a chance to attack!
+Survive until the end of time
+Quest
+bg_thumbnail_4001
+Quest 1-1
+Underground Dungeon
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
+The Toxic Rhinoceros appears
+in the underground dungeon.
+Be careful with a laser beam from their tail
+and watch for a chance to attack!
+Survive until the end of time
+Quest
+bg_thumbnail_4001
+Quest 1-1
+Underground Dungeon
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
+Congratulations! You've got Lisbeth!
 Don't miss a chance for a perfect shot!
 Survive until the end of time
 Quest
@@ -19212,6 +19392,186 @@ Quest
 bg_thumbnail_2007
 Quest 1-1
 Breakthrough in Sand (Expert)
+Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+Congratulations! You've got Lisbeth!
+The moment the sign falls off is a chance for a perfect shot.
+Don't miss it!
+Survive until the end of time
+Quest
+bg_thumbnail_2023
+Quest 1-1
+Colosseum
+The Ancient Eyes appears on the rocky mountain. 
+Dodge their powerful attacks 
+and counter swiftly!
+Survive until the end of time
+Quest
+bg_thumbnail_2024
+Quest 1-1
+Rocky Mountain
+The Toxic Rhinoceros appears
+in the underground dungeon.
+Be careful with a laser beam from their tail
+and watch for a chance to attack!
+Survive until the end of time
+Quest
+bg_thumbnail_4001
+Quest 1-1
+Underground Dungeon
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
+The Ancient Eyes appears on the rocky mountain. 
+Dodge their powerful attacks 
+and counter swiftly!
+Survive until the end of time
+Quest
+bg_thumbnail_2024
+Quest 1-1
+Rocky Mountain
+The Toxic Rhinoceros appears
+in the underground dungeon.
+Be careful with a laser beam from their tail
+and watch for a chance to attack!
+Survive until the end of time
+Quest
+bg_thumbnail_4001
+Quest 1-1
+Underground Dungeon
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
+The Ancient Eyes appears on the rocky mountain. 
+Dodge their powerful attacks 
+and counter swiftly!
+Survive until the end of time
+Quest
+bg_thumbnail_2024
+Quest 1-1
+Rocky Mountain
+The Toxic Rhinoceros appears
+in the underground dungeon.
+Be careful with a laser beam from their tail
+and watch for a chance to attack!
+Survive until the end of time
+Quest
+bg_thumbnail_4001
+Quest 1-1
+Underground Dungeon
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
+The Toxic Rhinoceros appears
+in the underground dungeon.
+Be careful with a laser beam from their tail
+and watch for a chance to attack!
+Survive until the end of time
+Quest
+bg_thumbnail_4001
+Quest 1-1
+Underground Dungeon
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
+The Lightning Rhinoceros appears in the cloister. 
+Try not to get damaged, 
+use Dark-elem skills to earn a high score!
+Survive until the end of time
+Quest
+bg_thumbnail_8041
+Quest 1-1
+The Cloister
+Jack the Tricker appears in the huge maze.
+Check the playing card and figure out their attack,
+and watch for a chance to counter!
+Survive until the end of time
+Quest
+bg_thumbnail_8045
+Quest 1-1
+Huge Maze in Castle Trump
 Congratulations! You've got Lisbeth!
 Don't miss a chance for a perfect shot!
 Survive until the end of time

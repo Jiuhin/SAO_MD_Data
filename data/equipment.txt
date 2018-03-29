@@ -3302,6 +3302,9 @@ TBD
 Fragrant Olive Sword +2 R4
 weapon01_0122
 TBD
+Phantom Rosario R4
+weapon01_0121
+TBD
 Tanuki Sword R5
 weapon01_0118
 TBD

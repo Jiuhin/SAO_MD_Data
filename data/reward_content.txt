@@ -1,77 +1,85 @@
-h{	
-xx	
-,x	
-0w	
-4v	
-Du	
-dt	
-Xr	
-tq	
-$q	
-0p	
-To	
-tn	
-,n	
-Lm	
-dl	
+X}	
+x{	
+({	
+8z	
+Hy	
+xw	
+,w	
+<v	
+Lu	
+ls	
+4r	
+Pq	
+po	
+0n	
+Xl	
 tk	
-4h	
+(k	
+Dj	
+0h	
 Lg	
-df	
-le	
-$e	
-Dd	
-0b	
-La	
-8_	
-p]	
-$]	
-xZ	
-,Z	
-HY	
-dX	
+pe	
+0d	
+4c	
+,b	
+ta	
+d_	
+l]	
+D[	
+TZ	
+tX	
+$X	
 4W	
 DV	
-TU	
-dT	
-tS	
-$S	
-4R	
-DQ	
+XU	
+pT	
+$T	
+8S	
+<R	
+4Q	
+(P	
 xO	
-(O	
-8N	
-HM	
-XL	
-hK	
-4J	
-LI	
-lG	
-,F	
-<E	
-XD	
-tC	
-(C	
-DB	
+pN	
+hM	
+4K	
+<J	
+,H	
+DG	
+pE	
+tD	
+xC	
+$C	
+pB	
+0A	
 L?	
-(<	
-x:	
-d9	
-T7	
-l5	
-04	
-L2	
-X1	
-p0	
-0/	
-T-	
-p,	
-$,	
-4+	
+4<	
+p:	
+09	
+,8	
+$7	
+t6	
+x5	
+$5	
+(4	
+x3	
+03	
+X2	
+81	
+<0	
+L.	
+P-	
+T,	
+X+	
+x)	
 ()	
 t(	
-l'	
-d&	
+$(	
+4'	
+D&	
+T%	
+X$	
+X"	
+h!	
 x 	
 ( 	
 0		
@@ -754,6 +762,8 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+9ep
+Phantom Rosario R4
 Moon Rabbit's Suit R3
 Moon Rabbit's Suit R2
 99o
@@ -3181,6 +3191,309 @@ MP Shard x20
 HP Shard x20
 2ee
 Stardust (Medium) x100
+qEm2
+BoB2 Legend Player
+Em2
+Holy Skill Crystal x30
+Em2
+Holy Critical Crystal x30
+Em2
+Holy Defense Crystal x30
+Em2
+Holy Attack Crystal x30
+Em2
+Holy MP Crystal x30
+Em2
+Holy HP Crystal x30
+Em2
+Skill Crystal x50
+Em2
+Critical Crystal x50
+Em2
+Defense Crystal x50
+Em2
+Attack Crystal x50
+Em2
+MP Crystal x50
+Em2
+HP Crystal x50
+Em2
+Skill Shard x100
+Em2
+Critical Shard x100
+Em2
+Defense Shard x100
+Em2
+Attack Shard x100
+Em2
+MP Shard x100
+Em2
+HP Shard x100
+Em2
+EXP X-Potion x15
+Em2
+EXP Hi-Potion x15
+Dm2
+Col x1000000
+Dm2
+EXP X-Potion x15
+VDm2
+Holy Skill Crystal x30
+UDm2
+Holy Critical Crystal x30
+TDm2
+Holy Defense Crystal x30
+SDm2
+Holy Attack Crystal x30
+RDm2
+Holy MP Crystal x30
+QDm2
+Holy HP Crystal x30
+PDm2
+Skill Crystal x50
+ODm2
+Critical Crystal x50
+NDm2
+Defense Crystal x50
+MDm2
+Attack Crystal x50
+LDm2
+MP Crystal x50
+KDm2
+HP Crystal x50
+JDm2
+Skill Shard x100
+IDm2
+Critical Shard x100
+HDm2
+Defense Shard x100
+GDm2
+Attack Shard x100
+FDm2
+MP Shard x100
+EDm2
+HP Shard x100
+Cm2
+BoB2 Top Player
+Cm2
+Memory Diamond x10
+Cm2
+Sword Fragment x1
+Cm2
+Col x500000
+}Cm2
+Rainbow Essence x1
+Cm2
+EXP X-Potion x5
+Cm2
+EXP Hi-Potion x10
+Cm2
+Sword Fragment x1
+Bm2
+Holy Skill Crystal x30
+Bm2
+Holy Critical Crystal x30
+Bm2
+Holy Defense Crystal x30
+Bm2
+Holy Attack Crystal x30
+Bm2
+Holy MP Crystal x30
+Bm2
+Holy HP Crystal x30
+Bm2
+Skill Crystal x50
+Bm2
+Critical Crystal x50
+Bm2
+Defense Crystal x50
+Bm2
+Attack Crystal x50
+Bm2
+MP Crystal x50
+Bm2
+HP Crystal x50
+Bm2
+Skill Shard x100
+Bm2
+Critical Shard x100
+Bm2
+Defense Shard x100
+Bm2
+Attack Shard x100
+Bm2
+MP Shard x100
+Bm2
+HP Shard x100
+YBm2
+Lv. 80 Decryption Key x1
+XBm2
+Lv. 70 Decryption Key x1
+WBm2
+Lv. 60 Decryption Key x1
+VBm2
+Lv. 50 Decryption Key x1
+UBm2
+Lv. 40 Decryption Key x1
+TBm2
+Lv. 30 Decryption Key x1
+SBm2
+Lv. 20 Decryption Key x1
+RBm2
+Lv. 10 Decryption Key x1
+QBm2
+Sword Fragment x1
+Am2
+Col x300000
+Am2
+Memory Diamond x5
+Am2
+Sword Fragment x1
+Am2
+Holy Skill Crystal x20
+Am2
+Holy Critical Crystal x20
+Am2
+Holy Defense Crystal x20
+Am2
+Holy Attack Crystal x20
+Am2
+Holy MP Crystal x20
+Am2
+Holy HP Crystal x20
+Am2
+Skill Crystal x30
+Am2
+Critical Crystal x30
+Am2
+Defense Crystal x30
+Am2
+Attack Crystal x30
+Am2
+MP Crystal x30
+Am2
+HP Crystal x30
+Am2
+Skill Shard x50
+Am2
+Critical Shard x50
+Am2
+Defense Shard x50
+Am2
+Attack Shard x50
+Am2
+MP Shard x50
+Am2
+HP Shard x50
+Am2
+Sword Fragment x1
+(Am2
+EXP X-Potion x5
+'Am2
+EXP Hi-Potion x5
+&Am2
+Rainbow Essence x1
+%Am2
+Sword Fragment x1
+BoB2 High Player
+Sword Fragment x1
+Col x150000
+Memory Diamond x5
+Sword Fragment x1
+Holy Skill Crystal x10
+Holy Critical Crystal x10
+Holy Defense Crystal x10
+Holy Attack Crystal x10
+Holy MP Crystal x10
+Holy HP Crystal x10
+Skill Crystal x20
+Critical Crystal x20
+Defense Crystal x20
+Attack Crystal x20
+MP Crystal x20
+HP Crystal x20
+?m2
+Skill Shard x30
+?m2
+Critical Shard x30
+?m2
+Defense Shard x30
+?m2
+Attack Shard x30
+?m2
+MP Shard x30
+?m2
+HP Shard x30
+?m2
+Sword Fragment x1
+?m2
+Col x100000
+?m2
+Rainbow Essence x1
+?m2
+Memory Diamond x5
+?m2
+Sword Fragment x1
+9?m2
+Holy Skill Crystal x5
+8?m2
+Holy Critical Crystal x5
+7?m2
+Holy Defense Crystal x5
+6?m2
+Holy Attack Crystal x5
+5?m2
+Holy MP Crystal x5
+4?m2
+Holy HP Crystal x5
+3?m2
+EXP X-Potion x10
+2?m2
+Lv. 80 Decryption Key x1
+1?m2
+Lv. 70 Decryption Key x1
+>m2
+Skill Crystal x10
+>m2
+Critical Crystal x10
+>m2
+Defense Crystal x10
+>m2
+Attack Crystal x10
+>m2
+MP Crystal x10
+>m2
+HP Crystal x10
+>m2
+EXP Hi-Potion x10
+t>m2
+Lv. 60 Decryption Key x1
+s>m2
+Lv. 50 Decryption Key x1
+r>m2
+Lv. 40 Decryption Key x1
+q>m2
+Lv. 30 Decryption Key x1
+p>m2
+Lv. 20 Decryption Key x1
+o>m2
+Lv. 10 Decryption Key x1
+n>m2
+Skill Shard x20
+m>m2
+Critical Shard x20
+l>m2
+Defense Shard x20
+k>m2
+Attack Shard x20
+j>m2
+MP Shard x20
+i>m2
+HP Shard x20
+>m2
+Col x50000
+>m2
+EXP Potion x10
 "m2c
 Skill Shard x20
 "m2c

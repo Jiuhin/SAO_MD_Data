@@ -2048,7 +2048,7 @@ Complete "Premiere's Summer Festival (Master)" under 1 min.
 4055024
 Complete "Premiere's Summer Festival (Master)". 
 4054005,2,2160005,5000
-Complete "Magic Gems of the Forest (Master +1)" keeping more than 50% of each Crystal
+Complete "Magic Gems of the Forest (Master +1)" keeping more than 50% of HP of each Crystal
 4054004,2,2160004,5000
 Complete "Magic Gems of the Forest (Master)" keeping more than 50% of HP of each Crystal
 4054003,2,2160003,5000

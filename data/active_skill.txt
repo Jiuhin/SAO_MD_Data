@@ -1660,7 +1660,7 @@ Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
 skill_icon_dagger_3_{}
-A combination skill. While receiving benefits from Pina's breath, perform combo attacks. Restores your HP automatically and increases attack power. 
+A combination skill. While receiving benefits from Pina's breath, Enhances your own speed and recovers your Combination Starter's MP.
 Dragon's Aquastream
 Dragon's Aquastream
 skill_icon_dagger_3_{}
@@ -2563,7 +2563,7 @@ slash with the other.
 Double Circular
 Double Circular
 skill_icon_sword_3_{}
-A combination skill. Enhances your allies defense and restores their MP with a smash hit augmented reality pop song.
+A combination skill. Enhances your own speed and recovers your Combination Starter's MP with a smash hit augmented reality pop song.
 Cardinal Scale
 Cardinal Scale
 skill_icon_sword_3_{}
