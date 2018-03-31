@@ -63,6 +63,16 @@ Character Story
 Character Story
 [Cool Screw] Waals Lv.10
 Character Story
+[Funky Play] Yuuki Lv.80
+Character Story
+[Funky Play] Yuuki Lv.70
+Character Story
+[Funky Play] Yuuki Lv.50
+Character Story
+[Funky Play] Yuuki Lv.30
+Character Story
+[Funky Play] Yuuki Lv.10
+Character Story
 [Flying Without Wings] Leafa Lv.80
 Character Story
 [Flying Without Wings] Leafa Lv.70
@@ -192,6 +202,16 @@ Character Story
 [Libra] Asuna Lv.30
 Character Story
 [Libra] Asuna Lv.10
+Character Story
+[Sweet Voice] Asuna Lv.80
+Character Story
+[Sweet Voice] Asuna Lv.70
+Character Story
+[Sweet Voice] Asuna Lv.50
+Character Story
+[Sweet Voice] Asuna Lv.30
+Character Story
+[Sweet Voice] Asuna Lv.10
 Character Story
 [Innocent Puppy] Leafa Lv.80
 Character Story
@@ -552,6 +572,16 @@ Character Story
 [Goddess of Death] Sinon Lv.30
 Character Story
 [Goddess of Death] Sinon Lv.10
+Character Story
+[Groovy Sound] Lisbeth Lv.80
+Character Story
+[Groovy Sound] Lisbeth Lv.70
+Character Story
+[Groovy Sound] Lisbeth Lv.50
+Character Story
+[Groovy Sound] Lisbeth Lv.30
+Character Story
+[Groovy Sound] Lisbeth Lv.10
 Character Story
 [Pure Hearted Chocolatier] Lisbeth Lv.80
 Character Story
@@ -1183,6 +1213,16 @@ Character Story
 Character Story
 [The Will - changing the fate] Asuna Lv.10
 Character Story
+[Shamisen Rock] Premiere Lv.80
+Character Story
+[Shamisen Rock] Premiere Lv.70
+Character Story
+[Shamisen Rock] Premiere Lv.50
+Character Story
+[Shamisen Rock] Premiere Lv.30
+Character Story
+[Shamisen Rock] Premiere Lv.10
+Character Story
 [Gorgeous Quartermaster] Asuna Lv.80
 Character Story
 [Gorgeous Quartermaster] Asuna Lv.70
@@ -1492,6 +1532,16 @@ Character Story
 [Black Swordsman] Kirito Lv.30
 Character Story
 [Black Swordsman] Kirito Lv.10
+Character Story
+[Angel Tone] Silica Lv.80
+Character Story
+[Angel Tone] Silica Lv.70
+Character Story
+[Angel Tone] Silica Lv.50
+Character Story
+[Angel Tone] Silica Lv.30
+Character Story
+[Angel Tone] Silica Lv.10
 Character Story
 [New Year's Breeze] Yuuki Lv.80
 Character Story

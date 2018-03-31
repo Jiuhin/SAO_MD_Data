@@ -183,6 +183,10 @@ Summon Pina, whose breath replenishes your HP and temporarily boosts your attack
 Healing Breath+
 Healing Breath+
 skill_icon_finesword_3_{}
+Play the shamisen and attack an enemy with melody. Creates an Attack Up Zone and restores your HP. 
+Honest Echo+
+Honest Echo+
+skill_icon_finesword_3_{}
 A sword skill. Slash the enemy in the back after a colorful combo attack. Restores your HP. Reduces incoming damage for a certain amount of time.
 Dreamy Lady+
 Dreamy Lady+
@@ -557,6 +561,10 @@ Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike
 skill_icon_lance_3_{}
+A combination skill. Strike an enemy with amplifier drops. Creates an Attack Up Zone and restores your HP.
+Funky Beat Time
+Funky Beat Time
+skill_icon_lance_3_{}
 A Combination skill. A gust of wind with cherry blossom petals swallows up an enemy to attack.
 Spring Celebration
 Spring Celebration
@@ -672,6 +680,10 @@ skill_icon_lance_1_{}
 Thrust to stop the enemy's movement and rush rapidly.
 Sonic Charge
 Sonic Charge
+skill_icon_rod_3_{}
+A combination skill. Strikes with lightning while playing the guitar. Creates an Attack Up Zone and restores your HP.
+Electric Stroke
+Electric Stroke
 skill_icon_rod_3_{}
 A combination skill. Summon a magical wolf and attack with a cyclone. High chance of stunning an enemy. Increases critical damage of a combination partner.
 Beast Rush
@@ -1210,6 +1222,10 @@ skill_icon_gun_1_{}
 Sprawl onto the ground, avoiding the enemy's attack, and fire a bullet aimed right at them.
 Prone Shot
 Prone Shot
+skill_icon_mace_3_{}
+A combination skill. Perform a drum solo emotionally. Creates an Attack Up Zone and restores your HP.
+Popping Rimshot
+Popping Rimshot
 skill_icon_mace_3_{}
 A combination skill. Hit the ground and attack with sweets. Recover your combination partner's HP and raise their critical damage.
 Sweet Moment
@@ -1980,6 +1996,10 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
+Play the shamisen and attack an enemy with melody. Creates an Attack Up Zone for a second and restores your HP. 
+Honest Echo
+Honest Echo
+skill_icon_finesword_3_{}
 A combination skill. The attack goes through from the head of an enemy to the ground. MP recovery of combination starter.
 Memory Rewrite
 Memory Rewrite
@@ -2566,6 +2586,10 @@ skill_icon_sword_3_{}
 A combination skill. Enhances your own speed and recovers your Combination Starter's MP with a smash hit augmented reality pop song.
 Cardinal Scale
 Cardinal Scale
+skill_icon_sword_3_{}
+A combination skill. Creates musical notes and blow them up with Pina's breath. It also creates an Attack UP Zone and restores your HP.
+Harmonious Bubbles
+Harmonious Bubbles
 skill_icon_sword_3_{}
 A combination skill. Release the memory of "Fragrant Olive Sword" and slash through an enemy's back. High chance of stunning an enemy. Increases critical damage of a combination partner.
 Release Recollection

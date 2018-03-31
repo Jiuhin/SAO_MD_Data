@@ -1,8 +1,5 @@
-Lo	
-L4	
-p/	
-0.	
-(+	
+<v	
+pM	
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -44,6 +41,7 @@ dead
 bullet_910001_single_dummy
 dead
 bullet_910001_single_dummy
+dead
 bullet_900002_impact_point
 dead
 bullet_900002_impact_point
@@ -1209,7 +1207,6 @@ dead
 bullet_6018_cheery_fall_1
 p.	
 dead
-bullet_6017_67
 bullet_6017_anger_voltex
 o.	
 dead

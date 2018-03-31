@@ -1104,6 +1104,9 @@ slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Decreases MP required.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Extends window of Attack Up Zone.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. All party members can raise their crit. rate temporarily.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3

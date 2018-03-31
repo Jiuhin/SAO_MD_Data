@@ -1438,6 +1438,36 @@ Complete "Awesome Newbie (Master)".
 Complete "Awesome Newbie (EX)".
 4088021
 Complete "Awesome Newbie (Int.)".
+408501,430000
+Earn a score of 430,000 in Pop Star Online LIVE BATTLE Part 1
+408501,610000
+Earn a score of 610,000 in Pop Star Online LIVE BATTLE Part 1
+408501,1600000
+Earn a score of 1,600,000 in Pop Star Online LIVE BATTLE Part 1
+408501,2200000
+Earn a score of 2,200,000 in Pop Star Online LIVE BATTLE Part 1
+408501,4600000
+Earn a score of 4,600,000 in Pop Star Online LIVE BATTLE Part 1
+408501,5000000
+Earn a score of 5,000,000 in Pop Star Online LIVE BATTLE Part 1
+408501,6700000
+Earn a score of 6,700,000 in Pop Star Online LIVE BATTLE Part 1
+4085016
+Complete "Pop Star Online LIVE BATTLE Part 1 (Master) Battle 2".
+408501,5000000
+Earn a score of 5,000,000 in Pop Star Online LIVE BATTLE Part 1
+4085020,1,60
+Complete "Pop Star Online LIVE BATTLE Part 1 (Master +2) Battle 2" in under 60 sec.
+4085019,1,60
+Complete "Pop Star Online LIVE BATTLE Part 1 (Master +2) Battle 1" in under 60 sec.
+408501,7900000
+Earn a score of 7,900,000 in Pop Star Online LIVE BATTLE Part 1
+408501,8500000
+Earn a score of 8,500,000 in Pop Star Online LIVE BATTLE Part 1
+4085018
+Complete "Pop Star Online LIVE BATTLE Part 1 (Master +1) Battle 2".
+4085009
+Complete "Dark Horse".
 4084032,1,45
 Complete "New Breed!? Tremendous Dog Fairy (Master +2) Part 2" in under 45 sec.
 4084031,1
@@ -2550,20 +2580,6 @@ Complete "The Moonlit Black Cats (EX)".
 /] 
 4015009
 Complete "The Moonlit Black Cats"
-401001,55000
-Earn 55,000 EP in the "Shimmering Secret " event.
-401001,45000
-Earn 45,000 EP in the "Shimmering Secret " event.
-1220008-1220009,50
-Defeat 50 of Dipnorhynchus the lungfish from "Shimmering Secret Master/Master +1" in the guild. 
-4010016,3,45
-Complete "Shimmering Secret (Master +1)" in under 45 sec.
-4010016
-Complete "Shimmering Secret (Master +1)".
-4010015,3
-Complete "Shimmering Secret (Master)" without down.
-4010015
-Complete "Shimmering Secret (Master)".
 4008009
 Complete "Flying Broomstick".
 4008012

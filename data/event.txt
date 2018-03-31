@@ -630,6 +630,16 @@ images/event/4088/4088_top.png
 images/event/4088/4088_banner.png
 images/event/4088/4088_banner.png
 Awesome Newbie
+Premium Live Scout
+images/event/4085/4085_top.png
+images/event/4085/4085_banner.png
+images/event/4085/4085_banner.png
+[Ended] PSO LIVE BATTLE Part 1
+Premium Live Scout
+images/event/4085/4085_top.png
+images/event/4085/4085_banner.png
+images/event/4085/4085_banner.png
+PSO LIVE BATTLE Part 1
 Medal Scout
 images/event/4084/4084_top.png
 images/event/4084/4084_banner.png

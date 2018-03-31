@@ -24,6 +24,8 @@ Skill Damage Rate -500 (Equipped One)
 Skill Damage Rate -500 (Equipped One)
 Zero damage received when enemy attacked.
 No damage received
+Attack for 30-hit+ combos of all party members increases by 10% when you are a leader. 
+30+ Combo: P-Members' Attack +10% (P-Leader)
 Attack of party members (OS characters) increases by 10% when you are a leader.
 P-Members' (OS characters) Atk +10% (P-Leader)
 Attack of party members (Dark-elem.) increases by 10% when you are a leader.
@@ -162,6 +164,8 @@ Lower MP required by 5% when HP is above 50%.
 Required MP -5% (HP Above 50%)
 Attack +6% when HP is below 90%.
 Attack +6% (HP Below 90%)
+Increases Attack by 6% vs Non-elem. enemies when HP is above 80%.
+Attack +6% vs Non-elem. (HP Above 80%)
 Increases Attack by 6% vs Dark-elem. enemies when HP is above 80%.
 Attack +6% vs Dark-elem. (HP Above 80%)
 Increases Attack by 6% vs Wind-elem. enemies when HP is above 80%.
@@ -736,6 +740,8 @@ Increases Non-elem. character's defense by 6%.
 Def. +6% (Non-elem.)
 Increases Non-elem. character's attack by 3%.
 Atk +3% (Non-elem.)
+Increases Non-elem. character's attack by 2%.
+Atk +2% (Non-elem.)
 Increases Non-elem. character's MP by 3%.
 MP +3% (Non-elem.)
 Increases Non-elem. character's HP by 6%.
@@ -900,6 +906,8 @@ Increases MP gain 100.
 MP Recovery Ratio +100
 Increases MP gain 50.
 MP Recovery Ratio +50
+Increases max HP and Crit. by 15%.
+HP & Crit. +15%
 Increases Atk. and Crit. by 20%.
 Crit. & Atk. +20%
 Increases max HP and Defense by 15%.
@@ -1029,6 +1037,8 @@ Increases defense by 6%.
 Def. +6%
 Increases defense by 3%.
 Def. +3%
+Increases attack by 8%.
+Atk +8%
 Increases attack by 20%.
 Atk +20%
 Increases attack by 9%.

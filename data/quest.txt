@@ -6304,6 +6304,137 @@ Story
 bg_thumbnail_0
 Story 1
 Strange Favor
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 15-2
+Heavy Metal Satan (Mastert +2)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 15-1
+Heavy Metal Satan (Mastert +2)
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 14-2
+Heavy Metal Satan (Mastert +1)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 14-1
+Heavy Metal Satan (Mastert +1)
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 13-2
+Heavy Metal Satan (Mastert)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 13-1
+Heavy Metal Satan (Mastert)
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 12-2
+Heavy Metal Satan (EX)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 12-1
+Heavy Metal Satan (EX)
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 11-2
+Heavy Metal Satan (Expert)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 11-1
+Heavy Metal Satan (Expert)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Be the Best
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 9
+Dark Horse
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Turned Out All Right?
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 7
+All Music Genres
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 6
+It Happens
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 5
+Music Battle
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+One After Another
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 3
+Strategy Meeting
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 2
+Practice Begins
+	U>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Formed a Band!?
 Cu Sith the dog fairy tamed 
 the Feral Werewolf. 
 Don't miss a chance to parry their attack
@@ -20373,6 +20504,137 @@ Story
 bg_thumbnail_0
 Story 1
 Strange Favor
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 15-2
+Heavy Metal Satan (Mastert +2)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 15-1
+Heavy Metal Satan (Mastert +2)
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 14-2
+Heavy Metal Satan (Mastert +1)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 14-1
+Heavy Metal Satan (Mastert +1)
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 13-2
+Heavy Metal Satan (Mastert)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 13-1
+Heavy Metal Satan (Mastert)
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 12-2
+Heavy Metal Satan (EX)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 12-1
+Heavy Metal Satan (EX)
+Heavy Metal Satan appears in the PSO world
+Use a slash/strike weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 11-2
+Heavy Metal Satan (Expert)
+Heavy Metal Satan appears in the PSO world
+Use a magic/pierce weapon when it puts up a barrier by
+playing a guitar solo!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 11-1
+Heavy Metal Satan (Expert)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Be the Best
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 9
+Dark Horse
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Turned Out All Right?
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 7
+All Music Genres
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 6
+It Happens
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 5
+Music Battle
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+One After Another
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 3
+Strategy Meeting
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 2
+Practice Begins
+	U>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Formed a Band!?
 Cu Sith the dog fairy tamed 
 the Feral Werewolf. 
 Don't miss a chance to parry their attack

@@ -645,6 +645,12 @@ L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
+You can do the Premium Live Scout VIP.
+Premium Live Ticket VIP
+You can do the Premium Live Scout Plus.
+Premium Live Ticket Plus
+You can do the Premium Live Scout.
+Premium Live Ticket
 You can do the OS Gold Medal Scout.
 OS Gold Medal
 You can do the OS Silver Medal Scout.
@@ -727,6 +733,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
+You can obtain in Fairy Magic Scout
+Fairy Magic C.R. Crystal
+item_m_record_crystal_blue
 You can obtain in Another Gun Gale Online Scout
 Another GGO C.R. Crystal
 item_m_record_crystal_blue
@@ -785,6 +794,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain in "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20015
+Upgrades character
+([Shamisen Rock] Premiere only) 
+Rarity: High
+Rock Band Upgrade Crystal
 item_m_evolution_20014
 Upgrades character
 ([Cool Screw] Waals only) 
@@ -971,6 +985,9 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
+Raises Yuuki's level cap. ([Shamisen Rock] Premiere only) 
+Rarity: High
+Rock Band Hacking Crystal
 Raises Yuuki's level cap. ([Tied Together] Yuuki only) 
 Rarity: High
 OS Hacking Crystal

@@ -1450,6 +1450,12 @@ TBD
 Divine Shiner +1 R4
 weapon09_0022
 TBD
+Tricky Spear R5
+weapon09_0021
+TBD
+Tricky Spear R4
+weapon09_0021
+TBD
 Spring Evening Spear R5
 weapon09_0020
 TBD
@@ -1569,6 +1575,12 @@ weapon09_0001
 TBD
 Libra Hastam R4
 weapon09_0001
+TBD
+Magical Note R5
+weapon08_0041
+TBD
+Magical Note R4
+weapon08_0041
 TBD
 Faithful Dog's Fang R5
 weapon08_0040
@@ -2151,6 +2163,12 @@ weapon06_0002
 TBD
 Small Rifle R1
 weapon06_0001
+TBD
+Popping Hammer R5
+weapon05_0059
+TBD
+Popping Hammer R4
+weapon05_0059
 TBD
 Candy Flapper R5
 weapon05_0058
@@ -3325,6 +3343,12 @@ weapon01_0122
 TBD
 Phantom Rosario R4
 weapon01_0121
+TBD
+Melodic Sword R5
+weapon01_0119
+TBD
+Melodic Sword R4
+weapon01_0119
 TBD
 Tanuki Sword R5
 weapon01_0118
