@@ -38,6 +38,10 @@ images/event/4001/4001_01_top_monday.png
 images/event/4001/4001_01_banner_monday.png
 images/event/4001/4001_01_banner_monday.png
 Mon. Defense
+images/event/9020/9020_top.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+----------
 images/event/9019/9019_top.png
 images/event/9019/9019_banner.png
 images/event/9019/9019_banner.png
@@ -1080,6 +1084,10 @@ images/event/4015/4015_top.png
 images/event/4015/4015_banner.png
 images/event/4015/4015_banner.png
 Memories of Christmas
+images/event/4010/4010_top.png
+images/event/4010/4010_banner.png
+images/event/4010/4010_banner.png
+Shimmering Secret
 images/event/4008/4008_top.png
 images/event/4008/4008_banner.png
 images/event/4008/4008_banner.png

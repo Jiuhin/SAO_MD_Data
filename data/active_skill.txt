@@ -154,6 +154,12 @@ skill_icon_dagger_3_{}
 While receiving benefits from Pina's breath, perform a magic-imbued strike using this sword skill.
 Sirius's Spark+
 Sirius's Spark+
+skill_effect_83107
+skill_effect_83107
+skill_icon_dagger_3_{}
+A sword skill combining fishing rod and dagger. Use the rod to pull a pillar of water into the enemy. Enhances all party members' critical.
+Mighty Cast+
+Mighty Cast+
 skill_icon_dagger_3_{}
 A sword skill that thrashes at the ground in front of you. Also slightly increases both your attack and defense.
 Grey's Palette+

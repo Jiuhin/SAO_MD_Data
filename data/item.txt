@@ -463,40 +463,40 @@ Raises stats for
 Hard Worker's New Bud
 Unlocks lv. 90+ attributes for
 [Pole and Line Fishing] Sima
-Lv. 90 Fisherman's Key
+Lv. 90 Fisher's Key
 Unlocks lv. 80+ attributes for
 [Pole and Line Fishing] Sima
-Lv. 80 Fisherman's Key
+Lv. 80 Fisher's Key
 Unlocks lv. 70+ attributes for
 [Pole and Line Fishing] Sima
-Lv. 70 Fisherman's Key
+Lv. 70 Fisher's Key
 Unlocks lv. 60+ attributes for
 [Pole and Line Fishing] Sima
-Lv. 60 Fisherman's Key
+Lv. 60 Fisher's Key
 Unlocks lv. 50+ attributes for
 [Pole and Line Fishing] Sima
-Lv. 50 Fisherman's Key
+Lv. 50 Fisher's Key
 Unlocks lv. 40+ attributes for
 [Pole and Line Fishing] Sima
-Lv. 40 Fisherman's Key
+Lv. 40 Fisher's Key
 Unlocks lv. 30+ attributes for
 [Pole and Line Fishing] Sima
-Lv. 30 Fisherman's Key
+Lv. 30 Fisher's Key
 Unlocks lv. 20+ attributes for
 [Pole and Line Fishing] Sima
-Lv. 20 Fisherman's Key
+Lv. 20 Fisher's Key
 Unlocks lv. 10+ attributes for
 [Pole and Line Fishing] Sima
-Lv. 10 Fisherman's Key
+Lv. 10 Fisher's Key
 Raises a character's level cap.
 [Pole and Line Fishing] Sima
-Holy Fisherman Hacking Crystal
+Holy Fisher Hacking Crystal
 Raises a character's level cap.
 [Pole and Line Fishing] Sima
-Fisherman Hacking Crystal
+Fisher Hacking Crystal
 Raises a character's level cap.
 [Pole and Line Fishing] Sima
-Fisherman Hacking Shard
+Fisher Hacking Shard
 Raises stats for
 [Pole and Line Fishing] Sima
 Lunker Fishing Rod
@@ -794,6 +794,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain in "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20016
+Upgrades character
+([Pole and Line Fishing] Sima only) 
+Rarity: High
+Fisher Upgrade Crystal
 item_m_evolution_20015
 Upgrades character
 ([Shamisen Rock] Premiere only) 
@@ -985,7 +990,7 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
-Raises Yuuki's level cap. ([Shamisen Rock] Premiere only) 
+Raises Premiere's level cap. ([Shamisen Rock] Premiere only) 
 Rarity: High
 Rock Band Hacking Crystal
 Raises Yuuki's level cap. ([Tied Together] Yuuki only) 

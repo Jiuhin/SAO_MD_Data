@@ -217,6 +217,12 @@ head
 weapon
 enemy_201_the_berserk_wolf
 enemy_201_the_berserk_wolf
+weapon_gun
+enemy_151_game_gunman
+head
+weapon
+enemy_151_game_gunman
+enemy_151_game_gunman
 enemy_150_oberon_sword
 head
 weapon

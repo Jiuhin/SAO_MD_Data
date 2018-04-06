@@ -340,8 +340,6 @@ e069f1c8f80a83615d6a08f90e66a83c
 ss/unit/chara_6_finesword_w/skill_effect_64113.png
 e91cf2171b4653a952d4a9ecafef3a64
 ss/unit/chara_6_finesword_w/skill_effect_64112.png
-10e4fc9d88a65cf9abee31026224a30d
-ss/unit/chara_6_finesword_w/skill_effect_64111.png
 53ea3996aa02631c778a9441e3f94248
 ss/unit/chara_6_finesword_w/skill_effect_64110.png
 06b179081e964317248936061ed73c6e
@@ -2136,6 +2134,8 @@ images/lottery/image_lottery_tutorial_4001.png
 images/lottery/image_lottery_tutorial_140011_s.png
 34343c96e7834b5b233a580d1a280e34
 images/lottery/image_lottery_tutorial_12001_s.png
+0b0d76f79a2fcfc937d9df27c2997529
+images/lottery/event/130063_event_top.png
 4012953c7bb77ba9418aa67bebb6b634
 images/lottery/event/130062_event_top.png
 7d067e330cd0cc7af6c57fce9943cabe
@@ -3364,6 +3364,10 @@ images/event/ranking/badge/image_ranking_badge_01.png
 images/event/banner/event_quest_banner_m_6.png
 126171a6b0bd32b0bb3dc43a43bc885f
 images/event/banner/event_quest_banner_m_5.png
+e70cda18ce391c0f55ffa9afd516710c
+images/event/9020/9020_top.png
+bd04be02c7b07229dd8f543da5fcf628
+images/event/9020/9020_banner.png
 7389e845d465f81d95d399bb02decc68
 images/event/9019/9019_top.png
 c2491a1492bea200d4946f2ed3501fa5
@@ -4220,11 +4224,11 @@ images/event/4011/4011_top.png
 images/event/4011/4011_banner.png
 ee6c30b11f8aa905b1785a90ab6f89bd
 images/event/4011/4011_announce.png
-1f4cbfdf2c8b383188ec888ef5314ead
+2db60a861ff11296386bebd5cd990da5
 images/event/4010/4010_top.png
-b559baf9fcdfc61842a61d8ff3e633a5
+87e487850767a14a041a1993b04534ec
 images/event/4010/4010_banner.png
-1a4f2166685a51902af2cd3e9e1206c4
+93f060c4a39d569055aceeae63475013
 images/event/4010/4010_announce_2.png
 ffc74d84323c3c1d75b4289bd76d3e0a
 images/event/4009/4009_top.png

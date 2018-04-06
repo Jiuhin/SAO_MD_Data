@@ -26,6 +26,10 @@ effect_eyes_flash_b_s
 effect_eyes_flash_b_s
 effect_eyes_flash_s
 effect_eyes_flash_s
+effect_teleport_01_7
+effect_teleport_01
+effect_warp_dash_02
+effect_dropkick_01
 effect_warp_flower
 effect_water_note_appear_06_s
 effect_water_note_appear_01_s
@@ -78,6 +82,7 @@ effect_dummy
 ?43
 effect_chant_rock_wall
 effect_teleport_01
+effect_teleport_01
 effect_immortal_object
 effect_teleport_02
 effect_immortal_object
@@ -100,6 +105,7 @@ effect_windmill_thrust
 effect_status_down_01_front_s
 effect_status_down_01_back_s
 effect_smoke_appear_02_s
+effect_teleport_01
 effect_teleport_01
 effect_barrier_attribute_damage_s_7
 effect_barrier_attribute_damage_s
@@ -132,6 +138,7 @@ effect_barrier_attribute_s
 effect_guard_half_2
 effect_guard_half_1
 effect_windpressure_02
+effect_water_note_appear_01_s
 effect_water_note_appear_01_s
 effect_status_06
 effect_appear_04_s
@@ -177,6 +184,7 @@ effect_chargeattack_02
 effect_damage_01_polygon_s
 effect_damage_01_slash_s
 effect_parry_01_s
+effect_target_sign_02
 effect_target_sign_05
 effect_target_sign_02
 effect_target_sign_06
@@ -207,6 +215,7 @@ effect_status_heal_s
 effect_hit_physical_shield_02
 ?o3
 effect_hit_magical_shield_02
+effect_teleport_01
 effect_teleport_01
 effect_counter_02
 effect_counter_01

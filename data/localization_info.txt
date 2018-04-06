@@ -1,4 +1,5 @@
 due to temporary data mismatch, a maintenance will be conducted. We sincerely apologize for any inconvenience caused.
+A maintenance has been performed. Please wait a little while.
 Your User Data is now linked to your Facebook account. 
 Your Facebook account is unlinked.
 Minute(s)
@@ -226,6 +227,7 @@ Leave your current party and search for
 a suggested party?
 The quest has expired.
 You can only enter numbers.
+Have : {0}
 Too Few
 Items
 Cost Over

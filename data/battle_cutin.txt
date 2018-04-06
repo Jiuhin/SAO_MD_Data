@@ -228,6 +228,29 @@ Thanks!
 You did it! That was great!
 It's guarding.
 HP is very low!
+That doesn't work.
+It's weak to that attack!
+It's weak to that attack!
+Careful. They are coming!
+Switch now!
+Careful. Guarding too much.
+Can't parry!
+The HP's in the red zone!? Be careful!
+Warning! The HP is low! 
+Still coming...Stay focused! 
+Incoming special attack.. Careful!
+Enemy's waking up! Stun him again!
+Watch your timing!
+Let's get one more!
+Here's our chance! 
+I'll do it!
+Now!
+Are you alright? You are debuffed..
+Oh no...
+Thanks a lot!
+Awesome!
+Get their back! 
+Your HP is low!
 What?! It's resistant?!
 That's its weakness.
 That's its weakness.

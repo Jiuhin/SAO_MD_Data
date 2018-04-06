@@ -1,77 +1,84 @@
-8}	
-p{	
-<z	
-Xy	
-dw	
-hv	
-du	
-tt	
-$t	
-4s	
-Dr	
-Pq	
-hp	
-xo	
-0o	
-Ln	
-dm	
-tl	
-pk	
-hj	
-di	
-hh	
-lg	
-tf	
-,f	
-Te	
-(d	
-,c	
-0b	
-<a	
-D_	
-h[	
-xZ	
-(Z	
-8Y	
-DX	
-HW	
-<V	
-LU	
-lS	
-4R	
-PQ	
-dP	
+4}	
+dz	
+hy	
+pw	
+0v	
+<u	
+Pt	
+ds	
+tr	
+$r	
+Dq	
+po	
+xn	
+$n	
+(m	
+0l	
+Pj	
+<h	
+dg	
+hf	
+le	
+xd	
+$d	
+(c	
+,b	
+4a	
+T_	
+,[	
+0Z	
+$Y	
+4X	
+DW	
+TV	
+hU	
+8T	
+LS	
+PR	
+TQ	
+XP	
 hO	
-lN	
-pM	
-0L	
-0I	
-(H	
-pG	
-dF	
-TD	
-XC	
-p?	
-p>	
-t<	
-0:	
-H8	
+xN	
+(N	
+(M	
+pL	
+hK	
+XJ	
+LI	
+DH	
+<G	
+DE	
+DD	
+XB	
+XA	
+X>	
+x<	
+(<	
+4:	
+D9	
+L8	
 L7	
-d5	
-d4	
-d3	
-p1	
-00	
-</	
-L.	
-t,	
-8)	
-((	
-p'	
-X&	
-T"	
-h 	
-D		
+L6	
+H5	
+X4	
+h3	
+t2	
+$2	
+41	
+D0	
+H.	
+4-	
+l+	
+D(	
+H'	
+L&	
+<%	
+H$	
+H"	
+X!	
+t 	
+( 	
+H		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -1257,7 +1264,7 @@ Each to Their Own
 Miracle of the Tempest
 Storm Dragon's Abode
 8zz
-A Great Fisher
+The Great Fisher
 8yz
 Shimmering Secret
 Golden Apple
@@ -1777,6 +1784,7 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+MORE DEBAN
 :G6
 [Charming Rider] Sinon
 :G6
@@ -8455,27 +8463,27 @@ Hard Worker's New Bud x10
 e N
 e N
 Hard Worker's New Bud x3
-Holy Fisherman Hacking Crystal x10
-Fisherman Hacking Crystal x20
-Fisherman Hacking Shard x25
+Holy Fisher Hacking Crystal x10
+Fisher Hacking Crystal x20
+Fisher Hacking Shard x25
 Lunker Fishing Rod x15
 Big Fishing Rod x35
 Fishing Rod x45
-Holy Fisherman Hacking Crystal x8
-Fisherman Hacking Crystal x13
-Fisherman Hacking Shard x20
+Holy Fisher Hacking Crystal x8
+Fisher Hacking Crystal x13
+Fisher Hacking Shard x20
 Lunker Fishing Rod x15
 Big Fishing Rod x30
 Fishing Rod x40
-Holy Fisherman Hacking Crystal x3
-Fisherman Hacking Crystal x10
-Fisherman Hacking Shard x20
+Holy Fisher Hacking Crystal x3
+Fisher Hacking Crystal x10
+Fisher Hacking Shard x20
 Lunker Fishing Rod x20
 Big Fishing Rod x35
 Fishing Rod x45
-Holy Fisherman Hacking Crystal x1
-Fisherman Hacking Crystal x3
-Fisherman Hacking Shard x8
+Holy Fisher Hacking Crystal x1
+Fisher Hacking Crystal x3
+Fisher Hacking Shard x8
 Lunker Fishing Rod x6
 xqf
 Big Fishing Rod x8
@@ -10729,19 +10737,19 @@ Defense Shard x10
 Attack Shard x10
 MP Shard x10
 HP Shard x10
-Fisherman Hacking Crystal x25
-Fisherman Hacking Crystal x10
-Lv. 80 Fisherman's Key x1
-Lv. 70 Fisherman's Key x1
-Lv. 60 Fisherman's Key x1
-Lv. 50 Fisherman's Key x1
-Lv. 40 Fisherman's Key x1
-Lv. 30 Fisherman's Key x1
-Lv. 20 Fisherman's Key x1
-Lv. 10 Fisherman's Key x1
+Fisher Hacking Crystal x25
+Fisher Hacking Crystal x10
+Lv. 80 Fisher's Key x1
+Lv. 70 Fisher's Key x1
+Lv. 60 Fisher's Key x1
+Lv. 50 Fisher's Key x1
+Lv. 40 Fisher's Key x1
+Lv. 30 Fisher's Key x1
+Lv. 20 Fisher's Key x1
+Lv. 10 Fisher's Key x1
 eys
-Fisherman Hacking Shard x15
-Fisherman Hacking Shard x10
+Fisher Hacking Shard x15
+Fisher Hacking Shard x10
 Lunker Fishing Rod x10
 9xs
 Big Fishing Rod x20
@@ -10752,41 +10760,44 @@ Fishing Rod x30
 Fishing Rod x20
 Evs
 Fishing Rod x15
-Holy Fisherman Hacking Crystal x9
+Fisher Upgrade Crystal x2
+5Os
+Fisher Upgrade Crystal x1
+Holy Fisher Hacking Crystal x9
 i>s
-Holy Fisherman Hacking Crystal x8
-Holy Fisherman Hacking Crystal x7
-Holy Fisherman Hacking Crystal x6
-Holy Fisherman Hacking Crystal x5
-Holy Fisherman Hacking Crystal x4
+Holy Fisher Hacking Crystal x8
+Holy Fisher Hacking Crystal x7
+Holy Fisher Hacking Crystal x6
+Holy Fisher Hacking Crystal x5
+Holy Fisher Hacking Crystal x4
 u<s
-Holy Fisherman Hacking Crystal x3
-Holy Fisherman Hacking Crystal x2
-Holy Fisherman Hacking Crystal x1
-Fisherman Hacking Crystal x9
-Fisherman Hacking Crystal x8
-Fisherman Hacking Crystal x7
-Fisherman Hacking Crystal x6
+Holy Fisher Hacking Crystal x3
+Holy Fisher Hacking Crystal x2
+Holy Fisher Hacking Crystal x1
+Fisher Hacking Crystal x9
+Fisher Hacking Crystal x8
+Fisher Hacking Crystal x7
+Fisher Hacking Crystal x6
 U9s
-Fisherman Hacking Crystal x5
-Fisherman Hacking Crystal x4
-Fisherman Hacking Crystal x3
+Fisher Hacking Crystal x5
+Fisher Hacking Crystal x4
+Fisher Hacking Crystal x3
 )8s
-Fisherman Hacking Crystal x2
-Fisherman Hacking Crystal x1
-Fisherman Hacking Shard x9
-Fisherman Hacking Shard x8
+Fisher Hacking Crystal x2
+Fisher Hacking Crystal x1
+Fisher Hacking Shard x9
+Fisher Hacking Shard x8
 56s
-Fisherman Hacking Shard x7
-Fisherman Hacking Shard x6
+Fisher Hacking Shard x7
+Fisher Hacking Shard x6
 m5s
-Fisherman Hacking Shard x5
+Fisher Hacking Shard x5
 	5s
-Fisherman Hacking Shard x4
-Fisherman Hacking Shard x3
+Fisher Hacking Shard x4
+Fisher Hacking Shard x3
 A4s
-Fisherman Hacking Shard x2
-Fisherman Hacking Shard x1
+Fisher Hacking Shard x2
+Fisher Hacking Shard x1
 Lunker Fishing Rod x9
 Lunker Fishing Rod x8
 M2s
@@ -10824,20 +10835,26 @@ Fishing Rod x3
 Fishing Rod x2
 %(s
 Fishing Rod x1
+Lunker Fishing Rod x5
+Big Fishing Rod x23
+Fishing Rod x30
+Lunker Fishing Rod x4
+Big Fishing Rod x17
+Fishing Rod x26
 U?r
 Blazing Plate R3
-Holy Fisherman Hacking Crystal x7
-Fisherman Hacking Crystal x9
+Holy Fisher Hacking Crystal x7
+Fisher Hacking Crystal x9
 )>r
-Fisherman Hacking Shard x5
+Fisher Hacking Shard x5
 Lunker Fishing Rod x3
 Big Fishing Rod x12
 Fishing Rod x17
 Blazing Plate R3
 Blazing Plate R2
-Holy Fisherman Hacking Crystal x1
-Fisherman Hacking Crystal x1
-Fisherman Hacking Shard x1
+Holy Fisher Hacking Crystal x1
+Fisher Hacking Crystal x1
+Fisher Hacking Shard x1
 Lunker Fishing Rod x1
 Big Fishing Rod x4
 Fishing Rod x6
@@ -11420,6 +11437,10 @@ Screw (S) x300
 Screw (S) x100
 %a>
 Screw (S) x50
+Premium Live Ticket Plus x20
+Rock Band Upgrade Crystal x1
+Premium Live Ticket x15
+Premium Live Ticket x20
 Premium Live Ticket VIP x2
 Premium Live Ticket VIP x1
 Premium Live Ticket Plus x15
@@ -12002,24 +12023,24 @@ Bronze Medal x3
 Silver Medal x2
 Bronze Medal x2
 [Pole and Line Fishing] Sima
-Lv. 90 Fisherman's Key x1
-Lv. 80 Fisherman's Key x1
-Lv. 70 Fisherman's Key x1
-Lv. 60 Fisherman's Key x1
-Lv. 50 Fisherman's Key x1
-Lv. 40 Fisherman's Key x1
-Lv. 30 Fisherman's Key x1
-Lv. 20 Fisherman's Key x1
-Lv. 10 Fisherman's Key x1
+Lv. 90 Fisher's Key x1
+Lv. 80 Fisher's Key x1
+Lv. 70 Fisher's Key x1
+Lv. 60 Fisher's Key x1
+Lv. 50 Fisher's Key x1
+Lv. 40 Fisher's Key x1
+Lv. 30 Fisher's Key x1
+Lv. 20 Fisher's Key x1
+Lv. 10 Fisher's Key x1
 }tz
-Holy Fisherman Hacking Crystal x25
-Fisherman Hacking Crystal x100
-Fisherman Hacking Crystal x50
-Fisherman Hacking Shard x200
+Holy Fisher Hacking Crystal x25
+Fisher Hacking Crystal x100
+Fisher Hacking Crystal x50
+Fisher Hacking Shard x200
 umz
-Fisherman Hacking Shard x200
-Fisherman Hacking Shard x100
-Fisherman Hacking Shard x50
+Fisher Hacking Shard x200
+Fisher Hacking Shard x100
+Fisher Hacking Shard x50
 Lunker Fishing Rod x100
 )iz
 Lunker Fishing Rod x30

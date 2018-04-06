@@ -1,6 +1,7 @@
 images/event/4903/4903_banner.png
 images/event/4902/4902_banner.png
 images/event/4901/4901_banner.png
+images/event/9020/9020_banner.png
 images/event/9019/9019_banner.png
 )G,
 images/event/9018/9018_banner.png

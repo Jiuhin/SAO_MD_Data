@@ -1,3 +1,8 @@
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1
+Episode 1 Trailer
 Happy Valentine's Day! 
 Defeat those men in this battle and
 receive a gift from your loved one!
@@ -6305,55 +6310,62 @@ bg_thumbnail_0
 Story 1
 Strange Favor
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 15-2
-Heavy Metal Satan (Mastert +2)
+Heavy Metal Satan (Master +2)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 15-1
-Heavy Metal Satan (Mastert +2)
+Heavy Metal Satan (Master +2)
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 14-2
-Heavy Metal Satan (Mastert +1)
+Heavy Metal Satan (Master +1)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 14-1
-Heavy Metal Satan (Mastert +1)
+Heavy Metal Satan (Master +1)
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 13-2
-Heavy Metal Satan (Mastert)
+Heavy Metal Satan (Master)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 13-1
-Heavy Metal Satan (Mastert)
+Heavy Metal Satan (Master)
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
@@ -6361,7 +6373,8 @@ bg_thumbnail_8051
 Quest 12-2
 Heavy Metal Satan (EX)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
@@ -6369,7 +6382,8 @@ bg_thumbnail_8051
 Quest 12-1
 Heavy Metal Satan (EX)
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
@@ -6377,7 +6391,8 @@ bg_thumbnail_8051
 Quest 11-2
 Heavy Metal Satan (Expert)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
@@ -12484,6 +12499,116 @@ Story
 bg_thumbnail_0
 Story 1
 Unforgettable
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 16
+The Lake's Prize (Master+1)
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 15
+The Lake's Prize (Master)
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 14
+The Lake's Prize (EX)
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 13
+The Lake's Prize (Exp.)
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 12
+The Lake's Prize (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Sima the Fisher
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 10
+The Lake's Prize
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+The Fisherman's Daughter
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 8
+The Truth About the Cavern
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 7
+The Fighter
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 6
+The Breakaway Rod
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+The Fisherman's Guard
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 4
+The Bottom of the Lake
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+The Big One!
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Quest 2
+To the Fishing Hole
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Fishing Practice
 You've finally cornered this mischievous
 kobold, but now it's used the broom's
 power to transform into Leafa and attack
@@ -14198,6 +14323,11 @@ Quest
 bg_thumbnail_2002
 Quest 1-1
 Horunka
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
+Quest 1
+Episode 1 Trailer
 Happy Valentine's Day! 
 Defeat those men in this battle and
 receive a gift from your loved one!
@@ -20505,55 +20635,62 @@ bg_thumbnail_0
 Story 1
 Strange Favor
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 15-2
-Heavy Metal Satan (Mastert +2)
+Heavy Metal Satan (Master +2)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 15-1
-Heavy Metal Satan (Mastert +2)
+Heavy Metal Satan (Master +2)
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 14-2
-Heavy Metal Satan (Mastert +1)
+Heavy Metal Satan (Master +1)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 14-1
-Heavy Metal Satan (Mastert +1)
+Heavy Metal Satan (Master +1)
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 13-2
-Heavy Metal Satan (Mastert)
+Heavy Metal Satan (Master)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
 bg_thumbnail_8051
 Quest 13-1
-Heavy Metal Satan (Mastert)
+Heavy Metal Satan (Master)
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
@@ -20561,7 +20698,8 @@ bg_thumbnail_8051
 Quest 12-2
 Heavy Metal Satan (EX)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
@@ -20569,7 +20707,8 @@ bg_thumbnail_8051
 Quest 12-1
 Heavy Metal Satan (EX)
 Heavy Metal Satan appears in the PSO world
-Use a slash/strike weapon when it puts up a barrier by
+Use a slash/strike weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
@@ -20577,7 +20716,8 @@ bg_thumbnail_8051
 Quest 11-2
 Heavy Metal Satan (Expert)
 Heavy Metal Satan appears in the PSO world
-Use a magic/pierce weapon when it puts up a barrier by
+Use a magic/pierce weapon 
+when it puts up a barrier by
 playing a guitar solo!
 Defeat All Enemies
 Quest
@@ -26684,6 +26824,116 @@ Story
 bg_thumbnail_0
 Story 1
 Unforgettable
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 16
+The Lake's Prize (Master+1)
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 15
+The Lake's Prize (Master)
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 14
+The Lake's Prize (EX)
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 13
+The Lake's Prize (Exp.)
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat Boss
+Quest
+bg_thumbnail_8004
+Quest 12
+The Lake's Prize (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Sima the Fisher
+The lake's biggest prize has finally shown
+itself. Its armor-like scales glitter
+dully in the light. Catch this and you'll
+be able to call yourself a full-fledged
+fisherman!
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 10
+The Lake's Prize
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+The Fisherman's Daughter
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 8
+The Truth About the Cavern
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 7
+The Fighter
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 6
+The Breakaway Rod
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+The Fisherman's Guard
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 4
+The Bottom of the Lake
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+The Big One!
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Quest 2
+To the Fishing Hole
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Fishing Practice
 You've finally cornered this mischievous
 kobold, but now it's used the broom's
 power to transform into Leafa and attack

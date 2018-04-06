@@ -85,6 +85,16 @@ Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 10 seconds during standby.
 Emergency Heal (HP&MP) Lv.1
+<4-
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Fire-elem. enemies.
+Skill Damage Up (vs. Fire) Lv. 2
+:4-
+94-
+84-
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Fire-elem. enemies.
+Skill Damage Up (vs. Fire) Lv. 1
 'a>
 &a>
 %a>
@@ -1053,6 +1063,9 @@ slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Reduces charge time and raises attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_4
+Enhances SS3. Becomes powerful. Increases the number of HIT. All P-Members' can raise their crit. rate temporarily.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_4
 Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_4
@@ -1284,6 +1297,44 @@ Battle Skill 3 Transform Lv. 2
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
+VEk
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+UEk
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_job_4
+Raises attack and crit. rate by 500
+Dagger Skill Lv. 10
+slot_skill_icon_job_4
+Raises attack and crit. rate by 450
+Dagger Skill Lv. 9
+slot_skill_icon_job_4
+Raises attack and crit. rate by 400
+Dagger Skill Lv. 8
+slot_skill_icon_job_4
+Raises attack and crit. rate by 350
+Dagger Skill Lv. 7
+slot_skill_icon_job_4
+Raises attack and crit. rate by 300
+Dagger Skill Lv. 6
+slot_skill_icon_job_4
+Raises attack and crit. rate by 250
+Dagger Skill Lv. 5
+slot_skill_icon_job_4
+Raises attack and crit. rate by 200
+Dagger Skill Lv. 4
+slot_skill_icon_job_4
+Raises attack and crit. rate by 150
+Dagger Skill Lv. 3
+slot_skill_icon_job_4
+Raises attack and crit. rate by 100
+Dagger Skill Lv. 2
+slot_skill_icon_job_4
+Raises attack and crit. rate by 50
+Dagger Skill Lv. 1
 VEk
 'a>
 &a>
@@ -1519,6 +1570,16 @@ Dark Magic Skill Lv. 2
 slot_skill_icon_job_8
 Raises attack and crit. rate by 50
 Dark Magic Skill Lv. 1
+<4-
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 10%
+Battle Skill 2 Transform Lv. 2
+:4-
+94-
+84-
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 8%
+Battle Skill 2 Transform Lv. 2
 flk
 'a>
 &a>
