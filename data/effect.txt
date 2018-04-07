@@ -28,6 +28,7 @@ effect_eyes_flash_s
 effect_eyes_flash_s
 effect_teleport_01_7
 effect_teleport_01
+effect_coin_shower
 effect_warp_dash_02
 effect_dropkick_01
 effect_warp_flower

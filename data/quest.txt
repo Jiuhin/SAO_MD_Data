@@ -1,3 +1,111 @@
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 12
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 11
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 10
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 9
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 8
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 7
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 6
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 5
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 4
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 3
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 2
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 1
+Untouchable Gunman 
 Defeat All Enemies
 Quest
 bg_thumbnail_8012
@@ -5820,6 +5928,51 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+ep>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 5
+Attack on Beast Mechs (Master +1)
+dp>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 4
+Attack on Beast Mechs (Master)
+cp>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 3
+Attack on Beast Mechs (EX)
+bp>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 2
+Attack on Beast Mechs (Expert)
+ap>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 1
+Attack on Beast Mechs  (Int.)
 Barnabas The Land GunFish appears!
 Shock waves can be avoidable 
 if you jump at the right timing.
@@ -14323,6 +14476,114 @@ Quest
 bg_thumbnail_2002
 Quest 1-1
 Horunka
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 12
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 11
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 10
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 9
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 8
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 7
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 6
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 5
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 4
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 3
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 2
+Untouchable Gunman 
+A gambling game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 1
+Untouchable Gunman 
 Defeat All Enemies
 Quest
 bg_thumbnail_8012
@@ -20145,6 +20406,51 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+ep>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 5
+Attack on Beast Mechs (Master +1)
+dp>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 4
+Attack on Beast Mechs (Master)
+cp>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 3
+Attack on Beast Mechs (EX)
+bp>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 2
+Attack on Beast Mechs (Expert)
+ap>
+Defend Crystals from Beast Mechs!
+Watch out for the Mechanical Griffin.
+Parry them to avoid their fatal attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4018
+Quest 1
+Attack on Beast Mechs  (Int.)
 Barnabas The Land GunFish appears!
 Shock waves can be avoidable 
 if you jump at the right timing.

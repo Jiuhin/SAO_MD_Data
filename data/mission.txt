@@ -21,6 +21,9 @@ Korean Ver is Released! Special Character Present!
 Complete OS Episode 0 "Someone's Requiem"
 Skill Slot material present!
 Join a Guild
+9021001+9021002+9021003+9021004+9021005+9021006+9021007+9021008+9021009+9021010+9021011+9021012,1,4
+Complete Untouchable Gunman 
+12 
 9019001
 Receive a gift in the Gift Frenzy Quest "Happy White Day!"
 9018006
@@ -1328,6 +1331,30 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+Dx>
+4092005,2,2160025,7500
+Complete "Attack on Beast Mechs (Master +1)" keeping more than 75% of HP of each Crystal
+Dw>
+4092004,2,2160024,7500
+Complete "Attack on Beast Mechs (Master)" keeping more than 75% of HP of each Crystal
+Dv>
+4092003,2,2160023,7500
+Complete "Attack on Beast Mechs (EX)" keeping more than 50% of HP of each Crystal
+Du>
+4092005,2,2160025,5000
+Complete "Attack on Beast Mechs (Master)" keeping more than 50% of HP of each Crystal
+Dt>
+4092004,2,2160024,5000
+Complete "Attack on Beast Mechs (Master)" keeping more than 50% of HP of each Crystal
+/s>
+4092005
+Complete "Attack on Beast Mechs (Master +1)".
+<r>
+4092004,2,11,1
+Complete "Attack on Beast Mechs (Master)" with at least an automatic rifle character.
+/q>
+4092004
+Complete "Attack on Beast Mechs (Master)".
 4091025,2,11,1
 Complete "Hello New Me (Master +1)" with an automatic rifle character.
 4091024,2

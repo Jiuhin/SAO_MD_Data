@@ -55,6 +55,20 @@ weapon10_0001
 TBD
 SPB Rapier R4
 weapon10_0001
+4P/
+TBD
+Military Helmet R4
+accessory01_0072
+3P/
+4P/
+TBD
+Military Helmet R3
+accessory01_0072
+2P/
+3P/
+TBD
+Military Helmet R2
+accessory01_0072
 TBD
 Musical Note Tie R4
 accessory01_0071
@@ -1125,6 +1139,15 @@ armor02_0004
 TBD
 Insane Armor R3
 armor02_0004
+TBD
+Combat Suit R4
+armor03_0120
+TBD
+Combat Suit R3
+armor03_0120
+TBD
+Combat Suit R2
+armor03_0120
 TBD
 Coat of Barrios R4
 armor01_0065

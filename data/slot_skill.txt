@@ -16,6 +16,9 @@ Holy Resistance Lv1
 slot_skill_icon_reseve_healing_mp
 Restores 10 MP every 10 seconds during standby.
 Emergency Heal (MP) Lv.1
+slot_skill_icon_reseve_healing_mp
+Restores 10 MP every 10 seconds during standby.
+Emergency Heal (MP) Lv.1
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases your own attack and critical by 20%.
 Battle Skill 3 Transform Lv. 1
@@ -1027,6 +1030,9 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Becomes powerful. Increases the buff attack effect.
 Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_1
+ソードスキル3が強化され、敵を追従する効果が付き、威力が上がる
+ソードスキル3強化 Lv1
 slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Becomes powerful. Dodges enemies' attack in the air.
 Sword Skill 3 Enhance Lv. 2
@@ -1177,6 +1183,9 @@ slot_skill_icon_ss_enhance_3_2
 Enhances Sword Skill 3. Increases own attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_2
+ソードスキル3が強化され、更に威力が上がる
+Sword Skill 3 Enhance Lv. 2
+slot_skill_icon_ss_enhance_3_2
 Enhances Sword Skill 3. Becomes more powerful. Increases own attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_2
@@ -1283,8 +1292,38 @@ slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
+バトルスキル3が変化して、攻撃力が20%増加する
+バトルスキル3変化 Lv2
+slot_skill_icon_bs_change
+バトルスキル3が変化して、攻撃力が15%増加する
+バトルスキル3変化 Lv1
+slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+バトルスキル3が変化して、最大MPが20%増加する
+バトルスキル3変化 Lv2
+slot_skill_icon_bs_change
+バトルスキル3が変化して、最大MPが15%増加する
+バトルスキル3変化 Lv1
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 20%
+Battle Skill 3 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 3. Increases attack by 15%
+Battle Skill 3 Transform Lv. 1
+slot_skill_icon_bs_change
+バトルスキル2が変化して、最大MPが20%増加する
+バトルスキル2変化 Lv2
+slot_skill_icon_bs_change
+バトルスキル2が変化して、最大MPが15%増加する
+バトルスキル2変化 Lv1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 20%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases Max MP by 15%
+Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 1. Increases Max MP by 15%
 Battle Skill 1 Transform Lv. 1

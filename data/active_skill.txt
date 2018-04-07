@@ -443,6 +443,16 @@ skill_icon_automatic_gun_3_{}
 A combination skill. Causes to burst with grenades. Shoots the last grenade to set off an enormous explosion.
 Snipe and Explosion
 Snipe and Explosion
+M2"
+skill_icon_automatic_gun_3_{}
+A combination skill. Deliver more damage with a drop kick. Increases all party members' attack power.
+Raging Bullet Fight
+Raging Bullet Fight
+C2"
+skill_icon_automatic_gun_3_{}
+A combination skill. Shoots while running and slide to the back of an enemy to attack more. Increases all party members' attack power.
+Brave Assault
+Brave Assault
 92"
 skill_icon_automatic_gun_3_{}
 Produces bursts of electricity around an enemy by throwing a bolt and slide to the enemy to attack more. 

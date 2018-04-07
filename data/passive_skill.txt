@@ -100,6 +100,8 @@ Increases MP and Crit. by 3% when equipped by Eugeo.
 MP&Crit. +3% (Eugeo)
 Increases attack by 10% when equipped by YUNA.
 Atk +10% (YUNA)
+Increases attack by 10% when equipped by Premiere.
+Atk +10% (Premiere)
 50% chance Premiere gains 5 MP on enemy kill.
 MP Recovery on Kill (Premiere)
 Increases attack by 10% when equipped by Sachi.
@@ -718,6 +720,8 @@ Increases Water-elem. character's MP by 3%.
 MP +3% (Water)
 Increases Water-elem. character's HP by 6%.
 HP +6% (Water)
+Reduces Fire-elem. character's Required MP by -10%.
+Required MP -10% (Fire)
 Increases Fire-elem. character's HP & MP by 3%.
 HP & MP. +3% (Fire)
 Increases Fire-elem. character's MP & attack by 3%.

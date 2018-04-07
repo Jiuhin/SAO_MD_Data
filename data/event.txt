@@ -38,6 +38,10 @@ images/event/4001/4001_01_top_monday.png
 images/event/4001/4001_01_banner_monday.png
 images/event/4001/4001_01_banner_monday.png
 Mon. Defense
+images/event/9021/9021_top.png
+images/event/9021/9021_banner.png
+images/event/9021/9021_banner.png
+----------
 images/event/9020/9020_top.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
@@ -610,6 +614,11 @@ images/event/dummy/dummy_top.png
 images/event/4601/4601_banner.png
 images/event/4601/4601_banner.png
 Bullet of Bullets
+Premium Live Scout
+images/event/4092/4092_top.png
+images/event/4092/4092_banner.png
+images/event/4092/4092_banner.png
+Attack on Beast Mechs
 images/event/4091/event_item_4091.png
 images/event/4091/4091_top.png
 images/event/4091/4091_banner.png

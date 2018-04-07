@@ -1,4 +1,5 @@
 Present
+Present
 White Chocolate Frenzy Quest
 Present
 Chocolate Frenzy Quest
@@ -197,6 +198,8 @@ Event
 第2回 Bullet of Bullets
 Event
 Bullet of Bullets
+Event
+Attack on Beast Mechs
 Event
 Hello New Me
 Event
