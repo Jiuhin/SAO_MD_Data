@@ -1339,10 +1339,10 @@ Dw>
 Complete "Attack on Beast Mechs (Master)" keeping more than 75% of HP of each Crystal
 Dv>
 4092003,2,2160023,7500
-Complete "Attack on Beast Mechs (EX)" keeping more than 50% of HP of each Crystal
+Complete "Attack on Beast Mechs (EX)" keeping more than 75% of HP of each Crystal
 Du>
 4092005,2,2160025,5000
-Complete "Attack on Beast Mechs (Master)" keeping more than 50% of HP of each Crystal
+Complete "Attack on Beast Mechs (Master+1)" keeping more than 50% of HP of each Crystal
 Dt>
 4092004,2,2160024,5000
 Complete "Attack on Beast Mechs (Master)" keeping more than 50% of HP of each Crystal

@@ -244,6 +244,9 @@ QCG
 QCG
 QCG
 >f3
+TCF
+QCG
+>f3
 QCG
 L>f3
 >f3
@@ -955,7 +958,7 @@ L>d3
 >d3
 >d3
 djF
-ff&?d3
+Aff&?d3
 ff&?
 djF
 Ad3
@@ -1205,7 +1208,7 @@ QCG
 >d3
 QCG
 ?d3
->d3
+Ad3
 >d3
 >d3
 >d3

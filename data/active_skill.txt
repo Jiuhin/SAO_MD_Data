@@ -450,7 +450,7 @@ Raging Bullet Fight
 Raging Bullet Fight
 C2"
 skill_icon_automatic_gun_3_{}
-A combination skill. Shoots while running and slide to the back of an enemy to attack more. Increases all party members' attack power.
+A combination skill. Shoots while running and slide to the back of an enemy to attack more. Increases all party members' attack power and your own movement speed.
 Brave Assault
 Brave Assault
 92"
