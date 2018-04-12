@@ -1,6 +1,7 @@
 images/event/4903/4903_banner.png
 images/event/4902/4902_banner.png
 images/event/4901/4901_banner.png
+images/event/9022/9022_banner.png
 UH,
 images/event/9021/9021_banner.png
 images/event/9020/9020_banner.png
@@ -59,6 +60,7 @@ images/event/9007/9007_banner.png
 images/event/9005/9005_banner_2017.png
 images/event/9004/9004_banner_2017.png
 images/event/9002/9002_banner_2017.png
+images/event/8041/8041_banner.png
 images/event/8040/8040_banner.png
 images/event/8039/8039_banner.png
 images/event/8038/8038_banner.png

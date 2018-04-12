@@ -1,3 +1,8 @@
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
+Quest 1
+Anime Trailer Quest Epi 2
 A gambling game 
 in the corner of the market
 Dodge incoming bullets and 
@@ -1137,6 +1142,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 5
+Crazed Eyes Returns (Master +1)
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 4
+Crazed Eyes Returns (Master)
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 3
+Crazed Eyes Returns (EX)
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 2
+Crazed Eyes Returns (Expert)
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 1
+Crazed Eyes Returns (Int.)
 Lucian the Big Idol Fan appears.
 Parry attacks and defeat them in a flash!
 Run when they cross their arms!
@@ -14476,6 +14526,11 @@ Quest
 bg_thumbnail_2002
 Quest 1-1
 Horunka
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
+Quest 1
+Anime Trailer Quest Epi 2
 A gambling game 
 in the corner of the market
 Dodge incoming bullets and 
@@ -15615,6 +15670,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 5
+Crazed Eyes Returns (Master +1)
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 4
+Crazed Eyes Returns (Master)
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 3
+Crazed Eyes Returns (EX)
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 2
+Crazed Eyes Returns (Expert)
+Cheers and shouts for pop idols!
+The Crazed Eyes Big Fan, here they come!
+Watch your stap when they roar.
+Stun attacks are advantageous when parrying!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Quest 1
+Crazed Eyes Returns (Int.)
 Lucian the Big Idol Fan appears.
 Parry attacks and defeat them in a flash!
 Run when they cross their arms!

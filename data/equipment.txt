@@ -92,6 +92,15 @@ TBD
 Rabbit Cap R2
 accessory01_0069
 TBD
+Marching Band Hat R4
+accessory01_0067
+TBD
+Marching Band Hat R3
+accessory01_0067
+TBD
+Marching Band Hat R2
+accessory01_0067
+TBD
 Fox Ear Headband R4
 accessory01_0066
 TBD
@@ -688,6 +697,15 @@ armor03_0118
 TBD
 Twinkle Pop Dress R2
 armor03_0118
+TBD
+Shiny Marching Band Uniform R4
+armor03_0114
+TBD
+Shiny Marching Band Uniform R3
+armor03_0114
+TBD
+Shiny Marching Band Uniform R2
+armor03_0114
 TBD
 Moon Rabbit's Suit R4
 armor03_0113

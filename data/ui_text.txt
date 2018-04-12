@@ -902,6 +902,8 @@ Close
 text_close
 Follow a player you've met for the first time?
 text_info
+Character Bonus
+text_chara_bonus
 Event Points
 text_rank_ep
 Rank Bonus

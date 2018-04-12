@@ -172,6 +172,25 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+8041005,3,45
+Complete "Crazed Eyes Returns (Master +1)" with guild members in Multi in under 45 seconds.
+8041004,3,45
+Complete "Crazed Eyes Returns (Master)" with guild members in Multi in under 45 seconds.
+8041003,3
+Complete "Crazed Eyes Returns (EX)" with guild members in Multi.
+1190120-1190121-1190122-1190123-1190124,50
+Defeat 50 of The Crazed Eyes Big Fan in the guild. 
++	E
+8041005,3
+Complete "Crazed Eyes Returns (Master +1)" without down.
+8041004,3
+Complete "Crazed Eyes Returns (Master)" without down.
+8041003,3
+Complete "Crazed Eyes Returns (EX)" without down.
+8041002
+Complete "Crazed Eyes Returns (Expert)"
+8041001
+Complete "Crazed Eyes Returns (Int.)"
 8040005,3,45
 Complete "Lucian Returns (Master +1)" with guild members in Multi in under 45 seconds.
 8040004,3,45
@@ -1362,7 +1381,7 @@ Complete "Hello New Me (Master)" without down.
 4091024,2,100
 Complete "Hello New Me (Master)" with a 100+ hit combo.
 4091024,2,11,1
-Complete "Hello New Me (Master +1)" in under 1min.
+Complete "Hello New Me (Master)" with an automatic rifle character.
 4091025,2,60
 Complete "Hello New Me (Master +1)" in under 1min.
 4091025,2,45

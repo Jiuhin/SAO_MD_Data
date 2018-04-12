@@ -38,6 +38,10 @@ images/event/4001/4001_01_top_monday.png
 images/event/4001/4001_01_banner_monday.png
 images/event/4001/4001_01_banner_monday.png
 Mon. Defense
+images/event/9022/9022_top.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+次回アニメ予告クエスト
 images/event/9021/9021_top.png
 images/event/9021/9021_banner.png
 images/event/9021/9021_banner.png
@@ -226,6 +230,10 @@ images/event/9002/9002_top_2017.png
 images/event/9002/9002_banner_2017.png
 images/event/9002/9002_banner_2017.png
 Asuna's Birthday Quest 2017
+images/event/8041/8041_top.png
+images/event/8041/8041_banner.png
+images/event/8041/8041_banner.png
+Crazed Eyes Returns
 images/event/8040/8040_top.png
 images/event/8040/8040_banner.png
 images/event/8040/8040_banner.png

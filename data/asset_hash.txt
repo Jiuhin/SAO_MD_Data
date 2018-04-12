@@ -3380,6 +3380,10 @@ images/event/ranking/badge/image_ranking_badge_01.png
 images/event/banner/event_quest_banner_m_6.png
 126171a6b0bd32b0bb3dc43a43bc885f
 images/event/banner/event_quest_banner_m_5.png
+1d4f7c17989dae8458fb9e072a3006e7
+images/event/9022/9022_top.png
+6bf26e34955fae4ca662a20a88280777
+images/event/9022/9022_banner.png
 0b55dc15d66a7b6a434590d51b2341a8
 images/event/9021/9021_top.png
 350e533c2d00d506c21286d372d20abf
@@ -3480,6 +3484,10 @@ images/event/9002/9002_banner.png
 images/event/9001/9001_top.png
 f9cbc601493ad89a88fd1601cc5fd29e
 images/event/9001/9001_banner.png
+253593079d74eee2b0e29e092b9560c4
+images/event/8041/8041_top.png
+4e6ed70398186e3fa481956d5ff97df3
+images/event/8041/8041_banner.png
 6eb1af1f754a4ab77e4852f94c00179b
 images/event/8040/8040_top.png
 0018043e5d6323ea1c24458b60c0d423

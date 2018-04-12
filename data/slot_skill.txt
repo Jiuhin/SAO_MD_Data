@@ -1030,8 +1030,8 @@ Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Becomes powerful. Increases the buff attack effect.
 Sword Skill 3 Enhance Lv. 1
-slot_skill_icon_ss_enhance_3_1
-ソードスキル3が強化され、HIT数と威力が上がる
+slot_skill_icon_ss_enhance_3_6
+Enhances SS3. Becomes powerful. Increases the number of HIT. 
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Becomes powerful. Dodges enemies' attack in the air.
@@ -1183,10 +1183,10 @@ slot_skill_icon_ss_enhance_3_2
 Enhances Sword Skill 3. Increases own attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_2
-ソードスキル3が強化され、更に威力が上がる
+Enhances Sword Skill 3. Becomes more powerful. 
 Sword Skill 3 Enhance Lv. 2
 slot_skill_icon_ss_enhance_3_2
-Enhances Sword Skill 3. Becomes more powerful. Increases own attack.
+Enhances Sword Skill 3. Becomes more powerful. Increases your own attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_2
 Enhances Sword Skill 3. Accelerates during skill.
