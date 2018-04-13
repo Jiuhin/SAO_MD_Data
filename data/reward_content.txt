@@ -1,75 +1,83 @@
-<}	
-H{	
-Xz	
-hy	
-tx	
-,x	
-Tw	
-(v	
-,u	
-0t	
-<s	
-Dq	
-Lp	
-ln	
-hm	
-xl	
-(l	
-8k	
-Dj	
-Hi	
-<h	
-Lg	
-le	
-4d	
-Pc	
-db	
-ha	
-p_	
-0[	
-(Z	
-pY	
-dX	
+T}	
+hz	
+Ty	
+0w	
+xv	
+dt	
+hs	
+lr	
+hp	
+po	
+hn	
+xm	
+,m	
+Hl	
+Lk	
+4i	
+8h	
+0g	
+Pe	
+lc	
+pb	
+ta	
+$a	
+h_	
+<]	
+p[	
+TY	
+LX	
+HW	
 TV	
-XU	
-xR	
-pQ	
-pP	
-tO	
-tN	
-pM	
-0L	
-HJ	
-LI	
-dG	
-dF	
-dE	
+hU	
+,T	
+<S	
+HR	
+XQ	
+dN	
+xM	
+,M	
+HL	
+TK	
+dI	
+hH	
+$G	
+tF	
+lE	
+hD	
 pC	
+$C	
 0B	
-<A	
-t>	
-L<	
-(:	
-p9	
-X8	
+4A	
+<?	
+H<	
+X:	
+t9	
+(9	
+88	
+H7	
 d5	
-T4	
-h2	
-p0	
-$0	
-D.	
-8-	
-,,	
-0+	
-8)	
-H(	
-X'	
+h4	
+p3	
+p2	
+81	
+00	
+(/	
+x.	
+t-	
+$-	
+$,	
+t+	
+h)	
+x(	
+,(	
+H'	
 d&	
-h%	
-l$	
-0!	
-4 	
-l		
+0%	
+L$	
+h"	
+h!	
+p 	
+D		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -121,6 +129,18 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+No.1 Band?
+Seismic Stage 
+Power of Music
+Calm and Composed
+A Revival Measure
+The Stronghold
+The Ranking
+Former Professional
+The Stage
+New System
+A Challenge 
+A Rival Band
 n:-
 And..
 n:,
@@ -1315,6 +1335,10 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+	8xt
+称号: 逆転のオリジナルアーティスト
+	8wt
+称号: Rainbow Sky
 	8vt
 Col x302000
 }	8ut
@@ -1783,6 +1807,9 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+<G6
+100000コル
+進化結晶
 MORE DEBAN
 :G6
 [Charming Rider] Sinon
@@ -4150,6 +4177,102 @@ OS Bronze Medal x10
 OS Silver Medal x10
 2EO
 OS Gold Medal x16
+Expポーション
+スキル結晶のかけら
+会心結晶のかけら
+防御結晶のかけら
+攻撃結晶のかけら
+MP結晶のかけら
+HP結晶のかけら
+称号: LIVE BATTLE後編の攻略組 Top 100
+Expハイポーション
+スキル結晶のかけら
+会心結晶のかけら
+防御結晶のかけら
+攻撃結晶のかけら
+MP結晶のかけら
+HP結晶のかけら
+メモリー・ダイヤ
+プレミアムライブチケット
+プレミアムライブチケット・Plus
+称号: LIVE BATTLE後編の攻略組 Top 50
+Expハイポーション
+30000コル
+メモリー・ダイヤ
+プレミアムライブチケット
+プレミアムライブチケット・Plus
+プレミアムライブチケット・VIP
+称号: LIVE BATTLE後編の攻略組 Top 20
+Expエクスポーション
+50000コル
+メモリー・ダイヤ
+ロックの進化結晶
+プレミアムライブチケット
+プレミアムライブチケット・Plus
+プレミアムライブチケット・VIP
+称号: LIVE BATTLE後編の攻略組 Top 10
+Expエクスポーション
+100000コル
+メモリー・ダイヤ
+ロックの進化結晶
+プレミアムライブチケット
+プレミアムライブチケット・Plus
+プレミアムライブチケット・VIP
+称号: LIVE BATTLE後編の攻略組 5位
+虹のしずく
+Expエクスポーション
+200000コル
+メモリー・ダイヤ
+ロックの進化結晶
+プレミアムライブチケット
+プレミアムライブチケット・Plus
+プレミアムライブチケット・VIP
+称号: LIVE BATTLE後編の攻略組 4位
+虹のしずく
+Expエクスポーション
+200000コル
+メモリー・ダイヤ
+ロックの進化結晶
+プレミアムライブチケット
+プレミアムライブチケット・Plus
+プレミアムライブチケット・VIP
+称号: LIVE BATTLE後編の攻略組 3位
+虹のしずく
+Expエクスポーション
+200000コル
+メモリー・ダイヤ
+ロックの進化結晶
+プレミアムライブチケット
+プレミアムライブチケット・Plus
+プレミアムライブチケット・VIP
+称号: LIVE BATTLE後編の攻略組 2位
+虹のしずく
+Expエクスポーション
+300000コル
+メモリー・ダイヤ
+ロックの進化結晶
+プレミアムライブチケット
+プレミアムライブチケット・Plus
+プレミアムライブチケット・VIP
+2}N
+称号: LIVE BATTLE後編の攻略組 1位
+2}N
+虹のしずく
+2}N
+Expエクスポーション
+2}N
+500000コル
+2}N
+メモリー・ダイヤ
+2}N
+ロックの進化結晶
+2}N
+プレミアムライブチケット
+100
+2}N
+プレミアムライブチケット・Plus
+2}N
+プレミアムライブチケット・VIP
 EXP Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -8649,6 +8772,17 @@ EXP Hi-Potion x2
 EXP Hi-Potion x1
 EXP Potion x2
 EXP Potion x1
+ガーゴイル・ライフルR2
+オウガメイスR2
+アステリオスR2
+ミーノースタッフR2
+赤珊瑚の短剣R2
+ファイリージャベリンR2
+竜騎士の剛弓R2
+ブラッドレイピアR2
+スターナイトウォークスR2
+パッショネイトゲイルR2
+シャークズ・バイトR2
 Black Apparel R1
 White Robe R1
 Brown Chainmail R1
@@ -11248,6 +11382,93 @@ Diamond Earring R2
 Coat of Midnight R2
 Mithril Sabre R2
 Annealed Rapier R2
+アメジスト・イヤリングR2
+lM/
+ルビー・イヤリングR2
+シトリン・イヤリングR2
+vM/
+サファイア・イヤリングR2
+トパーズ・イヤリングR2
+エメラルド・イヤリングR2
+ダイヤモンド・イヤリングR2
+紫陽花模様の浴衣R2
+スケイル・メイルR2
+熱風のマントR2
+バトル・ファーコートR2
+ゾディアックドレスR2
+チアリーダー・ユニフォームR2
+乙女忍者の衣R2
+宮殿の羽衣R2
+吉祥の緑紋衣R2
+アクアマリン・ローブR2
+ガーゴイル・ライフルR2
+オウガメイスR2
+アステリオスR2
+アメジスト・イヤリングR2
+lM/
+ルビー・イヤリングR2
+シトリン・イヤリングR2
+vM/
+サファイア・イヤリングR2
+トパーズ・イヤリングR2
+エメラルド・イヤリングR2
+ダイヤモンド・イヤリングR2
+紫陽花模様の浴衣R2
+スケイル・メイルR2
+熱風のマントR2
+バトル・ファーコートR2
+ゾディアックドレスR2
+チアリーダー・ユニフォームR2
+乙女忍者の衣R2
+宮殿の羽衣R2
+吉祥の緑紋衣R2
+アクアマリン・ローブR2
+ミーノースタッフR2
+赤珊瑚の短剣R2
+アメジスト・イヤリングR2
+lM/
+ルビー・イヤリングR2
+シトリン・イヤリングR2
+vM/
+サファイア・イヤリングR2
+トパーズ・イヤリングR2
+エメラルド・イヤリングR2
+ダイヤモンド・イヤリングR2
+紫陽花模様の浴衣R2
+スケイル・メイルR2
+熱風のマントR2
+バトル・ファーコートR2
+ゾディアックドレスR2
+チアリーダー・ユニフォームR2
+乙女忍者の衣R2
+宮殿の羽衣R2
+吉祥の緑紋衣R2
+アクアマリン・ローブR2
+ファイリージャベリンR2
+竜騎士の剛弓R2
+ブラッドレイピアR2
+アメジスト・イヤリングR2
+lM/
+ルビー・イヤリングR2
+シトリン・イヤリングR2
+vM/
+サファイア・イヤリングR2
+トパーズ・イヤリングR2
+エメラルド・イヤリングR2
+ダイヤモンド・イヤリングR2
+紫陽花模様の浴衣R2
+スケイル・メイルR2
+熱風のマントR2
+バトル・ファーコートR2
+ゾディアックドレスR2
+チアリーダー・ユニフォームR2
+乙女忍者の衣R2
+宮殿の羽衣R2
+吉祥の緑紋衣R2
+アクアマリン・ローブR2
+スターナイトウォークスR2
+パッショネイトゲイルR2
+シャークズ・バイトR2
 Black Apparel R1
 White Robe R1
 Brown Chainmail R1

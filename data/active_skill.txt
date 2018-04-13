@@ -81,6 +81,10 @@ Put a electromagnetic bullet in the gun and shoot. Increase your attack and auto
 Extended spark+
 Extended Spark+
 skill_icon_gun_3_{}
+After increasing your attack and critical rate, launch a sliding tackle under the enemy and fire a blazing bullet at them.
+Blazing Slider+
+Blazing Slider+
+skill_icon_gun_3_{}
 Increase your attack power and fire a phantasmal gunshot at an enemy.
 Phantom Bullet+2
 Phantom Bullet+2
@@ -269,6 +273,12 @@ skill_icon_dualblade_3_{}
 A sword skill which increases Atk. Thrust two swords into the enemy and absorb their HP.
 Bloody Fang+
 Bloody Fang+
+skill_effect_33102
+skill_effect_33102
+skill_icon_dualblade_3_{}
+A sword skill. Alternate between both hands to score a 15-hit combo with a one-handed sword.
+Skill Connect+2
+Skill Connect+2
 skill_effect_33102
 skill_effect_33102
 skill_icon_dualblade_3_{}
@@ -1068,6 +1078,10 @@ skill_icon_bow_1_{}
 A sword skill for the long bow. Fire a flaming arrow that explodes on impact.
 Explode Arrow
 Explode Arrow
+skill_icon_gun_3_{}
+A combination skill. Instead of a gun, strikes enemies with a bass guitar, keeping the beat. Creates an Attack Up Zone and restores your HP.
+Rumbling Earth Beat
+Rumbling Earth Beat
 skill_icon_gun_3_{}
 A combination skill. After shooting a gun, jump high up to fire a fatal shot. Recover your combination partner's MP.
 The End
@@ -2040,6 +2054,10 @@ A sword skill. Slash the enemy in the back after a colorful combo attack. Restor
 Dreamy Lady
 Dreamy Lady
 skill_icon_finesword_3_{}
+A combination skill. Strikes enemies getting into the rhythm. Creates an Attack Up Zone and restores your HP. 
+Heated Performance
+Heated Performance
+skill_icon_finesword_3_{}
 A combination skill. Inari fox possesses and claws out an enemy's body. Increase all the party members' attack. 
 Eccentric Inari Rupture
 Eccentric Inari Rupture
@@ -2373,6 +2391,10 @@ A basic rapier technique. Perform a fast twisting thrust.
 Linear
 Linear
 skill_icon_dualblade_3_{}
+A combination skill. Strikes enemies by performing rhymes with two sticks. Creates an Attack Up Zone and restores your HP. 
+Thousand Cymbals
+Thousand Cymbals
+skill_icon_dualblade_3_{}
 Deliver a swift slash and attack with a sacred wreath.
 Sacred Wreath
 Sacred Wreath
@@ -2602,6 +2624,10 @@ skill_icon_sword_3_{}
 A combination skill. Enhances your own speed and recovers your Combination Starter's MP with a smash hit augmented reality pop song.
 Cardinal Scale
 Cardinal Scale
+skill_icon_sword_3_{}
+A combination skill. Strikes the ground by a funky strumming to attack enemies. It also creates an Attack UP Zone and restores your HP.
+Heartbeat of the Earth
+Heartbeat of the Earth
 skill_icon_sword_3_{}
 A combination skill. Creates musical notes and blow them up with Pina's breath. It also creates an Attack UP Zone and restores your HP.
 Harmonious Bubbles

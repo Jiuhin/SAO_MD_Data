@@ -652,6 +652,16 @@ images/event/4088/4088_banner.png
 images/event/4088/4088_banner.png
 Awesome Newbie
 Premium Live Scout
+images/event/4087/4087_top.png
+images/event/4087/4087_banner.png
+images/event/4087/4087_banner.png
+[Ended] PSO LIVE BATTLE Part 2
+Premium Live Scout
+images/event/4087/4087_top.png
+images/event/4087/4087_banner.png
+images/event/4087/4087_banner.png
+PSO LIVE BATTLE Part 2
+Premium Live Scout
 images/event/4085/4085_top.png
 images/event/4085/4085_banner.png
 images/event/4085/4085_banner.png

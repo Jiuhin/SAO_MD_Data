@@ -1484,6 +1484,47 @@ Complete "Awesome Newbie (Master)".
 Complete "Awesome Newbie (EX)".
 4088021
 Complete "Awesome Newbie (Int.)".
+408701,30000
+「Pop Star Online LIVE BATTLE!! 後編」で3万スコアを達成
+408701,150000
+「Pop Star Online LIVE BATTLE!! 後編」で15万スコアを達成
+408701,300000
+「Pop Star Online LIVE BATTLE!! 後編」で30万スコアを達成
+408701,750000
+「Pop Star Online LIVE BATTLE!! 後編」で75万スコアを達成
+408701,1200000
+「Pop Star Online LIVE BATTLE!! 後編」で120万スコアを達成
+408701,2500000
+Earn a score of 200,000 in Pop Star Online LIVE BATTLE Part 2
+408701,3000000
+Earn a score of 500,000 in Pop Star Online LIVE BATTLE Part 2
+408701,3500000
+Earn a score of 1,000,000 in Pop Star Online LIVE BATTLE Part 2
+408701,4000000
+Earn a score of 1,500,000 in Pop Star Online LIVE BATTLE Part 2
+408701,4500000
+Earn a score of 2,400,000 in Pop Star Online LIVE BATTLE Part 2
+408701,5000000
+Earn a score of 3,000,000 in Pop Star Online LIVE BATTLE Part 2
+408701,5500000
+Earn a score of 3,600,000 in Pop Star Online LIVE BATTLE Part 2
+408701,6000000
+Earn a score of 4,000,000 in Pop Star Online LIVE BATTLE Part 2
+408701,6500000
+Earn a score of 4,600,000 in Pop Star Online LIVE BATTLE Part 2
+408701,7000000
+Earn a score of 5,500,000 in Pop Star Online LIVE BATTLE Part 2
+4087025,1,100
+Complete "Soul of Rock (Master +2)" with a 100+ hit combo.
+4087025,1
+Complete "Soul of Rock (Master +2)" in under 1 min.
+4087025
+Complete "Soul of Rock (Master +1)"
+4087024
+Complete "Soul of Rock (Master)" 
+/}<
+4087021
+Complete "Soul of Rock (Int.)"
 408501,430000
 Earn a score of 430,000 in Pop Star Online LIVE BATTLE Part 1
 408501,610000

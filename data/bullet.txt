@@ -52,7 +52,6 @@ dead
 bullet_910001_single_dummy
 dead
 bullet_910001_single_dummy
-C6B
 wait
 bullet_910002_single_dummy_2
 dead
@@ -1698,6 +1697,7 @@ JzP
 JzP
 JzP
 JzP
+ALU
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -1712,7 +1712,6 @@ JzP
 JzP
 JzP
 JzP
-A$d
 JzP
 ground
 bullet_5045_scattering_mochi
@@ -4438,7 +4437,15 @@ bullet_1113_1
 bullet_1113_karuta
 wait
 bullet_1111_automatic_gun
+wait
 bullet_1111_automatic_gun
+wait
+bullet_1111_automatic_gun
+wait
+bullet_1111_automatic_gun
+wait
+bullet_1111_automatic_gun
+wait
 bullet_1111_automatic_gun
 wait
 bullet_1111_automatic_gun

@@ -6512,6 +6512,106 @@ Story
 bg_thumbnail_0
 Story 1
 Strange Favor
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 5
+Soul of Rock (Master +1)
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 4
+Soul of Rock (Master)
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 3
+Soul of Rock (EX)
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 2
+Soul of Rock (Expert)
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 1
+Soul of Rock (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+No.1 Band?
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Seismic Stage 
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Power of Music
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Calm and Composed
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+A Revival Measure
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+The Stronghold
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+The Ranking
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Former Professional
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+The Stage
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+New System
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+A Challenge 
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+A Rival Band
 Heavy Metal Satan appears in the PSO world
 Use a slash/strike weapon 
 when it puts up a barrier by
@@ -21040,6 +21140,106 @@ Story
 bg_thumbnail_0
 Story 1
 Strange Favor
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 5
+Soul of Rock (Master +1)
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 4
+Soul of Rock (Master)
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 3
+Soul of Rock (EX)
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 2
+Soul of Rock (Expert)
+Soul of Rock is a fearsome stage presence.
+Dodge his electric attacks during his guitar solo
+and parry incoming CDs!
+Defeat All Enemies
+Quest
+bg_thumbnail_8051
+Quest 1
+Soul of Rock (Int.)
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+No.1 Band?
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Seismic Stage 
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Power of Music
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Calm and Composed
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+A Revival Measure
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+The Stronghold
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+The Ranking
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Former Professional
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+The Stage
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+New System
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+A Challenge 
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+A Rival Band
 Heavy Metal Satan appears in the PSO world
 Use a slash/strike weapon 
 when it puts up a barrier by

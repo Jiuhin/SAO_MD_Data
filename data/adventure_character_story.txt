@@ -483,6 +483,16 @@ Character Story
 Character Story
 [Cool-Headed Sniper] Sinon Lv.10
 Character Story
+[Perfect Play] Sinon Lv.80
+Character Story
+[Perfect Play] Sinon Lv.70
+Character Story
+[Perfect Play] Sinon Lv.50
+Character Story
+[Perfect Play] Sinon Lv.30
+Character Story
+[Perfect Play] Sinon Lv.10
+Character Story
 [Sniper in Love] Sinon  Lv.80
 Character Story
 [Sniper in Love] Sinon  Lv.70
@@ -1113,6 +1123,16 @@ Character Story
 Character Story
 [Dragon Tamer] Silica Lv.10
 Character Story
+[Sweet Vocals] Seven Lv.80
+Character Story
+[Sweet Vocals] Seven Lv.70
+Character Story
+[Sweet Vocals] Seven Lv.50
+Character Story
+[Sweet Vocals] Seven Lv.30
+Character Story
+[Sweet Vocals] Seven Lv.10
+Character Story
 [Foxy Beauty] Asuna Lv.80
 Character Story
 [Foxy Beauty] Asuna Lv.70
@@ -1423,6 +1443,16 @@ Character Story
 Character Story
 [Lightning Flash] Asuna Lv.10
 Character Story
+[Cool Drum Beats] Rain Lv.80
+Character Story
+[Cool Drum Beats] Rain Lv.70
+Character Story
+[Cool Drum Beats] Rain Lv.50
+Character Story
+[Cool Drum Beats] Rain Lv.30
+Character Story
+[Cool Drum Beats] Rain Lv.10
+Character Story
 [Personal Santa] Rain Lv.80
 Character Story
 [Personal Santa] Rain Lv.70
@@ -1542,6 +1572,16 @@ Character Story
 [Black Swordsman] Kirito Lv.30
 Character Story
 [Black Swordsman] Kirito Lv.10
+Character Story
+[Passionate Strumming] Leafa Lv.80
+Character Story
+[Passionate Strumming] Leafa Lv.70
+Character Story
+[Passionate Strumming] Leafa Lv.50
+Character Story
+[Passionate Strumming] Leafa Lv.30
+Character Story
+[Passionate Strumming] Leafa Lv.10
 Character Story
 [Angel Tone] Silica Lv.80
 Character Story

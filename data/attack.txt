@@ -779,6 +779,8 @@ djF
 >e3
 QCG
 L>e3
+Q8>
+Q8>
 >e3
 L>e3
 L>e3
@@ -914,6 +916,8 @@ Ga>e3
 Ga>
 Ga>
 >d3
+Ga>
+Ga>
 djF
 djF
 >d3
@@ -1658,6 +1662,7 @@ Y(G
 f&G
 e&G
 ]>F
+<f3
 <f3
 <f3
 <f3
