@@ -316,6 +316,22 @@ Bring them down NOW!
 images/battle/cutin/battle_cutin_65002.png
 Way to go! 
 Buy more time!
+<x>
+:x>
+9x>
+8x>
+7x>
+6x>
+5x>
+4x>
+3x>
+2x>
+1x>
+Ix>
+Hx>
+Gx>
+Fx>
+Ex>
 ep>
 dp>
 cp>

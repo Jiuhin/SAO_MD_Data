@@ -1,83 +1,82 @@
-T}	
-hz	
-Ty	
-0w	
-xv	
-dt	
+D}	
+pz	
+$z	
+hx	
+Tw	
+0u	
+xt	
 hs	
 lr	
-hp	
-po	
-hn	
-xm	
-,m	
-Hl	
-Lk	
-4i	
-8h	
-0g	
-Pe	
-lc	
-pb	
+pq	
+pp	
+do	
+tn	
+pm	
+tl	
+$l	
+<k	
+Xj	
+Pi	
+<g	
+<e	
+Ld	
+db	
 ta	
-$a	
-h_	
-<]	
-p[	
-TY	
-LX	
-HW	
-TV	
-hU	
-,T	
-<S	
-HR	
-XQ	
+0_	
+x]	
+,]	
+<[	
+(Z	
+pY	
+XW	
+PV	
+PU	
+dT	
+xS	
+(S	
+<R	
+DQ	
+TP	
 dN	
-xM	
-,M	
-HL	
-TK	
-dI	
-hH	
-$G	
-tF	
-lE	
-hD	
+hM	
+lL	
+<K	
+TJ	
+dH	
+lG	
+pF	
+$F	
+(E	
+xD	
 pC	
-$C	
-0B	
+lB	
 4A	
-<?	
 H<	
-X:	
-t9	
-(9	
-88	
-H7	
-d5	
+T:	
+h8	
+47	
+D6	
+T5	
 h4	
-p3	
+l3	
 p2	
-81	
-00	
-(/	
-x.	
-t-	
-$-	
-$,	
-t+	
-h)	
-x(	
-,(	
-H'	
-d&	
-0%	
-L$	
-h"	
-h!	
-p 	
-D		
+t1	
+,0	
+</	
+4.	
+,-	
+,+	
+x)	
+p(	
+t'	
+$'	
+<&	
+X%	
+t$	
+$$	
+p!	
+l 	
+l		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -1335,10 +1334,12 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+	8yt
+Memory Fragment x1
 	8xt
-称号: 逆転のオリジナルアーティスト
+The Original Artist
 	8wt
-称号: Rainbow Sky
+Rainbow Sky
 	8vt
 Col x302000
 }	8ut
@@ -1808,8 +1809,8 @@ Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
 <G6
-100000コル
-進化結晶
+Col x100000
+Upgrade Crystal x1
 MORE DEBAN
 :G6
 [Charming Rider] Sinon
@@ -1842,6 +1843,30 @@ U)G6
 [Constant Love] Asuna
 'G6
 Memory Diamond x100
+Rainbow Sky C.R. Crystal x5
+Rainbow Sky C.R. Crystal x4
+Rainbow Sky C.R. Crystal x3
+Rainbow Sky C.R. Crystal x2
+Rainbow Sky C.R. Crystal x1
+5.a
+Rainbow Sky C.R. Crystal x10
+5-a
+Rainbow Sky C.R. Crystal x9
+5,a
+Rainbow Sky C.R. Crystal x8
+5+a
+Rainbow Sky C.R. Crystal x7
+Rainbow Sky C.R. Crystal x6
+5)a
+Rainbow Sky C.R. Crystal x5
+5(a
+Rainbow Sky C.R. Crystal x4
+5'a
+Rainbow Sky C.R. Crystal x3
+5&a
+Rainbow Sky C.R. Crystal x2
+5%a
+Rainbow Sky C.R. Crystal x1
 Fairy Magic C.R. Crystal x5
 Fairy Magic C.R. Crystal x4
 Fairy Magic C.R. Crystal x3
@@ -4177,102 +4202,107 @@ OS Bronze Medal x10
 OS Silver Medal x10
 2EO
 OS Gold Medal x16
-Expポーション
-スキル結晶のかけら
-会心結晶のかけら
-防御結晶のかけら
-攻撃結晶のかけら
-MP結晶のかけら
-HP結晶のかけら
-称号: LIVE BATTLE後編の攻略組 Top 100
-Expハイポーション
-スキル結晶のかけら
-会心結晶のかけら
-防御結晶のかけら
-攻撃結晶のかけら
-MP結晶のかけら
-HP結晶のかけら
-メモリー・ダイヤ
-プレミアムライブチケット
-プレミアムライブチケット・Plus
-称号: LIVE BATTLE後編の攻略組 Top 50
-Expハイポーション
-30000コル
-メモリー・ダイヤ
-プレミアムライブチケット
-プレミアムライブチケット・Plus
-プレミアムライブチケット・VIP
-称号: LIVE BATTLE後編の攻略組 Top 20
-Expエクスポーション
-50000コル
-メモリー・ダイヤ
-ロックの進化結晶
-プレミアムライブチケット
-プレミアムライブチケット・Plus
-プレミアムライブチケット・VIP
-称号: LIVE BATTLE後編の攻略組 Top 10
-Expエクスポーション
-100000コル
-メモリー・ダイヤ
-ロックの進化結晶
-プレミアムライブチケット
-プレミアムライブチケット・Plus
-プレミアムライブチケット・VIP
-称号: LIVE BATTLE後編の攻略組 5位
-虹のしずく
-Expエクスポーション
-200000コル
-メモリー・ダイヤ
-ロックの進化結晶
-プレミアムライブチケット
-プレミアムライブチケット・Plus
-プレミアムライブチケット・VIP
-称号: LIVE BATTLE後編の攻略組 4位
-虹のしずく
-Expエクスポーション
-200000コル
-メモリー・ダイヤ
-ロックの進化結晶
-プレミアムライブチケット
-プレミアムライブチケット・Plus
-プレミアムライブチケット・VIP
-称号: LIVE BATTLE後編の攻略組 3位
-虹のしずく
-Expエクスポーション
-200000コル
-メモリー・ダイヤ
-ロックの進化結晶
-プレミアムライブチケット
-プレミアムライブチケット・Plus
-プレミアムライブチケット・VIP
-称号: LIVE BATTLE後編の攻略組 2位
-虹のしずく
-Expエクスポーション
-300000コル
-メモリー・ダイヤ
-ロックの進化結晶
-プレミアムライブチケット
-プレミアムライブチケット・Plus
-プレミアムライブチケット・VIP
+EXP Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Assault Team: LIVE BATTLE Part2 Top 100
+EXP Hi-Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Memory Diamond x5
+Premium Live Ticket x10
+Premium Live Ticket Plus x5
+Assault Team: LIVE BATTLE Part2 Top 50
+EXP Hi-Potion x5
+Col x30000
+Memory Diamond x5
+Premium Live Ticket x50
+Premium Live Ticket Plus x5
+Premium Live Ticket VIP x2
+Assault Team: LIVE BATTLE Part2 Top 20
+EXP X-Potion x5
+Col x50000
+Memory Diamond x5
+Rock Band Upgrade Crystal x1
+Premium Live Ticket x50
+Premium Live Ticket Plus x10
+Premium Live Ticket VIP x4
+Assault Team: LIVE BATTLE Part2 Top 10
+EXP X-Potion x5
+Col x100000
+Memory Diamond x5
+Rock Band Upgrade Crystal x2
+Premium Live Ticket x50
+Premium Live Ticket Plus x15
+Premium Live Ticket VIP x6
+Assault Team: LIVE BATTLE Part2 5th
+Stardust (Medium) x200
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Rock Band Upgrade Crystal x3
+Premium Live Ticket x60
+Premium Live Ticket Plus x20
+Premium Live Ticket VIP x8
+Assault Team: LIVE BATTLE Part2 4th
+Stardust (Medium) x400
+Rainbow Essence x2
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Rock Band Upgrade Crystal x3
+Premium Live Ticket x70
+Premium Live Ticket Plus x25
+Premium Live Ticket VIP x9
+Assault Team: LIVE BATTLE Part2 3rd
+Stardust (Medium) x600
+Rainbow Essence x3
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Rock Band Upgrade Crystal x4
+Premium Live Ticket x80
+Premium Live Ticket Plus x30
+Premium Live Ticket VIP x11
+Assault Team: LIVE BATTLE Part2 2nd
+Stardust (Medium) x800
+Rainbow Essence x4
+EXP X-Potion x5
+Col x300000
+Memory Diamond x5
+Rock Band Upgrade Crystal x4
+Premium Live Ticket x90
+Premium Live Ticket Plus x40
+Premium Live Ticket VIP x13
 2}N
-称号: LIVE BATTLE後編の攻略組 1位
+Assault Team: LIVE BATTLE Part2 1st
 2}N
-虹のしずく
+Stardust (Medium) x1000
 2}N
-Expエクスポーション
+Rainbow Essence x5
 2}N
-500000コル
+EXP X-Potion x5
 2}N
-メモリー・ダイヤ
+Col x500000
 2}N
-ロックの進化結晶
+Memory Diamond x5
 2}N
-プレミアムライブチケット
-100
+Rock Band Upgrade Crystal x4
 2}N
-プレミアムライブチケット・Plus
+Premium Live Ticket x100
 2}N
-プレミアムライブチケット・VIP
+Premium Live Ticket Plus x50
+2}N
+Premium Live Ticket VIP x16
 EXP Potion x5
 Skill Shard x20
 Critical Shard x20
@@ -8772,17 +8802,17 @@ EXP Hi-Potion x2
 EXP Hi-Potion x1
 EXP Potion x2
 EXP Potion x1
-ガーゴイル・ライフルR2
-オウガメイスR2
-アステリオスR2
-ミーノースタッフR2
-赤珊瑚の短剣R2
-ファイリージャベリンR2
-竜騎士の剛弓R2
-ブラッドレイピアR2
-スターナイトウォークスR2
-パッショネイトゲイルR2
-シャークズ・バイトR2
+Gargoyle Rifle R2
+Ogre Mace R2
+Asterius R2
+Minos Staff R2
+Red Coral Dirk R2
+Fiery Javelin R2
+Dragon Knight Bow R2
+Bloody Rapier R2
+Starry Night R2
+Passionate Gale R2
+Shark's Bite R2
 Black Apparel R1
 White Robe R1
 Brown Chainmail R1
@@ -11382,93 +11412,93 @@ Diamond Earring R2
 Coat of Midnight R2
 Mithril Sabre R2
 Annealed Rapier R2
-アメジスト・イヤリングR2
+Amethyst Earring R2
 lM/
-ルビー・イヤリングR2
-シトリン・イヤリングR2
+Ruby Earring R2
+Citrine Earring R2
 vM/
-サファイア・イヤリングR2
-トパーズ・イヤリングR2
-エメラルド・イヤリングR2
-ダイヤモンド・イヤリングR2
-紫陽花模様の浴衣R2
-スケイル・メイルR2
-熱風のマントR2
-バトル・ファーコートR2
-ゾディアックドレスR2
-チアリーダー・ユニフォームR2
-乙女忍者の衣R2
-宮殿の羽衣R2
-吉祥の緑紋衣R2
-アクアマリン・ローブR2
-ガーゴイル・ライフルR2
-オウガメイスR2
-アステリオスR2
-アメジスト・イヤリングR2
+Sapphire Earring R2
+Topaz Earring R2
+Emerald Earring R2
+Diamond Earring R2
+Hydrangea Yukata R2
+Scale Chainmail R2
+Fiery wind Cape R2
+Battle Fur Coat R2
+Zodiac Dress R2
+Cheerleader Uniform R2
+Kunoichi Garb R2
+Imperial Raiment R2
+Lucky Green Coat R2
+Aquamarine Robe R2
+Gargoyle Rifle R2
+Ogre Mace R2
+Asterius R2
+Amethyst Earring R2
 lM/
-ルビー・イヤリングR2
-シトリン・イヤリングR2
+Ruby Earring R2
+Citrine Earring R2
 vM/
-サファイア・イヤリングR2
-トパーズ・イヤリングR2
-エメラルド・イヤリングR2
-ダイヤモンド・イヤリングR2
-紫陽花模様の浴衣R2
-スケイル・メイルR2
-熱風のマントR2
-バトル・ファーコートR2
-ゾディアックドレスR2
-チアリーダー・ユニフォームR2
-乙女忍者の衣R2
-宮殿の羽衣R2
-吉祥の緑紋衣R2
-アクアマリン・ローブR2
-ミーノースタッフR2
-赤珊瑚の短剣R2
-アメジスト・イヤリングR2
+Sapphire Earring R2
+Topaz Earring R2
+Emerald Earring R2
+Diamond Earring R2
+Hydrangea Yukata R2
+Scale Chainmail R2
+Fiery wind Cape R2
+Battle Fur Coat R2
+Zodiac Dress R2
+Cheerleader Uniform R2
+Kunoichi Garb R2
+Imperial Raiment R2
+Lucky Green Coat R2
+Aquamarine Robe R2
+Minos Staff R2
+Red Coral Dirk R2
+Amethyst Earring R2
 lM/
-ルビー・イヤリングR2
-シトリン・イヤリングR2
+Ruby Earring R2
+Citrine Earring R2
 vM/
-サファイア・イヤリングR2
-トパーズ・イヤリングR2
-エメラルド・イヤリングR2
-ダイヤモンド・イヤリングR2
-紫陽花模様の浴衣R2
-スケイル・メイルR2
-熱風のマントR2
-バトル・ファーコートR2
-ゾディアックドレスR2
-チアリーダー・ユニフォームR2
-乙女忍者の衣R2
-宮殿の羽衣R2
-吉祥の緑紋衣R2
-アクアマリン・ローブR2
-ファイリージャベリンR2
-竜騎士の剛弓R2
-ブラッドレイピアR2
-アメジスト・イヤリングR2
+Sapphire Earring R2
+Topaz Earring R2
+Emerald Earring R2
+Diamond Earring R2
+Hydrangea Yukata R2
+Scale Chainmail R2
+Fiery wind Cape R2
+Battle Fur Coat R2
+Zodiac Dress R2
+Cheerleader Uniform R2
+Kunoichi Garb R2
+Imperial Raiment R2
+Lucky Green Coat R2
+Aquamarine Robe R2
+Fiery Javelin R2
+Dragon Knight Bow R2
+Bloody Rapier R2
+Amethyst Earring R2
 lM/
-ルビー・イヤリングR2
-シトリン・イヤリングR2
+Ruby Earring R2
+Citrine Earring R2
 vM/
-サファイア・イヤリングR2
-トパーズ・イヤリングR2
-エメラルド・イヤリングR2
-ダイヤモンド・イヤリングR2
-紫陽花模様の浴衣R2
-スケイル・メイルR2
-熱風のマントR2
-バトル・ファーコートR2
-ゾディアックドレスR2
-チアリーダー・ユニフォームR2
-乙女忍者の衣R2
-宮殿の羽衣R2
-吉祥の緑紋衣R2
-アクアマリン・ローブR2
-スターナイトウォークスR2
-パッショネイトゲイルR2
-シャークズ・バイトR2
+Sapphire Earring R2
+Topaz Earring R2
+Emerald Earring R2
+Diamond Earring R2
+Hydrangea Yukata R2
+Scale Chainmail R2
+Fiery wind Cape R2
+Battle Fur Coat R2
+Zodiac Dress R2
+Cheerleader Uniform R2
+Kunoichi Garb R2
+Imperial Raiment R2
+Lucky Green Coat R2
+Aquamarine Robe R2
+Starry Night R2
+Passionate Gale R2
+Shark's Bite R2
 Black Apparel R1
 White Robe R1
 Brown Chainmail R1

@@ -2034,6 +2034,12 @@ TBD
 Short Bow R1
 weapon07_0001
 TBD
+Heavy Tone R5
+weapon06_0032
+TBD
+Heavy Tone R4
+weapon06_0032
+TBD
 Magnificent Hecate R5
 weapon06_0030
 TBD
@@ -2840,6 +2846,12 @@ TBD
 Gemini Gradius+2 R4
 weapon03_0066
 TBD
+Music of the Heart R5
+weapon03_0065
+TBD
+Music of the Heart R4
+weapon03_0065
+TBD
 Huli jing Rapier R5
 weapon03_0064
 TBD
@@ -3187,6 +3199,12 @@ TBD
 Dual Schneesturm R4
 weapon02_0100
 TBD
+Twin Beats R5
+weapon02_0030
+TBD
+Twin Beats R4
+weapon02_0030
+TBD
 Dual Melodious Twins+1 R5
 weapon02_0029
 TBD
@@ -3384,6 +3402,12 @@ weapon01_0122
 TBD
 Phantom Rosario R4
 weapon01_0121
+TBD
+Harmonic Sword R5
+weapon01_0120
+TBD
+Harmonic Sword R4
+weapon01_0120
 TBD
 Melodic Sword R5
 weapon01_0119

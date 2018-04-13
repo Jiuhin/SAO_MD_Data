@@ -2518,8 +2518,8 @@ light.png
 belt1.png
 rubble.png
 wall.png
-Soundproof .png
-Soundproof .png
+Soundproof.png
+Soundproof.png
 bill1.png
 Dfff?fff?
 bill2.png
@@ -2537,8 +2537,8 @@ light.png
 belt1.png
 rubble.png
 wall.png
-Soundproof .png
-Soundproof .png
+Soundproof.png
+Soundproof.png
 bill1.png
 Dfff?fff?
 bill2.png
@@ -2558,7 +2558,7 @@ light.png
 belt1.png
 rubble.png
 wall.png
-Soundproof .png
+Soundproof.png
 bill1.png
 Dfff?fff?
 bill2.png
@@ -2577,21 +2577,21 @@ Cff
 forefront.png
 front.png
 belt1.png
-Floating floor1.png
+Floatingfloor1.png
 Qx?
 Qx?
-Floating floor2.png
+Floatingfloor2.png
 Qx?
 Qx?
-Floating floor3.png
+Floatingfloor3.png
 Qx?
 Qx?
-Floating floor4.png
-Floating floor5.png
-Floating floor6.png
+Floatingfloor4.png
+Floatingfloor5.png
+Floatingfloor6.png
 0nE
-Floating floor7.png
-Floating floor8.png
+Floatingfloor7.png
+Floatingfloor8.png
 D33s?33s?
 objet.png
 nDfff?fff?
@@ -2612,21 +2612,21 @@ Cff
 forefront.png
 front.png
 belt1.png
-Floating floor1.png
+Floatingfloor1.png
 Qx?
 Qx?
-Floating floor2.png
+Floatingfloor2.png
 Qx?
 Qx?
-Floating floor3.png
+Floatingfloor3.png
 Qx?
 Qx?
-Floating floor4.png
-Floating floor5.png
-Floating floor6.png
+Floatingfloor4.png
+Floatingfloor5.png
+Floatingfloor6.png
 0nE
-Floating floor7.png
-Floating floor8.png
+Floatingfloor7.png
+Floatingfloor8.png
 D33s?33s?
 objet.png
 nDfff?fff?
@@ -2651,21 +2651,21 @@ Cff
 forefront.png
 front.png
 belt1.png
-Floating floor1.png
+Floatingfloor1.png
 Qx?
 Qx?
-Floating floor2.png
+Floatingfloor2.png
 0QE
 Qx?
 Qx?
-Floating floor3.png
+Floatingfloor3.png
 Qx?
 Qx?
-Floating floor4.png
-Floating floor5.png
-Floating floor6.png
-Floating floor7.png
-Floating floor8.png
+Floatingfloor4.png
+Floatingfloor5.png
+Floatingfloor6.png
+Floatingfloor7.png
+Floatingfloor8.png
 D33s?33s?
 objet.png
 nDfff?fff?

@@ -733,6 +733,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
+You can obtain in Rainbow Sky Scout
+Rainbow Sky C.R. Crystal
+item_m_record_crystal_blue
 You can obtain in Fairy Magic Scout
 Fairy Magic C.R. Crystal
 item_m_record_crystal_blue

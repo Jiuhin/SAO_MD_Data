@@ -114,6 +114,16 @@ Untouchable Gunman
 Defeat All Enemies
 Quest
 bg_thumbnail_8012
+Quest 3
+Episode 2 Digest
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 2
+Episode 1 Digest
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
 Quest 1
 Episode 1 Trailer
 Happy Valentine's Day! 
@@ -6515,7 +6525,7 @@ Strange Favor
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 5
@@ -6523,7 +6533,7 @@ Soul of Rock (Master +1)
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 4
@@ -6531,7 +6541,7 @@ Soul of Rock (Master)
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 3
@@ -6539,7 +6549,7 @@ Soul of Rock (EX)
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 2
@@ -6547,7 +6557,7 @@ Soul of Rock (Expert)
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 1
@@ -14742,6 +14752,16 @@ Untouchable Gunman
 Defeat All Enemies
 Quest
 bg_thumbnail_8012
+Quest 3
+Episode 2 Digest
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 2
+Episode 1 Digest
+Defeat All Enemies
+Quest
+bg_thumbnail_8012
 Quest 1
 Episode 1 Trailer
 Happy Valentine's Day! 
@@ -21143,7 +21163,7 @@ Strange Favor
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 5
@@ -21151,7 +21171,7 @@ Soul of Rock (Master +1)
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 4
@@ -21159,7 +21179,7 @@ Soul of Rock (Master)
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 3
@@ -21167,7 +21187,7 @@ Soul of Rock (EX)
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 2
@@ -21175,7 +21195,7 @@ Soul of Rock (Expert)
 Soul of Rock is a fearsome stage presence.
 Dodge his electric attacks during his guitar solo
 and parry incoming CDs!
-Defeat All Enemies
+Survive until the end of time
 Quest
 bg_thumbnail_8051
 Quest 1

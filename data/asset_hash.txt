@@ -1,7 +1,5 @@
 8b03192d7c5efa57ada26103e266ac3a
 ss/unit/chara_9_mace_m/weapon_titans_1.png
-a8ab2d5b2793a0039d95756c5a37ef67
-ss/unit/chara_9_mace_m/weapon_laughcoff_1.png
 9a57a04f37e3a4bc1512fef4947377a0
 ss/unit/chara_9_mace_m/weapon_effect_mace_7.png
 98882f88ca4610090314c2aac070b607
@@ -3892,6 +3890,10 @@ images/event/4088/event_item_4088.png
 images/event/4088/4088_top.png
 dc707a24d59a560b164e40b126752302
 images/event/4088/4088_banner.png
+2adbab4154f5b7497053e95d7e1d8df0
+images/event/4087/4087_top.png
+dbe533d50ff960e8fc91d754fdda1254
+images/event/4087/4087_banner.png
 a537ae8b0788cab70aba02689941e131
 images/event/4085/4085_top.png
 8690775bebcaaa3242a793105e4aea91

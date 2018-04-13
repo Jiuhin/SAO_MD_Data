@@ -24,6 +24,8 @@ Skill Damage Rate -500 (Equipped One)
 Skill Damage Rate -500 (Equipped One)
 Zero damage received when enemy attacked.
 No damage received
+Attack of party members (Earth-elem.) increases by 10% when you are a leader.
+P-Members' (Earth-elem.) Atk +10% (P-Leader)
 Attack for 30-hit+ combos of all party members increases by 10% when you are a leader. 
 30+ Combo: P-Members' Attack +10% (P-Leader)
 Attack of party members (OS characters) increases by 10% when you are a leader.

@@ -41,15 +41,23 @@ Mon. Defense
 images/event/9022/9022_top.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
-次回アニメ予告クエスト
+Anime Trailer Quest
 images/event/9021/9021_top.png
 images/event/9021/9021_banner.png
 images/event/9021/9021_banner.png
-----------
+Untouchable Gunman
 images/event/9020/9020_top.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
-----------
+SAO A GGO Digest
+images/event/9020/9020_top.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+SAO A GGO Digest
+images/event/9020/9020_top.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+SAO A GGO Digest
 images/event/9019/9019_top.png
 images/event/9019/9019_banner.png
 images/event/9019/9019_banner.png
