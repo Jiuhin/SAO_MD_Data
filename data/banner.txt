@@ -1,6 +1,8 @@
+images/event/4904/4904_banner.png
 images/event/4903/4903_banner.png
 images/event/4902/4902_banner.png
 images/event/4901/4901_banner.png
+images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
 UH,
 images/event/9021/9021_banner.png
@@ -28,6 +30,7 @@ mD,
 images/event/9011/9011_banner.png
 	D,
 images/event/9010/9010_banner.png
+images/event/9009/9009_banner.png
 images/event/9009/9009_3_banner.png
 AC,
 images/event/9008/9008_banner.png
@@ -152,6 +155,7 @@ q4)
 images/event/7004/7004_banner.png
 images/event/7003/7003_banner.png
 images/event/7002/7002_banner.png
+images/event/4904/4904_banner.png
 images/event/4903/4903_banner.png
 images/event/4902/4902_banner.png
 images/event/4901/4901_banner.png
@@ -247,6 +251,7 @@ images/event/4012/4012_banner.png
 images/event/4011/4011_banner.png
 images/event/4010/4010_banner.png
 images/event/4009/4009_banner.png
+images/lottery/608/26081_scout_banner.png
 images/lottery/607/26071_scout_banner.png
 images/lottery/606/26061_scout_banner.png
 images/lottery/604/26041_scout_banner.png

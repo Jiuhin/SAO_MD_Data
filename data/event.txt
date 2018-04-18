@@ -42,6 +42,10 @@ images/event/9022/9022_top.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
 Anime Trailer Quest
+images/event/9022/9022_top.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+Anime Trailer Quest
 images/event/9021/9021_top.png
 images/event/9021/9021_banner.png
 images/event/9021/9021_banner.png
@@ -122,6 +126,10 @@ images/event/9010/9010_top.png
 images/event/9010/9010_banner.png
 images/event/9010/9010_banner.png
 Liz's Birthday Quest!
+images/event/9009/9009_top.png
+images/event/9009/9009_banner.png
+images/event/9009/9009_banner.png
+リーファ生誕祭クエスト2018
 images/event/9009/9009_top.png
 images/event/9009/9009_banner.png
 images/event/9009/9009_banner.png
@@ -510,6 +518,14 @@ images/event/7001/7001_top.png
 images/event/7001/7001_banner.png
 images/event/7001/7001_banner.png
 [Black Swordsman] Kirito
+images/event/4904/4904_top.png
+images/event/4904/4904_banner.png
+images/event/4904/4904_banner.png
+[Ended] Gunners in the Battlefield
+images/event/4904/4904_top.png
+images/event/4904/4904_banner.png
+images/event/4904/4904_banner.png
+Gunners in the Battlefield
 images/event/4903/4903_top.png
 images/event/4903/4903_banner.png
 images/event/4903/4903_banner.png

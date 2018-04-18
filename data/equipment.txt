@@ -698,6 +698,15 @@ TBD
 Twinkle Pop Dress R2
 armor03_0118
 TBD
+Assault Diver R5
+armor03_0116
+TBD
+Assault Diver R4
+armor03_0116
+TBD
+Assault Diver R3
+armor03_0116
+TBD
 Shiny Marching Band Uniform R4
 armor03_0114
 TBD

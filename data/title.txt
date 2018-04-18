@@ -48,6 +48,21 @@ Complete "Trick or Treat (Master)"
 Trick or Treat
 Complete "Starburst Stream (EX)"
 Starburst Stream
+,Am
+Participate in the 4th Guild Ranking "Gunners in the Battlefield"
+Gunners in the Battlefield Participated Guild
++Am
+Rank High on the 4th Guild Ranking "Gunners in the Battlefield"
+Gunners in the Battlefield Assault Team
++Am
+Rank 3rd on the 4th Guild Ranking "Gunners in the Battlefield"
+Gunners in the Battlefield No.3 Guild
++Am
+Rank 2nd on the 4th Guild Ranking "Gunners in the Battlefield"
+Gunners in the Battlefield No.2 Guild
++Am
+Rank 1st on the 4th Guild Ranking "Gunners in the Battlefield"
+Gunners in the Battlefield No.1 Guild
 Participate in the 3rd Guild Ranking "Dragons' Den"
 Dragons' Den Participated Guild
 )Am
@@ -107,11 +122,11 @@ Supreme ruler of the Castle of Mirage
 Complete  "60th floor the Twilight Castle in Akasha"
 Challenger of the Twilight Castle in Akasha
 Complete  "100th floor of the Twilight Castle in Akasha"
-Supreme ruler of the Twilight Castle in Akasha
+Supreme Ruler of the Twilight Castle in Akasha
 Complete  "60th floor the Shadowy Castle"
 Challenger of the Shadowy Castle
 Complete  "100th floor of the Shadowy Castle"
-Supreme ruler of the Shadowy Castle
+Supreme Ruler of the Shadowy Castle
 Rank Top 40 on "The 2nd Bullet of Bullets"
 BoB2 High Player
 Rank Top 80 on "The 2nd Bullet of Bullets"

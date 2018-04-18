@@ -13,6 +13,9 @@ Holy Resistance Lv2
 slot_skill_icon_def_light_1
 Reduces damage from Holy-elem. enemies by 15%
 Holy Resistance Lv1
+slot_skill_icon_kill_enemy_recover
+Gain 600 HP & 5 MP on enemy kill.
+HP & MP Recovery on Enemy Kill  Lv. 1
 slot_skill_icon_reseve_healing_mp
 Restores 10 MP every 10 seconds during standby.
 Emergency Heal (MP) Lv.1
@@ -1130,6 +1133,9 @@ Enhances Sword Skill 3. All party members can raise their crit. rate temporarily
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances SS3. Creates a tornado on both sides of you.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Decrease enemies' defense greatly.

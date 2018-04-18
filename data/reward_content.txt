@@ -1,81 +1,74 @@
-D}	
-pz	
-$z	
-hx	
-Tw	
-0u	
-xt	
-hs	
-lr	
-pq	
-pp	
-do	
-tn	
-pm	
-tl	
-$l	
-<k	
-Xj	
-Pi	
-<g	
-<e	
-Ld	
-db	
-ta	
-0_	
-x]	
-,]	
-<[	
-(Z	
-pY	
-XW	
-PV	
-PU	
-dT	
+P}	
+l{	
+,z	
+<y	
+Tx	
+,v	
+tu	
+dt	
+Ps	
+8r	
+<q	
+Do	
+4n	
+Hl	
+Pj	
+li	
+$h	
+tg	
+de	
+dd	
+hc	
+xb	
+(b	
+8a	
+H_	
+hZ	
+HX	
+4W	
+,V	
+$U	
+tT	
 xS	
-(S	
-<R	
-DQ	
-TP	
-dN	
-hM	
-lL	
+,S	
+TQ	
+hP	
+pO	
+0N	
+4M	
+8L	
 <K	
-TJ	
-dH	
-lG	
-pF	
-$F	
-(E	
-xD	
-pC	
-lB	
-4A	
-H<	
-T:	
-h8	
-47	
-D6	
-T5	
-h4	
-l3	
-p2	
-t1	
-,0	
-</	
-4.	
-,-	
-,+	
-x)	
-p(	
-t'	
-$'	
-<&	
-X%	
-t$	
-$$	
+PJ	
+lI	
+,H	
+4G	
+<F	
+TD	
+LC	
+DB	
+h<	
+p:	
+t9	
+x8	
+(8	
+07	
+L6	
+p4	
+83	
+<2	
+H0	
+H/	
+X,	
+P+	
+T)	
+L(	
+D'	
+P%	
+l$	
+T"	
 p!	
-l 	
+$!	
+< 	
 l		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
@@ -83,6 +76,8 @@ Yuletide Hacking Shard x5
 Yuletide Gift (L) x3
 Yuletide Gift (M) x13
 Yuletide Gift (S) x17
+Exchange Sword R3
+Exchange Sword R2
 Skill Shard x10
 Critical Shard x10
 Defense Shard x10
@@ -768,6 +763,7 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+Assault Diver R4
 Marching Band Hat R3
 9!s
 Marching Band Hat R2
@@ -1213,7 +1209,7 @@ Get up nerve in virtual world
 8c{
 Challenger of the Shadowy Castle
 8b{
-Supreme ruler of the Shadowy Castle
+Supreme Ruler of the Shadowy Castle
 8a{
 Fairy tale
 Invitation from Fairyland
@@ -2394,6 +2390,78 @@ HP Shard x20
 EXP Hi-Potion x5
 Col x50000
 Memory Diamond x10
+Gunners in the Battlefield Participated Guild
+EXP X-Potion x5
+Rainbow Essence x1
+Col x100000
+Memory Diamond x15
+Memory Fragment x2
+Gunners in the Battlefield Participated Guild
+EXP X-Potion x5
+Rainbow Essence x1
+Col x100000
+Memory Diamond x20
+Memory Fragment x4
+Gunners in the Battlefield Participated Guild
+EXP X-Potion x5
+Rainbow Essence x1
+Col x100000
+Memory Diamond x25
+Memory Fragment x6
+Gunners in the Battlefield Assault Team
+EXP X-Potion x5
+Rainbow Essence x2
+Col x200000
+Memory Diamond x30
+Memory Fragment x8
+Gunners in the Battlefield Assault Team
+EXP X-Potion x5
+Rainbow Essence x2
+Col x300000
+Memory Diamond x40
+Memory Fragment x8
+Gunners in the Battlefield Assault Team
+EXP X-Potion x5
+Rainbow Essence x2
+Col x300000
+Memory Diamond x50
+Memory Fragment x10
+Gunners in the Battlefield No.3 Guild
+EXP X-Potion x5
+Rainbow Essence x2
+Col x500000
+Memory Diamond x50
+Memory Fragment x10
+Gunners in the Battlefield No.2 Guild
+EXP X-Potion x5
+Rainbow Essence x2
+Col x500000
+Memory Diamond x50
+Memory Fragment x10
+Gunners in the Battlefield No.1 Guild
+EXP X-Potion x5
+Rainbow Essence x2
+Col x500000
+Memory Diamond x50
+Memory Fragment x10
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+EXP Hi-Potion x5
+Col x30000
+Memory Diamond x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+EXP Hi-Potion x5
+Col x50000
+Memory Diamond x10
 Dragons' Den Participated Guild
 EXP X-Potion x5
 Rainbow Essence x1
@@ -2592,7 +2660,7 @@ Rainbow Essence x2
 Col x500000
 Memory Diamond x50
 Memory Fragment x10
-Supreme ruler of the Dark Castle
+Supreme Ruler of the Dark Castle
 Skill Crystal x30
 Critical Crystal x30
 Defense Crystal x30
@@ -2695,7 +2763,7 @@ Attack Shard x40
 MP Shard x40
 HP Shard x40
 Stardust (Medium) x100
-Supreme ruler of the Floating Castle
+Supreme Ruler of the Floating Castle
 Skill Crystal x30
 Critical Crystal x30
 Defense Crystal x30
@@ -2799,7 +2867,7 @@ MP Shard x40
 HP Shard x40
 Stardust (Medium) x100
 2:f
-Supreme ruler of the Castle of Mirage
+Supreme Ruler of the Castle of Mirage
 2:f
 Skill Crystal x10
 2:f
@@ -3004,7 +3072,7 @@ MP Shard x20
 HP Shard x20
 2-f
 Stardust (Medium) x100
-Supreme ruler of the Twilight Castle in Akasha
+Supreme Ruler of the Twilight Castle in Akasha
 Skill Crystal x10
 Critical Crystal x10
 Defense Crystal x10
@@ -3108,7 +3176,7 @@ MP Shard x20
 HP Shard x20
 Stardust (Medium) x100
 2re
-Supreme ruler of the Shadowy Castle
+Supreme Ruler of the Shadowy Castle
 2re
 Skill Crystal x10
 2re
@@ -8112,6 +8180,9 @@ Earth Medallion x10
 Dark Medallion x10
 Dark Medallion x5
 Dark Medallion x15
+!	c
+启&!	c
+Assault Diver R3
 Master Smith's Puff Sleeves R3
 Silverthread Armor R3
 Insane Armor R3
@@ -11412,93 +11483,25 @@ Diamond Earring R2
 Coat of Midnight R2
 Mithril Sabre R2
 Annealed Rapier R2
-Amethyst Earring R2
 lM/
 Ruby Earring R2
+Fiery wind Cape R2
+Zodiac Dress R2
 Citrine Earring R2
-vM/
-Sapphire Earring R2
-Topaz Earring R2
 Emerald Earring R2
+Cheerleader Uniform R2
+Scale Chainmail R2
+Lucky Green Coat R2
+Topaz Earring R2
 Diamond Earring R2
 Hydrangea Yukata R2
-Scale Chainmail R2
-Fiery wind Cape R2
 Battle Fur Coat R2
-Zodiac Dress R2
-Cheerleader Uniform R2
-Kunoichi Garb R2
-Imperial Raiment R2
-Lucky Green Coat R2
-Aquamarine Robe R2
-Gargoyle Rifle R2
-Ogre Mace R2
-Asterius R2
 Amethyst Earring R2
-lM/
-Ruby Earring R2
-Citrine Earring R2
 vM/
 Sapphire Earring R2
-Topaz Earring R2
-Emerald Earring R2
-Diamond Earring R2
-Hydrangea Yukata R2
-Scale Chainmail R2
-Fiery wind Cape R2
-Battle Fur Coat R2
-Zodiac Dress R2
-Cheerleader Uniform R2
 Kunoichi Garb R2
 Imperial Raiment R2
-Lucky Green Coat R2
 Aquamarine Robe R2
-Minos Staff R2
-Red Coral Dirk R2
-Amethyst Earring R2
-lM/
-Ruby Earring R2
-Citrine Earring R2
-vM/
-Sapphire Earring R2
-Topaz Earring R2
-Emerald Earring R2
-Diamond Earring R2
-Hydrangea Yukata R2
-Scale Chainmail R2
-Fiery wind Cape R2
-Battle Fur Coat R2
-Zodiac Dress R2
-Cheerleader Uniform R2
-Kunoichi Garb R2
-Imperial Raiment R2
-Lucky Green Coat R2
-Aquamarine Robe R2
-Fiery Javelin R2
-Dragon Knight Bow R2
-Bloody Rapier R2
-Amethyst Earring R2
-lM/
-Ruby Earring R2
-Citrine Earring R2
-vM/
-Sapphire Earring R2
-Topaz Earring R2
-Emerald Earring R2
-Diamond Earring R2
-Hydrangea Yukata R2
-Scale Chainmail R2
-Fiery wind Cape R2
-Battle Fur Coat R2
-Zodiac Dress R2
-Cheerleader Uniform R2
-Kunoichi Garb R2
-Imperial Raiment R2
-Lucky Green Coat R2
-Aquamarine Robe R2
-Starry Night R2
-Passionate Gale R2
-Shark's Bite R2
 Black Apparel R1
 White Robe R1
 Brown Chainmail R1
@@ -14491,6 +14494,7 @@ Memory Diamond x2
 Memory Diamond x2
 Memory Diamond x1
 Memory Diamond x44
+Memory Diamond x25
 Memory Diamond x20
 Memory Diamond x25
 Memory Diamond x25

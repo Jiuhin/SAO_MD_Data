@@ -1,3 +1,10 @@
+se_scenario_bob_resign
+se_scenario_fall_bullet
+se_scenario_broken_glass
+se_scenario_death_gun_breath
+se_scenario_bullet_line
+se_scenario_bob_warp
+se_scenario_buggy
 se_scenario_photon_swords
 se_scenario_photon_sword_hit
 se_scenario_bullet_circle
@@ -50,6 +57,8 @@ se_system_ch_gacha_idol
 se_system_ch_sign_idol
 se_system_ch_gacha_idol_pre
 se_system_os_appear
+se_enemy_fall_bomb
+se_enemy_mecha_move
 se_enemy_war_cry
 se_enemy_mecha_griffin_overload
 se_enemy_mecha_griffin_dead
@@ -92,6 +101,7 @@ se_enemy_griffin_appear
 se_enemy_kagachi_dead
 se_enemy_kagachi_damage
 se_enemy_kagachi_appear
+se_action_waterfall
 se_action_strea_os_appear
 se_action_rumbling
 se_action_heartbeat

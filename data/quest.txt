@@ -1,9 +1,14 @@
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
+Quest 2
+Anime Trailer Quest Epi 3
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
 Quest 1
 Anime Trailer Quest Epi 2
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -12,7 +17,7 @@ Quest
 bg_thumbnail_8052
 Quest 12
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -21,7 +26,7 @@ Quest
 bg_thumbnail_8052
 Quest 11
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -30,7 +35,7 @@ Quest
 bg_thumbnail_8052
 Quest 10
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -39,7 +44,7 @@ Quest
 bg_thumbnail_8052
 Quest 9
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -48,7 +53,7 @@ Quest
 bg_thumbnail_8052
 Quest 8
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -57,7 +62,7 @@ Quest
 bg_thumbnail_8052
 Quest 7
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -66,7 +71,7 @@ Quest
 bg_thumbnail_8052
 Quest 6
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -75,7 +80,7 @@ Quest
 bg_thumbnail_8052
 Quest 5
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -84,7 +89,7 @@ Quest
 bg_thumbnail_8052
 Quest 4
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -93,7 +98,7 @@ Quest
 bg_thumbnail_8052
 Quest 3
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -102,7 +107,7 @@ Quest
 bg_thumbnail_8052
 Quest 2
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -624,6 +629,11 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Liz's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 2018
+Leafa's Birthday Quest
 Defeat All Enemies
 Quest
 bg_thumbnail_2028
@@ -3124,6 +3134,46 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 5
+Gunners in the Battlefield (Master +1) (Ranged Crit)
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 4
+Gunners in the Battlefield (Master +1) (Sword Crit)
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 3
+Gunners in the Battlefield (Master) 
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 2
+Gunners in the Battlefield (EX)
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 1
+Gunners in the Battlefield (Expert)
 Celestialon the Wyrm performs attacks
 while it summons others. 
 The weak point is its tail. 
@@ -13384,6 +13434,26 @@ Quest
 bg_thumbnail_8001
 Quest 1
 Mining For Crystals (Beg.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 8
+Equipment Creation (Mace, Rifle) (Int.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2014
+Quest 7
+Equipment Creation (Dagger, Rod) (Int.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 6
+Equipment Creation (Rapier, Bow, lance) (Int.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 5
+Equipment Creation (Sword, Dual Blades) (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2006
@@ -14639,9 +14709,14 @@ Horunka
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
+Quest 2
+Anime Trailer Quest Epi 3
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
 Quest 1
 Anime Trailer Quest Epi 2
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14650,7 +14725,7 @@ Quest
 bg_thumbnail_8052
 Quest 12
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14659,7 +14734,7 @@ Quest
 bg_thumbnail_8052
 Quest 11
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14668,7 +14743,7 @@ Quest
 bg_thumbnail_8052
 Quest 10
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14677,7 +14752,7 @@ Quest
 bg_thumbnail_8052
 Quest 9
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14686,7 +14761,7 @@ Quest
 bg_thumbnail_8052
 Quest 8
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14695,7 +14770,7 @@ Quest
 bg_thumbnail_8052
 Quest 7
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14704,7 +14779,7 @@ Quest
 bg_thumbnail_8052
 Quest 6
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14713,7 +14788,7 @@ Quest
 bg_thumbnail_8052
 Quest 5
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14722,7 +14797,7 @@ Quest
 bg_thumbnail_8052
 Quest 4
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14731,7 +14806,7 @@ Quest
 bg_thumbnail_8052
 Quest 3
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -14740,7 +14815,7 @@ Quest
 bg_thumbnail_8052
 Quest 2
 Untouchable Gunman 
-A gambling game 
+A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
 defeat the gunman
@@ -15262,6 +15337,11 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Liz's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 2018
+Leafa's Birthday Quest
 Defeat All Enemies
 Quest
 bg_thumbnail_2028
@@ -17762,6 +17842,46 @@ Story
 bg_thumbnail_0
 Story 1
 Character Introduction: Kirito
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 5
+Gunners in the Battlefield (Master +1) (Ranged Crit)
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 4
+Gunners in the Battlefield (Master +1) (Sword Crit)
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 3
+Gunners in the Battlefield (Master) 
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 2
+Gunners in the Battlefield (EX)
+Fight against Behemoth.
+Before the battle, beat up his minions one by one.
+When he's alone, attack him in full force!
+Survive until the end of time
+Quest
+bg_thumbnail_4018
+Quest 1
+Gunners in the Battlefield (Expert)
 Celestialon the Wyrm performs attacks
 while it summons others. 
 The weak point is its tail. 
@@ -28022,6 +28142,26 @@ Quest
 bg_thumbnail_8001
 Quest 1
 Mining For Crystals (Beg.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 8
+Equipment Creation (Mace, Rifle) (Int.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2014
+Quest 7
+Equipment Creation (Dagger, Rod) (Int.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2007
+Quest 6
+Equipment Creation (Rapier, Bow, lance) (Int.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Quest 5
+Equipment Creation (Sword, Dual Blades) (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2006

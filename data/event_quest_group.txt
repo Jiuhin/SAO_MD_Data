@@ -1,4 +1,14 @@
 images/dungeon/quest_group/dungeon_quest_group_03.png
+第81層 転移門
+images/dungeon/quest_group/dungeon_quest_group_02.png
+第61層 転移門
+images/dungeon/quest_group/dungeon_quest_group_02.png
+第41層 転移門
+images/dungeon/quest_group/dungeon_quest_group_02.png
+第21層 転移門
+images/dungeon/quest_group/dungeon_quest_group_01.png
+第1層 入り口
+images/dungeon/quest_group/dungeon_quest_group_03.png
 81F Teleport Gate
 images/dungeon/quest_group/dungeon_quest_group_02.png
 61F Teleport Gate

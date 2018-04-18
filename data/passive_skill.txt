@@ -217,6 +217,12 @@ Critical (with Skills)
 5hm
 Increases critical damage vs Non-elem. enemies by 5%
 Crit. Damage + 5% (vs. Non-elem.)
+,Am
+CRIT Damage UP of the party slightly in the 5th Guild Event.
+CRIT Damage UP in the 5th Guild Event
++Am
+CRIT Damage UP of the party in the 5th Guild Event.
+CRIT Damage UP in the 5th Guild Event
 Decreases Required MP of the party slightly in the 4th Guild Event.
 Required MP Down in the 4th Guild Event
 )Am

@@ -178,6 +178,8 @@ NICONICO USE
 Test Event
 TEST USE
 Test
+Gunners in the Battlefield
+Event
 Dragons' Den
 Event
 The Order of the Immortal

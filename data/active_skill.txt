@@ -201,6 +201,10 @@ A sword skill. Slash the enemy in the back after a colorful combo attack. Restor
 Dreamy Lady+
 Dreamy Lady+
 skill_icon_finesword_3_{}
+Blow up with a large fan. It restores your HP and reduces damage received for a while.
+Amatsukaze+
+Amatsukaze+
+skill_icon_finesword_3_{}
 After throwing a syringe, attack and fire a fatal shot. Decreases defense and attack of enemies.
 Love Injection+
 Love Injection+

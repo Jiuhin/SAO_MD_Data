@@ -153,10 +153,12 @@ canvas_mask11.psb
 1002_asuna_hood
 1002_asuna_grils_band
 1002_asuna_ggo_fb
+1002_asuna_child
 1002_asuna_bathrobe
 1002_asuna_bath_towel
 1002_asuna_band
 1002_asuna_alo_cinderella
+1002_asuna_alo_child
 1002_asuna_alo
 1002_asuna
 1001_kirito_tutorial

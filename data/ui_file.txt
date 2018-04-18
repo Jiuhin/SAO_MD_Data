@@ -71,6 +71,10 @@ ui/blacksmith/blacksmith_exchange_s.csb
 ui/blacksmith/blacksmith_change_equipment.csb
 ui/blacksmith/blacksmith_popup_not_gold_confirm_s.csb
 ui/gift_box/gift_box_popup_s.csb
+ui/common/common_list_dungeon_score_reward.csb
+ui/common/common_list_dungeon_score_bonus.csb
+ui/common/common_list_dungeon_mission.csb
+ui/common/common_dungeon_data_s.csb
 ui/common/common_list_pvp_reward.csb
 ui/common/common_quest_party.csb
 ui/common/common_pvp_rank_reward_s.csb
@@ -219,6 +223,8 @@ ui/quest_board/quest_board_party_info_s.csb
 ui/quest_board/quest_board_party_edit.csb
 ui/quest_board/quest_board_invitation_candidate_list_s.csb
 ui/quest_board/quest_board_collaboration_party_list_s.csb
+ui/quest/quest_dungeon_party_confirmation_s.csb
+ui/quest/quest_user_multi_widget.csb
 ui/quest/quest_pvp_matching.csb
 ui/quest/quest_pvp_top.csb
 ui/quest/quest_multi_select_s.csb
