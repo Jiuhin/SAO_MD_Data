@@ -13,6 +13,7 @@ effect_1033_shoot_the_grenade_s
 effect_1029_thousand_rain_s
 ?!3
 effect_1011_multiple_chaser_s
+effect_momentary_light_warp
 333?
 effect_jump_impact_7
 effect_jump_impact

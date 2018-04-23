@@ -1640,7 +1640,7 @@ slot_skill_icon_combo_damage
 Increases damage for 30-hit+ combos by 5%.
 Combo Damage Up Lv. 1
 slot_skill_icon_bs_change
-Transforms Battle Skill 3. Attack of OS party members  increase by 10% when you are a leader.
+Transforms Battle Skill 3. Attack of OS party members increases by 10% when you are a leader.
 Battle Skill 3 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP by 20%

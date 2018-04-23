@@ -1589,6 +1589,7 @@ L>d3
 >d3
 FQP
 EQP
+DQP
 }PP
 L>d3
 L>d3
@@ -1784,6 +1785,12 @@ L>d3
 >d3
 >d3
 pAf3
+L>f3
+L>f3
+>f3
+L>f3
+>f3
+L>f3
 L>f3
 <f3
 <f3
