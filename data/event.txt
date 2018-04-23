@@ -442,10 +442,6 @@ images/event/8006/8006_top_1.png
 images/event/8006/8006_banner_1.png
 images/event/8006/8006_banner_1.png
 Return of the Storm Wyrm
-images/event/7025/7025_top.png
-images/event/7025/7025_banner.png
-images/event/7025/7025_banner.png
-[SAO Alternative GGO] Llenn & Pitohui
 images/event/7024/7024_top.png
 images/event/7024/7024_banner.png
 images/event/7024/7024_banner.png
@@ -550,6 +546,10 @@ images/event/4901/4901_top.png
 images/event/4901/4901_banner.png
 images/event/4901/4901_banner.png
 The Beast Lords in League
+images/event/4806/4806_name.png
+images/event/4806/4806_banner.png
+images/event/4806/4806_banner.png
+The Sparkly Castle - Last Stage -
 images/event/4805/4805_name.png
 images/event/4805/4805_banner.png
 images/event/4805/4805_banner.png

@@ -1,75 +1,79 @@
-P}	
-l{	
-,z	
-<y	
-Tx	
-,v	
-tu	
-dt	
-Ps	
-8r	
-<q	
-Do	
-4n	
-Hl	
-Pj	
-li	
-$h	
-tg	
-de	
-dd	
-hc	
-xb	
-(b	
-8a	
+x}	
+$}	
+,{	
+<z	
+Ly	
+Xx	
+pu	
+Tt	
+ps	
+$s	
+(r	
+pq	
+Ho	
+8m	
+4l	
+Tj	
+hi	
+(h	
+4g	
+Df	
+He	
+Ld	
+Pc	
+db	
+4a	
 H_	
-hZ	
-HX	
-4W	
-,V	
+T]	
+XZ	
+TY	
+pW	
+tV	
 $U	
-tT	
-xS	
+(T	
 ,S	
-TQ	
-hP	
-pO	
-0N	
-4M	
-8L	
-<K	
+0R	
+4Q	
+<P	
+DO	
+tM	
+$M	
+4L	
+LK	
 PJ	
-lI	
-,H	
-4G	
-<F	
-TD	
-LC	
-DB	
-h<	
-p:	
-t9	
-x8	
-(8	
-07	
-L6	
-p4	
-83	
-<2	
-H0	
-H/	
-X,	
-P+	
-T)	
-L(	
+TI	
+pF	
+$F	
+tE	
+lD	
+dC	
+hA	
+X?	
+T>	
+4<	
+h:	
+89	
+P8	
+T7	
+T6	
+t4	
+,4	
+T3	
+42	
+<1	
+P/	
+l.	
+<-	
+T,	
+p+	
+$+	
+L)	
 D'	
-P%	
-l$	
-T"	
-p!	
-$!	
-< 	
-l		
+d&	
+<%	
+d"	
+4!	
+L 	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -763,6 +767,7 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+Endless Melody R4
 Assault Diver R4
 Marching Band Hat R3
 9!s
@@ -2660,6 +2665,189 @@ Rainbow Essence x2
 Col x500000
 Memory Diamond x50
 Memory Fragment x10
+2fg
+Supreme Ruler of the Sparkly Castle
+2fg
+Skill Crystal x30
+2fg
+Critical Crystal x30
+2fg
+Defense Crystal x30
+2fg
+Attack Crystal x30
+2fg
+MP Crystal x30
+2fg
+HP Crystal x30
+2fg
+Col x300000
+2fg
+Memory Fragment x5
+2eg
+Skill Shard x40
+2eg
+Critical Shard x40
+2eg
+Defense Shard x40
+2eg
+Attack Shard x40
+2eg
+MP Shard x40
+2eg
+HP Shard x40
+2eg
+Stardust (Medium) x600
+2dg
+Holy Skill Crystal x15
+2dg
+Holy Critical Crystal x15
+2dg
+Holy Defense Crystal x15
+2dg
+Holy Attack Crystal x15
+2dg
+Holy MP Crystal x15
+2dg
+Holy HP Crystal x15
+2dg
+Rainbow Essence x1
+2cg
+Skill Crystal x30
+2cg
+Critical Crystal x30
+2cg
+Defense Crystal x30
+2cg
+Attack Crystal x30
+2cg
+MP Crystal x30
+2cg
+HP Crystal x30
+2cg
+Stardust (Medium) x600
+2bg
+Holy Skill Crystal x15
+2bg
+Holy Critical Crystal x15
+2bg
+Holy Defense Crystal x15
+2bg
+Holy Attack Crystal x15
+2bg
+Holy MP Crystal x15
+2bg
+Holy HP Crystal x15
+2bg
+Stardust (Medium) x300
+2ag
+Skill Shard x40
+2ag
+Critical Shard x40
+2ag
+Defense Shard x40
+2ag
+Attack Shard x40
+2ag
+MP Shard x40
+2ag
+HP Shard x40
+2ag
+Col x150000
+2ag
+Memory Fragment x5
+Skill Crystal x30
+Critical Crystal x30
+Defense Crystal x30
+Attack Crystal x30
+MP Crystal x30
+HP Crystal x30
+Rainbow Essence x1
+2_g
+Skill Shard x40
+2_g
+Critical Shard x40
+2_g
+Defense Shard x40
+2_g
+Attack Shard x40
+2_g
+MP Shard x40
+2_g
+HP Shard x40
+2_g
+Stardust (Medium) x300
+Challenger of the Sparkly Castle
+Holy Skill Crystal x15
+Holy Critical Crystal x15
+Holy Defense Crystal x15
+Holy Attack Crystal x15
+Holy MP Crystal x15
+Holy HP Crystal x15
+Col x150000
+Sword Fragment x4
+2]g
+Skill Crystal x30
+2]g
+Critical Crystal x30
+2]g
+Defense Crystal x30
+2]g
+Attack Crystal x30
+2]g
+MP Crystal x30
+2]g
+HP Crystal x30
+2]g
+Rainbow Essence x1
+Skill Shard x40
+Critical Shard x40
+Defense Shard x40
+Attack Shard x40
+MP Shard x40
+HP Shard x40
+Sword Fragment x4
+2[g
+Holy Skill Crystal x15
+2[g
+Holy Critical Crystal x15
+2[g
+Holy Defense Crystal x15
+2[g
+Holy Attack Crystal x15
+2[g
+Holy MP Crystal x15
+2[g
+Holy HP Crystal x15
+2[g
+Stardust (Medium) x200
+2Zg
+Skill Crystal x30
+2Zg
+Critical Crystal x30
+2Zg
+Defense Crystal x30
+2Zg
+Attack Crystal x30
+2Zg
+MP Crystal x30
+2Zg
+HP Crystal x30
+2Zg
+Sword Fragment x2
+2Yg
+Skill Shard x40
+2Yg
+Critical Shard x40
+2Yg
+Defense Shard x40
+2Yg
+Attack Shard x40
+2Yg
+MP Shard x40
+2Yg
+HP Shard x40
+2Yg
+Stardust (Medium) x100
 Supreme Ruler of the Dark Castle
 Skill Crystal x30
 Critical Crystal x30

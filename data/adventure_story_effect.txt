@@ -1,3 +1,7 @@
+effect_scene_appear_ggo
+ss/effect/effect_scene_appear_ggo/
+effect_scene_explosion_01
+ss/effect/effect_scene_explosion_01/
 effect_scene_minigun_bulletline
 ss/effect/effect_scene_minigun_bulletline/
 effect_scene_lost_ggo

@@ -8659,30 +8659,30 @@ E%"
 02_sweat
 05_normal
 01_s2_ep6_normal
-1022_death gun
+1022_death_gun
 01_hair
 02_sweat
 01_angry
 01_s2_ep6_normal
-1022_death gun
+1022_death_gun
 01_hair
 01_shy_line
 05_normal
 01_s2_ep6_normal
-1022_death gun
+1022_death_gun
 01_hair
 01_shy_line
 01_angry
 01_s2_ep6_normal
-1022_death gun
+1022_death_gun
 01_hair
 05_normal
 01_s2_ep6_normal
-1022_death gun
+1022_death_gun
 01_hair
 01_angry
 01_s2_ep6_normal
-1022_death gun
+1022_death_gun
 01_hair
 02_sweat
 07_serious

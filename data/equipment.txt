@@ -2843,6 +2843,9 @@ TBD
 Deep Courage R4
 weapon03_0116
 TBD
+Endless Melody R4
+weapon03_0068
+TBD
 Breeze of the Fortunate Pattern +1 R5
 weapon03_0067
 TBD

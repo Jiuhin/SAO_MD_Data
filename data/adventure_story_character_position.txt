@@ -68,6 +68,7 @@ canvas_mask11.psb
 1041_chrysheight_kikuoka
 1041_chrysheight
 1040_spiegel_shinkawa
+1040_spiegel
 1039_pale_rider
 1038_behemoth
 1037_dyne

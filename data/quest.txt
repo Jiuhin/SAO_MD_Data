@@ -3340,6 +3340,331 @@ bg_thumbnail_2005
 Quest 1
 The Beast Lords in League (Exp.)
 Enemy Lv: 120
+Better for: Fire, Earth, Water
+DANGER!!
+"Here we come!
+Interrupt Goblin not to recover 
+Berserk Wolf. 
+Don't let your guard down until it's over!"
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :100
+Enemy Lv: 120
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :96 
+Enemy Lv: 120
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :94 
+Enemy Lv: 120
+Appears: Non-Attr.
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :91 
+Enemy Lv: 120
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :89 
+Enemy Lv: 110
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :86 
+Enemy Lv: 110
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :84 
+Enemy Lv: 110
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :81 
+Enemy Lv: 110
+Better for: Fire, Earth, Water
+DANGER!!
+"Here we come!
+Interrupt Goblin not to recover 
+Berserk Wolf. 
+Don't let your guard down until it's over!"
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :80
+Enemy Lv: 110
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :78 
+Enemy Lv: 110
+Appears: Non-Attr.
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :76 
+Enemy Lv: 110
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :74 
+Enemy Lv: 110
+Better for: Dark
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2015
+Floor :71 
+Enemy Lv: 110
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Floor :69 
+Enemy Lv: 110
+Better for: Fire
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2014
+Floor :66 
+Enemy Lv: 100
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :64 
+Enemy Lv: 110
+Better for: Fire
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Floor :61 
+Enemy Lv: 100
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :60
+Enemy Lv: 100
+Better for: Strike
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :58 
+Enemy Lv: 110
+Better for: Fire
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :56 
+Enemy Lv: 100
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :54 
+Enemy Lv: 100
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Floor :51 
+Enemy Lv: 100
+Better for: Dark
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :49 
+Enemy Lv: 100
+Better for: Fire
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :46 
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Floor :44 
+Enemy Lv: 100
+Better for: Holy
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :41 
+Enemy Lv: 100
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :40
+Enemy Lv: 100
+Better for: Thrust
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :38 
+Enemy Lv: 90
+Better for: Wind
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :36 
+Enemy Lv: 90
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :34 
+Enemy Lv: 90
+Better for: Wind
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Floor :31 
+}UI
+Enemy Lv: 90
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :29 
+Enemy Lv: 90
+Better for: Fire
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :26 
+{UI
+Enemy Lv: 90
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :24 
+zUI
+Enemy Lv: 90
+Appears: Non-Attr.
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :21 
+yUI
+Enemy Lv: 80
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :20
+xUI
+Enemy Lv: 80
+Better for: Fire
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :18 
+wUI
+Enemy Lv: 80
+Better for: Dark
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :16 
+vUI
+Enemy Lv: 80
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :14 
+uUI
+Enemy Lv: 80
+Better for: Holy
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :11 
+tUI
+Enemy Lv: 70
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :9 
+sUI
+Enemy Lv: 70
+Better for: Wind
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :6 
+rUI
+Enemy Lv: 70
+Better for: Fire
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Floor :4 
+qUI
+Enemy Lv: 70
+Better for: Earth
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Floor :1 
+Enemy Lv: 120
 Better for: Holy
 DANGER!!
 Defeat All Enemies
@@ -18047,6 +18372,331 @@ Quest
 bg_thumbnail_2005
 Quest 1
 The Beast Lords in League (Exp.)
+Enemy Lv: 120
+Better for: Fire, Earth, Water
+DANGER!!
+"Here we come!
+Interrupt Goblin not to recover 
+Berserk Wolf. 
+Don't let your guard down until it's over!"
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :100
+Enemy Lv: 120
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :96 
+Enemy Lv: 120
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :94 
+Enemy Lv: 120
+Appears: Non-Attr.
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :91 
+Enemy Lv: 120
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :89 
+Enemy Lv: 110
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :86 
+Enemy Lv: 110
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :84 
+Enemy Lv: 110
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :81 
+Enemy Lv: 110
+Better for: Fire, Earth, Water
+DANGER!!
+"Here we come!
+Interrupt Goblin not to recover 
+Berserk Wolf. 
+Don't let your guard down until it's over!"
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :80
+Enemy Lv: 110
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2027
+Floor :78 
+Enemy Lv: 110
+Appears: Non-Attr.
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :76 
+Enemy Lv: 110
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :74 
+Enemy Lv: 110
+Better for: Dark
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2015
+Floor :71 
+Enemy Lv: 110
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Floor :69 
+Enemy Lv: 110
+Better for: Fire
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2014
+Floor :66 
+Enemy Lv: 100
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :64 
+Enemy Lv: 110
+Better for: Fire
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Floor :61 
+Enemy Lv: 100
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :60
+Enemy Lv: 100
+Better for: Strike
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :58 
+Enemy Lv: 110
+Better for: Fire
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :56 
+Enemy Lv: 100
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :54 
+Enemy Lv: 100
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2013
+Floor :51 
+Enemy Lv: 100
+Better for: Dark
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :49 
+Enemy Lv: 100
+Better for: Fire
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :46 
+Enemy Lv: 100
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8002
+Floor :44 
+Enemy Lv: 100
+Better for: Holy
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :41 
+Enemy Lv: 100
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :40
+Enemy Lv: 100
+Better for: Thrust
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :38 
+Enemy Lv: 90
+Better for: Wind
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :36 
+Enemy Lv: 90
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :34 
+Enemy Lv: 90
+Better for: Wind
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2016
+Floor :31 
+}UI
+Enemy Lv: 90
+Better for: Water
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :29 
+Enemy Lv: 90
+Better for: Fire
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :26 
+{UI
+Enemy Lv: 90
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :24 
+zUI
+Enemy Lv: 90
+Appears: Non-Attr.
+Otaku Squad appears
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :21 
+yUI
+Enemy Lv: 80
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :20
+xUI
+Enemy Lv: 80
+Better for: Fire
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :18 
+wUI
+Enemy Lv: 80
+Better for: Dark
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2011
+Floor :16 
+vUI
+Enemy Lv: 80
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :14 
+uUI
+Enemy Lv: 80
+Better for: Holy
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :11 
+tUI
+Enemy Lv: 70
+Better for: Fire
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8025
+Floor :9 
+sUI
+Enemy Lv: 70
+Better for: Wind
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2003
+Floor :6 
+rUI
+Enemy Lv: 70
+Better for: Fire
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Floor :4 
+qUI
+Enemy Lv: 70
+Better for: Earth
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_2001
+Floor :1 
 Enemy Lv: 120
 Better for: Holy
 DANGER!!

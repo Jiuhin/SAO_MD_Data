@@ -50,6 +50,10 @@ Attack & MP of party members (Dark-elem.) increases by 1%.
 P-Members' Dark-elem. Atk&MP+1%
 Attack & MP of party members (Dark-elem.) increases by 3%.
 P-Members' Dark-elem. Atk&MP+3%
+Attack & MP of party members (Fire-elem.) increases by 1%.
+P-Members' Fire-elem. Atk&MP+1%
+Attack & MP of party members (Fire-elem.) increases by 3%.
+P-Members' Fire-elem. Atk&MP+3%
 MP of all party members increase by 1%.
 Party Members' MP +1%
 MP of all party members increase by 3%.

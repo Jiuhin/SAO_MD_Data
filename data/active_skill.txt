@@ -591,6 +591,10 @@ Deal a fierce thrust with a shield. Reaches far ahead.
 Rigid Strike
 Rigid Strike
 skill_icon_lance_3_{}
+A combination skill. Lights up when excited about a pretty dress. Increases your speed and restores your Combination Partner's MP. 
+Brilliant Garden
+Brilliant Garden
+skill_icon_lance_3_{}
 A combination skill. Strike an enemy with amplifier drops. Creates an Attack Up Zone and restores your HP.
 Funky Beat Time
 Funky Beat Time
@@ -2030,6 +2034,10 @@ Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
 skill_icon_finesword_3_{}
+A combination skill. It releases an instantaneous final blow by performing a spin attack. Increases your speed and restores your combination starter's MP. 
+Rusty Dance
+Rusty Dance
+skill_icon_finesword_3_{}
 Play the shamisen and attack an enemy with melody. Creates an Attack Up Zone for a second and restores your HP. 
 Honest Echo
 Honest Echo
@@ -2394,6 +2402,10 @@ skill_icon_finesword_1_{}
 A basic rapier technique. Perform a fast twisting thrust.
 Linear
 Linear
+skill_icon_dualblade_3_{}
+A combination skill. After 6 combo attacks, throws a flaming sword to perform an additional attack. Restores your Combination Partner's MP.
+Blazing Rain
+Blazing Rain
 skill_icon_dualblade_3_{}
 A combination skill. Strikes enemies by performing rhymes with two sticks. Creates an Attack Up Zone and restores your HP. 
 Thousand Cymbals
