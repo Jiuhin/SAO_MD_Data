@@ -1,6 +1,11 @@
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
+Quest 3
+Anime Trailer Quest Epi 4
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
 Quest 2
 Anime Trailer Quest Epi 3
 Defeat All Enemies
@@ -116,6 +121,11 @@ Quest
 bg_thumbnail_8052
 Quest 1
 Untouchable Gunman 
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 4
+Episode 3 Digest
 Defeat All Enemies
 Quest
 bg_thumbnail_8012
@@ -1162,6 +1172,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 5
+Swash of the Camanideel Ape (Master +1)
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 4
+Swash of the Camanideel Ape (Master)
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 3
+Swash of the Camanideel Ape (EX)
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 2
+Swash of the Camanideel Ape (Expert)
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 1
+Swash of the Camanideel Ape (Int.)
 Cheers and shouts for pop idols!
 The Crazed Eyes Big Fan, here they come!
 Watch your stap when they roar.
@@ -2709,36 +2764,36 @@ Quest
 bg_thumbnail_2018
 Quest 1
 Return of the Storm Wyrm (Int.)
-m1k
+U5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 5
-SAO Alternative GGO (Master +1)
-l1k
+SAO Game 5th Anniversary Special (Master +1)
+T5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 4
-SAO Alternative GGO (Master)
-k1k
+SAO Game 5th Anniversary Special (Master)
+S5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 3
-SAO Alternative GGO (EX)
-j1k
+SAO Game 5th Anniversary Special (EX)
+R5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 2
-SAO Alternative GGO (Expert)
-i1k
+SAO Game 5th Anniversary Special (Expert)
+Q5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 1
-SAO Alternative GGO (Int.)
+SAO Game 5th Anniversary Special (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2023
@@ -13984,6 +14039,97 @@ Quest
 bg_thumbnail_2020
 Tutorial Quest1
 Memory Defrag
+Finish Story
+Story
+bg_thumbnail_0
+Story 6-9
+Value of Strength
+Final match in the preliminary round
+starts again at close range.
+Parry a fatal blow and be the 
+victor of group F.
+Defeat Boss
+Quest
+bg_thumbnail_4009
+Quest 6-8
+Showdown in the Wilderness
+Finish Story
+Story
+bg_thumbnail_0
+Story 6-7
+Final Match in the Preliminary Round
+Defeat Boss
+Quest
+bg_thumbnail_4019
+Quest 6-6
+Semi Final Match in the Preliminary Round
+Defeat Boss
+Quest
+bg_thumbnail_4005
+Quest 6-5
+The 4th Elimination Round 
+Defeat Boss
+Quest
+bg_thumbnail_4018
+Quest 6-4
+The 2nd Elimination Round 
+Finish Story
+Story
+bg_thumbnail_0
+Story 6-3
+The Man behind the Gray Cloak
+Laughing Coffin wait in ambush 
+for the assault team. 
+Beat up the evil red players!
+Defeat Boss
+Quest
+bg_thumbnail_4006
+Quest 6-2
+Memory of Defeating Laughing Coffin
+Finish Story
+Story
+bg_thumbnail_0
+Story 6-1
+SAO Survivors
+Defeat Boss
+Quest
+bg_thumbnail_4005
+Quest 5-4
+The 1st Elimination Round (Sinon)
+Defeat Boss
+Quest
+bg_thumbnail_4005
+Quest 5-3
+Guns and Swords
+Finish Story
+Story
+bg_thumbnail_0
+Story 5-2
+All the Powerful Ones Are...
+Finish Story
+Story
+bg_thumbnail_0
+Story 5-1
+Entry
+Finish Story
+Story
+bg_thumbnail_0
+Story 4-3
+Obtained Weapon
+A bullet-dodging game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat Boss
+Quest
+bg_thumbnail_8052
+Quest 4-2
+Bullet-dodging Game
+Finish Story
+Story
+bg_thumbnail_0
+Story 4-1
+GGO
 Finish Story
 Story
 bg_thumbnail_0
@@ -15034,6 +15180,11 @@ Horunka
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
+Quest 3
+Anime Trailer Quest Epi 4
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
 Quest 2
 Anime Trailer Quest Epi 3
 Defeat All Enemies
@@ -15149,6 +15300,11 @@ Quest
 bg_thumbnail_8052
 Quest 1
 Untouchable Gunman 
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 4
+Episode 3 Digest
 Defeat All Enemies
 Quest
 bg_thumbnail_8012
@@ -16195,6 +16351,51 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 5
+Swash of the Camanideel Ape (Master +1)
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 4
+Swash of the Camanideel Ape (Master)
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 3
+Swash of the Camanideel Ape (EX)
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 2
+Swash of the Camanideel Ape (Expert)
+The Camanideel Ape loves hot springs! 
+He wants to have it all to himself!
+Be careful when your buffs are canceled! 
+Work well with your friends and strike back!
+Defeat All Enemies
+Quest
+bg_thumbnail_8044
+Quest 1
+Swash of the Camanideel Ape (Int.)
 Cheers and shouts for pop idols!
 The Crazed Eyes Big Fan, here they come!
 Watch your stap when they roar.
@@ -17742,36 +17943,36 @@ Quest
 bg_thumbnail_2018
 Quest 1
 Return of the Storm Wyrm (Int.)
-m1k
+U5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 5
-SAO Alternative GGO (Master +1)
-l1k
+SAO Game 5th Anniversary Special (Master +1)
+T5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 4
-SAO Alternative GGO (Master)
-k1k
+SAO Game 5th Anniversary Special (Master)
+S5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 3
-SAO Alternative GGO (EX)
-j1k
+SAO Game 5th Anniversary Special (EX)
+R5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 2
-SAO Alternative GGO (Expert)
-i1k
+SAO Game 5th Anniversary Special (Expert)
+Q5k
 Defeat All Enemies
 Quest
-bg_thumbnail_4002
+bg_thumbnail_2023
 Quest 1
-SAO Alternative GGO (Int.)
+SAO Game 5th Anniversary Special (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2023
@@ -29017,6 +29218,97 @@ Quest
 bg_thumbnail_2020
 Tutorial Quest1
 Memory Defrag
+Finish Story
+Story
+bg_thumbnail_0
+Story 6-9
+Value of Strength
+Final match in the preliminary round
+starts again at close range.
+Parry a fatal blow and be the 
+victor of group F.
+Defeat Boss
+Quest
+bg_thumbnail_4009
+Quest 6-8
+Showdown in the Wilderness
+Finish Story
+Story
+bg_thumbnail_0
+Story 6-7
+Final Match in the Preliminary Round
+Defeat Boss
+Quest
+bg_thumbnail_4019
+Quest 6-6
+Semi Final Match in the Preliminary Round
+Defeat Boss
+Quest
+bg_thumbnail_4005
+Quest 6-5
+The 4th Elimination Round 
+Defeat Boss
+Quest
+bg_thumbnail_4018
+Quest 6-4
+The 2nd Elimination Round 
+Finish Story
+Story
+bg_thumbnail_0
+Story 6-3
+The Man behind the Gray Cloak
+Laughing Coffin wait in ambush 
+for the assault team. 
+Beat up the evil red players!
+Defeat Boss
+Quest
+bg_thumbnail_4006
+Quest 6-2
+Memory of Defeating Laughing Coffin
+Finish Story
+Story
+bg_thumbnail_0
+Story 6-1
+SAO Survivors
+Defeat Boss
+Quest
+bg_thumbnail_4005
+Quest 5-4
+The 1st Elimination Round (Sinon)
+Defeat Boss
+Quest
+bg_thumbnail_4005
+Quest 5-3
+Guns and Swords
+Finish Story
+Story
+bg_thumbnail_0
+Story 5-2
+All the Powerful Ones Are...
+Finish Story
+Story
+bg_thumbnail_0
+Story 5-1
+Entry
+Finish Story
+Story
+bg_thumbnail_0
+Story 4-3
+Obtained Weapon
+A bullet-dodging game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat Boss
+Quest
+bg_thumbnail_8052
+Quest 4-2
+Bullet-dodging Game
+Finish Story
+Story
+bg_thumbnail_0
+Story 4-1
+GGO
 Finish Story
 Story
 bg_thumbnail_0

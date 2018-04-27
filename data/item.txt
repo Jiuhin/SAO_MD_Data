@@ -888,6 +888,9 @@ At the Exchange Shop, exchangeable for various equipment and so on.
 Stardust (Small)
 Unlocks skill slots.
 Rarity: Very High
+Blessing Medallion
+Unlocks skill slots.
+Rarity: Very High
 Bullet Medallion
 Unlocks skill slots.
 Rarity: Very High

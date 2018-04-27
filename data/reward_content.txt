@@ -1,79 +1,83 @@
-x}	
-$}	
-,{	
-<z	
-Ly	
+pz	
+ly	
 Xx	
-pu	
-Tt	
-ps	
-$s	
-(r	
-pq	
-Ho	
-8m	
-4l	
-Tj	
-hi	
-(h	
-4g	
-Df	
+8v	
+0u	
+(t	
+,s	
+Dr	
+Xq	
+lp	
+to	
+$o	
+4n	
+<m	
+Dk	
+Pj	
+li	
+4h	
+<g	
 He	
-Ld	
-Pc	
-db	
-4a	
-H_	
-T]	
-XZ	
-TY	
-pW	
-tV	
-$U	
-(T	
-,S	
-0R	
-4Q	
-<P	
-DO	
-tM	
-$M	
-4L	
-LK	
+Td	
+Xc	
+Pb	
+Ha	
+d_	
+p]	
+t[	
+xZ	
+$Z	
+(Y	
+,X	
+8W	
+LV	
+dU	
+tT	
+$T	
+8S	
+DR	
+HQ	
+LP	
+PO	
+lM	
+dL	
 PJ	
-TI	
-pF	
-$F	
-tE	
+XH	
+PG	
+DF	
+TE	
 lD	
-dC	
-hA	
-X?	
-T>	
-4<	
-h:	
-89	
-P8	
-T7	
-T6	
-t4	
-,4	
-T3	
-42	
-<1	
-P/	
-l.	
-<-	
-T,	
-p+	
-$+	
-L)	
-D'	
-d&	
+<C	
+TB	
+pA	
+$A	
+L?	
+H>	
+d:	
+09	
+48	
+<7	
+X6	
+t5	
+(5	
+x2	
+,2	
+L0	
+p/	
+,/	
+L.	
+t-	
+(-	
+D,	
+t+	
+(+	
+l)	
+<(	
+H'	
+h&	
 <%	
-d"	
-4!	
-L 	
+X 	
+H		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -768,6 +772,14 @@ SA:O
 zi:爕
 White Knight Jacket R4
 Endless Melody R4
+9yu
+[P/
+Saint Necklace R3
+ZP/
+Saint Necklace R2
+Dark Knight Coat R3
+9Mt
+Dark Knight Coat R2
 Assault Diver R4
 Marching Band Hat R3
 9!s
@@ -1306,6 +1318,9 @@ The Fairy Daughter
 Midnight Beater
 8Yw
 Return of the Beast Lord
+Showdown in the Wilderness
+Guns and Swords
+GGO
 Memories of Fresh Blood
 Ice Sniper
 The World of Guns
@@ -1335,6 +1350,7 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+King of Rock 'n' roll
 	8yt
 Memory Fragment x1
 	8xt
@@ -1809,6 +1825,14 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+<G6
+Memory Diamond x25
+<G6
+Assault Team Record Crystal x1
+z<G6
+Stardust (Medium) x100
+y<G6
+Assault Team Record Crystal x1
 <G6
 Col x100000
 Upgrade Crystal x1
@@ -8082,6 +8106,16 @@ Col x301
 100EP
 75EP
 50EP
+[P/
+Saint Necklace R3
+ZP/
+Saint Necklace R2
+Dark Knight Coat R3
+Dark Knight Coat R2
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 Marching Band Hat R3
 Marching Band Hat R2
 Shiny Marching Band Uniform R3
@@ -8338,6 +8372,9 @@ Wreath Ring R3
 Wreath Ring R2
 Xmas Dress R3
 Xmas Dress R2
+	Ff
+'	Ff
+Blessing Medallion x1
 Bullet Medallion x1
 Void Medallion x15
 tEf
@@ -8592,6 +8629,14 @@ Paint x6
 Artist's Paint x1
 Paint x10
 Paint x3
+[P/
+Saint Necklace R3
+Dark Knight Coat R3
+N r
+[P/
+Saint Necklace R3
+N q
+Dark Knight Coat R3
 Marching Band Hat R3
 Shiny Marching Band Uniform R3
 ? b
@@ -13013,6 +13058,14 @@ Col x4000
 Col x3000
 Col x2000
 Col x1000
+Col x6000
+Col x7000
+Col x8000
+Col x9000
+Col x10000
+Col x20000
+Col x12000
+Col x25000
 Col x10000
 Col x24000
 EXP X-Potion x4
@@ -14224,6 +14277,33 @@ MP Shard x12
 MP Shard x4
 HP Shard x12
 HP Shard x4
+Holy HP Crystal x8
+HP Crystal x28
+HP Shard x36
+Skill Crystal x22
+Skill Shard x5
+MP Crystal x22
+MP Shard x5
+Defense Crystal x22
+Defense Shard x5
+HP Crystal x22
+HP Shard x5
+Critical Crystal x22
+Critical Shard x5
+Attack Crystal x22
+Attack Shard x5
+Skill Crystal x11
+Skill Shard x20
+Defense Crystal x11
+Defense Shard x20
+Critical Crystal x11
+Critical Shard x20
+MP Crystal x11
+MP Shard x20
+Attack Crystal x11
+Attack Shard x20
+HP Crystal x11
+HP Shard x20
 Attack Crystal x51
 Skill Shard x34
 Defense Shard x34

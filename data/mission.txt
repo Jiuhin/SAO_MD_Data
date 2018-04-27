@@ -174,6 +174,33 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+HqE
+8042005,3,45
+Complete "Swash of the Camanideel Ape (Master +1)" with guild members in Multi in under 45 seconds.
+HpE
+8042004,3,45
+Complete "Swash of the Camanideel Ape (Master)" with guild members in Multi in under 45 seconds.
+GoE
+8042003,3
+Complete "Swash of the Camanideel Ape(EX)" with guild members in Multi.
+JnE
+2010132-2010133-2010134-2010135-2010136,50
+Defeat 50 of the Camanideel Ape in the guild. 
++mE
+8042005,3
+Complete "Swash of the Camanideel Ape (Master +1)" without down.
++lE
+8042004,3
+Complete "Swash of the Camanideel Ape (Master)" without down.
++kE
+8042003,3
+Complete "Swash of the Camanideel Ape (EX)" without down.
+/jE
+8042002
+Complete "Swash of the Camanideel Ape (Expert)"
+/iE
+8042001
+Complete "Swash of the Camanideel Ape (Int.)"
 8041005,3,45
 Complete "Crazed Eyes Returns (Master +1)" with guild members in Multi in under 45 seconds.
 8041004,3,45
@@ -2815,6 +2842,12 @@ Complete quests 10 times on hard difficulty.
 Use a Col Boost.
 Use an EXP Boost.
 Add slots to your equipment inventory.
+1036
+Complete GGO Chapter 6.
+1035
+Complete GGO Chapter 5.
+1034
+Complete GGO Chapter 4.
 1033
 Complete GGO Chapter 3.
 1032
@@ -2930,6 +2963,22 @@ Upgrade your equipment 1 time.
 Follow 10 players.
 Follow 5 players.
 Follow 1 player.
+1000
+Log in for a total of 1000 days.
+900
+Log in for a total of 900 days.
+876
+Log in for a total of 876 days.
+800
+Log in for a total of 800 days.
+765
+Log in for a total of 765 days.
+730
+Log in for a total of 730 days.
+700
+Log in for a total of 700 days.
+650
+Log in for a total of 650 days.
 600
 Log in for a total of 600 days.
 550

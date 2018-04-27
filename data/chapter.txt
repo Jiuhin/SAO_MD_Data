@@ -40,6 +40,8 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
+Swash of the Camanideel Ape
+Equip Event
 Crazed Eyes Returns 
 Equip Event
 Lucian Returns
@@ -122,7 +124,7 @@ The Wandering Frost Giant
 Mini Event
 Fight Back: Ursula the Witch
 Equip Event
-[SAO Alternative GGO] Llenn & Pitohui
+[SAO Game 5th Anniversary] Strea & Premiere
 Chara Event
 CM Memorial Quest
 Chara Event
@@ -393,6 +395,9 @@ Practice
 Chara Trial
 Memory Defrag
 Tutorial
+Showdown in the Wilderness
+Guns and Swords
+GGO
 Memories of Fresh Blood
 Ice Sniper
 The World of Guns

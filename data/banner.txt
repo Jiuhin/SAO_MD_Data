@@ -4,8 +4,10 @@ images/event/4902/4902_banner.png
 images/event/4901/4901_banner.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
 UH,
 images/event/9021/9021_banner.png
+images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
@@ -65,6 +67,7 @@ images/event/9007/9007_banner.png
 images/event/9005/9005_banner_2017.png
 images/event/9004/9004_banner_2017.png
 images/event/9002/9002_banner_2017.png
+images/event/8042/8042_banner.png
 images/event/8041/8041_banner.png
 images/event/8040/8040_banner.png
 images/event/8039/8039_banner.png
@@ -117,7 +120,7 @@ images/event/8003/8003_banner.png
 images/event/8002/8002_banner.png
 images/event/8001/8001_banner.png
 images/event/8000/8000_banner.png
-images/event/7025/7025_banner.png
+images/event/7026/7026_banner.png
 A<)
 images/event/7024/7024_banner.png
 images/event/7021/7021_banner.png
@@ -261,9 +264,11 @@ images/lottery/602/26021_scout_banner.png
 images/lottery/601/26011_scout_banner.png
 images/lottery/501/25011_scout_banner.png
 images/lottery/500/25001_scout_banner.png
+images/lottery/087/20871_scout_banner.png
 images/lottery/083/20831_scout_banner.png
 images/lottery/082/20821_scout_banner.png
 images/lottery/081/20811_scout_banner.png
+images/lottery/080/20801_scout_banner.png
 images/lottery/079/20791_scout_banner.png
 images/lottery/078/20781_scout_banner.png
 images/lottery/077/20771_scout_banner.png

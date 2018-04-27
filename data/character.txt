@@ -3373,12 +3373,11 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_185010
-An ALO player. She was a very popular singer, however, she gave up her career after some incident happened. She LOVES this special dress.
+A Pooka in ALO. She was a very popular singer, however, she gave up her career after some incident happened. She LOVES this special dress.
 serif
 5_seven_185010
 Seven
-[Talented Woman
-s Blessing] Seven
+[Talented Woman's Blessing] Seven
 walk
 wakeup
 wait
@@ -11415,12 +11414,11 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_65026
-An ALO player. She used to play in Ainground, the SA:O world but moved to ALO taking Kirito's invitation. She's excited about dressing up for the first time.   
+An NPC in SA:O. She used to play in Ainground, the SA:O world but moved to ALO taking Kirito's invitation. She's excited about dressing up for the first time.   
 serif
 5_premiere_65026
 Premiere
-[Goddess
-Blessing] Premiere
+[Goddess' Blessing] Premiere
 {-&
 walk
 wakeup

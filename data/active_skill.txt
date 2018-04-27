@@ -43,7 +43,7 @@ A combination skill. With a little Required MP, it shoots an arrow over the enem
 Appassionato Blue+
 Appassionato Blue+
 skill_icon_bow_3_{}
-A sword skill. Shoots arrows towards the sky and shower them with the arrows. Restores your HP. Reduces incoming damage for a certain amount of time. 
+A sword skill. Shoots arrows towards the sky and shower enemies with the arrows. Restores your HP. Reduces incoming damage for a certain amount of time. 
 Graceful Wind+
 Graceful Wind+
 skill_icon_bow_3_{}

@@ -55,6 +55,18 @@ weapon10_0001
 TBD
 SPB Rapier R4
 weapon10_0001
+TBD
+Saint Necklace R4
+accessory01_0076
+[P/
+TBD
+Saint Necklace R3
+accessory01_0076
+ZP/
+[P/
+TBD
+Saint Necklace R2
+accessory01_0076
 4P/
 TBD
 Military Helmet R4
@@ -1184,6 +1196,15 @@ armor01_0065
 TBD
 Coat of Barrios R2
 armor01_0065
+TBD
+Dark Knight Coat R4
+armor01_0064
+TBD
+Dark Knight Coat R3
+armor01_0064
+TBD
+Dark Knight Coat R2
+armor01_0064
 TBD
 Snow Fairy Cape R4
 armor01_0062

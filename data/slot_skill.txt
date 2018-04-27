@@ -728,6 +728,20 @@ Battle Healing (HP) Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 1. Increases damage against non-elemental enemies.
 Battle Skill 1 Transform Lv. 1
+slot_skill_icon_ls_enhance
+Transforms Leader Skill. Attack of Dark-elem. (in party) increases by 10% when you are a party leader.
+Leader Skill Transform Lv. 1
+ML-
+ML-
+slot_skill_icon_ls_enhance
+Transforms Leader Skill. Attack of Water-elem. (in party) increases by 10% when you are a party leader.
+Leader Skill Transform Lv. 1
+slot_skill_icon_ls_enhance
+Transforms Leader Skill. Attack of Fire-elem. (in party) increases by 10% when you are a party leader.
+Leader Skill Transform Lv. 1
+slot_skill_icon_ls_enhance
+Transforms Leader Skill. Attack of Non-elem. (in party) increases by 10% when you are a party leader.
+Leader Skill Transform Lv. 1
 slot_skill_icon2_job_5
 Raises attack and crit. rate by 500
 Attack Up Lv.5

@@ -1,5 +1,7 @@
 8b03192d7c5efa57ada26103e266ac3a
 ss/unit/chara_9_mace_m/weapon_titans_1.png
+31f4ea932209f36fa8655b45feea8acb
+ss/unit/chara_9_mace_m/weapon_laughcoff_1.png
 9a57a04f37e3a4bc1512fef4947377a0
 ss/unit/chara_9_mace_m/weapon_effect_mace_7.png
 98882f88ca4610090314c2aac070b607
@@ -56,6 +58,8 @@ ss/unit/chara_9_mace_m/2_kibaou_92002.png
 ss/unit/chara_9_mace_m/2_kagemune_92003.png
 1c361008c39e006db43f124bd97e3690
 ss/unit/chara_9_mace_m/2_agil_92001.png
+378e6d07e526b5900c0dd41c87345660
+ss/unit/chara_9_mace_m/1_laughing_coffin_ax_001_1.png
 ac83ec955bb5eb6f4421173edb88b1dd
 ss/unit/chara_9_mace_m/1_dda_tank_001_1.png
 9f019d238d70ee8d167104d2d1e67220
@@ -324,6 +328,8 @@ d7595311191eb890c60c72fdb1b0bd54
 ss/unit/chara_6_finesword_w/skill_effect_finesword_2.png
 2e95cbe407104c35739b42111dfdd841
 ss/unit/chara_6_finesword_w/skill_effect_finesword_1.png
+9cff458fb1388ff09ca27d6ae6adfe33
+ss/unit/chara_6_finesword_w/skill_effect_64122.png
 56acc6fbfe95371f44e2ea46aeaaeaa0
 ss/unit/chara_6_finesword_w/skill_effect_64119.png
 af05015aaaf3793b81b34017ac6fc89b
@@ -438,6 +444,8 @@ ss/unit/chara_6_finesword_w/5_yuna_65021.png
 ss/unit/chara_6_finesword_w/5_yuna_65014.png
 1a8c6b1ec0260d7fe005d140a53d1db7
 ss/unit/chara_6_finesword_w/5_seven_65018.png
+421e3944e00d4133a4a6edda8f4d1f9b
+ss/unit/chara_6_finesword_w/5_premiere_65026.png
 d98476e6a71e5ea3ee40bff60424f79f
 ss/unit/chara_6_finesword_w/5_premiere_65019.png
 8ba4d1486e3f6645d08131a884ce2900
@@ -594,8 +602,12 @@ f083cb473760699d3cd3f34e5d67f31a
 ss/unit/chara_4_dualblade_w/skill_effect_43103.png
 95ca2e82fd89b8d2a4b7d2de464d72f1
 ss/unit/chara_4_dualblade_w/effect_weapon_change.png
+2e269c2f0a0d8b00e94070c83d898766
+ss/unit/chara_4_dualblade_w/5_rain_45005.png
 d24231d5a10a8384eec6d96709d05414
 ss/unit/chara_4_dualblade_w/5_rain_45002.png
+2e269c2f0a0d8b00e94070c83d898766
+ss/unit/chara_4_dualblade_w/5_rain_44109.png
 e3eeb1c1edad5f2682b3982bb94c6980
 ss/unit/chara_4_dualblade_w/4_yuuki_44002.png
 bcf6a6f85724a1daa670f97d90c0673b
@@ -1286,6 +1298,8 @@ ss/unit/chara_18_lance_w/skill_effect_lance_3.png
 ss/unit/chara_18_lance_w/skill_effect_lance_2.png
 ff3ea6f04ace78c9f6a6966d96c7e5e8
 ss/unit/chara_18_lance_w/skill_effect_lance_1.png
+279cfb253ff10b0053455ae47759e95b
+ss/unit/chara_18_lance_w/skill_effect_184110.png
 ec29402dce3c76c70b83737d9be4604e
 ss/unit/chara_18_lance_w/skill_effect_184109.png
 b038ecc864781cffe85b2c5a29dedd65
@@ -1330,6 +1344,10 @@ e9c109a107b811bd03131ef46ce18f06
 ss/unit/chara_18_lance_w/5_sinon_185005.png
 b3b8ff01f30659ec5f555f433e068a9f
 ss/unit/chara_18_lance_w/5_sinon_185003.png
+045b0036ad20ada41b77bf1cd5ddcb51
+ss/unit/chara_18_lance_w/5_seven_185010.png
+045b0036ad20ada41b77bf1cd5ddcb51
+ss/unit/chara_18_lance_w/5_seven_184110.png
 69675a5e7579a3053ff94783467c310c
 ss/unit/chara_18_lance_w/5_sachi_185004.png
 bc7927b356dc03d911f5f2d2414df14a
@@ -2298,6 +2316,10 @@ images/lottery/500/15001_weapon_banner.png
 images/lottery/200/12001_weapon_top_s.png
 34343c96e7834b5b233a580d1a280e34
 images/lottery/200/12001_scout_top_s.png
+0768acb0a9b36a56dbba1a0c7aa3d8a4
+images/lottery/087/20871_scout_top_s.png
+0753c8dfb0c035105fc20c39227cc270
+images/lottery/087/20871_scout_banner.png
 b4e2fadc4ca1f9b259e70ecc999c9f83
 images/lottery/084/10849_weapon_top_s.png
 cae9b141115862064d6f0048dce43ce2
@@ -2346,9 +2368,9 @@ images/lottery/081/20811_scout_banner.png
 images/lottery/081/10811_weapon_top_s.png
 91e8776a2f2c41c4426d16cd955f6a2c
 images/lottery/081/10811_weapon_banner.png
-0cc3f4bcaf376a2e607ccb328ca1d42c
+30625f16b33542c04baa114063c23a74
 images/lottery/080/20801_scout_top_s.png
-4051f7aad241879da1c51e70090200d7
+f0ed8c3a7ec81cf7446b57281d9a3e42
 images/lottery/080/20801_scout_banner.png
 0c0262470cfc35688418296fe262a357
 images/lottery/079/20793_scout_top_s.png
@@ -3538,6 +3560,10 @@ images/event/9002/9002_banner.png
 images/event/9001/9001_top.png
 f9cbc601493ad89a88fd1601cc5fd29e
 images/event/9001/9001_banner.png
+d04154d65b3e025bd3f092bafa1d9c02
+images/event/8042/8042_top.png
+41d49d9395ec9831707a5bef93c89462
+images/event/8042/8042_banner.png
 253593079d74eee2b0e29e092b9560c4
 images/event/8041/8041_top.png
 4e6ed70398186e3fa481956d5ff97df3
@@ -3724,6 +3750,10 @@ cb472e58f52f2f790e0ea45296d21f6e
 images/event/8000/8000_banner.png
 60579bbfcf907fffa0061c8219cfb014
 images/event/8000/8000_announce.png
+f2e74647f393715a24dc4bf1be2b8969
+images/event/7026/7026_top.png
+f9fd9a1d50b12f4afa4f4b53be9e79e4
+images/event/7026/7026_banner.png
 23483dda5dc473b4812f0035583d020c
 images/event/7025/7025_top.png
 4d28a4cf44564dc643d8e19d1917e187

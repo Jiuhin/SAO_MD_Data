@@ -38,6 +38,10 @@ Attack of party members (Wind-elem.) increases by 10% when you are a leader.
 P-Members' (Wind-elem.) Atk +10% (P-Leader)
 Attack of party members (Wind-elem.) increases by 6% when you are a leader.
 P-Members' (Wind-elem.) Atk +6% (P-Leader)
+Attack of party members (Water-elem.) increases by 10% when you are a leader.
+P-Members' (Water-elem.) Atk +10% (P-Leader)
+Attack of party members (Fire-elem.) increases by 10% when you are a leader.
+P-Members' (Fire-elem.) Atk +10% (P-Leader)
 Attack of party members (Non-elem.) increases by 10% when you are a leader.
 P-Members' (Non-elem.) Atk +10% (P-Leader)
 Attack of party members (Non-elem.) increases by 6% when you are a leader.
@@ -806,6 +810,14 @@ Increases HP by 6% when using two swords.
 HP +6% (Dual Blades)
 Increases HP by 6% when using a sword.
 HP +6% (Swords)
+Increase damage received by 30% from Dark-elem. sword characters.
+[enemy] Increase damage received by 30% (Dark) (Sword)
+Increase damage received by 30% from Holyr-elem. bow characters.
+[enemy] Increase damage received by 30% (Holy) (Bow)
+Increase damage received by 30% from Wind-elem. sword characters.
+[enemy] Increase damage received by 30% (Wind) (Sword)
+Increase damage received by 30% from Water-elem. rapier characters.
+[enemy] Increase damage received by 30% (Water) (Rapier)
 Increases damage received by 80% from Earth-elem. characters.
 [enemy] Increase damage received by 80% (Earth)
 Increases damage received by 50% from Earth-elem. characters.

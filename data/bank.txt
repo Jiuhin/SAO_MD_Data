@@ -1,4 +1,5 @@
 vc_battle_kureha
+vc_battle_m
 vc_battle_eiji
 vc_battle_pitohui
 vc_battle_llenn
@@ -57,6 +58,7 @@ vc_battle_leafa
 vc_battle_asuna
 vc_battle_kirito
 vc_adv_kureha
+vc_adv_m
 vc_adv_eiji
 vc_adv_pitohui
 vc_adv_llenn
