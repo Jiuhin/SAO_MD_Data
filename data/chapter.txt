@@ -211,6 +211,8 @@ Event
 Event
 Bullet of Bullets
 Event
+Fairy Squad Jam
+Event
 Attack on Beast Mechs
 Event
 Hello New Me

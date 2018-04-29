@@ -164,6 +164,15 @@ Critical Damage Up (vs. Non-elem.) Lv. 1
 slot_skill_icon_parry_healing_mp
 Increases MP gain when attacked weak points.
 MP Recovery on Attack Weak Points Lv.1
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
 slot_skill_icon_def_wind_1
 Reduces damage from Wind-elem. enemies by 30%
 Wind Resistance Lv2
@@ -238,6 +247,15 @@ Combo Window Up Lv. 1
 slot_skill_icon_reseve_healing_mp
 Restores 10 MP every 10 seconds during standby.
 Emergency Heal (MP) Lv.1
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
 slot_skill_icon_def_light_1
 Reduces damage from Holy-elem. enemies by 30%
 Holy Resistance Lv2
@@ -310,6 +328,15 @@ Battle Healing (HP) Lv. 2
 slot_skill_icon_battle_healing_hp
 Restores 600 HP every 10 seconds.
 Battle Healing (HP) Lv. 1
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
 iaI
 iaI
 slot_skill_icon_def_dark_1
@@ -366,6 +393,15 @@ Battle Healing (HP) Lv. 1
 slot_skill_icon_parry_healing_mp
 Increases MP gain when attacked weak points.
 MP Recovery on Attack Weak Points Lv.1
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
 slot_skill_icon_reseve_healing_hp
 Restores 1200 HP every 5 seconds during standby.
 Emergency Heal (HP) Lv.2
@@ -453,6 +489,15 @@ Battle Healing (HP) Lv. 1
 slot_skill_icon_parry_healing_mp
 Increases MP gain when attacked weak points.
 MP Recovery on Attack Weak Points Lv.1
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
 slot_skill_icon_def_earth_1
 Reduces damage from Earth-elem. enemies by 30%
 Earth Resistance Lv2
@@ -534,6 +579,15 @@ Combo Window Up Lv. 1
 slot_skill_icon_reseve_healing_mp
 Restores 10 MP every 10 seconds during standby.
 Emergency Heal (MP) Lv.1
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
 slot_skill_icon_reseve_healing_hp
 Restores 1200 HP every 5 seconds during standby.
 Emergency Heal (HP) Lv.2
@@ -593,6 +647,15 @@ Skill Damage Up (vs. Wind) Lv. 2
 slot_skill_icon_skill_damage
 Increases skill damage by 5% vs Wind-elem. enemies.
 Skill Damage Up (vs. Wind) Lv. 1
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
+slot_skill_icon_combo_speed_up
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP (Combo)
 slot_skill_icon_def_unattributed_1
 Reduces damage from Non-elem. enemies by 30%
 Non-elemental Resistance Lv2
@@ -973,6 +1036,9 @@ Battle Skill 2 Transform Lv. 1
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases Max MP & Crit by 12%
 Battle Skill 2 Transform Lv. 1
+slot_skill_icon_ss_enhance_3_11
+Enhances SS3. Increases all party members' critical damage.
+Sword Skill 3 Enhance Lv. 1
 'a>
 &a>
 %a>

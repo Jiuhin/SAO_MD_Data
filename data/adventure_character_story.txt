@@ -353,6 +353,16 @@ Character Story
 Character Story
 [Star Scientist] Seven Lv.10
 Character Story
+[Sky Bow] Sinon Lv.80
+Character Story
+[Sky Bow] Sinon Lv.70
+Character Story
+[Sky Bow] Sinon Lv.50
+Character Story
+[Sky Bow] Sinon Lv.30
+Character Story
+[Sky Bow] Sinon Lv.10
+Character Story
 [Youthful Days] Asuna Lv.80
 Character Story
 [Youthful Days] Asuna Lv.70
@@ -1123,6 +1133,16 @@ Character Story
 Character Story
 [Dragon Tamer] Silica Lv.10
 Character Story
+[Nimble Slash] Asuna Lv.80
+Character Story
+[Nimble Slash] Asuna Lv.70
+Character Story
+[Nimble Slash] Asuna Lv.50
+Character Story
+[Nimble Slash] Asuna Lv.30
+Character Story
+[Nimble Slash] Asuna Lv.10
+Character Story
 [Sweet Vocals] Seven Lv.80
 Character Story
 [Sweet Vocals] Seven Lv.70
@@ -1573,6 +1593,16 @@ Character Story
 Character Story
 [Black Swordsman] Kirito Lv.10
 Character Story
+[Swifty Slash] Leafa Lv.80
+Character Story
+[Swifty Slash] Leafa Lv.70
+Character Story
+[Swifty Slash] Leafa Lv.50
+Character Story
+[Swifty Slash] Leafa Lv.30
+Character Story
+[Swifty Slash] Leafa Lv.10
+Character Story
 [Passionate Strumming] Leafa Lv.80
 Character Story
 [Passionate Strumming] Leafa Lv.70
@@ -1992,6 +2022,16 @@ Character Story
 [Storm Mage] Leafa Lv.30
 Character Story
 [Storm Mage] Leafa Lv.10
+Character Story
+[Black Master Swordman] Kirito Lv.80
+Character Story
+[Black Master Swordman] Kirito Lv.70
+Character Story
+[Black Master Swordman] Kirito Lv.50
+Character Story
+[Black Master Swordman] Kirito Lv.30
+Character Story
+[Black Master Swordman] Kirito Lv.10
 Character Story
 [Fortune comes in at the merry gate] Kirito Lv.80
 Character Story

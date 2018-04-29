@@ -1869,6 +1869,12 @@ TBD
 Small Rod R1
 weapon08_0001
 TBD
+Heilug Gusisnautar R5
+weapon07_0039
+TBD
+Heilug Gusisnautar R4
+weapon07_0039
+TBD
 Rain-making Long Bow +1 R5
 weapon07_0038
 TBD
@@ -2864,6 +2870,12 @@ TBD
 Deep Courage R4
 weapon03_0116
 TBD
+Neo Atlantis R5
+weapon03_0069
+TBD
+Neo Atlantis R4
+weapon03_0069
+TBD
 Endless Melody R4
 weapon03_0068
 TBD
@@ -3232,6 +3244,9 @@ TBD
 Dual Schneesturm R4
 weapon02_0100
 TBD
+Midnight Plate R5
+weapon02_0033
+TBD
 Twin Beats R5
 weapon02_0030
 TBD
@@ -3420,6 +3435,18 @@ TBD
 Dual Short Swords 
 2 R1
 weapon02_0001
+TBD
+Dark Rebellion R5
+weapon01_0133
+TBD
+Dark Rebellion R4
+weapon01_0133
+TBD
+Eradicate Storm R5
+weapon01_0124
+TBD
+Eradicate Storm R4
+weapon01_0124
 TBD
 Paired Blossoms +1 R5
 weapon01_0123

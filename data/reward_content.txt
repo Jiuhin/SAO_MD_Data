@@ -1,83 +1,69 @@
-pz	
-ly	
-Xx	
-8v	
-0u	
-(t	
-,s	
-Dr	
-Xq	
-lp	
-to	
-$o	
-4n	
-<m	
-Dk	
-Pj	
-li	
-4h	
-<g	
-He	
-Td	
+X}	
+Xz	
+(y	
+tx	
+(u	
+tt	
+Pp	
+<n	
+tm	
+dl	
+4k	
+ph	
+$h	
+Hg	
+te	
+$e	
 Xc	
-Pb	
-Ha	
+pb	
+$b	
 d_	
-p]	
-t[	
-xZ	
-$Z	
-(Y	
-,X	
-8W	
-LV	
-dU	
-tT	
-$T	
-8S	
-DR	
-HQ	
-LP	
-PO	
-lM	
-dL	
-PJ	
-XH	
-PG	
-DF	
-TE	
-lD	
-<C	
-TB	
-pA	
-$A	
-L?	
-H>	
-d:	
-09	
+8]	
+X[	
+dZ	
+xY	
+,Y	
+<X	
+LW	
+lU	
+<R	
+TP	
+lN	
+8M	
+$L	
+4K	
+8J	
+0I	
+(H	
+pG	
+TF	
+<D	
+HC	
+XB	
+hA	
+8?	
+P>	
+H:	
+49	
 48	
-<7	
-X6	
-t5	
-(5	
-x2	
-,2	
-L0	
-p/	
+t7	
+(7	
+D6	
+x4	
+(4	
+83	
+<2	
+80	
 ,/	
-L.	
-t-	
-(-	
-D,	
-t+	
-(+	
-l)	
-<(	
-H'	
-h&	
-<%	
-X 	
-H		
+t.	
+h-	
+8,	
+<+	
+,)	
+4(	
+L'	
+d&	
+T		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -131,6 +117,42 @@ Memory Diamond x25
 Memory Diamond x15
 Memory Diamond x10
 Memory Diamond x5
+Tt>
+Fairy Squad Jam
+o:[
+St>
+New Issues
+o:Z
+Rt>
+A Solution
+o:Y
+Qt>
+Effect of the Magic Flags
+o:X
+Pt>
+Cooperation
+o:W
+Ot>
+Magic Flags
+o:V
+Nt>
+Arranged System
+o:U
+Mt>
+Fund
+Raising
+o:T
+Lt>
+Collecting Weapons
+o:S
+Kt>
+Big Assignment 
+o:R
+Jt>
+Squad Jam
+o:Q
+It>
+A Sudden Call
 No.1 Band?
 Seismic Stage 
 Power of Music
@@ -771,6 +793,53 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+Midnight Plate R5
+Lv. 80 Decryption Key x1
+Lv. 70 Decryption Key x1
+Lv. 60 Decryption Key x1
+Lv. 50 Decryption Key x1
+Lv. 40 Decryption Key x1
+Lv. 30 Decryption Key x1
+Lv. 20 Decryption Key x1
+Lv. 10 Decryption Key x1
+Holy Skill Crystal x10
+Holy Critical Crystal x10
+Holy Defense Crystal x10
+Holy Attack Crystal x10
+Holy MP Crystal x10
+Holy HP Crystal x10
+Skill Crystal x20
+Critical Crystal x20
+Defense Crystal x20
+Attack Crystal x20
+MP Crystal x20
+:I}
+HP Crystal x20
+Skill Shard x50
+Critical Shard x50
+Defense Shard x50
+Attack Shard x50
+:U{
+MP Shard x50
+HP Shard x50
+Earth Medallion x10
+9)z
+Dark Medallion x10
+Holy Medallion x10
+9ay
+Wind Medallion x10
+Water Medallion x10
+Fire Medallion x10
+95x
+Void Medallion x10
+Exchange Sword R2
+9mw
+Rainbow Essence x1
+9	w
+Memory Diamond x5
+Upgrade Crystal x1
+9Av
+Grenade Gold Medal x1
 Endless Melody R4
 9yu
 [P/
@@ -1179,6 +1248,8 @@ Twinkling Comet
 Pumpkin Bomb
 Trick or Treat
 Starburst Stream
+8z{
+A Dark Plot Against Fliers
 8y{
 Mochi Mochi Panic! Mochi Pounding Party
 8x{
@@ -1318,6 +1389,15 @@ The Fairy Daughter
 Midnight Beater
 8Yw
 Return of the Beast Lord
+8 w
+One Small Step
+Phantom Bullet
+Bullet of a Phantom
+What It Means to Be Strong
+Death Chaser
+Death Gun
+Bullet of Bullets
+Crimson Memories
 Showdown in the Wilderness
 Guns and Swords
 GGO
@@ -1351,6 +1431,30 @@ The Red-Nosed Reindeer
 Beater
 The World of Swords
 King of Rock 'n' roll
+700EP
+600EP
+500EP
+400EP
+Grenade Gold Medal x1
+Grenade Gold Medal x1
+Grenade Gold Medal x1
+Grenade Gold Medal x1
+Grenade Upgrade Crystal x1
+Grenade Gold Medal x2
+Victor of the Team Battle Royale
+Fairy Squad Jam
+Rainbow Essence x1
+Grenade Upgrade Crystal x2
+Grenade Upgrade Crystal x1
+Grenade Gold Medal x2
+Grenade Gold Medal x1
+	8}t
+Sword Fragment x1
+200EP
+	8{t
+150EP
+	8zt
+100EP
 	8yt
 Memory Fragment x1
 	8xt
@@ -1570,6 +1674,8 @@ J	8
 300EP
 J	8
 200EP
+I	8
+2018 Link Start!
 ]I	8
 The Eternal Composer
 H	8
@@ -1868,6 +1974,26 @@ U)G6
 [Constant Love] Asuna
 'G6
 Memory Diamond x100
+5Ub
+Master Swordsmen C.R. Crystal x5
+5Tb
+Master Swordsmen C.R. Crystal x4
+5Sb
+Master Swordsmen C.R. Crystal x3
+5Rb
+Master Swordsmen C.R. Crystal x2
+5Qb
+Master Swordsmen C.R. Crystal x1
+Master Swordsmen C.R. Crystal x10
+Master Swordsmen C.R. Crystal x9
+Master Swordsmen C.R. Crystal x8
+Master Swordsmen C.R. Crystal x7
+Master Swordsmen C.R. Crystal x6
+Master Swordsmen C.R. Crystal x5
+Master Swordsmen C.R. Crystal x4
+Master Swordsmen C.R. Crystal x3
+Master Swordsmen C.R. Crystal x2
+Master Swordsmen C.R. Crystal x1
 Rainbow Sky C.R. Crystal x5
 Rainbow Sky C.R. Crystal x4
 Rainbow Sky C.R. Crystal x3
@@ -2689,6 +2815,109 @@ Rainbow Essence x2
 Col x500000
 Memory Diamond x50
 Memory Fragment x10
+NEW Supreme Ruler of the Shadowy Castle
+Skill Crystal x10
+Critical Crystal x10
+Defense Crystal x10
+Attack Crystal x10
+MP Crystal x10
+HP Crystal x10
+Col x100000
+Memory Fragment x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Stardust (Medium) x600
+Holy Skill Crystal x5
+Holy Critical Crystal x5
+Holy Defense Crystal x5
+Holy Attack Crystal x5
+Holy MP Crystal x5
+Holy HP Crystal x5
+Rainbow Essence x1
+Skill Crystal x10
+Critical Crystal x10
+Defense Crystal x10
+Attack Crystal x10
+MP Crystal x10
+HP Crystal x10
+Stardust (Medium) x600
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Col x50000
+Memory Fragment x5
+Holy Skill Crystal x5
+Holy Critical Crystal x5
+Holy Defense Crystal x5
+Holy Attack Crystal x5
+Holy MP Crystal x5
+Holy HP Crystal x5
+Stardust (Medium) x300
+Skill Crystal x10
+Critical Crystal x10
+Defense Crystal x10
+Attack Crystal x10
+MP Crystal x10
+HP Crystal x10
+Rainbow Essence x1
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Stardust (Medium) x300
+NEW Challenger of the Shadowy Castle
+Holy Skill Crystal x5
+Holy Critical Crystal x5
+Holy Defense Crystal x5
+Holy Attack Crystal x5
+Holy MP Crystal x5
+Holy HP Crystal x5
+Col x50000
+Memory Fragment x4
+Skill Crystal x10
+Critical Crystal x10
+Defense Crystal x10
+Attack Crystal x10
+MP Crystal x10
+HP Crystal x10
+Rainbow Essence x1
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Memory Fragment x4
+Holy Skill Crystal x5
+Holy Critical Crystal x5
+Holy Defense Crystal x5
+Holy Attack Crystal x5
+Holy MP Crystal x5
+Holy HP Crystal x5
+Stardust (Medium) x200
+Skill Crystal x10
+Critical Crystal x10
+Defense Crystal x10
+Attack Crystal x10
+MP Crystal x10
+HP Crystal x10
+Memory Fragment x2
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Stardust (Medium) x100
 2fg
 Supreme Ruler of the Sparkly Castle
 2fg
@@ -4314,6 +4543,97 @@ m2E
 Col x50000
 m2E
 EXP Potion x10
+EXP Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+ALO SJ Top100
+EXP Hi-Potion x5
+Skill Shard x20
+Critical Shard x20
+Defense Shard x20
+Attack Shard x20
+MP Shard x20
+HP Shard x20
+Memory Diamond x5
+ALO SJ Top50
+EXP Hi-Potion x5
+Col x30000
+Memory Diamond x5
+Grenade Bronze Medal x5
+Grenade Silver Medal x5
+Grenade Gold Medal x2
+ALO SJ Top20
+Verdure Sword Stone x1
+EXP X-Potion x5
+Col x50000
+Memory Diamond x5
+Grenade Upgrade Crystal x1
+Grenade Bronze Medal x10
+Grenade Silver Medal x5
+Grenade Gold Medal x4
+ALO SJ Top10
+Verdure Sword Stone x2
+EXP X-Potion x5
+Col x100000
+Memory Diamond x5
+Grenade Upgrade Crystal x2
+Grenade Bronze Medal x10
+Grenade Silver Medal x5
+Grenade Gold Medal x6
+ALO SJ 5th
+Verdure Sword Stone x3
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Grenade Upgrade Crystal x3
+Grenade Bronze Medal x10
+Grenade Silver Medal x5
+Grenade Gold Medal x8
+ALO SJ 4th
+Verdure Sword Stone x3
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Grenade Upgrade Crystal x3
+Grenade Bronze Medal x10
+Grenade Silver Medal x5
+Grenade Gold Medal x9
+ALO SJ 3rd
+Verdure Sword Stone x5
+Rainbow Essence x1
+EXP X-Potion x5
+Col x200000
+Memory Diamond x5
+Grenade Upgrade Crystal x4
+Grenade Bronze Medal x10
+Grenade Silver Medal x10
+Grenade Gold Medal x11
+ALO SJ 2nd
+Verdure Sword Stone x5
+Rainbow Essence x1
+EXP X-Potion x5
+Col x300000
+Memory Diamond x5
+Grenade Upgrade Crystal x4
+Grenade Bronze Medal x10
+Grenade Silver Medal x10
+Grenade Gold Medal x13
+ALO SJ 1st
+Verdure Sword Stone x5
+Rainbow Essence x2
+EXP X-Potion x5
+Col x500000
+Memory Diamond x5
+Grenade Upgrade Crystal x4
+Grenade Bronze Medal x10
+Grenade Silver Medal x10
+Grenade Gold Medal x16
 2NO
 EXP Potion x5
 2NO
@@ -8096,6 +8416,11 @@ Col x6120
 Col x4012
 Col x2030
 Col x301
+$) Ri
+500EP
+250EP
+150EP
+100EP
 500EP
 500EP
 400EP
@@ -8106,6 +8431,10 @@ Col x301
 100EP
 75EP
 50EP
+Stardust (Small) x15
+Stardust (Small) x10
+Stardust (Small) x5
+Stardust (Small) x2
 [P/
 Saint Necklace R3
 ZP/
@@ -10193,6 +10522,103 @@ HP Shard x4
 HP Shard x3
 HP Shard x2
 HP Shard x1
+SZ8
+Holy Defense Crystal x2
+RZ8
+Defense Crystal x9
+QZ8
+Defense Shard x15
+Holy Defense Crystal x1
+Defense Crystal x6
+Defense Shard x10
+Holy Defense Crystal x1
+Defense Crystal x4
+Defense Shard x7
+'Y8
+Holy Defense Crystal x1
+&Y8
+Defense Crystal x3
+%Y8
+Defense Shard x6
+Holy Skill Crystal x2
+Skill Crystal x9
+Skill Shard x15
+_X8
+Holy Skill Crystal x1
+Skill Crystal x6
+]X8
+Skill Shard x10
+Holy Skill Crystal x1
+Skill Crystal x4
+Skill Shard x7
+Holy Skill Crystal x1
+Skill Crystal x3
+Skill Shard x6
+3W8
+Holy Critical Crystal x2
+2W8
+Critical Crystal x9
+1W8
+Critical Shard x15
+Holy Critical Crystal x1
+Critical Crystal x6
+Critical Shard x10
+kV8
+Holy Critical Crystal x1
+jV8
+Critical Crystal x4
+iV8
+Critical Shard x7
+Holy Critical Crystal x1
+Critical Crystal x3
+Critical Shard x6
+Holy MP Crystal x2
+MP Crystal x9
+MP Shard x15
+?U8
+Holy MP Crystal x1
+>U8
+MP Crystal x6
+MP Shard x10
+Holy MP Crystal x1
+MP Crystal x4
+MP Shard x7
+wT8
+Holy MP Crystal x1
+vT8
+MP Crystal x3
+uT8
+MP Shard x6
+Holy Attack Crystal x2
+Attack Crystal x9
+Attack Shard x15
+Holy Attack Crystal x1
+Attack Crystal x6
+Attack Shard x10
+KS8
+Holy Attack Crystal x1
+JS8
+Attack Crystal x4
+IS8
+Attack Shard x7
+Holy Attack Crystal x1
+Attack Crystal x3
+Attack Shard x6
+Holy HP Crystal x2
+HP Crystal x9
+HP Shard x15
+Holy HP Crystal x1
+HP Crystal x6
+HP Shard x10
+Holy HP Crystal x1
+HP Crystal x4
+HP Shard x7
+WQ8
+Holy HP Crystal x1
+VQ8
+HP Crystal x3
+UQ8
+HP Shard x6
 Holy Defense Crystal x10
 Defense Crystal x30
 Defense Shard x60
@@ -11915,6 +12341,19 @@ Defense Shard x4
 Attack Shard x4
 MP Shard x4
 HP Shard x4
+Grenade Upgrade Crystal x1
+Grenade Gold Medal x1
+Grenade Silver Medal x3
+Grenade Silver Medal x2
+Grenade Bronze Medal x3
+Grenade Bronze Medal x1
+Grenade Gold Medal x1
+Grenade Silver Medal x5
+Grenade Silver Medal x3
+Grenade Silver Medal x2
+Grenade Bronze Medal x5
+Grenade Bronze Medal x3
+Grenade Bronze Medal x2
 Combat Suit R3
 Combat Suit R2
 3P/
@@ -14693,6 +15132,9 @@ Memory Diamond x4
 Memory Diamond x2
 Memory Diamond x2
 Memory Diamond x1
+Victory Score x3pt
+Victory Score x2pt
+Victory Score x1pt
 Idol who saves the city
 God Producer
 The Strongest Rival

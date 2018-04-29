@@ -645,6 +645,12 @@ L>2
 Raises stats for
 [Fairy Dance] Kirito
 Familial Love Shard
+You can do the Grenade Gold Medal Scout.
+Grenade Gold Medal
+You can do the Grenade Silver Medal Scout.
+Grenade Silver Medal
+You can do the Grenade Bronze Medal Scout.
+Grenade Bronze Medal
 You can do the Premium Live Scout VIP.
 Premium Live Ticket VIP
 You can do the Premium Live Scout Plus.
@@ -733,6 +739,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
+You can obtain in Master Swordsmen in the Battlefield Scout
+Master Swordsmen C.R. Crystal
+item_m_record_crystal_blue
 You can obtain in Rainbow Sky Scout
 Rainbow Sky C.R. Crystal
 item_m_record_crystal_blue
@@ -797,6 +806,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain in "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20017
+Upgrades character
+([Little Gunner] Fukaziroh only) 
+Rarity: High
+Grenade Upgrade Crystal
 item_m_evolution_20016
 Upgrades character
 ([Pole and Line Fishing] Sima only) 
@@ -876,6 +890,9 @@ Upgrades characters
 [Holy Sword] Heathcliff 
 Rarity: High
 Cross Swords Upgrade Crystal
+Exchangeable for limited 
+5 weapons at the exchange shop.
+Verdure Sword Stone
 At the Exchange Shop, exchangeable for various items and so on.
 Christmas Stocking
 At the Exchange Shop, exchangeable for various items and so on.
@@ -996,6 +1013,9 @@ EXP Hi-Potion
 Grants EXP to a character.
 EXP gained: Small
 EXP Potion
+Raises Fukaziroh's level cap. ([Little Gunner] Fukaziroh only) 
+Rarity: High
+Grenade Hacking Crystal
 Raises Premiere's level cap. ([Shamisen Rock] Premiere only) 
 Rarity: High
 Rock Band Hacking Crystal

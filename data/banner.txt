@@ -2,11 +2,28 @@ images/event/4904/4904_banner.png
 images/event/4903/4903_banner.png
 images/event/4902/4902_banner.png
 images/event/4901/4901_banner.png
+images/event/9023/9023_banner.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
 UH,
 images/event/9021/9021_banner.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
@@ -36,6 +53,7 @@ images/event/9009/9009_banner.png
 images/event/9009/9009_3_banner.png
 AC,
 images/event/9008/9008_banner.png
+images/event/9007/9007_banner.png
 images/event/9007/9007_4_banner.png
 images/event/9007/9007_3_banner.png
 images/event/9007/9007_3_banner.png
@@ -67,6 +85,7 @@ images/event/9007/9007_banner.png
 images/event/9005/9005_banner_2017.png
 images/event/9004/9004_banner_2017.png
 images/event/9002/9002_banner_2017.png
+images/event/8043/8043_banner.png
 images/event/8042/8042_banner.png
 images/event/8041/8041_banner.png
 images/event/8040/8040_banner.png
@@ -121,6 +140,7 @@ images/event/8002/8002_banner.png
 images/event/8001/8001_banner.png
 images/event/8000/8000_banner.png
 images/event/7026/7026_banner.png
+images/event/7025/7025_banner.png
 A<)
 images/event/7024/7024_banner.png
 images/event/7021/7021_banner.png
@@ -162,6 +182,7 @@ images/event/4904/4904_banner.png
 images/event/4903/4903_banner.png
 images/event/4902/4902_banner.png
 images/event/4901/4901_banner.png
+images/event/4851/4851_banner.png
 images/event/4806/4806_banner.png
 images/event/4805/4805_banner.png
 images/event/4804/4804_banner.png
@@ -175,6 +196,8 @@ images/event/4702/4702_banner.png
 images/event/4701/4701_banner.png
 images/event/4602/4602_banner.png
 images/event/4601/4601_banner.png
+images/event/4094/4094_banner.png
+images/event/4093/4093_banner.png
 images/event/4092/4092_banner.png
 images/event/4091/4091_banner.png
 images/event/4090/4090_banner.png
@@ -264,7 +287,9 @@ images/lottery/602/26021_scout_banner.png
 images/lottery/601/26011_scout_banner.png
 images/lottery/501/25011_scout_banner.png
 images/lottery/500/25001_scout_banner.png
+images/lottery/089/20891_scout_banner.png
 images/lottery/087/20871_scout_banner.png
+images/lottery/086/20861_scout_banner.png
 images/lottery/083/20831_scout_banner.png
 images/lottery/082/20821_scout_banner.png
 images/lottery/081/20811_scout_banner.png
@@ -315,6 +340,7 @@ images/lottery/051/20513_scout_banner.png
 images/lottery/051/20512_scout_banner.png
 images/lottery/051/20511_scout_banner.png
 images/lottery/050/20501_scout_banner.png
+images/lottery/049/20491_scout_banner.png
 images/lottery/048/20481_scout_banner.png
 images/lottery/046/20463_scout_banner.png
 images/lottery/046/20462_scout_banner.png
@@ -419,6 +445,7 @@ images/lottery/003/20034_scout_banner.png
 images/lottery/003/20034_scout_banner.png
 images/lottery/501/15011_weapon_banner.png
 images/lottery/500/15001_weapon_banner.png
+images/lottery/089/10891_weapon_banner.png
 images/lottery/082/10821_weapon_banner.png
 images/lottery/081/10811_weapon_banner.png
 images/lottery/079/10791_weapon_banner.png
@@ -519,6 +546,8 @@ images/lottery/003/10034_weapon_banner.png
 images/lottery/003/10034_weapon_banner.png
 images/lottery/003/10034_weapon_banner.png
 images/lottery/003/10034_weapon_banner.png
+BNEI0271_tier.18sale2,BNEI0271_tier.45sale2,BNEI0271_tier.56sale,saomd_tier.18sale2,saomd_tier.45sale2,saomd_tier.56sale2,jp.co.bandainamcoent.BNEI0294_SaleA,jp.co.bandainamcoent.BNEI0294_SaleB,jp.co.bandainamcoent.BNEI0294_SaleC,com.bandainamcoent.saomdas_sale_a,com.bandainamcoent.saomdas_sale_b,com.bandainamcoent.saomdas_sale_c,jp.co.bandainamcoent.BNEI0292_SaleA,jp.co.bandainamcoent.BNEI0292_SaleB,jp.co.bandainamcoent.BNEI0292_SaleC,com.bandainamcoent.saomdna_sale_a,com.bandainamcoent.saomdna_sale_b,com.bandainamcoent.saomdna_sale_c,jp.co.bandainamcoent.BNEI0293_SaleA,jp.co.bandainamcoent.BNEI0293_SaleB,jp.co.bandainamcoent.BNEI0293_SaleC,com.bandainamcoent.saomdeu_sale_1,com.bandainamcoent.saomdeu_sale_2,com.bandainamcoent.saomdeu_sale_3
+images/announcement/201805_sale_diamond_2.png
 BNEI0271_tier.18sale2,BNEI0271_tier.45sale2,BNEI0271_tier.56sale,saomd_tier.18sale2,saomd_tier.45sale2,saomd_tier.56sale2,jp.co.bandainamcoent.BNEI0294_SaleA,jp.co.bandainamcoent.BNEI0294_SaleB,jp.co.bandainamcoent.BNEI0294_SaleC,com.bandainamcoent.saomdas_sale_a,com.bandainamcoent.saomdas_sale_b,com.bandainamcoent.saomdas_sale_c,jp.co.bandainamcoent.BNEI0292_SaleA,jp.co.bandainamcoent.BNEI0292_SaleB,jp.co.bandainamcoent.BNEI0292_SaleC,com.bandainamcoent.saomdna_sale_a,com.bandainamcoent.saomdna_sale_b,com.bandainamcoent.saomdna_sale_c,jp.co.bandainamcoent.BNEI0293_SaleA,jp.co.bandainamcoent.BNEI0293_SaleB,jp.co.bandainamcoent.BNEI0293_SaleC,com.bandainamcoent.saomdeu_sale_1,com.bandainamcoent.saomdeu_sale_2,com.bandainamcoent.saomdeu_sale_3
 images/announcement/201804_sale_diamond_2.png
 BNEI0271_tier.18sale2,BNEI0271_tier.45sale2,BNEI0271_tier.56sale,saomd_tier.18sale2,saomd_tier.45sale2,saomd_tier.56sale2,jp.co.bandainamcoent.BNEI0294_SaleA,jp.co.bandainamcoent.BNEI0294_SaleB,jp.co.bandainamcoent.BNEI0294_SaleC,com.bandainamcoent.saomdas_sale_a,com.bandainamcoent.saomdas_sale_b,com.bandainamcoent.saomdas_sale_c,jp.co.bandainamcoent.BNEI0292_SaleA,jp.co.bandainamcoent.BNEI0292_SaleB,jp.co.bandainamcoent.BNEI0292_SaleC,com.bandainamcoent.saomdna_sale_a,com.bandainamcoent.saomdna_sale_b,com.bandainamcoent.saomdna_sale_c,jp.co.bandainamcoent.BNEI0293_SaleA,jp.co.bandainamcoent.BNEI0293_SaleB,jp.co.bandainamcoent.BNEI0293_SaleC,com.bandainamcoent.saomdeu_sale_1,com.bandainamcoent.saomdeu_sale_2,com.bandainamcoent.saomdeu_sale_3

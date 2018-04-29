@@ -2794,6 +2794,36 @@ Quest
 bg_thumbnail_2023
 Quest 1
 SAO Game 5th Anniversary Special (Int.)
+m1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+SAO Alternative GGO (Master +1)
+l1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 4
+SAO Alternative GGO (Master)
+k1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 3
+SAO Alternative GGO (EX)
+j1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 2
+SAO Alternative GGO (Expert)
+i1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1
+SAO Alternative GGO (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2023
@@ -6418,6 +6448,191 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+ht>
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 6-2
+Fairy Squad Jam  (Master +2)
+gt>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 6-1
+Fairy Squad Jam  (Master +2)
+ft>
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 5-2
+Fairy Squad Jam  (Master +1)
+et>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 5-1
+Fairy Squad Jam  (Master +1)
+dt>
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 4-2
+Fairy Squad Jam  (Master)
+ct>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 4-1
+Fairy Squad Jam  (Master)
+bt>
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 3-2
+Fairy Squad Jam  (EX)
+at>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 3-1
+Fairy Squad Jam  (EX)
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 2-2
+Fairy Squad Jam  (Expert)
+_t>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 2-1
+Fairy Squad Jam  (Expert)
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 1-2
+Fairy Squad Jam  (Int.)
+]t>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 1-1
+Fairy Squad Jam  (Int.)
+Tt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Fairy Squad Jam
+St>
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+New Issues
+Rt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+A Solution
+Qt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Effect of the Magic Flags
+Pt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Cooperation
+Ot>
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Magic Flags
+Nt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Arranged System
+Mt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Fund
+Raising
+Lt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Collecting Weapons
+Kt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Big Assignment 
+Jt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Squad Jam
+It>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+A Sudden Call
 ep>
 Defend Crystals from Beast Mechs!
 Watch out for the Mechanical Griffin.
@@ -17973,6 +18188,36 @@ Quest
 bg_thumbnail_2023
 Quest 1
 SAO Game 5th Anniversary Special (Int.)
+m1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+SAO Alternative GGO (Master +1)
+l1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 4
+SAO Alternative GGO (Master)
+k1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 3
+SAO Alternative GGO (EX)
+j1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 2
+SAO Alternative GGO (Expert)
+i1k
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1
+SAO Alternative GGO (Int.)
 Defeat All Enemies
 Quest
 bg_thumbnail_2023
@@ -21597,6 +21842,191 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+ht>
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 6-2
+Fairy Squad Jam  (Master +2)
+gt>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 6-1
+Fairy Squad Jam  (Master +2)
+ft>
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 5-2
+Fairy Squad Jam  (Master +1)
+et>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 5-1
+Fairy Squad Jam  (Master +1)
+dt>
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 4-2
+Fairy Squad Jam  (Master)
+ct>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 4-1
+Fairy Squad Jam  (Master)
+bt>
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 3-2
+Fairy Squad Jam  (EX)
+at>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 3-1
+Fairy Squad Jam  (EX)
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 2-2
+Fairy Squad Jam  (Expert)
+_t>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 2-1
+Fairy Squad Jam  (Expert)
+Ancient Automaton appears.
+Be careful with their spin attacks! Watch those attacks and parry! 
+Wind-elem. sword/ Holy-elem. bow characters are advantageous
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 1-2
+Fairy Squad Jam  (Int.)
+]t>
+Ancient Automaton appears.
+Dodge their powerful attacks and parry! 
+Dark-elem. sword/ Water-elem. rapier 
+characters are advantageous!
+Defeat All Enemies
+Quest
+bg_thumbnail_3006
+Quest 1-1
+Fairy Squad Jam  (Int.)
+Tt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+Fairy Squad Jam
+St>
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+New Issues
+Rt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+A Solution
+Qt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Effect of the Magic Flags
+Pt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Cooperation
+Ot>
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Magic Flags
+Nt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Arranged System
+Mt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+Fund
+Raising
+Lt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Collecting Weapons
+Kt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+Big Assignment 
+Jt>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Squad Jam
+It>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+A Sudden Call
 ep>
 Defend Crystals from Beast Mechs!
 Watch out for the Mechanical Griffin.

@@ -1,4 +1,8 @@
 skill_icon_automatic_gun_3_{}
+Leap backwards and fires a grenade launcher repeatedly. It increases all the party members' critical damage.
+Grenade Rain+
+Grenade Rain+
+skill_icon_automatic_gun_3_{}
 A combination skill. Produces bursts of electricity around an enemy by throwing a bolt and slide to the enemy to attack more. 
 Electric Bolt+
 Electric Bolt+
@@ -457,6 +461,11 @@ skill_icon_automatic_gun_3_{}
 A combination skill. Causes to burst with grenades. Shoots the last grenade to set off an enormous explosion.
 Snipe and Explosion
 Snipe and Explosion
+W2"
+skill_icon_automatic_gun_3_{}
+Leap backwards and fires a grenade launcher repeatedly. It increases your critical damage.
+Grenade Rain
+Grenade Rain
 M2"
 skill_icon_automatic_gun_3_{}
 A combination skill. Deliver more damage with a drop kick. Increases all party members' attack power.
@@ -906,6 +915,10 @@ skill_icon_rod_1_{}
 A low-level fire spell. Fire a small fireball at a target.
 Fireball
 Fireball
+skill_icon_bow_3_{}
+A combination skill. Shoots arrows towards the sky and shower enemies with the arrows. It creates a trap zone.
+Arrow Rain
+Arrow Rain
 skill_icon_bow_3_{}
 A combination skill. With sunlight, arrows rain down from a magical cherry blossom shape in the sky.
 Spring Storm
@@ -2038,6 +2051,10 @@ A combination skill. It releases an instantaneous final blow by performing a spi
 Rusty Dance
 Rusty Dance
 skill_icon_finesword_3_{}
+A combination skill. Move to the back of an enemy and perform attacks.It creates a trap zone.
+Aerial Piercing
+Aerial Piercing
+skill_icon_finesword_3_{}
 Play the shamisen and attack an enemy with melody. Creates an Attack Up Zone for a second and restores your HP. 
 Honest Echo
 Honest Echo
@@ -2641,6 +2658,10 @@ A combination skill. Enhances your own speed and recovers your Combination Start
 Cardinal Scale
 Cardinal Scale
 skill_icon_sword_3_{}
+A combination skill. After slashing through an enemy three times, it performs more attacks. It creates a trap zone.  
+Flash Slash
+Flash Slash
+skill_icon_sword_3_{}
 A combination skill. Strikes the ground by a funky strumming to attack enemies. It also creates an Attack UP Zone and restores your HP.
 Heartbeat of the Earth
 Heartbeat of the Earth
@@ -3027,6 +3048,10 @@ skill_icon_sword_1_{}
 A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
+skill_icon_sword_3_{}
+A combination skill. Slash through an enemy's back with an tornado. It creates a trap zone.
+Rapid Fall Down
+Rapid Fall Down
 skill_icon_sword_3_{}
 A combination skill. Move to the back of an enemy and perform combo attacks. MP recovery of combination starter. 
 Rising Rush

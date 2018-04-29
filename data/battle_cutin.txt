@@ -44,6 +44,29 @@ Thanks!
 Not bad!
 It's guarding! Hit it from behind!
 You okay? Want to tag out?
+耐性がある。深追いはするなよ
+弱点だな
+弱点だな
+反撃来るぞ! 伏せろ!
+スイッチ!
+ガードのしすぎだ! 気をつけろ!
+その攻撃は弾けない!
+HPが危険域だ……早く対処を!
+HPが半分か……注意しろ!
+援軍か……
+マズイ! 伏せろ!
+起き上がる! 気をつけろ!
+よく見ろ! タイミングを覚えるんだ!
+待て! もう1体を先に倒せ!
+チャンスだ! 攻撃を仕掛けろ!
+俺がやろう!
+弾け!
+状態異常か……やっかいだな
+すまん……
+助かる
+やるな
+背後から狙え!
+下がれ! HPが減っている!
 Bah... It's resistant.
 Found your weak spot...
 Found your weak spot...
@@ -67,6 +90,29 @@ Seriously? I'm disappointed.
 Nice.
 Slip around its guard!
 You're too weak! Switch with me!
+Resistant, huh? Annoying!
+Weakness spotted!
+Weakness spotted!
+Ooh, watch the counter!
+I'm up!
+Ouch. Too much guarding!
+You can't deflect that!
+Careful! Your HP's low!
+Half HP? Hey, it's fine!
+Reinforcements?! No fair!
+Special attack! Cool!
+My lullaby wasn't enough...
+Bad timing?
+Ooh yeah! Get the next one!
+Now's our chance!
+I'd beat it with one punch!
+Parry!
+Ouch, debuff? No fun!
+No waaay!
+Woo, you the best!
+Oh yeah, oh yeah!!
+Its back is wide open!
+Hey, this is no fair!
 Resistance won't help you.
 Found you!
 Found you!

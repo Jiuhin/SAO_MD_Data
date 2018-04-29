@@ -458,6 +458,10 @@ images/event/7026/7026_top.png
 images/event/7026/7026_banner.png
 images/event/7026/7026_banner.png
 [SAO Game 5th Anniversary] Strea & Premiere
+images/event/7025/7025_top.png
+images/event/7025/7025_banner.png
+images/event/7025/7025_banner.png
+[SAO Alternative GGO] Llenn & Pitohui
 images/event/7024/7024_top.png
 images/event/7024/7024_banner.png
 images/event/7024/7024_banner.png
@@ -662,6 +666,16 @@ images/event/dummy/dummy_top.png
 images/event/4601/4601_banner.png
 images/event/4601/4601_banner.png
 Bullet of Bullets
+Grenade Medal Scout
+images/event/4093/4093_top.png
+images/event/4093/4093_banner.png
+images/event/4093/4093_banner.png
+[Ended] Fairy Squad Jam
+Grenade Medal Scout
+images/event/4093/4093_top.png
+images/event/4093/4093_banner.png
+images/event/4093/4093_banner.png
+Fairy Squad Jam
 Premium Live Scout
 images/event/4092/4092_top.png
 images/event/4092/4092_banner.png
@@ -928,6 +942,10 @@ images/event/4054/4054_top.png
 images/event/4054/4054_banner.png
 images/event/4054/4054_banner.png
 Magic Gems of the Forest
+images/event/4053/4053_top.png
+images/event/4053/4053_banner.png
+images/event/4053/4053_banner.png
+The Fairy Daughter
 images/event/4052/4052_top_2.png
 images/event/4052/4052_banner_2.png
 images/event/4052/4052_banner_2.png

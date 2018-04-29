@@ -1,6 +1,7 @@
 vc_battle_kureha
 vc_battle_m
 vc_battle_eiji
+vc_battle_fukaziroh
 vc_battle_pitohui
 vc_battle_llenn
 vc_battle_alice
@@ -60,6 +61,7 @@ vc_battle_kirito
 vc_adv_kureha
 vc_adv_m
 vc_adv_eiji
+vc_adv_fukaziroh
 vc_adv_pitohui
 vc_adv_llenn
 vc_adv_alice

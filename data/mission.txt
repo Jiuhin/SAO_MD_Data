@@ -1391,6 +1391,22 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4093031,1
+Complete "Fairy Squad Jam  (Master +2) Part1" without down.
+4093031,1,150
+Complete "Fairy Squad Jam (Master +2) Part1" with a 150+ hit combo.
+409301,10000000
+Earn a score of 10,000,000 in Fairy Squad Jam
+409301,11500000
+Earn a score of 11,500,000 in Fairy Squad Jam
+409301,12000000
+Earn a score of 12,000,000 in Fairy Squad Jam
+409301,13500000
+Earn a score of 13,500,000 in Fairy Squad Jam
+4093030
+Complete "Fairy Squad Jam  (Master +1) Part2".
+4093022
+Complete "Fairy Squad Jam  (Int.) Part2".
 Dx>
 4092005,2,2160025,7500
 Complete "Attack on Beast Mechs (Master +1)" keeping more than 75% of HP of each Crystal

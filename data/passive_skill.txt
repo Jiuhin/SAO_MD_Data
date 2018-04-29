@@ -212,6 +212,12 @@ Greatly increases max HP & guard durability.
 HP & Guard Durability Up
 Increases Non-elem. character's max HP and MP by 3%.
 Max HP/MP +3% (Non-elem.)
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP Every 10 Combos
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP Every 10 Combos
+The speed of a combo attack increases every 10 hit combos up to 50 hit combos.
+Attack Speed UP Every 10 Combos
 Increases Attack by 5% and also increase MP Recovery rate in the 3rd PvP Event.
 ATK&MP Recovery UP(3rd BoB)
 Increases Attack by 5% and also increase MP Recovery rate in the 2nd PvP Event.
@@ -684,6 +690,8 @@ Reduces Dark-elem. character's Required MP by -10%.
 Required MP -10% (Dark)
 Increases Dark-elem. character's MP & def. by 3%.
 MP & Def. +3% (Dark)
+Increases Dark-elem. character's attack by 12%.
+Atk +12% (Dark)
 Increases Dark-elem. character's attack by 3%.
 Atk +3% (Dark)
 Increases Dark-elem. character's MP by 3%.
@@ -754,6 +762,8 @@ Increases Fire-elem. character's HP by 6%.
 HP +6% (Fire)
 Reduces Non-elem. character's Required MP by -10%, increases Critical damage by 10%
 Required MP -10% / Critical damage +10% (Non-elem.)
+Reduces Non-elem. character's Required MP by -10%.
+Required MP -10% (Non-elem.)
 Increases Non-elem. character's MP & def. by 3%.
 MP & Def. +3% (Non-elem.)
 Increases Non-elem. character's defense by 6%.
