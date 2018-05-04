@@ -1,21 +1,24 @@
-PYF
-hsE
-8>D
-hmA
-P6A
-8Q?
-,w>
-DU>
-PG:
-H)6
-t	-
-lw,
-(P+
-d%+
-P8)
-pS(
-p&(
-4/&
+,PJ
+0CI
+4jH
+0:H
+LrE
+D&D
+0.C
+,LB
+d B
+hE<
+p	9
+x"6
+Xh5
+8?5
+P].
+P5)
+8X'
+x[&
+D6%
+0U$
+x)$
 l&"
 Xs!
 walk
@@ -182,7 +185,6 @@ dead
 dash
 damage
 charge_old
-"Dv>
 charge
 back_step
 attack_3
@@ -580,8 +582,8 @@ wakeup
 wait
 stun
 step
+zD"Y
 skill_16310101
-zDl
 skill_163101
 skill_161201
 skill_161102
@@ -597,6 +599,7 @@ dead
 dash
 damage
 charge_old
+"DNp
 charge
 back_step
 attack_3
@@ -895,7 +898,7 @@ wakeup
 wait
 stun
 step
-HD>
+HDbt
 skill_103122
 skill_102201
 skill_101101
@@ -2077,6 +2080,7 @@ wakeup
 wait
 stun
 step
+"D滽
 skill_2312702
 skill_2312701
 skill_23127
@@ -2122,7 +2126,6 @@ stun
 step
 skill_2313001
 	5	
-zDf9
 skill_23130
 skill_22202
 skill_21101
@@ -2704,7 +2707,10 @@ wakeup
 wait
 stun
 step
+DBX
 skill_22411101
+EfZ
+EJ[
 skill_224111
 skill_221203
 skill_221104
@@ -3169,12 +3175,7 @@ wakeup
 wait
 stun
 step
-EJC
-D.D
 skill_22411101
-ERF
-E6G
-DvH
 skill_224111
 skill_221203
 skill_221104
@@ -3227,7 +3228,7 @@ wakeup
 wait
 stun
 step
-C6v
+CZ'
 skill_224108
 skill_221104
 skill_221103
@@ -3745,7 +3746,6 @@ wakeup
 wait
 stun
 step
-HDp
 skill_184102
 skill_182101
 skill_181101
@@ -3954,7 +3954,7 @@ wakeup
 wait
 stun
 step
-TDBy
+TDf
 skill_183108
 skill_182101
 skill_181101
@@ -4120,6 +4120,7 @@ wakeup
 wait
 stun
 step
+HD6
 skill_183103
 skill_182101
 skill_181101
@@ -4162,7 +4163,6 @@ wait
 stun
 step
 skill_18310101
-HDzR
 skill_183101
 skill_182101
 skill_181101
@@ -4247,8 +4247,10 @@ wait
 stun
 step
 }C	
+DrT
 }C	
 }C	
+DZU
 skill_164107
 skill_161201
 skill_161102
@@ -4293,6 +4295,7 @@ wakeup
 wait
 stun
 step
+DTz
 skill_164106
 skill_161201
 skill_161102
@@ -4307,9 +4310,8 @@ down
 dead
 dash
 damage
-"DJ
+"Dn
 charge_old
-"D:
 charge
 back_step
 attack_3
@@ -4400,9 +4402,8 @@ down
 dead
 dash
 damage
-"Df(
 charge_old
-"DV
+"Dz
 charge
 back_step
 attack_3
@@ -4534,8 +4535,9 @@ down
 dead
 dash
 damage
-"D.
+"DRC
 charge_old
+"DBE
 charge
 back_step
 attack_3
@@ -4581,8 +4583,9 @@ down
 dead
 dash
 damage
-"D&
+"DJh
 charge_old
+"D:j
 charge
 back_step
 attack_3
@@ -4613,6 +4616,7 @@ wakeup
 wait
 stun
 step
+Dfy
 skill_164101
 skill_161201
 skill_161102
@@ -4627,9 +4631,9 @@ down
 dead
 dash
 damage
-"DB
+"Df
 charge_old
-"D2
+"DV
 charge
 back_step
 attack_3
@@ -4717,9 +4721,7 @@ down
 dead
 dash
 damage
-"Dj
 charge_old
-"DZ
 charge
 back_step
 attack_3
@@ -4764,8 +4766,9 @@ down
 dead
 dash
 damage
-"D.O
+"DR
 charge_old
+"DB
 charge
 back_step
 attack_3
@@ -4855,9 +4858,9 @@ down
 dead
 dash
 damage
-"D6
+"DZM
 charge_old
-"D&
+"DJO
 charge
 back_step
 attack_3
@@ -4932,7 +4935,7 @@ wait
 stun
 step
 r,	
-zDT
+zDx
 skill_163101
 skill_161201
 skill_161102
@@ -4947,9 +4950,9 @@ down
 dead
 dash
 damage
-"D6
+"DZ
 charge_old
-"D&
+"DJ
 charge
 back_step
 attack_3
@@ -5176,7 +5179,6 @@ dead
 dash
 damage
 charge_old
-"Dv
 charge
 back_step
 attack_3
@@ -5221,9 +5223,8 @@ down
 dead
 dash
 damage
-"DJ
+"Dn
 charge_old
-"D:
 charge
 back_step
 attack_3
@@ -5254,6 +5255,7 @@ wait
 stun
 step
 skill_16310101
+zD(
 skill_163101
 skill_161201
 skill_161102
@@ -5298,7 +5300,7 @@ wakeup
 wait
 stun
 step
-zD2
+zDV
 skill_16310101
 skill_163101
 skill_161201
@@ -5315,7 +5317,6 @@ dead
 dash
 damage
 charge_old
-"Dn
 charge
 back_step
 attack_3
@@ -5359,8 +5360,8 @@ down
 dead
 dash
 damage
-"D::
 charge_old
+"DN
 charge
 back_step
 attack_3
@@ -5449,7 +5450,9 @@ down
 dead
 dash
 damage
+"D>.
 charge_old
+"D.0
 charge
 back_step
 attack_3
@@ -5493,9 +5496,7 @@ down
 dead
 dash
 damage
-"Dr
 charge_old
-"Db
 charge
 back_step
 attack_3
@@ -5618,9 +5619,8 @@ wakeup
 wait
 stun
 step
-HDr
 skill_14410501
-HDN
+HDr
 skill_144105
 skill_141202
 skill_141101
@@ -5712,6 +5712,7 @@ wakeup
 wait
 stun
 step
+aD:
 skill_144102
 skill_141201
 skill_141101
@@ -5939,8 +5940,9 @@ wakeup
 wait
 stun
 step
-HD2
+HDV
 skill_14410501
+HD2
 skill_144105
 skill_141202
 skill_141101
@@ -6352,7 +6354,6 @@ wakeup
 wait
 stun
 step
-FzV
 skill_141202
 skill_141201
 skill_141101
@@ -6804,6 +6805,7 @@ wakeup
 wait
 stun
 step
+DR]
 skill_124101
 skill_121202
 skill_121101
@@ -6848,7 +6850,7 @@ wakeup
 wait
 stun
 step
-zDN
+zDr}
 skill_123112
 skill_121202
 skill_121101
@@ -7427,7 +7429,8 @@ wakeup
 wait
 stun
 step
-HDv
+HD>P
+?DR
 skill_104109
 skill_102202
 skill_101101
@@ -7601,8 +7604,7 @@ wakeup
 wait
 stun
 step
-HDfB
-HDtC
+HD.
 skill_104106
 skill_102201
 skill_101101
@@ -7687,7 +7689,7 @@ wakeup
 wait
 stun
 step
-zD"
+zDFC
 skill_104101
 skill_102201
 skill_101101
@@ -7773,7 +7775,7 @@ wakeup
 wait
 stun
 step
-zDD
+zDh
 skill_104102
 skill_102201
 skill_101101
@@ -7985,6 +7987,7 @@ wait
 stun
 step
 m5	
+HD a
 skill_103125
 skill_102202
 skill_101101
@@ -8154,6 +8157,7 @@ wakeup
 wait
 stun
 step
+HDB	
 skill_103122
 skill_102201
 skill_101101
@@ -9547,6 +9551,47 @@ serif
 5_philia_85014
 Philia
 [Treasure Hunter's Blessing] Philia
+walk
+wakeup
+wait
+stun
+step
+skill_84113
+skill_82202
+skill_81201
+parry
+parried
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_84113
+skill_82202
+skill_81201
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_85012
+An Undine in ALO. Asuna was transformed into a child by an enemy's special attack. While playing with Sphica and Feliz, Asuna finds herself unexpectedly lost in the joy of childish games.
+serif
+5_asuna_85012
+Asuna
+[I'm not a kid] Asuna
 walk
 wakeup
 wait
@@ -11736,8 +11781,8 @@ wakeup
 wait
 stun
 step
-aDNu
 skill_6411901
+aDVV
 skill_64119
 skill_62201
 %&'
@@ -12378,7 +12423,7 @@ wakeup
 wait
 stun
 step
-/Dd
+/D0
 skill_64103
 skill_62101
 %&'
@@ -12527,7 +12572,6 @@ wait
 stun
 step
 skill_6411901
-aD2/
 skill_64119
 skill_62201
 %&'
@@ -12825,7 +12869,7 @@ wakeup
 wait
 stun
 step
-/DTM
+/D&(
 skill_63131
 skill_62101
 %&'
@@ -14881,6 +14925,7 @@ wakeup
 wait
 stun
 step
+zD(
 skill_34102
 skill_32202
 skill_31201
@@ -14963,7 +15008,6 @@ wakeup
 wait
 stun
 step
-HD:w
 skill_33108
 skill_32202
 skill_31201
@@ -15381,6 +15425,47 @@ serif
 4_yuuki_24049
 Yuuki
 [Tied Together] Yuuki
+walk
+wakeup
+wait
+stun
+step
+skill_24135
+skill_22102
+skill_21201
+parry
+parried
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_24135
+skill_22102
+skill_21201
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_25023
+An Imp in ALO. When Yuuki sees Asuna as a little girl playing with the other children, she asks them to let her join. In response, Asuna tells her that she needs a handicap and hands her a pendant.
+serif
+5_yuuki_25023
+Yuuki
+[Feels like a big sis] Yuuki
 walk
 wakeup
 wait

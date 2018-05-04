@@ -742,6 +742,9 @@ item_m_record_crystal_blue
 You can obtain in Master Swordsmen in the Battlefield Scout
 Master Swordsmen C.R. Crystal
 item_m_record_crystal_blue
+You can obtain in Hand in Hand Children's Day Scout
+Children's Day C.R. Crystal
+item_m_record_crystal_blue
 You can obtain in Rainbow Sky Scout
 Rainbow Sky C.R. Crystal
 item_m_record_crystal_blue

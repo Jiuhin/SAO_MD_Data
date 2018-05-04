@@ -833,6 +833,16 @@ Character Story
 Character Story
 [Brawny Axeman] Agil Lv.10
 Character Story
+[I'm not a kid] Asuna Lv.80
+Character Story
+[I'm not a kid] Asuna Lv.70
+Character Story
+[I'm not a kid] Asuna Lv.50
+Character Story
+[I'm not a kid] Asuna Lv.30
+Character Story
+[I'm not a kid] Asuna Lv.10
+Character Story
 [Keep Trying] Yui Lv.80
 Character Story
 [Keep Trying] Yui Lv.70
@@ -1592,6 +1602,16 @@ Character Story
 [Black Swordsman] Kirito Lv.30
 Character Story
 [Black Swordsman] Kirito Lv.10
+Character Story
+[Feels like a big sis] Yuuki Lv.80
+Character Story
+[Feels like a big sis] Yuuki Lv.70
+Character Story
+[Feels like a big sis] Yuuki Lv.50
+Character Story
+[Feels like a big sis] Yuuki Lv.30
+Character Story
+[Feels like a big sis] Yuuki Lv.10
 Character Story
 [Swifty Slash] Leafa Lv.80
 Character Story

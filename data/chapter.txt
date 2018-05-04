@@ -213,6 +213,8 @@ Event
 Event
 Bullet of Bullets
 Event
+Asuna's Great Adventure
+Event
 Fairy Squad Jam
 Event
 Attack on Beast Mechs

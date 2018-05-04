@@ -1,64 +1,83 @@
-H}	
 d{	
-Hy	
-Xw	
-$u	
-Hr	
-8q	
-Xp	
-ho	
-0n	
-Dm	
-dl	
-0k	
-Hj	
-xh	
-,h	
-Dg	
-pe	
-8d	
-Lc	
-la	
-8_	
-0[	
-lY	
-lW	
-(U	
-XQ	
-XP	
-TM	
-DL	
-(K	
-PJ	
-XI	
-hH	
-,G	
-<F	
-HE	
-pC	
-$C	
-x?	
-H<	
-4:	
-L9	
-d7	
-h6	
-d5	
-H3	
-<2	
-X1	
-h0	
-X.	
-T-	
-p,	
-8+	
-,(	
-l&	
-8"	
-T!	
-p 	
-$ 	
-8		
+Tz	
+ty	
+$y	
+0x	
+Lw	
+8u	
+Lt	
+ds	
+0r	
+Hq	
+xo	
+0o	
+8n	
+Tm	
+hl	
+xk	
+(k	
+8j	
+Hi	
+Th	
+hg	
+,f	
+<e	
+Ld	
+([	
+tZ	
+tY	
+$Y	
+(X	
+xW	
+pV	
+DT	
+lS	
+tR	
+,R	
+8Q	
+HP	
+XO	
+dN	
+xM	
+(M	
+8H	
+xG	
+$G	
+pF	
+$F	
+dE	
+4D	
+PC	
+hB	
+xA	
+(A	
+0?	
+(>	
+d<	
+t:	
+(:	
+,9	
+$8	
+t7	
+p6	
+$6	
+<5	
+T4	
+p3	
+H1	
+00	
+0/	
+D,	
+T+	
+T(	
+d'	
+h&	
+l%	
+p$	
+d"	
+x!	
+,!	
+8 	
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -148,6 +167,29 @@ Squad Jam
 o:Q
 It>
 A Sudden Call
+<x>
+We have each other
+Help! Please!
+:x>
+Feeling like a big sister
+9x>
+Sister's Hardships
+8x>
+Hey Kirito, Watch Me
+7x>
+Kirito's Concern
+6x>
+Feeling Uneasy
+5x>
+I can fight a battle
+4x>
+No clue how to fix this debuff
+3x>
+I'm not a child
+2x>
+Mom got shrunk!
+1x>
+Berserk Healer's Worries
 No.1 Band?
 Seismic Stage 
 Power of Music
@@ -1439,6 +1481,7 @@ Grenade Upgrade Crystal x1
 Grenade Gold Medal x2
 Victor of the Team Battle Royale
 Fairy Squad Jam
+Asuna's Great Adventure
 Rainbow Essence x1
 Grenade Upgrade Crystal x2
 Grenade Upgrade Crystal x1
@@ -1990,6 +2033,21 @@ U)G6
 [Constant Love] Asuna
 'G6
 Memory Diamond x100
+Children's Day C.R. Crystal x5
+Children's Day C.R. Crystal x4
+Children's Day C.R. Crystal x3
+Children's Day C.R. Crystal x2
+Children's Day C.R. Crystal x1
+Children's Day C.R. Crystal x10
+Children's Day C.R. Crystal x9
+Children's Day C.R. Crystal x8
+Children's Day C.R. Crystal x7
+Children's Day C.R. Crystal x6
+Children's Day C.R. Crystal x5
+Children's Day C.R. Crystal x4
+Children's Day C.R. Crystal x3
+Children's Day C.R. Crystal x2
+Children's Day C.R. Crystal x1
 5Ub
 Master Swordsmen C.R. Crystal x5
 5Tb
@@ -12363,6 +12421,12 @@ Grenade Silver Medal x3
 Grenade Silver Medal x2
 Grenade Bronze Medal x3
 Grenade Bronze Medal x1
+GP/
+Bellflower Ribbon R3
+FP/
+Bellflower Ribbon R2
+Princess Dreamin' R3
+Princess Dreamin' R2
 Grenade Gold Medal x1
 Grenade Silver Medal x5
 Grenade Silver Medal x3

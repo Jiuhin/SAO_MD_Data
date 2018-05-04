@@ -1473,6 +1473,27 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4094025,2,45
+Complete "Asuna's Great Adventure (Master +1)" in under 45 sec.
+4094025,2,60
+Complete "Asuna's Great Adventure (Master +1)" in under 1min.
+4094024,2,45
+Complete "Asuna's Great Adventure (Master)" in under 45 sec.
+4094024,2,60
+Complete "Asuna's Great Adventure (Master)" in under 1min.
+4094025
+Complete "Asuna's Great Adventure (Master +1)".
+/<?
+4094024
+Complete "Asuna's Great Adventure (Master)".
+4094025,2
+Complete "Asuna's Great Adventure (Master +1)" without down.
++:?
+4094024,2
+Complete "Asuna's Great Adventure (Master)" without down.
+>9?
+4094024,2,150
+Complete "Asuna's Great Adventure (Master)" with a 150+ hit combo.
 4093031,1
 Complete "Fairy Squad Jam  (Master +2) Part1" without down.
 4093031,1,150

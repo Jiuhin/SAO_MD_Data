@@ -1727,6 +1727,10 @@ Swing your club with all your might and deal a heavy blow.
 Collision
 Collision
 skill_icon_dagger_3_{}
+A combination skill. Rides on a koinobori and flies toward an enemy. Enhance all the party members' Attack.
+Koinobori Parade
+Koinobori Parade
+skill_icon_dagger_3_{}
 A combination skill. While receiving benefits from Pina's breath, Enhances your own speed and recovers your Combination Starter's MP.
 Dragon's Aquastream
 Dragon's Aquastream
@@ -2653,6 +2657,10 @@ A sword skill unique to Dual Blades. Thrust with one sword
 slash with the other.
 Double Circular
 Double Circular
+skill_icon_sword_3_{}
+A combination skill. Iris are blooming all over. Perform attacks using the flower energy. Enhance all the party members' Attack.
+Iris Garden
+Iris Garden
 skill_icon_sword_3_{}
 A combination skill. Enhances your own speed and recovers your Combination Starter's MP with a smash hit augmented reality pop song.
 Cardinal Scale

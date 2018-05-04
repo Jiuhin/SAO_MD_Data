@@ -83,25 +83,25 @@ Not bad!
 Let's buy some more time!
 images/battle/cutin/battle_cutin_105003.png
 Hey! Not much time left!
-Hury up!
+Hurry up!
 images/battle/cutin/battle_cutin_105003.png
 Awesome!
 Keep going!
 images/battle/cutin/battle_cutin_105003.png
 Hey! Not much time left!
-Hury up!
+Hurry up!
 images/battle/cutin/battle_cutin_105003.png
 Awesome!
 Keep going!
 images/battle/cutin/battle_cutin_105003.png
 Hey! Not much time left!
-Hury up!
+Hurry up!
 images/battle/cutin/battle_cutin_105003.png
 Awesome!
 Keep going!
 images/battle/cutin/battle_cutin_105003.png
 Hey! Not much time left!
-Hury up!
+Hurry up!
 images/battle/cutin/battle_cutin_105003.png
 Awesome!
 Keep going!
@@ -155,25 +155,25 @@ Not bad!
 Let's buy some more time!
 images/battle/cutin/battle_cutin_105003.png
 Hey! Not much time left!
-Hury up!
+Hurry up!
 images/battle/cutin/battle_cutin_105003.png
 Awesome!
 Keep going!
 images/battle/cutin/battle_cutin_105003.png
 Hey! Not much time left!
-Hury up!
+Hurry up!
 images/battle/cutin/battle_cutin_105003.png
 Awesome!
 Keep going!
 images/battle/cutin/battle_cutin_105003.png
 Hey! Not much time left!
-Hury up!
+Hurry up!
 images/battle/cutin/battle_cutin_105003.png
 Awesome!
 Keep going!
 images/battle/cutin/battle_cutin_105003.png
 Hey! Not much time left!
-Hury up!
+Hurry up!
 images/battle/cutin/battle_cutin_105003.png
 Awesome!
 Keep going!
@@ -341,34 +341,28 @@ ht>
 gt>
 ht>
 images/battle/cutin/battle_cutin_65022.png
-Your current team is exhausted!
-Let's switch to a new party!
+Wind-elem. sword and Holy-elem, bow are advantageous to the next boss!
 ft>
 et>
 ft>
 images/battle/cutin/battle_cutin_65022.png
-Your current team is exhausted!
-Let's switch to a new party!
+Wind-elem. sword and Holy-elem, bow are advantageous to the next boss!
 dt>
 ct>
 dt>
 images/battle/cutin/battle_cutin_65022.png
-Your current team is exhausted!
-Let's switch to a new party!
+Wind-elem. sword and Holy-elem, bow are advantageous to the next boss!
 bt>
 at>
 bt>
 images/battle/cutin/battle_cutin_65022.png
-Your current team is exhausted!
-Let's switch to a new party!
+Wind-elem. sword and Holy-elem, bow are advantageous to the next boss!
 _t>
 images/battle/cutin/battle_cutin_65022.png
-Your current team is exhausted!
-Let's switch to a new party!
+Wind-elem. sword and Holy-elem, bow are advantageous to the next boss!
 ]t>
 images/battle/cutin/battle_cutin_65022.png
-Your current team is exhausted!
-Let's switch to a new party!
+Wind-elem. sword and Holy-elem, bow are advantageous to the next boss!
 Tt>
 St>
 Rt>

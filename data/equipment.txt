@@ -70,6 +70,20 @@ ZP/
 TBD
 Saint Necklace R2
 accessory01_0076
+HP/
+TBD
+Bellflower Ribbon R4
+accessory01_0074
+GP/
+HP/
+TBD
+Bellflower Ribbon R3
+accessory01_0074
+FP/
+GP/
+TBD
+Bellflower Ribbon R2
+accessory01_0074
 4P/
 TBD
 Military Helmet R4
@@ -694,6 +708,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+Princess Dreamin' R4
+armor03_0122
+TBD
+Princess Dreamin' R3
+armor03_0122
+TBD
+Princess Dreamin' R2
+armor03_0122
 TBD
 Desert Battlewear F R4
 armor03_0119
@@ -2556,6 +2579,12 @@ TBD
 Small Mace R1
 weapon05_0001
 TBD
+Fish Scale Sword R5
+weapon04_0061
+TBD
+Fish Scale Sword R4
+weapon04_0061
+TBD
 Blade of Bight Festival +1 R5
 weapon04_0060
 TBD
@@ -3444,6 +3473,12 @@ weapon01_0133
 TBD
 Dark Rebellion R4
 weapon01_0133
+TBD
+Self Defense Blade R5
+weapon01_0125
+TBD
+Self Defense Blade R4
+weapon01_0125
 TBD
 Eradicate Storm R5
 weapon01_0124

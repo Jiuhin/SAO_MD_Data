@@ -6558,6 +6558,127 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Ix>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 5
+Asuna's Great Adventure (Master +1)
+Hx>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 4
+Asuna's Great Adventure (Master)
+Gx>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 3
+Asuna's Great Adventure (EX)
+Fx>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 2
+Asuna's Great Adventure (Expert)
+Ex>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 1
+Asuna's Great Adventure (Int.)
+<x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+We have each other
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Help! Please!
+:x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Feeling like a big sister
+9x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Big Sister's Hardships
+8x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Hey Kirito, Watch Me
+7x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Kirito's Concern
+6x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Feeling Uneasy
+5x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+I can fight a battle
+4x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+No clue how to fix this debuff
+3x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+I'm not a child
+2x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Mom got shrunk!
+1x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Berserk Healer's Worries
 ht>
 Ancient Automaton appears.
 Be careful with their spin attacks! Watch those attacks and parry! 
@@ -22062,6 +22183,127 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Ix>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 5
+Asuna's Great Adventure (Master +1)
+Hx>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 4
+Asuna's Great Adventure (Master)
+Gx>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 3
+Asuna's Great Adventure (EX)
+Fx>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 2
+Asuna's Great Adventure (Expert)
+Ex>
+The Koinobori King appears around Alne.
+Watch out when they start inhaling air.
+Move to the back of the enemy 
+and parry to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_3007
+Quest 1
+Asuna's Great Adventure (Int.)
+<x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 12
+We have each other
+Finish Story
+Story
+bg_thumbnail_0
+Story 11
+Help! Please!
+:x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Feeling like a big sister
+9x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 9
+Big Sister's Hardships
+8x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 8
+Hey Kirito, Watch Me
+7x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+Kirito's Concern
+6x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Feeling Uneasy
+5x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 5
+I can fight a battle
+4x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+No clue how to fix this debuff
+3x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 3
+I'm not a child
+2x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 2
+Mom got shrunk!
+1x>
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Berserk Healer's Worries
 ht>
 Ancient Automaton appears.
 Be careful with their spin attacks! Watch those attacks and parry! 

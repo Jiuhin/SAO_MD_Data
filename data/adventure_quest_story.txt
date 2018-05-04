@@ -96,6 +96,64 @@ Character Introduction: Kirito
 Event Story
 The Pristine Floating Castle
 Floor :100
+<x>
+<x>
+Event Story
+Asuna's Great Adventure
+We have each other
+Event Story
+Asuna's Great Adventure
+Help! Please!
+:x>
+:x>
+Event Story
+Asuna's Great Adventure
+Feeling like a big sister
+9x>
+9x>
+Event Story
+Asuna's Great Adventure
+Big Sister's Hardships
+8x>
+8x>
+Event Story
+Asuna's Great Adventure
+Hey Kirito, Watch Me
+7x>
+7x>
+Event Story
+Asuna's Great Adventure
+Kirito's Concern
+6x>
+6x>
+Event Story
+Asuna's Great Adventure
+Feeling Uneasy
+5x>
+5x>
+Event Story
+Asuna's Great Adventure
+I can fight a battle
+4x>
+4x>
+Event Story
+Asuna's Great Adventure
+No clue how to fix this debuff
+3x>
+3x>
+Event Story
+Asuna's Great Adventure
+I'm not a child
+2x>
+2x>
+Event Story
+Asuna's Great Adventure
+Mom got shrunk!
+1x>
+1x>
+Event Story
+Asuna's Great Adventure
+Berserk Healer's Worries
 Tt>
 Tt>
 Event Story

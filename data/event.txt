@@ -43,7 +43,7 @@ images/common/event_point.png
 images/event/9023/9023_top.png
 images/event/9023/9023_banner.png
 images/event/9023/9023_banner.png
-----------
+[Ended] GGO Boss Rush - Wild Avengers 
 EP Market
 images/common/event_point.png
 images/event/9023/9023_top.png
@@ -686,6 +686,11 @@ images/event/dummy/dummy_top.png
 images/event/4601/4601_banner.png
 images/event/4601/4601_banner.png
 Bullet of Bullets
+images/event/4094/event_item_4094.png
+images/event/4094/4094_top.png
+images/event/4094/4094_banner.png
+images/event/4094/4094_banner.png
+Asuna's Great Adventure
 Grenade Medal Scout
 images/event/4093/4093_top.png
 images/event/4093/4093_banner.png
