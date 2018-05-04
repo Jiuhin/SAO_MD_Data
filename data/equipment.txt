@@ -32,6 +32,9 @@ TBD
 Pink Camouflage LZ R4
 weapon11_0001
 TBD
+Goliath SCS R4
+weapon10_0007
+TBD
 Rebecca R4
 weapon10_0005
 TBD

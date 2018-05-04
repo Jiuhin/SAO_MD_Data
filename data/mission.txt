@@ -21,6 +21,88 @@ Korean Ver is Released! Special Character Present!
 Complete OS Episode 0 "Someone's Requiem"
 Skill Slot material present!
 Join a Guild
+9023008,1,50
+Complete "Twin Head Daddy (Master +1)" 
+in under 50 sec.
+9023004,1,100
+Complete "Vincent the Cyborg (Master +1)" 
+with a 100+ hit combo.
+9023012,1
+Complete "Angry Berserker (Master +1)" 
+without down.
+9023008,1,6
+Complete 
+Twin Head Daddy (Master +1)" 
+with 6+ parries.
+9023012,1,70
+Complete "Angry Berserker (Master +1)" 
+with a 70+ hit combo.
+9023004,1,11,1
+Complete 
+Vincent the Cyborg (Master +1)" 
+with an automatic rifle character.
+9023008,1,1
+Complete 
+Twin Head Daddy (Master +1)" 
+in GGO Boss Rush - Wild Avengers.
+9023004,1,50
+Complete "Vincent the Cyborg (Master +1)" 
+in under 50 sec.
+9023012,1,100
+Complete "Angry Berserker (Master +1)" 
+with a 100+ hit combo.
+9023008,1
+Complete "Twin Head Daddy (Master +1)" 
+without down.
+9023004,1,6
+Complete 
+Vincent the Cyborg (Master +1)" 
+with 6+ parries.
+9023008,1,70
+Complete "Twin Head Daddy (Master +1)" 
+with a 70+ hit combo.
+9023012,1,4,1
+Complete "Angry Berserker (Master +1)" 
+with a dagger character.
+9023004,1,1
+Complete 
+Vincent the Cyborg (Master +1)" 
+in GGO Boss Rush - Wild Avengers.
+9023012,1,50
+Complete "Angry Berserker (Master +1)" 
+in under 50 sec.
+9023008,1,100
+Complete "Twin Head Daddy (Master +1)" 
+with a 100+ hit combo.
+9023004,1
+Complete 
+Vincent the Cyborg (Master +1)" 
+without down.
+9023012,1,6
+Complete 
+Angry Berserker (Master +1)" 
+with 6+ parries.
+9023004,1,70
+Complete "Vincent the Cyborg (Master +1)" 
+with a 70+ hit combo.
+9023008,1,1,1
+Complete "Twin Head Daddy (Master +1)" 
+with a sword character.
+9023007,1,1
+Complete 
+Twin Head Daddy (Master)" 
+in GGO Boss Rush - Wild Avengers with an S rank.
+9023002,1,1
+Complete 
+Vincent the Cyborg (EX)" 
+in GGO Boss Rush - Wild Avengers with an S rank.
+9023009,1,1
+Complete 
+Angry Berserker (Expert)" 
+in GGO Boss Rush - Wild Avengers with an S rank.
+9023001+9023002+9023003+9023004+9023005+9023006+9023007+9023008+9023009+9023010+9023011+9023012,1,1
+Complete all the quests in GGO Boss Rush - Wild Avengers
+with an S rank.
 9021001+9021002+9021003+9021004+9021005+9021006+9021007+9021008+9021009+9021010+9021011+9021012,1,4
 Complete Untouchable Gunman 
 12 

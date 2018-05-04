@@ -1,12 +1,14 @@
-4K!
-L/!
-$c 
-TS 
-,D 
-,5 
-P! 
-(z	
-LP	
+XR!
+4-!
+0r 
+Xo 
+lg 
+xW 
+H" 
+dk	
+PW	
+43	
+0		
 dead
 bullet_99907_pina_sweet_breath
 dead
@@ -21,7 +23,6 @@ dead
 bullet_99910_pina_increase_3
 dead
 bullet_99910_pina_increase_3
-fC<
 wait
 bullet_910002_single_dummy_2
 dead
@@ -42,7 +43,6 @@ $ZC
 $ZC
 $ZC
 $ZC
-CTe
 wait
 bullet_910002_single_dummy_2
 wait
@@ -59,6 +59,7 @@ dead
 bullet_910001_single_dummy
 dead
 bullet_910001_single_dummy
+Cd+
 wait
 bullet_910002_single_dummy_2
 dead
@@ -1618,15 +1619,12 @@ wait
 ground
 dead
 bullet_6001_photon_arrow
-wait
 ground
 dead
 bullet_5054_mini_the_king_of_lakes
-wait
 ground
 dead
 bullet_5054_mini_the_king_of_lakes
-wait
 ground
 dead
 bullet_5054_mini_the_king_of_lakes
@@ -2052,6 +2050,8 @@ dead
 bullet_5010_muddy_blast
 dead
 bullet_5010_muddy_blast
+dead
+bullet_5010_muddy_blast
 wait
 appear
 bullet_5009_ivy_cradle_2
@@ -2197,6 +2197,7 @@ bullet_4080_flower_garden_1
 dead
 bullet_4079_rising_carp
 wait
+dead
 appear
 bullet_4078_carp_streamer
 dead
@@ -2971,6 +2972,7 @@ wait
 ground
 dead
 bullet_4001_windshear_arrow
+bullet_3058_dual_splash
 dead
 bullet_3057_lightning_around
 bullet_3056_aerial_percing
@@ -4685,6 +4687,7 @@ dead
 appear
 bullet_1113_1
 bullet_1113_karuta
+bullet_1111_automatic_gun
 AdF
 AdF
 AdF

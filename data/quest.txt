@@ -1,3 +1,108 @@
+Angry Berserker makes an assault!
+Be careful when they jump up.
+Move where they land quickly
+and parry spin attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 3-4
+Angry Berserker (Master +1)
+Angry Berserker makes an assault!
+Be careful when they jump up.
+Move where they land quickly
+and parry spin attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 3-3
+Angry Berserker (Master)
+Angry Berserker makes an assault!
+Be careful when they jump up.
+Move where they land quickly
+and parry spin attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 3-2
+Angry Berserker (EX)
+Angry Berserker makes an assault!
+Be careful when they jump up.
+Move where they land quickly
+and parry spin attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 3-1
+Angry Berserker (Expert)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2-4
+Twin Head Daddy (Master +1)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2-3
+Twin Head Daddy (Master) 
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2-2
+Twin Head Daddy (EX) 
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2-1
+Twin Head Daddy (Expert)
+Vincent the Cyborg appears in the Boss Rush.
+Dodge mechanical ax swings and
+strike back with a parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1-4
+Vincent the Cyborg (Master +1)
+Vincent the Cyborg appears in the Boss Rush.
+Dodge mechanical ax swings and
+strike back with a parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1-3
+Vincent the Cyborg (Master)
+Vincent the Cyborg appears in the Boss Rush.
+Dodge mechanical ax swings and
+strike back with a parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1-2
+Vincent the Cyborg (EX)
+Vincent the Cyborg appears in the Boss Rush.
+Dodge mechanical ax swings and
+strike back with a parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1-1
+Vincent the Cyborg (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
+Quest 4
+Anime Trailer Quest Epi 5
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
@@ -121,6 +226,11 @@ Quest
 bg_thumbnail_8052
 Quest 1
 Untouchable Gunman 
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+Episode 4 Digest
 Defeat All Enemies
 Quest
 bg_thumbnail_4002
@@ -15392,6 +15502,111 @@ Quest
 bg_thumbnail_2002
 Quest 1-1
 Horunka
+Angry Berserker makes an assault!
+Be careful when they jump up.
+Move where they land quickly
+and parry spin attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 3-4
+Angry Berserker (Master +1)
+Angry Berserker makes an assault!
+Be careful when they jump up.
+Move where they land quickly
+and parry spin attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 3-3
+Angry Berserker (Master)
+Angry Berserker makes an assault!
+Be careful when they jump up.
+Move where they land quickly
+and parry spin attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 3-2
+Angry Berserker (EX)
+Angry Berserker makes an assault!
+Be careful when they jump up.
+Move where they land quickly
+and parry spin attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4020
+Quest 3-1
+Angry Berserker (Expert)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2-4
+Twin Head Daddy (Master +1)
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2-3
+Twin Head Daddy (Master) 
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2-2
+Twin Head Daddy (EX) 
+Twin Head Daddy the mechanical giant
+Dodge bombs raining down and parry their attacks.
+Be careful when they start charging up!
+Defeat All Enemies
+Quest
+bg_thumbnail_4019
+Quest 2-1
+Twin Head Daddy (Expert)
+Vincent the Cyborg appears in the Boss Rush.
+Dodge mechanical ax swings and
+strike back with a parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1-4
+Vincent the Cyborg (Master +1)
+Vincent the Cyborg appears in the Boss Rush.
+Dodge mechanical ax swings and
+strike back with a parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1-3
+Vincent the Cyborg (Master)
+Vincent the Cyborg appears in the Boss Rush.
+Dodge mechanical ax swings and
+strike back with a parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1-2
+Vincent the Cyborg (EX)
+Vincent the Cyborg appears in the Boss Rush.
+Dodge mechanical ax swings and
+strike back with a parry!
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 1-1
+Vincent the Cyborg (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
+Quest 4
+Anime Trailer Quest Epi 5
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
@@ -15515,6 +15730,11 @@ Quest
 bg_thumbnail_8052
 Quest 1
 Untouchable Gunman 
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+Episode 4 Digest
 Defeat All Enemies
 Quest
 bg_thumbnail_4002

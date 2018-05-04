@@ -90,6 +90,8 @@ MP Recovery on Kill (Non-elem.)
 MP Recovery on Kill (Fire-elem.)
 50% chance Holy-elem. gains 5 MP on enemy kill.
 MP Recovery on Kill (Holy-elem.)
+50% chance Wind-elem. gains 5 MP on enemy kill.
+MP Recovery on Kill (Wind-elem.)
 Gain 5 MP on enemy kill.
 5 MP Recovery on Kill
 Increases attack and critical by 3% when equipped by OS Characters.
@@ -100,6 +102,8 @@ Increases attack by 3% when equipped by OS Characters.
 Atk +3% (OS Character)
 Increases attack and critical by 3% when equipped by GGO Characters.
 Atk&Crit. +3% (GGO Character)
+Increases attack by 10% when equipped by Fukaziroh.
+Atk +10% (Fukaziroh)
 Increases Crit. by 10% when equipped by Alice.
 Crit. +10% (Alice)
 50% chance Alice gains 5 MP on enemy kill.
@@ -170,6 +174,8 @@ Decreases damage by 10% vs Holy-elem. enemies  when HP is above 80%
 Damage Received -10% vs Holy-elem (HP Above 80%)
 Decreases damage by 10% vs Dark-elem. enemies when HP is above 80%
 Damage Received -10% vs Dark-elem (HP Above 80%)
+Increases Wind-elem. character's attack by 6% when HP is above 80%.
+Attack +6% (Wind-elem, HP Above 80%)
 Reduces damage received 30% when HP is below 50%.
 Damage Received -30% (HP Below 50%)
 Lower MP required by 5% when HP is above 50%.

@@ -38,6 +38,22 @@ images/event/4001/4001_01_top_monday.png
 images/event/4001/4001_01_banner_monday.png
 images/event/4001/4001_01_banner_monday.png
 Mon. Defense
+EP Market
+images/common/event_point.png
+images/event/9023/9023_top.png
+images/event/9023/9023_banner.png
+images/event/9023/9023_banner.png
+----------
+EP Market
+images/common/event_point.png
+images/event/9023/9023_top.png
+images/event/9023/9023_banner.png
+images/event/9023/9023_banner.png
+GGO Boss Rush - Wild Avengers 
+images/event/9022/9022_top.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+Anime Trailer Quest
 images/event/9022/9022_top.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
@@ -54,6 +70,10 @@ images/event/9021/9021_top.png
 images/event/9021/9021_banner.png
 images/event/9021/9021_banner.png
 Untouchable Gunman
+images/event/9020/9020_top.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+SAO A GGO Digest
 images/event/9020/9020_top.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png

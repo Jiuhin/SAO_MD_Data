@@ -1,69 +1,64 @@
-X}	
-Xz	
-(y	
-tx	
-(u	
-tt	
-Pp	
-<n	
-tm	
+H}	
+d{	
+Hy	
+Xw	
+$u	
+Hr	
+8q	
+Xp	
+ho	
+0n	
+Dm	
 dl	
-4k	
-ph	
-$h	
-Hg	
-te	
-$e	
-Xc	
-pb	
-$b	
-d_	
-8]	
-X[	
-dZ	
-xY	
-,Y	
-<X	
-LW	
-lU	
-<R	
-TP	
-lN	
-8M	
-$L	
-4K	
-8J	
-0I	
-(H	
-pG	
-TF	
-<D	
-HC	
-XB	
-hA	
-8?	
-P>	
-H:	
-49	
-48	
-t7	
-(7	
-D6	
-x4	
-(4	
-83	
+0k	
+Hj	
+xh	
+,h	
+Dg	
+pe	
+8d	
+Lc	
+la	
+8_	
+0[	
+lY	
+lW	
+(U	
+XQ	
+XP	
+TM	
+DL	
+(K	
+PJ	
+XI	
+hH	
+,G	
+<F	
+HE	
+pC	
+$C	
+x?	
+H<	
+4:	
+L9	
+d7	
+h6	
+d5	
+H3	
 <2	
-80	
-,/	
-t.	
-h-	
-8,	
-<+	
-,)	
-4(	
-L'	
-d&	
-T		
+X1	
+h0	
+X.	
+T-	
+p,	
+8+	
+,(	
+l&	
+8"	
+T!	
+p 	
+$ 	
+8		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -793,6 +788,7 @@ Wings
 SA:O
 zi:爕
 White Knight Jacket R4
+Goliath SCS R4
 Midnight Plate R5
 Lv. 80 Decryption Key x1
 Lv. 70 Decryption Key x1
@@ -1931,6 +1927,26 @@ Upgrade Crystal x3
 Upgrade Crystal x2
 m/V6
 Upgrade Crystal x1
+Memory Diamond x25
+Holy Skill Crystal x10
+Holy Critical Crystal x10
+Holy Defense Crystal x10
+Holy Attack Crystal x10
+Holy MP Crystal x10
+Holy HP Crystal x10
+Skill Crystal x25
+Critical Crystal x25
+Defense Crystal x25
+Attack Crystal x25
+MP Crystal x25
+HP Crystal x25
+Skill Shard x50
+Critical Shard x50
+Defense Shard x50
+Attack Shard x50
+MP Shard x50
+HP Shard x50
+EXP X-Potion x5
 <G6
 Memory Diamond x25
 <G6

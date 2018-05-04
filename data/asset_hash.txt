@@ -3496,6 +3496,10 @@ images/event/ranking/badge/image_ranking_badge_01.png
 images/event/banner/event_quest_banner_m_6.png
 126171a6b0bd32b0bb3dc43a43bc885f
 images/event/banner/event_quest_banner_m_5.png
+95a6f0baa564194daab399d1317972c6
+images/event/9023/9023_top.png
+0fc6718b0ca7c15d30436aeca7a26111
+images/event/9023/9023_banner.png
 1d4f7c17989dae8458fb9e072a3006e7
 images/event/9022/9022_top.png
 6bf26e34955fae4ca662a20a88280777
