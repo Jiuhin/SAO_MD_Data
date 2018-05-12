@@ -40,6 +40,8 @@ canvas_mask11.psb
 2003_pina
 2002_klein_avatar
 2001_kirito_avatar
+1074_saki
+1073_eva
 1069_waals
 1068_daisy
 1067_arfa-sys
@@ -49,6 +51,7 @@ canvas_mask11.psb
 1061_orchis
 1060_epidend
 1059_fukaziroh_miyu
+1059_fukaziroh
 1058_pitohui
 1057_llenn_karen
 1057_llenn

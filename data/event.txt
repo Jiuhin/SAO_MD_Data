@@ -66,10 +66,18 @@ images/event/9022/9022_top.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
 Anime Trailer Quest
+images/event/9022/9022_top.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+Anime Trailer Quest
 images/event/9021/9021_top.png
 images/event/9021/9021_banner.png
 images/event/9021/9021_banner.png
 Untouchable Gunman
+images/event/9020/9020_top.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+SAO A GGO Digest
 images/event/9020/9020_top.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
@@ -162,6 +170,10 @@ images/event/9009/9009_top.png
 images/event/9009/9009_banner.png
 images/event/9009/9009_banner.png
 Leafa's Birthday Quest!
+images/event/9007/9007_top.png
+images/event/9007/9007_banner.png
+images/event/9007/9007_banner.png
+Mission Challenge Vol.12
 EP Market
 images/common/event_point_yellow.png
 images/event/9007/9007_4_top.png
@@ -586,6 +598,10 @@ images/event/4901/4901_top.png
 images/event/4901/4901_banner.png
 images/event/4901/4901_banner.png
 The Beast Lords in League
+images/event/4851/4851_name.png
+images/event/4851/4851_banner.png
+images/event/4851/4851_banner.png
+NEW Shadowy Castle in the Night
 images/event/4806/4806_name.png
 images/event/4806/4806_banner.png
 images/event/4806/4806_banner.png

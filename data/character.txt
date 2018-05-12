@@ -1,26 +1,25 @@
-,PJ
-0CI
-4jH
-0:H
-LrE
-D&D
-0.C
-,LB
-d B
-hE<
-p	9
-x"6
-Xh5
-8?5
-P].
-P5)
-8X'
-x[&
-D6%
-0U$
-x)$
-l&"
-Xs!
+lfI
+lDG
+8rE
+l E
+0&D
+P B
+hy>
+TE<
+p>:
+xU6
+d"6
+Dh5
+$?5
+<].
+l2.
+<5)
+$X'
+d[&
+06%
+d)$
+X&"
+Ds!
 walk
 wakeup
 wait
@@ -582,7 +581,7 @@ wakeup
 wait
 stun
 step
-zD"Y
+zD6Y
 skill_16310101
 skill_163101
 skill_161201
@@ -599,7 +598,7 @@ dead
 dash
 damage
 charge_old
-"DNp
+"Dbp
 charge
 back_step
 attack_3
@@ -898,7 +897,7 @@ wakeup
 wait
 stun
 step
-HDbt
+HDvt
 skill_103122
 skill_102201
 skill_101101
@@ -2080,7 +2079,6 @@ wakeup
 wait
 stun
 step
-"D滽
 skill_2312702
 skill_2312701
 skill_23127
@@ -2707,10 +2705,11 @@ wakeup
 wait
 stun
 step
-DBX
+E2V
+ErW
+DVX
 skill_22411101
-EfZ
-EJ[
+EzZ
 skill_224111
 skill_221203
 skill_221104
@@ -3228,7 +3227,7 @@ wakeup
 wait
 stun
 step
-CZ'
+Cn'
 skill_224108
 skill_221104
 skill_221103

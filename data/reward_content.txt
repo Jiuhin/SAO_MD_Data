@@ -1,83 +1,72 @@
-d{	
-Tz	
-ty	
-$y	
-0x	
-Lw	
-8u	
-Lt	
-ds	
-0r	
-Hq	
-xo	
-0o	
-8n	
-Tm	
-hl	
-xk	
-(k	
-8j	
-Hi	
-Th	
-hg	
-,f	
-<e	
-Ld	
-([	
-tZ	
-tY	
-$Y	
-(X	
-xW	
-pV	
-DT	
-lS	
-tR	
-,R	
-8Q	
-HP	
-XO	
-dN	
-xM	
-(M	
-8H	
-xG	
-$G	
-pF	
-$F	
-dE	
-4D	
-PC	
-hB	
-xA	
-(A	
-0?	
-(>	
-d<	
-t:	
-(:	
-,9	
+<}	
+l{	
+4z	
+Hy	
+hx	
+4w	
+Lv	
+du	
+0t	
+Hs	
+tq	
+<p	
+Po	
+pm	
+0l	
+<k	
+Pj	
+di	
+th	
+$h	
+4g	
+Df	
+pe	
+pc	
+,a	
+D_	
+d[	
+XY	
+HX	
+,W	
+TV	
+lT	
+0S	
+LQ	
+tO	
+(O	
+DN	
+(L	
+XI	
+LH	
+hG	
+8F	
+PE	
+hC	
+lB	
+hA	
+L?	
+l<	
+X9	
+t8	
 $8	
-t7	
-p6	
-$6	
-<5	
-T4	
-p3	
-H1	
-00	
-0/	
-D,	
-T+	
+<7	
+X6	
+04	
+p2	
+,/	
+<.	
+X-	
+t,	
+(,	
+<+	
+P)	
 T(	
-d'	
-h&	
-l%	
-p$	
-d"	
-x!	
-,!	
-8 	
+X'	
+T&	
+L%	
+0"	
+T 	
+<		
 Holy Yuletide Hacking Crystal x1
 Yuletide Hacking Crystal x2
 Yuletide Hacking Shard x5
@@ -173,7 +162,7 @@ Help! Please!
 :x>
 Feeling like a big sister
 9x>
-Sister's Hardships
+Big Sister's Hardships
 8x>
 Hey Kirito, Watch Me
 7x>
@@ -1262,6 +1251,10 @@ Rainbow Essence x1
 Christmas Record Crystal x10
 Rainbow Essence x1
 Assault Team Record Crystal x10
+<U8
+I love Silica
+U<U8]6
+The Cold Blue Castle
 Memory Defrag All Stars
 Fall Festival 2016
 Toxic Bird Tattoo
@@ -1468,6 +1461,7 @@ The Black Swordsman
 The Red-Nosed Reindeer
 Beater
 The World of Swords
+Super VRMMO Player
 King of Rock 'n' roll
 700EP
 600EP
@@ -9175,6 +9169,12 @@ Ardito Bikini R3
 Jade Flower Necklace R3
 Hydrangea Yukata R3
 Water Balloon Earring R3
+Holy Cookware Hacking Crystal x8
+Cookware Hacking Crystal x13
+Cookware Hacking Shard x25
+Cookware for great chef x20
+Cookware for chef x35
+Cookware for assistant x45
 Holy Cookware Hacking Crystal x3
 Cookware Hacking Crystal x6
 Cookware Hacking Shard x20
@@ -15215,6 +15215,8 @@ Memory Diamond x1
 Victory Score x3pt
 Victory Score x2pt
 Victory Score x1pt
+Col x300000
+Col x200000
 Idol who saves the city
 God Producer
 The Strongest Rival
@@ -15259,6 +15261,7 @@ Col Boost (2x) x3
 EXP Boost (2x) x3
 Memory Diamond x25
 [Black Wing] Kirito
+Stardust (Medium) x150
 Stardust (Medium) x50
 Stardust (Medium) x100
 Fire Medallion x10

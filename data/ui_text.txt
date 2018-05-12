@@ -409,6 +409,40 @@ received!
 text_received
 You already have this character. You received an item instead!
 text_replaced_item_title
+text_point_num_unit
+Required Points
+text_point
+Obtained Points
+test_victory_score
+Time Limit
+text_deadline
+Available
+Challenges
+text_tab_3
+Available
+Challenges
+text_tab_3_active
+Victory Point
+Reward
+text_tab_2
+Victory Point
+Reward
+text_tab_2_active
+Victory Bonus
+text_tab_1
+Victory Bonus
+text_tab_1_active
+Challenge Data
+text_title
+Quest
+text_quest
+text_pt
+Victory Point
+text_point
+You haven't gotten a Victory Bonus.
+You will be rewarded with a Victory Bonus
+by completing challenges.
+text_empty_victory_bonus
 Change Party
 text_button_change_party
 Let's do this!
@@ -871,6 +905,7 @@ Next Quest
 text_play_next
 Try Again
 text_play_again
+Next
 text_exp_after
 Used up all the strength and
 lost in the fierce battle...
@@ -1012,6 +1047,28 @@ Event Settings
 text_event_setting
 No suggested parties found.
 text_no_party
+Retreat
+text_button_close
+Set Boosts:
+text_boost
+Skip
+text_skip
+Play
+text_play
+Story:
+text_story_title
+Depart
+text_departures
+Edit
+text_edit_party
+Select Party
+text_info
+Lv:
+text_boss_level_title
+Area Boss
+text_area_boss_title
+Elapsed Time
+text_elapsed_time
 Departure
 text_departures
 Second
@@ -1217,6 +1274,12 @@ Posted Until:
 text_remain_end
 Select an event.
 text_announce
+Regular
+text_regular
+Enhancement
+text_enhance
+Limited Time
+text_limited_time
 Held
 text_hold
 Details
@@ -1786,6 +1849,8 @@ text_not_character_2
 Select a
 character
 text_not_character_1
+Victory Point
+text_victory_score
 Battle
 text_tab_select_battle
 Battle

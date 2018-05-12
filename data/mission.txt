@@ -1,3 +1,40 @@
+90073201+90073202+90073203+90073204+90073205+90073206+90073207+90073208+90073209+90073210+90073211+90073212
+Complete all the missions in Rabbit Hunt
+1150091-1150093-1150095-1150097,20
+Defeat 20 of the Gold Rabbit in Rabbit Hunt
+A{h
+1150090-1150092-1150094-1150096,25
+Defeat 25 of the Silver Rabbit in Rabbit Hunt
+Azh
+1150002,200
+Defeat 200 of the Ragout Rabbit in Rabbit Hunt
+Ayh
+1150091-1150093-1150095-1150097,7
+Defeat 7 of the Gold Rabbit in Rabbit Hunt
+Axh
+1150090-1150092-1150094-1150096,10
+Defeat 10 of the Silver Rabbit in Rabbit Hunt
+Awh
+1150002,100
+Defeat 100 of the Ragout Rabbit in Rabbit Hunt
+Avh
+1150091-1150093-1150095-1150097,5
+Defeat 5 of the Gold Rabbit in Rabbit Hunt
+Auh
+1150090-1150092-1150094-1150096,8
+Defeat 8 of the Silver Rabbit in Rabbit Hunt
+Ath
+1150002,80
+Defeat 80 of the Ragout Rabbit in Rabbit Hunt
+Ash
+1150091-1150093-1150095-1150097,5
+Defeat 5 of the Gold Rabbit in Rabbit Hunt
+Arh
+1150090-1150092-1150094-1150096,8
+Defeat 8 of the Silver Rabbit in Rabbit Hunt
+Aqh
+1150002,80
+Defeat 80 of the Ragout Rabbit in Rabbit Hunt
 1040003-1040004-1040005,3
 Mission Challenge Day7 : Defeat 3 Kobold Lords at the Event Quest.
 9007017,1,8,1
@@ -103,7 +140,7 @@ in GGO Boss Rush - Wild Avengers with an S rank.
 9023001+9023002+9023003+9023004+9023005+9023006+9023007+9023008+9023009+9023010+9023011+9023012,1,1
 Complete all the quests in GGO Boss Rush - Wild Avengers
 with an S rank.
-9021001+9021002+9021003+9021004+9021005+9021006+9021007+9021008+9021009+9021010+9021011+9021012,1,4
+9021001+9021002+9021003+9021004+9021005+9021006+9021007+9021008+9021009+9021010+9021011+9021012+9021013,1,4
 Complete Untouchable Gunman 
 12 
 9019001
@@ -1207,6 +1244,16 @@ Complete "The Beast Lords in League Master+1(Fire)" with a Multi Score of 5,000,
 Muz
 4901004,2,5000000
 Complete "The Beast Lords in League Master+1(Void)" with a Multi Score of 5,000,000 or higher.
+485104
+Achieve the challenge "Complete The 81 - 100F of "NEW Shadowy Castle in the Night" with only Silica."
+1006,4851040,1
+Complete The 81 - 100F of "NEW Shadowy Castle in the Night" with only Silica.
+485102
+Achieve the challenge "Complete The 81 - 100F of "NEW Shadowy Castle in the Night" with only Kirito and Sinon."
+1001-1004,4851040,1
+Complete The 81 - 100F of "NEW Shadowy Castle in the Night" with only Kirito and Sinon.
+1002-1003,4851032,1
+Complete The 61 - 80F of "NEW Shadowy Castle in the Night" with only Asuna and Leafa.
 4705024,1,240
 Complete "Adventurers' Trials (Non) (Master +1)" with a 4 min or more remaining time.
 4705023,1,210

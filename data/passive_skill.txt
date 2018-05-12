@@ -54,6 +54,8 @@ Attack & MP of party members (Dark-elem.) increases by 1%.
 P-Members' Dark-elem. Atk&MP+1%
 Attack & MP of party members (Dark-elem.) increases by 3%.
 P-Members' Dark-elem. Atk&MP+3%
+Attack of party members (Water-elem.) increases by 6% and their MP increases by 3%.
+P-Members' Water-elem. Atk+6%&MP+3%
 Attack & MP of party members (Fire-elem.) increases by 1%.
 P-Members' Fire-elem. Atk&MP+1%
 Attack & MP of party members (Fire-elem.) increases by 3%.

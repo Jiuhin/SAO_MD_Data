@@ -1,167 +1,165 @@
-8s}
-Tl}
-XV}
-4K}
-X6}
-$q{
-ha{
-Xlz
-p(z
-H{y
-pyy
-Tqy
-Toy
-Pmy
-$ly
-D[y
-<Yy
-(%y
-dux
-8%x
-,Dw
-(jv
-Pxs
-<cs
-PVs
-p-s
-xqq
-4%q
-,Xo
-TAo
-pxn
-8_n
-t1n
-Tdm
-L!k
-,sj
-TYj
-l j
-8zi
-l4i
-H5h
-4'h
-(&g
-xlf
-l2f
-Hpd
-Xad
-8Fd
-,ob
-PWb
-$Kb
-p?b
-T{a
-dra
-8u_
-hh_
-<(]
-(c[
-lO[
-DoZ
-lWZ
-T$Z
-dqY
-TfX
-<HW
-p7W
-d,W
-4/V
-t}U
-HBT
-$-T
-h4R
-x{Q
-pcQ
-4XQ
-4[P
-L>P
-h.P
-pnO
-HeO
-T]N
-XRL
-PyK
-$8K
-pmJ
-hTJ
-<!J
-DhI
-$XI
-hiH
-8<H
-p2H
-huG
-<HG
-p}F
-pnF
-DUE
-4JE
-HfD
-PBD
-lUC
-d2C
-l%C
-4TB
-pWA
-<OA
-DBA
-8)A
-$"A
-DM?
-h1?
-Tq>
-lV>
-PD<
-8i:
-X8:
-h,:
-dH9
-P89
-H,8
-lR7
-X07
-T 7
-d86
-H(6
-lb5
-Lq1
-X:1
-T>0
-Te/
-<2.
-8j-
-,<-
-,W,
-TH,
-h0+
-Hu)
-lL(
-Lt'
-H2'
-Dc&
-x	&
-DD%
-l($
-tG"
-H0"
-$.!
-Pg 
-<5	
-8vt
+$W}
+<$}
+Hm{
+LL{
+,xz
+Lxy
+T(y
+4Mx
+t5x
+<sv
+dSv
+4Cv
+X]s
+0:s
+P)s
+Pvq
+,Qq
+Tbp
+<So
+L+o
+0rn
+din
+Hrm
+hkl
+$]l
+(Kk
+X0k
+h!k
+Dnj
+$4j
+tyi
+lfi
+,7i
+XTg
+82g
+P%f
+hOe
+xRd
+4:d
+Dzc
+0]c
+,.c
+(,b
+t!b
+h"a
+T__
+lA_
+04_
+x$]
+pMZ
+0(Z
+0]Y
+t1Y
+$fX
+<ZX
+DNX
+d-X
+xsW
+h-W
+$?V
+D4V
+L%V
+,pU
+(aU
+dHU
+8{T
+4XT
+P5T
+h'T
+X{S
+4kS
+DNS
+t2S
+$TQ
+PFQ
+D6P
+XaO
+XPO
+tdN
+HWN
+T{M
+,aL
+H{K
+(fK
+8JK
+<?K
+L}J
+(OJ
+x3J
+tbI
+LVI
+<"I
+<+H
+X?G
+<YF
+PXE
+X9E
+DID
+d0D
+PdB
+(NB
+0&A
+h]?
+DG?
+Lm>
+DV>
+P>>
+P	<
+xF9
+X49
+p	9
+Li8
+DX8
+X37
+<m6
+pa6
+di5
+pH5
+X)5
+hD4
+<44
+ht3
+,_3
+HO3
+PB3
+x.3
+tU2
+(.1
+tU/
+Dr-
+lJ-
+T%-
+hS,
+lC,
+(,,
+lt)
+l!)
+pJ(
+po'
+PD'
+LE&
+Lz%
+X+%
+L&"
+,p!
+lL 
+<C	
+H(	
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
 Repeat: The game has been cleared.
 System Announcement
 2017110701_13_a
-,wt
+(/}
 bg_black
 Kirito
 2017110701_12_a
+HYt
 Did... Did that do it?
 Kirito
 2017110701_11_a
-0xt
 still_14_heathcliff_dead
 Hngh!
 Kirito
@@ -171,7 +169,6 @@ bg_13_boss
 ...!
 Heathcliff
 2017110701_9_a
-xyt
 bg_black
 Kirito
 2017110701_8_a
@@ -183,17 +180,16 @@ still_14_kirito_revive
 Huh?
 Heathcliff
 2017110701_6_a
-0{t
 still_14_kirito_revive
 bg_13_boss
 Urgh...! Nngh!
 Kirito
 2017110701_5_a
-Hou
 bg_black
 No. Not yet...!
 Kirito
 2017110701_4_a
+t{{
 still_14_asuna_lost
 (I believe in you, Kirito.)
 Asuna
@@ -207,6 +203,29 @@ bg_13_boss
 Gurgh!
 Kirito
 2017110701_1_a
+The answer lies in the sponsor.
+902201201_6_a
+4at
+Next time, on GGO:
+Refrain.
+902201201_5_a
+What could be going through her
+mind as she watches LLENN shine
+brightly in such heated combat?
+902201201_4_a
+hbt
+Using broadcast footage, they
+reexamine the events of one
+battle in particular.
+902201201_3_a
+She orders M to fill her in on
+what happened at the tournament.
+902201201_2_a
+bg_s2_08_pub
+Pitohui is back in action after
+being absent from Squad Jam.
+902201201_1_a
+ddt
 The answer can be found in
 irrepressible emotions.
 902200401_6_a
@@ -216,6 +235,7 @@ Lonely Last Battle
 Even so, LLENN strides forth alone
 to battle a powerful team...
 902200401_4_a
+<ft
 But that's okay. She doesn't need
 to fight. She can just quit.
 902200401_3_a
@@ -227,6 +247,7 @@ bg_white
 The Squad Jam continues to heat
 up, when suddenly...
 902200401_1_a
+hht
 The answer lies in a real life
 promise.
 902200301_5_a
@@ -236,10 +257,12 @@ Death Game
 But there's something even more
 terrifying than their opponents...
 902200301_3_a
+tjt
 LLENN and M team up for it and
 form a two-person squad, LM.
 But the enemies just keep coming!
 902200301_2_a
+,kt
 bg_s2_08_rocky_area
 The Squad Jam is a huge battle
 royale between twenty-three teams.
@@ -266,22 +289,175 @@ in the Squad Jam.
 902200201_1_a
 The answer is all in the cute.
 902200101_6_a
+Hpt
 Next time, on GGO:
 902200101_5_a
 And why a bloody, violent game
 filled with guns?
 902200101_4_a
+Hqt
 is a well-off college girl like me
 wasting her time playing a VR
 game?
 902200101_3_a
 So why, you may ask,
 902200101_2_a
+Xrt
 bg_s2_01_glocken
 My name's Karen Kohiruimaki.
 I'm a college student at a 
 prestigious private school in Tokyo.
 902200101_1_a
+8st
+To be continued...
+902000601_47_a
+Ttt
+...It couldn't be her, could it?
+Karen
+902000601_46_a
+Xwt
+Bye.
+Karen
+902000601_45_a
+Put
+Thank you! Alright, I'm gonna go.
+See you later!
+Saki
+902000601_44_a
+Of course. It's only natural since
+we pass by each other so much.
+Karen
+902000601_43_a
+902000601_42_a
+bg_os_town_2
+Thank you so much! Can I say hi
+and talk to you if I see you
+again?
+Saki
+902000601_41_a
+902000601_40_a
+For the last battle, at least.
+902000601_39_a
+xyt
+Yeah.
+902000601_38_a
+902000601_37_a
+Are you joining in, M?
+LLENN
+902000601_36_a
+Ahaha!
+LLENN
+902000601_35_a
+Damn straight!
+Eva
+902000601_34_a
+902000601_33_a
+Looking for me?
+LLENN
+902000601_32_a
+This can't be happening!
+LLENN
+902000601_31_a
+item_event_p90
+We'll always be together!
+Whether we live or die!
+my darling P.
+902000601_30_a
+Oh no! No, no, no, no!
+LLENN
+902000601_29_a
+d}t
+A-Am I hearing voices...?
+LLENN
+902000601_28_a
+item_event_p90
+Don't run from the enemy!
+Go straight for them!
+my darling P.
+902000601_27_a
+item_event_p90
+That's right, LLENN! You
+finally get it!
+my darling P.
+902000601_26_a
+...I can't run away!
+LLENN
+902000601_25_a
+LLENN
+902000601_24_a
+I can still move... I'm...
+I'm still lucky.
+LLENN
+902000601_23_a
+That Bullet Line must've been
+a trap.
+LLENN
+902000601_22_a
+I-I got shot by a sniper... They
+didn't even make a sound.
+LLENN
+902000601_21_a
+902000601_20_a
+But I'll be the one to kill her.
+Eva
+902000601_19_a
+Understood.
+Toma
+902000601_18_a
+You or Sophie take this. With any
+luck, you'll get two or three
+shots with it.
+Eva
+902000601_17_a
+I'll get revenge.
+Eva
+902000601_16_a
+Or at least as many as I can.
+LLENN
+902000601_15_a
+Alright, it's go time! The last
+battle! I'll take 'em all down!
+LLENN
+902000601_14_a
+902000601_13_a
+Thanks for everything! Bye!
+LLENN
+902000601_12_a
+Eh, whatever. Don't worry about
+it, M! I'll take it from here and
+fight on my own!
+LLENN
+902000601_11_a
+The scan's long over. The enemy's
+on their way here. They might
+even be close by.
+LLENN
+902000601_10_a
+3:15 PM...
+LLENN
+902000601_9_a
+902000601_8_a
+You have no idea just how crazy
+Pitohui is!
+902000601_7_a
+Ahahaha, you don't know anything!
+902000601_6_a
+...Did you hit your head or
+something?
+LLENN
+902000601_5_a
+If I die in Squad Jam...the
+real me will die too!
+902000601_4_a
+I promise I won't if you tell
+me why. In other words, start
+talking or I'll shoot you.
+LLENN
+902000601_3_a
+902000601_2_a
+bg_s2_08_rocky_area
+Please don't shoot me!
+902000601_1_a
 To be continued...
 902000501_46_a
 Huh?!

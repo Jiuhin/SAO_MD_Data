@@ -101,6 +101,11 @@ Vincent the Cyborg (Expert)
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
+Quest 5.5
+Anime Trailer Quest Epi 5.5
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
 Quest 4
 Anime Trailer Quest Epi 5
 Defeat All Enemies
@@ -118,6 +123,16 @@ Quest
 bg_thumbnail_4003
 Quest 1
 Anime Trailer Quest Epi 2
+A bullet-dodging game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 5.5
+Untouchable Gunman 
+5.5
 A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
@@ -226,6 +241,11 @@ Quest
 bg_thumbnail_8052
 Quest 1
 Untouchable Gunman 
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 6
+Episode 5 Digest
 Defeat All Enemies
 Quest
 bg_thumbnail_4002
@@ -759,6 +779,26 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Leafa's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 4
+Rabbit Hunt (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 3
+Rabbit Hunt (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 2
+Rabbit Hunt (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 1
+Rabbit Hunt (Int.)
 Are you the luckiest person? 
 Defeat the additional boss with a humongous hexapod fish
 and try your luck for 2018!
@@ -3535,6 +3575,286 @@ bg_thumbnail_2005
 Quest 1
 The Beast Lords in League (Exp.)
 Enemy Lv: 120
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2020
+Floor :99 
+100
+Enemy Lv: 120
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :96 
+Enemy Lv: 120
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :94 
+Enemy Lv: 120
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :91 
+Enemy Lv: 120
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :89 
+Enemy Lv: 110
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :86 
+Enemy Lv: 110
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :84 
+Enemy Lv: 110
+Better for: Slash
+Better for: Holy & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :81 
+Enemy Lv: 110
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2020
+Floor :79 
+Enemy Lv: 110
+Better for: Holy
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :76 
+Enemy Lv: 110
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :74 
+Enemy Lv: 110
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :71 
+Enemy Lv: 110
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :69 
+Enemy Lv: 100
+Better for: Earth
+Better for: Thurst & Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :66 
+Enemy Lv: 100
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :64 
+Enemy Lv: 100
+Better for: Slash
+Better for: Holy & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :61 
+Enemy Lv: 100
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :59 
+Enemy Lv: 100
+Better for: Holy
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :56 
+Enemy Lv: 100
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :54 
+Enemy Lv: 100
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :51 
+Enemy Lv: 100
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2017
+Floor :49 
+Enemy Lv: 100
+Better for: Strike
+Better for: Earth & Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :46 
+Enemy Lv: 100
+Better for: Wind
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :44 
+Enemy Lv: 100
+Better for: Slash
+Better for: Holy & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_3001
+Floor :41 
+Enemy Lv: 100
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :39 
+Enemy Lv: 90
+Better for: Holy
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :36 
+Enemy Lv: 90
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :34 
+Enemy Lv: 90
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :31 
+Enemy Lv: 90
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2017
+Floor :29 
+Enemy Lv: 90
+Better for: Strike
+Better for: Earth & Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :26 
+Enemy Lv: 90
+Better for: Wind
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :24 
+Enemy Lv: 90
+Better for: Holy & Dark
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_3001
+Floor :21 
+Enemy Lv: 80
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :19 
+Enemy Lv: 80
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :16 
+Enemy Lv: 80
+Better for: Slash
+Better for: Holy & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :14 
+Enemy Lv: 80
+Better for: Strike
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :11 
+Enemy Lv: 70
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :9 
+Enemy Lv: 70
+Better for: Strike
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :6 
+Enemy Lv: 70
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :4 
+Enemy Lv: 70
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2002
+Floor :1 
+Enemy Lv: 120
 Better for: Fire, Earth, Water
 DANGER!!
 "Here we come!
@@ -3550,7 +3870,7 @@ Appears: Non-Attr.
 DANGER!!
 Defeat All Enemies
 Quest
-bg_thumbnail_2027
+bg_thumbnail_2026
 Floor :96 
 Enemy Lv: 120
 Better for: Fire
@@ -3610,7 +3930,7 @@ Appears: Non-Attr.
 DANGER!!
 Defeat All Enemies
 Quest
-bg_thumbnail_2027
+bg_thumbnail_2026
 Floor :78 
 Enemy Lv: 110
 Appears: Non-Attr.
@@ -3631,7 +3951,7 @@ Better for: Dark
 Better for: Strike
 Defeat All Enemies
 Quest
-bg_thumbnail_2015
+bg_thumbnail_2014
 Floor :71 
 Enemy Lv: 110
 Better for: Water
@@ -15726,6 +16046,11 @@ Vincent the Cyborg (Expert)
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
+Quest 5.5
+Anime Trailer Quest Epi 5.5
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
 Quest 4
 Anime Trailer Quest Epi 5
 Defeat All Enemies
@@ -15743,6 +16068,16 @@ Quest
 bg_thumbnail_4003
 Quest 1
 Anime Trailer Quest Epi 2
+A bullet-dodging game 
+in the corner of the market
+Dodge incoming bullets and 
+defeat the gunman
+Defeat All Enemies
+Quest
+bg_thumbnail_8052
+Quest 5.5
+Untouchable Gunman 
+5.5
 A bullet-dodging game 
 in the corner of the market
 Dodge incoming bullets and 
@@ -15851,6 +16186,11 @@ Quest
 bg_thumbnail_8052
 Quest 1
 Untouchable Gunman 
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 6
+Episode 5 Digest
 Defeat All Enemies
 Quest
 bg_thumbnail_4002
@@ -16384,6 +16724,26 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Leafa's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 4
+Rabbit Hunt (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 3
+Rabbit Hunt (EX)
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 2
+Rabbit Hunt (Expert)
+Defeat All Enemies
+Quest
+bg_thumbnail_2006
+Quest 1
+Rabbit Hunt (Int.)
 Are you the luckiest person? 
 Defeat the additional boss with a humongous hexapod fish
 and try your luck for 2018!
@@ -19160,6 +19520,286 @@ bg_thumbnail_2005
 Quest 1
 The Beast Lords in League (Exp.)
 Enemy Lv: 120
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2020
+Floor :99 
+100
+Enemy Lv: 120
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :96 
+Enemy Lv: 120
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :94 
+Enemy Lv: 120
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :91 
+Enemy Lv: 120
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :89 
+Enemy Lv: 110
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :86 
+Enemy Lv: 110
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :84 
+Enemy Lv: 110
+Better for: Slash
+Better for: Holy & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :81 
+Enemy Lv: 110
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2020
+Floor :79 
+Enemy Lv: 110
+Better for: Holy
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_2026
+Floor :76 
+Enemy Lv: 110
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :74 
+Enemy Lv: 110
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :71 
+Enemy Lv: 110
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :69 
+Enemy Lv: 100
+Better for: Earth
+Better for: Thurst & Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :66 
+Enemy Lv: 100
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :64 
+Enemy Lv: 100
+Better for: Slash
+Better for: Holy & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :61 
+Enemy Lv: 100
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :59 
+Enemy Lv: 100
+Better for: Holy
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :56 
+Enemy Lv: 100
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :54 
+Enemy Lv: 100
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :51 
+Enemy Lv: 100
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2017
+Floor :49 
+Enemy Lv: 100
+Better for: Strike
+Better for: Earth & Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :46 
+Enemy Lv: 100
+Better for: Wind
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :44 
+Enemy Lv: 100
+Better for: Slash
+Better for: Holy & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_3001
+Floor :41 
+Enemy Lv: 100
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :39 
+Enemy Lv: 90
+Better for: Holy
+Better for: Strike
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :36 
+Enemy Lv: 90
+Better for: Wind
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8003
+Floor :34 
+Enemy Lv: 90
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_2024
+Floor :31 
+Enemy Lv: 90
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2017
+Floor :29 
+Enemy Lv: 90
+Better for: Strike
+Better for: Earth & Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :26 
+Enemy Lv: 90
+Better for: Wind
+Better for: Thrust
+Defeat All Enemies
+Quest
+bg_thumbnail_8015
+Floor :24 
+Enemy Lv: 90
+Better for: Holy & Dark
+Better for: Slash
+Defeat All Enemies
+Quest
+bg_thumbnail_3001
+Floor :21 
+Enemy Lv: 80
+Better for: Earth
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :19 
+Enemy Lv: 80
+Better for: Thrust
+Better for: Water & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :16 
+Enemy Lv: 80
+Better for: Slash
+Better for: Holy & Dark
+Defeat All Enemies
+Quest
+bg_thumbnail_8001
+Floor :14 
+Enemy Lv: 80
+Better for: Strike
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_3004
+Floor :11 
+Enemy Lv: 70
+Appears: Non-Attr.
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :9 
+Enemy Lv: 70
+Better for: Strike
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :6 
+Enemy Lv: 70
+Better for: Holy
+DANGER!!
+Defeat All Enemies
+Quest
+bg_thumbnail_2004
+Floor :4 
+Enemy Lv: 70
+Better for: Holy
+Defeat All Enemies
+Quest
+bg_thumbnail_2002
+Floor :1 
+Enemy Lv: 120
 Better for: Fire, Earth, Water
 DANGER!!
 "Here we come!
@@ -19175,7 +19815,7 @@ Appears: Non-Attr.
 DANGER!!
 Defeat All Enemies
 Quest
-bg_thumbnail_2027
+bg_thumbnail_2026
 Floor :96 
 Enemy Lv: 120
 Better for: Fire
@@ -19235,7 +19875,7 @@ Appears: Non-Attr.
 DANGER!!
 Defeat All Enemies
 Quest
-bg_thumbnail_2027
+bg_thumbnail_2026
 Floor :78 
 Enemy Lv: 110
 Appears: Non-Attr.
@@ -19256,7 +19896,7 @@ Better for: Dark
 Better for: Strike
 Defeat All Enemies
 Quest
-bg_thumbnail_2015
+bg_thumbnail_2014
 Floor :71 
 Enemy Lv: 110
 Better for: Water

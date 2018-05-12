@@ -97,6 +97,19 @@ Off
 On 
 You can only join a guild twice a day.
 Guild Level went up by {}.
+The boss's HP and the lapse time will reset.  Are you sure you want to leave?
+Discount for Enhancement Items
+Discount for Enhancement Items
+Discount at Exchange Shop
+Discount at Exchange Shop
+Drop Amount for Enhancement Items UP
+Drop Amount for Enhancement Items UP
+Drop Rate for Enhancement Items UP
+Drop Rate for Enhancement Items UP
+Obtainable EXP UP
+Obtainable EXP UP
+Obtainable Col UP
+Obtainable Col UP
 Another event is in progress.
 Are you sure you want to give up
 and return to {}?

@@ -1,0 +1,32 @@
+The number of required items for equipment enhancement reduces
+Required items for equipment enhancement -1%
+Drop rate for enhancement items on a quest UP
+Drop rate for enhancement items +3%
+Obtainable EXP on a quest UP
+Obtainable EXP + 1%
+Obtainable Cols on a quest  increases 
+Obtainable Cols + 1%
+The number of required items for equipment enhancement reduces
+Required items for equipment enhancement -3%
+Drop rate for enhancement items on a quest UP
+Drop rate for enhancement items +1%
+Obtainable EXP on a quest UP
+Obtainable EXP + 1%
+Obtainable Cols on a quest  increases 
+Obtainable Cols + 3%
+The number of required items for equipment enhancement reduces
+Required items for equipment enhancement -1%
+Drop rate for enhancement items on a quest UP
+Drop rate for enhancement items +1%
+Obtainable EXP on a quest UP
+Obtainable EXP + 3%
+Obtainable Cols on a quest  increases 
+Obtainable Cols + 1%
+The number of required items for equipment enhancement reduces
+Required items for equipment enhancement -5%
+Drop rate for enhancement items on a quest UP
+Drop rate for enhancement items +5%
+Obtainable EXP on a quest UP
+Obtainable EXP + 5%
+Obtainable Cols on a quest  increases 
+Obtainable Cols + 5%

@@ -1017,11 +1017,41 @@ Pt Rewards
 Allocation of Party Characters
 　  Each character has limited number to depart quests.
 　  Some characters have extra number of departures.
-　  Put a lot of thought into your parties to challenge strong
+　  Put a lot of thoughst into your parties to challenge strong
 　  enemies with stronger characters.
+　Also, in Floor Clearing Event, 
+　there are additional rules. 
+　</body_text><image x
+'375.0f' y
+'-1620.0f' w 
+'650.0f' h 
+'733.9f'>dungeon/tips_2.png</image><body_text y
+'-1970.0f'  font_size 
+'24'>
+　【New Rule】
+Challenge Mission
+　When a Floor Clearing Event regularly opens, Challenge Missions, 
+　that are high level challenges, are offered. 
+　You can obtain Victory Points by completing a Challenge Mission. 
+　To check Challenge Missions, please go to the select 
+　a quest page on the Floor Clearing Event, 
+　or your status page. 
+Victory Bonus
+　You can activate a Victory Bonus by collecting Victory Points. 
+　Having a Victory Bonus is very beneficial for you to play quests.
+　Collecting Victory Points is highly recommended.
+The boss' health remains reduced
+　In some battles, when you lose, 
+　you can continue fighting the boss 
+　with its reduced HP in another round.
+Please note that the HP level may not be exactly the same as the previous round.
+Playing time will also continue.
+　If you wish to reset your current status, just retreat or 
+　go back to a Transport Gate. 
+　Make full use of the rule and clear challenging quests. 
 　[Attention]
 To play Floor Clearing Event,
-　　you must have to complete Quest3-10.
+　 　you must have to complete Quests 3-10.
 You can find this event from "Quest">"Extra Quest
 　</body_text>
 </panel>

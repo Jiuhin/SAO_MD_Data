@@ -14,8 +14,10 @@ images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
 UH,
 images/event/9021/9021_banner.png
+images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
@@ -45,8 +47,11 @@ images/event/9012/9012_banner.png
 images/event/9012/9012_banner.png
 images/event/9012/9012_banner.png
 images/event/9012/9012_banner.png
+nD,
+images/event/9011/9011_banner.png
 mD,
 images/event/9011/9011_banner.png
+images/event/9010/9010_banner.png
 	D,
 images/event/9010/9010_banner.png
 images/event/9009/9009_banner.png
@@ -85,6 +90,7 @@ images/event/9007/9007_banner.png
 images/event/9005/9005_banner_2017.png
 images/event/9004/9004_banner_2017.png
 images/event/9002/9002_banner_2017.png
+images/event/8044/8044_banner.png
 images/event/8043/8043_banner.png
 images/event/8042/8042_banner.png
 images/event/8041/8041_banner.png
@@ -197,6 +203,7 @@ images/event/4702/4702_banner.png
 images/event/4701/4701_banner.png
 images/event/4602/4602_banner.png
 images/event/4601/4601_banner.png
+images/event/4096/4096_banner.png
 images/event/4095/4095_banner.png
 images/event/4094/4094_banner.png
 images/event/4093/4093_banner.png
@@ -280,6 +287,8 @@ images/event/4012/4012_banner.png
 images/event/4011/4011_banner.png
 images/event/4010/4010_banner.png
 images/event/4009/4009_banner.png
+images/lottery/610/26101_scout_banner.png
+images/lottery/609/26091_scout_banner.png
 images/lottery/608/26081_scout_banner.png
 images/lottery/607/26071_scout_banner.png
 images/lottery/606/26061_scout_banner.png
@@ -290,6 +299,7 @@ images/lottery/601/26011_scout_banner.png
 images/lottery/501/25011_scout_banner.png
 images/lottery/500/25001_scout_banner.png
 images/lottery/089/20891_scout_banner.png
+images/lottery/088/20881_scout_banner.png
 images/lottery/087/20871_scout_banner.png
 images/lottery/086/20861_scout_banner.png
 images/lottery/085/20851_scout_banner.png
