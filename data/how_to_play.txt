@@ -1044,7 +1044,8 @@ The boss' health remains reduced
 　In some battles, when you lose, 
 　you can continue fighting the boss 
 　with its reduced HP in another round.
-Please note that the HP level may not be exactly the same as the previous round.
+Please note that the HP level may 
+　     not be exactly the same as the previous round.
 Playing time will also continue.
 　If you wish to reset your current status, just retreat or 
 　go back to a Transport Gate. 

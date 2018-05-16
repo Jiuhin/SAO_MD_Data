@@ -70,6 +70,20 @@ ZP/
 TBD
 Saint Necklace R2
 accessory01_0076
+RP/
+TBD
+Rabbit Headband R4
+accessory01_0075
+QP/
+RP/
+TBD
+Rabbit Headband R3
+accessory01_0075
+PP/
+QP/
+TBD
+Rabbit Headband R2
+accessory01_0075
 HP/
 TBD
 Bellflower Ribbon R4
@@ -708,6 +722,15 @@ mM/
 TBD
 Ruby Earring R2
 accessory01_0001
+TBD
+Active Swimsuit R4
+armor03_0123
+TBD
+Active Swimsuit R3
+armor03_0123
+TBD
+Active Swimsuit R2
+armor03_0123
 TBD
 Princess Dreamin' R4
 armor03_0122

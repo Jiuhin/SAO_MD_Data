@@ -176,6 +176,8 @@ Decreases damage by 10% vs Holy-elem. enemies  when HP is above 80%
 Damage Received -10% vs Holy-elem (HP Above 80%)
 Decreases damage by 10% vs Dark-elem. enemies when HP is above 80%
 Damage Received -10% vs Dark-elem (HP Above 80%)
+Increases Water-elem. character's attack by 6% when HP is above 80%.
+Attack +6% (Water-elem, HP Above 80%)
 Increases Wind-elem. character's attack by 6% when HP is above 80%.
 Attack +6% (Wind-elem, HP Above 80%)
 Reduces damage received 30% when HP is below 50%.

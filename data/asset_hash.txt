@@ -3624,6 +3624,10 @@ images/event/9002/9002_banner.png
 images/event/9001/9001_top.png
 f9cbc601493ad89a88fd1601cc5fd29e
 images/event/9001/9001_banner.png
+ebb72e0fc53207f4b3d13d14ec616de0
+images/event/8043/8043_top.png
+8b3ba59dcdfaf7a62d33bdfca7becf5e
+images/event/8043/8043_banner.png
 d04154d65b3e025bd3f092bafa1d9c02
 images/event/8042/8042_top.png
 41d49d9395ec9831707a5bef93c89462

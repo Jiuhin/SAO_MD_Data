@@ -1322,6 +1322,56 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 5
+The Dusty Reaper Returns (Master +1)
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 4
+The Dusty Reaper Returns (Master)
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 3
+The Dusty Reaper Returns (EX)
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 2
+The Dusty Reaper Returns (Expert)
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 1
+The Dusty Reaper Returns (Int.)
 The Camanideel Ape loves hot springs! 
 He wants to have it all to himself!
 Be careful when your buffs are canceled! 
@@ -17267,6 +17317,56 @@ Quest
 bg_thumbnail_2028
 Quest 2017
 Asuna's Birthday Quest
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 5
+The Dusty Reaper Returns (Master +1)
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 4
+The Dusty Reaper Returns (Master)
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 3
+The Dusty Reaper Returns (EX)
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 2
+The Dusty Reaper Returns (Expert)
+The Dusty Reaper is coming!
+Watch for an attack chance 
+when they collapse on the ground 
+after running around.
+Aim at their tail. It's their weak point!
+Defeat All Enemies
+Quest
+bg_thumbnail_8047
+Quest 1
+The Dusty Reaper Returns (Int.)
 The Camanideel Ape loves hot springs! 
 He wants to have it all to himself!
 Be careful when your buffs are canceled! 

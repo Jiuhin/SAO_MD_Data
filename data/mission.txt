@@ -293,6 +293,24 @@ Complete "Kirito's Birthday Quest 2017".
 Complete "Silica's Birthday Quest 2017".
 9002002
 Complete "Asuna's Birthday Quest 2017".
+8043005,3,45
+Complete "The Dusty Reaper Returns (Master +1)" with guild members in Multi in under 45 seconds.
+8043004,3,45
+Complete "The Dusty Reaper Returns (Master)" with guild members in Multi in under 45 seconds.
+8043003,3
+Complete "The Dusty Reaper Returns (EX)" with guild members in Multi.
+1240061-1240062-1240063-1240064-1240065,50
+Defeat 50 of the Dusty Reaper in the guild. 
+8043005,3
+Complete "The Dusty Reaper Returns (Master +1)" without down.
+8043004,3
+Complete "The Dusty Reaper Returns (Master)" without down.
+8043003,3
+Complete "The Dusty Reaper Returns (EX)" without down.
+8043002
+Complete "The Dusty Reaper Returns (Expert)"
+8043001
+Complete "The Dusty Reaper Returns (Int.)"
 HqE
 8042005,3,45
 Complete "Swash of the Camanideel Ape (Master +1)" with guild members in Multi in under 45 seconds.
