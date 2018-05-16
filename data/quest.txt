@@ -106,6 +106,11 @@ Anime Trailer Quest Epi 5.5
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
+Quest 6
+Anime Trailer Quest Epi 6
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
 Quest 4
 Anime Trailer Quest Epi 5
 Defeat All Enemies
@@ -6928,6 +6933,105 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 15
+Girls and GGO (Master +2)
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 14
+Girls and GGO (Master +1)
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 13
+Girls and GGO (Master)
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 12
+Girls and GGO (EX)
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 11
+Girls and GGO (Expert)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Just Not Enough
+Vulcan the Toxic Rhino - 
+the leader of all the forest evils. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 9
+Girls and GGO
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 8
+Trade
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+It's a deal
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Still Not Enough
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+Meanwhile...
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Internet Auction
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 3
+Underground Lake
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 2
+Looking for rare equipment
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Fukaziroh and her training
 Ix>
 The Koinobori King appears around Alne.
 Watch out when they start inhaling air.
@@ -16101,6 +16205,11 @@ Anime Trailer Quest Epi 5.5
 Defeat All Enemies
 Quest
 bg_thumbnail_4003
+Quest 6
+Anime Trailer Quest Epi 6
+Defeat All Enemies
+Quest
+bg_thumbnail_4003
 Quest 4
 Anime Trailer Quest Epi 5
 Defeat All Enemies
@@ -22923,6 +23032,105 @@ Quest
 bg_thumbnail_8024
 Quest 1-1
 Burnt Field
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 15
+Girls and GGO (Master +2)
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 14
+Girls and GGO (Master +1)
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 13
+Girls and GGO (Master)
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 12
+Girls and GGO (EX)
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 11
+Girls and GGO (Expert)
+Finish Story
+Story
+bg_thumbnail_0
+Story 10
+Just Not Enough
+Vulcan the Toxic Rhino - 
+the leader of all the forest evils. 
+Don't miss out a parry chance. 
+Stun the enemy to avoid more powerful attacks!
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 9
+Girls and GGO
+Defeat All Enemies
+Quest
+bg_thumbnail_4011
+Quest 8
+Trade
+Finish Story
+Story
+bg_thumbnail_0
+Story 7
+It's a deal
+Finish Story
+Story
+bg_thumbnail_0
+Story 6
+Still Not Enough
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
+Quest 5
+Meanwhile...
+Finish Story
+Story
+bg_thumbnail_0
+Story 4
+Internet Auction
+Defeat All Enemies
+Quest
+bg_thumbnail_8004
+Quest 3
+Underground Lake
+Defeat All Enemies
+Quest
+bg_thumbnail_4001
+Quest 2
+Looking for rare equipment
+Finish Story
+Story
+bg_thumbnail_0
+Story 1
+Fukaziroh and her training
 Ix>
 The Koinobori King appears around Alne.
 Watch out when they start inhaling air.

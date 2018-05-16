@@ -739,6 +739,9 @@ Scouts a character from the
 "bronze medal" ranks.
 Bronze Medal
 item_m_record_crystal_blue
+You can obtain in A Rest Day for Gunners Scout
+Gunners' Rest Day C.R. Crystal
+item_m_record_crystal_blue
 You can obtain in Master Swordsmen in the Battlefield Scout
 Master Swordsmen C.R. Crystal
 item_m_record_crystal_blue

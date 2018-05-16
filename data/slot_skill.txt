@@ -2067,6 +2067,36 @@ Automatic Rifle Skill Lv.2
 slot_skill_icon_job_11
 Raises attack and crit. rate by 50
 Automatic Rifle Skill Lv.1
+slot_skill_icon_job_11
+Raises attack and crit. rate by 500
+Automatic Rifle Skill Lv.10
+slot_skill_icon_job_11
+Raises attack and crit. rate by 450
+Automatic Rifle Skill Lv.9
+slot_skill_icon_job_11
+Raises attack and crit. rate by 400
+Automatic Rifle Skill Lv.8
+slot_skill_icon_job_11
+Raises attack and crit. rate by 350
+Automatic Rifle Skill Lv.7
+slot_skill_icon_job_11
+Raises attack and crit. rate by 300
+Automatic Rifle Skill Lv.6
+slot_skill_icon_job_11
+Raises attack and crit. rate by 250
+Automatic Rifle Skill Lv.5
+slot_skill_icon_job_11
+Raises attack and crit. rate by 200
+Automatic Rifle Skill Lv.4
+slot_skill_icon_job_11
+Raises attack and crit. rate by 150
+Automatic Rifle Skill Lv.3
+slot_skill_icon_job_11
+Raises attack and crit. rate by 100
+Automatic Rifle Skill Lv.2
+slot_skill_icon_job_11
+Raises attack and crit. rate by 50
+Automatic Rifle Skill Lv.1
 slot_skill_icon_job_10
 Raises attack and crit. rate by 500
 Shieldblade Skill Lv.10

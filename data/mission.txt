@@ -1538,6 +1538,22 @@ Complete the first half and the second half of "Breakthrough in Sand (Master+1)"
 EU,
 4701005+4701006,1,1
 Complete the first half and the second half of "Breakthrough in Sand (Master)" with an S rank.
+4095025,1,45
+Complete "Girls and GGO (Master +2)" in under 45 sec.
+4095025,1
+Complete "Girls and GGO (Master +2)" without down..
+409501,3400000
+Earn a score of 3,400,000 in Girls and GGO
+409501,3700000
+Earn a score of 3,700,000 in Girls and GGO
+409501,4000000
+Earn a score of 4,000,000 in Girls and GGO
+409501,4500000
+Earn a score of 4,500,000 in Girls and GGO
+4095024
+Complete "Girls and GGO (Master +1)"
+4095009
+Complete "Girls and GGO"
 4094025,2,45
 Complete "Asuna's Great Adventure (Master +1)" in under 45 sec.
 4094025,2,60

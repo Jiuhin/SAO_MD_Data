@@ -275,6 +275,10 @@ QCG
 >f3
 >f3
 QCG
+L>f3
+QCG
+Af3
+QCG
 Af3
 Af3
 Df3
@@ -314,6 +318,7 @@ HCf3
 QCG
 >f3
 <f3
+>f3
 >f3
 L>f3
 >f3
@@ -434,6 +439,18 @@ QCG
 >e3
 >e3
 L>e3
+?d3
+>d3
+>d3
+>d3
+>d3
+>d3
+>d3
+>d3
+>d3
+>d3
+>d3
+>d3
 <e3
 <e3
 <e3

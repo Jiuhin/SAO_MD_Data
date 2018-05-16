@@ -70,6 +70,10 @@ images/event/9022/9022_top.png
 images/event/9022/9022_banner.png
 images/event/9022/9022_banner.png
 Anime Trailer Quest
+images/event/9022/9022_top.png
+images/event/9022/9022_banner.png
+images/event/9022/9022_banner.png
+Anime Trailer Quest
 images/event/9021/9021_top.png
 images/event/9021/9021_banner.png
 images/event/9021/9021_banner.png
@@ -706,6 +710,16 @@ images/event/dummy/dummy_top.png
 images/event/4601/4601_banner.png
 images/event/4601/4601_banner.png
 Bullet of Bullets
+Grenade Medal Scout
+images/event/4095/4095_top.png
+images/event/4095/4095_banner.png
+images/event/4095/4095_banner.png
+[Ended] One Day in the Battlefield - Girls and GGO
+Grenade Medal Scout
+images/event/4095/4095_top.png
+images/event/4095/4095_banner.png
+images/event/4095/4095_banner.png
+One Day in the Battlefield - Girls and GGO
 images/event/4094/event_item_4094.png
 images/event/4094/4094_top.png
 images/event/4094/4094_banner.png

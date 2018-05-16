@@ -25,27 +25,27 @@ Skill Damage Rate -500 (Equipped One)
 Zero damage received when enemy attacked.
 No damage received
 Attack of party members (Earth-elem.) increases by 10% when you are a leader.
-P-Members' (Earth-elem.) Atk +10% (P-Leader)
+P-Members' (Earth-elem.)Atk+10%(P-Leader)
 Attack for 30-hit+ combos of all party members increases by 10% when you are a leader. 
 30+ Combo: P-Members' Attack +10% (P-Leader)
 Attack of party members (OS characters) increases by 10% when you are a leader.
-P-Members' (OS characters) Atk +10% (P-Leader)
+P-Members' (OS characters)Atk+10%(P-Leader)
 Attack of party members (Dark-elem.) increases by 10% when you are a leader.
-P-Members' (Dark-elem.) Atk +10% (P-Leader)
+P-Members' (Dark-elem.)Atk+10%(P-Leader)
 Attack of party members (Dark-elem.) increases by 6% when you are a leader.
-P-Members' (Dark-elem.) Atk +6% (P-Leader)
+P-Members' (Dark-elem.)Atk+6%(P-Leader)
 Attack of party members (Wind-elem.) increases by 10% when you are a leader.
-P-Members' (Wind-elem.) Atk +10% (P-Leader)
+P-Members' (Wind-elem.)Atk+10%(P-Leader)
 Attack of party members (Wind-elem.) increases by 6% when you are a leader.
-P-Members' (Wind-elem.) Atk +6% (P-Leader)
+P-Members' (Wind-elem.)Atk+6%(P-Leader)
 Attack of party members (Water-elem.) increases by 10% when you are a leader.
-P-Members' (Water-elem.) Atk +10% (P-Leader)
+P-Members' (Water-elem.)Atk+10%(P-Leader)
 Attack of party members (Fire-elem.) increases by 10% when you are a leader.
-P-Members' (Fire-elem.) Atk +10% (P-Leader)
+P-Members' (Fire-elem.)Atk+10%(P-Leader)
 Attack of party members (Non-elem.) increases by 10% when you are a leader.
-P-Members' (Non-elem.) Atk +10% (P-Leader)
+P-Members' (Non-elem.)Atk+10%(P-Leader)
 Attack of party members (Non-elem.) increases by 6% when you are a leader.
-P-Members' (Non-elem.) Atk +6% (P-Leader)
+P-Members' (Non-elem.)Atk+6%(P-Leader)
 Attack of all party members increase by 6% when you are a leader.
 P-Members' Attack +6% (P-Leader)
 Attack of all party members increase by 3% when you are a leader.
@@ -597,7 +597,7 @@ Increases critical damage vs Earth-elem. enemies from 1.5x to 2x.
 Crit. Damage Up (vs. Earth)
 Increases critical damage vs Earth-elem. enemies by 10%
 Crit. Damage + 10% (vs. Earth)
-Increases dmg. vs Earth-elem. enemies by 1.5x.
+Increases dmg. vs Earth-elem. enemies
 Damage Up (vs. Earth)
 Decrease damage against Dark-elem. enemies
 Decrease Damage (vs. Dark-elem.)
@@ -609,7 +609,7 @@ Increases critical damage vs Dark-elem. enemies from 1.5x to 2x.
 Crit. Damage Up (vs. Dark)
 Increases critical damage vs Dark-elem. enemies by 10%
 Crit. Damage + 10% (vs. Dark)
-Increases dmg. vs Dark-elem. enemies by 1.5x.
+Increases dmg. vs Dark-elem. enemies
 Damage Up (vs. Dark)
 Decrease damage against Holy-elem. enemies
 Decrease Damage (vs. Holy-elem.)
@@ -624,7 +624,7 @@ Crit. Damage Up (vs. Holy)
 {-&
 Increases critical damage vs Holy-elem. enemies by 10%
 Crit. Damage + 10% (vs. Holy)
-Increases dmg. vs Holy-elem. enemies by 1.5x.
+Increases dmg. vs Holy-elem. enemies
 Damage Up (vs. Holy)
 Decrease damage against Wind-elem. enemies
 Decrease Damage (vs. Wind-elem.)
@@ -636,7 +636,7 @@ Increases critical damage vs Wind-elem. enemies from 1.5x to 2x.
 Crit. Damage Up (vs. Wind)
 Increases critical damage vs Wind-elem. enemies by 10%
 Crit. Damage + 10% (vs. Wind)
-Increases dmg. vs Wind-elem. enemies by 1.5x.
+Increases dmg. vs Wind-elem. enemies
 Damage Up (vs. Wind)
 Decrease damage against Water-elem. enemies
 Decrease Damage (vs. Water-elem.)
@@ -650,7 +650,7 @@ Increases critical damage vs Water-elem. enemies from 1.5x to 2x.
 Crit. Damage Up (vs. Water)
 Increases critical damage vs Water-elem. enemies by 10%
 Crit. Damage + 10% (vs. Water)
-Increases dmg. vs Water-elem. enemies by 1.5x.
+Increases dmg. vs Water-elem. enemies
 Damage Up (vs. Water)
 Decrease damage against Fire-elem. enemies
 Decrease Damage (vs. Fire-elem.)
@@ -662,7 +662,7 @@ Increases critical damage vs Fire-elem. enemies from 1.5x to 2x.
 Crit. Damage Up (vs. Fire)
 Increases critical damage vs Fire-elem. enemies by 10%
 Crit. Damage + 10% (vs. Fire)
-Increases dmg. vs Fire-elem. enemies by 1.5x.
+Increases dmg. vs Fire-elem. enemies
 Damage Up (vs. Fire)
 Decrease damage against Non-elem. enemies
 Decrease Damage (vs. Non-elem.)
@@ -674,7 +674,7 @@ Increases critical damage vs Non-elem. enemies from 1.5x to 2x.
 Crit. Damage Up (vs. Non-elem.)
 Increases critical damage vs Non-elem. enemies by 10%
 Crit. Damage + 10% (vs. Non-elem.)
-Increases dmg. vs Non-elem. enemies by 1.5x.
+Increases dmg. vs Non-elem. enemies
 Damage Up (vs. Non-elem.)
 Reduces Earth-elem. character's Required MP by -10%, increases Critical damage by 10%
 Required MP -10% / Critical damage +10% (Earth)

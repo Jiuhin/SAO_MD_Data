@@ -298,6 +298,7 @@ images/lottery/602/26021_scout_banner.png
 images/lottery/601/26011_scout_banner.png
 images/lottery/501/25011_scout_banner.png
 images/lottery/500/25001_scout_banner.png
+images/lottery/090/20901_scout_banner.png
 images/lottery/089/20891_scout_banner.png
 images/lottery/088/20881_scout_banner.png
 images/lottery/087/20871_scout_banner.png

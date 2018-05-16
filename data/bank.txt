@@ -4,6 +4,7 @@ vc_battle_eiji
 vc_battle_fukaziroh
 vc_battle_pitohui
 vc_battle_llenn
+vc_battle_arianrhod
 vc_battle_alice
 vc_battle_eugeo
 vc_battle_girl_4
@@ -64,6 +65,7 @@ vc_adv_eiji
 vc_adv_fukaziroh
 vc_adv_pitohui
 vc_adv_llenn
+vc_adv_arianrhod
 vc_adv_alice
 vc_adv_eugeo
 vc_adv_girl_4

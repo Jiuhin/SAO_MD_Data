@@ -456,6 +456,20 @@ skill_icon_finesword_3_{}
 A combination skill. Perform a thrust after singing. Gives auto-recovery and a critical gain (temporalily) to all party members.
 Resonant Crescendo+
 Resonant Crescendo+
+skill_icon_automatic_gun_3_{}
+A combination skill. After firing a grenade launcher, shoot a handgun to deliver more damage. High chance of stunning an enemy.
+Unskilled Gunshot
+Unskilled Gunshot
+w2"
+skill_icon_automatic_gun_3_{}
+A combination skill. After Shooting, move to the back of an enemy and shoot two guns to deliver more damage. High chance of stunning an enemy.
+Dual Splash
+Dual Splash
+m2"
+skill_icon_automatic_gun_3_{}
+A combination skill. Shoot an enemy when you bend backward in a water current. High chance of stunning an enemy.
+Wonder Stream
+Wonder Stream
 a2"
 skill_icon_automatic_gun_3_{}
 A combination skill. Causes to burst with grenades. Shoots the last grenade to set off an enormous explosion.
@@ -514,7 +528,15 @@ Gunner's Rosary
 skill_icon_automatic_gun_2_{}
 Take out a shotgun (sub-weapon) and shoot 
 Burst Shot
+Burst Shot (Water)
+skill_icon_automatic_gun_2_{}
+Take out a shotgun (sub-weapon) and shoot 
 Burst Shot
+Burst Shot
+skill_icon_automatic_gun_2_{}
+Throw a grenade when jumping aside.
+Plazma Grenade
+Plazma Grenade (Water)
 skill_icon_automatic_gun_2_{}
 Throw a grenade when jumping aside.
 Plazma Grenade
@@ -522,11 +544,23 @@ Plazma Grenade
 skill_icon_automatic_gun_2_{}
 Jump and shoot continuously while preforming a mid-air somersault.
 Sonic Rampage
+Sonic Rampage (Water)
+skill_icon_automatic_gun_2_{}
+Jump and shoot continuously while preforming a mid-air somersault.
+Sonic Rampage
 Sonic Rampage
 skill_icon_automatic_gun_2_{}
 Shooting continuously when sliding forward.
 Vorpal Assault
+Vorpal Assault (Water)
+skill_icon_automatic_gun_2_{}
+Shooting continuously when sliding forward.
 Vorpal Assault
+Vorpal Assault
+skill_icon_automatic_gun_1_{}
+Pull out your fully-automatic sidearm and fire multiple shots.
+Quick Draw
+Quick Draw (Water)
 skill_icon_automatic_gun_1_{}
 Pull out your fully-automatic sidearm and fire multiple shots.
 Quick Draw
