@@ -1123,6 +1123,9 @@ slot_skill_icon_ss_enhance_3_6
 Enhances Sword Skill 3. Increases attack and the bullet becomes a homing bullet.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_5
+Enhances SS3. Becomes powerful. Increases the number of HIT. High chance of hitting an enemy.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Reduces required MP. Becomes powerful.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_5

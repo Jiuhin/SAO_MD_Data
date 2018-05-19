@@ -249,6 +249,11 @@ Untouchable Gunman
 Defeat All Enemies
 Quest
 bg_thumbnail_4002
+Quest 5.5
+Episode 5.5 Digest
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
 Quest 6
 Episode 5 Digest
 Defeat All Enemies
@@ -769,6 +774,11 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Yuuki's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 2018
+Liz's Birthday Quest
 Defeat All Enemies
 Quest
 bg_thumbnail_2028
@@ -6935,8 +6945,8 @@ Quest 1-1
 Burnt Field
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+You can only stun the enemy when parrying an attack.
+Stun them and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -6944,8 +6954,8 @@ Quest 15
 Girls and GGO (Master +2)
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+You can only stun the enemy when parrying an attack.
+Stun them and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -6953,8 +6963,8 @@ Quest 14
 Girls and GGO (Master +1)
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+You can only stun the enemy when parrying an attack.
+Stun them and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -6962,8 +6972,7 @@ Quest 13
 Girls and GGO (Master)
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+Stun the enemy and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -6971,8 +6980,7 @@ Quest 12
 Girls and GGO (EX)
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+Stun the enemy and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -6983,10 +6991,9 @@ Story
 bg_thumbnail_0
 Story 10
 Just Not Enough
-Vulcan the Toxic Rhino - 
-the leader of all the forest evils. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Stun the enemy and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -16348,6 +16355,11 @@ Untouchable Gunman
 Defeat All Enemies
 Quest
 bg_thumbnail_4002
+Quest 5.5
+Episode 5.5 Digest
+Defeat All Enemies
+Quest
+bg_thumbnail_4002
 Quest 6
 Episode 5 Digest
 Defeat All Enemies
@@ -16868,6 +16880,11 @@ Quest
 bg_thumbnail_2028
 Quest 1
 Yuuki's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
+Quest 2018
+Liz's Birthday Quest
 Defeat All Enemies
 Quest
 bg_thumbnail_2028
@@ -23034,8 +23051,8 @@ Quest 1-1
 Burnt Field
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+You can only stun the enemy when parrying an attack.
+Stun them and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -23043,8 +23060,8 @@ Quest 15
 Girls and GGO (Master +2)
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+You can only stun the enemy when parrying an attack.
+Stun them and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -23052,8 +23069,8 @@ Quest 14
 Girls and GGO (Master +1)
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+You can only stun the enemy when parrying an attack.
+Stun them and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -23061,8 +23078,7 @@ Quest 13
 Girls and GGO (Master)
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+Stun the enemy and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -23070,8 +23086,7 @@ Quest 12
 Girls and GGO (EX)
 Vulcan the Toxic Rhino returns to the forest. 
 He's more vicious than before. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+Stun the enemy and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011
@@ -23082,10 +23097,9 @@ Story
 bg_thumbnail_0
 Story 10
 Just Not Enough
-Vulcan the Toxic Rhino - 
-the leader of all the forest evils. 
-Don't miss out a parry chance. 
-Stun the enemy to avoid more powerful attacks!
+Vulcan the Toxic Rhino returns to the forest. 
+He's more vicious than before. 
+Stun the enemy and strike back!
 Defeat All Enemies
 Quest
 bg_thumbnail_4011

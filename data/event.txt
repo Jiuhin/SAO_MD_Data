@@ -102,6 +102,10 @@ images/event/9020/9020_top.png
 images/event/9020/9020_banner.png
 images/event/9020/9020_banner.png
 SAO A GGO Digest
+images/event/9020/9020_top.png
+images/event/9020/9020_banner.png
+images/event/9020/9020_banner.png
+SAO A GGO Digest
 images/event/9019/9019_top.png
 images/event/9019/9019_banner.png
 images/event/9019/9019_banner.png
@@ -162,6 +166,10 @@ images/event/9011/9011_top.png
 images/event/9011/9011_banner.png
 images/event/9011/9011_banner.png
 Yuuki's Birthday Quest!
+images/event/9010/9010_top.png
+images/event/9010/9010_banner.png
+images/event/9010/9010_banner.png
+Lisbeth's Birthday Quest 2018
 images/event/9010/9010_top.png
 images/event/9010/9010_banner.png
 images/event/9010/9010_banner.png

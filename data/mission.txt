@@ -175,6 +175,8 @@ Complete all the 30 kinds of "All Star Quest".
 Complete "Sinon's Birthday Quest".
 9011001
 Complete "Yuuki's Birthday Quest".
+9010002
+Complete "Lisbeth's Birthday Quest 2018".
 9010001
 Complete "Liz's Birthday Quest".
 9009002
@@ -1541,15 +1543,15 @@ Complete the first half and the second half of "Breakthrough in Sand (Master)" w
 4095025,1,45
 Complete "Girls and GGO (Master +2)" in under 45 sec.
 4095025,1
-Complete "Girls and GGO (Master +2)" without down..
-409501,3400000
-Earn a score of 3,400,000 in Girls and GGO
-409501,3700000
-Earn a score of 3,700,000 in Girls and GGO
-409501,4000000
-Earn a score of 4,000,000 in Girls and GGO
-409501,4500000
-Earn a score of 4,500,000 in Girls and GGO
+Complete "Girls and GGO (Master +2)" without down.
+409501,5000000
+Earn a score of 5,000,000 in One Day in the Battlefield - Girls and GGO
+409501,5500000
+Earn a score of 5,500,000 in One Day in the Battlefield - Girls and GGO
+409501,6300000
+Earn a score of 6,300,000 in One Day in the Battlefield - Girls and GGO
+409501,6600000
+Earn a score of 6,600,000 in One Day in the Battlefield - Girls and GGO
 4095024
 Complete "Girls and GGO (Master +1)"
 4095009

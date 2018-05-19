@@ -1,35 +1,33 @@
-HRI
-XnH
-l)H
-ljG
-8KE
-d+E
-Xd?
-pB?
-hl<
-x$<
-pT:
-0 9
-(Q7
-H&7
-Pm5
-L75
-,p4
-xb3
-8%2
-xg1
-l<1
-Hi0
-dI/
-,<-
-,0+
-8m)
-XK(
-pS&
-HO%
-lZ!
-0b 
-l8 
+x(K
+pcH
+,AH
+DXG
+heE
+lFE
+l"E
+x$C
+0FA
+H A
+x7<
+d4:
+4Z9
+4E8
+Pq5
+8?5
+dx4
+T23
+<_2
+pv1
+$Y/
+d//
+<0.
+x},
+0Y%
+D'%
+TY$
+lE"
+pe!
+4L 
 walk
 wakeup
 wait
@@ -591,7 +589,7 @@ wakeup
 wait
 stun
 step
-zD溶
+zD怶
 skill_16310101
 zDT
 skill_163101
@@ -821,6 +819,49 @@ wakeup
 wait
 stun
 step
+skill_10312901
+skill_103129
+skill_102202
+skill_101101
+parry
+parried
+levelup_common
+levelup
+jump_attack
+jump
+guard
+down
+dead
+dash
+damage
+back_step
+attack_3
+attack_2
+attack_1
+air_attack_3
+air_attack_2
+air_attack_1
+skill_103129
+skill_102202
+skill_101101
+attack_3
+attack_2
+attack_1
+special_2
+special_1
+attack_1
+skill_cutin_20001
+battle_cutin_104029
+An OS player. She hears that she could enhance her D weapon by collecting some materials in the pool. She can't find the last piece and looks up as she reflects on the places she searched.
+serif
+4_lisbeth_104029
+Lisbeth
+[Summer Sunshine] Lisbeth
+walk
+wakeup
+wait
+stun
+step
 m5	
 skill_103125
 skill_102202
@@ -907,7 +948,6 @@ wakeup
 wait
 stun
 step
-HD&
 skill_103122
 skill_102201
 skill_101101
@@ -2091,6 +2131,7 @@ stun
 step
 skill_2312702
 skill_2312701
+CV%
 skill_23127
 skill_22202
 skill_21201
@@ -2132,9 +2173,9 @@ wakeup
 wait
 stun
 step
+zD"I
 skill_2313001
 	5	
-zDNL
 skill_23130
 skill_22202
 skill_21101
@@ -2176,6 +2217,7 @@ wakeup
 wait
 stun
 step
+C>n
 skill_2311901
 skill_23119
 skill_22102
@@ -2559,7 +2601,8 @@ wakeup
 wait
 stun
 step
-DF6
+DF5
+D.6
 skill_224112
 skill_221103
 skill_221101
@@ -2914,7 +2957,7 @@ special_1
 attack_1
 skill_cutin_20001
 battle_cutin_225011
-A GGO player. Although LLENN wants to look for rare equipment in a dungeon, Fukaziroh's desire to hunt monsters gets them sidetracked. When she shoots a monster with an optical gun, it has no effect...
+A GGO player. Although LLENN wants to look for rare equipment in a dungeon, Fukaziroh's desire to hunt monsters gets them sidetracked. She tries to shoot a monster with an optical gun but can't do it well.  She also tries an ammo gun but it has no effect...
 serif
 5_llenn_224113
 LLENN
@@ -2925,7 +2968,6 @@ wakeup
 wait
 stun
 step
-CNq
 skill_224108
 skill_221104
 skill_221103
@@ -3082,6 +3124,7 @@ wakeup
 wait
 stun
 step
+HDZ
 skill_224106
 skill_221103
 skill_221101
@@ -3133,7 +3176,7 @@ wakeup
 wait
 stun
 step
-DN"
+D>"
 skill_224103
 skill_221204
 skill_221101
@@ -3992,6 +4035,7 @@ wakeup
 wait
 stun
 step
+zDj
 skill_184101
 skill_182101
 skill_181101
@@ -4117,7 +4161,6 @@ wakeup
 wait
 stun
 step
-TDR
 skill_183108
 skill_182101
 skill_181101
@@ -4283,7 +4326,6 @@ wakeup
 wait
 stun
 step
-HD"
 skill_183103
 skill_182101
 skill_181101
@@ -4409,10 +4451,13 @@ wakeup
 wait
 stun
 step
+Df9
+D6:
+}C	
+Df:
 }C	
 }C	
-}C	
-DF<
+D6<
 skill_164107
 skill_161201
 skill_161102
@@ -4428,6 +4473,7 @@ dead
 dash
 damage
 charge_old
+"DrO
 charge
 back_step
 attack_3
@@ -4471,9 +4517,7 @@ down
 dead
 dash
 damage
-"DZq
 charge_old
-"DJs
 charge
 back_step
 attack_3
@@ -4519,6 +4563,7 @@ down
 dead
 dash
 damage
+"D:
 charge_old
 charge
 back_step
@@ -4564,9 +4609,7 @@ down
 dead
 dash
 damage
-"Dv
 charge_old
-"Df
 charge
 back_step
 attack_3
@@ -4610,7 +4653,9 @@ down
 dead
 dash
 damage
+"Dj
 charge_old
+"DZ
 charge
 back_step
 attack_3
@@ -4654,7 +4699,9 @@ down
 dead
 dash
 damage
+"DZ
 charge_old
+"DJ	
 charge
 back_step
 attack_3
@@ -4698,9 +4745,7 @@ down
 dead
 dash
 damage
-"D>
 charge_old
-"D.,
 charge
 back_step
 attack_3
@@ -4746,9 +4791,7 @@ down
 dead
 dash
 damage
-"D6O
 charge_old
-"D&Q
 charge
 back_step
 attack_3
@@ -4779,6 +4822,7 @@ wakeup
 wait
 stun
 step
+Dxb
 skill_164101
 skill_161201
 skill_161102
@@ -4793,9 +4837,7 @@ down
 dead
 dash
 damage
-"DRr
 charge_old
-"DBt
 charge
 back_step
 attack_3
@@ -4839,7 +4881,9 @@ down
 dead
 dash
 damage
+"D2
 charge_old
+"D"
 charge
 back_step
 attack_3
@@ -4883,9 +4927,7 @@ down
 dead
 dash
 damage
-"Dz
 charge_old
-"Dj
 charge
 back_step
 attack_3
@@ -4930,9 +4972,7 @@ down
 dead
 dash
 damage
-"D>
 charge_old
-"D.
 charge
 back_step
 attack_3
@@ -4978,7 +5018,9 @@ down
 dead
 dash
 damage
+"DF
 charge_old
+"D6
 charge
 back_step
 attack_3
@@ -5022,9 +5064,7 @@ down
 dead
 dash
 damage
-"DF4
 charge_old
-"D66
 charge
 back_step
 attack_3
@@ -5099,7 +5139,6 @@ wait
 stun
 step
 r,	
-zDdq
 skill_163101
 skill_161201
 skill_161102
@@ -5114,9 +5153,7 @@ down
 dead
 dash
 damage
-"DF{
 charge_old
-"D6}
 charge
 back_step
 attack_3
@@ -5146,7 +5183,9 @@ wakeup
 wait
 stun
 step
+zDb
 skill_16310301
+zD2
 skill_163103
 skill_161201
 skill_161102
@@ -5206,7 +5245,9 @@ down
 dead
 dash
 damage
+"D>
 charge_old
+"D.
 charge
 back_step
 attack_3
@@ -5250,7 +5291,9 @@ down
 dead
 dash
 damage
+"Dr
 charge_old
+"Db
 charge
 back_step
 attack_3
@@ -5297,7 +5340,9 @@ down
 dead
 dash
 damage
+"Dj
 charge_old
+"DZ
 charge
 back_step
 attack_3
@@ -5372,6 +5417,7 @@ wakeup
 wait
 stun
 step
+D(K
 skill_163113
 skill_161201
 skill_161102
@@ -5387,9 +5433,7 @@ down
 dead
 dash
 damage
-"DZc
 charge_old
-"DJe
 charge
 back_step
 attack_3
@@ -5419,6 +5463,7 @@ wakeup
 wait
 stun
 step
+zDBt
 skill_16310101
 skill_163101
 skill_161201
@@ -5434,7 +5479,9 @@ down
 dead
 dash
 damage
+"Dz
 charge_old
+"Dj
 charge
 back_step
 attack_3
@@ -5464,8 +5511,8 @@ wakeup
 wait
 stun
 step
-zDB
 skill_16310101
+zD<
 skill_163101
 skill_161201
 skill_161102
@@ -5480,6 +5527,7 @@ down
 dead
 dash
 damage
+"D"
 charge_old
 charge
 back_step
@@ -5524,9 +5572,7 @@ down
 dead
 dash
 damage
-"DJ
 charge_old
-"D:
 charge
 back_step
 attack_3
@@ -5571,7 +5617,9 @@ down
 dead
 dash
 damage
+"D>
 charge_old
+"D.
 charge
 back_step
 attack_3
@@ -5660,7 +5708,6 @@ dead
 dash
 damage
 charge_old
-"Dr8
 charge
 back_step
 attack_3
@@ -5690,6 +5737,7 @@ wakeup
 wait
 stun
 step
+zD6F
 QB	
 QB	
 skill_144108
@@ -5830,6 +5878,7 @@ wakeup
 wait
 stun
 step
+zDV
 skill_144106
 skill_141202
 skill_141101
@@ -5875,7 +5924,7 @@ wakeup
 wait
 stun
 step
-aD&
+aDL
 skill_144102
 skill_141201
 skill_141101
@@ -6058,6 +6107,7 @@ wakeup
 wait
 stun
 step
+zDv_
 skill_144106
 skill_141202
 skill_141101
@@ -6103,7 +6153,6 @@ wakeup
 wait
 stun
 step
-HDB
 skill_14410501
 skill_144105
 skill_141202
@@ -6379,7 +6428,6 @@ wait
 stun
 step
 skill_14310601
-D&y
 skill_143106
 skill_141202
 %(	
@@ -6923,7 +6971,6 @@ wakeup
 wait
 stun
 step
-Dv!
 skill_124102
 skill_121202
 skill_121102
@@ -6969,7 +7016,6 @@ wakeup
 wait
 stun
 step
-D>D
 skill_124101
 skill_121202
 skill_121101
@@ -7592,8 +7638,7 @@ wakeup
 wait
 stun
 step
-HDn6
-?09
+HDJ7
 skill_104109
 skill_102202
 skill_101101
@@ -7767,7 +7812,6 @@ wakeup
 wait
 stun
 step
-HDv
 skill_104106
 skill_102201
 skill_101101
@@ -7852,7 +7896,7 @@ wakeup
 wait
 stun
 step
-zD2
+zDf)
 skill_104101
 skill_102201
 skill_101101
@@ -7938,7 +7982,7 @@ wakeup
 wait
 stun
 step
-zDT{
+zDVx
 skill_104102
 skill_102201
 skill_101101
@@ -8193,8 +8237,8 @@ wakeup
 wait
 stun
 step
-CNx
-C:y
+C>x
+Cnx
 skill_103124
 skill_102201
 skill_101101
@@ -8322,7 +8366,6 @@ wakeup
 wait
 stun
 step
-HD6
 skill_103122
 skill_102201
 skill_101101
@@ -8451,6 +8494,7 @@ wait
 stun
 step
 e.	
+zCN
 skill_103115
 skill_101201
 skill_101101
@@ -10011,7 +10055,6 @@ wakeup
 wait
 stun
 step
-DR.
 skill_84104
 skill_82202
 skill_81201
@@ -11948,6 +11991,7 @@ wakeup
 wait
 stun
 step
+aDzL
 skill_6411901
 skill_64119
 skill_62201
@@ -11998,7 +12042,6 @@ wakeup
 wait
 stun
 step
-D.v
 skill_64111
 skill_62202
 %&'
@@ -12590,7 +12633,6 @@ wakeup
 wait
 stun
 step
-/Dd
 skill_64103
 skill_62101
 %&'
@@ -12738,7 +12780,6 @@ wakeup
 wait
 stun
 step
-aD&
 skill_6411901
 skill_64119
 skill_62201
@@ -13037,7 +13078,6 @@ wakeup
 wait
 stun
 step
-/DZ"
 skill_63131
 skill_62101
 %&'

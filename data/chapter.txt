@@ -42,7 +42,7 @@ Asuna's Birthday Quest
 Present
 Bonus Quest
 Present
-逆襲のダスティ・リーパー
+The Dusty Reaper Returns
 Equip Event
 Swash of the Camanideel Ape
 Equip Event
@@ -217,7 +217,6 @@ Event
 Event
 Bullet of Bullets
 Event
-戦場のとある1日～彼女たちのGGO～
 Event
 Asuna's Great Adventure
 Event

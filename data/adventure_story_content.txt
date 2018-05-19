@@ -1,147 +1,160 @@
-Tk{
-D9{
-d,{
-4	{
-p}z
-8	z
-8_y
-HPy
-0By
-(lx
-48x
-H$x
-0	x
-<,w
-8Zu
-<+u
-D[s
-TMr
-$eq
-D$q
-xmp
-lFo
-L,o
-<Rm
-THm
-T	m
-Hfl
-HAl
-0)l
-T_k
-4Ck
-Xhj
-p]j
-LQj
-Pbi
-Pkh
-lDf
-T7c
-Xlb
-Dab
-hWb
-4?b
-T0b
+D_{
+dR{
+D3{
+P1{
+4/{
+p.{
+(+{
+(){
+$'{
+T"{
+0!{
+8/z
+Hvy
+0hy
+HJx
+0/x
+<Rw
+d-w
+<Qu
+$2u
+D9t
+xEs
+L+s
+Tsr
+d	r
+DJq
+H<p
+D2p
+llo
+LRo
+0<o
+p'n
+<xm
+Tnm
+T/m
+T!m
+Hgl
+0Ol
+0?l
+4ik
+Lwj
+L&h
+00g
+ljf
+T]c
+x?c
+(5c
+8,c
+h}b
+4eb
+TVb
+TJb
+<1b
 T$b
-,ia
-("a
-P[_
-h1_
-(!_
-Ly]
-(H]
-, ]
-8j[
-PN[
-0YZ
-t?Z
-HgY
-T!Y
-0:W
-d[V
-,8V
-l9U
-<xT
-t1S
-TuR
-h	R
-lwQ
-,!Q
-tsP
-04P
-$eO
-(MN
-lBN
-0)N
-hfM
-dzL
-4dL
-tWL
-4%L
-DDK
-l1K
-LQJ
-(hI
-<	I
-HkH
-xRH
-t7H
-tHF
-L(F
-<BE
-p0D
-LoC
-0!B
-pcA
-DKA
-<'?
-Tg>
-x(>
-xD<
-$4<
-4}:
-DO9
-ta8
-DF8
-tH7
-$c6
-lT6
-XI5
-L95
-X(5
-p!4
-Tr3
-Ta3
-d<3
-(y1
-,41
-0t0
-hU0
-hP/
-4)/
-PY.
-$q-
-lK-
-(q,
-82,
-xs+
-td+
-t)+
-xu)
-d-)
-(!)
-4H(
-D2(
-tl'
-DV'
-te%
-$D%
-0r$
-(J$
-xp"
-HW"
-$!"
-Xk!
-hO 
+(Ha
+0:a
+<"a
+hW_
+(G_
+l._
+(n]
+,F]
+Pt[
+8+[
+teZ
+pAZ
+( Z
+TGY
+P.X
+H7W
+d&W
+8PV
+l_U
+0BU
+l'U
+tWS
+LIS
+L5S
+(<R
+h/R
+,GQ
+D(Q
+0ZP
+l:P
+l5O
+T	O
+(sN
+lhN
+0ON
+4)N
+$3M
+l M
+t}L
+4KL
+P3L
+D'L
+DjK
+lWK
+LwJ
+d4J
+</I
+xxH
+t]H
+D7H
+D(H
+tnF
+LNF
+<hE
+pVD
+8:D
+TEC
+L:C
+t.C
+0GB
+H1B
+DqA
+<M?
+xN>
+xj<
+$Z<
+l,<
+Du9
+Dl8
+tn7
+lz6
+Xo5
+L_5
+XN5
+pG4
+db3
+403
+Ta2
+,Z1
+h{0
+hv/
+<c/
+4O/
+lq-
+8X,
+tO+
+LD+
+8	+
+Xa)
+dS)
+(G)
+4n(
+DX(
+$-(
+XA'
+$j%
+(p$
+H}"
+$G"
+d5"
+L)!
+hu 
+l'	
 bg_11_starting_city
 As of November 7th at 2:55 PM,
 the game has been cleared.
@@ -170,6 +183,7 @@ still_14_kirito_revive
 RRRGH! HAAAAAH!
 Kirito
 2017110701_7_a
+Xis
 still_14_kirito_revive
 Huh?
 Heathcliff
@@ -230,7 +244,8 @@ Furthermore, she ends up in
 a Kabe-don situation.
 902200501_3_a
 Back in Tokyo,
-Karen was chased by a guy called Asougi Goushi.
+Karen was chased by a guy
+called Asougi Goushi.
 902200501_2_a
 bg_os_town_1
 During the spring break,
@@ -313,6 +328,230 @@ I'm a college student at a
 prestigious private school in Tokyo.
 902200101_1_a
 To be continued...
+902001301_61_a
+Die!
+Pitohui
+902001301_60_a
+Isn't obvious?
+Pitohui
+902001301_59_a
+And then what?
+902001301_58_a
+And it'll be all flashy and
+you can fight and fight
+and fight and fight and--!!
+Pitohui
+902001301_57_a
+You're invited too, of course!
+It's mandatory.
+Pitohui
+902001301_56_a
+Jeez...
+902001301_55_a
+Well, then I'll organize my OWN one!
+Any complaints?
+Pitohui
+902001301_54_a
+I doubt the writer would want
+to host this again.
+It costs money, too.
+902001301_53_a
+Uh...
+Nice as that would be,
+it's not that simple.
+902001301_52_a
+pXs
+They oughtta do a rerun
+of Squad Jam! Right?
+Pitohui
+902001301_51_a
+I'm so gonna make up
+for this next time!
+Pitohui
+902001301_50_a
+There's no use complaining
+about it now...
+902001301_49_a
+Why, cruel fate? Why couldn't I be
+there for such an inspiring
+display of bloodlust? WHYYY?!
+Pitohui
+902001301_48_a
+Aaah, LLENN was amazing!
+So amazing I wanna die!
+So amazing I wanna kill her!!
+Pitohui
+902001301_47_a
+And that's all for our battles
+in Squad Jam. Satisfied?
+902001301_46_a
+902001301_45_a
+Woohoo! Way to go, LLENN!
+Good hustle! That's my girl!
+Pitohui
+902001301_44_a
+It was the best strategy available,
+and it went well. Watch what
+LLENN does here: it's intense!
+902001301_43_a
+You had to make absolutely sure
+that you wouldn't die, huh.
+Pitohui
+902001301_42_a
+That's a surprisingly reckless
+strategy for you. Oh, I get it!
+You read my letter.
+Pitohui
+902001301_41_a
+...with a solo charge from LLENN
+to get them where we wanted
+them.
+902001301_40_a
+After recovering HP,
+we tried to blindside the enemy...
+902001301_39_a
+They were fearsome as Amazons.
+902001301_38_a
+They weren't.
+This was an all-female team
+called "SHINC."
+902001301_37_a
+902001301_36_a
+So who were the last men standing?
+Pitohui
+902001301_35_a
+Noooo!
+Not my poor widdle LLENN!
+Pitohui
+902001301_34_a
+No thanks. Anyway, there was
+just one team left, but we let
+our guard down.
+902001301_33_a
+And?
+What do you want, a pat on the
+back?
+Pitohui
+902001301_32_a
+We survived an hour.
+902001301_31_a
+Yeah! Good job, LLENN!
+Pitohui
+902001301_30_a
+...and took 'em out with sniper
+fire, huh? Pulling out all the
+fancy stops, I see.
+Pitohui
+902001301_29_a
+L3s
+Ooh, I heard rumors about this
+in town! You used that shield
+that hides bullet lines...
+Pitohui
+902001301_28_a
+They'd cleared out most of the
+north-west of the field by this
+point. Nothing to trifle with.
+902001301_27_a
+Pitohui
+902001301_26_a
+That left just three teams
+remaining. Our next opponents
+were a group called MMTM.
+902001301_25_a
+<	t
+Ha ha ha ha! Incredible!
+That's just the kind of LLENN
+antics I wanted to see!
+Pitohui
+902001301_24_a
+Ha ha ha ha ha! Of course
+this'd work! She's tiny! How
+genius!
+Pitohui
+902001301_23_a
+Pfftt... BWA HA HA HA HA HA!
+What the hell is that?!
+A SUITCASE?!
+Pitohui
+902001301_22_a
+See for yourself...
+902001301_21_a
+Ooo, intriguing...!
+How'd you do it?
+Pitohui
+902001301_20_a
+No. We had to defeat them in order
+to win, so we engaged.
+I'm happy to say our risk paid off.
+902001301_19_a
+That's the part where you
+bravely ran away again, I guess?
+Pitohui
+902001301_18_a
+The two of us found ourselves
+up against a pro team.
+902001301_17_a
+Pitohui
+902001301_16_a
+Here's the third scan. Just
+30 minutes into the battle,
+and only a few teams remained.
+902001301_15_a
+You're a bully. Anyway.
+902001301_14_a
+Ha ha ha ha ha!
+And that face she's making!
+Pitohui
+902001301_13_a
+lps
+Ha ha! Aww, look how adorable
+LLENN is here!
+Pitohui
+902001301_12_a
+We were captured by an aggressive
+all-machine gun team.
+Firepower junkies.
+902001301_11_a
+Here's the results of the first
+satellite scan at 14:10 hours.
+902001301_10_a
+<?s
+Yeesh.
+What a lousy spot.
+Pitohui
+902001301_9_a
+Pitohui
+902001301_8_a
+Very well. Team LM's start location
+was in a densely forested area.
+902001301_7_a
+But I want to know HOW it
+happened! Show me the play-by-play
+of LLENN's battle scenes!
+Pitohui
+902001301_6_a
+I'm sure you're already
+aware of the outcome...
+902001301_5_a
+Now, tell me everything I missed
+with Squad Jam! I'm SO
+bummed I couldn't participate!
+Pitohui
+902001301_4_a
+$Bs
+Of course we do!
+It's all about the ambience!
+Pitohui
+902001301_3_a
+Pitohui
+902001301_2_a
+bg_s2_08_pub
+Pito... We don't have to log in
+to GGO to have this conversation,
+you know.
+902001301_1_a
+To be continued...
 902000601_47_a
 ...It couldn't be her, could it?
 Karen
@@ -347,10 +586,10 @@ LLENN
 Ahaha!
 LLENN
 902000601_35_a
-(	s
 Damn straight!
 Eva
 902000601_34_a
+T	s
 902000601_33_a
 Looking for me?
 LLENN
@@ -363,7 +602,7 @@ We'll always be together!
 Whether we live or die!
 my darling P.
 902000601_30_a
-xAs
+0As
 Oh no! No, no, no, no!
 LLENN
 902000601_29_a
@@ -375,7 +614,7 @@ Don't run from the enemy!
 Go straight for them!
 my darling P.
 902000601_27_a
-l&t
+$&t
 item_event_p90
 That's right, LLENN! You
 finally get it!
@@ -394,13 +633,12 @@ That Bullet Line must've been
 a trap.
 LLENN
 902000601_22_a
-l<{
+$<{
 I-I got shot by a sniper... They
 didn't even make a sound.
 LLENN
 902000601_21_a
 902000601_20_a
-$4u
 But I'll be the one to kill her.
 Eva
 902000601_19_a
@@ -440,13 +678,11 @@ LLENN
 LLENN
 902000601_9_a
 902000601_8_a
-D$t
 You have no idea just how crazy
 Pitohui is!
 902000601_7_a
 Ahahaha, you don't know anything!
 902000601_6_a
-PJs
 ...Did you hit your head or
 something?
 LLENN
@@ -460,19 +696,17 @@ talking or I'll shoot you.
 LLENN
 902000601_3_a
 902000601_2_a
-D6}
 bg_s2_08_rocky_area
 Please don't shoot me!
 902000601_1_a
 To be continued...
 902000501_46_a
+8is
 Huh?!
 LLENN
 902000501_45_a
-0[w
 I'm sorry.
 902000501_44_a
-0 s
 M, what are you...?
 LLENN
 902000501_43_a
@@ -485,18 +719,19 @@ Oh... Things aren't going our
 way, huh...?
 LLENN
 902000501_40_a
-("s
+< s
 I can't guarantee we'd make it
 through alive.
 902000501_39_a
 No. We don't have enough fuel.
 902000501_38_a
+X!s
 Shouldn't we cut through the lake
 and swampland? That way they can't
 follow us in their vehicles.
 LLENN
 902000501_37_a
-x"s
+0"s
 What makes you say that?
 LLENN
 902000501_36_a
@@ -507,23 +742,24 @@ are a lucky girl, though.
 Ungh... I let my guard down...
 LLENN
 902000501_33_a
+4$s
 We're getting out of here!
 902000501_32_a
-x's
+0's
 H-Huh?!
 LLENN
 902000501_31_a
-p%s
+(%s
 D-Did I just get shot? By who? An
 enemy? A sniper? But I thought
 they were in the desert...
 LLENN
 902000501_30_a
-8&s
 Huh?!
 LLENN
 902000501_29_a
 902000501_27_a
+T's
 I hope so. Oh, looks like it's
 time for the next scan.
 902000501_26_a
@@ -533,9 +769,10 @@ actually beat the other team
 and win the gold medal!
 LLENN
 902000501_24_a
-dLu
+H)s
 The first two are down...
 902000501_23_a
+p+s
 (I couldn't even see that shielded
 guy's Bullet Line...)
 Lax
@@ -543,37 +780,36 @@ Lax
 Gah!
 Lax
 902000501_21_a
-$+s
 902000501_19_a
+4+s
 902000501_18_a
-t%}
+,%}
 How?!
 Lax
 902000501_17_a
+4,s
 Aaaaaaaaah!
 LLENN
 902000501_16_a
-H-s
 902000501_14_a
+X-s
 C'mon! Just try and shoot me!
 LLENN
 902000501_13_a
-x.s
+0.s
 902000501_12_a
 Sheesh, I am already!
 LLENN
 902000501_11_a
 Run around, LLENN!
 902000501_10_a
-P0s
 I'm a chicken at heart, so it's
 perfect for cowards like me.
 902000501_9_a
-p3s
+(3s
 Armor?
 LLENN
 902000501_8_a
-h1s
 No. It's armor. Watch...
 902000501_7_a
 Huh? What is that? Some kind of
@@ -584,40 +820,41 @@ LLENN
 bg_s2_08_rocky_area
 I'm gonna use this.
 902000501_4_a
-d3s
 Now it's down to three teams, huh?
 Spectator A
 902000501_3_a
+T5s
 Man, she's pretty good, taking
 advantage of Squad Jam's special
 rule like that.
 Spectator B
 902000501_2_a
+l4s
 bg_event_ggo_pub
 Is that the Pink Devil everyone's
 been talking about?
 Spectator B
 902000501_1_a
-x6s
+06s
 To be continued...
 902000401_45_a
-8?s
 The Squad Jam will now begin!
 Announcer
 902000401_44_a
-t7s
-Xzs
+,7s
 (Let's do our best, my darling P!)
 LLENN
 902000401_43_a
 Roger that!
 LLENN
 902000401_42_a
+48s
 Good. Let's do this.
 902000401_41_a
 R-Right... Got it...
 LLENN
 902000401_40_a
+49s
 (Who's this weirdo you teamed me
 up with?!)
 LLENN
@@ -625,9 +862,9 @@ LLENN
 But you need to stick them in the
 eyes, or slit their throat.
 902000401_38_a
+l:s
 LLENN
 902000401_37_a
-Dns
 bg_white
 Knives can kill in one strike in
 GGO.
@@ -636,13 +873,11 @@ It helps me forget all the bad
 stuff...
 Karen
 902000401_35_a
-D<s
 I love your music so much!
 Hearing you sing always
 makes me happy.
 Karen
 902000401_34_a
-0ps
 bg_karen_room
 Dear Ms. Elsa Kanzaki...
 This is my first ever fan
@@ -658,7 +893,6 @@ old M14. It fires 7.62mm rounds.
 An M14 EBR. EBR stands for
 Enhanced Battle Rifle.
 902000401_30_a
-h?s
 I've never seen one before. It's
 really big... What's it called?
 LLENN
@@ -667,24 +901,25 @@ bg_s2_08_rocky_area
 Whoa... That's your main weapon?
 LLENN
 902000401_28_a
-tJs
+,Js
 Pitohui
 902000401_27_a
 Sorry I'm late.
 902000401_26_a
+DAs
 It's a secret! Heh. Or a strategy.
 Pitohui
 902000401_25_a
+PDs
 So I ask again: why?
 LLENN
 902000401_24_a
-DDs
+XBs
 Relax, LLENN! And no, not at all.
 He's actually a pretty strong
 player.
 Pitohui
 902000401_23_a
-PCs
 Why? Is the person I'm teaming
 up with even weaker than me?
 LLENN
@@ -692,7 +927,7 @@ LLENN
 Captain? I'm the leader?
 LLENN
 902000401_21_a
-xDs
+0Ds
 LLENN
 902000401_20_a
 bg_s2_05_waiting_room
@@ -700,34 +935,33 @@ And those are the rules,
 Cap'n LLENN.
 Pitohui
 902000401_19_a
+<Es
 I'm gonna blow off some steam!
 Karen
 902000401_18_a
-09t
 bg_os_town_2
 ...Fine.
 Karen
 902000401_17_a
+XFs
 bg_s2_11_cave
 Let loose for once!
 Pitohui
 902000401_16_a
-DGs
 ...
 Karen
 902000401_15_a
-XIs
+lGs
 Yeah. She's just so...tall.
 ???
 902000401_14_a
-4Hs
 Really sticks out, doesn't she?
 ???
 902000401_13_a
+pHs
 Psst. Hey, look at her.
 ???
 902000401_12_a
-4Is
 bg_os_town_2
 Please let me get an Elsa Kanzaki
 ticket... Please, please, please...
@@ -741,26 +975,28 @@ LLENN
 Oh, come on!
 Pitohui
 902000401_8_a
+PKs
 Nope.
 LLENN
 902000401_7_a
+dMs
 You could never do this in real
 life! So, want to give it a try?!
 Pitohui
 902000401_6_a
+lLs
 bg_s2_11_cave
 In other words, you get to run
 around and shoot people!
 Bang bang! Awesome, right?!
 Pitohui
 902000401_5_a
-0Yt
+HMs
 It's a big battle royale
 competition in GGO where a
 bunch of small teams face off.
 Pitohui
 902000401_4_a
-PNs
 Ugh, nothing I wanna eat! I said
 SQUAD Jam! Not SQUID Jam!
 Pitohui
@@ -771,17 +1007,18 @@ bg_s2_08_pub
 Squid jam? Yuck, what's that?
 LLENN
 902000401_1_a
+8Ps
 To be continued...
 902000301_35_a
-4Qs
+dSs
 Hm? What's that?
 LLENN
 902000301_34_a
+hQs
 Hey, LLENN. You hear about the
 Squad Jam?
 Pitohui
 902000301_33_a
-LRs
 A fine answer.
 Pitohui
 902000301_32_a
@@ -790,20 +1027,21 @@ I-I'll do it! I really will!
 One day I'll beat you, Pito!
 LLENN
 902000301_31_a
-0_t
+HSs
 Hmm... That accent...
 Are you from Hokkaido?
 Pitohui
 902000301_30_a
-,Ts
 No way... Is this really a gun?
 It's so...cute! So amazingly cute!
 LLENN
 902000301_29_a
+8Vs
 The shop just got it in yesterday!
 Come here, check it out!
 Pitohui
 902000301_28_a
+8Us
 LLENN
 902000301_27_a_1
 bg_s2_04_market
@@ -815,7 +1053,6 @@ Hmm... Ahh, interesting...
 I can use this...
 LLENN
 902000301_26_a
-$Ws
 pant
 ... 
 pant
@@ -827,14 +1064,13 @@ LLENN
 bg_event_desert
 LLENN
 902000301_24_a
-LXs
 Alright! Time to level up!
 LLENN
 902000301_23_a
+4dt
 Nah, man, that's a dude.
 Player C
 902000301_22_a
-hYs
 She? Are we sure she's even
 a girl?
 Player B
@@ -845,14 +1081,12 @@ bg_s2_01_glocken
 She's cute...
 Player A
 902000301_20_a
-4wt
 TO SURVIVE!
 Drill Sergeant
 902000301_19_a
-l[s
+$[s
 Drill Sergeant
 902000301_18_a
-h]s
 Er... I wanted to be a cute
 little girl...
 LLENN
@@ -864,7 +1098,8 @@ Drill Sergeant
 M-Maggots?
 LLENN
 902000301_15_a
-t]s
+4]s
+,]s
 LLENN
 902000301_14_a_1
 bg_s2_02_underground
@@ -875,7 +1110,6 @@ bg_s2_01_glocken
 This is it!
 LLENN
 902000301_13_a
-X3t
 This is the 37th game now...
 Please, please, please be the
 one...
@@ -891,16 +1125,15 @@ bg_karen_room
 Too tall!
 Karen
 902000301_9_a
+Lmt
 Did something happen to you out in
 Tokyo? Come on, spill the beans!
 Miyu
 902000301_8_a
-Hds
 Why's a fancy Tokyo college girl
 like you interested in VR gaming?
 Miyu
 902000301_7_a
-Pcs
 bg_os_cafe
 Whoa, this is unexpected!
 Miyu
@@ -909,31 +1142,28 @@ Miyu
 Then, just maybe...
 Karen
 902000301_5_a
-Xes
+Hds
 sigh
 ... I wish I was short and
 cute like them...
 Karen
 902000301_4_a
-0es
 Got it!
 Girls
 902000301_3_a
-Hgs
 Meet up at 6 PM, girls,
 and don't be late!
 Girl
 902000301_2_a
-8fs
 bg_os_town_2
 It's been three months since
 I left my hometown in Hokkaido
 and came to Tokyo for college...
 Karen
 902000301_1_a
+lgs
 To be continued...
 902000201_35_a
-dhs
 I am... It's embarrassing, though,
 so can we stop talking about it
 already?
@@ -947,7 +1177,6 @@ would've imagined that you
 were LLENN, Karen.
 ???
 902000201_32_a
-<js
 All units...
 OPEN FIRE!!
 Leader
@@ -955,21 +1184,20 @@ Leader
 ...
 Leader
 902000201_30_a
-4ks
 Reporting in. I checked a dozen
 times. No holes.
 Pro Team Soldier C
 902000201_29_a
+8ms
 There's, of course, nothing in it.
 No holes in the ground either.
 Pro Team Soldier B
 902000201_28_a
-8ns
+Lls
 A shopping cart too. A big one,
 looks foreign made.
 Pro Team Soldier B
 902000201_27_a
-<ms
 Two fallen tree trunks, small.
 One travel suitcase. One empty
 can... No, three.
@@ -980,17 +1208,16 @@ One car tire on its side,
 wheel still inside.
 Pro Team Soldier A
 902000201_25_a
-txs
+,xs
 902000201_24_a
 Sure! I'll do it, whatever it is!
 Tell me the plan!
 LLENN
 902000201_23_a
-Xqs
+los
 But I need someone small, quick,
 and agile. That's you, LLENN.
 902000201_22_a
-Xps
 Really?!
 LLENN
 902000201_21_a
@@ -1002,12 +1229,14 @@ we have a chance.
 Fantastic. Let's gamble on that.
 ...I just checked the latest scan.
 902000201_19_a
+Trs
 (I hope?)
 LLENN
 902000201_18_a
 I'm a lucky girl!
 LLENN
 902000201_17_a_1
+Tss
 Uh...maybe? I guess, yeah?
 LLENN
 902000201_17_a
@@ -1030,6 +1259,7 @@ There's another gun too.
 Automatic. Sounds light.
 Probably a 5.56mm FN Minimi.
 902000201_11_a
+hws
 Sounds like a 7.62mm general
 purpose machine gun. Likely
 an FN MAG.
@@ -1047,7 +1277,6 @@ LLENN
 Phew...
 LLENN
 902000201_6_a
-8{s
 LLENN
 902000201_5_a_1
 bg_11_forest_yui
@@ -1060,7 +1289,6 @@ Audience
 Woo!
 Audience
 902000201_3_a
-d}s
 Squad Jam, the team battle
 royale extravaganza, will begin
 at 2 PM today.
@@ -1392,6 +1620,7 @@ Fukaziroh
 409501101_9_a
 Fukaziroh
 409501101_8_a
+<ox
 I think we've defeated just about
 every monster horde in this
 forest by now.
@@ -1559,7 +1788,7 @@ LLENN
 Huh?
 Fukaziroh
 409500901_29_a
-PBt
+TBt
 Maybe... Hehe, but it's strange.
 Who ever heard of having to grind
 to go grinding?
@@ -1622,6 +1851,7 @@ LLENN
 RAAAAWWWRRR!
 Monster
 409500901_13_a
+T"t
 It's the Sylph in me. I can't help
 but be a leaf on the wind!
 Fukaziroh
@@ -1751,6 +1981,7 @@ Well, the deal automatically goes
 through as long as you offer
 something of appropriate value.
 409500701_28_a
+t0t
 Hmph, they aren't even trying
 to hide their greed!
 Pitohui
@@ -1782,7 +2013,6 @@ That's all fine and dandy, but you
 do realize the chances of you
 actually finding an item...
 409500701_20_a
-t w
 And this way, we don't have to
 find an item shop. Once you buy an
 auction item, poof! There it is.
@@ -1808,7 +2038,7 @@ And do not say "go back," because
 I am NOT losing all this progress.
 Pitohui
 409500701_14_a
-Xmt
+lmt
 >eN
 You are such a pain in the ass
 sometimes, you know that?
@@ -1860,10 +2090,11 @@ a baddie out there with our
 names on it!
 Pitohui
 409500601_16_a
-40t
+H0t
 Of course. We have work that
 needs doing.
 409500601_15_a
+4wt
 What, you mean with hunting
 monsters?
 Pitohui
@@ -1878,6 +2109,7 @@ We just can't risk anyone finding
 out about our strategy and leaking
 it to the Squad Jam participants.
 409500601_11_a
+T3t
 I'm sure it is.
 409500601_10_a
 So the whole reason I'm fighting
@@ -1934,7 +2166,7 @@ U{h
 Exactly!
 LLENN
 409500501_25_a
-P<t
+d<t
 U{h
 So by not picking what you want,
 you actually end up getting an item
@@ -1959,7 +2191,6 @@ stuff of equal rank, and those
 ranks are based on rarity...
 LLENN
 409500501_21_a
-p?t
 U{h
 Hehe, that's for celebrating after
 the tournament!
@@ -2053,7 +2284,7 @@ U{h
 LLENN
 409500501_2_a
 U{h
-bg_s2_01_glocken
+bg_s2_04_market
 Welcome!
 NPC Shopkeeper
 409500501_1_a
@@ -2070,7 +2301,6 @@ Who cares! Let's sell 'em and
 treat ourselves to a feast!
 Fukaziroh
 409500401_30_a
-tat
 Although, we've already got
 plenty of cash...
 LLENN
@@ -2083,22 +2313,20 @@ in and of themselves. We might
 make a killing selling them.
 LLENN
 409500401_27_a
-8Pt
+HPt
 Then these diving suits are
 totally useless!
 Fukaziroh
 409500401_26_a
-(!t
+8!t
 Something like that.
 LLENN
 409500401_25_a
-t"t
 Like a secret update that lowered
 the chances of getting a rare item
 to basically zero?
 Fukaziroh
 409500401_24_a
-t"t
 The story got enough traction,
 they probably fixed the items
 that drop in this area.
@@ -2113,13 +2341,13 @@ Huh? Is GGO getting that
 saturated?
 Fukaziroh
 409500401_21_a
+$'t
 Rumors about rare items
 hidden in dungeons tend
 to spread like wildfire.
 LLENN
 409500401_20_a
-P%t
-4ht
+Dht
 W-Well, stuff like this happens
 sometimes.
 LLENN
@@ -2144,6 +2372,7 @@ It looks almost like Pito's
 outfit...
 LLENN
 409500401_14_a
+,)t
 I just don't get why clothes in
 games and anime are always
 designed so skin tight...
@@ -2159,12 +2388,13 @@ doesn't look like it leaves much
 to the imagination...
 LLENN
 409500401_11_a
-d+t
+t+t
 There might be even rarer items
 waiting for us at the bottom!
 Let's do it!
 Fukaziroh
 409500401_10_a
+,,t
 You know, I bet you're right!
 Maybe we're supposed to put
 it on and dive into the lake?
@@ -2173,12 +2403,12 @@ LLENN
 Oh! I bet it's a diving suit!
 Fukaziroh
 409500401_8_a
-p-t
 Seriously... I've never seen
 anything like it. Wonder what
 it's for...
 LLENN
 409500401_7_a
+0.t
 What in the world...? How's anyone
 supposed to squeeze into this
 outfit?
@@ -2198,17 +2428,17 @@ LLENN
 GRAAAAAWWWGGHHH!
 Monster
 409500401_2_a
-p1t
 bg_event_limestone_cave
 Take THIS!
 Fukaziroh
 409500401_1_a
-x2t
-(bt
+,2t
+8bt
 Just like we practiced earlier,
 got it! Let's do this!
 Fukaziroh
 409500301_20_a
+03t
 Right! I'll keep it distracted
 you go in for the kill!
 LLENN
@@ -2217,36 +2447,36 @@ Lucky for us, but not for it!
 C'mon, before it gets away!
 Fukaziroh
 409500301_18_a
-l4t
 That's the one we're after! The
 one that drops rare items!
 LLENN
 409500301_17_a
+$5t
 Graaaauuugh!
 Monster
 409500301_16_a
+ljw
 Oh, whoa! Get a load of that
 monster, LLENN!
 Fukaziroh
 409500301_15_a
-86t
+H6t
 Hahaha, tell me about it.
 LLENN
 409500301_14_a
-d8t
+t8t
 Speaking of which, this place
 could do with a little less
 doom and gloom, am I right?
 Fukaziroh
 409500301_13_a
-L8t
 Ha ha, well, that took a hell of
 an awkward turn. But better that
 than down in the dumps, I say!
 Fukaziroh
 409500301_12_a
-X8t
-<{t
+h8t
+L{t
 Oh... Um, thanks...
 LLENN
 409500301_11_a
@@ -2263,7 +2493,6 @@ situations like this in the first
 place.
 Fukaziroh
 409500301_8_a
-tjt
 Ha ha, that's not what I meant!
 Oh LLENN, ever the people-pleaser.
 Fukaziroh
@@ -2272,11 +2501,12 @@ I knew it. You miss ALO,
 don't you, Fuka...?
 LLENN
 409500301_6_a
+$<t
 I feel like I'm back where
 I belong.
 Fukaziroh
 409500301_5_a
-Xlt
+hlt
 Oh, how pretty! This is
 really fantastic!
 Fukaziroh
@@ -2291,11 +2521,12 @@ Whoaaa!
 Fukaziroh
 409500301_1_a
 )zh
+0?t
 )zh
 Onward!
 LLENN
 409500201_23_a
-Dot
+Tot
 )zh
 Well, guess we won't know unless
 we keep going.
@@ -2310,7 +2541,7 @@ Wait, like...you think there could
 be a hidden area or something?
 Fukaziroh
 409500201_20_a
-hAt
+xAt
 )zh
 But something tells me that's
 not quite right.
@@ -2321,30 +2552,28 @@ Um... Well, the map says this is
 the lowest level...
 LLENN
 409500201_18_a
-lCt
 )zh
 How much dungeon is even IN here?
 Fukaziroh
 409500201_17_a
-8Ct
+HCt
 )zh
 Mm-hm, yep. So, ready to keep
 going?
 LLENN
 409500201_16_a
-pEt
 )zh
 We'd never be able to experience
 something so miraculous in real
 life, not in a million years!
 Fukaziroh
 409500201_15_a
+pEt
 )zh
 Like the heart-pounding thrill of
 fighting in the virtual world.
 Fukaziroh
 409500201_14_a
-LEt
 )zh
 We're lucky enough to have a great
 patron, but there are some things
@@ -2356,29 +2585,31 @@ Well, yeah. I wanted to stock up
 on whatever we could find.
 LLENN
 409500201_12_a
-hvt
+xvt
 )zh
 Hmmm, just armor?
 No consumables?
 Fukaziroh
 409500201_11_a
-LGt
 )zh
 That's what I was hoping we'd find
 for you here.
 LLENN
 409500201_10_a
+pJt
 )zh
 Not at all, little fairy! Weapons
 are nice and all, but you need
 armor too.
 LLENN
 409500201_9_a
+PJt
 )zh
 Was that your plan all along?
 Get me a new weapon, hmm?
 Fukaziroh
 409500201_8_a
+PIt
 )zh
 Hold on, you Pink Devil, I seem to
 recall you were pretty excited
@@ -2391,6 +2622,7 @@ with you, I don't have to worry
 since you can lead the charge...
 Fukaziroh
 409500201_6_a
+lMt
 )zh
 They're definitely not good for
 solo players.
@@ -2402,7 +2634,7 @@ punch, but they're not without
 their risks.
 LLENN
 409500201_4_a
-4Lt
+DLt
 )zh
 Huh, okay... Weird, though. Trying
 it out again really drives home
@@ -2412,13 +2644,13 @@ Fukaziroh
 )zh
 Fukaziroh
 409500201_2_a
-xvt
 )zh
 bg_s2_02_underground
 You might wanna get
 back a bit more, Fuka.
 LLENN
 409500201_1_a
+(Nt
 Wait! Fuka, wrong way!
 LLENN
 409500101_24_a
@@ -2427,26 +2659,24 @@ about it! Come on: we've got
 a dungeon to crawl!
 Fukaziroh
 409500101_23_a
-HRt
+XRt
 A-Are you saying I'm...some sort
 of flower? Or bug?
 LLENN
 409500101_22_a
-lPt
-4Qt
+DQt
 Nothing! Just, as your OLD friend,
 it's a little bittersweet to watch
 you bloom into a social butterfly.
 Fukaziroh
 409500101_21_a
-HQt
+XQt
 Wh-What?
 LLENN
 409500101_20_a
 Ooh, your NEW friends, huh?
 Fukaziroh
 409500101_19_a
-LRt
 That's what my friends told me,
 anyway.
 LLENN
@@ -2456,10 +2686,12 @@ can get some pretty rare item
 drops there to boot.
 LLENN
 409500101_17_a
+PUt
 That's a good place for beginners
 to go fight, right?
 Fukaziroh
 409500101_16_a
+PTt
 The two of us have got to be solid
 for this next dungeon!
 LLENN
@@ -2468,18 +2700,17 @@ Yeah. That's the whole reason
 I roped you into coming...
 LLENN
 409500101_14_a
-TVt
+dVt
 It's too important to lose,
 after all.
 Fukaziroh
 409500101_13_a
-$Vt
+4Vt
 Oh, but I'm totally gonna take
 this battle seriously.
 Fukaziroh
 409500101_12_a
-lXt
-Karen--I mean, LLENN--all I wanna
+LLENN--all I wanna
 do is hang out with you in VR
 and have fun forever and ever!
 Fukaziroh
