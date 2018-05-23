@@ -772,6 +772,11 @@ The Watermelon Snapping Hot
 Defeat All Enemies
 Quest
 bg_thumbnail_2028
+Quest 2018
+Yuuki's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
 Quest 1
 Yuuki's Birthday Quest
 Defeat All Enemies
@@ -2979,6 +2984,34 @@ Quest
 bg_thumbnail_2018
 Quest 1
 Return of the Storm Wyrm (Int.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 5
+SAO Game 5th Anniversary Special (Master +1)
+<9k
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 4
+SAO Game 5th Anniversary Special (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 3
+SAO Game 5th Anniversary Special (EX)
+:9k
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 2
+SAO Game 5th Anniversary Special (Expert)
+99k
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 1
+SAO Game 5th Anniversary Special (Int.)
 U5k
 Defeat All Enemies
 Quest
@@ -13876,25 +13909,51 @@ Story
 bg_thumbnail_0
 Story 1
 Cooking to Survive
-The Bivrost Gullinkambi is the giant bird floating down from the sky. Blow up the fire of its appearance and defeat it!
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4
+Queen of Chef (Master +1)
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
 Quest 4
 Queen of Chef (Master)
-The Bivrost Gullinkambi is the giant bird floating down from the sky. Blow up the fire of its appearance and defeat it!
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
 Quest 3
 Queen of Chef (EX)
-The Bivrost Gullinkambi is the giant bird floating down from the sky. Blow up the fire of its appearance and defeat it!
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
 Quest 2
 Queen of Chef (Expert)
-The Bivrost Gullinkambi is the giant bird floating down from the sky. Blow up the fire of its appearance and defeat it!
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
@@ -16878,6 +16937,11 @@ The Watermelon Snapping Hot
 Defeat All Enemies
 Quest
 bg_thumbnail_2028
+Quest 2018
+Yuuki's Birthday Quest
+Defeat All Enemies
+Quest
+bg_thumbnail_2028
 Quest 1
 Yuuki's Birthday Quest
 Defeat All Enemies
@@ -19085,6 +19149,34 @@ Quest
 bg_thumbnail_2018
 Quest 1
 Return of the Storm Wyrm (Int.)
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 5
+SAO Game 5th Anniversary Special (Master +1)
+<9k
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 4
+SAO Game 5th Anniversary Special (Master)
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 3
+SAO Game 5th Anniversary Special (EX)
+:9k
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 2
+SAO Game 5th Anniversary Special (Expert)
+99k
+Defeat All Enemies
+Quest
+bg_thumbnail_2023
+Quest 1
+SAO Game 5th Anniversary Special (Int.)
 U5k
 Defeat All Enemies
 Quest
@@ -29982,25 +30074,51 @@ Story
 bg_thumbnail_0
 Story 1
 Cooking to Survive
-The Bivrost Gullinkambi is the giant bird floating down from the sky. Blow up the fire of its appearance and defeat it!
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
+Defeat All Enemies
+Quest
+bg_thumbnail_8019
+Quest 4
+Queen of Chef (Master +1)
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
 Quest 4
 Queen of Chef (Master)
-The Bivrost Gullinkambi is the giant bird floating down from the sky. Blow up the fire of its appearance and defeat it!
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
 Quest 3
 Queen of Chef (EX)
-The Bivrost Gullinkambi is the giant bird floating down from the sky. Blow up the fire of its appearance and defeat it!
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
 Defeat All Enemies
 Quest
 bg_thumbnail_8019
 Quest 2
 Queen of Chef (Expert)
-The Bivrost Gullinkambi is the giant bird floating down from the sky. Blow up the fire of its appearance and defeat it!
+The Bivrost Gullinkambi swoops down
+from the sky. 
+Flame of Time appears during a 
+battle with the giant bird.
+Defeat them all together!
 Defeat All Enemies
 Quest
 bg_thumbnail_8019

@@ -34,6 +34,8 @@ Attack of party members (Dark-elem.) increases by 10% when you are a leader.
 P-Members' (Dark-elem.)Atk+10%(P-Leader)
 Attack of party members (Dark-elem.) increases by 6% when you are a leader.
 P-Members' (Dark-elem.)Atk+6%(P-Leader)
+Attack of party members (Holy-elem.) increases by 10% when you are a leader.
+P-Members' (Holy-elem.)Atk+10%(P-Leader)
 Attack of party members (Wind-elem.) increases by 10% when you are a leader.
 P-Members' (Wind-elem.)Atk+10%(P-Leader)
 Attack of party members (Wind-elem.) increases by 6% when you are a leader.
@@ -76,6 +78,10 @@ Restores 5 MP per 5 seconds during standby.
 Auto-Recover (Standby)
 Increases attack by 10% to debuffed enemies.
 Attack +10% (vs debuffed enemies)
+Increases EXP by 5% as you clear the quest.
+EXP +5% (Quest cleared)
+Increases EXP by 10% as you clear the quest.
+EXP +10% (Quest cleared)
 Increases Col by 5% as you clear the quest.
 Col +5% (Quest cleared)
 Increases Col by 10% as you clear the quest.
@@ -134,6 +140,8 @@ Increases attack by 3% when equipped by Lisbeth.
 Attack +3% (Lisbeth)
 Increases attack by 10% when equipped by Yuuki.
 Attack +10% (Yuuki)
+Increases attack by 3% when equipped by Yuuki.
+Attack +3% (Yuuki)
 Increases attack by 3% when equipped by Silica.
 Attack +3% (Silica)
 Increases attack by 10% when equipped by Sinon.

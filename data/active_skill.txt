@@ -110,6 +110,10 @@ Strike the ground and make an explosion giving successive hits. Increase your at
 Augmented Smash+
 Augmented Smash+
 skill_icon_mace_3_{}
+Swinging a mace around and attack with boiling soup. At the same time, it recovers all the party members' HP and increases their defense.
+Chef's Special+
+Chef's Special+
+skill_icon_mace_3_{}
 Wrapping your club in water and swing it. Increase your speed and cause a massive tidal wave twice.
 Surging Tide+
 Surging Tide+
@@ -212,6 +216,10 @@ skill_icon_finesword_3_{}
 Blow up with a large fan. It restores your HP and reduces damage received for a while.
 Amatsukaze+
 Amatsukaze+
+skill_icon_finesword_3_{}
+A skill that activates attack-invalidating barrier, and performs a spinning slash, then smashes a beach ball onto enemies.
+Sonic Spike+
+Sonic Spike+
 skill_icon_finesword_3_{}
 After throwing a syringe, attack and fire a fatal shot. Decreases defense and attack of enemies.
 Love Injection+
@@ -1396,7 +1404,7 @@ A Sword Skill that wraps enemies in electricity.
 Rage Vortex
 Rage Vortex
 skill_icon_mace_3_{}
-Attacks with boiling soup, and replenishes HP.
+Attacks with boiling soup, and replenishes HP and increases defense.
 Chef's Special
 Chef's Special
 skill_icon_mace_3_{}
@@ -2088,6 +2096,10 @@ skill_icon_dagger_1_{}
 Rush forward with a dagger, then slash upwards in a gouging motion.
 Rapid Bite
 Rapid Bite
+skill_icon_finesword_3_{}
+A combination skill. In her cute costume, performs a 11-hit combo which was invented by the strongest sword master in ALO. Increases your speed and recovers your combination starter's MP. 
+Mother's Rosario
+Mother's Rosario
 skill_icon_finesword_3_{}
 A combination skill. It releases an instantaneous final blow by performing a spin attack. Increases your speed and restores your combination starter's MP. 
 Rusty Dance
@@ -3094,6 +3106,10 @@ skill_icon_sword_1_{}
 A basic skill for a one-handed sword. Rush forward, thrusting your sword.
 Rage Spike
 Rage Spike
+skill_icon_sword_3_{}
+A combination skill. The hero in his elegant costume performs a 16-hit combo which is reminiscent of his fierce fights in SAO . Increases your speed and recovers your combination starter's MP. 
+Virtualize Acceleration
+Virtualize Acceleration
 skill_icon_sword_3_{}
 A combination skill. Slash through an enemy's back with an tornado. It creates a trap zone.
 Rapid Fall Down

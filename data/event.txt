@@ -165,6 +165,10 @@ Summer Campaign Present Quest
 images/event/9011/9011_top.png
 images/event/9011/9011_banner.png
 images/event/9011/9011_banner.png
+Yuuki's Birthday Quest 2018
+images/event/9011/9011_top.png
+images/event/9011/9011_banner.png
+images/event/9011/9011_banner.png
 Yuuki's Birthday Quest!
 images/event/9010/9010_top.png
 images/event/9010/9010_banner.png
@@ -502,6 +506,10 @@ images/event/8006/8006_top_1.png
 images/event/8006/8006_banner_1.png
 images/event/8006/8006_banner_1.png
 Return of the Storm Wyrm
+images/event/7027/7027_top.png
+images/event/7027/7027_banner.png
+images/event/7027/7027_banner.png
+[SAO Game 5th Anniversary] Kirito & Asuna
 images/event/7026/7026_top.png
 images/event/7026/7026_banner.png
 images/event/7026/7026_banner.png

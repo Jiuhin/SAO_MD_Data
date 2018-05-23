@@ -91,6 +91,12 @@ Emergency Heal (HP&MP) Lv.2
 slot_skill_icon_reseve_healing_hp_mp
 Restores 600 HP & 5 MP per 10 seconds during standby.
 Emergency Heal (HP&MP) Lv.1
+slot_skill_icon_skill_damage
+Increases skill damage by 10% vs Dark-elem. enemies.
+Skill Damage Up (vs. Dark) Lv. 2
+slot_skill_icon_skill_damage
+Increases skill damage by 5% vs Dark-elem. enemies.
+Skill Damage Up (vs. Dark) Lv. 1
 <4-
 slot_skill_icon_skill_damage
 Increases skill damage by 10% vs Fire-elem. enemies.
@@ -794,6 +800,9 @@ Battle Skill 1 Transform Lv. 1
 slot_skill_icon_ls_enhance
 Transforms Leader Skill. Attack of Dark-elem. (in party) increases by 10% when you are a party leader.
 Leader Skill Transform Lv. 1
+slot_skill_icon_ls_enhance
+Transforms Leader Skill. Attack of Holy-elem. (in party) increases by 10% when you are a party leader.
+Leader Skill Transform Lv. 1
 ML-
 ML-
 slot_skill_icon_ls_enhance
@@ -1136,6 +1145,9 @@ slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Enhance the effect of your increased attack.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_5
+Enhances SS3. Restores all party members' HP and increases their defense. 
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_5
 Enhances Sword Skill 3. Enhance the effect of your increased speed.
 Sword Skill 3 Enhance Lv. 1
 }S%
@@ -1219,6 +1231,9 @@ Enhances Sword Skill 3. Reduces incoming damage for a certain amount of time.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances SS3. Creates a tornado on both sides of you.
+Sword Skill 3 Enhance Lv. 1
+slot_skill_icon_ss_enhance_3_3
+Enhances Sword Skill 3. Increase the number of HIT. Becomes powerful.
 Sword Skill 3 Enhance Lv. 1
 slot_skill_icon_ss_enhance_3_3
 Enhances Sword Skill 3. Decrease enemies' defense greatly.
@@ -1425,6 +1440,44 @@ Battle Skill 3 Transform Lv. 2
 slot_skill_icon_bs_change
 Transforms Battle Skill 3. Increases attack by 15%
 Battle Skill 3 Transform Lv. 1
+VEk
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 5 secs.
+Combo Window Up Lv. 2
+UEk
+slot_skill_icon_combo_time
+Increases Window to continue a combo by 3 secs.
+Combo Window Up Lv. 1
+slot_skill_icon_job_5
+Raises attack and crit. rate by 500
+Mace Skill Lv. 10
+slot_skill_icon_job_5
+Raises attack and crit. rate by 450
+Mace Skill Lv. 9
+slot_skill_icon_job_5
+Raises attack and crit. rate by 400
+Mace Skill Lv. 8
+slot_skill_icon_job_5
+Raises attack and crit. rate by 350
+Mace Skill Lv. 7
+slot_skill_icon_job_5
+Raises attack and crit. rate by 300
+Mace Skill Lv. 6
+slot_skill_icon_job_5
+Raises attack and crit. rate by 250
+Mace Skill Lv. 5
+slot_skill_icon_job_5
+Raises attack and crit. rate by 200
+Mace Skill Lv. 4
+slot_skill_icon_job_5
+Raises attack and crit. rate by 150
+Mace Skill Lv. 3
+slot_skill_icon_job_5
+Raises attack and crit. rate by 100
+Mace Skill Lv. 2
+slot_skill_icon_job_5
+Raises attack and crit. rate by 50
+Mace Skill Lv. 1
 VEk
 slot_skill_icon_combo_time
 Increases Window to continue a combo by 5 secs.
@@ -1698,6 +1751,12 @@ Dark Magic Skill Lv. 2
 slot_skill_icon_job_8
 Raises attack and crit. rate by 50
 Dark Magic Skill Lv. 1
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 10%
+Battle Skill 2 Transform Lv. 2
+slot_skill_icon_bs_change
+Transforms Battle Skill 2. Increases attack by 8%
+Battle Skill 2 Transform Lv. 2
 <4-
 slot_skill_icon_bs_change
 Transforms Battle Skill 2. Increases attack by 10%

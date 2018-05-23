@@ -173,6 +173,8 @@ Complete all the 30 kinds of "All Star Quest" with an S rank.
 Complete all the 30 kinds of "All Star Quest".
 9013001
 Complete "Sinon's Birthday Quest".
+9011002
+Complete "Yuuki's Birthday Quest 2018".
 9011001
 Complete "Yuuki's Birthday Quest".
 9010002
@@ -2851,8 +2853,20 @@ Earn a score of 800,000 in the "OS Episode 0" Raning event.
 Earn a score of 1,200,000 in the "OS Episode 0" Raning event.
 4027009
 Complete "Samurai Soul".
+402201,50000
+Earn 50,000 EP in the "Queen of Chef" event.
+402201,40000
+Earn 40,000 EP in the "Queen of Chef" event.
+2080136-2080306,50
+Defeat 50 of The Gullinkambi from "Queen of Chef (Master/Master +1)" in the guild. 
+4022008,2,45
+Complete "Queen of Chef (Master +1)" in under 45 sec.
+4022008
+Complete "Queen of Chef (Master +1)".
+4022007,2
+Complete "Queen of Chef (Master)" without down.
 4022007
-Complete "Queen of Chef (Master)
+Complete "Queen of Chef (Master)"
 /S"
 4020010
 Complete "Closing Party".

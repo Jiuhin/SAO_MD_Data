@@ -812,6 +812,11 @@ Summer Girl Record Crystal
 item_m_record_crystal_emerald
 You can attain in "YUKATA Night" Scout
 Yukata Night Record Crystal
+item_m_evolution_20019
+Upgrades character
+([Queen of Chef] Rechka only) 
+Rarity: High
+Cookware Upgrade Crystal
 item_m_evolution_20017
 Upgrades character
 ([Little Gunner] Fukaziroh only) 
